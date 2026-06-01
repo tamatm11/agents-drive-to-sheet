@@ -1,0 +1,49 @@
+{
+  "teacherId": "1Um-vXqr6Y-oq92OF7i87l-O3jYRU5Rbj",
+  "tabs": {
+    "1k7JzDxxTcdIP3by4710TQ80ZgMi57ylT": {
+      "tabName": "TDPX2027 BẢN CHẤT",
+      "renderedAt": "2026-05-31T04:06:09.119Z",
+      "checksum": "1k7JzDxxTcdIP3by4710TQ80ZgMi57ylT|2026-04-19T23:14:47.677Z|0",
+      "lessons": [],
+      "rendererVersion": "4.3.1",
+      "styleVersion": "2026-05-31-student-banner-no-meta-v2",
+      "runId": "no-meta-sync-2026-05-31-104541",
+      "spreadsheetId": "1P5DzynMwll3psUHCKanf3bbB44rlioX-zTeo0O1UTAI",
+      "stats": {
+        "leafCount": 0,
+        "totalVideos": 0
+      }
+    },
+    "1VCbjwH_LMGatwZVWrz4w3srAiICT8lK_": {
+      "tabName": "TDPY2027 NÂNG CAO",
+      "renderedAt": "2026-05-31T04:06:16.145Z",
+      "checksum": "1VCbjwH_LMGatwZVWrz4w3srAiICT8lK_|2026-04-19T23:14:47.102Z|0",
+      "lessons": [],
+      "rendererVersion": "4.3.1",
+      "styleVersion": "2026-05-31-student-banner-no-meta-v2",
+      "runId": "no-meta-sync-2026-05-31-104541",
+      "spreadsheetId": "1P5DzynMwll3psUHCKanf3bbB44rlioX-zTeo0O1UTAI",
+      "stats": {
+        "leafCount": 0,
+        "totalVideos": 0
+      }
+    },
+    "1n4K6-VruAlHCLEDvb0OKE2xbFxLjmxJ6": {
+      "tabName": "TDPZ2027 TINH HOA",
+      "renderedAt": "2026-05-31T04:06:23.114Z",
+      "checksum": "1n4K6-VruAlHCLEDvb0OKE2xbFxLjmxJ6|2026-04-19T23:14:46.420Z|0",
+      "lessons": [],
+      "rendererVersion": "4.3.1",
+      "styleVersion": "2026-05-31-student-banner-no-meta-v2",
+      "runId": "no-meta-sync-2026-05-31-104541",
+      "spreadsheetId": "1P5DzynMwll3psUHCKanf3bbB44rlioX-zTeo0O1UTAI",
+      "stats": {
+        "leafCount": 0,
+        "totalVideos": 0
+      }
+    }
+  },
+  "updatedAt": "2026-05-31T04:06:23.115Z",
+  "version": 2
+}

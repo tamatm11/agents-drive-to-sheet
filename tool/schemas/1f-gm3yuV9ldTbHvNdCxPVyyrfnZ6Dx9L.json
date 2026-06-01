@@ -1,0 +1,79 @@
+{
+  "updatedAt": "2026-05-28T12:18:35.707Z",
+  "teacher": {
+    "id": "1f-gm3yuV9ldTbHvNdCxPVyyrfnZ6Dx9L",
+    "name": "1. SỬ CÔ NGUYỄN HƯƠNG SEN SANGSANG 2K9 "
+  },
+  "schema": {
+    "levels": [
+      {
+        "depth": 0,
+        "label": "Chương / Chuyên đề",
+        "icon": "📖",
+        "bold": true,
+        "bg": "#FCE5C0",
+        "namePatternHint": "Cấp 1: vd '1. CHỦ ĐỀ 1: THẾ GIỚI TRONG VÀ SAU CHIẾN TRAN', '2. CHỦ ĐỀ 2: ASEAN: NHỮNG CHẶNG ĐƯỜNG LỊCH SỬ', '3. CHỦ ĐỀ 3: VIỆT NAM 1945-1975\t\t\t'"
+      }
+    ],
+    "leafFallback": {
+      "label": "Bài",
+      "icon": "📂",
+      "bold": true,
+      "bg": "#FCF1D4",
+      "note": "Một số khóa file nằm cấp nông hơn — render thẳng như leaf bài học."
+    },
+    "courseRow": {
+      "icon": "📚",
+      "bold": true,
+      "fontSize": 12,
+      "bg": "#D4E5FA"
+    },
+    "videoRow": {
+      "icon": "▸",
+      "indent": "extra-from-leaf"
+    },
+    "notes": "Auto-detect (1 cấp). 1/4 khóa có cấu trúc. Pattern: flat. Skip 2 folder meta. Chưa có file (chỉ folder rỗng) — schema dựa trên depth folder."
+  },
+  "_meta": {
+    "source": "auto-detect",
+    "version": 1,
+    "generated_at": "2026-05-28T12:18:35.707Z",
+    "confidence": "high",
+    "dominant_depth": 1,
+    "dominant_share": 1,
+    "patterns_observed": [
+      "flat"
+    ],
+    "meta_courses_skipped": [
+      "0. INFO THÔNG TIN VÀ HƯỚNG DẪN KHOÁ HỌC",
+      "Z. EBOOK SÁCH KÈM KHOÁ HỌC"
+    ],
+    "course_breakdown": [
+      {
+        "name": "1. LÝ THUYẾT NỀN TẢNG LỊCH SỬ 12 2k9",
+        "structure_depth": 1,
+        "pattern": "flat",
+        "files": 0
+      },
+      {
+        "name": "2. LIVE C - Luyện Thi Chuyên Đề - Sử 12 2K9 - NHS",
+        "structure_depth": 0,
+        "pattern": "empty",
+        "files": 0
+      },
+      {
+        "name": "3. LIVE T - Luyện đề - Lịch sử 12 2K9 - NHS",
+        "structure_depth": 0,
+        "pattern": "empty",
+        "files": 0
+      },
+      {
+        "name": "4. LIVE G - Tổng ôn - Lịch sử 12 2K9 - NHS",
+        "structure_depth": 0,
+        "pattern": "empty",
+        "files": 0
+      }
+    ],
+    "no_files_yet": true
+  }
+}

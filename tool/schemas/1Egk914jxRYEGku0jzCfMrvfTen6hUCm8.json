@@ -1,0 +1,79 @@
+{
+  "updatedAt": "2026-05-28T12:18:35.709Z",
+  "teacher": {
+    "id": "1Egk914jxRYEGku0jzCfMrvfTen6hUCm8",
+    "name": "3. ĐỊA LÝ CÔ MAI ANH LỚP HỌC ĐỊA LÝ 2K9"
+  },
+  "schema": {
+    "levels": [
+      {
+        "depth": 0,
+        "label": "Chương / Chuyên đề",
+        "icon": "📖",
+        "bold": true,
+        "bg": "#FCE5C0",
+        "namePatternHint": "Cấp 1: vd '1. ĐỊNH HƯỚNG ÔN THI', '1. GIẢI BÀI TẬP SÁCH LTNT', '2. CHƯƠNG 1: ĐỊA LÍ TỰ NHIÊN', '3. CHƯƠNG 2: ĐỊA LÍ DÂN CƯ', '4. CHƯƠNG 3: ĐỊA LÍ NGÀNH KINH TẾ'"
+      }
+    ],
+    "leafFallback": {
+      "label": "Bài",
+      "icon": "📂",
+      "bold": true,
+      "bg": "#FCF1D4",
+      "note": "Một số khóa file nằm cấp nông hơn — render thẳng như leaf bài học."
+    },
+    "courseRow": {
+      "icon": "📚",
+      "bold": true,
+      "fontSize": 12,
+      "bg": "#D4E5FA"
+    },
+    "videoRow": {
+      "icon": "▸",
+      "indent": "extra-from-leaf"
+    },
+    "notes": "Auto-detect (1 cấp). 1/4 khóa có cấu trúc. Pattern: flat. Skip 2 folder meta. Chưa có file (chỉ folder rỗng) — schema dựa trên depth folder."
+  },
+  "_meta": {
+    "source": "auto-detect",
+    "version": 1,
+    "generated_at": "2026-05-28T12:18:35.709Z",
+    "confidence": "high",
+    "dominant_depth": 1,
+    "dominant_share": 1,
+    "patterns_observed": [
+      "flat"
+    ],
+    "meta_courses_skipped": [
+      "0. INFO THÔNG TIN VÀ HƯỚNG DẪN KHOÁ HỌC",
+      "Z. EBOOK SÁCH KÈM KHOÁ HỌC"
+    ],
+    "course_breakdown": [
+      {
+        "name": "1. CHẶNG 1: LIVE S - LÝ THUYẾT NỀN TẢNG ĐỊA LÍ 12 - Cô Mai Anh",
+        "structure_depth": 1,
+        "pattern": "flat",
+        "files": 0
+      },
+      {
+        "name": "2. CHẶNG 2: LIVE C - CHUYÊN ĐỀ CHUYÊN SÂU - Cô Mai Anh",
+        "structure_depth": 0,
+        "pattern": "empty",
+        "files": 0
+      },
+      {
+        "name": "3. CHẶNG 3: LIVE T - LUYỆN ĐỀ THỰC CHIẾN - Cô Mai Anh",
+        "structure_depth": 0,
+        "pattern": "empty",
+        "files": 0
+      },
+      {
+        "name": "4. CHẶNG 4: LIVE G - TỔNG ÔN NÂNG CAO - Cô Mai Anh",
+        "structure_depth": 0,
+        "pattern": "empty",
+        "files": 0
+      }
+    ],
+    "no_files_yet": true
+  }
+}

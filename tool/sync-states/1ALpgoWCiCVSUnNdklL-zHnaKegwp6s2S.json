@@ -1,0 +1,49 @@
+{
+  "teacherId": "1ALpgoWCiCVSUnNdklL-zHnaKegwp6s2S",
+  "tabs": {
+    "1dJ5tjp2i6jjsRMB90MxuvoCAHG6Fmoxp": {
+      "tabName": "Khóa LIVE Nền Tảng",
+      "renderedAt": "2026-05-31T04:09:56.294Z",
+      "checksum": "1dJ5tjp2i6jjsRMB90MxuvoCAHG6Fmoxp|2026-04-19T23:14:43.542Z|0",
+      "lessons": [],
+      "rendererVersion": "4.3.1",
+      "styleVersion": "2026-05-31-student-banner-no-meta-v2",
+      "runId": "no-meta-sync-2026-05-31-104541",
+      "spreadsheetId": "1W2-d_FQwJvK2uwaG_L-kB4OuDbjH7pi4ce6Ih_Dt_qs",
+      "stats": {
+        "leafCount": 0,
+        "totalVideos": 0
+      }
+    },
+    "19Lu4cIccvSx00mciBi0ZdwoSh504dJFX": {
+      "tabName": "Khóa LIVE Nâng Cao",
+      "renderedAt": "2026-05-31T04:10:04.535Z",
+      "checksum": "19Lu4cIccvSx00mciBi0ZdwoSh504dJFX|2026-04-19T23:14:42.893Z|0",
+      "lessons": [],
+      "rendererVersion": "4.3.1",
+      "styleVersion": "2026-05-31-student-banner-no-meta-v2",
+      "runId": "no-meta-sync-2026-05-31-104541",
+      "spreadsheetId": "1W2-d_FQwJvK2uwaG_L-kB4OuDbjH7pi4ce6Ih_Dt_qs",
+      "stats": {
+        "leafCount": 0,
+        "totalVideos": 0
+      }
+    },
+    "1FBHRNly38GweplKvG7NGEw_263GTF9Nu": {
+      "tabName": "Khóa Thực Chiến",
+      "renderedAt": "2026-05-31T04:10:11.723Z",
+      "checksum": "1FBHRNly38GweplKvG7NGEw_263GTF9Nu|2026-04-19T23:14:41.871Z|0",
+      "lessons": [],
+      "rendererVersion": "4.3.1",
+      "styleVersion": "2026-05-31-student-banner-no-meta-v2",
+      "runId": "no-meta-sync-2026-05-31-104541",
+      "spreadsheetId": "1W2-d_FQwJvK2uwaG_L-kB4OuDbjH7pi4ce6Ih_Dt_qs",
+      "stats": {
+        "leafCount": 0,
+        "totalVideos": 0
+      }
+    }
+  },
+  "updatedAt": "2026-05-31T04:10:11.724Z",
+  "version": 2
+}

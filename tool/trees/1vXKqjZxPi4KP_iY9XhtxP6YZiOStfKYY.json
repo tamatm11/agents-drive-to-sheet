@@ -1,0 +1,843 @@
+{
+  "crawledAt": "2026-05-29T17:28:01.278Z",
+  "teacher": {
+    "id": "1vXKqjZxPi4KP_iY9XhtxP6YZiOStfKYY",
+    "name": "1. HOÁ THẦY NGUYỄN ANH PHONG NAP 2K9",
+    "modifiedTime": "2026-05-27T15:22:46.535Z",
+    "webViewLink": "https://drive.google.com/drive/folders/1vXKqjZxPi4KP_iY9XhtxP6YZiOStfKYY"
+  },
+  "courses": [
+    {
+      "id": "1G3dytnfLmicNEb4gyKwTaI4RD2L2suCV",
+      "name": "0. INFO THÔNG TIN VÀ HƯỚNG DẪN KHOÁ HỌC",
+      "children": [],
+      "files": [],
+      "webViewLink": "https://drive.google.com/drive/folders/1G3dytnfLmicNEb4gyKwTaI4RD2L2suCV",
+      "modifiedTime": "2026-04-15T22:19:03.132Z"
+    },
+    {
+      "id": "1UPq9VduUwVetpCYV8ugwLL0UPkk_JLsR",
+      "name": "1. LIVE I LÀM CHỦ KIẾN THỨC LỚP 12",
+      "children": [
+        {
+          "id": "1k7e-EpdsA_DsYaE3TMp6-h9Lf-rH0GhA",
+          "name": "1. BÀI HỌC MỞ ĐẦU - PHẦN 1",
+          "webViewLink": "https://drive.google.com/drive/folders/1k7e-EpdsA_DsYaE3TMp6-h9Lf-rH0GhA",
+          "modifiedTime": "2026-04-17T14:01:27.073Z",
+          "children": [],
+          "files": [
+            {
+              "id": "17fe4oqinHHVNDIMsRvvMTP-IngenagEh",
+              "name": "1. 2K9XPS - BÀI MỞ ĐẦU - PHẦN 1.pdf",
+              "mimeType": "application/pdf",
+              "size": 2073968,
+              "webViewLink": "https://drive.google.com/file/d/17fe4oqinHHVNDIMsRvvMTP-IngenagEh/view?usp=drivesdk",
+              "modifiedTime": "2026-04-17T14:01:32.271Z",
+              "videoMediaMetadata": null
+            },
+            {
+              "id": "1fbV_LrPB7nT7-90f3gVdvmMnwf93lGo3",
+              "name": "1. BÀI HỌC MỞ ĐẦU.mp4.mp4",
+              "mimeType": "video/mp4",
+              "size": 465858384,
+              "webViewLink": "https://drive.google.com/file/d/1fbV_LrPB7nT7-90f3gVdvmMnwf93lGo3/view?usp=drivesdk",
+              "modifiedTime": "2026-04-17T14:01:29.468Z",
+              "videoMediaMetadata": {
+                "width": 1280,
+                "height": 720,
+                "durationMillis": "5510233"
+              }
+            },
+            {
+              "id": "1Qf3mfTNIaQPdziADOgztyVu4QagJA-zZ",
+              "name": "1. Viết tay 2K9XPS - BÀI MỞ ĐẦU - PHẦN 1.pdf",
+              "mimeType": "application/pdf",
+              "size": 24332529,
+              "webViewLink": "https://drive.google.com/file/d/1Qf3mfTNIaQPdziADOgztyVu4QagJA-zZ/view?usp=drivesdk",
+              "modifiedTime": "2026-04-17T14:01:30.871Z",
+              "videoMediaMetadata": null
+            }
+          ]
+        },
+        {
+          "id": "1pFtzdwtcs3_SecjPsi4x3Z_r2606p7oM",
+          "name": "10. Đề kiểm tra - BTRL Số 2 (Nâng cao) - ESTER [P2] - Sách Làm Chủ",
+          "webViewLink": "https://drive.google.com/drive/folders/1pFtzdwtcs3_SecjPsi4x3Z_r2606p7oM",
+          "modifiedTime": "2026-04-17T14:00:43.257Z",
+          "children": [],
+          "files": [
+            {
+              "id": "1BPo-_qTsz1QkRmYMDH3voH5agIfcmP5D",
+              "name": "10. _2K9-XPS-VIẾT TAY - BUỔI HỌC 2 - BTRL 2.pdf",
+              "mimeType": "application/pdf",
+              "size": 113798248,
+              "webViewLink": "https://drive.google.com/file/d/1BPo-_qTsz1QkRmYMDH3voH5agIfcmP5D/view?usp=drivesdk",
+              "modifiedTime": "2026-04-17T14:00:46.918Z",
+              "videoMediaMetadata": null
+            },
+            {
+              "id": "1CxuqMSnnOjvsLIBosgcA4anKKRJlFRzV",
+              "name": "10. _BUỔI 2 - BTRL số 2 - LÀM CHỦ KIẾN THỨC - NÂNG CAO.pdf",
+              "mimeType": "application/pdf",
+              "size": 10604589,
+              "webViewLink": "https://drive.google.com/file/d/1CxuqMSnnOjvsLIBosgcA4anKKRJlFRzV/view?usp=drivesdk",
+              "modifiedTime": "2026-04-17T14:00:44.456Z",
+              "videoMediaMetadata": null
+            }
+          ]
+        },
+        {
+          "id": "1x5Nv1kr0NOR-hxeynfD3IEsd-AeN33K7",
+          "name": "11. Bài giảng [ LIPID - CHẤT BÉO]",
+          "webViewLink": "https://drive.google.com/drive/folders/1x5Nv1kr0NOR-hxeynfD3IEsd-AeN33K7",
+          "modifiedTime": "2026-04-17T14:00:40.581Z",
+          "children": [],
+          "files": [
+            {
+              "id": "13hROrPmGLQt1q3uWANhEzVZKrO91RV6d",
+              "name": "Bài giảng Buổi 3 - SÁCH CẨM NANG.mp4.mp4",
+              "mimeType": "video/mp4",
+              "size": 1080438445,
+              "webViewLink": "https://drive.google.com/file/d/13hROrPmGLQt1q3uWANhEzVZKrO91RV6d/view?usp=drivesdk",
+              "modifiedTime": "2026-04-17T14:00:41.418Z",
+              "videoMediaMetadata": null
+            }
+          ]
+        },
+        {
+          "id": "1eQ_D3jGRyo-_LN7wtXgV1L2iDgsp02s-",
+          "name": "12. [TEST] Ghi nhớ và Khắc sâu kiến thức [LIPID – CHẤT BÉO]",
+          "webViewLink": "https://drive.google.com/drive/folders/1eQ_D3jGRyo-_LN7wtXgV1L2iDgsp02s-",
+          "modifiedTime": "2026-04-17T14:00:38.090Z",
+          "children": [],
+          "files": [
+            {
+              "id": "1bF5lH0jPcw5Gkjq4vDHmzaHqadtc0Qwp",
+              "name": "12. Đề bài [TEST] - Buổi học 3 - Ghi nhớ và khắc sâu [LIPID và CHẤT BÉO].pdf",
+              "mimeType": "application/pdf",
+              "size": 2076489,
+              "webViewLink": "https://drive.google.com/file/d/1bF5lH0jPcw5Gkjq4vDHmzaHqadtc0Qwp/view?usp=drivesdk",
+              "modifiedTime": "2026-04-17T14:00:39.326Z",
+              "videoMediaMetadata": null
+            }
+          ]
+        },
+        {
+          "id": "1K_tqvwpoWuuQVAfF4tDhjsVjGuWvaac1",
+          "name": "13. Chữa BT rèn luyện Số 1 (Cơ bản) - LIPID - CHẤT BÉO [P1] - Sách Làm Chủ",
+          "webViewLink": "https://drive.google.com/drive/folders/1K_tqvwpoWuuQVAfF4tDhjsVjGuWvaac1",
+          "modifiedTime": "2026-04-25T22:49:54.655Z",
+          "children": [],
+          "files": [
+            {
+              "id": "1BsnzAACFMojho5xMREHV5AlLqarDYHIy",
+              "name": "4ea4c8fd-58cd-408d-92a7-e9031da9aea3_VIẾT TAY - BUỔI HỌC 3 - BTRL SỐ 1.pdf",
+              "mimeType": "application/pdf",
+              "size": 16436104,
+              "webViewLink": "https://drive.google.com/file/d/1BsnzAACFMojho5xMREHV5AlLqarDYHIy/view?usp=drivesdk",
+              "modifiedTime": "2026-04-25T22:49:56.468Z",
+              "videoMediaMetadata": null
+            },
+            {
+              "id": "1OMfxnWeEgVz0lrbfAhOKyDOhBqffupOu",
+              "name": "a26ed948-dbab-45e4-af3e-f8e902ad412d_CHỈ DẪN CẤU TRÚC BUỔI HỌC.pdf",
+              "mimeType": "application/pdf",
+              "size": 621909,
+              "webViewLink": "https://drive.google.com/file/d/1OMfxnWeEgVz0lrbfAhOKyDOhBqffupOu/view?usp=drivesdk",
+              "modifiedTime": "2026-04-25T22:49:57.872Z",
+              "videoMediaMetadata": null
+            },
+            {
+              "id": "1Ug77F8NsytkBQGhoNNVSCiSYPjFlEw8N",
+              "name": "BUỔI 3. Chữa BT rèn luyện Số 1 (Cơ bản) - LIPID - CHẤT BÉO [P1] - Sách Làm Chủ.mp4.mp4",
+              "mimeType": "video/mp4",
+              "size": 511475508,
+              "webViewLink": "https://drive.google.com/file/d/1Ug77F8NsytkBQGhoNNVSCiSYPjFlEw8N/view?usp=drivesdk",
+              "modifiedTime": "2026-05-10T10:50:56.113Z",
+              "videoMediaMetadata": null
+            }
+          ]
+        },
+        {
+          "id": "1S896y-nHcBmtV7D08yua_oZHVnYuCkqi",
+          "name": "14. ④ Đề kiểm tra - BTRL Số 2 (Nâng cao) - LIPID - CHẤT BÉO [P2] - Sách Làm Chủ",
+          "webViewLink": "https://drive.google.com/drive/folders/1S896y-nHcBmtV7D08yua_oZHVnYuCkqi",
+          "modifiedTime": "2026-04-28T13:26:50.484Z",
+          "children": [],
+          "files": [
+            {
+              "id": "1kyUaYmvp7H_iPDRbW5d-5XTMH3B10BWo",
+              "name": "CHỈ DẪN CẤU TRÚC BUỔI HỌC.pdf",
+              "mimeType": "application/pdf",
+              "size": 1228729,
+              "webViewLink": "https://drive.google.com/file/d/1kyUaYmvp7H_iPDRbW5d-5XTMH3B10BWo/view?usp=drivesdk",
+              "modifiedTime": "2026-04-28T13:26:51.257Z",
+              "videoMediaMetadata": null
+            }
+          ]
+        },
+        {
+          "id": "1TfMRXD4ycBgwAHOonKp_ISeETDZ6KeYw",
+          "name": "15. ① Bài giảng - XÀ PHÒNG - CHẤT GIẶT RỬA",
+          "webViewLink": "https://drive.google.com/drive/folders/1TfMRXD4ycBgwAHOonKp_ISeETDZ6KeYw",
+          "modifiedTime": "2026-05-09T10:03:08.160Z",
+          "children": [],
+          "files": [
+            {
+              "id": "1mUWGFRXDR_VsppuzvmVNGqSsN5TZWjPw",
+              "name": "Bài giảng - Buổi học số 4 - Xà phòng Chất giặt rửa.mp4.mp4",
+              "mimeType": "video/mp4",
+              "size": 328353583,
+              "webViewLink": "https://drive.google.com/file/d/1mUWGFRXDR_VsppuzvmVNGqSsN5TZWjPw/view?usp=drivesdk",
+              "modifiedTime": "2026-05-10T10:28:14.085Z",
+              "videoMediaMetadata": null
+            },
+            {
+              "id": "1GV2iyXjH_7Kcv1i_0FhbmJb7532odZTW",
+              "name": "CHỈ DẪN CẤU TRÚC BUỔI HỌC.pdf",
+              "mimeType": "application/pdf",
+              "size": 1228729,
+              "webViewLink": "https://drive.google.com/file/d/1GV2iyXjH_7Kcv1i_0FhbmJb7532odZTW/view?usp=drivesdk",
+              "modifiedTime": "2026-05-09T10:03:10.453Z",
+              "videoMediaMetadata": null
+            }
+          ]
+        },
+        {
+          "id": "1d7DH9IsQI3rBIY_doA1-_h9oYmNS_tG9",
+          "name": "16. ② [TEST] Ghi nhớ và Khắc sâu kiến thức Buổi 4",
+          "webViewLink": "https://drive.google.com/drive/folders/1d7DH9IsQI3rBIY_doA1-_h9oYmNS_tG9",
+          "modifiedTime": "2026-05-09T10:03:01.226Z",
+          "children": [],
+          "files": [
+            {
+              "id": "1A9ynoEmnZ65ifvOx6G3QpVGbwKUuhMTO",
+              "name": "71ab6a80-ed71-4395-bdc8-840ac392967d_HƯỚNG DẪN HỌC BÀI - TEST KHẮC SÂU KIẾN THỨC - BUỔI HỌC 4.pdf",
+              "mimeType": "application/pdf",
+              "size": 965758,
+              "webViewLink": "https://drive.google.com/file/d/1A9ynoEmnZ65ifvOx6G3QpVGbwKUuhMTO/view?usp=drivesdk",
+              "modifiedTime": "2026-05-09T10:03:06.349Z",
+              "videoMediaMetadata": null
+            },
+            {
+              "id": "1KHK1GBv80cIqjjuhSPGcv8XjTM1wlgc-",
+              "name": "79e07018-0d9a-432b-b806-1077c38e1770_Đề bài TEST - Buổi học 4 - Ghi nhớ và khắc sâu - [XÀ PHÒNG + CHẤT GIẶT RỬA].pdf",
+              "mimeType": "application/pdf",
+              "size": 2034944,
+              "webViewLink": "https://drive.google.com/file/d/1KHK1GBv80cIqjjuhSPGcv8XjTM1wlgc-/view?usp=drivesdk",
+              "modifiedTime": "2026-05-09T10:03:03.000Z",
+              "videoMediaMetadata": null
+            },
+            {
+              "id": "17w0xkW5r9fbF95oLi8bfh_yY7h_HqY9W",
+              "name": "B4 CHỈ DẪN CẤU TRÚC BUỔI HỌC.pdf",
+              "mimeType": "application/pdf",
+              "size": 1228729,
+              "webViewLink": "https://drive.google.com/file/d/17w0xkW5r9fbF95oLi8bfh_yY7h_HqY9W/view?usp=drivesdk",
+              "modifiedTime": "2026-05-09T10:03:04.622Z",
+              "videoMediaMetadata": null
+            }
+          ]
+        },
+        {
+          "id": "1JPaz0r6-QA4SD1tSOvP2kPdaD4Zog4ht",
+          "name": "17. ③ Chữa BT rèn luyện Số 1 (Cơ bản) - XÀ PHÒNG - CHẤT GIẶT RỬA",
+          "webViewLink": "https://drive.google.com/drive/folders/1JPaz0r6-QA4SD1tSOvP2kPdaD4Zog4ht",
+          "modifiedTime": "2026-05-09T10:02:56.729Z",
+          "children": [],
+          "files": [
+            {
+              "id": "1n2H37dM7ZJhMUSgUr34_pUtc7hePuM5I",
+              "name": "BUỔI 4 - Chữa BT rèn luyện Số 1 (Cơ bản) - XÀ PHÒNG - CHẤT GIẶT RỬA.mp4.mp4",
+              "mimeType": "video/mp4",
+              "size": 249960629,
+              "webViewLink": "https://drive.google.com/file/d/1n2H37dM7ZJhMUSgUr34_pUtc7hePuM5I/view?usp=drivesdk",
+              "modifiedTime": "2026-05-10T10:14:01.283Z",
+              "videoMediaMetadata": null
+            },
+            {
+              "id": "1VeXo1FHqG7MXfOn5qswwlQ4vNEmvqIiS",
+              "name": "VIẾT TAY BUỔI HỌC 4 - 2K9 XPS - BTRL SỐ 1.pdf",
+              "mimeType": "application/pdf",
+              "size": 59349497,
+              "webViewLink": "https://drive.google.com/file/d/1VeXo1FHqG7MXfOn5qswwlQ4vNEmvqIiS/view?usp=drivesdk",
+              "modifiedTime": "2026-05-09T10:02:59.365Z",
+              "videoMediaMetadata": null
+            }
+          ]
+        },
+        {
+          "id": "1lTNM6bRKbc_5sWHSRm29nYwftDXNOuJ8",
+          "name": "18. ④ Đề kiểm tra - BTRL Số 2 (Nâng cao) - XÀ PHÒNG - CHẤT GIẶT RỬA",
+          "webViewLink": "https://drive.google.com/drive/folders/1lTNM6bRKbc_5sWHSRm29nYwftDXNOuJ8",
+          "modifiedTime": "2026-05-09T10:02:55.066Z",
+          "children": [],
+          "files": [
+            {
+              "id": "1szq2phv5wrbzChdPkgHJC8LbSVbIfVql",
+              "name": "đề.pdf",
+              "mimeType": "application/pdf",
+              "size": 25435656,
+              "webViewLink": "https://drive.google.com/file/d/1szq2phv5wrbzChdPkgHJC8LbSVbIfVql/view?usp=drivesdk",
+              "modifiedTime": "2026-05-21T16:34:49.160Z",
+              "videoMediaMetadata": null
+            }
+          ]
+        },
+        {
+          "id": "1YBkIVcRe_xlZQZMLozXquXeLQdDx5SoU",
+          "name": "19. LIVE-VIP: ÔN TẬP 100 câu lý thuyết TN chọn lọc [CĐ: ESTER-LIPID-XÀ PHÒNG-CHẤT GIẶT RỬA]",
+          "webViewLink": "https://drive.google.com/drive/folders/1YBkIVcRe_xlZQZMLozXquXeLQdDx5SoU",
+          "modifiedTime": "2026-05-21T16:34:47.967Z",
+          "children": [],
+          "files": [
+            {
+              "id": "1COYYOtzN_p6dISxbJYhdEvQlBCvJi0tZ",
+              "name": "1. 100 câu lý thuyết trắc nghiệm [4 phương án].pdf",
+              "mimeType": "application/pdf",
+              "size": 7101793,
+              "webViewLink": "https://drive.google.com/file/d/1COYYOtzN_p6dISxbJYhdEvQlBCvJi0tZ/view?usp=drivesdk",
+              "modifiedTime": "2026-05-21T16:34:48.950Z",
+              "videoMediaMetadata": null
+            },
+            {
+              "id": "11XKLHDeROYzl_J1WVaEP6rTYSOkSZLYq",
+              "name": "100 Câu lý thuyết - 4 phương án.mp4.mp4",
+              "mimeType": "video/mp4",
+              "size": 295474744,
+              "webViewLink": "https://drive.google.com/file/d/11XKLHDeROYzl_J1WVaEP6rTYSOkSZLYq/view?usp=drivesdk",
+              "modifiedTime": "2026-05-22T08:43:20.242Z",
+              "videoMediaMetadata": null
+            },
+            {
+              "id": "1_BkfDA9yY2B_u7kj7mkp8Ps1NXxadrYZ",
+              "name": "_1. 100 câu lý thuyết trắc nghiệm [4 phương án] - [file cách dòng].pdf",
+              "mimeType": "application/pdf",
+              "size": 8522971,
+              "webViewLink": "https://drive.google.com/file/d/1_BkfDA9yY2B_u7kj7mkp8Ps1NXxadrYZ/view?usp=drivesdk",
+              "modifiedTime": "2026-05-21T16:34:48.953Z",
+              "videoMediaMetadata": null
+            },
+            {
+              "id": "1HSwlRyfqxwn4IRmeyG-UOuk7KnDSlFGD",
+              "name": "_1. VIẾT TAY - 100 CÂU LÝ THUYẾT TRẮC NGHIỆM [4 PHƯƠNG ÁN] -  ÔN TẬP CHƯƠNG 1.pdf",
+              "mimeType": "application/pdf",
+              "size": 72461852,
+              "webViewLink": "https://drive.google.com/file/d/1HSwlRyfqxwn4IRmeyG-UOuk7KnDSlFGD/view?usp=drivesdk",
+              "modifiedTime": "2026-05-21T16:34:48.961Z",
+              "videoMediaMetadata": null
+            }
+          ]
+        },
+        {
+          "id": "1OO2L97fxt-mVgUhDhl7sRPVHXBiwwouj",
+          "name": "2. BÀI HỌC MỞ ĐẦU - PHẦN 2",
+          "webViewLink": "https://drive.google.com/drive/folders/1OO2L97fxt-mVgUhDhl7sRPVHXBiwwouj",
+          "modifiedTime": "2026-04-17T14:01:20.764Z",
+          "children": [],
+          "files": [
+            {
+              "id": "1-FbcbdDPE0Lycsro14-bu2nTLVjyzCG3",
+              "name": "2. _2K9XPS - BÀI MỞ ĐẦU - PHẦN 2.pdf",
+              "mimeType": "application/pdf",
+              "size": 27233743,
+              "webViewLink": "https://drive.google.com/file/d/1-FbcbdDPE0Lycsro14-bu2nTLVjyzCG3/view?usp=drivesdk",
+              "modifiedTime": "2026-04-17T14:01:25.466Z",
+              "videoMediaMetadata": null
+            },
+            {
+              "id": "1HuXriDesHlkwBcvltYp_g9un77ggzqhu",
+              "name": "2. CHỮA BTRL.mp4.mp4",
+              "mimeType": "video/mp4",
+              "size": 696519171,
+              "webViewLink": "https://drive.google.com/file/d/1HuXriDesHlkwBcvltYp_g9un77ggzqhu/view?usp=drivesdk",
+              "modifiedTime": "2026-04-17T14:01:22.090Z",
+              "videoMediaMetadata": {
+                "width": 1920,
+                "height": 1080,
+                "durationMillis": "5112033"
+              }
+            },
+            {
+              "id": "1Rf9U89MgbwknhtY6i8y9vfswIhVV8pGK",
+              "name": "2. Viết tay 2K9XPS - BÀI MỞ ĐẦU - PHẦN 2.pdf",
+              "mimeType": "application/pdf",
+              "size": 2466530,
+              "webViewLink": "https://drive.google.com/file/d/1Rf9U89MgbwknhtY6i8y9vfswIhVV8pGK/view?usp=drivesdk",
+              "modifiedTime": "2026-04-17T14:01:23.924Z",
+              "videoMediaMetadata": null
+            }
+          ]
+        },
+        {
+          "id": "1Srymc7GoLHkrsTzoFTKUeqIcU0lD9E-s",
+          "name": "20. LIVE-VIP: ÔN TẬP dạng câu hỏi  lý thuyết trắc nghiệm Đúng sai chuyên biệt [Ester]",
+          "webViewLink": "https://drive.google.com/drive/folders/1Srymc7GoLHkrsTzoFTKUeqIcU0lD9E-s",
+          "modifiedTime": "2026-05-21T16:34:46.630Z",
+          "children": [],
+          "files": [
+            {
+              "id": "1_nDhyRlBW5LXvvExiwUK0skNKS4AHJ-R",
+              "name": "2. Viết tay - Ôn tập dạng câu hỏi lý thuyết trắc nghiệm Đúng sai chuyên biệt [Ester] -ÔN TẬP HẾT CHƯƠNG 1.pdf",
+              "mimeType": "application/pdf",
+              "size": 52415694,
+              "webViewLink": "https://drive.google.com/file/d/1_nDhyRlBW5LXvvExiwUK0skNKS4AHJ-R/view?usp=drivesdk",
+              "modifiedTime": "2026-05-21T16:34:48.110Z",
+              "videoMediaMetadata": null
+            },
+            {
+              "id": "1CZRkqCosSqPwotwREGqK719B2zFX4qOj",
+              "name": "2. Ôn tập dạng câu hỏi lý thuyết trắc nghiệm Đúng sai chuyên biệt [Ester] - [file cách dòng].pdf",
+              "mimeType": "application/pdf",
+              "size": 6457036,
+              "webViewLink": "https://drive.google.com/file/d/1CZRkqCosSqPwotwREGqK719B2zFX4qOj/view?usp=drivesdk",
+              "modifiedTime": "2026-05-21T16:34:48.119Z",
+              "videoMediaMetadata": null
+            },
+            {
+              "id": "1nBuUhnipb-6G027TaR4YZ3PMLzSwDv3m",
+              "name": "2. Ôn tập dạng câu hỏi lý thuyết trắc nghiệm Đúng sai chuyên biệt [Ester].mp4.mp4",
+              "mimeType": "video/mp4",
+              "size": 424134449,
+              "webViewLink": "https://drive.google.com/file/d/1nBuUhnipb-6G027TaR4YZ3PMLzSwDv3m/view?usp=drivesdk",
+              "modifiedTime": "2026-05-22T08:42:52.002Z",
+              "videoMediaMetadata": null
+            },
+            {
+              "id": "17D28vvXefZV8ulqCTsrP2rsmr_T5kd5P",
+              "name": "_2. Ôn tập dạng câu hỏi lý thuyết trắc nghiệm Đúng sai chuyên biệt [Ester].pdf",
+              "mimeType": "application/pdf",
+              "size": 5930895,
+              "webViewLink": "https://drive.google.com/file/d/17D28vvXefZV8ulqCTsrP2rsmr_T5kd5P/view?usp=drivesdk",
+              "modifiedTime": "2026-05-21T16:34:48.115Z",
+              "videoMediaMetadata": null
+            }
+          ]
+        },
+        {
+          "id": "1pBA81zwI7drzqXp2UvYjRFRezAETrZah",
+          "name": "21. LIVE-VIP: ÔN TẬP dạng câu hỏi lý thuyết trắc nghiệm Đúng sai chuyên biệt [Chất béo]",
+          "webViewLink": "https://drive.google.com/drive/folders/1pBA81zwI7drzqXp2UvYjRFRezAETrZah",
+          "modifiedTime": "2026-05-21T16:34:45.886Z",
+          "children": [],
+          "files": [
+            {
+              "id": "1yhad1LBj46x7iztIwhg1qNXiuO-CQDh3",
+              "name": "3. Viết tay - Ôn tập lý thuyết trắc nghiệm [Đúng sai] - Chất béo.pdf",
+              "mimeType": "application/pdf",
+              "size": 55106375,
+              "webViewLink": "https://drive.google.com/file/d/1yhad1LBj46x7iztIwhg1qNXiuO-CQDh3/view?usp=drivesdk",
+              "modifiedTime": "2026-05-21T16:34:46.656Z",
+              "videoMediaMetadata": null
+            },
+            {
+              "id": "1o7N6IZp23zirFB4mCWKsEhOSzUyA2CFq",
+              "name": "3. Ôn tập dạng câu hỏi lý thuyết trắc nghiệm Đúng sai chuyên biệt [Chất béo] - [file cách dòng].pdf",
+              "mimeType": "application/pdf",
+              "size": 6445366,
+              "webViewLink": "https://drive.google.com/file/d/1o7N6IZp23zirFB4mCWKsEhOSzUyA2CFq/view?usp=drivesdk",
+              "modifiedTime": "2026-05-21T16:34:46.642Z",
+              "videoMediaMetadata": null
+            },
+            {
+              "id": "1MUQJW-XQFIBIhc__T9UNGXa1U4552G20",
+              "name": "3. Ôn tập dạng câu hỏi lý thuyết trắc nghiệm Đúng sai chuyên biệt [Chất béo].mp4.mp4",
+              "mimeType": "video/mp4",
+              "size": 373360386,
+              "webViewLink": "https://drive.google.com/file/d/1MUQJW-XQFIBIhc__T9UNGXa1U4552G20/view?usp=drivesdk",
+              "modifiedTime": "2026-05-22T08:40:49.305Z",
+              "videoMediaMetadata": null
+            },
+            {
+              "id": "1OgyEoDwOF2h8VGT2dkoFoISc8zRdshMX",
+              "name": "3. Ôn tập dạng câu hỏi lý thuyết trắc nghiệm Đúng sai chuyên biệt [Chất béo].pdf",
+              "mimeType": "application/pdf",
+              "size": 6051419,
+              "webViewLink": "https://drive.google.com/file/d/1OgyEoDwOF2h8VGT2dkoFoISc8zRdshMX/view?usp=drivesdk",
+              "modifiedTime": "2026-05-21T16:34:46.644Z",
+              "videoMediaMetadata": null
+            }
+          ]
+        },
+        {
+          "id": "16JT8R2ow8wxvcQwqJ0Z-0CZ53P2eGYE1",
+          "name": "22. LIVE-VIP: ÔN TẬP dạng câu hỏi lý thuyết trắc nghiệm Đ/sai chuyên biệt [Xà phòng – Chất giặt rửa]",
+          "webViewLink": "https://drive.google.com/drive/folders/16JT8R2ow8wxvcQwqJ0Z-0CZ53P2eGYE1",
+          "modifiedTime": "2026-05-21T16:34:44.425Z",
+          "children": [],
+          "files": [
+            {
+              "id": "1I_oNeMyyCVJt9_IHVUJrMVLtd2aDdSuu",
+              "name": "4 LIVE-VIP - ÔN TẬP dạng câu hỏi lý thuyết trắc nghiệm Đ-sai chuyên biệt Xà phòng - Chất giặt rửa.mp4.mp4",
+              "mimeType": "video/mp4",
+              "size": 457003018,
+              "webViewLink": "https://drive.google.com/file/d/1I_oNeMyyCVJt9_IHVUJrMVLtd2aDdSuu/view?usp=drivesdk",
+              "modifiedTime": "2026-05-24T14:44:46.956Z",
+              "videoMediaMetadata": {
+                "width": 1920,
+                "height": 1080,
+                "durationMillis": "5961066"
+              }
+            },
+            {
+              "id": "1qWMooZtdIgbZpE07AOODaxe1XRmcrbJe",
+              "name": "4 VIẾT TAY 2K9 - ÔN TẬP HẾT CHƯƠNG 1 - PHẦN 4 - ĐÚNG SAI XÀ PHÒNG VÀ CHẤT GIẶT RỬA.pdf",
+              "mimeType": "application/pdf",
+              "size": 63098860,
+              "webViewLink": "https://drive.google.com/file/d/1qWMooZtdIgbZpE07AOODaxe1XRmcrbJe/view?usp=drivesdk",
+              "modifiedTime": "2026-05-24T09:14:24.188Z",
+              "videoMediaMetadata": null
+            },
+            {
+              "id": "1PpaWK6p9UF9EDVNT5Br8MgEJlCo8W6Hs",
+              "name": "4. Ôn tập lý thuyết trắc nghiệm [Đúng sai] chuyên biệt - Xà phòng & CGR - [file cách dòng].pdf",
+              "mimeType": "application/pdf",
+              "size": 8656996,
+              "webViewLink": "https://drive.google.com/file/d/1PpaWK6p9UF9EDVNT5Br8MgEJlCo8W6Hs/view?usp=drivesdk",
+              "modifiedTime": "2026-05-21T16:34:46.014Z",
+              "videoMediaMetadata": null
+            },
+            {
+              "id": "1mc-PYqH9FAW7TJQj6CE4yUvCegk6XsHD",
+              "name": "4. Ôn tập lý thuyết trắc nghiệm [Đúng sai] chuyên biệt - Xà phòng & CGR.pdf",
+              "mimeType": "application/pdf",
+              "size": 8102888,
+              "webViewLink": "https://drive.google.com/file/d/1mc-PYqH9FAW7TJQj6CE4yUvCegk6XsHD/view?usp=drivesdk",
+              "modifiedTime": "2026-05-21T16:34:46.013Z",
+              "videoMediaMetadata": null
+            }
+          ]
+        },
+        {
+          "id": "1YX4CwRkXxKkeKMzqxrXuTEy1P6Uy0si2",
+          "name": "23. LIVE-VIP: ÔN TẬP dạng câu hỏi lý thuyết trắc nghiệm Đúng sai chuyên biệt [Mô hình thí nghiệm]",
+          "webViewLink": "https://drive.google.com/drive/folders/1YX4CwRkXxKkeKMzqxrXuTEy1P6Uy0si2",
+          "modifiedTime": "2026-05-21T16:34:43.830Z",
+          "children": [],
+          "files": [
+            {
+              "id": "1LqXIY5qcDvfdFzAU9MCG4oQTfv4_8bZK",
+              "name": "5 _VIẾT TAY 2K9 - Ôn tập lý thuyết - Mô hình thí nghiệm.pdf",
+              "mimeType": "application/pdf",
+              "size": 52517870,
+              "webViewLink": "https://drive.google.com/file/d/1LqXIY5qcDvfdFzAU9MCG4oQTfv4_8bZK/view?usp=drivesdk",
+              "modifiedTime": "2026-05-24T09:14:23.854Z",
+              "videoMediaMetadata": null
+            },
+            {
+              "id": "1YkcddOZZ-lWZUzNWq5ON0CKNq7tn4Kl1",
+              "name": "5 LIVE-VIP. ÔN TẬP dạng câu hỏi lý thuyết trắc nghiệm Đúng sai chuyên biệt [Mô hình thí nghiệm].5.mp4.mp4",
+              "mimeType": "video/mp4",
+              "size": 455354322,
+              "webViewLink": "https://drive.google.com/file/d/1YkcddOZZ-lWZUzNWq5ON0CKNq7tn4Kl1/view?usp=drivesdk",
+              "modifiedTime": "2026-05-24T14:42:42.510Z",
+              "videoMediaMetadata": null
+            },
+            {
+              "id": "1snKkZqQlcQGzJmx2i5uGNYTGQxjs2WB4",
+              "name": "5. Ôn tập dạng câu hỏi lý thuyết trắc nghiệm Đúng sai chuyên biệt [Mô hình thí nghiệm] - [file cách dòng].pdf",
+              "mimeType": "application/pdf",
+              "size": 6933979,
+              "webViewLink": "https://drive.google.com/file/d/1snKkZqQlcQGzJmx2i5uGNYTGQxjs2WB4/view?usp=drivesdk",
+              "modifiedTime": "2026-05-21T16:34:44.564Z",
+              "videoMediaMetadata": null
+            },
+            {
+              "id": "19RdSKZ-ZHF8lD-8MkBQVAuAvX2WR9JQT",
+              "name": "5. Ôn tập dạng câu hỏi lý thuyết trắc nghiệm Đúng sai chuyên biệt [Mô hình thí nghiệm].pdf",
+              "mimeType": "application/pdf",
+              "size": 6297821,
+              "webViewLink": "https://drive.google.com/file/d/19RdSKZ-ZHF8lD-8MkBQVAuAvX2WR9JQT/view?usp=drivesdk",
+              "modifiedTime": "2026-05-21T16:34:44.563Z",
+              "videoMediaMetadata": null
+            }
+          ]
+        },
+        {
+          "id": "1gsmgIZIsvXoRhwi3stkOIebc8l1iP2mn",
+          "name": "24. LIVE-PAGE: BÀI GIẢNG XÂY NỀN ESTER - BUỔI 1",
+          "webViewLink": "https://drive.google.com/drive/folders/1gsmgIZIsvXoRhwi3stkOIebc8l1iP2mn",
+          "modifiedTime": "2026-05-24T09:14:21.846Z",
+          "children": [],
+          "files": [
+            {
+              "id": "1eV48T1AQR1jVIwgqcvzWMImpO1ZeOo_c",
+              "name": "1. Xây nền Ester Lipid - Bài 1 - Lý thuyết cơ bản Ester.pdf",
+              "mimeType": "application/pdf",
+              "size": 4366154,
+              "webViewLink": "https://drive.google.com/file/d/1eV48T1AQR1jVIwgqcvzWMImpO1ZeOo_c/view?usp=drivesdk",
+              "modifiedTime": "2026-05-24T09:14:23.319Z",
+              "videoMediaMetadata": null
+            },
+            {
+              "id": "1JVOCjZa-QtifaAaBGNu3hrDSKWEXDM0q",
+              "name": "VIẾT TAY - BG XÂY NÊN ESTER - BUỔI 1.pdf",
+              "mimeType": "application/pdf",
+              "size": 42814500,
+              "webViewLink": "https://drive.google.com/file/d/1JVOCjZa-QtifaAaBGNu3hrDSKWEXDM0q/view?usp=drivesdk",
+              "modifiedTime": "2026-05-24T09:14:23.315Z",
+              "videoMediaMetadata": null
+            }
+          ]
+        },
+        {
+          "id": "1ogj2spH8-m5qfh5Wvgn6jmvEbR8sD5se",
+          "name": "25. LIVE-PAGE: BÀI GIẢNG XÂY NỀN ESTER - BUỔI 2",
+          "webViewLink": "https://drive.google.com/drive/folders/1ogj2spH8-m5qfh5Wvgn6jmvEbR8sD5se",
+          "modifiedTime": "2026-05-24T09:14:20.432Z",
+          "children": [],
+          "files": [
+            {
+              "id": "1WLP-DYRqHbR3zdM7E9y39hCJkr1siN3A",
+              "name": "1. Xây nền Ester Lipid - Bài 1 - Lý thuyết cơ bản Ester.pdf",
+              "mimeType": "application/pdf",
+              "size": 4366154,
+              "webViewLink": "https://drive.google.com/file/d/1WLP-DYRqHbR3zdM7E9y39hCJkr1siN3A/view?usp=drivesdk",
+              "modifiedTime": "2026-05-24T09:14:21.911Z",
+              "videoMediaMetadata": null
+            }
+          ]
+        },
+        {
+          "id": "1v-dXxwNFnTivtlG6S5phbf1KqDWV1rZZ",
+          "name": "3. Bài giảng ESTER - PHẦN 1 - Sách Cẩm Nang",
+          "webViewLink": "https://drive.google.com/drive/folders/1v-dXxwNFnTivtlG6S5phbf1KqDWV1rZZ",
+          "modifiedTime": "2026-04-17T14:01:13.557Z",
+          "children": [],
+          "files": [
+            {
+              "id": "1Jopgt8J2Ix4OA6LXawzIBaV_KpIaloVJ",
+              "name": "3. BUỔI HỌC 1 - ESTER - PHẦN 1 - SÁCH CẨM NANG.mp4.mp4",
+              "mimeType": "video/mp4",
+              "size": 976230959,
+              "webViewLink": "https://drive.google.com/file/d/1Jopgt8J2Ix4OA6LXawzIBaV_KpIaloVJ/view?usp=drivesdk",
+              "modifiedTime": "2026-04-17T14:01:16.187Z",
+              "videoMediaMetadata": {
+                "width": 1920,
+                "height": 1080,
+                "durationMillis": "7085999"
+              }
+            },
+            {
+              "id": "1fYuOpiFa3X1tXqyyHJn99qihMoE8e6hs",
+              "name": "3. BUỔI HỌC 1 - ESTER - PHẦN 1 - SÁCH CẨM NANG.pdf",
+              "mimeType": "application/pdf",
+              "size": 17247601,
+              "webViewLink": "https://drive.google.com/file/d/1fYuOpiFa3X1tXqyyHJn99qihMoE8e6hs/view?usp=drivesdk",
+              "modifiedTime": "2026-04-17T14:01:18.057Z",
+              "videoMediaMetadata": null
+            }
+          ]
+        },
+        {
+          "id": "1wnpwF3fVVSWhCyvEo6EhMNpQJXwjqh5Y",
+          "name": "4. [TEST] Ghi nhớ và Khắc sâu kiến thức ESTER",
+          "webViewLink": "https://drive.google.com/drive/folders/1wnpwF3fVVSWhCyvEo6EhMNpQJXwjqh5Y",
+          "modifiedTime": "2026-04-17T14:01:09.875Z",
+          "children": [],
+          "files": [
+            {
+              "id": "1e74k_XWIg70xT9FG2Y6o79wJpW63ffWk",
+              "name": "4. _Buổi học 1 - Đề thi - Ghi nhớ và khắc sâu kiến thức..pdf",
+              "mimeType": "application/pdf",
+              "size": 2097864,
+              "webViewLink": "https://drive.google.com/file/d/1e74k_XWIg70xT9FG2Y6o79wJpW63ffWk/view?usp=drivesdk",
+              "modifiedTime": "2026-04-17T14:01:10.722Z",
+              "videoMediaMetadata": null
+            }
+          ]
+        },
+        {
+          "id": "1ZXo44rGsR8ZWVTZWuam20gyf86jtEVEh",
+          "name": "5. Chữa BT rèn luyện Số 1 (Cơ bản) - ESTER [P1] - Sách Làm Chủ",
+          "webViewLink": "https://drive.google.com/drive/folders/1ZXo44rGsR8ZWVTZWuam20gyf86jtEVEh",
+          "modifiedTime": "2026-04-17T14:01:04.418Z",
+          "children": [],
+          "files": [
+            {
+              "id": "1m7yBpKevgrpXxAKWpu4LVrdSiInmVlg3",
+              "name": "5. _2K9-XPS-VIẾT TAY - BTRL - SỐ 1 - ESTER - BUỔI 1.pdf",
+              "mimeType": "application/pdf",
+              "size": 63912358,
+              "webViewLink": "https://drive.google.com/file/d/1m7yBpKevgrpXxAKWpu4LVrdSiInmVlg3/view?usp=drivesdk",
+              "modifiedTime": "2026-04-17T14:01:08.607Z",
+              "videoMediaMetadata": null
+            },
+            {
+              "id": "1QQP050NkjE29a0W5453Hq27nhn0SWmRu",
+              "name": "5. _BUỔI 1 - BTRL số 1 - LÀM CHỦ KIẾN THỨC - CƠ BẢN.pdf",
+              "mimeType": "application/pdf",
+              "size": 4900907,
+              "webViewLink": "https://drive.google.com/file/d/1QQP050NkjE29a0W5453Hq27nhn0SWmRu/view?usp=drivesdk",
+              "modifiedTime": "2026-04-17T14:01:05.556Z",
+              "videoMediaMetadata": null
+            },
+            {
+              "id": "10TAZTrYR54CU3fHpjCD2RXC9ZaimYiVp",
+              "name": "5. BTRL - SỐ 1 - ESTER - BUỔI 1.mp4.mp4",
+              "mimeType": "video/mp4",
+              "size": 853522144,
+              "webViewLink": "https://drive.google.com/file/d/10TAZTrYR54CU3fHpjCD2RXC9ZaimYiVp/view?usp=drivesdk",
+              "modifiedTime": "2026-04-17T14:01:06.974Z",
+              "videoMediaMetadata": {
+                "width": 1920,
+                "height": 1080,
+                "durationMillis": "6024233"
+              }
+            }
+          ]
+        },
+        {
+          "id": "19BRQrq56k2oMDaMCp1Y5UEa8AKj6zpVt",
+          "name": "6. Đề kiểm tra - BTRL Số 2 (Nâng cao) - ESTER [P1] - Sách Làm Chủ",
+          "webViewLink": "https://drive.google.com/drive/folders/19BRQrq56k2oMDaMCp1Y5UEa8AKj6zpVt",
+          "modifiedTime": "2026-04-17T14:01:01.781Z",
+          "children": [],
+          "files": [
+            {
+              "id": "1st3OImyPyvbBbfGbaW4lfvBB7gBRYcmI",
+              "name": "6. _BUỔI 1 - BTRL số 2 - LÀM CHỦ KIẾN THỨC - NÂNG CAO.pdf",
+              "mimeType": "application/pdf",
+              "size": 10324532,
+              "webViewLink": "https://drive.google.com/file/d/1st3OImyPyvbBbfGbaW4lfvBB7gBRYcmI/view?usp=drivesdk",
+              "modifiedTime": "2026-04-17T14:01:02.943Z",
+              "videoMediaMetadata": null
+            }
+          ]
+        },
+        {
+          "id": "1aO5pHVQn_kFJcbpVEBZxiIzEnugB0Kxn",
+          "name": "7. Bài giảng ESTER - PHẦN 2 - Sách Cẩm Nang",
+          "webViewLink": "https://drive.google.com/drive/folders/1aO5pHVQn_kFJcbpVEBZxiIzEnugB0Kxn",
+          "modifiedTime": "2026-04-17T14:00:57.804Z",
+          "children": [],
+          "files": [
+            {
+              "id": "1dQlquOF-KA3wVYrI-YPlr_ZPy4-Fs_PI",
+              "name": "7. _Cẩm Nang - B2.pdf",
+              "mimeType": "application/pdf",
+              "size": 2836386,
+              "webViewLink": "https://drive.google.com/file/d/1dQlquOF-KA3wVYrI-YPlr_ZPy4-Fs_PI/view?usp=drivesdk",
+              "modifiedTime": "2026-04-17T14:00:58.763Z",
+              "videoMediaMetadata": null
+            },
+            {
+              "id": "1a0Uo8wL5XXR1G0Spf1IfkQUQ16UXJapY",
+              "name": "7. Bài giảng ESTER - PHẦN 2 - Sách Cẩm Nang - BUỔI 2.mp4.mp4",
+              "mimeType": "video/mp4",
+              "size": 958090764,
+              "webViewLink": "https://drive.google.com/file/d/1a0Uo8wL5XXR1G0Spf1IfkQUQ16UXJapY/view?usp=drivesdk",
+              "modifiedTime": "2026-04-17T14:01:00.317Z",
+              "videoMediaMetadata": {
+                "width": 1920,
+                "height": 1080,
+                "durationMillis": "6370566"
+              }
+            }
+          ]
+        },
+        {
+          "id": "1VFMNfOk6ZLbv8slOstiuHCTfe1prWFbI",
+          "name": "8. [TEST] Ghi nhớ và Khắc sâu kiến thức ESTER",
+          "webViewLink": "https://drive.google.com/drive/folders/1VFMNfOk6ZLbv8slOstiuHCTfe1prWFbI",
+          "modifiedTime": "2026-04-17T14:00:55.661Z",
+          "children": [],
+          "files": [
+            {
+              "id": "1uR_p9qEnOwMQ01wxnvjr20yGFYpaTqtx",
+              "name": "8. _Đề kiểm tra - Ghi nhớ và khắc sâu - Buổi học 2 - Ester Phần 2.pdf",
+              "mimeType": "application/pdf",
+              "size": 1760914,
+              "webViewLink": "https://drive.google.com/file/d/1uR_p9qEnOwMQ01wxnvjr20yGFYpaTqtx/view?usp=drivesdk",
+              "modifiedTime": "2026-04-17T14:00:56.405Z",
+              "videoMediaMetadata": null
+            }
+          ]
+        },
+        {
+          "id": "1tg8ofFiGeehXUmvYs4Llhw8gdmphKxRc",
+          "name": "9. Chữa BT rèn luyện Số 1 (Cơ bản) - ESTER [P2] - Sách Làm Chủ",
+          "webViewLink": "https://drive.google.com/drive/folders/1tg8ofFiGeehXUmvYs4Llhw8gdmphKxRc",
+          "modifiedTime": "2026-04-17T14:00:48.551Z",
+          "children": [],
+          "files": [
+            {
+              "id": "1jwo5Pwt1f91Sizya_Y0fImEvC1VUy8mu",
+              "name": "9. _2K9-XPS-VIẾT TAY - BTRL - SỐ 1 - ESTER - BUỔI 2.pdf",
+              "mimeType": "application/pdf",
+              "size": 70875786,
+              "webViewLink": "https://drive.google.com/file/d/1jwo5Pwt1f91Sizya_Y0fImEvC1VUy8mu/view?usp=drivesdk",
+              "modifiedTime": "2026-04-17T14:00:50.956Z",
+              "videoMediaMetadata": null
+            },
+            {
+              "id": "1iU4ts2l2bvlWdqKBNAYOia7TZS-cQZC9",
+              "name": "9. _BUỔI 2 - BTRL số 1 - LÀM CHỦ KIẾN THỨC - CƠ BẢN.pdf",
+              "mimeType": "application/pdf",
+              "size": 7076331,
+              "webViewLink": "https://drive.google.com/file/d/1iU4ts2l2bvlWdqKBNAYOia7TZS-cQZC9/view?usp=drivesdk",
+              "modifiedTime": "2026-04-17T14:00:49.492Z",
+              "videoMediaMetadata": null
+            },
+            {
+              "id": "1yCTiVlVCYUspR0Y5XiGuHeC_bQ4RUMNi",
+              "name": "9. BTRL - SỐ 1 - ESTER - BUỔI 2.mp4.mp4",
+              "mimeType": "video/mp4",
+              "size": 1167934729,
+              "webViewLink": "https://drive.google.com/file/d/1yCTiVlVCYUspR0Y5XiGuHeC_bQ4RUMNi/view?usp=drivesdk",
+              "modifiedTime": "2026-04-17T14:00:53.439Z",
+              "videoMediaMetadata": {
+                "width": 1920,
+                "height": 1080,
+                "durationMillis": "7217833"
+              }
+            }
+          ]
+        }
+      ],
+      "files": [],
+      "webViewLink": "https://drive.google.com/drive/folders/1UPq9VduUwVetpCYV8ugwLL0UPkk_JLsR",
+      "modifiedTime": "2026-04-15T22:19:02.231Z"
+    },
+    {
+      "id": "1KUX4XwL7WIIiN6HdYX9JJqwZtgywX02c",
+      "name": "2. LIVE M NÂNG CAO PHÁT TRIỂN BỒI DƯỠNG HỌC SINH GIỎI",
+      "children": [],
+      "files": [],
+      "webViewLink": "https://drive.google.com/drive/folders/1KUX4XwL7WIIiN6HdYX9JJqwZtgywX02c",
+      "modifiedTime": "2026-04-15T22:19:01.383Z"
+    },
+    {
+      "id": "1Xm-vfii_1dY9uWlkxAM9F4o63xn2bpWF",
+      "name": "3. LIVE O TỔNG ÔN VÀ LUYỆN ĐỀ",
+      "children": [],
+      "files": [],
+      "webViewLink": "https://drive.google.com/drive/folders/1Xm-vfii_1dY9uWlkxAM9F4o63xn2bpWF",
+      "modifiedTime": "2026-04-15T22:18:59.956Z"
+    },
+    {
+      "id": "17t0lrs7zV0fgZVtrME9LSXEQsgNjujQ5",
+      "name": "4. LIVE E VỀ ĐÍCH 2027",
+      "children": [],
+      "files": [],
+      "webViewLink": "https://drive.google.com/drive/folders/17t0lrs7zV0fgZVtrME9LSXEQsgNjujQ5",
+      "modifiedTime": "2026-04-15T22:18:59.218Z"
+    },
+    {
+      "id": "1QQ_UbWTQNWnyeEqQE3N3kTcWfGNvFGXv",
+      "name": "5. ĐẶC BIỆT 14 NGÀY CUỐI CÙNG",
+      "children": [],
+      "files": [],
+      "webViewLink": "https://drive.google.com/drive/folders/1QQ_UbWTQNWnyeEqQE3N3kTcWfGNvFGXv",
+      "modifiedTime": "2026-04-15T22:18:57.117Z"
+    },
+    {
+      "id": "1gSaOQem4tC_kAhtELTZBEGkplOWsNOBI",
+      "name": "Z. EBOOK SÁCH KÈM KHOÁ HỌC",
+      "children": [],
+      "files": [],
+      "webViewLink": "https://drive.google.com/drive/folders/1gSaOQem4tC_kAhtELTZBEGkplOWsNOBI",
+      "modifiedTime": "2026-04-15T22:19:03.958Z"
+    }
+  ]
+}

@@ -1,0 +1,2472 @@
+{
+  "teacherId": "1FILtSpU0P6MucoropcXfgXA58C0SazIa",
+  "tabs": {
+    "1U1mG5tRPYwy8iw4-6nGZWQGKH0KER3WP": {
+      "tabName": "NGỮ PHÁP TIẾNG",
+      "renderedAt": "2026-05-31T03:58:38.500Z",
+      "checksum": "1U1mG5tRPYwy8iw4-6nGZWQGKH0KER3WP|2026-05-29T12:42:50.561Z|392",
+      "lessons": [
+        {
+          "id": "1ELL3K0TgFXqxd9du8yUx2fCreqOVGMxy::file:1_Y_Snp_IDTKlvW2-cv7sIzQGYrUx_gNF",
+          "name": "[NP 2027]_Bài tập ngày 21-4_3",
+          "parentName": "0.1.NGỮ PHÁP ỨNG DỤNG",
+          "checksum": "2026-05-26T12:52:01.340Z|1|ea445da1fdc4",
+          "virtual": true
+        },
+        {
+          "id": "1ELL3K0TgFXqxd9du8yUx2fCreqOVGMxy::file:107CIZ_XQxXrNISabWxp0BCD8tclaMquG",
+          "name": "[NP 2027]_Bài tập ngày 27-4_2",
+          "parentName": "0.1.NGỮ PHÁP ỨNG DỤNG",
+          "checksum": "2026-05-22T08:41:07.554Z|1|1e1e35540ba3",
+          "virtual": true
+        },
+        {
+          "id": "1ELL3K0TgFXqxd9du8yUx2fCreqOVGMxy::file:10j_scZd7MXMcfssDjK1ZH91YWI0624Lj",
+          "name": "[NP 2027]_Chữa Bài tập ngày 15-5",
+          "parentName": "0.1.NGỮ PHÁP ỨNG DỤNG",
+          "checksum": "2026-05-26T12:48:30.288Z|1|f0a6f9011e2d",
+          "virtual": true
+        },
+        {
+          "id": "1ELL3K0TgFXqxd9du8yUx2fCreqOVGMxy::file:10KclKtx-z5rqR1CVZIqaAS_i3aqqysrc",
+          "name": "[NP 2027]_Bài tập ngày 15-5_2",
+          "parentName": "0.1.NGỮ PHÁP ỨNG DỤNG",
+          "checksum": "2026-05-21T14:06:07.849Z|1|57750f9ee35f",
+          "virtual": true
+        },
+        {
+          "id": "1ELL3K0TgFXqxd9du8yUx2fCreqOVGMxy::file:10QmPhdRZoXv0n-dfHK85w-6J5H0kKF12",
+          "name": "[NP 2027]_Bài tập ngày 23-4",
+          "parentName": "0.1.NGỮ PHÁP ỨNG DỤNG",
+          "checksum": "2026-05-22T08:41:27.856Z|1|0104abf3b104",
+          "virtual": true
+        },
+        {
+          "id": "1ELL3K0TgFXqxd9du8yUx2fCreqOVGMxy::file:11-yjuam72ADhGRZ96Cx-Vw47x0DhE-qp",
+          "name": "[NP 2027]_Bài tập ngày 5-5",
+          "parentName": "0.1.NGỮ PHÁP ỨNG DỤNG",
+          "checksum": "2026-05-22T08:39:59.074Z|1|46a3437b43a5",
+          "virtual": true
+        },
+        {
+          "id": "1ELL3K0TgFXqxd9du8yUx2fCreqOVGMxy::file:11fK57khHvRfWGopuTCww3UoSCjsD5eUT",
+          "name": "22. [NP 2027]_Bài tập ngày 4-5.2",
+          "parentName": "0.1.NGỮ PHÁP ỨNG DỤNG",
+          "checksum": "2026-05-26T12:50:10.056Z|1|6ed2493d18a8",
+          "virtual": true
+        },
+        {
+          "id": "1ELL3K0TgFXqxd9du8yUx2fCreqOVGMxy::file:11SSPQ7EyrYChuLJEIeUNozp6IEuDyoP0",
+          "name": "[NP 2027]_Bài tập ngày 15-5",
+          "parentName": "0.1.NGỮ PHÁP ỨNG DỤNG",
+          "checksum": "2026-05-21T14:06:10.094Z|1|75bdd33ded58",
+          "virtual": true
+        },
+        {
+          "id": "1ELL3K0TgFXqxd9du8yUx2fCreqOVGMxy::file:123cAJZ_ons0SRKpxvmYIPKDo9t0gkp65",
+          "name": "[NP 2027]_Chữa Bài tập ngày 6-5",
+          "parentName": "0.1.NGỮ PHÁP ỨNG DỤNG",
+          "checksum": "2026-05-26T12:49:46.026Z|1|f4297d21ebfb",
+          "virtual": true
+        },
+        {
+          "id": "1ELL3K0TgFXqxd9du8yUx2fCreqOVGMxy::file:12bSitNH0pVNV0jJO5i54cIeW1_G_u2_f",
+          "name": "1. [NP 2027]_Hướng dẫn cách làm bài tập nghe",
+          "parentName": "0.1.NGỮ PHÁP ỨNG DỤNG",
+          "checksum": "2026-05-26T12:52:21.353Z|1|48ff78a0c041",
+          "virtual": true
+        },
+        {
+          "id": "1ELL3K0TgFXqxd9du8yUx2fCreqOVGMxy::file:13_dHRNEaMmIbxvrBQlUfvQrKI4wzFnKB",
+          "name": "[NP 2027]_Bài tập ngày 8-5",
+          "parentName": "0.1.NGỮ PHÁP ỨNG DỤNG",
+          "checksum": "2026-05-26T12:49:29.017Z|1|83c3b04b387c",
+          "virtual": true
+        },
+        {
+          "id": "1ELL3K0TgFXqxd9du8yUx2fCreqOVGMxy::file:133tLiCpvBXU0eG-XjBPFQ_4wMn-353Bq",
+          "name": "[NP 2027]_Bài tập ngày 12-5_2",
+          "parentName": "0.1.NGỮ PHÁP ỨNG DỤNG",
+          "checksum": "2026-05-22T08:39:03.071Z|1|19c95fd35218",
+          "virtual": true
+        },
+        {
+          "id": "1ELL3K0TgFXqxd9du8yUx2fCreqOVGMxy::file:13qFBFhPW-HRlXFh2wTL_SOyOv5WxtANa",
+          "name": "[NP 2027]_Bài tập ngày 12-5_2",
+          "parentName": "0.1.NGỮ PHÁP ỨNG DỤNG",
+          "checksum": "2026-05-21T14:06:44.911Z|1|20c819a56ee1",
+          "virtual": true
+        },
+        {
+          "id": "1ELL3K0TgFXqxd9du8yUx2fCreqOVGMxy::file:13qMjrt8MG4dyWXSsqtfvIeRT5dvkoFvt",
+          "name": "[NP 2027]_Bài tập ngày 6-5_2",
+          "parentName": "0.1.NGỮ PHÁP ỨNG DỤNG",
+          "checksum": "2026-05-26T12:49:48.400Z|1|18d6d769c7ca",
+          "virtual": true
+        },
+        {
+          "id": "1ELL3K0TgFXqxd9du8yUx2fCreqOVGMxy::file:13YrEv4hVNUM3T3XpBUfyCXv4-9TYvH3S",
+          "name": "[NP 2027]_Chữa Bài tập ngày 1-5",
+          "parentName": "0.1.NGỮ PHÁP ỨNG DỤNG",
+          "checksum": "2026-05-22T08:40:18.371Z|1|80daec1afedd",
+          "virtual": true
+        },
+        {
+          "id": "1ELL3K0TgFXqxd9du8yUx2fCreqOVGMxy::file:13zyfqhxrBf_Cv5LTEMvvqPjRngc2rrNs",
+          "name": "[NP 2027]_Bài tập ngày 24-4",
+          "parentName": "0.1.NGỮ PHÁP ỨNG DỤNG",
+          "checksum": "2026-05-22T08:41:17.227Z|1|c41eeedee6b4",
+          "virtual": true
+        },
+        {
+          "id": "1ELL3K0TgFXqxd9du8yUx2fCreqOVGMxy::file:140tKZu3bb8oOZOUuvcHsf3TkY9mww4Bq",
+          "name": "[NP 2027]_Chữa Bài tập ngày 8-5",
+          "parentName": "0.1.NGỮ PHÁP ỨNG DỤNG",
+          "checksum": "2026-05-21T14:07:06.864Z|1|5727b3787054",
+          "virtual": true
+        },
+        {
+          "id": "1ELL3K0TgFXqxd9du8yUx2fCreqOVGMxy::file:149TtQgGzSoUzg2LtR68gJkw23hN7hTCs",
+          "name": "[NP 2027]_Bài tập ngày 13-5",
+          "parentName": "0.1.NGỮ PHÁP ỨNG DỤNG",
+          "checksum": "2026-05-26T12:48:57.335Z|1|d0e8ad0c84ee",
+          "virtual": true
+        },
+        {
+          "id": "1ELL3K0TgFXqxd9du8yUx2fCreqOVGMxy::file:14AvMtqhSDk5gOtdAjRUdSLxddH1nVmbo",
+          "name": "[NP 2027]_Bài tập ngày 7-5",
+          "parentName": "0.1.NGỮ PHÁP ỨNG DỤNG",
+          "checksum": "2026-05-22T08:39:35.954Z|1|5fae32aff2a8",
+          "virtual": true
+        },
+        {
+          "id": "1ELL3K0TgFXqxd9du8yUx2fCreqOVGMxy::file:14d7y9mBuEQM6WAhsrAf2uDidToPLJsUq",
+          "name": "[NP 2027]_Chữa Bài tập ngày 22-4",
+          "parentName": "0.1.NGỮ PHÁP ỨNG DỤNG",
+          "checksum": "2026-05-21T14:09:35.041Z|1|3eaae13ea3f2",
+          "virtual": true
+        },
+        {
+          "id": "1ELL3K0TgFXqxd9du8yUx2fCreqOVGMxy::file:14fBI-ZxQgCQovfs97TitHs0pkwBfb-JM",
+          "name": "[NP 2027]_Bài tập ngày 23-4",
+          "parentName": "0.1.NGỮ PHÁP ỨNG DỤNG",
+          "checksum": "2026-05-26T12:51:39.482Z|1|4d9e0b367763",
+          "virtual": true
+        },
+        {
+          "id": "1ELL3K0TgFXqxd9du8yUx2fCreqOVGMxy::file:14HvF22N41J2tf9qnFD9UHgjJvvhYA7Lb",
+          "name": "[NP 2027]_Chữa Bài tập ngày 28-4",
+          "parentName": "0.1.NGỮ PHÁP ỨNG DỤNG",
+          "checksum": "2026-05-26T12:50:58.921Z|1|8aa78fc01fbe",
+          "virtual": true
+        },
+        {
+          "id": "1ELL3K0TgFXqxd9du8yUx2fCreqOVGMxy::file:14jKjezL8LO6qnRgj85cpbiIuX-5tYHqd",
+          "name": "[NP 2027]_Bài tập ngày 8-5",
+          "parentName": "0.1.NGỮ PHÁP ỨNG DỤNG",
+          "checksum": "2026-05-22T08:39:26.735Z|1|991bc89772d6",
+          "virtual": true
+        },
+        {
+          "id": "1ELL3K0TgFXqxd9du8yUx2fCreqOVGMxy::file:14O7nyeBNEZ0bzYsSbLLCO7_Y1nAZE6PB",
+          "name": "[NP 2027]_Bài tập ngày 13-5_2",
+          "parentName": "0.1.NGỮ PHÁP ỨNG DỤNG",
+          "checksum": "2026-05-26T12:48:55.818Z|1|3cc87dc124f1",
+          "virtual": true
+        },
+        {
+          "id": "1ELL3K0TgFXqxd9du8yUx2fCreqOVGMxy::file:14OP0tMkxjf9-XqjWzMU2l4oEz-dYYDS3",
+          "name": "[NP 2027]_Bài tập ngày 19-5",
+          "parentName": "0.1.NGỮ PHÁP ỨNG DỤNG",
+          "checksum": "2026-05-26T12:48:05.716Z|1|e174b707cad4",
+          "virtual": true
+        },
+        {
+          "id": "1ELL3K0TgFXqxd9du8yUx2fCreqOVGMxy::file:14qJPhzGTGzWbCqUAkbraVPopdoCPka5E",
+          "name": "[NP 2027]_Bài tập ngày 22-5_2",
+          "parentName": "0.1.NGỮ PHÁP ỨNG DỤNG",
+          "checksum": "2026-05-26T08:29:35.901Z|1|92d6c57bf71f",
+          "virtual": true
+        },
+        {
+          "id": "1ELL3K0TgFXqxd9du8yUx2fCreqOVGMxy::file:15rxWuQWEd84WfT7Hzw5acgn0XZrJKkdo",
+          "name": "[NP 2027]_Bài tập ngày 29-4_2",
+          "parentName": "0.1.NGỮ PHÁP ỨNG DỤNG",
+          "checksum": "2026-05-22T08:40:45.846Z|1|9b7579db85e0",
+          "virtual": true
+        },
+        {
+          "id": "1ELL3K0TgFXqxd9du8yUx2fCreqOVGMxy::file:15U2sTOd-x6lWYPev_rdwV4l9vLDWJ0j8",
+          "name": "[NP 2027]_Chữa Bài tập ngày 20-4",
+          "parentName": "0.1.NGỮ PHÁP ỨNG DỤNG",
+          "checksum": "2026-05-22T08:42:04.234Z|1|96371fca71fb",
+          "virtual": true
+        },
+        {
+          "id": "1ELL3K0TgFXqxd9du8yUx2fCreqOVGMxy::file:16lBRD3E7tyhO1AumXn81ViSPaD31ytzD",
+          "name": "22. [NP 2027]_Bài tập ngày 4-5",
+          "parentName": "0.1.NGỮ PHÁP ỨNG DỤNG",
+          "checksum": "2026-05-22T08:40:09.756Z|1|851a1f63d203",
+          "virtual": true
+        },
+        {
+          "id": "1ELL3K0TgFXqxd9du8yUx2fCreqOVGMxy::file:17bgdUF9mfHqMLD79BvruEOStyPW-2k1Z",
+          "name": "[NP 2027]_Chữa Bài tập ngày 22-4",
+          "parentName": "0.1.NGỮ PHÁP ỨNG DỤNG",
+          "checksum": "2026-05-26T12:51:49.012Z|1|ed9b32ee905d",
+          "virtual": true
+        },
+        {
+          "id": "1ELL3K0TgFXqxd9du8yUx2fCreqOVGMxy::file:17d6EbFQH7yYRS5yFued6jtrUlBPacJwd",
+          "name": "[NP 2027]_Bài tập ngày 21-4_3",
+          "parentName": "0.1.NGỮ PHÁP ỨNG DỤNG",
+          "checksum": "2026-05-22T08:41:49.830Z|1|7043cd3f175e",
+          "virtual": true
+        },
+        {
+          "id": "1ELL3K0TgFXqxd9du8yUx2fCreqOVGMxy::file:17RL2wjWv-KUQTF5Uqg19gkaI2GW0Y-6w",
+          "name": "[NP 2027]_Bài tập ngày 24-4",
+          "parentName": "0.1.NGỮ PHÁP ỨNG DỤNG",
+          "checksum": "2026-05-21T14:09:12.689Z|1|12c405246eb9",
+          "virtual": true
+        },
+        {
+          "id": "1ELL3K0TgFXqxd9du8yUx2fCreqOVGMxy::file:17S-fSsHu_8-G2lbSTYi8Opmf96rZLGXU",
+          "name": "27. [NP 2027]_Bài tập ngày 7-5",
+          "parentName": "0.1.NGỮ PHÁP ỨNG DỤNG",
+          "checksum": "2026-05-26T12:49:31.339Z|1|d93c515f08e6",
+          "virtual": true
+        },
+        {
+          "id": "1ELL3K0TgFXqxd9du8yUx2fCreqOVGMxy::file:185ms3j5c94bIs5uSlkXkfjfqRTMeFKgb",
+          "name": "[NP 2027]_Bài tập ngày 21-4",
+          "parentName": "0.1.NGỮ PHÁP ỨNG DỤNG",
+          "checksum": "2026-05-21T14:09:50.941Z|1|60ff51b2bd56",
+          "virtual": true
+        },
+        {
+          "id": "1ELL3K0TgFXqxd9du8yUx2fCreqOVGMxy::file:18rLYucYI9Fwa9rxSsXMbdK5TFRS0spHY",
+          "name": "[NP 2027]_Bài tập ngày 20-5",
+          "parentName": "0.1.NGỮ PHÁP ỨNG DỤNG",
+          "checksum": "2026-05-22T08:20:29.467Z|1|9e890dfe0fe8",
+          "virtual": true
+        },
+        {
+          "id": "1ELL3K0TgFXqxd9du8yUx2fCreqOVGMxy::file:197QpTLEO4AmeclV6E-DeU0vxDMpX2whr",
+          "name": "[NP 2027]_Chữa Bài tập ngày 8-5",
+          "parentName": "0.1.NGỮ PHÁP ỨNG DỤNG",
+          "checksum": "2026-05-26T12:49:26.166Z|1|40171695731a",
+          "virtual": true
+        },
+        {
+          "id": "1ELL3K0TgFXqxd9du8yUx2fCreqOVGMxy::file:19KbcIPADaTmFsa92gsM5uLvXcv3rjopg",
+          "name": "[NP 2027]_Bài tập ngày 12-5",
+          "parentName": "0.1.NGỮ PHÁP ỨNG DỤNG",
+          "checksum": "2026-05-22T08:39:05.795Z|1|176f02d5f6fa",
+          "virtual": true
+        },
+        {
+          "id": "1ELL3K0TgFXqxd9du8yUx2fCreqOVGMxy::file:19XDpWmu8RNjRl5xzEyvMTb-xpf2qVsp9",
+          "name": "[NP 2027]_Chữa Bài tập ngày 6-5",
+          "parentName": "0.1.NGỮ PHÁP ỨNG DỤNG",
+          "checksum": "2026-05-22T08:39:43.781Z|1|d9b75e761025",
+          "virtual": true
+        },
+        {
+          "id": "1ELL3K0TgFXqxd9du8yUx2fCreqOVGMxy::file:1a1kvsOKi7SvFX8GKaRBh8AvfhHLXoo1D",
+          "name": "30. [NP 2027]_Bài tập ngày 8-5",
+          "parentName": "0.1.NGỮ PHÁP ỨNG DỤNG",
+          "checksum": "2026-05-21T14:07:05.335Z|1|a01dc839b230",
+          "virtual": true
+        },
+        {
+          "id": "1ELL3K0TgFXqxd9du8yUx2fCreqOVGMxy::file:1A6FKdrsYshFR3v6ipsqw9IKo_b4fSeus",
+          "name": "27. [NP 2027]_Bài tập ngày 7-5",
+          "parentName": "0.1.NGỮ PHÁP ỨNG DỤNG",
+          "checksum": "2026-05-21T14:07:12.516Z|1|ebd294d90a86",
+          "virtual": true
+        },
+        {
+          "id": "1ELL3K0TgFXqxd9du8yUx2fCreqOVGMxy::file:1AazjU73hjCFUBNGzXt9igC64_WXrTuxR",
+          "name": "[NP 2027]_Chữa Bài tập ngày 21-5",
+          "parentName": "0.1.NGỮ PHÁP ỨNG DỤNG",
+          "checksum": "2026-05-22T08:38:04.778Z|1|48bfbfb76e64",
+          "virtual": true
+        },
+        {
+          "id": "1ELL3K0TgFXqxd9du8yUx2fCreqOVGMxy::file:1aO6RjfKLKaCyaiBXpjFd_YRgXFQC-PcZ",
+          "name": "[NP 2027]_Bài tập ngày 6-5",
+          "parentName": "0.1.NGỮ PHÁP ỨNG DỤNG",
+          "checksum": "2026-05-22T08:39:48.160Z|1|a0ab006eb652",
+          "virtual": true
+        },
+        {
+          "id": "1ELL3K0TgFXqxd9du8yUx2fCreqOVGMxy::file:1B-ObjIBozPWKp99z3VJiCDjRszJ_lmmN",
+          "name": "[NP 2027]_Chữa Bài tập ngày 6-5",
+          "parentName": "0.1.NGỮ PHÁP ỨNG DỤNG",
+          "checksum": "2026-05-21T14:07:32.937Z|1|6ebd79bdf51d",
+          "virtual": true
+        },
+        {
+          "id": "1ELL3K0TgFXqxd9du8yUx2fCreqOVGMxy::file:1b1PbHXu_kx5qgHt9ay-YU02O3-3HWzhR",
+          "name": "[NP 2027]_Chữa Bài tập ngày 30-4",
+          "parentName": "0.1.NGỮ PHÁP ỨNG DỤNG",
+          "checksum": "2026-05-26T12:50:34.565Z|1|ef216d6e2742",
+          "virtual": true
+        },
+        {
+          "id": "1ELL3K0TgFXqxd9du8yUx2fCreqOVGMxy::file:1bAZva8IXTHHZefHzqls9XHWmvFucc6Bj",
+          "name": "[NP 2027]_Chữa Bài tập ngày 22-5",
+          "parentName": "0.1.NGỮ PHÁP ỨNG DỤNG",
+          "checksum": "2026-05-26T08:29:35.899Z|1|6e7e1a54c7f0",
+          "virtual": true
+        },
+        {
+          "id": "1ELL3K0TgFXqxd9du8yUx2fCreqOVGMxy::file:1BfYdmrqNvZu_eVg3UhalRNC00SJaEnY9",
+          "name": "1. [NP 2027]_Hướng dẫn cách làm bài tập nghe",
+          "parentName": "0.1.NGỮ PHÁP ỨNG DỤNG",
+          "checksum": "2026-05-21T14:09:03.163Z|1|47c7ac5023d4",
+          "virtual": true
+        },
+        {
+          "id": "1ELL3K0TgFXqxd9du8yUx2fCreqOVGMxy::file:1bgm2e9q6bhoPSRouyshEV-MBXf-bpYeq",
+          "name": "[NP 2027]_Chữa Bài tập ngày 14-5",
+          "parentName": "0.1.NGỮ PHÁP ỨNG DỤNG",
+          "checksum": "2026-05-26T12:48:43.533Z|1|9a008cd1a0d0",
+          "virtual": true
+        },
+        {
+          "id": "1ELL3K0TgFXqxd9du8yUx2fCreqOVGMxy::file:1BSezd8nMfSMU6YgnSP6Jd4jCSRdFDv01",
+          "name": "[NP 2027]_Bài tập ngày 19-5",
+          "parentName": "0.1.NGỮ PHÁP ỨNG DỤNG",
+          "checksum": "2026-05-22T08:20:31.261Z|1|e7a295e1589b",
+          "virtual": true
+        },
+        {
+          "id": "1ELL3K0TgFXqxd9du8yUx2fCreqOVGMxy::file:1Bu6UAtKFDh5Y4D0Nk9LUbRwsAABPZiHN",
+          "name": "[NP 2027]_Chữa Bài tập ngày 24-4",
+          "parentName": "0.1.NGỮ PHÁP ỨNG DỤNG",
+          "checksum": "2026-05-26T12:51:24.528Z|1|0345826bb9a7",
+          "virtual": true
+        },
+        {
+          "id": "1ELL3K0TgFXqxd9du8yUx2fCreqOVGMxy::file:1bzoy0QGq2SLnvR_ZLYBsQ57ORbG5ZE_z",
+          "name": "30. [NP 2027]_Bài tập ngày 8-5",
+          "parentName": "0.1.NGỮ PHÁP ỨNG DỤNG",
+          "checksum": "2026-05-26T12:49:24.266Z|1|97c5adf7b5d4",
+          "virtual": true
+        },
+        {
+          "id": "1ELL3K0TgFXqxd9du8yUx2fCreqOVGMxy::file:1c_meFKI2q8KkjWfH0xDTn6RmMBMAvUtI",
+          "name": "[NP 2027]_Chữa Bài tập ngày 14-5",
+          "parentName": "0.1.NGỮ PHÁP ỨNG DỤNG",
+          "checksum": "2026-05-22T08:38:41.143Z|1|7701e68f6cd3",
+          "virtual": true
+        },
+        {
+          "id": "1ELL3K0TgFXqxd9du8yUx2fCreqOVGMxy::file:1c6RFGysjczonbEDWPY8bq1UobGUKMN7e",
+          "name": "[NP 2027]_Chữa Bài tập ngày 7-5",
+          "parentName": "0.1.NGỮ PHÁP ỨNG DỤNG",
+          "checksum": "2026-05-22T08:39:32.157Z|1|14d82eb03305",
+          "virtual": true
+        },
+        {
+          "id": "1ELL3K0TgFXqxd9du8yUx2fCreqOVGMxy::file:1CEBqL4lB006uD73HKNO7sClNg_OkCjVa",
+          "name": "[NP 2027]_Chữa Bài tập ngày 21-4",
+          "parentName": "0.1.NGỮ PHÁP ỨNG DỤNG",
+          "checksum": "2026-05-26T12:52:00.354Z|1|96d6ec195573",
+          "virtual": true
+        },
+        {
+          "id": "1ELL3K0TgFXqxd9du8yUx2fCreqOVGMxy::file:1cEQF1uuKh5-VITKUtUSSB02ScwbXySZM",
+          "name": "[NP 2027]_Chữa Bài tập ngày 4-5",
+          "parentName": "0.1.NGỮ PHÁP ỨNG DỤNG",
+          "checksum": "2026-05-21T14:07:59.752Z|1|dfc62992625d",
+          "virtual": true
+        },
+        {
+          "id": "1ELL3K0TgFXqxd9du8yUx2fCreqOVGMxy::file:1CMnYnKf53LMqTMlW7mKspk3rn3Gimj1o",
+          "name": "[NP 2027]_Chữa Bài tập ngày 23-4",
+          "parentName": "0.1.NGỮ PHÁP ỨNG DỤNG",
+          "checksum": "2026-05-21T14:09:23.244Z|1|8e607f56307b",
+          "virtual": true
+        },
+        {
+          "id": "1ELL3K0TgFXqxd9du8yUx2fCreqOVGMxy::file:1CYnfPwFLkHhl6WoEawuLAafGXrKXct0K",
+          "name": "[NP 2027]_Bài tập ngày 30-4",
+          "parentName": "0.1.NGỮ PHÁP ỨNG DỤNG",
+          "checksum": "2026-05-22T08:40:33.930Z|1|d1cdcabdfe8c",
+          "virtual": true
+        },
+        {
+          "id": "1ELL3K0TgFXqxd9du8yUx2fCreqOVGMxy::file:1CzssnAMUZRYR0jfbV_I2Fq-9QKVi3muF",
+          "name": "[NP 2027]_Chữa Bài tập ngày 12-5",
+          "parentName": "0.1.NGỮ PHÁP ỨNG DỤNG",
+          "checksum": "2026-05-22T08:39:02.271Z|1|85f4271d1285",
+          "virtual": true
+        },
+        {
+          "id": "1ELL3K0TgFXqxd9du8yUx2fCreqOVGMxy::file:1dnmHlr7msSB7wfuCfmAZAVczTt8XAAEh",
+          "name": "[NP 2027]_Chữa Bài tập ngày 29-4",
+          "parentName": "0.1.NGỮ PHÁP ỨNG DỤNG",
+          "checksum": "2026-05-26T12:50:48.204Z|1|7b3175be5c20",
+          "virtual": true
+        },
+        {
+          "id": "1ELL3K0TgFXqxd9du8yUx2fCreqOVGMxy::file:1dqVLSbvaJGun_xQY9nwrQQ8tsoudnKrO",
+          "name": "[NP 2027]_Chữa Bài tập ngày 22-4",
+          "parentName": "0.1.NGỮ PHÁP ỨNG DỤNG",
+          "checksum": "2026-05-22T08:41:38.876Z|1|f84bdc974f3e",
+          "virtual": true
+        },
+        {
+          "id": "1ELL3K0TgFXqxd9du8yUx2fCreqOVGMxy::file:1e1BsgfkNNtKuKoeZDpPCHa-FG7B_O0jB",
+          "name": "[NP 2027]_Chữa Bài tập ngày 18-5",
+          "parentName": "0.1.NGỮ PHÁP ỨNG DỤNG",
+          "checksum": "2026-05-26T12:48:13.410Z|1|62614286c551",
+          "virtual": true
+        },
+        {
+          "id": "1ELL3K0TgFXqxd9du8yUx2fCreqOVGMxy::file:1E52e5keo8ccWbTB0kwiWj_5rvuO3amQe",
+          "name": "[NP 2027]_Bài tập ngày 21-5",
+          "parentName": "0.1.NGỮ PHÁP ỨNG DỤNG",
+          "checksum": "2026-05-26T12:47:49.170Z|1|806f3275cf18",
+          "virtual": true
+        },
+        {
+          "id": "1ELL3K0TgFXqxd9du8yUx2fCreqOVGMxy::file:1ESiWGzhNfdgBGGhzZvLSyL1yErP_kxZv",
+          "name": "[NP 2027]_Chữa Bài tập ngày 12-5",
+          "parentName": "0.1.NGỮ PHÁP ỨNG DỤNG",
+          "checksum": "2026-05-21T14:06:43.301Z|1|6a43295548c6",
+          "virtual": true
+        },
+        {
+          "id": "1ELL3K0TgFXqxd9du8yUx2fCreqOVGMxy::file:1f-gG_zZSdrF71EP0-4Usn5xXBXivoShD",
+          "name": "[NP 2027]_Bài tập ngày 22-4",
+          "parentName": "0.1.NGỮ PHÁP ỨNG DỤNG",
+          "checksum": "2026-05-26T12:51:49.992Z|1|ab8a52af7a4d",
+          "virtual": true
+        },
+        {
+          "id": "1ELL3K0TgFXqxd9du8yUx2fCreqOVGMxy::file:1f-Qu06lGag5D9dR4enpfByiaRr3HdqEg",
+          "name": "[NP 2027]_Bài tập ngày 8-5",
+          "parentName": "0.1.NGỮ PHÁP ỨNG DỤNG",
+          "checksum": "2026-05-21T14:07:10.239Z|1|86de8edb3340",
+          "virtual": true
+        },
+        {
+          "id": "1ELL3K0TgFXqxd9du8yUx2fCreqOVGMxy::file:1FE5FyNP7ijrmfBZe9PLEJ7_Z_lJBzEVT",
+          "name": "[NP 2027]_Bài tập ngày 14-5_2",
+          "parentName": "0.1.NGỮ PHÁP ỨNG DỤNG",
+          "checksum": "2026-05-22T08:38:41.871Z|1|6d0d2786e9bb",
+          "virtual": true
+        },
+        {
+          "id": "1ELL3K0TgFXqxd9du8yUx2fCreqOVGMxy::file:1fEt9MaJ09StfPrNSO53icVtbhIRnXt1f",
+          "name": "[NP 2027]_Chữa Bài tập ngày 1-5",
+          "parentName": "0.1.NGỮ PHÁP ỨNG DỤNG",
+          "checksum": "2026-05-26T12:50:20.638Z|1|2632ee9e4a4c",
+          "virtual": true
+        },
+        {
+          "id": "1ELL3K0TgFXqxd9du8yUx2fCreqOVGMxy::file:1Fjak5XnzYOGOcdRUDcdk2VUoX7VIESLG",
+          "name": "[NP 2027]_Bài tập ngày 21-4",
+          "parentName": "0.1.NGỮ PHÁP ỨNG DỤNG",
+          "checksum": "2026-05-22T08:41:52.410Z|1|c885a3773e97",
+          "virtual": true
+        },
+        {
+          "id": "1ELL3K0TgFXqxd9du8yUx2fCreqOVGMxy::file:1fk-ty25dpKn_0WwNkKCpH7VL_Z4iABWJ",
+          "name": "[NP 2027]_Bài tập ngày 12-5_2",
+          "parentName": "0.1.NGỮ PHÁP ỨNG DỤNG",
+          "checksum": "2026-05-26T12:49:08.128Z|1|7f483c12809c",
+          "virtual": true
+        },
+        {
+          "id": "1ELL3K0TgFXqxd9du8yUx2fCreqOVGMxy::file:1FRJxMkfsGEcTVJ6W8Mr1D-Z98hGuuCwS",
+          "name": "[NP 2027]_Chữa Bài tập ngày 13-5",
+          "parentName": "0.1.NGỮ PHÁP ỨNG DỤNG",
+          "checksum": "2026-05-21T14:06:31.577Z|1|2b9920488065",
+          "virtual": true
+        },
+        {
+          "id": "1ELL3K0TgFXqxd9du8yUx2fCreqOVGMxy::file:1Ft0z6777n-Cu8hYf8GGvWGkC5cLPDlbV",
+          "name": "[NP 2027]_Chữa Bài tập ngày 5-5",
+          "parentName": "0.1.NGỮ PHÁP ỨNG DỤNG",
+          "checksum": "2026-05-21T14:07:48.514Z|1|9f2695e7707c",
+          "virtual": true
+        },
+        {
+          "id": "1ELL3K0TgFXqxd9du8yUx2fCreqOVGMxy::file:1fT6QA4cyx_JDhSoQGOqfiohFQ2b5wLhT",
+          "name": "[NP 2027]_Chữa Bài tập ngày 21-4",
+          "parentName": "0.1.NGỮ PHÁP ỨNG DỤNG",
+          "checksum": "2026-05-21T14:09:44.289Z|1|c501ebf4ac20",
+          "virtual": true
+        },
+        {
+          "id": "1ELL3K0TgFXqxd9du8yUx2fCreqOVGMxy::file:1g4iWD8crInqt3yxrS8gx78EsHBQhdObp",
+          "name": "[NP 2027]_Bài tập ngày 7-5_2",
+          "parentName": "0.1.NGỮ PHÁP ỨNG DỤNG",
+          "checksum": "2026-05-26T12:49:34.553Z|1|0a0ec9693831",
+          "virtual": true
+        },
+        {
+          "id": "1ELL3K0TgFXqxd9du8yUx2fCreqOVGMxy::file:1G4qXGcN11J9qITZp7pvB7DctmyiEl05x",
+          "name": "[NP 2027]_Chữa Bài tập ngày 20-4",
+          "parentName": "0.1.NGỮ PHÁP ỨNG DỤNG",
+          "checksum": "2026-05-21T14:10:01.280Z|1|55279aec5130",
+          "virtual": true
+        },
+        {
+          "id": "1ELL3K0TgFXqxd9du8yUx2fCreqOVGMxy::file:1GFWhqkcddVS_Laaeko9odj7uzu1ZDIg2",
+          "name": "[NP 2027]_Bài tập ngày 15-5_2",
+          "parentName": "0.1.NGỮ PHÁP ỨNG DỤNG",
+          "checksum": "2026-05-22T08:38:31.453Z|1|fed334f8c223",
+          "virtual": true
+        },
+        {
+          "id": "1ELL3K0TgFXqxd9du8yUx2fCreqOVGMxy::file:1GWqZZ_kW2t4zEyjyOZv0eV9BucYCJ4qh",
+          "name": "[NP 2027]_Bài tập ngày 1-5_2",
+          "parentName": "0.1.NGỮ PHÁP ỨNG DỤNG",
+          "checksum": "2026-05-22T08:40:19.792Z|1|fc44eec4eb48",
+          "virtual": true
+        },
+        {
+          "id": "1ELL3K0TgFXqxd9du8yUx2fCreqOVGMxy::file:1GzcP5tqMy0buMPYmWMSPglfi7ZfCICUK",
+          "name": "[NP 2027]_Bài tập ngày 27-4_2",
+          "parentName": "0.1.NGỮ PHÁP ỨNG DỤNG",
+          "checksum": "2026-05-26T12:51:10.332Z|1|63ffda02ced3",
+          "virtual": true
+        },
+        {
+          "id": "1ELL3K0TgFXqxd9du8yUx2fCreqOVGMxy::file:1H2B0nvpwKwB8ndY5rsJgAuvfAorggMiy",
+          "name": "[NP 2027]_Bài tậpngày 20-4",
+          "parentName": "0.1.NGỮ PHÁP ỨNG DỤNG",
+          "checksum": "2026-05-26T12:52:19.150Z|1|d122fd3ff540",
+          "virtual": true
+        },
+        {
+          "id": "1ELL3K0TgFXqxd9du8yUx2fCreqOVGMxy::file:1h6p3UtNvef8dXWaiZhQVplE0safte58a",
+          "name": "[NP 2027]_Bài tập ngày 21-5_2",
+          "parentName": "0.1.NGỮ PHÁP ỨNG DỤNG",
+          "checksum": "2026-05-22T08:20:30.334Z|1|59a965aacc60",
+          "virtual": true
+        },
+        {
+          "id": "1ELL3K0TgFXqxd9du8yUx2fCreqOVGMxy::file:1H6UNF7sWMr06BhIPcNmZ_1ABTkKa9NMB",
+          "name": "[NP 2027]_Chữa Bài tập ngày 21-4",
+          "parentName": "0.1.NGỮ PHÁP ỨNG DỤNG",
+          "checksum": "2026-05-22T08:41:48.886Z|1|a101c45498c7",
+          "virtual": true
+        },
+        {
+          "id": "1ELL3K0TgFXqxd9du8yUx2fCreqOVGMxy::file:1h7ee-BW53YfJ9JJ8mpZXsXV8YF8PLABf",
+          "name": "[NP 2027]_Bài tập ngày 6-5_2",
+          "parentName": "0.1.NGỮ PHÁP ỨNG DỤNG",
+          "checksum": "2026-05-22T08:39:46.436Z|1|257b5feae204",
+          "virtual": true
+        },
+        {
+          "id": "1ELL3K0TgFXqxd9du8yUx2fCreqOVGMxy::file:1hLGW8Dzsel_SehZ6K0DmCEZHl46ry4uR",
+          "name": "[NP 2027]_Bài tập ngày 18-5",
+          "parentName": "0.1.NGỮ PHÁP ỨNG DỤNG",
+          "checksum": "2026-05-22T08:20:32.068Z|1|fd33a2c5523a",
+          "virtual": true
+        },
+        {
+          "id": "1ELL3K0TgFXqxd9du8yUx2fCreqOVGMxy::file:1HpbepJkasEIjlBfcyEAwJgks_Y6IkhHH",
+          "name": "[NP 2027]_Bài tập ngày 29-4_2",
+          "parentName": "0.1.NGỮ PHÁP ỨNG DỤNG",
+          "checksum": "2026-05-26T12:50:48.981Z|1|0f8f9b88d849",
+          "virtual": true
+        },
+        {
+          "id": "1ELL3K0TgFXqxd9du8yUx2fCreqOVGMxy::file:1HSixdq95VOG5BZRuKsJgPBdIX8fafsiO",
+          "name": "[NP 2027]_Bài tập ngày 14-5",
+          "parentName": "0.1.NGỮ PHÁP ỨNG DỤNG",
+          "checksum": "2026-05-22T08:38:43.350Z|1|f39f5e731cd3",
+          "virtual": true
+        },
+        {
+          "id": "1ELL3K0TgFXqxd9du8yUx2fCreqOVGMxy::file:1hVDE392y6haFokqQXzfgfjabdOxby18I",
+          "name": "[NP 2027]_Chữa Bài tập ngày 24-4",
+          "parentName": "0.1.NGỮ PHÁP ỨNG DỤNG",
+          "checksum": "2026-05-22T08:41:16.351Z|1|f8ac294cf285",
+          "virtual": true
+        },
+        {
+          "id": "1ELL3K0TgFXqxd9du8yUx2fCreqOVGMxy::file:1hXRf7VLniMr1yGwU_g-_5-FzIyhgfN11",
+          "name": "[NP 2027]_Bài tập ngày 1-5",
+          "parentName": "0.1.NGỮ PHÁP ỨNG DỤNG",
+          "checksum": "2026-05-26T12:50:23.232Z|1|841804b04195",
+          "virtual": true
+        },
+        {
+          "id": "1ELL3K0TgFXqxd9du8yUx2fCreqOVGMxy::file:1hZw-TVxdANOE8g9gqWcFC7I_Uk-aJFE8",
+          "name": "[NP 2027]_Bài tập ngày 21-4_3",
+          "parentName": "0.1.NGỮ PHÁP ỨNG DỤNG",
+          "checksum": "2026-05-21T14:09:46.001Z|1|c89cdab3fc65",
+          "virtual": true
+        },
+        {
+          "id": "1ELL3K0TgFXqxd9du8yUx2fCreqOVGMxy::file:1i1yH98h3yWa8FO4Y2q7Zu_GgrM_WT2xY",
+          "name": "[NP 2027]_Bài tậpngày 20-4",
+          "parentName": "0.1.NGỮ PHÁP ỨNG DỤNG",
+          "checksum": "2026-05-22T08:42:05.034Z|1|96d262245b75",
+          "virtual": true
+        },
+        {
+          "id": "1ELL3K0TgFXqxd9du8yUx2fCreqOVGMxy::file:1i8HDkwD3kFD6fkv6-7CLMHnQ7f2Xug5j",
+          "name": "22. [NP 2027]_Bài tập ngày 4-5.2",
+          "parentName": "0.1.NGỮ PHÁP ỨNG DỤNG",
+          "checksum": "2026-05-22T08:40:08.196Z|1|36070b4c8b1f",
+          "virtual": true
+        },
+        {
+          "id": "1ELL3K0TgFXqxd9du8yUx2fCreqOVGMxy::file:1iIHr6XHND1xsFPq0kt8K1q7ThTWusm26",
+          "name": "[NP 2027]_Chữa Bài tập ngày 21-5",
+          "parentName": "0.1.NGỮ PHÁP ỨNG DỤNG",
+          "checksum": "2026-05-26T12:47:45.690Z|1|76b44ab79d3f",
+          "virtual": true
+        },
+        {
+          "id": "1ELL3K0TgFXqxd9du8yUx2fCreqOVGMxy::file:1iPFe9dL4uMA0sLI8c6nq3Du9TImgnbpm",
+          "name": "[NP 2027]_Chữa Bài tập ngày 30-4",
+          "parentName": "0.1.NGỮ PHÁP ỨNG DỤNG",
+          "checksum": "2026-05-21T14:08:24.137Z|1|116a9843aa20",
+          "virtual": true
+        },
+        {
+          "id": "1ELL3K0TgFXqxd9du8yUx2fCreqOVGMxy::file:1j81lUJokrDJhZ7Ad22U-cvT7j-Puqwij",
+          "name": "[NP 2027]_Bài tập ngày 15-5_2",
+          "parentName": "0.1.NGỮ PHÁP ỨNG DỤNG",
+          "checksum": "2026-05-26T12:48:32.386Z|1|96685954e619",
+          "virtual": true
+        },
+        {
+          "id": "1ELL3K0TgFXqxd9du8yUx2fCreqOVGMxy::file:1jboBDVgrvvHku9RKzilpCkRGSfRRFcTM",
+          "name": "[NP 2027]_Chữa Bài tập ngày 1-5",
+          "parentName": "0.1.NGỮ PHÁP ỨNG DỤNG",
+          "checksum": "2026-05-21T14:08:10.615Z|1|77dfcdb6802d",
+          "virtual": true
+        },
+        {
+          "id": "1ELL3K0TgFXqxd9du8yUx2fCreqOVGMxy::file:1jjUCHw7IWn4rZkVH-37nOKnk1mW6o5EQ",
+          "name": "[NP 2027]_Chữa Bài tập ngày 27-4",
+          "parentName": "0.1.NGỮ PHÁP ỨNG DỤNG",
+          "checksum": "2026-05-21T14:08:58.209Z|1|d8d8ddd99794",
+          "virtual": true
+        },
+        {
+          "id": "1ELL3K0TgFXqxd9du8yUx2fCreqOVGMxy::file:1JnxxvRRNJT27yQRqxxoxYwOqk7zkHGIP",
+          "name": "[NP 2027]_Bài tập ngày 7-5_2",
+          "parentName": "0.1.NGỮ PHÁP ỨNG DỤNG",
+          "checksum": "2026-05-22T08:39:34.303Z|1|ee4f4cc3c981",
+          "virtual": true
+        },
+        {
+          "id": "1ELL3K0TgFXqxd9du8yUx2fCreqOVGMxy::file:1jz504PLSg9UCrIi7eIONCEWvwB0aVzzY",
+          "name": "22. [NP 2027]_Bài tập ngày 4-5",
+          "parentName": "0.1.NGỮ PHÁP ỨNG DỤNG",
+          "checksum": "2026-05-21T14:08:02.057Z|1|b699cbf85b2e",
+          "virtual": true
+        },
+        {
+          "id": "1ELL3K0TgFXqxd9du8yUx2fCreqOVGMxy::file:1KbkHGgxqQpL9rsgUlgw2m_HuYuoWWPXA",
+          "name": "[NP 2027]_Bài tập ngày 13-5",
+          "parentName": "0.1.NGỮ PHÁP ỨNG DỤNG",
+          "checksum": "2026-05-22T08:38:54.323Z|1|ffb5d2362602",
+          "virtual": true
+        },
+        {
+          "id": "1ELL3K0TgFXqxd9du8yUx2fCreqOVGMxy::file:1KGvN66YnNMLyhm0TY1pUTxg0ndtvwvRY",
+          "name": "[NP 2027]_Bài tập ngày 8-5_2",
+          "parentName": "0.1.NGỮ PHÁP ỨNG DỤNG",
+          "checksum": "2026-05-26T12:49:27.667Z|1|1244656a87fb",
+          "virtual": true
+        },
+        {
+          "id": "1ELL3K0TgFXqxd9du8yUx2fCreqOVGMxy::file:1KUagVCy7pgu4BjwbCJ8mhYoiD_hvUE8c",
+          "name": "[NP 2027]_Bài tập ngày 29-4_2",
+          "parentName": "0.1.NGỮ PHÁP ỨNG DỤNG",
+          "checksum": "2026-05-21T14:08:37.128Z|1|7da40a31cd2d",
+          "virtual": true
+        },
+        {
+          "id": "1ELL3K0TgFXqxd9du8yUx2fCreqOVGMxy::file:1Kwe_aVHjlUSzxSSs1WGiXNLgB13jLsdD",
+          "name": "[NP 2027]_Bài tập ngày 30-4_2",
+          "parentName": "0.1.NGỮ PHÁP ỨNG DỤNG",
+          "checksum": "2026-05-22T08:40:32.237Z|1|d492a359f44a",
+          "virtual": true
+        },
+        {
+          "id": "1ELL3K0TgFXqxd9du8yUx2fCreqOVGMxy::file:1L2jj0k9qA6_uyyi-60vgXXPWzw_1w2rs",
+          "name": "22. [NP 2027]_Bài tập ngày 4-5.2",
+          "parentName": "0.1.NGỮ PHÁP ỨNG DỤNG",
+          "checksum": "2026-05-21T14:08:00.535Z|1|5fdef5a06e86",
+          "virtual": true
+        },
+        {
+          "id": "1ELL3K0TgFXqxd9du8yUx2fCreqOVGMxy::file:1L8LmHIf_TLnB01KEQBUr1KMA8Gkdg_Ec",
+          "name": "[NP 2027]_Bài tập ngày 27-4",
+          "parentName": "0.1.NGỮ PHÁP ỨNG DỤNG",
+          "checksum": "2026-05-21T14:09:00.802Z|1|1975d961bcb4",
+          "virtual": true
+        },
+        {
+          "id": "1ELL3K0TgFXqxd9du8yUx2fCreqOVGMxy::file:1M7OytlvPMjyyswwHzA88wdE2INp0dblK",
+          "name": "[NP 2027]_Bài tập ngày 29-4",
+          "parentName": "0.1.NGỮ PHÁP ỨNG DỤNG",
+          "checksum": "2026-05-26T12:50:50.324Z|1|416fbc82f7a1",
+          "virtual": true
+        },
+        {
+          "id": "1ELL3K0TgFXqxd9du8yUx2fCreqOVGMxy::file:1m86WvTIN3xeqyf5ZVTs0igobD-OvGfvc",
+          "name": "[NP 2027]_Bài tập ngày 22-5",
+          "parentName": "0.1.NGỮ PHÁP ỨNG DỤNG",
+          "checksum": "2026-05-26T08:29:35.905Z|1|2ffb2a6bcc72",
+          "virtual": true
+        },
+        {
+          "id": "1ELL3K0TgFXqxd9du8yUx2fCreqOVGMxy::file:1mDU3os4bdfJ_cOwYsxTZqcVeJMtgiTv8",
+          "name": "[NP 2027]_Bài tập ngày 27-4",
+          "parentName": "0.1.NGỮ PHÁP ỨNG DỤNG",
+          "checksum": "2026-05-26T12:51:12.443Z|1|d530b78cb238",
+          "virtual": true
+        },
+        {
+          "id": "1ELL3K0TgFXqxd9du8yUx2fCreqOVGMxy::file:1MFTO3xidWs1kCYJf4vc3wOA9DgaDPK-v",
+          "name": "[NP 2027]_Chữa Bài tập ngày 24-4",
+          "parentName": "0.1.NGỮ PHÁP ỨNG DỤNG",
+          "checksum": "2026-05-21T14:09:11.721Z|1|312256f928f4",
+          "virtual": true
+        },
+        {
+          "id": "1ELL3K0TgFXqxd9du8yUx2fCreqOVGMxy::file:1mHWdSBP2FdFXYvNmwF2Qco8HiKrNwjID",
+          "name": "[NP 2027]_Bài tập ngày 22-4",
+          "parentName": "0.1.NGỮ PHÁP ỨNG DỤNG",
+          "checksum": "2026-05-21T14:09:35.867Z|1|2ddf3f14e9de",
+          "virtual": true
+        },
+        {
+          "id": "1ELL3K0TgFXqxd9du8yUx2fCreqOVGMxy::file:1MJlyJkvrm1EtUF0Z9Lg2Ngd-oTcOUCUT",
+          "name": "[NP 2027]_Chữa Bài tập ngày 29-4",
+          "parentName": "0.1.NGỮ PHÁP ỨNG DỤNG",
+          "checksum": "2026-05-22T08:40:43.831Z|1|2dff63935d55",
+          "virtual": true
+        },
+        {
+          "id": "1ELL3K0TgFXqxd9du8yUx2fCreqOVGMxy::file:1MLXdQiWsQ0RzF1W1hqGz6bNdtPX7hrOa",
+          "name": "[NP 2027]_Chữa Bài tập ngày 13-5",
+          "parentName": "0.1.NGỮ PHÁP ỨNG DỤNG",
+          "checksum": "2026-05-22T08:38:51.714Z|1|6c574e94cd55",
+          "virtual": true
+        },
+        {
+          "id": "1ELL3K0TgFXqxd9du8yUx2fCreqOVGMxy::file:1MqHPi8qBmjqR_hJ1p_Lx-dMAFP287CJB",
+          "name": "[NP 2027]_Bài tập ngày 22-5",
+          "parentName": "0.1.NGỮ PHÁP ỨNG DỤNG",
+          "checksum": "2026-05-26T08:29:35.888Z|1|a30bdfc5ac53",
+          "virtual": true
+        },
+        {
+          "id": "1ELL3K0TgFXqxd9du8yUx2fCreqOVGMxy::file:1n7vIr31GcoF9DhBKlXEFWFtuxl-pIOT4",
+          "name": "[NP 2027]_Bài tập ngày 14-5",
+          "parentName": "0.1.NGỮ PHÁP ỨNG DỤNG",
+          "checksum": "2026-05-21T14:06:22.355Z|1|c8c100ce7893",
+          "virtual": true
+        },
+        {
+          "id": "1ELL3K0TgFXqxd9du8yUx2fCreqOVGMxy::file:1n8GvvH7-4zu34PoeUND-QCMbx4f807l2",
+          "name": "[NP 2027]_Chữa Bài tập ngày 19-5",
+          "parentName": "0.1.NGỮ PHÁP ỨNG DỤNG",
+          "checksum": "2026-05-22T08:38:13.013Z|1|dd1e45a480ab",
+          "virtual": true
+        },
+        {
+          "id": "1ELL3K0TgFXqxd9du8yUx2fCreqOVGMxy::file:1nQD-Equ7crhLj_MBEo2CTZH3uCOdnz2S",
+          "name": "[NP 2027]_Bài tập ngày 1-5",
+          "parentName": "0.1.NGỮ PHÁP ỨNG DỤNG",
+          "checksum": "2026-05-22T08:40:21.197Z|1|074fa20ea5e5",
+          "virtual": true
+        },
+        {
+          "id": "1ELL3K0TgFXqxd9du8yUx2fCreqOVGMxy::file:1NsPjgNOZTblaQMZIhs29EOIuRm1v7Nu5",
+          "name": "[NP 2027]_Chữa Bài tập ngày 15-5",
+          "parentName": "0.1.NGỮ PHÁP ỨNG DỤNG",
+          "checksum": "2026-05-22T08:38:29.244Z|1|e37711be5a4b",
+          "virtual": true
+        },
+        {
+          "id": "1ELL3K0TgFXqxd9du8yUx2fCreqOVGMxy::file:1Okz0Hxgaqyf4UF8Kd3kFCU0yH6OqFQZ2",
+          "name": "[NP 2027]_Bài tập ngày 24-4",
+          "parentName": "0.1.NGỮ PHÁP ỨNG DỤNG",
+          "checksum": "2026-05-26T12:51:25.341Z|1|e7f987655ab3",
+          "virtual": true
+        },
+        {
+          "id": "1ELL3K0TgFXqxd9du8yUx2fCreqOVGMxy::file:1oO6jePosNAeK38bc503jiUspjpjba2_2",
+          "name": "[NP 2027]_Bài tập ngày 27-4",
+          "parentName": "0.1.NGỮ PHÁP ỨNG DỤNG",
+          "checksum": "2026-05-22T08:41:09.008Z|1|cba91b49e5f6",
+          "virtual": true
+        },
+        {
+          "id": "1ELL3K0TgFXqxd9du8yUx2fCreqOVGMxy::file:1OQHT8DF51ybNdizMncXlQ7hbljowW9o2",
+          "name": "[NP 2027]_Chữa Bài tập ngày 13-5",
+          "parentName": "0.1.NGỮ PHÁP ỨNG DỤNG",
+          "checksum": "2026-05-26T12:48:55.016Z|1|ffcbd98fbc84",
+          "virtual": true
+        },
+        {
+          "id": "1ELL3K0TgFXqxd9du8yUx2fCreqOVGMxy::file:1oryJ7VVJG_CVYFTxrzTSzdlcdG4ECXrQ",
+          "name": "[NP 2027]_Chữa Bài tập ngày 28-4",
+          "parentName": "0.1.NGỮ PHÁP ỨNG DỤNG",
+          "checksum": "2026-05-22T08:40:55.298Z|1|d1c1c08210ed",
+          "virtual": true
+        },
+        {
+          "id": "1ELL3K0TgFXqxd9du8yUx2fCreqOVGMxy::file:1oTwt7rsSOvM3UaF7P3SIfpcPXC2Yn_hd",
+          "name": "[NP 2027]_Bài tập ngày 21-4_2",
+          "parentName": "0.1.NGỮ PHÁP ỨNG DỤNG",
+          "checksum": "2026-05-22T08:41:51.117Z|1|5878c240c568",
+          "virtual": true
+        },
+        {
+          "id": "1ELL3K0TgFXqxd9du8yUx2fCreqOVGMxy::file:1oXZNQPWHOZkE2aoES5yoZnAa-ucuQ-yO",
+          "name": "[NP 2027]_Bài tập ngày 6-5_2",
+          "parentName": "0.1.NGỮ PHÁP ỨNG DỤNG",
+          "checksum": "2026-05-21T14:07:35.377Z|1|aa8e8b8cb961",
+          "virtual": true
+        },
+        {
+          "id": "1ELL3K0TgFXqxd9du8yUx2fCreqOVGMxy::file:1OZNPyAE-IstI-2QcV5XGfWannqyUwgoW",
+          "name": "[NP 2027]_Bài tập ngày 12-5",
+          "parentName": "0.1.NGỮ PHÁP ỨNG DỤNG",
+          "checksum": "2026-05-21T14:06:46.398Z|1|bb4b8f905b09",
+          "virtual": true
+        },
+        {
+          "id": "1ELL3K0TgFXqxd9du8yUx2fCreqOVGMxy::file:1P77ySf658mu8Wvwm5DFDArbEAb6TelnX",
+          "name": "[NP 2027]_Chữa Bài tập ngày 12-5",
+          "parentName": "0.1.NGỮ PHÁP ỨNG DỤNG",
+          "checksum": "2026-05-26T12:49:07.181Z|1|3f73126c08e1",
+          "virtual": true
+        },
+        {
+          "id": "1ELL3K0TgFXqxd9du8yUx2fCreqOVGMxy::file:1PD3fIl-C617UGoDXn5fvy982OERgGSeO",
+          "name": "1. [NP 2027]_Hướng dẫn cách làm bài tập nghe",
+          "parentName": "0.1.NGỮ PHÁP ỨNG DỤNG",
+          "checksum": "2026-05-22T08:42:07.316Z|1|c566333ed3c0",
+          "virtual": true
+        },
+        {
+          "id": "1ELL3K0TgFXqxd9du8yUx2fCreqOVGMxy::file:1Pn6ATwP7vgdydS_8m-l4MdEEV2YImqnG",
+          "name": "[NP 2027]_Chữa Bài tập ngày 18-5",
+          "parentName": "0.1.NGỮ PHÁP ỨNG DỤNG",
+          "checksum": "2026-05-22T08:38:20.567Z|1|bf7fa288f59b",
+          "virtual": true
+        },
+        {
+          "id": "1ELL3K0TgFXqxd9du8yUx2fCreqOVGMxy::file:1PVJE4bJwrEVLm7XLz_ZX9l99OEnXraJ0",
+          "name": "[NP 2027]_Bài tập ngày 30-4",
+          "parentName": "0.1.NGỮ PHÁP ỨNG DỤNG",
+          "checksum": "2026-05-21T14:08:26.884Z|1|694a8e2322f7",
+          "virtual": true
+        },
+        {
+          "id": "1ELL3K0TgFXqxd9du8yUx2fCreqOVGMxy::file:1pY3R9Kb9lmXN4kaGaGKvPjPIsmRVtlIg",
+          "name": "[NP 2027]_Bài tập ngày 14-5",
+          "parentName": "0.1.NGỮ PHÁP ỨNG DỤNG",
+          "checksum": "2026-05-26T12:48:46.028Z|1|c2f8ba859105",
+          "virtual": true
+        },
+        {
+          "id": "1ELL3K0TgFXqxd9du8yUx2fCreqOVGMxy::file:1qcMgLlb6txdQxubShpWeCgvTJ9hIhENP",
+          "name": "[NP 2027]_Bài tập ngày 1-5_2",
+          "parentName": "0.1.NGỮ PHÁP ỨNG DỤNG",
+          "checksum": "2026-05-26T12:50:21.453Z|1|13b3aa956453",
+          "virtual": true
+        },
+        {
+          "id": "1ELL3K0TgFXqxd9du8yUx2fCreqOVGMxy::file:1qelwuRxqbQxF95e8LzBSicnuIQHPhFjp",
+          "name": "27. [NP 2027]_Bài tập ngày 7-5",
+          "parentName": "0.1.NGỮ PHÁP ỨNG DỤNG",
+          "checksum": "2026-05-22T08:39:29.959Z|1|7eb7b1db1341",
+          "virtual": true
+        },
+        {
+          "id": "1ELL3K0TgFXqxd9du8yUx2fCreqOVGMxy::file:1qfHd49j4LhS9ppCO4TcsGy06zM_gc_It",
+          "name": "[NP 2027]_Chữa Bài tập ngày 5-5",
+          "parentName": "0.1.NGỮ PHÁP ỨNG DỤNG",
+          "checksum": "2026-05-26T12:49:57.040Z|1|9e32a7208668",
+          "virtual": true
+        },
+        {
+          "id": "1ELL3K0TgFXqxd9du8yUx2fCreqOVGMxy::file:1QgaM9cOOUaBnL0ffnpxw-emDNFQW15dd",
+          "name": "[NP 2027]_Chữa Bài tập ngày 5-5",
+          "parentName": "0.1.NGỮ PHÁP ỨNG DỤNG",
+          "checksum": "2026-05-22T08:39:56.544Z|1|c8d9d62ec880",
+          "virtual": true
+        },
+        {
+          "id": "1ELL3K0TgFXqxd9du8yUx2fCreqOVGMxy::file:1QJ-FnO0qRiLV-S6d1w2QmhoCC_ZmZ5BF",
+          "name": "[NP 2027]_Bài tập ngày 13-5",
+          "parentName": "0.1.NGỮ PHÁP ỨNG DỤNG",
+          "checksum": "2026-05-21T14:06:34.437Z|1|8a0e8c28f89c",
+          "virtual": true
+        },
+        {
+          "id": "1ELL3K0TgFXqxd9du8yUx2fCreqOVGMxy::file:1QP1fez_ykJO3Ig4oVqgbewHOQ_qSygSh",
+          "name": "[NP 2027]_Chữa Bài tập ngày 27-4",
+          "parentName": "0.1.NGỮ PHÁP ỨNG DỤNG",
+          "checksum": "2026-05-22T08:41:06.571Z|1|beb9267698b5",
+          "virtual": true
+        },
+        {
+          "id": "1ELL3K0TgFXqxd9du8yUx2fCreqOVGMxy::file:1qVmzyLGxEt2S20ZUy6HEB242ti7pAXgw",
+          "name": "[NP 2027]_Bài tập ngày 15-5",
+          "parentName": "0.1.NGỮ PHÁP ỨNG DỤNG",
+          "checksum": "2026-05-26T12:48:33.848Z|1|0d00654093fe",
+          "virtual": true
+        },
+        {
+          "id": "1ELL3K0TgFXqxd9du8yUx2fCreqOVGMxy::file:1QvPy33N_9KMTgLyww7TAjyIWflUPVDDX",
+          "name": "[NP 2027]_Bài tập ngày 30-4_2",
+          "parentName": "0.1.NGỮ PHÁP ỨNG DỤNG",
+          "checksum": "2026-05-21T14:08:24.939Z|1|e61ae354eb14",
+          "virtual": true
+        },
+        {
+          "id": "1ELL3K0TgFXqxd9du8yUx2fCreqOVGMxy::file:1r6uZoGMUPWTIAdvvrxswqVjkqJDti10E",
+          "name": "[NP 2027]_Bài tập ngày 22-4",
+          "parentName": "0.1.NGỮ PHÁP ỨNG DỤNG",
+          "checksum": "2026-05-22T08:41:39.827Z|1|28806af490cf",
+          "virtual": true
+        },
+        {
+          "id": "1ELL3K0TgFXqxd9du8yUx2fCreqOVGMxy::file:1rJVPA3bJgGmuh4PlAanfskpTfx_SirFB",
+          "name": "[NP 2027]_Bài tập ngày 5-5",
+          "parentName": "0.1.NGỮ PHÁP ỨNG DỤNG",
+          "checksum": "2026-05-21T14:07:51.044Z|1|8b60ae25a1e3",
+          "virtual": true
+        },
+        {
+          "id": "1ELL3K0TgFXqxd9du8yUx2fCreqOVGMxy::file:1rlvu9t_ls2dNQ0YoqalFIM9lbnshJ9gE",
+          "name": "[NP 2027]_Bài tập ngày 20-5",
+          "parentName": "0.1.NGỮ PHÁP ỨNG DỤNG",
+          "checksum": "2026-05-26T12:47:54.145Z|1|a75b72b7787b",
+          "virtual": true
+        },
+        {
+          "id": "1ELL3K0TgFXqxd9du8yUx2fCreqOVGMxy::file:1rPZEz_btVxJwweACBTrH-vNhXQiqMObj",
+          "name": "[NP 2027]_Bài tập ngày 8-5_2",
+          "parentName": "0.1.NGỮ PHÁP ỨNG DỤNG",
+          "checksum": "2026-05-22T08:39:25.043Z|1|cc0b4ae70853",
+          "virtual": true
+        },
+        {
+          "id": "1ELL3K0TgFXqxd9du8yUx2fCreqOVGMxy::file:1SaIiT8OT3vjr1IBA1_Y6CppWqKSqg7Sq",
+          "name": "[NP 2027]_Bài tập ngày 6-5",
+          "parentName": "0.1.NGỮ PHÁP ỨNG DỤNG",
+          "checksum": "2026-05-26T12:49:49.761Z|1|48a611e3e7ab",
+          "virtual": true
+        },
+        {
+          "id": "1ELL3K0TgFXqxd9du8yUx2fCreqOVGMxy::file:1sb3SHpuT1Bpkes0wXcxHE6Y1fl7GECza",
+          "name": "[NP 2027]_Bài tập ngày 18-5_3",
+          "parentName": "0.1.NGỮ PHÁP ỨNG DỤNG",
+          "checksum": "2026-05-22T08:20:32.063Z|1|44ad80be8cb9",
+          "virtual": true
+        },
+        {
+          "id": "1ELL3K0TgFXqxd9du8yUx2fCreqOVGMxy::file:1SHvYRZwFHft2aUlMOal59rSLTmthJJIB",
+          "name": "[NP 2027]_Chữa Bài tập ngày 20-4",
+          "parentName": "0.1.NGỮ PHÁP ỨNG DỤNG",
+          "checksum": "2026-05-26T12:52:18.074Z|1|7e44e2a2207d",
+          "virtual": true
+        },
+        {
+          "id": "1ELL3K0TgFXqxd9du8yUx2fCreqOVGMxy::file:1t6k6sxtguM6C27hxoVUKMqAsLk_X7XXm",
+          "name": "[NP 2027]_Bài tậpngày 20-4",
+          "parentName": "0.1.NGỮ PHÁP ỨNG DỤNG",
+          "checksum": "2026-05-21T14:10:02.170Z|1|5e2a560e1d70",
+          "virtual": true
+        },
+        {
+          "id": "1ELL3K0TgFXqxd9du8yUx2fCreqOVGMxy::file:1Takqyi1Zks9mej30sa6hJxIbl9lHnMJy",
+          "name": "[NP 2027]_Bài tập ngày 20-5_2",
+          "parentName": "0.1.NGỮ PHÁP ỨNG DỤNG",
+          "checksum": "2026-05-26T12:47:52.857Z|1|d761d0df6d49",
+          "virtual": true
+        },
+        {
+          "id": "1ELL3K0TgFXqxd9du8yUx2fCreqOVGMxy::file:1TAU97W8dV8kigq9YO7wbiu0w6D_xtl6-",
+          "name": "[NP 2027]_Chữa Bài tập ngày 23-4",
+          "parentName": "0.1.NGỮ PHÁP ỨNG DỤNG",
+          "checksum": "2026-05-22T08:41:27.063Z|1|6aef53c17761",
+          "virtual": true
+        },
+        {
+          "id": "1ELL3K0TgFXqxd9du8yUx2fCreqOVGMxy::file:1TDlI0TEaQLTFFxaWyFCevE9BNuZ9GpOd",
+          "name": "[NP 2027]_Bài tập ngày 21-4",
+          "parentName": "0.1.NGỮ PHÁP ỨNG DỤNG",
+          "checksum": "2026-05-26T12:52:04.512Z|1|7a90bc37520b",
+          "virtual": true
+        },
+        {
+          "id": "1ELL3K0TgFXqxd9du8yUx2fCreqOVGMxy::file:1TgJkl41kp3wsreWmMkzC_vDxw9YqA1v0",
+          "name": "[NP 2027]_Bài tập ngày 21-4_2",
+          "parentName": "0.1.NGỮ PHÁP ỨNG DỤNG",
+          "checksum": "2026-05-21T14:09:47.652Z|1|78da56e3b75b",
+          "virtual": true
+        },
+        {
+          "id": "1ELL3K0TgFXqxd9du8yUx2fCreqOVGMxy::file:1tKOWPm0yK7Kz4r7r-xJB5U2HvWllxEUF",
+          "name": "[NP 2027]_Chữa Bài tập ngày 15-5",
+          "parentName": "0.1.NGỮ PHÁP ỨNG DỤNG",
+          "checksum": "2026-05-21T14:06:05.880Z|1|215df1b5dca9",
+          "virtual": true
+        },
+        {
+          "id": "1ELL3K0TgFXqxd9du8yUx2fCreqOVGMxy::file:1Tlcm8lVsK2QzL_MOI6qQ9YiRQK_CpkWD",
+          "name": "[NP 2027]_Bài tập ngày 13-5_2",
+          "parentName": "0.1.NGỮ PHÁP ỨNG DỤNG",
+          "checksum": "2026-05-22T08:38:52.552Z|1|66abab8e43d5",
+          "virtual": true
+        },
+        {
+          "id": "1ELL3K0TgFXqxd9du8yUx2fCreqOVGMxy::file:1tq6T_DUvP8x6KYXq8-mleY18qzuHuZNb",
+          "name": "[NP 2027]_Bài tập ngày 18-5_2",
+          "parentName": "0.1.NGỮ PHÁP ỨNG DỤNG",
+          "checksum": "2026-05-22T08:20:32.070Z|1|58e057f95927",
+          "virtual": true
+        },
+        {
+          "id": "1ELL3K0TgFXqxd9du8yUx2fCreqOVGMxy::file:1tZFusN-_21art2XJ5mPZ9O7tUJbiPiWR",
+          "name": "[NP 2027]_Bài tập ngày 29-4",
+          "parentName": "0.1.NGỮ PHÁP ỨNG DỤNG",
+          "checksum": "2026-05-21T14:08:38.745Z|1|4852628e43d4",
+          "virtual": true
+        },
+        {
+          "id": "1ELL3K0TgFXqxd9du8yUx2fCreqOVGMxy::file:1u0wY73SvRulVNK9bG-VSg3pC6eXl3jB5",
+          "name": "[NP 2027]_Bài tập ngày 18-5",
+          "parentName": "0.1.NGỮ PHÁP ỨNG DỤNG",
+          "checksum": "2026-05-26T12:48:18.816Z|1|05667ea7832d",
+          "virtual": true
+        },
+        {
+          "id": "1ELL3K0TgFXqxd9du8yUx2fCreqOVGMxy::file:1UCdikyCH7LHbKNbNwWpZ0xR7Z9xrAs0Q",
+          "name": "[NP 2027]_Bài tập ngày 19-5_2",
+          "parentName": "0.1.NGỮ PHÁP ỨNG DỤNG",
+          "checksum": "2026-05-26T12:48:04.190Z|1|f9597c2caa11",
+          "virtual": true
+        },
+        {
+          "id": "1ELL3K0TgFXqxd9du8yUx2fCreqOVGMxy::file:1udzllSE1tiDJYEl93nTo2k4k-_LQGJvE",
+          "name": "[NP 2027]_Bài tập ngày 19-5_2",
+          "parentName": "0.1.NGỮ PHÁP ỨNG DỤNG",
+          "checksum": "2026-05-22T08:20:31.246Z|1|59bf94bb03f9",
+          "virtual": true
+        },
+        {
+          "id": "1ELL3K0TgFXqxd9du8yUx2fCreqOVGMxy::file:1uxUXN8HxrIyOS2i564sNhC9rxuGGP7uz",
+          "name": "[NP 2027]_Bài tập ngày 7-5",
+          "parentName": "0.1.NGỮ PHÁP ỨNG DỤNG",
+          "checksum": "2026-05-21T14:07:19.763Z|1|d0f6534ada94",
+          "virtual": true
+        },
+        {
+          "id": "1ELL3K0TgFXqxd9du8yUx2fCreqOVGMxy::file:1VEZzcwT708p-aHEP3idMA97vdYvt87rv",
+          "name": "[NP 2027]_Bài tập ngày 7-5_2",
+          "parentName": "0.1.NGỮ PHÁP ỨNG DỤNG",
+          "checksum": "2026-05-21T14:07:16.137Z|1|7030757469f0",
+          "virtual": true
+        },
+        {
+          "id": "1ELL3K0TgFXqxd9du8yUx2fCreqOVGMxy::file:1vg7LZNNn2MN8RFByrKMx8tRT7JZV_5SH",
+          "name": "[NP 2027]_Chữa Bài tập ngày 27-4",
+          "parentName": "0.1.NGỮ PHÁP ỨNG DỤNG",
+          "checksum": "2026-05-26T12:51:09.018Z|1|6c5a617fccd0",
+          "virtual": true
+        },
+        {
+          "id": "1ELL3K0TgFXqxd9du8yUx2fCreqOVGMxy::file:1vLIW3TCSRTG_nHSIM_r3nY2ZRhQVA-Ji",
+          "name": "[NP 2027]_Chữa Bài tập ngày 29-4",
+          "parentName": "0.1.NGỮ PHÁP ỨNG DỤNG",
+          "checksum": "2026-05-21T14:08:36.259Z|1|2c321e855980",
+          "virtual": true
+        },
+        {
+          "id": "1ELL3K0TgFXqxd9du8yUx2fCreqOVGMxy::file:1VncxlsOMroQu60UxC_ceaW0kcV5I_c50",
+          "name": "[NP 2027]_Chữa Bài tập ngày 7-5",
+          "parentName": "0.1.NGỮ PHÁP ỨNG DỤNG",
+          "checksum": "2026-05-26T12:49:33.221Z|1|fe0ea702ca54",
+          "virtual": true
+        },
+        {
+          "id": "1ELL3K0TgFXqxd9du8yUx2fCreqOVGMxy::file:1vRH5bsC97QYFcUziufCrzU2MCTK9kRR7",
+          "name": "[NP 2027]_Bài tập ngày 14-5_2",
+          "parentName": "0.1.NGỮ PHÁP ỨNG DỤNG",
+          "checksum": "2026-05-26T12:48:44.498Z|1|c3d2848d8e41",
+          "virtual": true
+        },
+        {
+          "id": "1ELL3K0TgFXqxd9du8yUx2fCreqOVGMxy::file:1Vwo0DP69b98aaOv6NL6d4JIvEJ2fbI_D",
+          "name": "[NP 2027]_Chữa Bài tập ngày 7-5",
+          "parentName": "0.1.NGỮ PHÁP ỨNG DỤNG",
+          "checksum": "2026-05-21T14:07:14.030Z|1|b25811ae855b",
+          "virtual": true
+        },
+        {
+          "id": "1ELL3K0TgFXqxd9du8yUx2fCreqOVGMxy::file:1w4D6fCwWaTMO0-R5OlLTEH2M2TlMDEOM",
+          "name": "[NP 2027]_Bài tập ngày 21-4_2",
+          "parentName": "0.1.NGỮ PHÁP ỨNG DỤNG",
+          "checksum": "2026-05-26T12:52:03.086Z|1|659a7d7c191a",
+          "virtual": true
+        },
+        {
+          "id": "1ELL3K0TgFXqxd9du8yUx2fCreqOVGMxy::file:1w77AJBCTShBlotnBdz3-Ft15-3_63v7f",
+          "name": "[NP 2027]_Bài tập ngày 21-5_2",
+          "parentName": "0.1.NGỮ PHÁP ỨNG DỤNG",
+          "checksum": "2026-05-26T12:47:47.783Z|1|f92a00dd45e4",
+          "virtual": true
+        },
+        {
+          "id": "1ELL3K0TgFXqxd9du8yUx2fCreqOVGMxy::file:1W7C3iHQAxe-jOt0xnC7bVVHrhBBQqBIi",
+          "name": "[NP 2027]_Bài tập ngày 18-5_2",
+          "parentName": "0.1.NGỮ PHÁP ỨNG DỤNG",
+          "checksum": "2026-05-26T12:48:17.415Z|1|0657d82b372d",
+          "virtual": true
+        },
+        {
+          "id": "1ELL3K0TgFXqxd9du8yUx2fCreqOVGMxy::file:1W7Sn8AlGV-qwb2So-DznJAGwXDp4p5YF",
+          "name": "[NP 2027]_Bài tập ngày 23-4",
+          "parentName": "0.1.NGỮ PHÁP ỨNG DỤNG",
+          "checksum": "2026-05-21T14:09:24.034Z|1|85cba606ffd9",
+          "virtual": true
+        },
+        {
+          "id": "1ELL3K0TgFXqxd9du8yUx2fCreqOVGMxy::file:1weKxx2UMC3cBwhizN5UX689S9sM3xeSJ",
+          "name": "22. [NP 2027]_Bài tập ngày 4-5",
+          "parentName": "0.1.NGỮ PHÁP ỨNG DỤNG",
+          "checksum": "2026-05-26T12:50:11.775Z|1|02856af7e040",
+          "virtual": true
+        },
+        {
+          "id": "1ELL3K0TgFXqxd9du8yUx2fCreqOVGMxy::file:1wpUvBowVBRbapRAftpaIKkejDU0O1GjY",
+          "name": "[NP 2027]_Bài tập ngày 6-5",
+          "parentName": "0.1.NGỮ PHÁP ỨNG DỤNG",
+          "checksum": "2026-05-21T14:07:36.945Z|1|dea4864e3ffe",
+          "virtual": true
+        },
+        {
+          "id": "1ELL3K0TgFXqxd9du8yUx2fCreqOVGMxy::file:1wqTWWT3N9yivrcqkdhn_UyE4FkRLWmij",
+          "name": "[NP 2027]_Bài tập ngày 8-5_2",
+          "parentName": "0.1.NGỮ PHÁP ỨNG DỤNG",
+          "checksum": "2026-05-21T14:07:08.656Z|1|cd2176d0bb6d",
+          "virtual": true
+        },
+        {
+          "id": "1ELL3K0TgFXqxd9du8yUx2fCreqOVGMxy::file:1wttHY2snoE48L_KpAkVlpi1xRyd8jea0",
+          "name": "[NP 2027]_Chữa Bài tập ngày 28-4",
+          "parentName": "0.1.NGỮ PHÁP ỨNG DỤNG",
+          "checksum": "2026-05-21T14:08:48.059Z|1|62b748d32353",
+          "virtual": true
+        },
+        {
+          "id": "1ELL3K0TgFXqxd9du8yUx2fCreqOVGMxy::file:1WZn-HQ9_w07Uijn6rFVgYRxZjR2ot4uv",
+          "name": "[NP 2027]_Bài tập ngày 1-5",
+          "parentName": "0.1.NGỮ PHÁP ỨNG DỤNG",
+          "checksum": "2026-05-21T14:08:13.059Z|1|47b9da0d0074",
+          "virtual": true
+        },
+        {
+          "id": "1ELL3K0TgFXqxd9du8yUx2fCreqOVGMxy::file:1x7FuHhu8LHaePW706KHfM82545zjHQv0",
+          "name": "[NP 2027]_Bài tập ngày 18-5_3",
+          "parentName": "0.1.NGỮ PHÁP ỨNG DỤNG",
+          "checksum": "2026-05-26T12:48:15.654Z|1|f7aee3ab58d6",
+          "virtual": true
+        },
+        {
+          "id": "1ELL3K0TgFXqxd9du8yUx2fCreqOVGMxy::file:1X8TujbtMaJrPmU31N68rMB95tfY0xXcF",
+          "name": "[NP 2027]_Chữa Bài tập ngày 4-5",
+          "parentName": "0.1.NGỮ PHÁP ỨNG DỤNG",
+          "checksum": "2026-05-22T08:40:07.352Z|1|c74deae50256",
+          "virtual": true
+        },
+        {
+          "id": "1ELL3K0TgFXqxd9du8yUx2fCreqOVGMxy::file:1xc5_DAxHQN6Srt8N-N430XBqXL3F9tM-",
+          "name": "[NP 2027]_Bài tập ngày 13-5_2",
+          "parentName": "0.1.NGỮ PHÁP ỨNG DỤNG",
+          "checksum": "2026-05-21T14:06:32.389Z|1|685d2e60fabd",
+          "virtual": true
+        },
+        {
+          "id": "1ELL3K0TgFXqxd9du8yUx2fCreqOVGMxy::file:1Xc9n9WALdNBQoN-gFSLSbRejSmrA4SOQ",
+          "name": "[NP 2027]_Bài tập ngày 27-4_2",
+          "parentName": "0.1.NGỮ PHÁP ỨNG DỤNG",
+          "checksum": "2026-05-21T14:08:59.173Z|1|86a79a6159a5",
+          "virtual": true
+        },
+        {
+          "id": "1ELL3K0TgFXqxd9du8yUx2fCreqOVGMxy::file:1xhGSPHoqoHECoMN9HdBdujQ3S3ErDpyk",
+          "name": "[NP 2027]_Bài tập ngày 15-5",
+          "parentName": "0.1.NGỮ PHÁP ỨNG DỤNG",
+          "checksum": "2026-05-22T08:38:32.944Z|1|6a2013b49a24",
+          "virtual": true
+        },
+        {
+          "id": "1ELL3K0TgFXqxd9du8yUx2fCreqOVGMxy::file:1XI6eRf5JSrcGuqxR6dSFI8wIkOLAcBaX",
+          "name": "[NP 2027]_Chữa Bài tập ngày 8-5",
+          "parentName": "0.1.NGỮ PHÁP ỨNG DỤNG",
+          "checksum": "2026-05-22T08:39:23.469Z|1|b2488f83c34a",
+          "virtual": true
+        },
+        {
+          "id": "1ELL3K0TgFXqxd9du8yUx2fCreqOVGMxy::file:1xkfcxNnzvOE9diTuJvU1dF9unDWXDgLS",
+          "name": "[NP 2027]_Bài tập ngày 7-5",
+          "parentName": "0.1.NGỮ PHÁP ỨNG DỤNG",
+          "checksum": "2026-05-26T12:49:36.226Z|1|3d015c6b8a7f",
+          "virtual": true
+        },
+        {
+          "id": "1ELL3K0TgFXqxd9du8yUx2fCreqOVGMxy::file:1XUZt5pA3UAdvCN4EFtlJbD2djZ8Aj9WN",
+          "name": "[NP 2027]_Bài tập ngày 30-4_2",
+          "parentName": "0.1.NGỮ PHÁP ỨNG DỤNG",
+          "checksum": "2026-05-26T12:50:35.459Z|1|459244f78709",
+          "virtual": true
+        },
+        {
+          "id": "1ELL3K0TgFXqxd9du8yUx2fCreqOVGMxy::file:1XXLKJyza5xS16ZwmUiWeJIy76N78RfTW",
+          "name": "[NP 2027]_Bài tập ngày 21-5",
+          "parentName": "0.1.NGỮ PHÁP ỨNG DỤNG",
+          "checksum": "2026-05-22T08:20:30.337Z|1|52f2b8b23a31",
+          "virtual": true
+        },
+        {
+          "id": "1ELL3K0TgFXqxd9du8yUx2fCreqOVGMxy::file:1XZYQjni1HF7z3bFwQCGdkLa7ffRRzk0z",
+          "name": "[NP 2027]_Bài tập ngày 20-5_2",
+          "parentName": "0.1.NGỮ PHÁP ỨNG DỤNG",
+          "checksum": "2026-05-22T08:20:29.462Z|1|94406c6028b0",
+          "virtual": true
+        },
+        {
+          "id": "1ELL3K0TgFXqxd9du8yUx2fCreqOVGMxy::file:1YLfAf8HpS4_hwNxWOfa4fRUpR7dfCyzq",
+          "name": "[NP 2027]_Bài tập ngày 12-5",
+          "parentName": "0.1.NGỮ PHÁP ỨNG DỤNG",
+          "checksum": "2026-05-26T12:49:09.694Z|1|4c94b763e4fe",
+          "virtual": true
+        },
+        {
+          "id": "1ELL3K0TgFXqxd9du8yUx2fCreqOVGMxy::file:1YovapGilU6UewH2s2PGgPIDPhVoWTyHd",
+          "name": "[NP 2027]_Chữa Bài tập ngày 14-5",
+          "parentName": "0.1.NGỮ PHÁP ỨNG DỤNG",
+          "checksum": "2026-05-21T14:06:19.769Z|1|6213e06b7932",
+          "virtual": true
+        },
+        {
+          "id": "1ELL3K0TgFXqxd9du8yUx2fCreqOVGMxy::file:1ySS-5JorcIy0j1Ff_rq8AVvvf1cg2Rot",
+          "name": "[NP 2027]_Chữa Bài tập ngày 4-5",
+          "parentName": "0.1.NGỮ PHÁP ỨNG DỤNG",
+          "checksum": "2026-05-26T12:50:09.115Z|1|69f061958b83",
+          "virtual": true
+        },
+        {
+          "id": "1ELL3K0TgFXqxd9du8yUx2fCreqOVGMxy::file:1ywZd2JYlLlORprTmKnHFOlkT62p7nxOR",
+          "name": "[NP 2027]_Bài tập ngày 1-5_2",
+          "parentName": "0.1.NGỮ PHÁP ỨNG DỤNG",
+          "checksum": "2026-05-21T14:08:11.504Z|1|6bfffe16a253",
+          "virtual": true
+        },
+        {
+          "id": "1ELL3K0TgFXqxd9du8yUx2fCreqOVGMxy::file:1Z7pkcnJT1oTbOUoTXP1oThPqxx-zNxhD",
+          "name": "[NP 2027]_Chữa Bài tập ngày 23-4",
+          "parentName": "0.1.NGỮ PHÁP ỨNG DỤNG",
+          "checksum": "2026-05-26T12:51:38.001Z|1|014fb6c0f28a",
+          "virtual": true
+        },
+        {
+          "id": "1ELL3K0TgFXqxd9du8yUx2fCreqOVGMxy::file:1Za79N6VmNPuj30qwncQPSFnaLfKGWCNS",
+          "name": "[NP 2027]_Chữa Bài tập ngày 19-5",
+          "parentName": "0.1.NGỮ PHÁP ỨNG DỤNG",
+          "checksum": "2026-05-26T12:48:01.853Z|1|c66247378368",
+          "virtual": true
+        },
+        {
+          "id": "1ELL3K0TgFXqxd9du8yUx2fCreqOVGMxy::file:1Zc9xzPkUUaCRymE0jKPm_UR_D-LL4vVH",
+          "name": "30. [NP 2027]_Bài tập ngày 8-5",
+          "parentName": "0.1.NGỮ PHÁP ỨNG DỤNG",
+          "checksum": "2026-05-22T08:39:21.677Z|1|e854ebbc7e68",
+          "virtual": true
+        },
+        {
+          "id": "1ELL3K0TgFXqxd9du8yUx2fCreqOVGMxy::file:1zdqVzGhsnoyGUuTRrbUjRUofac054lrZ",
+          "name": "[NP 2027]_Bài tập ngày 29-4",
+          "parentName": "0.1.NGỮ PHÁP ỨNG DỤNG",
+          "checksum": "2026-05-22T08:40:47.621Z|1|d1c8844d29e0",
+          "virtual": true
+        },
+        {
+          "id": "1ELL3K0TgFXqxd9du8yUx2fCreqOVGMxy::file:1ZPmcTxUx6a40qdxzL0ECxAd-8qqz-Oye",
+          "name": "[NP 2027]_Bài tập ngày 30-4",
+          "parentName": "0.1.NGỮ PHÁP ỨNG DỤNG",
+          "checksum": "2026-05-26T12:50:36.869Z|1|f695434789af",
+          "virtual": true
+        },
+        {
+          "id": "1ELL3K0TgFXqxd9du8yUx2fCreqOVGMxy::file:1ZQB6ps2lMSibAUurofI1bFH09olbuqzT",
+          "name": "[NP 2027]_Bài tập ngày 14-5_2",
+          "parentName": "0.1.NGỮ PHÁP ỨNG DỤNG",
+          "checksum": "2026-05-21T14:06:20.773Z|1|0b0bfd545ff5",
+          "virtual": true
+        },
+        {
+          "id": "1ELL3K0TgFXqxd9du8yUx2fCreqOVGMxy::file:1Zx0p-yLQRxkFlznr3asUtgToe_5VbHzd",
+          "name": "[NP 2027]_Chữa Bài tập ngày 30-4",
+          "parentName": "0.1.NGỮ PHÁP ỨNG DỤNG",
+          "checksum": "2026-05-22T08:40:31.298Z|1|086b2a8915b0",
+          "virtual": true
+        },
+        {
+          "id": "1ELL3K0TgFXqxd9du8yUx2fCreqOVGMxy::file:1zYh9LQ2zlTzut0edzacBC-u4tUyLJpey",
+          "name": "[NP 2027]_Bài tập ngày 5-5",
+          "parentName": "0.1.NGỮ PHÁP ỨNG DỤNG",
+          "checksum": "2026-05-26T12:49:59.310Z|1|3ce59ada65aa",
+          "virtual": true
+        },
+        {
+          "id": "1DZz1RqFDj94sCdILSDNLxtAaaTcIpk3l",
+          "name": "16. [NP 2027]_Bài tập ngày 11/5",
+          "parentName": "0.1.NGỮ PHÁP ỨNG DỤNG",
+          "checksum": "2026-05-26T12:49:22.103Z|3",
+          "virtual": false
+        },
+        {
+          "id": "166FbHfS-M12nmCT7OatXXv4Pi1XJMKSx",
+          "name": "26. [NP 2027]_Bài tập ngày 25/5",
+          "parentName": "0.1.NGỮ PHÁP ỨNG DỤNG",
+          "checksum": "2026-05-29T12:42:50.561Z|3",
+          "virtual": false
+        },
+        {
+          "id": "1HEnYMIo__spiqXBICUm1kyTxVZmE4OLQ",
+          "name": "27. [NP 2027]_Bài tập ngày 26/5",
+          "parentName": "0.1.NGỮ PHÁP ỨNG DỤNG",
+          "checksum": "2026-05-29T12:42:43.704Z|5",
+          "virtual": false
+        },
+        {
+          "id": "166STYJHYdbpKtyUpbRvr6CKoDGQLKPZm",
+          "name": "28.  [NP 2027]_Bài tập ngày 27/5",
+          "parentName": "0.1.NGỮ PHÁP ỨNG DỤNG",
+          "checksum": "2026-05-29T12:42:33.221Z|3",
+          "virtual": false
+        },
+        {
+          "id": "11K2tnzXNWeAbgwINEmYws4pMVY7E9ce7",
+          "name": "33. [NP 2027]_Bài tập ngày 11/5",
+          "parentName": "0.1.NGỮ PHÁP ỨNG DỤNG",
+          "checksum": "2026-05-21T14:07:02.917Z|3",
+          "virtual": false
+        },
+        {
+          "id": "1gyIM87nKTqV2E10qGUlSScO_Oh-RbFxM",
+          "name": "[NP 2027]_Bài tập ngày 11/5",
+          "parentName": "0.1.NGỮ PHÁP ỨNG DỤNG",
+          "checksum": "2026-05-22T08:39:19.424Z|3",
+          "virtual": false
+        },
+        {
+          "id": "1oEWfGOv8Rix0T4HomX6YdyKs4AAHsxzP::file:125WsyI-Eak_U9MFooaX1AFW0X3Ab4Eh8",
+          "name": "[NP2027]_Chữa Bài tập ngày 23-4",
+          "parentName": "0.2.NGỮ PHÁP NÂNG CAO",
+          "checksum": "2026-05-21T14:05:26.767Z|1|e5cce53def7b",
+          "virtual": true
+        },
+        {
+          "id": "1oEWfGOv8Rix0T4HomX6YdyKs4AAHsxzP::file:12n8sjEm4Fh6nDdrz0LF5FVpAXOdYO0H3",
+          "name": "[NP2027]_Chữa Bài tập ngày 23-4",
+          "parentName": "0.2.NGỮ PHÁP NÂNG CAO",
+          "checksum": "2026-05-26T12:47:00.788Z|1|21c6aba20bf2",
+          "virtual": true
+        },
+        {
+          "id": "1oEWfGOv8Rix0T4HomX6YdyKs4AAHsxzP::file:12QD2YvjLjzXDZG7pWaukT8YsO1fiuyzp",
+          "name": "[NP2027]_Chữa Bài tập ngày 11-5",
+          "parentName": "0.2.NGỮ PHÁP NÂNG CAO",
+          "checksum": "2026-05-21T14:03:34.324Z|1|1a5d76634d13",
+          "virtual": true
+        },
+        {
+          "id": "1oEWfGOv8Rix0T4HomX6YdyKs4AAHsxzP::file:13Rqo-mWpK_238Mtv0D78wZdgAs5Mckk4",
+          "name": "[NP2027]_Chữa Bài tập ngày 6-5",
+          "parentName": "0.2.NGỮ PHÁP NÂNG CAO",
+          "checksum": "2026-05-21T14:04:02.741Z|1|f76bdbd96ec0",
+          "virtual": true
+        },
+        {
+          "id": "1oEWfGOv8Rix0T4HomX6YdyKs4AAHsxzP::file:13s-u2yMdK9oG98tOny_arlyFplXD2Wbi",
+          "name": "[NP2027]_Chữa Bài tập ngày 20-4",
+          "parentName": "0.2.NGỮ PHÁP NÂNG CAO",
+          "checksum": "2026-05-21T14:05:57.962Z|1|669e2ed4adbb",
+          "virtual": true
+        },
+        {
+          "id": "1oEWfGOv8Rix0T4HomX6YdyKs4AAHsxzP::file:14FeP8TlTl98ch7VqPhQHqTQKBPCbZh8U",
+          "name": "[NP2027]_Chữa Bài tập ngày 29-4",
+          "parentName": "0.2.NGỮ PHÁP NÂNG CAO",
+          "checksum": "2026-05-21T14:04:50.333Z|1|1afdb6d8b1e9",
+          "virtual": true
+        },
+        {
+          "id": "1oEWfGOv8Rix0T4HomX6YdyKs4AAHsxzP::file:14MiH6h7LbqEftC4bcy3UBAjh4NZdt4H8",
+          "name": "[NP 2027]_Chữa Bài tập ngày 21-5",
+          "parentName": "0.2.NGỮ PHÁP NÂNG CAO",
+          "checksum": "2026-05-22T08:36:41.403Z|1|d7d752291842",
+          "virtual": true
+        },
+        {
+          "id": "1oEWfGOv8Rix0T4HomX6YdyKs4AAHsxzP::file:15CATpckMXL4z95BZil2N-McDuvaPQ2yl",
+          "name": "[NP 2027]_Bài tập ngày 26-5",
+          "parentName": "0.2.NGỮ PHÁP NÂNG CAO",
+          "checksum": "2026-05-29T08:39:55.034Z|1|3b2140d61c04",
+          "virtual": true
+        },
+        {
+          "id": "1oEWfGOv8Rix0T4HomX6YdyKs4AAHsxzP::file:15gZWYB8yG3PcgzCwJHnKexqLYUX6kOzJ",
+          "name": "[NP2027]_Chữa Bài tập ngày 22-4",
+          "parentName": "0.2.NGỮ PHÁP NÂNG CAO",
+          "checksum": "2026-05-21T14:05:36.706Z|1|d8b8eaaa6260",
+          "virtual": true
+        },
+        {
+          "id": "1oEWfGOv8Rix0T4HomX6YdyKs4AAHsxzP::file:16SOKOsbOjjLNcqinR_3cvdbLgHlVp1Gd",
+          "name": "[NP2027]_Chữa Bài tập ngày 5-5",
+          "parentName": "0.2.NGỮ PHÁP NÂNG CAO",
+          "checksum": "2026-05-26T12:45:35.401Z|1|a5c6fa47d021",
+          "virtual": true
+        },
+        {
+          "id": "1oEWfGOv8Rix0T4HomX6YdyKs4AAHsxzP::file:17sB8U9MOEwtYY5Q3ECrhiHQVIBo42taG",
+          "name": "[NP 2027]_Chữa Bài tập ngày 20-5",
+          "parentName": "0.2.NGỮ PHÁP NÂNG CAO",
+          "checksum": "2026-05-22T08:36:49.039Z|1|cb4dd8d6fd65",
+          "virtual": true
+        },
+        {
+          "id": "1oEWfGOv8Rix0T4HomX6YdyKs4AAHsxzP::file:18vjiIc_A2ADWJBsD1ZbMa8LVxQeRb6Nw",
+          "name": "[NP2027]_Chữa Bài tập ngày 8-5",
+          "parentName": "0.2.NGỮ PHÁP NÂNG CAO",
+          "checksum": "2026-05-26T12:45:02.123Z|1|d6d9126532ed",
+          "virtual": true
+        },
+        {
+          "id": "1oEWfGOv8Rix0T4HomX6YdyKs4AAHsxzP::file:18YM7J5yewpJtfJvuP2Z7mQsBsY_FsIXi",
+          "name": "[NP2027]_Chữa Bài tập ngày 28-4",
+          "parentName": "0.2.NGỮ PHÁP NÂNG CAO",
+          "checksum": "2026-05-21T14:04:59.755Z|1|6eb4eebbd306",
+          "virtual": true
+        },
+        {
+          "id": "1oEWfGOv8Rix0T4HomX6YdyKs4AAHsxzP::file:19pux5F7UmRYDFpqoYpi_aHizwt4aQidy",
+          "name": "[NP2027]_Chữa Bài tập ngày 12-5",
+          "parentName": "0.2.NGỮ PHÁP NÂNG CAO",
+          "checksum": "2026-05-21T14:03:23.906Z|1|1632c1ecb441",
+          "virtual": true
+        },
+        {
+          "id": "1oEWfGOv8Rix0T4HomX6YdyKs4AAHsxzP::file:1aPKPCW8JpfJSWxFUEh--qvJUM7LyhafY",
+          "name": "[NP 2027]_Chữa Bài tập ngày 19-5",
+          "parentName": "0.2.NGỮ PHÁP NÂNG CAO",
+          "checksum": "2026-05-26T12:43:38.603Z|1|cd3a82473775",
+          "virtual": true
+        },
+        {
+          "id": "1oEWfGOv8Rix0T4HomX6YdyKs4AAHsxzP::file:1bhngQDyDF-9deM7kQrtxCswZlFKM3p02",
+          "name": "[NP2027]_Chữa Bài tập ngày 14-5",
+          "parentName": "0.2.NGỮ PHÁP NÂNG CAO",
+          "checksum": "2026-05-21T14:03:05.652Z|1|cbd8f405a222",
+          "virtual": true
+        },
+        {
+          "id": "1oEWfGOv8Rix0T4HomX6YdyKs4AAHsxzP::file:1BiE8XpAmUHUPqhLxXsFEc6p-n_LPwI19",
+          "name": "[NP 2027]_Chữa Bài tập ngày 18-5",
+          "parentName": "0.2.NGỮ PHÁP NÂNG CAO",
+          "checksum": "2026-05-26T12:43:48.737Z|1|2ee267f3f776",
+          "virtual": true
+        },
+        {
+          "id": "1oEWfGOv8Rix0T4HomX6YdyKs4AAHsxzP::file:1bkbvgHxYrBYlGCpNB53_wiE8UW4qxEPJ",
+          "name": "[NP2027]_Chữa Bài tập ngày 30-4",
+          "parentName": "0.2.NGỮ PHÁP NÂNG CAO",
+          "checksum": "2026-05-26T12:46:09.498Z|1|5cde91c371ea",
+          "virtual": true
+        },
+        {
+          "id": "1oEWfGOv8Rix0T4HomX6YdyKs4AAHsxzP::file:1buSbXsp2i5QJH6A_v0ggeQIBbSB-Ah1p",
+          "name": "[NP2027]_Chữa Bài tập ngày 12-5",
+          "parentName": "0.2.NGỮ PHÁP NÂNG CAO",
+          "checksum": "2026-05-26T12:44:38.900Z|1|94ce87ead46a",
+          "virtual": true
+        },
+        {
+          "id": "1oEWfGOv8Rix0T4HomX6YdyKs4AAHsxzP::file:1c1KqWrXRaGLRXLkxeI8iK64fnxJaUYCt",
+          "name": "[NP2027]_Chữa Bài tập ngày 21-4",
+          "parentName": "0.2.NGỮ PHÁP NÂNG CAO",
+          "checksum": "2026-05-21T14:05:49.801Z|1|8b77a6bab06f",
+          "virtual": true
+        },
+        {
+          "id": "1oEWfGOv8Rix0T4HomX6YdyKs4AAHsxzP::file:1C7jZQxAdHlUb52V-YHGwde5-0CLCdNhO",
+          "name": "[NP2027]_Chữa Bài tập ngày 7-5",
+          "parentName": "0.2.NGỮ PHÁP NÂNG CAO",
+          "checksum": "2026-05-26T12:45:14.168Z|1|1812a1374d2f",
+          "virtual": true
+        },
+        {
+          "id": "1oEWfGOv8Rix0T4HomX6YdyKs4AAHsxzP::file:1c9fb5uWIzhX8Q-LCIT3gwzZltOff7fyH",
+          "name": "[NP2027]_Chữa Bài tập ngày 4-5",
+          "parentName": "0.2.NGỮ PHÁP NÂNG CAO",
+          "checksum": "2026-05-21T14:04:21.838Z|1|f5f218329e71",
+          "virtual": true
+        },
+        {
+          "id": "1oEWfGOv8Rix0T4HomX6YdyKs4AAHsxzP::file:1cGKTERPk_f-nkpLPlvSvNpU2uZcITqf0",
+          "name": "[NP 2027]_Chữa Bài tập ngày 21-5",
+          "parentName": "0.2.NGỮ PHÁP NÂNG CAO",
+          "checksum": "2026-05-26T12:43:18.713Z|1|b8b4ce6a7697",
+          "virtual": true
+        },
+        {
+          "id": "1oEWfGOv8Rix0T4HomX6YdyKs4AAHsxzP::file:1CiKQ6E3evJ-kjFoyx4b8foXEwdjUghTF",
+          "name": "[NP2027]_Chữa Bài tập ngày 21-4",
+          "parentName": "0.2.NGỮ PHÁP NÂNG CAO",
+          "checksum": "2026-05-26T12:47:24.587Z|1|8f396bc932f2",
+          "virtual": true
+        },
+        {
+          "id": "1oEWfGOv8Rix0T4HomX6YdyKs4AAHsxzP::file:1CVifrO6mj2X2xQ4ErI9Ch4Rn3WbfRdvO",
+          "name": "[NP2027]_Chữa Bài tập ngày 11-5",
+          "parentName": "0.2.NGỮ PHÁP NÂNG CAO",
+          "checksum": "2026-05-26T12:44:48.384Z|1|995dd6bfa1fd",
+          "virtual": true
+        },
+        {
+          "id": "1oEWfGOv8Rix0T4HomX6YdyKs4AAHsxzP::file:1eC22Ck4XoNndJkixsdsMhVYyF_WzJLw9",
+          "name": "[NP 2027]_Chữa Bài tập ngày 28-5",
+          "parentName": "0.2.NGỮ PHÁP NÂNG CAO",
+          "checksum": "2026-05-29T12:40:42.583Z|1|ff73f654f151",
+          "virtual": true
+        },
+        {
+          "id": "1oEWfGOv8Rix0T4HomX6YdyKs4AAHsxzP::file:1FPcB6UjMY_pGmCeGjuK9panWcOB5zjPD",
+          "name": "[NP2027]_Chữa Bài tập ngày 13-5",
+          "parentName": "0.2.NGỮ PHÁP NÂNG CAO",
+          "checksum": "2026-05-26T12:44:26.184Z|1|5027835f22b0",
+          "virtual": true
+        },
+        {
+          "id": "1oEWfGOv8Rix0T4HomX6YdyKs4AAHsxzP::file:1fsveUn-_E2-FT6QpARE27Wms15hfbGDA",
+          "name": "[NP2027]_Chữa Bài tập ngày 24-4",
+          "parentName": "0.2.NGỮ PHÁP NÂNG CAO",
+          "checksum": "2026-05-21T14:05:18.065Z|1|3dbb5df54168",
+          "virtual": true
+        },
+        {
+          "id": "1oEWfGOv8Rix0T4HomX6YdyKs4AAHsxzP::file:1GE2UWAoPtX3UMMYpBCjNBc2KKmagSVGF",
+          "name": "[NP2027]_Chữa Bài tập ngày 20-4",
+          "parentName": "0.2.NGỮ PHÁP NÂNG CAO",
+          "checksum": "2026-05-26T12:47:34.653Z|1|77dc297b2214",
+          "virtual": true
+        },
+        {
+          "id": "1oEWfGOv8Rix0T4HomX6YdyKs4AAHsxzP::file:1h-QTOuKat-gqpwTU7AB6j5I4JA3WuKFp",
+          "name": "[NP2027]_Chữa Bài tập ngày 4-5",
+          "parentName": "0.2.NGỮ PHÁP NÂNG CAO",
+          "checksum": "2026-05-26T12:45:44.288Z|1|59e0b666b3b7",
+          "virtual": true
+        },
+        {
+          "id": "1oEWfGOv8Rix0T4HomX6YdyKs4AAHsxzP::file:1IgR4kERx-p6xBVXWEj4ssUFpLglDT_SD",
+          "name": "[NP2027]_Chữa Bài tập ngày 15-5",
+          "parentName": "0.2.NGỮ PHÁP NÂNG CAO",
+          "checksum": "2026-05-21T14:02:53.884Z|1|9598fc175b90",
+          "virtual": true
+        },
+        {
+          "id": "1oEWfGOv8Rix0T4HomX6YdyKs4AAHsxzP::file:1lA0zzL7ODY214_VHUbR15R720AgvM6qL",
+          "name": "[NP 2027]_Chữa Bài tập ngày 19-5",
+          "parentName": "0.2.NGỮ PHÁP NÂNG CAO",
+          "checksum": "2026-05-22T08:36:56.724Z|1|0dc6939b873e",
+          "virtual": true
+        },
+        {
+          "id": "1oEWfGOv8Rix0T4HomX6YdyKs4AAHsxzP::file:1MnWMaRfoBqrefKYOCo2NrzUROK6hYfc1",
+          "name": "[NP2027]_Chữa Bài tập ngày 27-4",
+          "parentName": "0.2.NGỮ PHÁP NÂNG CAO",
+          "checksum": "2026-05-21T14:05:09.595Z|1|e6c1f6076dd4",
+          "virtual": true
+        },
+        {
+          "id": "1oEWfGOv8Rix0T4HomX6YdyKs4AAHsxzP::file:1Nx7IdETrMLdPtAXgQfzolT48vuRZQbMO",
+          "name": "[NP2027]_Chữa Bài tập ngày 1-5",
+          "parentName": "0.2.NGỮ PHÁP NÂNG CAO",
+          "checksum": "2026-05-21T14:04:41.134Z|1|d97eb1c6ea16",
+          "virtual": true
+        },
+        {
+          "id": "1oEWfGOv8Rix0T4HomX6YdyKs4AAHsxzP::file:1oDfvw8rWqxF_ZpOdQDuy0PdQr1hS8QvT",
+          "name": "[NP2027]_Chữa Bài tập ngày 8-5",
+          "parentName": "0.2.NGỮ PHÁP NÂNG CAO",
+          "checksum": "2026-05-21T14:03:44.137Z|1|785b9d164d37",
+          "virtual": true
+        },
+        {
+          "id": "1oEWfGOv8Rix0T4HomX6YdyKs4AAHsxzP::file:1OvXN7yR_NqxrmRf3gKvhGVux6NFUJ8wA",
+          "name": "[NP2027]_Chữa Bài tập ngày 1-5",
+          "parentName": "0.2.NGỮ PHÁP NÂNG CAO",
+          "checksum": "2026-05-26T12:45:54.579Z|1|dcc69bd5d509",
+          "virtual": true
+        },
+        {
+          "id": "1oEWfGOv8Rix0T4HomX6YdyKs4AAHsxzP::file:1P5lvdJFnpEgN5q8hs_eTEwrpABsMrVDy",
+          "name": "[NP 2027]_Chữa Bài tập ngày 20-5",
+          "parentName": "0.2.NGỮ PHÁP NÂNG CAO",
+          "checksum": "2026-05-26T12:43:28.274Z|1|8217bb11db0c",
+          "virtual": true
+        },
+        {
+          "id": "1oEWfGOv8Rix0T4HomX6YdyKs4AAHsxzP::file:1P7tB3vPq3bm-2WHcOkBPkjXExr9KRZk1",
+          "name": "[NP2027]_Chữa Bài tập ngày 27-4",
+          "parentName": "0.2.NGỮ PHÁP NÂNG CAO",
+          "checksum": "2026-05-26T12:46:43.017Z|1|cb1273f28e07",
+          "virtual": true
+        },
+        {
+          "id": "1oEWfGOv8Rix0T4HomX6YdyKs4AAHsxzP::file:1pXr2THjNEyyPcUzi0anIwd4MnJ6MEU-y",
+          "name": "[NP 2027]_Chữa Bài tập ngày 18-5",
+          "parentName": "0.2.NGỮ PHÁP NÂNG CAO",
+          "checksum": "2026-05-22T08:37:05.329Z|1|6242fe50cac0",
+          "virtual": true
+        },
+        {
+          "id": "1oEWfGOv8Rix0T4HomX6YdyKs4AAHsxzP::file:1qg-qAG79vlbTldKCBF0tJwDfxUZ7A0cb",
+          "name": "[NP2027]_Chữa Bài tập ngày 24-4",
+          "parentName": "0.2.NGỮ PHÁP NÂNG CAO",
+          "checksum": "2026-05-26T12:46:51.900Z|1|1943bfe5c34a",
+          "virtual": true
+        },
+        {
+          "id": "1oEWfGOv8Rix0T4HomX6YdyKs4AAHsxzP::file:1QwpnzxtNOQ3Tzk8UD2TL_-X5OsPzhAs3",
+          "name": "[NP2027]_Chữa Bài tập ngày 22-4",
+          "parentName": "0.2.NGỮ PHÁP NÂNG CAO",
+          "checksum": "2026-05-26T12:47:10.781Z|1|1ccbac3094f8",
+          "virtual": true
+        },
+        {
+          "id": "1oEWfGOv8Rix0T4HomX6YdyKs4AAHsxzP::file:1Qz7rLZ-h_aSWHepEWT12c5Qq-og3Dy0Z",
+          "name": "[NP2027]_Chữa Bài tập ngày 5-5",
+          "parentName": "0.2.NGỮ PHÁP NÂNG CAO",
+          "checksum": "2026-05-21T14:04:12.150Z|1|1876f90869cd",
+          "virtual": true
+        },
+        {
+          "id": "1oEWfGOv8Rix0T4HomX6YdyKs4AAHsxzP::file:1sEFhDGi-fHLAdPdJIv2DslW4NbjMLT6K",
+          "name": "[NP 2027]_Bài tập ngày 22-5",
+          "parentName": "0.2.NGỮ PHÁP NÂNG CAO",
+          "checksum": "2026-05-26T08:29:06.536Z|1|f124d469acd0",
+          "virtual": true
+        },
+        {
+          "id": "1oEWfGOv8Rix0T4HomX6YdyKs4AAHsxzP::file:1SPmAgDb4NngoJCo2BI_3RX4-cIxy3NS_",
+          "name": "[NP 2027]_Bài tập ngày 28-5",
+          "parentName": "0.2.NGỮ PHÁP NÂNG CAO",
+          "checksum": "2026-05-29T08:39:52.281Z|1|a99cfa80cc41",
+          "virtual": true
+        },
+        {
+          "id": "1oEWfGOv8Rix0T4HomX6YdyKs4AAHsxzP::file:1STUuvglFNsz8oQGt7H2ggUA7lIVeKofY",
+          "name": "[NP2027]_Chữa Bài tập ngày 14-5",
+          "parentName": "0.2.NGỮ PHÁP NÂNG CAO",
+          "checksum": "2026-05-26T12:44:15.613Z|1|0aa9778f334e",
+          "virtual": true
+        },
+        {
+          "id": "1oEWfGOv8Rix0T4HomX6YdyKs4AAHsxzP::file:1SZTe89EmNiL66hzDpT2GQDhjLFcQbfLx",
+          "name": "[NP2027]_Chữa Bài tập ngày 29-4",
+          "parentName": "0.2.NGỮ PHÁP NÂNG CAO",
+          "checksum": "2026-05-26T12:46:20.871Z|1|7d43dca38e3b",
+          "virtual": true
+        },
+        {
+          "id": "1oEWfGOv8Rix0T4HomX6YdyKs4AAHsxzP::file:1udFbbHRxD0J3kFqtgN4Qf37oIryBYpgB",
+          "name": "[NP2027]_Chữa Bài tập ngày 6-5",
+          "parentName": "0.2.NGỮ PHÁP NÂNG CAO",
+          "checksum": "2026-05-26T12:45:26.492Z|1|8230f5acc01c",
+          "virtual": true
+        },
+        {
+          "id": "1oEWfGOv8Rix0T4HomX6YdyKs4AAHsxzP::file:1VcBjAR5PQWWDC0_nBHkSImHvD_Cvw1gZ",
+          "name": "[NP2027]_Chữa Bài tập ngày 15-5",
+          "parentName": "0.2.NGỮ PHÁP NÂNG CAO",
+          "checksum": "2026-05-26T12:44:05.277Z|1|227d3c1e7d3a",
+          "virtual": true
+        },
+        {
+          "id": "1oEWfGOv8Rix0T4HomX6YdyKs4AAHsxzP::file:1w3u1Zr5jtnzOnk7GudFIZyQ-U_BiQFmr",
+          "name": "[NP2027]_Chữa Bài tập ngày 28-4",
+          "parentName": "0.2.NGỮ PHÁP NÂNG CAO",
+          "checksum": "2026-05-26T12:46:32.459Z|1|5b645fcc9004",
+          "virtual": true
+        },
+        {
+          "id": "1oEWfGOv8Rix0T4HomX6YdyKs4AAHsxzP::file:1wrOf2ckSPpiVGzu4Bz9L84YidYIZb9-p",
+          "name": "[NP2027]_Chữa Bài tập ngày 13-5",
+          "parentName": "0.2.NGỮ PHÁP NÂNG CAO",
+          "checksum": "2026-05-21T14:03:14.792Z|1|6e3da1ce386e",
+          "virtual": true
+        },
+        {
+          "id": "1oEWfGOv8Rix0T4HomX6YdyKs4AAHsxzP::file:1YFsulo2SOzjnQ_hVw2p-UbesqiXIykj5",
+          "name": "[NP 2027]_Chữa Bài tập ngày 22-5",
+          "parentName": "0.2.NGỮ PHÁP NÂNG CAO",
+          "checksum": "2026-05-26T08:29:06.540Z|1|aaefd23a6dd1",
+          "virtual": true
+        },
+        {
+          "id": "1oEWfGOv8Rix0T4HomX6YdyKs4AAHsxzP::file:1YR7IPcvyUUJfv12bk1iNZJ12E7oCxDsn",
+          "name": "[NP2027]_Chữa Bài tập ngày 30-4",
+          "parentName": "0.2.NGỮ PHÁP NÂNG CAO",
+          "checksum": "2026-05-21T14:04:32.073Z|1|402f9bd03d36",
+          "virtual": true
+        },
+        {
+          "id": "1oEWfGOv8Rix0T4HomX6YdyKs4AAHsxzP::file:1YZblgX9rvsb5_FIdHeSdOgBY3NzmL8Jm",
+          "name": "[NP2027]_Chữa Bài tập ngày 7-5",
+          "parentName": "0.2.NGỮ PHÁP NÂNG CAO",
+          "checksum": "2026-05-21T14:03:52.032Z|1|23b6651b8f5d",
+          "virtual": true
+        },
+        {
+          "id": "1oEWfGOv8Rix0T4HomX6YdyKs4AAHsxzP::file:1Za8rUTVy8ya_xMYxNzuMwqJ2kmVA8XP9",
+          "name": "[NP 2027]_Chữa Bài tập ngày 26-5",
+          "parentName": "0.2.NGỮ PHÁP NÂNG CAO",
+          "checksum": "2026-05-29T12:41:17.158Z|1|8757f709ef12",
+          "virtual": true
+        },
+        {
+          "id": "1ESXXWZ9zhyZTYdbgJ6SNLGSMwUWomxcu",
+          "name": "27. [NP 2027]_Bài tập ngày 25/5",
+          "parentName": "0.2.NGỮ PHÁP NÂNG CAO",
+          "checksum": "2026-05-29T12:41:25.657Z|2",
+          "virtual": false
+        },
+        {
+          "id": "1sJyfxhI0PXKNyzE8cQV-NF0CrA3xa1e0",
+          "name": "29. [NP 2027]_Bài tập ngày 27/5",
+          "parentName": "0.2.NGỮ PHÁP NÂNG CAO",
+          "checksum": "2026-05-29T12:41:07.752Z|2",
+          "virtual": false
+        },
+        {
+          "id": "1qofqzDXQYyn9B3wkzqMNwLi_k09QKAKq::file:12LwqMN4ELb-mFltQKhLer_ogQWFc-zW1",
+          "name": "3. [NP2027]_Bài tập tuần 1",
+          "parentName": "1. Tuần 1 (từ ngày 20/4/2026 - 26/4/2026)",
+          "checksum": "2026-05-21T14:16:06.422Z|1|7580fb9f83e7",
+          "virtual": true
+        },
+        {
+          "id": "1qofqzDXQYyn9B3wkzqMNwLi_k09QKAKq::file:1Pws3Xv64xZVMAJziX7uMi-V6QjxqfDFP",
+          "name": "4. [NP2027]_Ngữ pháp nâng cao tuần 1",
+          "parentName": "1. Tuần 1 (từ ngày 20/4/2026 - 26/4/2026)",
+          "checksum": "2026-05-21T14:16:10.356Z|1|a23380afcf7a",
+          "virtual": true
+        },
+        {
+          "id": "1qofqzDXQYyn9B3wkzqMNwLi_k09QKAKq::file:1QxWWIOg7OwsWQD2pfDLw1FemmKgiw383",
+          "name": "2. [NP2027]_Bảng từ vựng tuần 1",
+          "parentName": "1. Tuần 1 (từ ngày 20/4/2026 - 26/4/2026)",
+          "checksum": "2026-05-21T14:16:04.870Z|1|085433fdc025",
+          "virtual": true
+        },
+        {
+          "id": "1qofqzDXQYyn9B3wkzqMNwLi_k09QKAKq::file:1vvBo3Su0zKBNB16Foj5V4lq4WM--73p5",
+          "name": "5. [NP2027]_Ngữ pháp ứng dụng tuần 1",
+          "parentName": "1. Tuần 1 (từ ngày 20/4/2026 - 26/4/2026)",
+          "checksum": "2026-05-21T14:16:11.812Z|1|91d9ac599c5d",
+          "virtual": true
+        },
+        {
+          "id": "1MFPzwdKCGVUzBWLPi_WyiEm3O70O3tZs",
+          "name": "0.2.THI THỬ TUẦN 1",
+          "parentName": "1. Tuần 1 (từ ngày 20/4/2026 - 26/4/2026)",
+          "checksum": "2026-05-21T14:12:07.713Z|2",
+          "virtual": false
+        },
+        {
+          "id": "1UTgCwKYtS_XnjWisFZKQTDbEn3h2CplY",
+          "name": "0.3.LIVESTREAM  TUẦN 1",
+          "parentName": "1. Tuần 1 (từ ngày 20/4/2026 - 26/4/2026)",
+          "checksum": "2026-05-21T13:56:53.919Z|0",
+          "virtual": false
+        },
+        {
+          "id": "13zAAhvQdfLjbIkDnVohWTTQJ_5DVkLj3",
+          "name": "5. [NP 2027]_Lý thuyết live buổi 1",
+          "parentName": "1. Tuần 1 (từ ngày 20/4/2026 - 26/4/2026)",
+          "checksum": "2026-05-25T10:00:57.996Z|2",
+          "virtual": false
+        },
+        {
+          "id": "1rAgRs06r95DJskxRcV90UONOe6sA7WaR",
+          "name": "8. [NP 2027]_Chữa bài ngày 20/4",
+          "parentName": "1. Tuần 1 (từ ngày 20/4/2026 - 26/4/2026)",
+          "checksum": "2026-05-21T14:16:01.509Z|2",
+          "virtual": false
+        },
+        {
+          "id": "1z5Rf1iPL-WUMxrck_AzWGZJXbC3JUeCq",
+          "name": "12. [NP 2027]_Live buổi 2",
+          "parentName": "1. Tuần 1 (từ ngày 20/4/2026 - 26/4/2026)",
+          "checksum": "2026-05-21T14:15:39.590Z|1",
+          "virtual": false
+        },
+        {
+          "id": "1zIDa8ZHeummisi-TE3Hx5MVrp-jv6nTT",
+          "name": "13. [NP 2027] Chữa bài ngày 21/4",
+          "parentName": "1. Tuần 1 (từ ngày 20/4/2026 - 26/4/2026)",
+          "checksum": "2026-05-21T14:14:34.521Z|2",
+          "virtual": false
+        },
+        {
+          "id": "1xWxbcEUEJJlztpfKg0Rs_bebVeHASAyn",
+          "name": "15. [NP 2027] Chữa bài ngày 22/4",
+          "parentName": "1. Tuần 1 (từ ngày 20/4/2026 - 26/4/2026)",
+          "checksum": "2026-05-21T14:14:13.114Z|2",
+          "virtual": false
+        },
+        {
+          "id": "1rsa7lOUXDAWWqZZOYenVBWGBgHPYWjom",
+          "name": "17. [NP 2027] Chữa bài ngày 23/4",
+          "parentName": "1. Tuần 1 (từ ngày 20/4/2026 - 26/4/2026)",
+          "checksum": "2026-05-21T14:13:52.529Z|2",
+          "virtual": false
+        },
+        {
+          "id": "17s7e0ifJ3SrgraLDuY7re0Pr_UOynjHF",
+          "name": "19. [NP 2027] Chữa bài ngày 24/4",
+          "parentName": "1. Tuần 1 (từ ngày 20/4/2026 - 26/4/2026)",
+          "checksum": "2026-05-21T14:13:27.722Z|1",
+          "virtual": false
+        },
+        {
+          "id": "1UmK5o27FrSKf9f9nNFeihgz8ZyjPL3v-",
+          "name": "21. [NP 2027]_ Chữa bài ngày 25/4",
+          "parentName": "1. Tuần 1 (từ ngày 20/4/2026 - 26/4/2026)",
+          "checksum": "2026-05-21T14:13:15.822Z|1",
+          "virtual": false
+        },
+        {
+          "id": "1-ns9sjY7s8BKSp20nxiXXFvKFaewJWXO",
+          "name": "22. [NP 2027]_Bài tập làm thêm tuần 1",
+          "parentName": "1. Tuần 1 (từ ngày 20/4/2026 - 26/4/2026)",
+          "checksum": "2026-05-21T13:56:58.846Z|0",
+          "virtual": false
+        },
+        {
+          "id": "1D-JKy4acJn-mxNPe0JMdnCQewwNYJylQ::file:16V1GbkPd4gUHHpgicME8CRjkG3EgdgSx",
+          "name": "6. [NP2027]_Bảng từ vựng tuần 2",
+          "parentName": "2. Tuần 2 (từ ngày 27/4/2026 - 3/5/2026)",
+          "checksum": "2026-05-21T14:02:43.787Z|1|8a3aed34fe47",
+          "virtual": true
+        },
+        {
+          "id": "1D-JKy4acJn-mxNPe0JMdnCQewwNYJylQ::file:1fW3e3YDJPDaDO5IdOD6wXRW0y5KDFQXL",
+          "name": "8. [NP2027]_Ngữ pháp nâng cao tuần 2",
+          "parentName": "2. Tuần 2 (từ ngày 27/4/2026 - 3/5/2026)",
+          "checksum": "2026-05-21T14:02:40.994Z|1|9b8d19ece1e6",
+          "virtual": true
+        },
+        {
+          "id": "1D-JKy4acJn-mxNPe0JMdnCQewwNYJylQ::file:1ibH0nDEApxZ8PvDJQTW8oZGg11geBztV",
+          "name": "7. [NP2027]_Bài tập tuần 2",
+          "parentName": "2. Tuần 2 (từ ngày 27/4/2026 - 3/5/2026)",
+          "checksum": "2026-05-21T14:02:42.432Z|1|7f7bf042840a",
+          "virtual": true
+        },
+        {
+          "id": "1D-JKy4acJn-mxNPe0JMdnCQewwNYJylQ::file:1J37bFumLxEzYwFiuaGZp6VwXpFFgxsg3",
+          "name": "9. [NP2027]_Ngữ pháp ứng dụng tuần 2",
+          "parentName": "2. Tuần 2 (từ ngày 27/4/2026 - 3/5/2026)",
+          "checksum": "2026-05-21T14:02:39.601Z|1|9e8ee1eea529",
+          "virtual": true
+        },
+        {
+          "id": "1D44-GLpB3KXumlOg8wdElCc6KFch2MlC",
+          "name": "0.2 THI THỬ TUẦN 2",
+          "parentName": "2. Tuần 2 (từ ngày 27/4/2026 - 3/5/2026)",
+          "checksum": "2026-05-21T14:02:36.291Z|2",
+          "virtual": false
+        },
+        {
+          "id": "1R8NevqDPjfD-hS4bHYmgY9kxH9FeYOnU",
+          "name": "0.3 LIVESTREAM  TUẦN 2",
+          "parentName": "2. Tuần 2 (từ ngày 27/4/2026 - 3/5/2026)",
+          "checksum": "2026-05-21T14:02:26.146Z|3",
+          "virtual": false
+        },
+        {
+          "id": "1HCWQvO83e_Z9ZfacDBZBD39X24wiy-G-",
+          "name": "3. [NP 2027]_Buổi live 3 ",
+          "parentName": "2. Tuần 2 (từ ngày 27/4/2026 - 3/5/2026)",
+          "checksum": "2026-05-21T13:59:37.475Z|1",
+          "virtual": false
+        },
+        {
+          "id": "1yAoE2VqW6w7wB1IkLgQFPshMq1t75v10",
+          "name": "6. [NP 2027]_Video bổ trợ live 26/4",
+          "parentName": "2. Tuần 2 (từ ngày 27/4/2026 - 3/5/2026)",
+          "checksum": "2026-05-21T13:57:29.358Z|2",
+          "virtual": false
+        },
+        {
+          "id": "1adQg4afyqLIlQid6ij4ugrxiULdgqfHj",
+          "name": "8. [NP 2027]_Chữa bài ngày 27/4",
+          "parentName": "2. Tuần 2 (từ ngày 27/4/2026 - 3/5/2026)",
+          "checksum": "2026-05-21T13:57:11.700Z|2",
+          "virtual": false
+        },
+        {
+          "id": "12fRGTIVRk4Z4jOAaHin2KpH5Dy3qP9_S",
+          "name": "10. [NP 2027]_Chữa bài ngày 28/4",
+          "parentName": "2. Tuần 2 (từ ngày 27/4/2026 - 3/5/2026)",
+          "checksum": "2026-05-21T13:54:19.748Z|2",
+          "virtual": false
+        },
+        {
+          "id": "1q_uOOCBq_73yKq47eRTiZU2JyVsi5imC",
+          "name": "12. [NP 2027]_Chữa bài ngày 29/4",
+          "parentName": "2. Tuần 2 (từ ngày 27/4/2026 - 3/5/2026)",
+          "checksum": "2026-05-21T13:56:11.517Z|2",
+          "virtual": false
+        },
+        {
+          "id": "1_lsra0eETfCjHZKIDn7MXYOX7VM5Xb8a",
+          "name": "14. [NP 2027]_Chữa bài ngày 30/4",
+          "parentName": "2. Tuần 2 (từ ngày 27/4/2026 - 3/5/2026)",
+          "checksum": "2026-05-21T13:55:46.677Z|2",
+          "virtual": false
+        },
+        {
+          "id": "1kCsk1vAn6dtkIe-An0c0C2GF4AGfFnbp",
+          "name": "16. [NP 2027]_Chữa bài ngày 1/5",
+          "parentName": "2. Tuần 2 (từ ngày 27/4/2026 - 3/5/2026)",
+          "checksum": "2026-05-21T13:55:18.698Z|2",
+          "virtual": false
+        },
+        {
+          "id": "1M9MONtFqVN_ndIwo__e8jDVD-IjLf2rS",
+          "name": "18. [NP 2027] Chữa bài ngày 2/5",
+          "parentName": "2. Tuần 2 (từ ngày 27/4/2026 - 3/5/2026)",
+          "checksum": "2026-05-21T13:54:50.550Z|2",
+          "virtual": false
+        },
+        {
+          "id": "15smx9bCiB59F9n4jMki06XpWGMrDGOgG",
+          "name": "19. [NP 2027]_Bài tập làm thêm tuần 2",
+          "parentName": "2. Tuần 2 (từ ngày 27/4/2026 - 3/5/2026)",
+          "checksum": "2026-05-21T13:54:21.376Z|0",
+          "virtual": false
+        },
+        {
+          "id": "1RAcJ_a_ysZm1V2ine-ffnWHHRPI0k2V2::file:1AwmYRSvhuK1RtRTBA7HonLB6FE1mkO7y",
+          "name": "13. [NP2027]_Ngữ pháp ứng dụng tuần 3",
+          "parentName": "3. TUẦN 3 (từ ngày 4/5/2026 - 10/5/2026)",
+          "checksum": "2026-05-21T13:53:54.001Z|1|5c0feb07fe30",
+          "virtual": true
+        },
+        {
+          "id": "1RAcJ_a_ysZm1V2ine-ffnWHHRPI0k2V2::file:1JETXtC6WW4erUqrOeLzuJPMQRqLgc8sW",
+          "name": "12. [NP2027]_Ngữ pháp nâng cao tuần 3",
+          "parentName": "3. TUẦN 3 (từ ngày 4/5/2026 - 10/5/2026)",
+          "checksum": "2026-05-21T13:53:57.506Z|1|741e0750b25b",
+          "virtual": true
+        },
+        {
+          "id": "1RAcJ_a_ysZm1V2ine-ffnWHHRPI0k2V2::file:1JWHcUz8r5_EVYKbKr08XPn8aMWhFhIlx",
+          "name": "10. [NP2027]_Bảng từ vựng tuần 3",
+          "parentName": "3. TUẦN 3 (từ ngày 4/5/2026 - 10/5/2026)",
+          "checksum": "2026-05-21T13:53:56.073Z|1|7bbf253454fe",
+          "virtual": true
+        },
+        {
+          "id": "1RAcJ_a_ysZm1V2ine-ffnWHHRPI0k2V2::file:1Npy4er6spyq7e7PVgyOKxT5NiJQGoTx_",
+          "name": "11. [NP2027]_Bài tập tuần 3",
+          "parentName": "3. TUẦN 3 (từ ngày 4/5/2026 - 10/5/2026)",
+          "checksum": "2026-05-21T13:53:52.545Z|1|3a4ea7e61209",
+          "virtual": true
+        },
+        {
+          "id": "1MD6zGXD3XJri43uT5B9M3PdOQyoNP1T2",
+          "name": "0.2 THI THỬ TUẦN 3",
+          "parentName": "3. TUẦN 3 (từ ngày 4/5/2026 - 10/5/2026)",
+          "checksum": "2026-05-21T13:53:49.445Z|1",
+          "virtual": false
+        },
+        {
+          "id": "1ZORcW_IJN75JUonnRIQP5qSMfaCwopTO",
+          "name": "0.3 LIVESTREAM  TUẦN 3",
+          "parentName": "3. TUẦN 3 (từ ngày 4/5/2026 - 10/5/2026)",
+          "checksum": "2026-05-21T13:53:37.975Z|1",
+          "virtual": false
+        },
+        {
+          "id": "1F1kHDXt_PhZPhJErAgYlP84Xk5mc2JGv",
+          "name": "3. [NP 2027]_buổi live 4 ",
+          "parentName": "3. TUẦN 3 (từ ngày 4/5/2026 - 10/5/2026)",
+          "checksum": "2026-05-21T13:53:16.911Z|1",
+          "virtual": false
+        },
+        {
+          "id": "1ZgZWl36JuZKtD2yafaRLbZHaJ4OyPqT6",
+          "name": "11. [NP 2027]_Chữa bài ngày 4/5",
+          "parentName": "3. TUẦN 3 (từ ngày 4/5/2026 - 10/5/2026)",
+          "checksum": "2026-05-21T13:51:24.273Z|2",
+          "virtual": false
+        },
+        {
+          "id": "1AlaRje15THcBZKXFwgbBtfaa_6y4F0g7",
+          "name": "13. [NP 2027]_Chữa bài ngày 5/5",
+          "parentName": "3. TUẦN 3 (từ ngày 4/5/2026 - 10/5/2026)",
+          "checksum": "2026-05-21T13:50:52.251Z|2",
+          "virtual": false
+        },
+        {
+          "id": "1Ts4fAAKT7vWAblmfRHgFtyBmdQG6Xcu7",
+          "name": "15. [NP 2027]_Chữa bài ngày 6/5",
+          "parentName": "3. TUẦN 3 (từ ngày 4/5/2026 - 10/5/2026)",
+          "checksum": "2026-05-21T13:50:29.575Z|1",
+          "virtual": false
+        },
+        {
+          "id": "1AYDmlvP09k7oGacH09M_zWYuldyBhIvn",
+          "name": "17. [NP 2027]_Chữa bài ngày 7/5",
+          "parentName": "3. TUẦN 3 (từ ngày 4/5/2026 - 10/5/2026)",
+          "checksum": "2026-05-21T13:50:11.244Z|2",
+          "virtual": false
+        },
+        {
+          "id": "1lzqzykv2wzOsy_nigYMgiE7U_K_W_M8u",
+          "name": "20. [NP 2027]_Chữa bài ngày 8/5",
+          "parentName": "3. TUẦN 3 (từ ngày 4/5/2026 - 10/5/2026)",
+          "checksum": "2026-05-21T13:49:47.125Z|2",
+          "virtual": false
+        },
+        {
+          "id": "1zHGHb5dn5vUEG_glgaIzhrdOWdP8LX4H",
+          "name": "22. [NP 2027]_Chữa bài ngày 9/5",
+          "parentName": "3. TUẦN 3 (từ ngày 4/5/2026 - 10/5/2026)",
+          "checksum": "2026-05-21T13:49:26.256Z|2",
+          "virtual": false
+        },
+        {
+          "id": "1_wRt1aQXEGOVCsjYSdxSlHqF7q0TnsrD",
+          "name": "23. [NP 2027]_Bài tập làm thêm tuần 3",
+          "parentName": "3. TUẦN 3 (từ ngày 4/5/2026 - 10/5/2026)",
+          "checksum": "2026-05-21T13:49:00.713Z|0",
+          "virtual": false
+        },
+        {
+          "id": "1mNEIquF0eu8hf54HvvhTQEsyhwh_EE-G::file:10MXe5RjDmcEDNRpmPIldet_x2rUqzMQc",
+          "name": "15. [NP2027]_Bài tập tuần 4",
+          "parentName": "4. TUẦN 4 (từ ngày 11/5/2026 - 17/5/2026)",
+          "checksum": "2026-05-21T13:48:54.939Z|1|3a77f4952575",
+          "virtual": true
+        },
+        {
+          "id": "1mNEIquF0eu8hf54HvvhTQEsyhwh_EE-G::file:18SEKgMWAiyUWsHZ1vj24P_K5-jFNX7uA",
+          "name": "17. [NP2027]_Ngữ pháp ứng dụng tuần 4",
+          "parentName": "4. TUẦN 4 (từ ngày 11/5/2026 - 17/5/2026)",
+          "checksum": "2026-05-21T13:48:50.375Z|1|603729c4e92d",
+          "virtual": true
+        },
+        {
+          "id": "1mNEIquF0eu8hf54HvvhTQEsyhwh_EE-G::file:1qa6-RNQJ7J9zUZDIaZ_Fig7Vl4Tjn_PT",
+          "name": "16. [NP2027]_Ngữ pháp nâng cao tuần 4",
+          "parentName": "4. TUẦN 4 (từ ngày 11/5/2026 - 17/5/2026)",
+          "checksum": "2026-05-21T13:48:52.638Z|1|33d281142755",
+          "virtual": true
+        },
+        {
+          "id": "1mNEIquF0eu8hf54HvvhTQEsyhwh_EE-G::file:1ucPWwjBKDY1XJBiwcc9LXX0bDw_Nljqo",
+          "name": "14. [NP2027]_Bảng từ vựng tuần 4",
+          "parentName": "4. TUẦN 4 (từ ngày 11/5/2026 - 17/5/2026)",
+          "checksum": "2026-05-21T13:48:56.282Z|1|3a89c3f2e5ca",
+          "virtual": true
+        },
+        {
+          "id": "1c_6ll0ltBQqTCGvufw2kGWTBYI_oUqlm",
+          "name": "0.2 THI THỬ TUẦN 4",
+          "parentName": "4. TUẦN 4 (từ ngày 11/5/2026 - 17/5/2026)",
+          "checksum": "2026-05-21T13:48:47.150Z|1",
+          "virtual": false
+        },
+        {
+          "id": "1P7yHPwDZtZp25D33_6Q2dKYeR11Vnqw-",
+          "name": "0.3 LIVESTREAM  TUẦN 4",
+          "parentName": "4. TUẦN 4 (từ ngày 11/5/2026 - 17/5/2026)",
+          "checksum": "2026-05-21T13:48:36.631Z|1",
+          "virtual": false
+        },
+        {
+          "id": "19qtCWZJPiP-2hdr9_tIwUdfInzGCV128",
+          "name": "5. [NP 2027]_Live buổi 5",
+          "parentName": "4. TUẦN 4 (từ ngày 11/5/2026 - 17/5/2026)",
+          "checksum": "2026-05-21T13:46:26.346Z|2",
+          "virtual": false
+        },
+        {
+          "id": "1ir9eX-Yh-LYQLli4x-x4IYta8Dzp-TwM",
+          "name": "7. [NP 2027] Chữa bài ngày 11/5",
+          "parentName": "4. TUẦN 4 (từ ngày 11/5/2026 - 17/5/2026)",
+          "checksum": "2026-05-21T13:46:20.043Z|2",
+          "virtual": false
+        },
+        {
+          "id": "1bTnEVwEdhBv2m5jZHtlzGgV5C11YcdEm",
+          "name": "9. [NP 2027]_Chữa bài ngày 12/5",
+          "parentName": "4. TUẦN 4 (từ ngày 11/5/2026 - 17/5/2026)",
+          "checksum": "2026-05-21T13:46:12.561Z|1",
+          "virtual": false
+        },
+        {
+          "id": "1Nm7Q-ggnTMFvtXhNILGQThbVgsO3zX7r",
+          "name": "11. [NP 2027]_Chữa bài ngày 13/5",
+          "parentName": "4. TUẦN 4 (từ ngày 11/5/2026 - 17/5/2026)",
+          "checksum": "2026-05-21T13:45:52.573Z|1",
+          "virtual": false
+        },
+        {
+          "id": "1sex2PHzGyz3e1ClLZm2Ue_rT0MrBPir2",
+          "name": "13. [NP 2027] Chữa bài ngày 14/5",
+          "parentName": "4. TUẦN 4 (từ ngày 11/5/2026 - 17/5/2026)",
+          "checksum": "2026-05-21T13:45:34.184Z|1",
+          "virtual": false
+        },
+        {
+          "id": "10sDjS2SSiOSk-A9KvsCGPa1xnkApVyuR",
+          "name": "15. [NP 2027] Chữa bài ngày 15/5",
+          "parentName": "4. TUẦN 4 (từ ngày 11/5/2026 - 17/5/2026)",
+          "checksum": "2026-05-21T13:45:16.505Z|1",
+          "virtual": false
+        },
+        {
+          "id": "1GnJsL85qPbCMN7z9At_4PR9Qcjn_TsGK",
+          "name": "17. [NP 2027] Chữa bài ngày 16/5",
+          "parentName": "4. TUẦN 4 (từ ngày 11/5/2026 - 17/5/2026)",
+          "checksum": "2026-05-21T13:44:59.155Z|1",
+          "virtual": false
+        },
+        {
+          "id": "1mmKilad2t0M_MPwBSsE5sj6Lizhadea9",
+          "name": "18. [NP 2027]_Bài tập làm thêm tuần 4",
+          "parentName": "4. TUẦN 4 (từ ngày 11/5/2026 - 17/5/2026)",
+          "checksum": "2026-05-21T13:44:39.972Z|0",
+          "virtual": false
+        },
+        {
+          "id": "1M-xvM0IYJZRJOeK6g0WC9VgkuHUk7VTg::file:18IDFOMlj5T2iCO1-NcYfGTpl25BR8y-O",
+          "name": "19. [NP2027]_Bài tập tuần 5",
+          "parentName": "5. TUẦN 5 (từ ngày 18/5/2026 - 24/5/2026)",
+          "checksum": "2026-05-21T13:44:34.079Z|1|0d1566978801",
+          "virtual": true
+        },
+        {
+          "id": "1M-xvM0IYJZRJOeK6g0WC9VgkuHUk7VTg::file:1fCPyCC0r25g96_zxuh7cuhzJNevnfxat",
+          "name": "20. [NP2027]_Ngữ pháp nâng cao tuần 5",
+          "parentName": "5. TUẦN 5 (từ ngày 18/5/2026 - 24/5/2026)",
+          "checksum": "2026-05-21T13:44:35.466Z|1|ef32bca2740d",
+          "virtual": true
+        },
+        {
+          "id": "1M-xvM0IYJZRJOeK6g0WC9VgkuHUk7VTg::file:1WlSCL2e7vbi6L4ftvsmVAiZKHxA40IZz",
+          "name": "21. [NP2027]_Ngữ pháp ứng dụng tuần 5",
+          "parentName": "5. TUẦN 5 (từ ngày 18/5/2026 - 24/5/2026)",
+          "checksum": "2026-05-21T13:44:30.531Z|1|4d3beadcf950",
+          "virtual": true
+        },
+        {
+          "id": "1M-xvM0IYJZRJOeK6g0WC9VgkuHUk7VTg::file:1ZNjPS02G-p6u7PJCf4o3PlmSDBo5-w6O",
+          "name": "18. [NP2027]_Bảng từ vựng tuần 5",
+          "parentName": "5. TUẦN 5 (từ ngày 18/5/2026 - 24/5/2026)",
+          "checksum": "2026-05-21T13:44:32.174Z|1|6e07379210ea",
+          "virtual": true
+        },
+        {
+          "id": "1P9vUf41TzJtEu4-5bxcfZq6OdLl75Otd",
+          "name": "0.2 THI THỬ TUẦN 5",
+          "parentName": "5. TUẦN 5 (từ ngày 18/5/2026 - 24/5/2026)",
+          "checksum": "2026-05-26T12:41:56.712Z|1",
+          "virtual": false
+        },
+        {
+          "id": "1O5P4F2fvZWFZfZMsp8eye6gpVC8eyF4y",
+          "name": "0.3 LIVESTREAM  TUẦN 5",
+          "parentName": "5. TUẦN 5 (từ ngày 18/5/2026 - 24/5/2026)",
+          "checksum": "2026-05-21T13:44:25.530Z|0",
+          "virtual": false
+        },
+        {
+          "id": "1vshyZQov-ZWylryfGT3W11zfX2lelJ-t",
+          "name": "1. [NP 2027]_Video bổ trợ live ngày 17/5",
+          "parentName": "5. TUẦN 5 (từ ngày 18/5/2026 - 24/5/2026)",
+          "checksum": "2026-05-21T13:44:23.981Z|3",
+          "virtual": false
+        },
+        {
+          "id": "1crO4ywvjgkQAEvgCZ68UuN_yafY62JFZ",
+          "name": "4. [NP 2027]_Live 6",
+          "parentName": "5. TUẦN 5 (từ ngày 18/5/2026 - 24/5/2026)",
+          "checksum": "2026-05-21T13:42:58.843Z|1",
+          "virtual": false
+        },
+        {
+          "id": "1YZSURlOQGhwV-Gr3LFZnE2bz_Wh_A-dj",
+          "name": "8. [NP 2027]_Chữa bài ngày 18/5",
+          "parentName": "5. TUẦN 5 (từ ngày 18/5/2026 - 24/5/2026)",
+          "checksum": "2026-05-21T13:40:46.361Z|2",
+          "virtual": false
+        },
+        {
+          "id": "1CaCDgrkXHkosvbHLe-MQLtb17EBQAo5A",
+          "name": "13. [NP 2027]_Chữa bài ngày 19/5",
+          "parentName": "5. TUẦN 5 (từ ngày 18/5/2026 - 24/5/2026)",
+          "checksum": "2026-05-22T08:35:04.430Z|1",
+          "virtual": false
+        },
+        {
+          "id": "1ZWSNDc2dYYJTIHdojtQ31PGcHDGGnWim",
+          "name": "14. [NP 2027]_Live 7",
+          "parentName": "5. TUẦN 5 (từ ngày 18/5/2026 - 24/5/2026)",
+          "checksum": "2026-05-22T08:34:46.916Z|3",
+          "virtual": false
+        },
+        {
+          "id": "1Tj57-b0ZqGtdyi9iSFtt2t4TlPV4JQRS",
+          "name": "16. [NP 2027]_Chữa bài ngày 20/5",
+          "parentName": "5. TUẦN 5 (từ ngày 18/5/2026 - 24/5/2026)",
+          "checksum": "2026-05-22T08:34:35.091Z|2",
+          "virtual": false
+        },
+        {
+          "id": "1UYNb9mPzYgw1dDKXnRf9t76DwHk2nikF",
+          "name": "18. [NP 2027]_Chữa bài ngày 21/5",
+          "parentName": "5. TUẦN 5 (từ ngày 18/5/2026 - 24/5/2026)",
+          "checksum": "2026-05-22T08:33:36.319Z|2",
+          "virtual": false
+        },
+        {
+          "id": "1hiPnpcucC6JbWnAV_oTcKtEiVHEX_MCa",
+          "name": "20. [NP 2027]_Chữa bài ngày 22/5",
+          "parentName": "5. TUẦN 5 (từ ngày 18/5/2026 - 24/5/2026)",
+          "checksum": "2026-05-26T12:41:32.145Z|2",
+          "virtual": false
+        },
+        {
+          "id": "1_F0ScImvTOJVApm3J97ePEDzKYbgSS_T",
+          "name": "22. [NP 2027]_Chữa bài ngày 23/5",
+          "parentName": "5. TUẦN 5 (từ ngày 18/5/2026 - 24/5/2026)",
+          "checksum": "2026-05-26T12:41:07.180Z|1",
+          "virtual": false
+        },
+        {
+          "id": "1cKsYwOIsLZB-7OMzyBIEhdK1HMqTEgZf",
+          "name": "23. [NP 2027]_Bài tập làm thêm tuần 5",
+          "parentName": "5. TUẦN 5 (từ ngày 18/5/2026 - 24/5/2026)",
+          "checksum": "2026-05-26T08:28:40.011Z|0",
+          "virtual": false
+        },
+        {
+          "id": "1DjfVdwsjxx3_KRBn5VuQWWR1I8sBS9-W::file:1744XCmUzO5VzaIoMcPfYBLBIY8sOlpQa",
+          "name": "22. [NP2027]_Bảng từ vựng tuần 6",
+          "parentName": "6. TUẦN 6 (từ ngày 25/5/2026 - 31/5/2026)",
+          "checksum": "2026-05-26T08:28:39.218Z|1|6dd3cbec36e7",
+          "virtual": true
+        },
+        {
+          "id": "1DjfVdwsjxx3_KRBn5VuQWWR1I8sBS9-W::file:1dMVYXm5pPuVhrYRbtEhS1-9K4so-TLwO",
+          "name": "23. [NP2027]_Bài tập tuần 6",
+          "parentName": "6. TUẦN 6 (từ ngày 25/5/2026 - 31/5/2026)",
+          "checksum": "2026-05-26T08:28:39.212Z|1|00c262d7eb12",
+          "virtual": true
+        },
+        {
+          "id": "1DjfVdwsjxx3_KRBn5VuQWWR1I8sBS9-W::file:1ESiLOKBvyg1z3XyCWRO8xsVRXIsyJToF",
+          "name": "9. [NP 2027]_Bài tập ngày 25-5",
+          "parentName": "6. TUẦN 6 (từ ngày 25/5/2026 - 31/5/2026)",
+          "checksum": "2026-05-26T08:28:37.414Z|1|1d5eb22a405e",
+          "virtual": true
+        },
+        {
+          "id": "1DjfVdwsjxx3_KRBn5VuQWWR1I8sBS9-W::file:1iDmZZrsd1w_Xvb_gB6BVAMH8wRVlAcQc",
+          "name": "[NP 2027]_Chữa Bài tập ngày 25-5",
+          "parentName": "6. TUẦN 6 (từ ngày 25/5/2026 - 31/5/2026)",
+          "checksum": "2026-05-26T12:39:00.872Z|1|71d8b069b430",
+          "virtual": true
+        },
+        {
+          "id": "1DjfVdwsjxx3_KRBn5VuQWWR1I8sBS9-W::file:1ijyUEErMRtxLYqrhXA0-g9SJEHpMIdMK",
+          "name": "[NP 2027]_Chữa Bài tập ngày 27-5",
+          "parentName": "6. TUẦN 6 (từ ngày 25/5/2026 - 31/5/2026)",
+          "checksum": "2026-05-29T12:37:40.820Z|1|670dd4030631",
+          "virtual": true
+        },
+        {
+          "id": "1DjfVdwsjxx3_KRBn5VuQWWR1I8sBS9-W::file:1lGEyJM9h984PywyJR4Li2pN9gjshhnn8",
+          "name": "[NP 2027]_Chữa Bài tập ngày 27-5_2",
+          "parentName": "6. TUẦN 6 (từ ngày 25/5/2026 - 31/5/2026)",
+          "checksum": "2026-05-29T12:37:55.141Z|1|8293ca5c5885",
+          "virtual": true
+        },
+        {
+          "id": "1DjfVdwsjxx3_KRBn5VuQWWR1I8sBS9-W::file:1RME0mhCziyk3CeIktK-BmQIj02HMDlkY",
+          "name": "25. [NP2027]_Ngữ pháp ứng dụng tuần 6",
+          "parentName": "6. TUẦN 6 (từ ngày 25/5/2026 - 31/5/2026)",
+          "checksum": "2026-05-26T08:28:39.209Z|1|45035941c7d0",
+          "virtual": true
+        },
+        {
+          "id": "1DjfVdwsjxx3_KRBn5VuQWWR1I8sBS9-W::file:1TR1i7VT1yBtVY11Bt-4z0_LnH-Y5K4PL",
+          "name": "[NP 2027]_Chữa Bài tập ngày 28-5_2",
+          "parentName": "6. TUẦN 6 (từ ngày 25/5/2026 - 31/5/2026)",
+          "checksum": "2026-05-29T12:37:12.131Z|1|9088b8916dcf",
+          "virtual": true
+        },
+        {
+          "id": "1DjfVdwsjxx3_KRBn5VuQWWR1I8sBS9-W::file:1uXJPxJsXgNcnpE1uUgAY69Er1zFGjrS2",
+          "name": "[NP 2027]_Chữa Bài tập ngày 25-5_2",
+          "parentName": "6. TUẦN 6 (từ ngày 25/5/2026 - 31/5/2026)",
+          "checksum": "2026-05-26T12:38:45.741Z|1|b70c27b32e3d",
+          "virtual": true
+        },
+        {
+          "id": "1DjfVdwsjxx3_KRBn5VuQWWR1I8sBS9-W::file:1v42poUkCVgQAlTUqfjoVKOG_xiWkVBbE",
+          "name": "[NP 2027]_Chữa Bài tập ngày 28-5",
+          "parentName": "6. TUẦN 6 (từ ngày 25/5/2026 - 31/5/2026)",
+          "checksum": "2026-05-29T12:37:24.913Z|1|c749a8cf96e5",
+          "virtual": true
+        },
+        {
+          "id": "1DjfVdwsjxx3_KRBn5VuQWWR1I8sBS9-W::file:1y-SPzeYn5US7eSLJk6YMC6-Lm6SEgRFy",
+          "name": "[NP 2027]_Chữa Bài tập ngày 26-5",
+          "parentName": "6. TUẦN 6 (từ ngày 25/5/2026 - 31/5/2026)",
+          "checksum": "2026-05-29T12:38:19.814Z|1|a450e1d1000b",
+          "virtual": true
+        },
+        {
+          "id": "1DjfVdwsjxx3_KRBn5VuQWWR1I8sBS9-W::file:1y-uVkprk-mKqPDhMZwz7Fq8UEy6-JY4h",
+          "name": "[NP 2027]_Chữa Bài tập ngày 26-5_2",
+          "parentName": "6. TUẦN 6 (từ ngày 25/5/2026 - 31/5/2026)",
+          "checksum": "2026-05-29T12:38:07.849Z|1|8605e1d1f860",
+          "virtual": true
+        },
+        {
+          "id": "1DjfVdwsjxx3_KRBn5VuQWWR1I8sBS9-W::file:1zq4rzCb5GraaSCvfwbu3XSr8ugqjHghR",
+          "name": "24. [NP2027]_Ngữ pháp nâng cao tuần 6",
+          "parentName": "6. TUẦN 6 (từ ngày 25/5/2026 - 31/5/2026)",
+          "checksum": "2026-05-26T08:28:39.216Z|1|3fb94ef3fecb",
+          "virtual": true
+        },
+        {
+          "id": "1dBOZvcQvfIoY_fRMGv0rODEheSUPloMA",
+          "name": "6. [NP 2027]_Video live 8",
+          "parentName": "6. TUẦN 6 (từ ngày 25/5/2026 - 31/5/2026)",
+          "checksum": "2026-05-26T12:40:39.403Z|5",
+          "virtual": false
+        },
+        {
+          "id": "1ftwLdW0fcQ5olJytRDYQXy3eJq4GIIq_",
+          "name": "10. [NP 2027]_Video bổ trợ live 9 ",
+          "parentName": "6. TUẦN 6 (từ ngày 25/5/2026 - 31/5/2026)",
+          "checksum": "2026-05-26T12:38:12.826Z|5",
+          "virtual": false
+        },
+        {
+          "id": "1C_mF9DoKgKBoGHWpmRXLw_Bltem4Gqew",
+          "name": "16. [NP 2027]_Video bổ trợ live 10 ngày 27/5",
+          "parentName": "6. TUẦN 6 (từ ngày 25/5/2026 - 31/5/2026)",
+          "checksum": "2026-05-29T12:38:31.421Z|3",
+          "virtual": false
+        }
+      ],
+      "rendererVersion": "4.3.1",
+      "styleVersion": "2026-05-31-student-banner-no-meta-v2",
+      "runId": "no-meta-sync-2026-05-31-104541",
+      "spreadsheetId": "1quXmdPH1SgoTAY5s1jv5A491NdqKWaQt3nYnlwhuVVg",
+      "stats": {
+        "leafCount": 342,
+        "totalVideos": 212
+      }
+    },
+    "187S07J40U0sinB5ujfhlt1KI2c2YApEc": {
+      "tabName": "TỪ VỰNG ĐỌC HIỂU CẤP",
+      "renderedAt": "2026-05-31T03:58:45.480Z",
+      "checksum": "187S07J40U0sinB5ujfhlt1KI2c2YApEc|2026-05-21T13:40:10.653Z|0",
+      "lessons": [],
+      "rendererVersion": "4.3.1",
+      "styleVersion": "2026-05-31-student-banner-no-meta-v2",
+      "runId": "no-meta-sync-2026-05-31-104541",
+      "spreadsheetId": "1quXmdPH1SgoTAY5s1jv5A491NdqKWaQt3nYnlwhuVVg",
+      "stats": {
+        "leafCount": 0,
+        "totalVideos": 0
+      }
+    },
+    "1gNndwoozT1ADBxuQ1HPOr1AcnCtfAimz": {
+      "tabName": "TỪ VỰNG ĐỌC HIỂU NÂNG",
+      "renderedAt": "2026-05-31T03:58:52.470Z",
+      "checksum": "1gNndwoozT1ADBxuQ1HPOr1AcnCtfAimz|2026-05-21T13:40:08.493Z|0",
+      "lessons": [],
+      "rendererVersion": "4.3.1",
+      "styleVersion": "2026-05-31-student-banner-no-meta-v2",
+      "runId": "no-meta-sync-2026-05-31-104541",
+      "spreadsheetId": "1quXmdPH1SgoTAY5s1jv5A491NdqKWaQt3nYnlwhuVVg",
+      "stats": {
+        "leafCount": 0,
+        "totalVideos": 0
+      }
+    },
+    "1hQnL90AV7lMBV5F3qB1ZuMfwFG9IibuW": {
+      "tabName": "LUYỆN GIẢI ĐỀ VIP TN",
+      "renderedAt": "2026-05-31T03:58:59.462Z",
+      "checksum": "1hQnL90AV7lMBV5F3qB1ZuMfwFG9IibuW|2026-05-21T13:40:06.344Z|0",
+      "lessons": [],
+      "rendererVersion": "4.3.1",
+      "styleVersion": "2026-05-31-student-banner-no-meta-v2",
+      "runId": "no-meta-sync-2026-05-31-104541",
+      "spreadsheetId": "1quXmdPH1SgoTAY5s1jv5A491NdqKWaQt3nYnlwhuVVg",
+      "stats": {
+        "leafCount": 0,
+        "totalVideos": 0
+      }
+    },
+    "1NazW8sCWxCBrIBaX1fDP7np_XvR9DQJw": {
+      "tabName": "LUYỆN GIẢI ĐỀ VIP ĐGNL",
+      "renderedAt": "2026-05-31T03:59:06.755Z",
+      "checksum": "1NazW8sCWxCBrIBaX1fDP7np_XvR9DQJw|2026-05-21T13:40:04.176Z|0",
+      "lessons": [],
+      "rendererVersion": "4.3.1",
+      "styleVersion": "2026-05-31-student-banner-no-meta-v2",
+      "runId": "no-meta-sync-2026-05-31-104541",
+      "spreadsheetId": "1quXmdPH1SgoTAY5s1jv5A491NdqKWaQt3nYnlwhuVVg",
+      "stats": {
+        "leafCount": 0,
+        "totalVideos": 0
+      }
+    }
+  },
+  "updatedAt": "2026-05-31T03:59:06.755Z",
+  "version": 2
+}

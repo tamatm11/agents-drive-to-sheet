@@ -1,0 +1,323 @@
+{
+  "teacherId": "1dwtLjxTlDGvPUemNX_2zXRLY74PZ0Xpi",
+  "tabs": {
+    "1VgTSuHB227wZ2ManmiDHHva8f_E3UX-E": {
+      "tabName": "LÝ THUYẾT NỀN",
+      "renderedAt": "2026-05-31T04:01:33.959Z",
+      "checksum": "1VgTSuHB227wZ2ManmiDHHva8f_E3UX-E|2026-05-18T01:40:15.939Z|43",
+      "lessons": [
+        {
+          "id": "1oKVD1EAbTIHOQ7HbPeBM5lzQ_nBxwrAN",
+          "name": "1. ĐÍNH CHÍNH CÁC LỖI SAI CỦA SÁCH",
+          "parentName": "0. ĐÁN ÁN SÁCH LÝ THUYẾT NỀN TẢNG-ĐÍNH CHÍNH SÁCH",
+          "checksum": "2026-05-12T08:21:57.417Z|2",
+          "virtual": false
+        },
+        {
+          "id": "1BRaYDVSoI5ybj3ejh87Rwr0Fb7pAe5OM",
+          "name": "1. Bài 1 Cấu trúc của chất sự chuyển thể",
+          "parentName": "1. CHƯƠNG 1: VẬT LÝ NHIỆT",
+          "checksum": "2026-05-02T13:06:47.536Z|1",
+          "virtual": false
+        },
+        {
+          "id": "1zQiqbqvlgUUWxWoRy-qfsDOhF4jjBZRY",
+          "name": "2. Bài 2 Nội năng định luật I của nhiệt dộng lực học p1",
+          "parentName": "1. CHƯƠNG 1: VẬT LÝ NHIỆT",
+          "checksum": "2026-05-02T13:07:20.272Z|1",
+          "virtual": false
+        },
+        {
+          "id": "1pq6h85BBqPtzxwXgJ6fkaaBABOUWbuVx",
+          "name": "3. Bài 2 Nội năng định luật I của nhiệt dộng lực học p2",
+          "parentName": "1. CHƯƠNG 1: VẬT LÝ NHIỆT",
+          "checksum": "2026-05-02T13:07:35.445Z|1",
+          "virtual": false
+        },
+        {
+          "id": "1-65C9lRlcX2CTsjjUUUE0VBpigJeN87X",
+          "name": "4. Bài 2 Nội năng định luật I của nhiệt dộng lực học p3",
+          "parentName": "1. CHƯƠNG 1: VẬT LÝ NHIỆT",
+          "checksum": "2026-05-02T13:08:27.550Z|1",
+          "virtual": false
+        },
+        {
+          "id": "1urhJqpPvjawN6nAPkZ6xDFnERZHh56-r",
+          "name": "5. Bài 3 Nhiệt độ thang nhiệt độ nhiệt kế",
+          "parentName": "1. CHƯƠNG 1: VẬT LÝ NHIỆT",
+          "checksum": "2026-05-02T13:09:44.146Z|1",
+          "virtual": false
+        },
+        {
+          "id": "1OSsHY-LWIJ-BJctnlBYZQI0-kxhIPSt4",
+          "name": "6. Bài 4 Nhiệt dung riêng",
+          "parentName": "1. CHƯƠNG 1: VẬT LÝ NHIỆT",
+          "checksum": "2026-05-02T13:11:04.913Z|1",
+          "virtual": false
+        },
+        {
+          "id": "1gYNXkIeIExEMrexQjjNBhvHafDZyUaLX",
+          "name": "7. Bài 5 Nhiệt nóng chảy riêng",
+          "parentName": "1. CHƯƠNG 1: VẬT LÝ NHIỆT",
+          "checksum": "2026-05-02T13:11:58.070Z|1",
+          "virtual": false
+        },
+        {
+          "id": "1jRf-6iIrGbYQcfTNKA9PgucAz6-0IZ9U",
+          "name": "8. Bài 6 Nhiệt hóa hơi riêng",
+          "parentName": "1. CHƯƠNG 1: VẬT LÝ NHIỆT",
+          "checksum": "2026-05-02T13:12:48.966Z|1",
+          "virtual": false
+        },
+        {
+          "id": "1TsF5L120SyE-HbI7N11zEMmqrex3Cjkm",
+          "name": "1. Bài 8 Mô hình động học phân tử P1",
+          "parentName": "2. CHƯƠNG II: KHÍ LÍ TƯỞNG",
+          "checksum": "2026-05-02T13:13:23.932Z|1",
+          "virtual": false
+        },
+        {
+          "id": "1eeXvGKxsPc6dm_4nRVip8JM0C5TIo-y4",
+          "name": "2. Bài 8 Mô hình động học phân tử P2",
+          "parentName": "2. CHƯƠNG II: KHÍ LÍ TƯỞNG",
+          "checksum": "2026-05-02T13:13:55.350Z|1",
+          "virtual": false
+        },
+        {
+          "id": "19taGWI_bbhxyAQMs3qj--D1hU3ZH8maI",
+          "name": "3. Bài 9 Định luật boyle P1",
+          "parentName": "2. CHƯƠNG II: KHÍ LÍ TƯỞNG",
+          "checksum": "2026-05-02T13:14:28.442Z|1",
+          "virtual": false
+        },
+        {
+          "id": "1NbPQUaBC-_vKvbbbUN9fnLHcn0I7m2Hq",
+          "name": "4. Bài 9 Định luật boyle P2",
+          "parentName": "2. CHƯƠNG II: KHÍ LÍ TƯỞNG",
+          "checksum": "2026-05-02T13:15:08.260Z|1",
+          "virtual": false
+        },
+        {
+          "id": "1pxP7uGbrUj6S2jwUIuCU51idKnqvknyf",
+          "name": "5. Bài 10 Định luật charles",
+          "parentName": "2. CHƯƠNG II: KHÍ LÍ TƯỞNG",
+          "checksum": "2026-05-02T13:16:04.533Z|1",
+          "virtual": false
+        },
+        {
+          "id": "1Yo79vmSkylhM85kzrupNRoTyROzC7W7x",
+          "name": "6. Bài 11 Phương trình trạng thái khí lí tưởng",
+          "parentName": "2. CHƯƠNG II: KHÍ LÍ TƯỞNG",
+          "checksum": "2026-05-02T13:17:05.395Z|1",
+          "virtual": false
+        },
+        {
+          "id": "17zGy9qHEDAKCqqpcUAtc93SrTKe1TNJd",
+          "name": "7. Bài 11 Phương trình trạng thái khí lí tưởng P2",
+          "parentName": "2. CHƯƠNG II: KHÍ LÍ TƯỞNG",
+          "checksum": "2026-05-02T13:17:38.977Z|1",
+          "virtual": false
+        },
+        {
+          "id": "1Dc8QTyN5X4M9uLxjK961yF7LXrToHe8V",
+          "name": "8. Bài 12 Áp suất khí theo mô hình động học phân tử. quang hệ giữa động năng phân tử cà nhiệt dộ P1",
+          "parentName": "2. CHƯƠNG II: KHÍ LÍ TƯỞNG",
+          "checksum": "2026-05-02T13:18:23.170Z|1",
+          "virtual": false
+        },
+        {
+          "id": "18bRTrTqJ8Z1dXkqoYxc5xQtx4rEE_Y1W",
+          "name": "9. Bài 12 Áp suất khí theo mô hình động học phân tử. quang hệ giữa động năng phân tử cà nhiệt dộ P2",
+          "parentName": "2. CHƯƠNG II: KHÍ LÍ TƯỞNG",
+          "checksum": "2026-05-02T13:19:33.338Z|1",
+          "virtual": false
+        },
+        {
+          "id": "1L-vrM9YZAlo9O0BRQ6Ymey34VNYSeqTx",
+          "name": "1. Bài 14 Từ trường P1",
+          "parentName": "3. CHƯƠNG III: TỪ TRƯỜNG",
+          "checksum": "2026-05-02T13:20:12.933Z|1",
+          "virtual": false
+        },
+        {
+          "id": "1pmk7JYJaNydkhId6c9j47Iux6EWr4of2",
+          "name": "2. Bài 14 Từ trường P2",
+          "parentName": "3. CHƯƠNG III: TỪ TRƯỜNG",
+          "checksum": "2026-05-02T13:21:09.107Z|1",
+          "virtual": false
+        },
+        {
+          "id": "1E89pYFLaX6Dfum8BcqOZg5I3GXnh-CAN",
+          "name": "3. Bài 15 Lực từ tác dụng lên dây dẫn mang dòng điện cảm ứng từ P1",
+          "parentName": "3. CHƯƠNG III: TỪ TRƯỜNG",
+          "checksum": "2026-05-02T13:21:49.913Z|1",
+          "virtual": false
+        },
+        {
+          "id": "1dz8tEvsEBgh2BURhj4c0Ccy8g44oKofa",
+          "name": "4. Bài 15 Lực từ tác dụng lên dây dẫn mang dòng điện cảm ứng từ P2",
+          "parentName": "3. CHƯƠNG III: TỪ TRƯỜNG",
+          "checksum": "2026-05-02T13:22:26.675Z|1",
+          "virtual": false
+        },
+        {
+          "id": "1hHJE1i2Mhk-kApDtcOFr-FabKbYMxA2T",
+          "name": "5. Bài 16 Từ thông hiện tượng cảm ứng điện P1",
+          "parentName": "3. CHƯƠNG III: TỪ TRƯỜNG",
+          "checksum": "2026-05-02T13:23:07.678Z|1",
+          "virtual": false
+        },
+        {
+          "id": "1Xhm4OGxbbFlI7lIWHEasmfGmm3PLwOvB",
+          "name": "6. Bài 16 Từ thông hiện tượng cảm ứng điện P2",
+          "parentName": "3. CHƯƠNG III: TỪ TRƯỜNG",
+          "checksum": "2026-05-02T13:24:11.017Z|1",
+          "virtual": false
+        },
+        {
+          "id": "1J6OELGYVIQgZ_72MC1ZLPqJi4LH_NupY",
+          "name": "7. Bài 17 Máy phát điện xoay chiều P1",
+          "parentName": "3. CHƯƠNG III: TỪ TRƯỜNG",
+          "checksum": "2026-05-02T13:24:56.801Z|1",
+          "virtual": false
+        },
+        {
+          "id": "1qz54-zg0fXsict1divmxHjbv3jOdmImM",
+          "name": "8. Bài 17 Máy phát điện xoay chiều P2",
+          "parentName": "3. CHƯƠNG III: TỪ TRƯỜNG",
+          "checksum": "2026-05-02T13:25:29.560Z|1",
+          "virtual": false
+        },
+        {
+          "id": "1tLjP1hnf2-TqIMLp8ivP6HvHzmTJ6x_c",
+          "name": "9. Bài 18 Ứng dụng cảm ứng điện từ",
+          "parentName": "3. CHƯƠNG III: TỪ TRƯỜNG",
+          "checksum": "2026-05-02T13:26:18.840Z|1",
+          "virtual": false
+        },
+        {
+          "id": "12di_sp1SblBBT59YInzP59E-81S_AK_U",
+          "name": "10. Bài 19 Điện từ trường mô hình sóng điện từ",
+          "parentName": "3. CHƯƠNG III: TỪ TRƯỜNG",
+          "checksum": "2026-05-02T13:27:10.017Z|1",
+          "virtual": false
+        },
+        {
+          "id": "1o6ozZV74VSZAu2o05fi92XZGokuQRw--",
+          "name": "1. Bài 21 Cấu trúc hạt nhân",
+          "parentName": "4. CHƯƠNG IV: VẬT LÝ HẠT NHÂN",
+          "checksum": "2026-05-02T13:27:58.970Z|1",
+          "virtual": false
+        },
+        {
+          "id": "1g7SkEEBf46veHgxxPkRkUXc84F3tTpLa",
+          "name": "2. Bài 22. Phản ứng Hạt nhân và Năng lượng liên kết P1",
+          "parentName": "4. CHƯƠNG IV: VẬT LÝ HẠT NHÂN",
+          "checksum": "2026-05-18T01:40:15.939Z|1",
+          "virtual": false
+        },
+        {
+          "id": "1INrMqEr73erkqKz6mfytsIpvWKS84O8U",
+          "name": "3. Bài 22. Phản ứng Hạt nhân và Năng lượng liên kết P2",
+          "parentName": "4. CHƯƠNG IV: VẬT LÝ HẠT NHÂN",
+          "checksum": "2026-05-18T01:40:02.668Z|1",
+          "virtual": false
+        },
+        {
+          "id": "1U2SpNg2Y1XmdUGpeJl_E8qZP0udbB4IS",
+          "name": "1. Bài 1 Cấu trúc và năng lượng liên kết hạt nhân",
+          "parentName": "5. CHƯƠNG V: VẬT LÝ HẠT NHÂN(CHỮA BÀI TẬP)",
+          "checksum": "2026-05-02T13:30:59.268Z|1",
+          "virtual": false
+        },
+        {
+          "id": "1dZcnje_pPGHnQZYVocLLYN7D32Y04iDO",
+          "name": "2. CHỮA BT BÀI 1",
+          "parentName": "5. CHƯƠNG V: VẬT LÝ HẠT NHÂN(CHỮA BÀI TẬP)",
+          "checksum": "2026-05-02T13:34:09.487Z|3",
+          "virtual": false
+        },
+        {
+          "id": "12RyGPFufdlhLnLXiXYNyUJC3j0AHSvph",
+          "name": "3. CHỮA BT BÀI 2",
+          "parentName": "5. CHƯƠNG V: VẬT LÝ HẠT NHÂN(CHỮA BÀI TẬP)",
+          "checksum": "2026-05-02T13:34:25.476Z|2",
+          "virtual": false
+        },
+        {
+          "id": "1eebn_cmxzOGLBNovu5PnbXmO-lTd2c2Y",
+          "name": "4. Bài 2 Phản ứng hạt nhân + Bài 3 phóng xạ",
+          "parentName": "5. CHƯƠNG V: VẬT LÝ HẠT NHÂN(CHỮA BÀI TẬP)",
+          "checksum": "2026-05-11T22:15:23.451Z|2",
+          "virtual": false
+        },
+        {
+          "id": "1NA8xNpg7VJs3Wez5_8gcC3C9_F2_T-fr",
+          "name": "5. Bài 3 Phóng xạ",
+          "parentName": "5. CHƯƠNG V: VẬT LÝ HẠT NHÂN(CHỮA BÀI TẬP)",
+          "checksum": "2026-05-11T22:13:58.682Z|1",
+          "virtual": false
+        },
+        {
+          "id": "1PVzCgUQjVwdHBVY9KFdhgbp-tvZwrsOo",
+          "name": "6. CHỮA BT BÀI 3",
+          "parentName": "5. CHƯƠNG V: VẬT LÝ HẠT NHÂN(CHỮA BÀI TẬP)",
+          "checksum": "2026-05-11T22:13:44.182Z|2",
+          "virtual": false
+        }
+      ],
+      "rendererVersion": "4.3.1",
+      "styleVersion": "2026-05-31-student-banner-no-meta-v2",
+      "runId": "no-meta-sync-2026-05-31-104541",
+      "spreadsheetId": "19Bhl7SE6-gPIowa9uq075n58KtJPgY3UFVXuySzwLIA",
+      "stats": {
+        "leafCount": 37,
+        "totalVideos": 37
+      }
+    },
+    "10Gd-SXjBXq61dwl1hs4NPCLlxIQ3sK9I": {
+      "tabName": "LIVE C",
+      "renderedAt": "2026-05-31T04:01:41.678Z",
+      "checksum": "10Gd-SXjBXq61dwl1hs4NPCLlxIQ3sK9I|2026-04-19T03:39:51.755Z|0",
+      "lessons": [],
+      "rendererVersion": "4.3.1",
+      "styleVersion": "2026-05-31-student-banner-no-meta-v2",
+      "runId": "no-meta-sync-2026-05-31-104541",
+      "spreadsheetId": "19Bhl7SE6-gPIowa9uq075n58KtJPgY3UFVXuySzwLIA",
+      "stats": {
+        "leafCount": 0,
+        "totalVideos": 0
+      }
+    },
+    "1bzmdiUeIKRNpOfp3h19pfvS93HVY1xnU": {
+      "tabName": "LIVE T",
+      "renderedAt": "2026-05-31T04:01:48.973Z",
+      "checksum": "1bzmdiUeIKRNpOfp3h19pfvS93HVY1xnU|2026-04-19T03:39:51.009Z|0",
+      "lessons": [],
+      "rendererVersion": "4.3.1",
+      "styleVersion": "2026-05-31-student-banner-no-meta-v2",
+      "runId": "no-meta-sync-2026-05-31-104541",
+      "spreadsheetId": "19Bhl7SE6-gPIowa9uq075n58KtJPgY3UFVXuySzwLIA",
+      "stats": {
+        "leafCount": 0,
+        "totalVideos": 0
+      }
+    },
+    "1-taN80jnTXEkPq1HDiwwusJIFSrIhrCm": {
+      "tabName": "LIVE G",
+      "renderedAt": "2026-05-31T04:01:56.450Z",
+      "checksum": "1-taN80jnTXEkPq1HDiwwusJIFSrIhrCm|2026-04-19T03:39:50.241Z|0",
+      "lessons": [],
+      "rendererVersion": "4.3.1",
+      "styleVersion": "2026-05-31-student-banner-no-meta-v2",
+      "runId": "no-meta-sync-2026-05-31-104541",
+      "spreadsheetId": "19Bhl7SE6-gPIowa9uq075n58KtJPgY3UFVXuySzwLIA",
+      "stats": {
+        "leafCount": 0,
+        "totalVideos": 0
+      }
+    }
+  },
+  "updatedAt": "2026-05-31T04:01:56.450Z",
+  "version": 2
+}

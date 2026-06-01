@@ -1,0 +1,72 @@
+{
+  "updatedAt": "2026-05-29T09:19:12.615Z",
+  "teacher": {
+    "id": "1Um-vXqr6Y-oq92OF7i87l-O3jYRU5Rbj",
+    "name": "8. LÝ THẦY NGUYỄN ĐĂNG ÁI TDM 2k9"
+  },
+  "schema": {
+    "levels": [
+      {
+        "depth": 0,
+        "label": "Chương / Chuyên đề",
+        "icon": "📖",
+        "bold": true,
+        "bg": "#FCE5C0",
+        "namePatternHint": ""
+      }
+    ],
+    "leafFallback": {
+      "label": "Bài",
+      "icon": "📂",
+      "bold": true,
+      "bg": "#FCF1D4",
+      "note": "Folder nông — render thẳng như leaf bài học."
+    },
+    "courseRow": {
+      "icon": "📚",
+      "bold": true,
+      "fontSize": 12,
+      "bg": "#D4E5FA"
+    },
+    "videoRow": {
+      "icon": "▸",
+      "indent": "extra-from-leaf"
+    },
+    "notes": "Auto-generated. 3 khóa chính."
+  },
+  "_meta": {
+    "source": "auto-detect",
+    "version": 1,
+    "generated_at": "2026-05-29T09:19:12.615Z",
+    "confidence": "high",
+    "dominant_depth": 1,
+    "dominant_share": 1,
+    "patterns_observed": [
+      "flat"
+    ],
+    "meta_courses_skipped": [
+      "0. INFO THÔNG TIN VÀ HƯỚNG DẪN KHOÁ HỌC",
+      "Z. EBOOK SÁCH KÈM KHOÁ HỌC"
+    ],
+    "course_breakdown": [
+      {
+        "name": "1. TDPX2027 BẢN CHẤT VÀ NỀN TẢNG VẬN DỤNG VẬT LÝ THPT",
+        "structure_depth": 0,
+        "pattern": "empty",
+        "files": 0
+      },
+      {
+        "name": "2. TDPY2027 NÂNG CAO VẬT LÝ THPT",
+        "structure_depth": 0,
+        "pattern": "empty",
+        "files": 0
+      },
+      {
+        "name": "3. TDPZ2027 TINH HOA TỔNG ÔN VÀ THỰC CHIẾN VẬT LÝ",
+        "structure_depth": 0,
+        "pattern": "empty",
+        "files": 0
+      }
+    ]
+  }
+}

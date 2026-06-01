@@ -1,0 +1,626 @@
+{
+  "crawledAt": "2026-05-30T02:10:03.781Z",
+  "teacher": {
+    "id": "14bk4uGIKw23-DtRvXNn13sWQU2uBqqAD",
+    "name": "3. VĂN CÔ TRẦN THUỲ DƯƠNG QANDA 2K9",
+    "modifiedTime": "2026-05-27T14:44:25.194Z",
+    "webViewLink": "https://drive.google.com/drive/folders/14bk4uGIKw23-DtRvXNn13sWQU2uBqqAD"
+  },
+  "courses": [
+    {
+      "id": "1609jYTN2JAzOULy1f8guQScj5BYgy3Fd",
+      "name": "0. INFO THÔNG TIN VÀ HƯỚNG DẪN KHOÁ HỌC",
+      "children": [],
+      "files": [],
+      "webViewLink": "https://drive.google.com/drive/folders/1609jYTN2JAzOULy1f8guQScj5BYgy3Fd",
+      "modifiedTime": "2026-04-18T14:17:46.519Z"
+    },
+    {
+      "id": "14t8a8p5h6lFqXfH1jAzE0pYNVOeQZ0LE",
+      "name": "0. PHẦN 0 BỔ TRỢ (Dành cho khoá Plus) - Video",
+      "children": [
+        {
+          "id": "1ljEnvo_cb7xexQ3aCWKfjQCXH5zA4j5u",
+          "name": "Buổi 1 Cách viết đoạn văn Nghị luận văn học",
+          "webViewLink": "https://drive.google.com/drive/folders/1ljEnvo_cb7xexQ3aCWKfjQCXH5zA4j5u",
+          "modifiedTime": "2026-04-20T16:11:41.277Z",
+          "children": [],
+          "files": [
+            {
+              "id": "1MnZpYoSC938W6tJkdXLA0YDURkTi1LWM",
+              "name": "[Bổ trợ] Buổi 1. Viết đoạn văn Nghị luận văn học.pdf",
+              "mimeType": "application/pdf",
+              "size": 276422,
+              "webViewLink": "https://drive.google.com/file/d/1MnZpYoSC938W6tJkdXLA0YDURkTi1LWM/view?usp=drivesdk",
+              "modifiedTime": "2026-04-30T23:06:58.785Z",
+              "videoMediaMetadata": null
+            },
+            {
+              "id": "16H-AqiE9NgTYZBECbvfxKr-Y0UV28dmB",
+              "name": "Buổi 1. Cách viết đoạn văn Nghị luận văn học.mp4",
+              "mimeType": "video/mp4",
+              "size": 322964095,
+              "webViewLink": "https://drive.google.com/file/d/16H-AqiE9NgTYZBECbvfxKr-Y0UV28dmB/view?usp=drivesdk",
+              "modifiedTime": "2026-04-21T21:48:49.961Z",
+              "videoMediaMetadata": {
+                "width": 1280,
+                "height": 720,
+                "durationMillis": "3456866"
+              }
+            }
+          ]
+        },
+        {
+          "id": "1PdQzpQ8nTFtThevxSukHPTjD-xW6Wc3y",
+          "name": "Buổi 10 Cách viết đoạn văn Nghị luận xã hội - Tiết 2",
+          "webViewLink": "https://drive.google.com/drive/folders/1PdQzpQ8nTFtThevxSukHPTjD-xW6Wc3y",
+          "modifiedTime": "2026-04-20T16:11:24.732Z",
+          "children": [],
+          "files": [
+            {
+              "id": "1RCcHFevB8dd5r_cOZxOVi0zzFY1ctRzx",
+              "name": "Buổi 10. Cách viết đoạn văn Nghị luận xã hội - Tiết 2.mp4",
+              "mimeType": "video/mp4",
+              "size": 589110220,
+              "webViewLink": "https://drive.google.com/file/d/1RCcHFevB8dd5r_cOZxOVi0zzFY1ctRzx/view?usp=drivesdk",
+              "modifiedTime": "2026-04-21T21:48:30.741Z",
+              "videoMediaMetadata": {
+                "width": 1280,
+                "height": 720,
+                "durationMillis": "5405933"
+              }
+            }
+          ]
+        },
+        {
+          "id": "1hYHHclj0mcX5Kq6u8Wfy9Rxr-rAizkT8",
+          "name": "Buổi 11 Nghị luận về một tác phẩm kịch",
+          "webViewLink": "https://drive.google.com/drive/folders/1hYHHclj0mcX5Kq6u8Wfy9Rxr-rAizkT8",
+          "modifiedTime": "2026-04-20T16:11:22.726Z",
+          "children": [],
+          "files": [
+            {
+              "id": "1xyjiR6nh9RSfQAaveVLAKbyvlrtPXagw",
+              "name": "Buổi 11. Nghị luận về một tác phẩm kịch.mp4",
+              "mimeType": "video/mp4",
+              "size": 270153180,
+              "webViewLink": "https://drive.google.com/file/d/1xyjiR6nh9RSfQAaveVLAKbyvlrtPXagw/view?usp=drivesdk",
+              "modifiedTime": "2026-04-21T21:48:28.566Z",
+              "videoMediaMetadata": {
+                "width": 1280,
+                "height": 720,
+                "durationMillis": "2613833"
+              }
+            }
+          ]
+        },
+        {
+          "id": "1RE94kNjPu-LNEs-VlkrZ8KH8C-iDWbGg",
+          "name": "Buổi 12 Nghị luận về một vấn đề đời sống",
+          "webViewLink": "https://drive.google.com/drive/folders/1RE94kNjPu-LNEs-VlkrZ8KH8C-iDWbGg",
+          "modifiedTime": "2026-04-20T16:11:20.930Z",
+          "children": [],
+          "files": [
+            {
+              "id": "1ZXLb_UYgud-WYS1YhgQc7ajxfs-lzOPJ",
+              "name": "Buổi 12. Nghị luận về một vấn đề đời sống.mp4",
+              "mimeType": "video/mp4",
+              "size": 259573480,
+              "webViewLink": "https://drive.google.com/file/d/1ZXLb_UYgud-WYS1YhgQc7ajxfs-lzOPJ/view?usp=drivesdk",
+              "modifiedTime": "2026-04-21T21:48:26.551Z",
+              "videoMediaMetadata": {
+                "width": 1280,
+                "height": 720,
+                "durationMillis": "2509433"
+              }
+            }
+          ]
+        },
+        {
+          "id": "1JATKydePajqfo5EIndgqdYgBMmabn3A6",
+          "name": "Buổi 2 Cách viết bài văn Nghị luận xã hội - Tiết 1",
+          "webViewLink": "https://drive.google.com/drive/folders/1JATKydePajqfo5EIndgqdYgBMmabn3A6",
+          "modifiedTime": "2026-04-20T16:11:39.330Z",
+          "children": [],
+          "files": [
+            {
+              "id": "1UgaxzCOEUyaUKIf201nUlINg9YvB12ny",
+              "name": "Buổi 2. Cách viết bài văn Nghị luận xã hội - Tiết 1.mp4",
+              "mimeType": "video/mp4",
+              "size": 544348337,
+              "webViewLink": "https://drive.google.com/file/d/1UgaxzCOEUyaUKIf201nUlINg9YvB12ny/view?usp=drivesdk",
+              "modifiedTime": "2026-04-21T21:48:47.808Z",
+              "videoMediaMetadata": {
+                "width": 1280,
+                "height": 720,
+                "durationMillis": "5140766"
+              }
+            }
+          ]
+        },
+        {
+          "id": "1wipueqV_eg7A5PIo3Gqr2cBCyY_toSp1",
+          "name": "Buổi 3 Cách viết bài văn Nghị luận xã hội - Tiết 2",
+          "webViewLink": "https://drive.google.com/drive/folders/1wipueqV_eg7A5PIo3Gqr2cBCyY_toSp1",
+          "modifiedTime": "2026-04-20T16:11:37.646Z",
+          "children": [],
+          "files": [
+            {
+              "id": "18RoqeKTmRGLHHZRrV1eqwnimkpWp5K1L",
+              "name": "Buổi 3. Cách viết bài văn Nghị luận xã hội - Tiết 2.mp4",
+              "mimeType": "video/mp4",
+              "size": 515126005,
+              "webViewLink": "https://drive.google.com/file/d/18RoqeKTmRGLHHZRrV1eqwnimkpWp5K1L/view?usp=drivesdk",
+              "modifiedTime": "2026-04-21T21:48:45.331Z",
+              "videoMediaMetadata": {
+                "width": 1280,
+                "height": 720,
+                "durationMillis": "5205199"
+              }
+            }
+          ]
+        },
+        {
+          "id": "1WZmpymnxjL1M9CFIdDUtOYmmrjpBcinc",
+          "name": "Buổi 4 Cách viết một bài văn phân tích",
+          "webViewLink": "https://drive.google.com/drive/folders/1WZmpymnxjL1M9CFIdDUtOYmmrjpBcinc",
+          "modifiedTime": "2026-04-20T16:11:35.802Z",
+          "children": [],
+          "files": [
+            {
+              "id": "1ByeYSF6WgDbBcC6viLegXja9-fcQafls",
+              "name": "Buổi 4. Cách viết một bài văn phân tích.mp4",
+              "mimeType": "video/mp4",
+              "size": 324612832,
+              "webViewLink": "https://drive.google.com/file/d/1ByeYSF6WgDbBcC6viLegXja9-fcQafls/view?usp=drivesdk",
+              "modifiedTime": "2026-04-21T21:48:43.417Z",
+              "videoMediaMetadata": {
+                "width": 1280,
+                "height": 720,
+                "durationMillis": "3144500"
+              }
+            }
+          ]
+        },
+        {
+          "id": "1JtPSY07YsK-teaUNrzPPqkswcBgvw3jn",
+          "name": "Buổi 5 Nghị luận về một tư tưởng, đạo lí",
+          "webViewLink": "https://drive.google.com/drive/folders/1JtPSY07YsK-teaUNrzPPqkswcBgvw3jn",
+          "modifiedTime": "2026-04-20T16:11:33.878Z",
+          "children": [],
+          "files": [
+            {
+              "id": "1BkjgJP-yZasq6JIr04uMaJ7W_rxW1hRI",
+              "name": "Buổi 5. Nghị luận về một tư tưởng, đạo lí.mp4",
+              "mimeType": "video/mp4",
+              "size": 332505636,
+              "webViewLink": "https://drive.google.com/file/d/1BkjgJP-yZasq6JIr04uMaJ7W_rxW1hRI/view?usp=drivesdk",
+              "modifiedTime": "2026-04-21T21:48:41.621Z",
+              "videoMediaMetadata": {
+                "width": 1280,
+                "height": 720,
+                "durationMillis": "2729099"
+              }
+            }
+          ]
+        },
+        {
+          "id": "1i33I-B9zFYM0tl1sHTmeq_-QHs4GDzr9",
+          "name": "Buổi 6 Phân tích một tác phẩm thơ",
+          "webViewLink": "https://drive.google.com/drive/folders/1i33I-B9zFYM0tl1sHTmeq_-QHs4GDzr9",
+          "modifiedTime": "2026-04-20T16:11:32.190Z",
+          "children": [],
+          "files": [
+            {
+              "id": "1bhZe3dEXztoijEZgRicMX7xAylTJVAML",
+              "name": "[Bổ trợ] Buổi 6. Phân tích một tác phẩm thơ.pdf",
+              "mimeType": "application/pdf",
+              "size": 275676,
+              "webViewLink": "https://drive.google.com/file/d/1bhZe3dEXztoijEZgRicMX7xAylTJVAML/view?usp=drivesdk",
+              "modifiedTime": "2026-04-30T23:06:54.237Z",
+              "videoMediaMetadata": null
+            },
+            {
+              "id": "19W2oOYdK-ZNwwjh8B0RKYdvAdZve0x4F",
+              "name": "Buổi 6. Phân tích một tác phẩm thơ.mp4",
+              "mimeType": "video/mp4",
+              "size": 295170904,
+              "webViewLink": "https://drive.google.com/file/d/19W2oOYdK-ZNwwjh8B0RKYdvAdZve0x4F/view?usp=drivesdk",
+              "modifiedTime": "2026-04-21T21:48:38.795Z",
+              "videoMediaMetadata": {
+                "width": 1280,
+                "height": 720,
+                "durationMillis": "2862266"
+              }
+            }
+          ]
+        },
+        {
+          "id": "1ROv8cu09drCrGzrR36YZFqUtnWhoGulp",
+          "name": "Buổi 7 Nâng cao chất lượng bài NLVH",
+          "webViewLink": "https://drive.google.com/drive/folders/1ROv8cu09drCrGzrR36YZFqUtnWhoGulp",
+          "modifiedTime": "2026-04-20T16:11:30.175Z",
+          "children": [],
+          "files": [
+            {
+              "id": "1epJ9xk0R20Awe2mdKWzF5osXuqhJ5lgd",
+              "name": "Buổi 7. Nâng cao chất lượng bài NLVH.mp4",
+              "mimeType": "video/mp4",
+              "size": 272991604,
+              "webViewLink": "https://drive.google.com/file/d/1epJ9xk0R20Awe2mdKWzF5osXuqhJ5lgd/view?usp=drivesdk",
+              "modifiedTime": "2026-04-21T21:48:36.890Z",
+              "videoMediaMetadata": {
+                "width": 1280,
+                "height": 720,
+                "durationMillis": "2631466"
+              }
+            }
+          ]
+        },
+        {
+          "id": "18GArw-jSGvqBWtK2vDtSZssu_F22UJ8V",
+          "name": "Buổi 8 Phân tích một tác phẩm truyện",
+          "webViewLink": "https://drive.google.com/drive/folders/18GArw-jSGvqBWtK2vDtSZssu_F22UJ8V",
+          "modifiedTime": "2026-04-20T16:11:28.292Z",
+          "children": [],
+          "files": [
+            {
+              "id": "19GDHaO0Gbb6j3YdzPhMujIz62jC-B-CW",
+              "name": "Buổi 8. Phân tích một tác phẩm truyện.mp4",
+              "mimeType": "video/mp4",
+              "size": 573126460,
+              "webViewLink": "https://drive.google.com/file/d/19GDHaO0Gbb6j3YdzPhMujIz62jC-B-CW/view?usp=drivesdk",
+              "modifiedTime": "2026-04-21T21:48:34.632Z",
+              "videoMediaMetadata": {
+                "width": 1280,
+                "height": 720,
+                "durationMillis": "6336833"
+              }
+            }
+          ]
+        },
+        {
+          "id": "1qmKGX2jl-PRmZk3wgVGYa5-VisadKPda",
+          "name": "Buổi 9 Cách viết đoạn văn Nghị luận xã hội - Tiết 1",
+          "webViewLink": "https://drive.google.com/drive/folders/1qmKGX2jl-PRmZk3wgVGYa5-VisadKPda",
+          "modifiedTime": "2026-04-20T16:11:26.534Z",
+          "children": [],
+          "files": [
+            {
+              "id": "1fIjdoy_IXxYFIe7UhPHbB9QJq_0_GdwV",
+              "name": "Buổi 9. Cách viết đoạn văn Nghị luận xã hội - Tiết 1.mp4",
+              "mimeType": "video/mp4",
+              "size": 582527400,
+              "webViewLink": "https://drive.google.com/file/d/1fIjdoy_IXxYFIe7UhPHbB9QJq_0_GdwV/view?usp=drivesdk",
+              "modifiedTime": "2026-04-21T21:48:32.817Z",
+              "videoMediaMetadata": {
+                "width": 1280,
+                "height": 720,
+                "durationMillis": "5218066"
+              }
+            }
+          ]
+        }
+      ],
+      "files": [],
+      "webViewLink": "https://drive.google.com/drive/folders/14t8a8p5h6lFqXfH1jAzE0pYNVOeQZ0LE",
+      "modifiedTime": "2026-04-18T14:17:45.431Z"
+    },
+    {
+      "id": "1C9YVFpM26NnNCM70lOoF2EjkezGMHQpb",
+      "name": "1. PHẦN 1 NỀN TẢNG - Live",
+      "children": [
+        {
+          "id": "1pH4T0ccbCjtN-TAXKComKTX1Got3QUkK",
+          "name": "Buổi 1 Tư duy xử lý đề sáng tạo trong Nghị luận xã hội: Mở bài",
+          "webViewLink": "https://drive.google.com/drive/folders/1pH4T0ccbCjtN-TAXKComKTX1Got3QUkK",
+          "modifiedTime": "2026-04-20T16:11:18.403Z",
+          "children": [],
+          "files": [
+            {
+              "id": "1KekRv7OGMfICTz0b7X-9oeUNL2FDE0R1",
+              "name": "Buổi 1. Tư duy xử lý đề sáng tạo trong Nghị luận xã hội - Mở bài.pdf",
+              "mimeType": "application/pdf",
+              "size": 675564,
+              "webViewLink": "https://drive.google.com/file/d/1KekRv7OGMfICTz0b7X-9oeUNL2FDE0R1/view?usp=drivesdk",
+              "modifiedTime": "2026-04-30T23:06:47.861Z",
+              "videoMediaMetadata": null
+            },
+            {
+              "id": "16tDagKozXHaVx5BcLfAqArNnXopjtbSW",
+              "name": "Buổi 1. Tư duy xử lý đề sáng tạo trong Nghị luận xã hội Mở bài.mp4",
+              "mimeType": "video/mp4",
+              "size": 478443080,
+              "webViewLink": "https://drive.google.com/file/d/16tDagKozXHaVx5BcLfAqArNnXopjtbSW/view?usp=drivesdk",
+              "modifiedTime": "2026-04-21T21:48:23.903Z",
+              "videoMediaMetadata": {
+                "width": 1280,
+                "height": 720,
+                "durationMillis": "5428666"
+              }
+            }
+          ]
+        },
+        {
+          "id": "1Xzbb_xjRDYLoa-TLwDE7HgLXwn28k5IR",
+          "name": "Buổi 10 Nâng cao bài viết bằng kiến thức giai đoạn văn học",
+          "webViewLink": "https://drive.google.com/drive/folders/1Xzbb_xjRDYLoa-TLwDE7HgLXwn28k5IR",
+          "modifiedTime": "2026-04-20T16:11:01.309Z",
+          "children": [],
+          "files": [
+            {
+              "id": "10BnXS1R0mrThiPsqANRJcLROCgzJFUL_",
+              "name": "Buổi 10. Nâng cao bài viết bằng kiến thức giai đoạn văn học.MP4",
+              "mimeType": "video/mp4",
+              "size": 230506519,
+              "webViewLink": "https://drive.google.com/file/d/10BnXS1R0mrThiPsqANRJcLROCgzJFUL_/view?usp=drivesdk",
+              "modifiedTime": "2026-05-11T13:14:53.365Z",
+              "videoMediaMetadata": {
+                "width": 1280,
+                "height": 720,
+                "durationMillis": "1909933"
+              }
+            }
+          ]
+        },
+        {
+          "id": "1oLjAUtvFuubHmGRJhyVRptWoKGiy6qgj",
+          "name": "Buổi 11 Kiểm tra đầu khoá",
+          "webViewLink": "https://drive.google.com/drive/folders/1oLjAUtvFuubHmGRJhyVRptWoKGiy6qgj",
+          "modifiedTime": "2026-05-19T09:15:58.908Z",
+          "children": [],
+          "files": [
+            {
+              "id": "1GQ5n7kikP4AXaADyMR2qHI78U-3uZBuF",
+              "name": "CHỮA ĐỀ KIỂM TRA ĐẦU KHÓA.mp4",
+              "mimeType": "video/mp4",
+              "size": 1018123395,
+              "webViewLink": "https://drive.google.com/file/d/1GQ5n7kikP4AXaADyMR2qHI78U-3uZBuF/view?usp=drivesdk",
+              "modifiedTime": "2026-05-19T09:18:18.603Z",
+              "videoMediaMetadata": {
+                "width": 1920,
+                "height": 1080,
+                "durationMillis": "6240699"
+              }
+            }
+          ]
+        },
+        {
+          "id": "1Gcd118rsz_ER0SWJ5B96K5_biAd6ZmL5",
+          "name": "Buổi 11 Kiểm tra đầu khoá",
+          "webViewLink": "https://drive.google.com/drive/folders/1Gcd118rsz_ER0SWJ5B96K5_biAd6ZmL5",
+          "modifiedTime": "2026-05-19T09:15:58.474Z",
+          "children": [],
+          "files": [
+            {
+              "id": "1tXFidaYXQcaaapR52QsBMqqHnluCWSe1",
+              "name": "CHỮA ĐỀ KIỂM TRA ĐẦU KHÓA.mp4",
+              "mimeType": "video/mp4",
+              "size": 1018123395,
+              "webViewLink": "https://drive.google.com/file/d/1tXFidaYXQcaaapR52QsBMqqHnluCWSe1/view?usp=drivesdk",
+              "modifiedTime": "2026-05-19T09:18:18.793Z",
+              "videoMediaMetadata": null
+            }
+          ]
+        },
+        {
+          "id": "1wXVtmAisrDNOBkUJswn296lJZdT_uvW7",
+          "name": "Buổi 2 Văn học trung đại",
+          "webViewLink": "https://drive.google.com/drive/folders/1wXVtmAisrDNOBkUJswn296lJZdT_uvW7",
+          "modifiedTime": "2026-04-20T16:11:16.435Z",
+          "children": [],
+          "files": [
+            {
+              "id": "1_1yA0VUbGdA2_KxnA5v-aTqbqwslaWKT",
+              "name": "Buổi 2. Bài 2. Văn học trung đại.mp4",
+              "mimeType": "video/mp4",
+              "size": 222590684,
+              "webViewLink": "https://drive.google.com/file/d/1_1yA0VUbGdA2_KxnA5v-aTqbqwslaWKT/view?usp=drivesdk",
+              "modifiedTime": "2026-04-21T21:48:21.532Z",
+              "videoMediaMetadata": {
+                "width": 1280,
+                "height": 720,
+                "durationMillis": "2033266"
+              }
+            }
+          ]
+        },
+        {
+          "id": "1rHwWWwt3sQTPXJ__0aM6puc9wGDa-vb2",
+          "name": "Buổi 3 Tư duy xử lý đề sáng tạo trong Nghị luận xã hội: Luận điểm",
+          "webViewLink": "https://drive.google.com/drive/folders/1rHwWWwt3sQTPXJ__0aM6puc9wGDa-vb2",
+          "modifiedTime": "2026-04-20T16:11:14.721Z",
+          "children": [],
+          "files": [
+            {
+              "id": "1CoGaINow59Y1FHdqWLXsPYnbtBdCY7F3",
+              "name": "Buổi 3. Tư duy xử lý đề sáng tạo trong Nghị luận xã hội Luận điểm.mp4",
+              "mimeType": "video/mp4",
+              "size": 253581168,
+              "webViewLink": "https://drive.google.com/file/d/1CoGaINow59Y1FHdqWLXsPYnbtBdCY7F3/view?usp=drivesdk",
+              "modifiedTime": "2026-04-21T21:48:19.279Z",
+              "videoMediaMetadata": {
+                "width": 1280,
+                "height": 720,
+                "durationMillis": "4501133"
+              }
+            }
+          ]
+        },
+        {
+          "id": "1NvCT3XtCPQ78stP2XbtAA67fHxNGqtu2",
+          "name": "Buổi 4 Văn học giai đoạn 1930 - 1945",
+          "webViewLink": "https://drive.google.com/drive/folders/1NvCT3XtCPQ78stP2XbtAA67fHxNGqtu2",
+          "modifiedTime": "2026-04-20T16:11:12.881Z",
+          "children": [],
+          "files": [
+            {
+              "id": "1TS8YTfJ1Z4swo_XjVA91XNlQnbPe4p8U",
+              "name": "Buổi 4. Văn học giai đoạn 1930 - 1945.mp4",
+              "mimeType": "video/mp4",
+              "size": 266459168,
+              "webViewLink": "https://drive.google.com/file/d/1TS8YTfJ1Z4swo_XjVA91XNlQnbPe4p8U/view?usp=drivesdk",
+              "modifiedTime": "2026-04-21T21:48:17.178Z",
+              "videoMediaMetadata": {
+                "width": 1280,
+                "height": 720,
+                "durationMillis": "2012333"
+              }
+            }
+          ]
+        },
+        {
+          "id": "1yV4QLsRkYoEKY3aQm18Qd4m4poUQAP16",
+          "name": "Buổi 5 Tư duy xử lý đề sáng tạo trong Nghị luận xã hội: Bàn luận",
+          "webViewLink": "https://drive.google.com/drive/folders/1yV4QLsRkYoEKY3aQm18Qd4m4poUQAP16",
+          "modifiedTime": "2026-04-20T16:11:11.151Z",
+          "children": [],
+          "files": [
+            {
+              "id": "1hGhTvWDhEUIMlZ69_qQkvTffevQxaAmb",
+              "name": "Buổi 5. Tư duy xử lý đề sáng tạo trong Nghị luận xã hội Bàn luận.mp4",
+              "mimeType": "video/mp4",
+              "size": 378877152,
+              "webViewLink": "https://drive.google.com/file/d/1hGhTvWDhEUIMlZ69_qQkvTffevQxaAmb/view?usp=drivesdk",
+              "modifiedTime": "2026-04-21T21:48:15.025Z",
+              "videoMediaMetadata": {
+                "width": 1280,
+                "height": 720,
+                "durationMillis": "4632766"
+              }
+            }
+          ]
+        },
+        {
+          "id": "1hal6b6dIhQhxWCfZ45AHxK_avnNcCHS4",
+          "name": "Buổi 6 Văn học kháng chiến",
+          "webViewLink": "https://drive.google.com/drive/folders/1hal6b6dIhQhxWCfZ45AHxK_avnNcCHS4",
+          "modifiedTime": "2026-04-20T16:11:09.217Z",
+          "children": [],
+          "files": [
+            {
+              "id": "157c8G9qXaD0-xNuvFi7Tklt5gNWd1WrX",
+              "name": "Buổi 6. Văn học Kháng chiến.mp4",
+              "mimeType": "video/mp4",
+              "size": 504192124,
+              "webViewLink": "https://drive.google.com/file/d/157c8G9qXaD0-xNuvFi7Tklt5gNWd1WrX/view?usp=drivesdk",
+              "modifiedTime": "2026-04-21T21:48:13.117Z",
+              "videoMediaMetadata": {
+                "width": 1280,
+                "height": 720,
+                "durationMillis": "1793666"
+              }
+            }
+          ]
+        },
+        {
+          "id": "1AxJgxya8WGKAgTe-Q8-GPs1on8oFjzXp",
+          "name": "Buổi 7 Tư duy xử lý đề sáng tạo trong Nghị luận xã hội: Dẫn chứng",
+          "webViewLink": "https://drive.google.com/drive/folders/1AxJgxya8WGKAgTe-Q8-GPs1on8oFjzXp",
+          "modifiedTime": "2026-04-20T16:11:07.301Z",
+          "children": [],
+          "files": [
+            {
+              "id": "1QADzxRBHn4SOcYj_PZWjJUC7ecv3wWGv",
+              "name": "[Bổ trợ] 120 nhận đinh văn học.pdf",
+              "mimeType": "application/pdf",
+              "size": 573056,
+              "webViewLink": "https://drive.google.com/file/d/1QADzxRBHn4SOcYj_PZWjJUC7ecv3wWGv/view?usp=drivesdk",
+              "modifiedTime": "2026-04-30T23:06:42.427Z",
+              "videoMediaMetadata": null
+            },
+            {
+              "id": "1ghGoHFyByBJGtoZyo2TnH4rLYeJQAvNA",
+              "name": "Buổi 7. Tư duy xử lý đề sáng tạo trong Nghị luận xã hội Dẫn chứng.mp4",
+              "mimeType": "video/mp4",
+              "size": 1417637876,
+              "webViewLink": "https://drive.google.com/file/d/1ghGoHFyByBJGtoZyo2TnH4rLYeJQAvNA/view?usp=drivesdk",
+              "modifiedTime": "2026-04-21T21:48:10.840Z",
+              "videoMediaMetadata": {
+                "width": 1280,
+                "height": 720,
+                "durationMillis": "5004066"
+              }
+            }
+          ]
+        },
+        {
+          "id": "17eHQJpsyhJ9LmixK6P1pFp-QKwBwoNt4",
+          "name": "Buổi 8 Văn học hậu chiến",
+          "webViewLink": "https://drive.google.com/drive/folders/17eHQJpsyhJ9LmixK6P1pFp-QKwBwoNt4",
+          "modifiedTime": "2026-04-20T16:11:05.411Z",
+          "children": [],
+          "files": [
+            {
+              "id": "1Nv1Ls06IvUUkJm2ANi31XbfGrhhrjXBc",
+              "name": "Buổi 8. Văn học hậu chiến.mp4",
+              "mimeType": "video/mp4",
+              "size": 472042620,
+              "webViewLink": "https://drive.google.com/file/d/1Nv1Ls06IvUUkJm2ANi31XbfGrhhrjXBc/view?usp=drivesdk",
+              "modifiedTime": "2026-04-21T21:48:08.747Z",
+              "videoMediaMetadata": {
+                "width": 1280,
+                "height": 720,
+                "durationMillis": "1681599"
+              }
+            }
+          ]
+        },
+        {
+          "id": "1pyvs4zdeaq3cfhwbJveYFS907375M1vZ",
+          "name": "Buổi 9 Tư duy xử lý đề sáng tạo trong Nghị luận xã hội: Hành động",
+          "webViewLink": "https://drive.google.com/drive/folders/1pyvs4zdeaq3cfhwbJveYFS907375M1vZ",
+          "modifiedTime": "2026-04-20T16:11:03.233Z",
+          "children": [],
+          "files": [
+            {
+              "id": "1V06Y-3_N1PFc1hJYu5oLK684TOI7vd_Y",
+              "name": "Buổi 9. Tư duy xử lý đề sáng tạo trong Nghị luận xã hội - Hành động.pdf",
+              "mimeType": "application/pdf",
+              "size": 1142256,
+              "webViewLink": "https://drive.google.com/file/d/1V06Y-3_N1PFc1hJYu5oLK684TOI7vd_Y/view?usp=drivesdk",
+              "modifiedTime": "2026-05-22T08:19:48.478Z",
+              "videoMediaMetadata": null
+            },
+            {
+              "id": "1ezElNL5bBcd8cP0fHriSWkJfiIsJ88cK",
+              "name": "Buổi 9. Tư duy xử lý đề sáng tạo trong Nghị luận xã hội Hành động.MP4",
+              "mimeType": "video/mp4",
+              "size": 362762581,
+              "webViewLink": "https://drive.google.com/file/d/1ezElNL5bBcd8cP0fHriSWkJfiIsJ88cK/view?usp=drivesdk",
+              "modifiedTime": "2026-05-11T13:15:15.530Z",
+              "videoMediaMetadata": null
+            }
+          ]
+        }
+      ],
+      "files": [],
+      "webViewLink": "https://drive.google.com/drive/folders/1C9YVFpM26NnNCM70lOoF2EjkezGMHQpb",
+      "modifiedTime": "2026-04-18T14:17:44.392Z"
+    },
+    {
+      "id": "1KAU6tOGNv6BQsd_rXOgq9nAjpmcf8PAD",
+      "name": "2. PHẦN 2 VĂN PHONG - Live",
+      "children": [],
+      "files": [],
+      "webViewLink": "https://drive.google.com/drive/folders/1KAU6tOGNv6BQsd_rXOgq9nAjpmcf8PAD",
+      "modifiedTime": "2026-04-18T14:17:43.347Z"
+    },
+    {
+      "id": "1SDGOq_GyQ0M7p2mzy1WLP3TC0Ue4Uypo",
+      "name": "3. PHẦN 3 TỔNG ÔN LUYỆN ĐỀ - Live",
+      "children": [],
+      "files": [],
+      "webViewLink": "https://drive.google.com/drive/folders/1SDGOq_GyQ0M7p2mzy1WLP3TC0Ue4Uypo",
+      "modifiedTime": "2026-04-18T14:17:42.180Z"
+    },
+    {
+      "id": "11vruFi7Hid95OkoOdskkgFlh68ulTIc0",
+      "name": "Z. EBOOK SÁCH KÈM KHOÁ HỌC",
+      "children": [],
+      "files": [],
+      "webViewLink": "https://drive.google.com/drive/folders/11vruFi7Hid95OkoOdskkgFlh68ulTIc0",
+      "modifiedTime": "2026-04-18T14:17:47.662Z"
+    }
+  ]
+}

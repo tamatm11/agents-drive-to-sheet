@@ -1,0 +1,611 @@
+{
+  "teacherId": "1vGksL0BuqQtbWzARaRdBNCPXqj3A00Z2",
+  "tabs": {
+    "1baciLrqVNvKLogH3gz0TLCFgNLpILtQk": {
+      "tabName": "THE TRUTH",
+      "renderedAt": "2026-05-31T03:47:32.026Z",
+      "checksum": "1baciLrqVNvKLogH3gz0TLCFgNLpILtQk|2026-05-14T09:50:25.011Z|83",
+      "lessons": [
+        {
+          "id": "1KFE8OxWlP1kqVAj1XKGjjYgbTYdaHtKp::theme:1",
+          "name": "THEME 1. CÁC GÓC Ở VỊ TRÍ ĐẶC BIỆT, HAI ĐƯỜNG THẲNG SONG SONG",
+          "parentName": "01. CHAPTER 1. HÌNH HỌC THCS",
+          "checksum": "2026-04-17T14:03:40.990Z|2|c75df328cb85",
+          "virtual": true
+        },
+        {
+          "id": "1KFE8OxWlP1kqVAj1XKGjjYgbTYdaHtKp::theme:2",
+          "name": "THEME 2. TAM GIÁC BẰNG NHAU, TAM GIÁC ĐỒNG DẠNG (P1)",
+          "parentName": "01. CHAPTER 1. HÌNH HỌC THCS",
+          "checksum": "2026-04-17T14:03:37.086Z|3|49216a2d6d8d",
+          "virtual": true
+        },
+        {
+          "id": "1KFE8OxWlP1kqVAj1XKGjjYgbTYdaHtKp::theme:3",
+          "name": "THEME 3. CÁC MÔ HÌNH TỈ LỆ DIỆN TÍCH",
+          "parentName": "01. CHAPTER 1. HÌNH HỌC THCS",
+          "checksum": "2026-04-17T14:03:39.120Z|2|f8af1cb51e0b",
+          "virtual": true
+        },
+        {
+          "id": "1KFE8OxWlP1kqVAj1XKGjjYgbTYdaHtKp::theme:4",
+          "name": "THEME 4. TAM GIÁC VUÔNG, TAM GIÁC ĐỀU, CÁC TAM GIÁC ĐẶC BIỆT",
+          "parentName": "01. CHAPTER 1. HÌNH HỌC THCS",
+          "checksum": "2026-04-17T14:03:35.200Z|2|37a1c0514b82",
+          "virtual": true
+        },
+        {
+          "id": "1mNo49vK_ssR8kcolzBR0biT9zChmAsOv::theme:5",
+          "name": "THEME 5. VECTƠ",
+          "parentName": "02. CHAPTER 2. HÌNH HỌC LỚP 10",
+          "checksum": "2026-04-17T14:03:10.853Z|2|078a286e2d46",
+          "virtual": true
+        },
+        {
+          "id": "1mNo49vK_ssR8kcolzBR0biT9zChmAsOv::theme:6",
+          "name": "THEME 6. PHƯƠNG TRÌNH ĐƯỜNG THẲNG",
+          "parentName": "02. CHAPTER 2. HÌNH HỌC LỚP 10",
+          "checksum": "2026-04-17T14:03:12.551Z|2|ec1fc572def0",
+          "virtual": true
+        },
+        {
+          "id": "1mNo49vK_ssR8kcolzBR0biT9zChmAsOv::theme:7",
+          "name": "THEME 7. VỊ TRÍ TƯƠNG ĐỐI GIỮA HAI ĐƯỜNG THẲNG, GÓC VÀ KHOẢNG CÁCH",
+          "parentName": "02. CHAPTER 2. HÌNH HỌC LỚP 10",
+          "checksum": "2026-04-17T14:03:14.451Z|2|6ea629db3764",
+          "virtual": true
+        },
+        {
+          "id": "1mNo49vK_ssR8kcolzBR0biT9zChmAsOv::theme:8",
+          "name": "THEME 8. PHƯƠNG TRÌNH ĐƯỜNG TRÒN",
+          "parentName": "02. CHAPTER 2. HÌNH HỌC LỚP 10",
+          "checksum": "2026-04-17T14:03:18.267Z|2|07f645a399ed",
+          "virtual": true
+        },
+        {
+          "id": "1mNo49vK_ssR8kcolzBR0biT9zChmAsOv::theme:9",
+          "name": "THEME 9. BA ĐƯỜNG CONIC (P1)",
+          "parentName": "02. CHAPTER 2. HÌNH HỌC LỚP 10",
+          "checksum": "2026-04-17T14:03:16.260Z|3|e0329f821158",
+          "virtual": true
+        },
+        {
+          "id": "1cB3DTVaVclunMaHL3sVLzEh9Okux3K__::theme:10",
+          "name": "THEME 10. MỞ ĐẦU VỀ HÌNH HỌC KHÔNG GIAN",
+          "parentName": "03. CHAPTER 3. HÌNH HỌC LỚP 11",
+          "checksum": "2026-04-17T14:02:34.750Z|2|ea958613f3f6",
+          "virtual": true
+        },
+        {
+          "id": "1cB3DTVaVclunMaHL3sVLzEh9Okux3K__::theme:11",
+          "name": "THEME 11. QUAN HỆ SONG SONG TRONG KHÔNG GIAN",
+          "parentName": "03. CHAPTER 3. HÌNH HỌC LỚP 11",
+          "checksum": "2026-04-17T14:02:36.847Z|2|7a4222cd02c4",
+          "virtual": true
+        },
+        {
+          "id": "1cB3DTVaVclunMaHL3sVLzEh9Okux3K__::theme:12",
+          "name": "THEME 12. QUAN HỆ VUÔNG GÓC TRONG KHÔNG GIAN",
+          "parentName": "03. CHAPTER 3. HÌNH HỌC LỚP 11",
+          "checksum": "2026-04-17T14:02:39.010Z|2|34c2a4d62e9d",
+          "virtual": true
+        },
+        {
+          "id": "1cB3DTVaVclunMaHL3sVLzEh9Okux3K__::theme:13",
+          "name": "THEME 13. GÓC GIỮA HAI ĐƯỜNG THẲNG TRONG KHÔNG GIAN",
+          "parentName": "03. CHAPTER 3. HÌNH HỌC LỚP 11",
+          "checksum": "2026-04-17T14:02:41.210Z|2|93e7d1ba92b8",
+          "virtual": true
+        },
+        {
+          "id": "1cB3DTVaVclunMaHL3sVLzEh9Okux3K__::theme:14",
+          "name": "THEME 14. GÓC GIỮA ĐƯỜNG THẲNG VÀ MẶT PHẲNG TRONG KHÔNG GIAN",
+          "parentName": "03. CHAPTER 3. HÌNH HỌC LỚP 11",
+          "checksum": "2026-04-17T14:02:42.905Z|2|96910e0bbe44",
+          "virtual": true
+        },
+        {
+          "id": "1cB3DTVaVclunMaHL3sVLzEh9Okux3K__::theme:15",
+          "name": "THEME 15. GÓC GIỮA HAI MẶT PHẲNG, GÓC NHỊ DIỆN",
+          "parentName": "03. CHAPTER 3. HÌNH HỌC LỚP 11",
+          "checksum": "2026-04-17T14:02:44.863Z|3|97def4e73264",
+          "virtual": true
+        },
+        {
+          "id": "1cB3DTVaVclunMaHL3sVLzEh9Okux3K__::theme:16",
+          "name": "THEME 16. KHOẢNG CÁCH TỪ MỘT ĐIỂM ĐẾN MỘT MẶT PHẲNG",
+          "parentName": "03. CHAPTER 3. HÌNH HỌC LỚP 11",
+          "checksum": "2026-04-17T14:02:46.926Z|2|d56b0f9f3dd4",
+          "virtual": true
+        },
+        {
+          "id": "1cB3DTVaVclunMaHL3sVLzEh9Okux3K__::theme:17",
+          "name": "THEME 17. KHOẢNG CÁCH GIỮA HAI ĐƯỜNG THẲNG CHÉO NHAU",
+          "parentName": "03. CHAPTER 3. HÌNH HỌC LỚP 11",
+          "checksum": "2026-04-17T14:02:48.931Z|2|f9cc52f4e03c",
+          "virtual": true
+        },
+        {
+          "id": "1cB3DTVaVclunMaHL3sVLzEh9Okux3K__::theme:18",
+          "name": "THEME 18. BA MÔ HÌNH TÍNH THỂ TÍCH KHỐI CHÓP",
+          "parentName": "03. CHAPTER 3. HÌNH HỌC LỚP 11",
+          "checksum": "2026-04-17T14:02:51.135Z|2|c2b39016b45b",
+          "virtual": true
+        },
+        {
+          "id": "1cB3DTVaVclunMaHL3sVLzEh9Okux3K__::theme:19",
+          "name": "THEME 19. THỂ TÍCH KHỐI LĂNG TRỤ",
+          "parentName": "03. CHAPTER 3. HÌNH HỌC LỚP 11",
+          "checksum": "2026-04-17T14:02:53.125Z|2|b244ca90d214",
+          "virtual": true
+        },
+        {
+          "id": "1QxLovmKQU--ZhLbl1N5H_VHUdl67QtRt::theme:20",
+          "name": "THEME 20. HÀM SỐ BẬC NHẤT – HÀM SỐ BẬC HAI",
+          "parentName": "04. CHAPTER 4. ĐẠI SỐ & GIẢI TÍCH LỚP 10",
+          "checksum": "2026-04-17T14:02:03.937Z|2|4080e2bf4d49",
+          "virtual": true
+        },
+        {
+          "id": "1QxLovmKQU--ZhLbl1N5H_VHUdl67QtRt::theme:21",
+          "name": "THEME 21. BPT BẬC NHẤT HAI ẨN VÀ HBPT BẬC NHẤT HAI ẨN",
+          "parentName": "04. CHAPTER 4. ĐẠI SỐ & GIẢI TÍCH LỚP 10",
+          "checksum": "2026-04-17T14:02:02.068Z|2|7afd04bdec08",
+          "virtual": true
+        },
+        {
+          "id": "1F4kMevQDt2SB9KeLGNJ7zJa72Yp3S5Og::theme:22",
+          "name": "THEME 22. GIÁ TRỊ LƯỢNG GIÁC, CÔNG THỨC LƯỢNG GIÁC, HÀM SỐ LƯỢNG GIÁC",
+          "parentName": "05. CHAPTER 5. ĐẠI SỐ & GIẢI TÍCH LỚP 11",
+          "checksum": "2026-04-17T14:01:36.592Z|2|079c79776a22",
+          "virtual": true
+        },
+        {
+          "id": "1F4kMevQDt2SB9KeLGNJ7zJa72Yp3S5Og::theme:23",
+          "name": "THEME 23. GIỚI HẠN HÀM SỐ KHI X → A",
+          "parentName": "05. CHAPTER 5. ĐẠI SỐ & GIẢI TÍCH LỚP 11",
+          "checksum": "2026-04-17T14:01:41.057Z|2|dd66a80fcf12",
+          "virtual": true
+        },
+        {
+          "id": "1F4kMevQDt2SB9KeLGNJ7zJa72Yp3S5Og::theme:24",
+          "name": "THEME 24. GIỚI HẠN CỦA HÀM SỐ KHI X → ∞",
+          "parentName": "05. CHAPTER 5. ĐẠI SỐ & GIẢI TÍCH LỚP 11",
+          "checksum": "2026-04-17T14:01:38.842Z|2|460d56cb6c72",
+          "virtual": true
+        },
+        {
+          "id": "1F4kMevQDt2SB9KeLGNJ7zJa72Yp3S5Og::theme:25",
+          "name": "THEME 25. HÀM SỐ LIÊN TỤC",
+          "parentName": "05. CHAPTER 5. ĐẠI SỐ & GIẢI TÍCH LỚP 11",
+          "checksum": "2026-04-17T14:01:43.189Z|2|fb05bc2a1b61",
+          "virtual": true
+        },
+        {
+          "id": "1F4kMevQDt2SB9KeLGNJ7zJa72Yp3S5Og::theme:26",
+          "name": "THEME 26. ĐẠO HÀM VÀ CÁC QUY TẮC TÍNH ĐẠO HÀM (P1)",
+          "parentName": "05. CHAPTER 5. ĐẠI SỐ & GIẢI TÍCH LỚP 11",
+          "checksum": "2026-04-17T14:01:44.740Z|4|8136370b6aa5",
+          "virtual": true
+        },
+        {
+          "id": "1F4kMevQDt2SB9KeLGNJ7zJa72Yp3S5Og::theme:27",
+          "name": "THEME 27. PHƯƠNG TRÌNH, BẤT PHƯƠNG TRÌNH ĐẠO HÀM",
+          "parentName": "05. CHAPTER 5. ĐẠI SỐ & GIẢI TÍCH LỚP 11",
+          "checksum": "2026-04-17T14:01:47.031Z|2|5743b77e8e49",
+          "virtual": true
+        },
+        {
+          "id": "1F4kMevQDt2SB9KeLGNJ7zJa72Yp3S5Og::theme:28",
+          "name": "THEME 28. LŨY THỪA – LOGARIT",
+          "parentName": "05. CHAPTER 5. ĐẠI SỐ & GIẢI TÍCH LỚP 11",
+          "checksum": "2026-04-17T14:01:48.756Z|2|9341bc090f4b",
+          "virtual": true
+        },
+        {
+          "id": "1F4kMevQDt2SB9KeLGNJ7zJa72Yp3S5Og::theme:29",
+          "name": "THEME 29. HÀM SỐ MŨ, HÀM SỐ LOGARIT",
+          "parentName": "05. CHAPTER 5. ĐẠI SỐ & GIẢI TÍCH LỚP 11",
+          "checksum": "2026-04-17T14:01:50.898Z|2|82f943bb5f38",
+          "virtual": true
+        },
+        {
+          "id": "1F4kMevQDt2SB9KeLGNJ7zJa72Yp3S5Og::theme:30",
+          "name": "THEME 30. PHƯƠNG TRÌNH – BẤT PHƯƠNG TRÌNH MŨ VÀ LOGARIT",
+          "parentName": "05. CHAPTER 5. ĐẠI SỐ & GIẢI TÍCH LỚP 11",
+          "checksum": "2026-04-17T14:01:52.614Z|2|13bc4806ed33",
+          "virtual": true
+        },
+        {
+          "id": "1Ayc_MKxRbRyHZwtHqBXrFq_UkZ5bxuGv::theme:31",
+          "name": "THEME 31. QUY TẮC CỘNG, QUY TẮC NHÂN",
+          "parentName": "06. CHAPTER 6. ĐẠI SỐ TỔ HỢP",
+          "checksum": "2026-04-17T14:01:05.169Z|2|2263aa0667fc",
+          "virtual": true
+        },
+        {
+          "id": "1Ayc_MKxRbRyHZwtHqBXrFq_UkZ5bxuGv::theme:32",
+          "name": "THEME 32. HOÁN VỊ, CHỈNH HỢP, TỔ HỢP, NHỊ THỨC NEWTON (P1)",
+          "parentName": "06. CHAPTER 6. ĐẠI SỐ TỔ HỢP",
+          "checksum": "2026-04-17T14:12:51.839Z|3|34e9ca83fafa",
+          "virtual": true
+        },
+        {
+          "id": "1Ayc_MKxRbRyHZwtHqBXrFq_UkZ5bxuGv::theme:33",
+          "name": "THEME 33. TÍNH XÁC SUẤT BẰNG ĐỊNH NGHĨA",
+          "parentName": "06. CHAPTER 6. ĐẠI SỐ TỔ HỢP",
+          "checksum": "2026-04-17T14:01:00.371Z|2|7918efa07278",
+          "virtual": true
+        },
+        {
+          "id": "1Ayc_MKxRbRyHZwtHqBXrFq_UkZ5bxuGv::theme:34",
+          "name": "THEME 34. CÁC QUY TẮC TÍNH XÁC SUẤT",
+          "parentName": "06. CHAPTER 6. ĐẠI SỐ TỔ HỢP",
+          "checksum": "2026-04-17T14:01:07.771Z|2|eb07455328b1",
+          "virtual": true
+        },
+        {
+          "id": "1FnAHCLvnQVXprywGFiaEHRGSS9E7TEyW::theme:35",
+          "name": "THEME 35. SỐ GẦN ĐÚNG, SAI SỐ",
+          "parentName": "07. CHAPTER 7. MỘT SỐ YẾU TỐ THỐNG KÊ",
+          "checksum": "2026-04-17T14:00:40.320Z|2|b678eeb72639",
+          "virtual": true
+        },
+        {
+          "id": "1FnAHCLvnQVXprywGFiaEHRGSS9E7TEyW::theme:36",
+          "name": "THEME 36. CÁC SỐ ĐẶC TRƯNG ĐO XU THẾ TRUNG TÂM",
+          "parentName": "07. CHAPTER 7. MỘT SỐ YẾU TỐ THỐNG KÊ",
+          "checksum": "2026-04-17T14:00:45.359Z|2|ca3b182cb5bd",
+          "virtual": true
+        },
+        {
+          "id": "1FnAHCLvnQVXprywGFiaEHRGSS9E7TEyW::theme:37",
+          "name": "THEME 37. CÁC SỐ ĐẶC TRƯNG ĐO ĐỘ PHÂN TÁN",
+          "parentName": "07. CHAPTER 7. MỘT SỐ YẾU TỐ THỐNG KÊ",
+          "checksum": "2026-04-17T14:00:38.277Z|2|a0d590ad4d1f",
+          "virtual": true
+        },
+        {
+          "id": "1FnAHCLvnQVXprywGFiaEHRGSS9E7TEyW::theme:38",
+          "name": "THEME 38. MẪU SỐ LIỆU GHÉP NHÓM",
+          "parentName": "07. CHAPTER 7. MỘT SỐ YẾU TỐ THỐNG KÊ",
+          "checksum": "2026-04-17T14:00:42.100Z|2|936c7ac78a25",
+          "virtual": true
+        }
+      ],
+      "rendererVersion": "4.3.1",
+      "styleVersion": "2026-05-31-student-banner-no-meta-v2",
+      "runId": "no-meta-sync-2026-05-31-104541",
+      "spreadsheetId": "1PiBSdUdtkF9-cReFiFP81LWjpT_OTRD5jTdnyZh2h8U",
+      "stats": {
+        "leafCount": 38,
+        "totalVideos": 43
+      }
+    },
+    "1YpxFzj_sv4gYhSMjTOkE6jMUJ4nXEfv_": {
+      "tabName": "STEP 1",
+      "renderedAt": "2026-05-31T03:47:49.176Z",
+      "checksum": "1YpxFzj_sv4gYhSMjTOkE6jMUJ4nXEfv_|2026-05-22T16:17:08.215Z|120",
+      "lessons": [
+        {
+          "id": "1MbVPP0m5EJP_XvabgiG7ALJSrlt496RV",
+          "name": "01. Theme 1. Sự đồng biến, nghịch biến của hàm số - Buổi 1",
+          "parentName": "Chapter 1. Ứng dụng đạo hàm để khảo sát và vẽ đồ thị hàm số",
+          "checksum": "2026-04-24T01:32:37.392Z|4",
+          "virtual": false
+        },
+        {
+          "id": "1zqwAPRiqnKoDbhZWuZFSQpGMzAqHExA_",
+          "name": "02. Theme 1. Sự đồng biến, nghịch biến của hàm số - Buổi 2",
+          "parentName": "Chapter 1. Ứng dụng đạo hàm để khảo sát và vẽ đồ thị hàm số",
+          "checksum": "2026-04-24T01:32:23.614Z|4",
+          "virtual": false
+        },
+        {
+          "id": "1oFtfFDagpvq49XxZ4Rl6o8LZK309MTzU",
+          "name": "03. Theme 1. Sự đồng biến, nghịch biến của hàm số - Buổi 3",
+          "parentName": "Chapter 1. Ứng dụng đạo hàm để khảo sát và vẽ đồ thị hàm số",
+          "checksum": "2026-04-24T01:32:30.228Z|4",
+          "virtual": false
+        },
+        {
+          "id": "10B_JvqCP1R0l8r32W-rgrt3lPwUgMpr2",
+          "name": "04. Theme 1. Sự đồng biến, nghịch biến của hàm số - Buổi 4",
+          "parentName": "Chapter 1. Ứng dụng đạo hàm để khảo sát và vẽ đồ thị hàm số",
+          "checksum": "2026-04-24T01:32:39.696Z|4",
+          "virtual": false
+        },
+        {
+          "id": "1xZffqj9YQOPVGtkPhkiMvbYKvSzolwE2",
+          "name": "05. Theme 2. Cực trị của hàm số - Buổi 1",
+          "parentName": "Chapter 1. Ứng dụng đạo hàm để khảo sát và vẽ đồ thị hàm số",
+          "checksum": "2026-04-30T23:06:00.836Z|4",
+          "virtual": false
+        },
+        {
+          "id": "1MSR81et3wWNXr_dmK3iRCbqoJN1R-lkZ",
+          "name": "06. Theme 2. Cực trị của hàm số - Buổi 2",
+          "parentName": "Chapter 1. Ứng dụng đạo hàm để khảo sát và vẽ đồ thị hàm số",
+          "checksum": "2026-05-01T23:10:43.980Z|4",
+          "virtual": false
+        },
+        {
+          "id": "1oh1JvPeKvPP4_ACPC-dbyE9qNxAThZzO",
+          "name": "07. Theme 2. Cực trị của hàm số - Buổi 3",
+          "parentName": "Chapter 1. Ứng dụng đạo hàm để khảo sát và vẽ đồ thị hàm số",
+          "checksum": "2026-05-08T14:51:17.872Z|4",
+          "virtual": false
+        },
+        {
+          "id": "1GUHW3OzxmtP-dqhxcUbKnf66uKBasoOk",
+          "name": "08. Theme 2. Cực trị của hàm số - Buổi 4",
+          "parentName": "Chapter 1. Ứng dụng đạo hàm để khảo sát và vẽ đồ thị hàm số",
+          "checksum": "2026-05-08T14:51:08.287Z|4",
+          "virtual": false
+        },
+        {
+          "id": "1d1pFEpaxHrmkM7lJXY0J-3mr1gX7L5ef",
+          "name": "09. Theme 3. Giá trị lớn nhất - giá trị nhỏ nhất của hàm số - Buổi 1",
+          "parentName": "Chapter 1. Ứng dụng đạo hàm để khảo sát và vẽ đồ thị hàm số",
+          "checksum": "2026-05-14T10:54:59.470Z|4",
+          "virtual": false
+        },
+        {
+          "id": "19gp-XemLvnutJWYHCul7thEnHjtiXRiB",
+          "name": "10. Theme 3. Giá trị lớn nhất - giá trị nhỏ nhất của hàm số - Buổi 2",
+          "parentName": "Chapter 1. Ứng dụng đạo hàm để khảo sát và vẽ đồ thị hàm số",
+          "checksum": "2026-05-14T10:54:51.490Z|4",
+          "virtual": false
+        },
+        {
+          "id": "1UtrQGnmv7JB96Xda6hpqUYoiJd6rc4Ce",
+          "name": "11. Theme 3. Giá trị lớn nhất – giá trị nhỏ nhất của hàm số - Buổi 3",
+          "parentName": "Chapter 1. Ứng dụng đạo hàm để khảo sát và vẽ đồ thị hàm số",
+          "checksum": "2026-05-21T05:01:01.425Z|4",
+          "virtual": false
+        },
+        {
+          "id": "10eneO8OGJvDNAT8Xt3reb8xrja8GTerz",
+          "name": "12. Theme 3. Giá trị lớn nhất – giá trị nhỏ nhất của hàm số - Buổi 4",
+          "parentName": "Chapter 1. Ứng dụng đạo hàm để khảo sát và vẽ đồ thị hàm số",
+          "checksum": "2026-05-21T05:00:48.135Z|4",
+          "virtual": false
+        },
+        {
+          "id": "1zRSSOgBDvHg-xKb5y8J6muJ_fq7J8Hok",
+          "name": "13. Theme 4. Đường tiệm cận của đồ thị hàm số - Buổi 1",
+          "parentName": "Chapter 1. Ứng dụng đạo hàm để khảo sát và vẽ đồ thị hàm số",
+          "checksum": "2026-05-22T16:17:08.215Z|4",
+          "virtual": false
+        },
+        {
+          "id": "1dxLVbBabHDHeFGgQXMadHu3KbylKghMR",
+          "name": "14. Theme 4. Đường tiệm cận của đồ thị hàm số - Buổi 2",
+          "parentName": "Chapter 1. Ứng dụng đạo hàm để khảo sát và vẽ đồ thị hàm số",
+          "checksum": "2026-05-22T16:17:07.013Z|4",
+          "virtual": false
+        },
+        {
+          "id": "1WC5y7O-edu0xY6CQmNLQrW1Brl9uLm-3",
+          "name": "01. Theme 1. Các quy tắc tính đạo hàm",
+          "parentName": "CD8",
+          "checksum": "2026-04-26T23:14:39.827Z|4",
+          "virtual": false
+        },
+        {
+          "id": "1jHKkvB_khnE2Mw3Y2yCAyo-uE_KRYbPl",
+          "name": "02. Theme 2. Đạo hàm hàm hợp - đạo hàm cấp hai",
+          "parentName": "CD8",
+          "checksum": "2026-04-26T23:14:47.834Z|4",
+          "virtual": false
+        },
+        {
+          "id": "15Ja-GkRr1m4hdE5lbTM86vWlura7figj",
+          "name": "03. Theme 3. Các khái niệm mở đầu về vectơ",
+          "parentName": "CD8",
+          "checksum": "2026-04-26T23:14:55.238Z|4",
+          "virtual": false
+        },
+        {
+          "id": "1yCSdJuGmQ5hF0A5Bncw-l9xvSToookbt",
+          "name": "04. Theme 4. Tổng và hiệu của hai vectơ",
+          "parentName": "CD8",
+          "checksum": "2026-04-26T23:14:07.837Z|4",
+          "virtual": false
+        },
+        {
+          "id": "13Jd1g8sgag-SRIYiyf1OUvhHLVMJdqCX",
+          "name": "05. Theme 5. Tích của một vecto với một số",
+          "parentName": "CD8",
+          "checksum": "2026-04-26T23:14:15.528Z|4",
+          "virtual": false
+        },
+        {
+          "id": "1HYz0NyftpBP1HqNTH7uueMD60v-zvxQX",
+          "name": "06. Theme 6. Quy tắc đếm",
+          "parentName": "CD8",
+          "checksum": "2026-04-26T23:14:23.987Z|4",
+          "virtual": false
+        },
+        {
+          "id": "1ja_tpSj-kyBI7vY4Co27kI-E6szLXfvw",
+          "name": "07. Theme 7. Hoán vị, chỉnh hợp, tổ hợp",
+          "parentName": "CD8",
+          "checksum": "2026-04-26T23:13:59.113Z|4",
+          "virtual": false
+        },
+        {
+          "id": "1CIMWEIHnhucbjDqZTNramBUnyJgGCQdC",
+          "name": "08. Theme 8. Xác suất của biến cố",
+          "parentName": "CD8",
+          "checksum": "2026-04-26T23:14:31.625Z|4",
+          "virtual": false
+        },
+        {
+          "id": "17aTu81SSgJqxjsR4mKvedoh7bSP8J73J",
+          "name": "01. Theme 1. Các quy tắc tính đạo hàm",
+          "parentName": "Phụ lục. 8 chủ đề Toán 10, 11 cần nắm để học lên chương trình Toán 12",
+          "checksum": "2026-04-27T16:01:22.271Z|4",
+          "virtual": false
+        },
+        {
+          "id": "1vKCZTKplbU2_W9n5qcJTQgggi-VDAVDM",
+          "name": "02. Theme 2. Đạo hàm hàm hợp - đạo hàm cấp hai",
+          "parentName": "Phụ lục. 8 chủ đề Toán 10, 11 cần nắm để học lên chương trình Toán 12",
+          "checksum": "2026-04-27T16:01:29.589Z|4",
+          "virtual": false
+        },
+        {
+          "id": "1QaGjVuGVEvikbR6dA09atNfmC6-v2HuR",
+          "name": "03. Theme 3. Các khái niệm mở đầu về vectơ",
+          "parentName": "Phụ lục. 8 chủ đề Toán 10, 11 cần nắm để học lên chương trình Toán 12",
+          "checksum": "2026-04-27T16:01:36.181Z|4",
+          "virtual": false
+        },
+        {
+          "id": "1hITxp7Cgnxt_u6_Xb18xjcAqMw2woNSh",
+          "name": "04. Theme 4. Tổng và hiệu của hai vectơ",
+          "parentName": "Phụ lục. 8 chủ đề Toán 10, 11 cần nắm để học lên chương trình Toán 12",
+          "checksum": "2026-04-27T16:00:52.104Z|4",
+          "virtual": false
+        },
+        {
+          "id": "1fgMO8YcpZGo6cerCWl2cpA9AkYyaJH3h",
+          "name": "05. Theme 5. Tích của một vecto với một số",
+          "parentName": "Phụ lục. 8 chủ đề Toán 10, 11 cần nắm để học lên chương trình Toán 12",
+          "checksum": "2026-04-27T16:00:59.619Z|4",
+          "virtual": false
+        },
+        {
+          "id": "1HugUgf0fpvkC-Mopb8VuXJNlxCAcTsUU",
+          "name": "06. Theme 6. Quy tắc đếm",
+          "parentName": "Phụ lục. 8 chủ đề Toán 10, 11 cần nắm để học lên chương trình Toán 12",
+          "checksum": "2026-04-27T16:01:06.903Z|4",
+          "virtual": false
+        },
+        {
+          "id": "1OTcudzCpd_oKzjOarVd73SAKee2LuOwd",
+          "name": "07. Theme 7. Hoán vị, chỉnh hợp, tổ hợp",
+          "parentName": "Phụ lục. 8 chủ đề Toán 10, 11 cần nắm để học lên chương trình Toán 12",
+          "checksum": "2026-04-27T16:00:44.025Z|4",
+          "virtual": false
+        },
+        {
+          "id": "1pDP67KGdoBhlfAGWoMqP5PWTtaoXzBUF",
+          "name": "08. Theme 8. Xác suất của biến cố",
+          "parentName": "Phụ lục. 8 chủ đề Toán 10, 11 cần nắm để học lên chương trình Toán 12",
+          "checksum": "2026-04-27T16:01:14.265Z|4",
+          "virtual": false
+        }
+      ],
+      "rendererVersion": "4.3.1",
+      "styleVersion": "2026-05-31-student-banner-no-meta-v2",
+      "runId": "no-meta-sync-2026-05-31-104541",
+      "spreadsheetId": "1PiBSdUdtkF9-cReFiFP81LWjpT_OTRD5jTdnyZh2h8U",
+      "stats": {
+        "leafCount": 30,
+        "totalVideos": 30
+      }
+    },
+    "1uOx9oYgm4x5AAyAf_TNFQe_U8XLhLs6O": {
+      "tabName": "STEP 2",
+      "renderedAt": "2026-05-31T03:47:56.428Z",
+      "checksum": "1uOx9oYgm4x5AAyAf_TNFQe_U8XLhLs6O|2026-04-17T16:25:31.366Z|0",
+      "lessons": [],
+      "rendererVersion": "4.3.1",
+      "styleVersion": "2026-05-31-student-banner-no-meta-v2",
+      "runId": "no-meta-sync-2026-05-31-104541",
+      "spreadsheetId": "1PiBSdUdtkF9-cReFiFP81LWjpT_OTRD5jTdnyZh2h8U",
+      "stats": {
+        "leafCount": 0,
+        "totalVideos": 0
+      }
+    },
+    "11jgGE4xlfiLXM53nf3Alv90cXFKQzyyE": {
+      "tabName": "STEP 3",
+      "renderedAt": "2026-05-31T03:48:03.621Z",
+      "checksum": "11jgGE4xlfiLXM53nf3Alv90cXFKQzyyE|2026-04-17T16:25:31.366Z|0",
+      "lessons": [],
+      "rendererVersion": "4.3.1",
+      "styleVersion": "2026-05-31-student-banner-no-meta-v2",
+      "runId": "no-meta-sync-2026-05-31-104541",
+      "spreadsheetId": "1PiBSdUdtkF9-cReFiFP81LWjpT_OTRD5jTdnyZh2h8U",
+      "stats": {
+        "leafCount": 0,
+        "totalVideos": 0
+      }
+    },
+    "1sCgpYBQb5JtdUnhgZ5ZDbjO24gQEj3vM": {
+      "tabName": "STEP 4",
+      "renderedAt": "2026-05-31T03:48:10.959Z",
+      "checksum": "1sCgpYBQb5JtdUnhgZ5ZDbjO24gQEj3vM|2026-04-17T16:25:31.366Z|0",
+      "lessons": [],
+      "rendererVersion": "4.3.1",
+      "styleVersion": "2026-05-31-student-banner-no-meta-v2",
+      "runId": "no-meta-sync-2026-05-31-104541",
+      "spreadsheetId": "1PiBSdUdtkF9-cReFiFP81LWjpT_OTRD5jTdnyZh2h8U",
+      "stats": {
+        "leafCount": 0,
+        "totalVideos": 0
+      }
+    },
+    "1rNUTHkUmyq-z3tAgw8qSJt1d7f15nLiK": {
+      "tabName": "STEP 5",
+      "renderedAt": "2026-05-31T03:48:18.163Z",
+      "checksum": "1rNUTHkUmyq-z3tAgw8qSJt1d7f15nLiK|2026-04-17T16:25:31.366Z|0",
+      "lessons": [],
+      "rendererVersion": "4.3.1",
+      "styleVersion": "2026-05-31-student-banner-no-meta-v2",
+      "runId": "no-meta-sync-2026-05-31-104541",
+      "spreadsheetId": "1PiBSdUdtkF9-cReFiFP81LWjpT_OTRD5jTdnyZh2h8U",
+      "stats": {
+        "leafCount": 0,
+        "totalVideos": 0
+      }
+    },
+    "1kJoFFk6BJDz_oPnI1uUkkNPzwQ7q6uQN": {
+      "tabName": "Nhập môn Hàm",
+      "renderedAt": "2026-05-31T03:48:25.321Z",
+      "checksum": "1kJoFFk6BJDz_oPnI1uUkkNPzwQ7q6uQN|2026-05-22T16:16:57.140Z|0",
+      "lessons": [],
+      "rendererVersion": "4.3.1",
+      "styleVersion": "2026-05-31-student-banner-no-meta-v2",
+      "runId": "no-meta-sync-2026-05-31-104541",
+      "spreadsheetId": "1PiBSdUdtkF9-cReFiFP81LWjpT_OTRD5jTdnyZh2h8U",
+      "stats": {
+        "leafCount": 0,
+        "totalVideos": 0
+      }
+    },
+    "1EGMYDrW5z5nVuL8qgEAa8MiQlDEJDzXn": {
+      "tabName": "PHỤ ĐẠO THÊM",
+      "renderedAt": "2026-05-31T03:48:32.775Z",
+      "checksum": "1EGMYDrW5z5nVuL8qgEAa8MiQlDEJDzXn|2026-04-17T16:25:31.366Z|0",
+      "lessons": [],
+      "rendererVersion": "4.3.1",
+      "styleVersion": "2026-05-31-student-banner-no-meta-v2",
+      "runId": "no-meta-sync-2026-05-31-104541",
+      "spreadsheetId": "1PiBSdUdtkF9-cReFiFP81LWjpT_OTRD5jTdnyZh2h8U",
+      "stats": {
+        "leafCount": 0,
+        "totalVideos": 0
+      }
+    },
+    "1RHhIyUEK4CpAJSFq7Wddi7edMY00WKIz": {
+      "tabName": "Đọc vị đề",
+      "renderedAt": "2026-05-31T03:48:40.012Z",
+      "checksum": "1RHhIyUEK4CpAJSFq7Wddi7edMY00WKIz|2026-04-17T16:25:31.366Z|0",
+      "lessons": [],
+      "rendererVersion": "4.3.1",
+      "styleVersion": "2026-05-31-student-banner-no-meta-v2",
+      "runId": "no-meta-sync-2026-05-31-104541",
+      "spreadsheetId": "1PiBSdUdtkF9-cReFiFP81LWjpT_OTRD5jTdnyZh2h8U",
+      "stats": {
+        "leafCount": 0,
+        "totalVideos": 0
+      }
+    }
+  },
+  "updatedAt": "2026-05-31T03:48:40.012Z",
+  "version": 2
+}

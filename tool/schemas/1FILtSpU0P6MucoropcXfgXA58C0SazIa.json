@@ -1,0 +1,85 @@
+{
+  "updatedAt": "2026-05-28T12:18:35.699Z",
+  "teacher": {
+    "id": "1FILtSpU0P6MucoropcXfgXA58C0SazIa",
+    "name": "2. ANH CÔ TRANG ANH MOON 2K9"
+  },
+  "schema": {
+    "levels": [
+      {
+        "depth": 0,
+        "label": "Chương / Chuyên đề",
+        "icon": "📖",
+        "bold": true,
+        "bg": "#FCE5C0",
+        "namePatternHint": "Cấp 1: vd '0.1.NGỮ PHÁP ỨNG DỤNG', '0.2.NGỮ PHÁP NÂNG CAO', '1. Tuần 1 (từ ngày 20/4/2026 - 26/4/2026)', '2. Tuần 2 (từ ngày 27/4/2026 - 3/5/2026)', '3. TUẦN 3 (từ ngày 4/5/2026 - 10/5/2026)'"
+      }
+    ],
+    "leafFallback": {
+      "label": "Bài",
+      "icon": "📂",
+      "bold": true,
+      "bg": "#FCF1D4",
+      "note": "Một số khóa file nằm cấp nông hơn — render thẳng như leaf bài học."
+    },
+    "courseRow": {
+      "icon": "📚",
+      "bold": true,
+      "fontSize": 12,
+      "bg": "#D4E5FA"
+    },
+    "videoRow": {
+      "icon": "▸",
+      "indent": "extra-from-leaf"
+    },
+    "notes": "Auto-detect (1 cấp). 1/5 khóa có cấu trúc. Pattern: flat. Skip 2 folder meta. Chưa có file (chỉ folder rỗng) — schema dựa trên depth folder."
+  },
+  "_meta": {
+    "source": "auto-detect",
+    "version": 1,
+    "generated_at": "2026-05-28T12:18:35.699Z",
+    "confidence": "high",
+    "dominant_depth": 1,
+    "dominant_share": 1,
+    "patterns_observed": [
+      "flat"
+    ],
+    "meta_courses_skipped": [
+      "0. INFO THÔNG TIN VÀ HƯỚNG DẪN KHOÁ HỌC",
+      "Z. EBOOK SÁCH KÈM KHOÁ HỌC"
+    ],
+    "course_breakdown": [
+      {
+        "name": "1. NGỮ PHÁP TIẾNG ANH TOÀN DIỆN",
+        "structure_depth": 1,
+        "pattern": "flat",
+        "files": 0
+      },
+      {
+        "name": "2. TỪ VỰNG ĐỌC HIỂU CẤP 3",
+        "structure_depth": 0,
+        "pattern": "empty",
+        "files": 0
+      },
+      {
+        "name": "3. TỪ VỰNG ĐỌC HIỂU NÂNG CAO",
+        "structure_depth": 0,
+        "pattern": "empty",
+        "files": 0
+      },
+      {
+        "name": "4. LUYỆN GIẢI ĐỀ VIP TN THPT",
+        "structure_depth": 0,
+        "pattern": "empty",
+        "files": 0
+      },
+      {
+        "name": "5. LUYỆN GIẢI ĐỀ VIP ĐGNL",
+        "structure_depth": 0,
+        "pattern": "empty",
+        "files": 0
+      }
+    ],
+    "no_files_yet": true
+  }
+}

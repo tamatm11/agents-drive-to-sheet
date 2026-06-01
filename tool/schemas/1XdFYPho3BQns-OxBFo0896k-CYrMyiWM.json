@@ -1,0 +1,80 @@
+{
+  "updatedAt": "2026-05-28T12:18:35.700Z",
+  "teacher": {
+    "id": "1XdFYPho3BQns-OxBFo0896k-CYrMyiWM",
+    "name": "3. ANH CÔ PHẠM LIỄU TENS 2K9"
+  },
+  "schema": {
+    "levels": [
+      {
+        "depth": 0,
+        "label": "Chương / Chuyên đề",
+        "icon": "📖",
+        "bold": true,
+        "bg": "#FCE5C0",
+        "namePatternHint": "Cấp 1: vd '1. CHUYÊN ĐỀ NGỮ PHÁP\t\t', '2. CHUYÊN ĐỀ TỪ VỰNG\t\t', '3. BẢN TIN TỪ VỰNG\t\t', '4. ĐỀ THI\t\t'"
+      }
+    ],
+    "leafFallback": {
+      "label": "Bài",
+      "icon": "📂",
+      "bold": true,
+      "bg": "#FCF1D4",
+      "note": "Một số khóa file nằm cấp nông hơn — render thẳng như leaf bài học."
+    },
+    "courseRow": {
+      "icon": "📚",
+      "bold": true,
+      "fontSize": 12,
+      "bg": "#D4E5FA"
+    },
+    "videoRow": {
+      "icon": "▸",
+      "indent": "extra-from-leaf"
+    },
+    "notes": "Auto-detect (1 cấp). 1/4 khóa có cấu trúc. Pattern: flat. Skip 3 folder meta. Chưa có file (chỉ folder rỗng) — schema dựa trên depth folder."
+  },
+  "_meta": {
+    "source": "auto-detect",
+    "version": 1,
+    "generated_at": "2026-05-28T12:18:35.700Z",
+    "confidence": "high",
+    "dominant_depth": 1,
+    "dominant_share": 1,
+    "patterns_observed": [
+      "flat"
+    ],
+    "meta_courses_skipped": [
+      "0. INFO THÔNG TIN VÀ HƯỚNG DẪN KHOÁ HỌC",
+      "Z. BONUS 15 PHÚT MỖI NGÀY NÂNG CẤP TỪ VỰNG IELTS",
+      "Z. EBOOK SÁCH KÈM KHOÁ HỌC"
+    ],
+    "course_breakdown": [
+      {
+        "name": "1. KHOÁ T NỀN TẢNG TỪ VỰNG NGỮ PHÁP",
+        "structure_depth": 1,
+        "pattern": "flat",
+        "files": 0
+      },
+      {
+        "name": "2. KHOÁ E TỪ VỰNG - ĐỌC HIỂU CHUYÊN SÂU",
+        "structure_depth": 0,
+        "pattern": "empty",
+        "files": 0
+      },
+      {
+        "name": "3. KHOÁ N TỔNG ÔN VÀ LUYỆN ĐỀ 8, 9+",
+        "structure_depth": 0,
+        "pattern": "empty",
+        "files": 0
+      },
+      {
+        "name": "4. KHOÁ S TỔNG ÔN CẤP TỐC GIAI ĐOẠN CUỐI",
+        "structure_depth": 0,
+        "pattern": "empty",
+        "files": 0
+      }
+    ],
+    "no_files_yet": true
+  }
+}

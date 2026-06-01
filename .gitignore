@@ -1,0 +1,66 @@
+# Dependencies
+node_modules/
+vendor/
+
+# Python
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.venv/
+venv/
+env/
+
+# Build and cache output
+dist/
+build/
+.cache/
+tmp/
+temp/
+
+# Logs
+*.log
+logs/
+
+# Environment and secrets
+.env
+.env.*
+!.env.example
+*.env
+*.env.*
+*.local
+*.secret
+*.secrets
+*secret*
+*secrets*
+*token*
+*tokens*
+*credential*
+*credentials*
+*apikey*
+*api-key*
+*api_key*
+*private-key*
+*private_key*
+settings.json
+*.settings.json
+*.token.json
+*.tokens.json
+*.credential.json
+*.credentials.json
+*.secret.json
+*.secrets.json
+*.apikey.json
+*.api-key.json
+*.api_key.json
+*.pem
+*.key
+*.p12
+*.pfx
+
+# OS and editor files
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/

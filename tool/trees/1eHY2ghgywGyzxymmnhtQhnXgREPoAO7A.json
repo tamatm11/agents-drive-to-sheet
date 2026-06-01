@@ -1,0 +1,989 @@
+{
+  "crawledAt": "2026-05-29T17:28:39.372Z",
+  "teacher": {
+    "id": "1eHY2ghgywGyzxymmnhtQhnXgREPoAO7A",
+    "name": "2. HOÁ THẦY PHẠM VĂN TRỌNG TENS 2K9",
+    "modifiedTime": "2026-05-27T15:22:47.829Z",
+    "webViewLink": "https://drive.google.com/drive/folders/1eHY2ghgywGyzxymmnhtQhnXgREPoAO7A"
+  },
+  "courses": [
+    {
+      "id": "11B4GoDJehfxn0Q87AJPjrbE1gN3k875U",
+      "name": "0. INFO THÔNG TIN VÀ HƯỚNG DẪN KHOÁ HỌC",
+      "children": [],
+      "files": [],
+      "webViewLink": "https://drive.google.com/drive/folders/11B4GoDJehfxn0Q87AJPjrbE1gN3k875U",
+      "modifiedTime": "2026-04-15T22:18:50.876Z"
+    },
+    {
+      "id": "1lBd3xv7jkAtGvv1JOB49pNISPejMJwqI",
+      "name": "1. KHOÁ T NỀN TẢNG",
+      "children": [
+        {
+          "id": "1nqGfR0F_i9wWH76DhoVnyD6BfQ_XuSY3",
+          "name": "1. CHƯƠNG 1-ESTER-LIPID-CHẤT GIẶT RỬA\t\t\t\t\t",
+          "webViewLink": "https://drive.google.com/drive/folders/1nqGfR0F_i9wWH76DhoVnyD6BfQ_XuSY3",
+          "modifiedTime": "2026-04-17T13:59:30.186Z",
+          "children": [
+            {
+              "id": "1eaIxsXKlzxrkh_DfBvFbE-IDWrhkX7PJ",
+              "name": "0. TÀI LIỆU CHƯƠNG 1 (Còn cập nhật)\t\t\t",
+              "webViewLink": "https://drive.google.com/drive/folders/1eaIxsXKlzxrkh_DfBvFbE-IDWrhkX7PJ",
+              "modifiedTime": "2026-04-17T14:00:29.430Z",
+              "children": [],
+              "files": [
+                {
+                  "id": "1hx0fIvPybVCOljiwgvUIYBGkrgkQJ5IH",
+                  "name": "Tài liệu in chương 1-Hóa 12",
+                  "mimeType": "application/vnd.google-apps.shortcut",
+                  "size": 0,
+                  "webViewLink": "https://drive.google.com/file/d/1hx0fIvPybVCOljiwgvUIYBGkrgkQJ5IH/view?usp=drivesdk",
+                  "modifiedTime": "2026-04-17T14:00:30.433Z",
+                  "videoMediaMetadata": null
+                }
+              ]
+            },
+            {
+              "id": "1vHAGyLi_PYvA_pARTlC-n8VDO0E038cW",
+              "name": "1. LÝ THUYẾT ESTER (Ưu tiên học lại)",
+              "webViewLink": "https://drive.google.com/drive/folders/1vHAGyLi_PYvA_pARTlC-n8VDO0E038cW",
+              "modifiedTime": "2026-04-17T14:00:23.214Z",
+              "children": [],
+              "files": [
+                {
+                  "id": "1KrEuGlfzSiaq0WB5vDzpGIfT9GZVZjwe",
+                  "name": "[LIVE] KHAI GIẢNG KHÓA 2K9XPS HÓA 12-BÀI 1 LÝ THUYẾT ESTER..mp4",
+                  "mimeType": "video/mp4",
+                  "size": 1924190061,
+                  "webViewLink": "https://drive.google.com/file/d/1KrEuGlfzSiaq0WB5vDzpGIfT9GZVZjwe/view?usp=drivesdk",
+                  "modifiedTime": "2026-04-17T14:00:26.209Z",
+                  "videoMediaMetadata": {
+                    "width": 1920,
+                    "height": 1080,
+                    "durationMillis": "8731833"
+                  }
+                },
+                {
+                  "id": "12mCb_s2I8Ml5_dqOChwQK08Ua8YKV29Y",
+                  "name": "HÓA 12-CHƯƠNG 1-LÝ THUYẾT ESTER VIẾT TAY.pdf",
+                  "mimeType": "application/pdf",
+                  "size": 53711462,
+                  "webViewLink": "https://drive.google.com/file/d/12mCb_s2I8Ml5_dqOChwQK08Ua8YKV29Y/view?usp=drivesdk",
+                  "modifiedTime": "2026-04-17T14:00:24.501Z",
+                  "videoMediaMetadata": null
+                }
+              ]
+            },
+            {
+              "id": "1BOrAkyDioBQCHzErv2QZbYbjozt06w7v",
+              "name": "10. CHỮA BÀI TẬP LIPID CHẤT BÉO (SÁCH HTCPHHC)",
+              "webViewLink": "https://drive.google.com/drive/folders/1BOrAkyDioBQCHzErv2QZbYbjozt06w7v",
+              "modifiedTime": "2026-04-29T13:57:40.217Z",
+              "children": [],
+              "files": [
+                {
+                  "id": "1jQX3GflrcI8-MMZLaAaRWNl1Fu3I6VOO",
+                  "name": "(TỜ 01-CĐ2 LIPID-CHẤT BÉO-BT TỰ LUẬN-TRẮC NGHỆM-SÁCH HTCPHHC) CHƯƠNG 1-ESTER LIPID-VIẾT TAY.pdf",
+                  "mimeType": "application/pdf",
+                  "size": 9153623,
+                  "webViewLink": "https://drive.google.com/file/d/1jQX3GflrcI8-MMZLaAaRWNl1Fu3I6VOO/view?usp=drivesdk",
+                  "modifiedTime": "2026-04-29T13:57:46.839Z",
+                  "videoMediaMetadata": null
+                },
+                {
+                  "id": "1ALOOUeD72WFtXIbCN61KJZT5WjPINMSn",
+                  "name": "(TỜ 01-CĐ2 LIPID-CHẤT BÉO-BT ĐÚNG SAI-TRẢ LỜI NGẮN-SÁCH HTCPHHC) CHƯƠNG 1-ESTER LIPID-VIẾT TAY.pdf",
+                  "mimeType": "application/pdf",
+                  "size": 10713411,
+                  "webViewLink": "https://drive.google.com/file/d/1ALOOUeD72WFtXIbCN61KJZT5WjPINMSn/view?usp=drivesdk",
+                  "modifiedTime": "2026-04-29T13:57:44.814Z",
+                  "videoMediaMetadata": null
+                },
+                {
+                  "id": "1Ji186eVqnCd68CJrlUUH6UZXIo2ZIux7",
+                  "name": "(TỜ 01-CĐ2 LIPID-CHẤT BÉO-SÁCH HTCPHHC) CHƯƠNG 1-ESTER LIPID-ĐỀ.pdf",
+                  "mimeType": "application/pdf",
+                  "size": 752762,
+                  "webViewLink": "https://drive.google.com/file/d/1Ji186eVqnCd68CJrlUUH6UZXIo2ZIux7/view?usp=drivesdk",
+                  "modifiedTime": "2026-04-29T13:57:42.135Z",
+                  "videoMediaMetadata": null
+                },
+                {
+                  "id": "1U_558dXgk7MQPxf2xMGsY53s0jw9R1N9",
+                  "name": "[LIVE] CHUYÊN ĐỀ 2-LIPID CHẤT BÉO-CHỮA BÀI TẬP ĐÚNG SAI VÀ TRẢ LỜI NGẮN.mp4",
+                  "mimeType": "video/mp4",
+                  "size": 477796337,
+                  "webViewLink": "https://drive.google.com/file/d/1U_558dXgk7MQPxf2xMGsY53s0jw9R1N9/view?usp=drivesdk",
+                  "modifiedTime": "2026-04-29T13:57:51.630Z",
+                  "videoMediaMetadata": null
+                },
+                {
+                  "id": "1YPFuLRd6eF5jS6E8xcWV3rzxSryhL252",
+                  "name": "[LIVE] CHỮA BÀI TẬP TỰ LUẬN-TRẮC NGHIỆM CHẤT BÉO-LIPID.mp4",
+                  "mimeType": "video/mp4",
+                  "size": 348962053,
+                  "webViewLink": "https://drive.google.com/file/d/1YPFuLRd6eF5jS6E8xcWV3rzxSryhL252/view?usp=drivesdk",
+                  "modifiedTime": "2026-04-29T13:57:49.064Z",
+                  "videoMediaMetadata": null
+                }
+              ]
+            },
+            {
+              "id": "1ZBRDqEHckQQWM6i7fx5JFR_oYJ0e-XYH",
+              "name": "11. BÀI TẬP VDC CHỈ SỐ CHẤT BÉO",
+              "webViewLink": "https://drive.google.com/drive/folders/1ZBRDqEHckQQWM6i7fx5JFR_oYJ0e-XYH",
+              "modifiedTime": "2026-04-29T13:57:32.646Z",
+              "children": [],
+              "files": [
+                {
+                  "id": "1Qcdb2lgJUE4JrxU3trbsKhDfECnCFr9o",
+                  "name": "BÀI TẬP VỀ CHỈ SỐ CỦA CHẤT BÉO-Viết tay.pdf",
+                  "mimeType": "application/pdf",
+                  "size": 7206253,
+                  "webViewLink": "https://drive.google.com/file/d/1Qcdb2lgJUE4JrxU3trbsKhDfECnCFr9o/view?usp=drivesdk",
+                  "modifiedTime": "2026-04-29T13:57:37.854Z",
+                  "videoMediaMetadata": null
+                },
+                {
+                  "id": "1i8_9G3EpngDC9SAPfCHM-71s4dfL9c5U",
+                  "name": "BÀI TẬP VỀ CHỈ SỐ CỦA CHẤT BÉO-ĐỀ.pdf",
+                  "mimeType": "application/pdf",
+                  "size": 373731,
+                  "webViewLink": "https://drive.google.com/file/d/1i8_9G3EpngDC9SAPfCHM-71s4dfL9c5U/view?usp=drivesdk",
+                  "modifiedTime": "2026-04-29T13:57:34.314Z",
+                  "videoMediaMetadata": null
+                }
+              ]
+            },
+            {
+              "id": "18GnjBYA7Wf5gOCLc6BD0prQ6Cmj5RkEB",
+              "name": "12. BÀI TẬP SƠ ĐỒ BIẾN HÓA LIÊN QUAN ĐẾN ESTER-ĐỀ",
+              "webViewLink": "https://drive.google.com/drive/folders/18GnjBYA7Wf5gOCLc6BD0prQ6Cmj5RkEB",
+              "modifiedTime": "2026-05-11T08:29:55.798Z",
+              "children": [],
+              "files": [
+                {
+                  "id": "1DS1Uh0Nm3J_JzDaze7NnjTqxJ9Hz_ivg",
+                  "name": "(TỜ 09) BÀI TẬP SƠ ĐỒ BIẾN HÓA LIÊN QUAN ĐẾN ESTER-ĐỀ.pdf",
+                  "mimeType": "application/pdf",
+                  "size": 643521,
+                  "webViewLink": "https://drive.google.com/file/d/1DS1Uh0Nm3J_JzDaze7NnjTqxJ9Hz_ivg/view?usp=drivesdk",
+                  "modifiedTime": "2026-05-11T08:29:57.776Z",
+                  "videoMediaMetadata": null
+                },
+                {
+                  "id": "1ps_fqd7T-iGN0rZwwUSDactgEPcpi3Bq",
+                  "name": "[VIDEO] BÀI TẬP SƠ ĐỒ LIÊN QUAN ĐẾN ESTER (NÂNG CAO)-- - Facebook.mp4",
+                  "mimeType": "video/mp4",
+                  "size": 150664283,
+                  "webViewLink": "https://drive.google.com/file/d/1ps_fqd7T-iGN0rZwwUSDactgEPcpi3Bq/view?usp=drivesdk",
+                  "modifiedTime": "2026-05-11T08:29:57.788Z",
+                  "videoMediaMetadata": {
+                    "width": 1280,
+                    "height": 720,
+                    "durationMillis": "4794427"
+                  }
+                },
+                {
+                  "id": "1r5rC1zIo7qV7V94q1YHsVyQdkCcayISb",
+                  "name": "BÀI TẬP SƠ ĐỒ BIẾN HÓA LIÊN QUAN ĐẾN ESTER-VIẾT TAY.pdf",
+                  "mimeType": "application/pdf",
+                  "size": 9127577,
+                  "webViewLink": "https://drive.google.com/file/d/1r5rC1zIo7qV7V94q1YHsVyQdkCcayISb/view?usp=drivesdk",
+                  "modifiedTime": "2026-05-11T08:29:57.783Z",
+                  "videoMediaMetadata": null
+                }
+              ]
+            },
+            {
+              "id": "1t6h2i4zECifcD-0NGRDCK4c2bVE1LXp_",
+              "name": "13. LÝ THUYẾT XÀ PHÒNG-CHẤT GIẶT RỬA (Ưu tiên học lại)",
+              "webViewLink": "https://drive.google.com/drive/folders/1t6h2i4zECifcD-0NGRDCK4c2bVE1LXp_",
+              "modifiedTime": "2026-05-11T08:29:54.246Z",
+              "children": [],
+              "files": [
+                {
+                  "id": "1vRhc1244TV-wYZItHarGLGlMBKCVLMlL",
+                  "name": "[live] LÝ THUYẾT XÀ PHÒNG-CHẤT GIẶT RỬA.mp4",
+                  "mimeType": "video/mp4",
+                  "size": 1110242158,
+                  "webViewLink": "https://drive.google.com/file/d/1vRhc1244TV-wYZItHarGLGlMBKCVLMlL/view?usp=drivesdk",
+                  "modifiedTime": "2026-05-11T08:29:56.017Z",
+                  "videoMediaMetadata": null
+                },
+                {
+                  "id": "17UxTjUs51z21tTe9xeD2ayBkGe7Ip0wL",
+                  "name": "LÝ THUYẾT XÀ PHÒNG-CHẤT GIẶT RỬA-VIẾT TAY.pdf",
+                  "mimeType": "application/pdf",
+                  "size": 5549638,
+                  "webViewLink": "https://drive.google.com/file/d/17UxTjUs51z21tTe9xeD2ayBkGe7Ip0wL/view?usp=drivesdk",
+                  "modifiedTime": "2026-05-11T08:29:56.023Z",
+                  "videoMediaMetadata": null
+                }
+              ]
+            },
+            {
+              "id": "12e2U5MprhhA-AYSLSnjIceRpqBa6W5h_",
+              "name": "14. CHỮA BÀI TẬP XÀ PHÒNG-CHẤT GIẶT RỬA (SÁCH HTCPHHC)",
+              "webViewLink": "https://drive.google.com/drive/folders/12e2U5MprhhA-AYSLSnjIceRpqBa6W5h_",
+              "modifiedTime": "2026-05-11T08:29:52.544Z",
+              "children": [],
+              "files": [
+                {
+                  "id": "1F_FA2yOo-uR_iPeJC5PV6GS5ehrdwwu1",
+                  "name": "(TỜ 01-CĐ3-XÀ PHÒNG CHẤT GIẶT RỬA-SÁCH HTCPHHC) CHƯƠNG 1-ESTER LIPID-VIẾT TAY.pdf",
+                  "mimeType": "application/pdf",
+                  "size": 16997810,
+                  "webViewLink": "https://drive.google.com/file/d/1F_FA2yOo-uR_iPeJC5PV6GS5ehrdwwu1/view?usp=drivesdk",
+                  "modifiedTime": "2026-05-11T08:29:54.484Z",
+                  "videoMediaMetadata": null
+                },
+                {
+                  "id": "1wuYQg31BLZz-OVPF2o6JDL_4q5ahbL3n",
+                  "name": "(TỜ 01-CĐ3-XÀ PHÒNG CHẤT GIẶT RỬA-SÁCH HTCPHHC) CHƯƠNG 1-ESTER LIPID-ĐỀ.pdf",
+                  "mimeType": "application/pdf",
+                  "size": 586551,
+                  "webViewLink": "https://drive.google.com/file/d/1wuYQg31BLZz-OVPF2o6JDL_4q5ahbL3n/view?usp=drivesdk",
+                  "modifiedTime": "2026-05-11T08:29:54.521Z",
+                  "videoMediaMetadata": null
+                },
+                {
+                  "id": "1X0qHfUBe09Nz9Glrzz7Pz0NZDfzFlTbT",
+                  "name": "[live] CHỮA BÀI TẬP CHUYÊN ĐỀ 3-XÀ PHÒNG CHẤT GIẶT RỬA (SÁCH HTCPHHC).mp4",
+                  "mimeType": "video/mp4",
+                  "size": 634704602,
+                  "webViewLink": "https://drive.google.com/file/d/1X0qHfUBe09Nz9Glrzz7Pz0NZDfzFlTbT/view?usp=drivesdk",
+                  "modifiedTime": "2026-05-11T08:29:54.469Z",
+                  "videoMediaMetadata": null
+                }
+              ]
+            },
+            {
+              "id": "10S_rnC2wQ8yazCFu5Dt1_nLyMghSkq0B",
+              "name": "15. DẠNG TOÁN XÀ PHÒNG HÓA (SÁCH HTCPHC)",
+              "webViewLink": "https://drive.google.com/drive/folders/10S_rnC2wQ8yazCFu5Dt1_nLyMghSkq0B",
+              "modifiedTime": "2026-05-11T08:29:50.654Z",
+              "children": [],
+              "files": [
+                {
+                  "id": "1ICiNfPAQFJlzaPxxbBJwB0b7hkxxoXA2",
+                  "name": "(TỜ 01-CĐ4-MỘT SỐ DẠNG BÀI TẬP-SÁCH HTCPHHC) CHƯƠNG 1-ESTER LIPID-ĐỀ.pdf",
+                  "mimeType": "application/pdf",
+                  "size": 689448,
+                  "webViewLink": "https://drive.google.com/file/d/1ICiNfPAQFJlzaPxxbBJwB0b7hkxxoXA2/view?usp=drivesdk",
+                  "modifiedTime": "2026-05-11T08:29:52.601Z",
+                  "videoMediaMetadata": null
+                },
+                {
+                  "id": "1lHWP-Ur0AzT9Tx0WR3ve4cGa-7cCg6E-",
+                  "name": "HÓA 12-CHƯƠNG 1-ESTER-LIPID-Dạng toán-PHẢN ỨNG XÀ PHÒNG HÓA-VIẾT TAY.pdf",
+                  "mimeType": "application/pdf",
+                  "size": 4806719,
+                  "webViewLink": "https://drive.google.com/file/d/1lHWP-Ur0AzT9Tx0WR3ve4cGa-7cCg6E-/view?usp=drivesdk",
+                  "modifiedTime": "2026-05-11T08:29:52.661Z",
+                  "videoMediaMetadata": null
+                }
+              ]
+            },
+            {
+              "id": "11EBHn21R25W39zooV5APyCd80y8LGHC4",
+              "name": "16. DẠNG TOÁN ĐIỀU CHẾ ESTER (SÁCH HTCPHC)",
+              "webViewLink": "https://drive.google.com/drive/folders/11EBHn21R25W39zooV5APyCd80y8LGHC4",
+              "modifiedTime": "2026-05-11T08:29:48.993Z",
+              "children": [],
+              "files": [
+                {
+                  "id": "1mVXfFMaHVj6WToVC7rbOXiX6qqlA96vt",
+                  "name": "HÓA 12-CHƯƠNG 1-ESTER-LIPID-Dạng toán-ĐIỀU CHẾ ESTER-VIẾT TAY.pdf",
+                  "mimeType": "application/pdf",
+                  "size": 4890254,
+                  "webViewLink": "https://drive.google.com/file/d/1mVXfFMaHVj6WToVC7rbOXiX6qqlA96vt/view?usp=drivesdk",
+                  "modifiedTime": "2026-05-11T08:29:50.749Z",
+                  "videoMediaMetadata": null
+                }
+              ]
+            },
+            {
+              "id": "1Gdtd32Y9htmHcyJBLxSGg2e9Jg_59Esu",
+              "name": "17. 100 CÂU HỎI CHUYÊN BIỆT VỀ ESTER SỐ 02",
+              "webViewLink": "https://drive.google.com/drive/folders/1Gdtd32Y9htmHcyJBLxSGg2e9Jg_59Esu",
+              "modifiedTime": "2026-05-11T08:29:47.200Z",
+              "children": [],
+              "files": [
+                {
+                  "id": "1lLdviHiJkIZDM7HXjcZIB9e_pZscN94i",
+                  "name": "(TỜ 2.2) 100 CÂU LÝ THUYẾT CHUYÊN BIỆT VỀ ESTER-LIPID SỐ 02-VIẾT TAY.pdf",
+                  "mimeType": "application/pdf",
+                  "size": 15349772,
+                  "webViewLink": "https://drive.google.com/file/d/1lLdviHiJkIZDM7HXjcZIB9e_pZscN94i/view?usp=drivesdk",
+                  "modifiedTime": "2026-05-11T08:29:49.251Z",
+                  "videoMediaMetadata": null
+                },
+                {
+                  "id": "15hyuKakOsNBx8wnHGiMUlxXHz7nOo3JV",
+                  "name": "(TỜ 2.2) 100 CÂU LÝ THUYẾT CHUYÊN BIỆT VỀ ESTER-LIPID SỐ 02-ĐỀ.pdf",
+                  "mimeType": "application/pdf",
+                  "size": 623334,
+                  "webViewLink": "https://drive.google.com/file/d/15hyuKakOsNBx8wnHGiMUlxXHz7nOo3JV/view?usp=drivesdk",
+                  "modifiedTime": "2026-05-11T08:29:49.301Z",
+                  "videoMediaMetadata": null
+                },
+                {
+                  "id": "174XFo6YNaTT3PpoXP4iCo_gFsbz2vZYr",
+                  "name": "[LIVE] 100 CÂU HỎI CHUYÊN BIỆT ESTER SỐ 02.mp4",
+                  "mimeType": "video/mp4",
+                  "size": 504912773,
+                  "webViewLink": "https://drive.google.com/file/d/174XFo6YNaTT3PpoXP4iCo_gFsbz2vZYr/view?usp=drivesdk",
+                  "modifiedTime": "2026-05-11T08:29:49.303Z",
+                  "videoMediaMetadata": null
+                }
+              ]
+            },
+            {
+              "id": "1sygBOrF1EuytxhX51u7YCpWI7mbsO2B0",
+              "name": "18. ĐIỀN ĐÁP ÁN NHANH CHỦ ĐỀ ESTER-LIPID",
+              "webViewLink": "https://drive.google.com/drive/folders/1sygBOrF1EuytxhX51u7YCpWI7mbsO2B0",
+              "modifiedTime": "2026-05-18T01:27:08.182Z",
+              "children": [],
+              "files": [
+                {
+                  "id": "1KH2TnXCKi5WDmr9h4KBtq_NrnefVoxYg",
+                  "name": "(Tờ 05) ĐIỀN ĐÁP ÁN NHANH CHỦ ĐỀ ESTER-LIPID-XÀ PHÒNG-CHẤT GIẶT RỬA-VIẾT TAY.pdf",
+                  "mimeType": "application/pdf",
+                  "size": 6456112,
+                  "webViewLink": "https://drive.google.com/file/d/1KH2TnXCKi5WDmr9h4KBtq_NrnefVoxYg/view?usp=drivesdk",
+                  "modifiedTime": "2026-05-18T01:27:09.600Z",
+                  "videoMediaMetadata": null
+                },
+                {
+                  "id": "1jY6EQIwofL8EJBVTXWt-r71YG9ry7b8c",
+                  "name": "(Tờ 05) ĐIỀN ĐÁP ÁN NHANH CHỦ ĐỀ ESTER-LIPID-XÀ PHÒNG-CHẤT GIẶT RỬA-ĐỀ.pdf",
+                  "mimeType": "application/pdf",
+                  "size": 494615,
+                  "webViewLink": "https://drive.google.com/file/d/1jY6EQIwofL8EJBVTXWt-r71YG9ry7b8c/view?usp=drivesdk",
+                  "modifiedTime": "2026-05-18T01:27:10.908Z",
+                  "videoMediaMetadata": null
+                }
+              ]
+            },
+            {
+              "id": "1MbBxQtdGnU8V-bB34b-k0nxvh669lvWW",
+              "name": "19. ĐỀ LUYỆN TẬP ESTER SỐ 01 - 02",
+              "webViewLink": "https://drive.google.com/drive/folders/1MbBxQtdGnU8V-bB34b-k0nxvh669lvWW",
+              "modifiedTime": "2026-05-18T01:26:54.717Z",
+              "children": [],
+              "files": [
+                {
+                  "id": "1lGS61DKdyszhw031w21sRAEGfIJJROnI",
+                  "name": "(TỜ 3.1) HÓA 12-CHƯƠNG 1-ESTER-LIPID -ĐỀ LUYỆN TẬP ESTER SỐ 01-ĐỀ.pdf",
+                  "mimeType": "application/pdf",
+                  "size": 393902,
+                  "webViewLink": "https://drive.google.com/file/d/1lGS61DKdyszhw031w21sRAEGfIJJROnI/view?usp=drivesdk",
+                  "modifiedTime": "2026-05-18T01:26:56.343Z",
+                  "videoMediaMetadata": null
+                },
+                {
+                  "id": "1x52tMmB--wryiVZcAw0Kn5ivbXU6Djs6",
+                  "name": "(TỜ 3.1-3.2) HÓA 12-CHƯƠNG 1-ESTER-LIPID -ĐỀ LUYỆN TẬP ESTER SỐ 01 và SỐ 02-VIẾT TAY.pdf",
+                  "mimeType": "application/pdf",
+                  "size": 10205724,
+                  "webViewLink": "https://drive.google.com/file/d/1x52tMmB--wryiVZcAw0Kn5ivbXU6Djs6/view?usp=drivesdk",
+                  "modifiedTime": "2026-05-18T01:26:58.927Z",
+                  "videoMediaMetadata": null
+                },
+                {
+                  "id": "14y9YGu6SPLy-2O9AXXRKDOV8vYtI_h-R",
+                  "name": "(TỜ 3.2) HÓA 12-CHƯƠNG 1-ESTER-LIPID -ĐỀ LUYỆN TẬP ESTER SỐ 02-Đề.pdf",
+                  "mimeType": "application/pdf",
+                  "size": 444671,
+                  "webViewLink": "https://drive.google.com/file/d/14y9YGu6SPLy-2O9AXXRKDOV8vYtI_h-R/view?usp=drivesdk",
+                  "modifiedTime": "2026-05-18T01:27:00.224Z",
+                  "videoMediaMetadata": null
+                },
+                {
+                  "id": "1zk02FJ9Va5CQNyd3j9JuzcXFu2B2aJMQ",
+                  "name": "[LIVE] ĐỀ LUYỆN TẬP ESTER SỐ 01 VÀ 02.mp4",
+                  "mimeType": "video/mp4",
+                  "size": 481589148,
+                  "webViewLink": "https://drive.google.com/file/d/1zk02FJ9Va5CQNyd3j9JuzcXFu2B2aJMQ/view?usp=drivesdk",
+                  "modifiedTime": "2026-05-18T01:27:01.511Z",
+                  "videoMediaMetadata": null
+                }
+              ]
+            },
+            {
+              "id": "1veRlkS1BZ61dgPmtjHD7zIvC7fyWel7j",
+              "name": "2. 100 CÂU HỎI CHUYÊN BIỆT VỀ ESTER",
+              "webViewLink": "https://drive.google.com/drive/folders/1veRlkS1BZ61dgPmtjHD7zIvC7fyWel7j",
+              "modifiedTime": "2026-04-17T14:00:17.668Z",
+              "children": [],
+              "files": [
+                {
+                  "id": "1od35_ESYOpaE7s3iCP2BIvOOrQ0kOs2O",
+                  "name": "(TỜ 2.1) 100 CÂU LÝ THUYẾT CHUYÊN BIỆT VỀ ESTER SỐ 01-VIẾT TAY.pdf",
+                  "mimeType": "application/pdf",
+                  "size": 52976015,
+                  "webViewLink": "https://drive.google.com/file/d/1od35_ESYOpaE7s3iCP2BIvOOrQ0kOs2O/view?usp=drivesdk",
+                  "modifiedTime": "2026-04-17T14:00:18.833Z",
+                  "videoMediaMetadata": null
+                },
+                {
+                  "id": "1lOa-sXyi_qx7dBUp-e--pZc4C8W7aG44",
+                  "name": "(TỜ 2.1) 100 CÂU LÝ THUYẾT CHUYÊN BIỆT VỀ ESTER SỐ 01-ĐỀ.pdf",
+                  "mimeType": "application/pdf",
+                  "size": 7541118,
+                  "webViewLink": "https://drive.google.com/file/d/1lOa-sXyi_qx7dBUp-e--pZc4C8W7aG44/view?usp=drivesdk",
+                  "modifiedTime": "2026-04-17T14:00:20.379Z",
+                  "videoMediaMetadata": null
+                },
+                {
+                  "id": "1gZvQ4hMJToTIWOELtwYdDsaEZzHUQMwx",
+                  "name": "[LIVE] BUỔI 2-100 CÂU HỎI CHUYÊN BIỆT VỀ ESTER.mp4",
+                  "mimeType": "video/mp4",
+                  "size": 495259117,
+                  "webViewLink": "https://drive.google.com/file/d/1gZvQ4hMJToTIWOELtwYdDsaEZzHUQMwx/view?usp=drivesdk",
+                  "modifiedTime": "2026-04-17T14:00:21.893Z",
+                  "videoMediaMetadata": {
+                    "width": 1920,
+                    "height": 1080,
+                    "durationMillis": "4463867"
+                  }
+                }
+              ]
+            },
+            {
+              "id": "1jBi2MwihUojTvRyGTaI5r4MCOtr6HCfa",
+              "name": "20. ĐỀ LUYỆN TẬP ESTER SỐ 03 - 04",
+              "webViewLink": "https://drive.google.com/drive/folders/1jBi2MwihUojTvRyGTaI5r4MCOtr6HCfa",
+              "modifiedTime": "2026-05-24T07:46:35.963Z",
+              "children": [],
+              "files": [
+                {
+                  "id": "1XEMuUegYebYmCTkqkdLbpomwnezD5UZM",
+                  "name": "(TỜ 3.3) HÓA 12-CHƯƠNG 1-ESTER-LIPID -ĐỀ LUYỆN TẬP ESTER SỐ 03-VIẾT TAY.pdf",
+                  "mimeType": "application/pdf",
+                  "size": 5723082,
+                  "webViewLink": "https://drive.google.com/file/d/1XEMuUegYebYmCTkqkdLbpomwnezD5UZM/view?usp=drivesdk",
+                  "modifiedTime": "2026-05-24T07:46:37.685Z",
+                  "videoMediaMetadata": null
+                },
+                {
+                  "id": "1FxKtr9ZDKPZCaLY_dj_0rEORstBk1N4z",
+                  "name": "(TỜ 3.3) HÓA 12-CHƯƠNG 1-ESTER-LIPID -ĐỀ LUYỆN TẬP ESTER SỐ 03-Đề.pdf",
+                  "mimeType": "application/pdf",
+                  "size": 482232,
+                  "webViewLink": "https://drive.google.com/file/d/1FxKtr9ZDKPZCaLY_dj_0rEORstBk1N4z/view?usp=drivesdk",
+                  "modifiedTime": "2026-05-24T07:46:37.686Z",
+                  "videoMediaMetadata": null
+                },
+                {
+                  "id": "1evGg0tL8xCNzC6SpLUW1jyUzhix6UXsG",
+                  "name": "(TỜ 3.4) HÓA 12-CHƯƠNG 1-ESTER-LIPID -ĐỀ LUYỆN TẬP ESTER SỐ 04-VIẾT TAY.pdf",
+                  "mimeType": "application/pdf",
+                  "size": 6005451,
+                  "webViewLink": "https://drive.google.com/file/d/1evGg0tL8xCNzC6SpLUW1jyUzhix6UXsG/view?usp=drivesdk",
+                  "modifiedTime": "2026-05-24T07:46:37.684Z",
+                  "videoMediaMetadata": null
+                },
+                {
+                  "id": "1HUt-ZzeqrL7Xtf0l24NB06Mr2xugv1kQ",
+                  "name": "(TỜ 3.4) HÓA 12-CHƯƠNG 1-ESTER-LIPID -ĐỀ LUYỆN TẬP ESTER SỐ 04-ĐỀ.pdf",
+                  "mimeType": "application/pdf",
+                  "size": 613337,
+                  "webViewLink": "https://drive.google.com/file/d/1HUt-ZzeqrL7Xtf0l24NB06Mr2xugv1kQ/view?usp=drivesdk",
+                  "modifiedTime": "2026-05-24T07:46:37.684Z",
+                  "videoMediaMetadata": null
+                }
+              ]
+            },
+            {
+              "id": "1DsJhU5VlntZe1bJ8lmsTE8GWHS7R9C7H",
+              "name": "21. HỌC LẠI TỪ ĐẦU BUỔI 1",
+              "webViewLink": "https://drive.google.com/drive/folders/1DsJhU5VlntZe1bJ8lmsTE8GWHS7R9C7H",
+              "modifiedTime": "2026-05-24T07:46:33.936Z",
+              "children": [],
+              "files": [
+                {
+                  "id": "1jcAguctrnEILqDvdrwNF6yl1Jqi0zB4h",
+                  "name": "[LIVE] HỌC LẠI TỪ ĐẦU-BUỔI 1-LÝ THUYẾT ESTER (PHẦN 1).mp4",
+                  "mimeType": "video/mp4",
+                  "size": 786556516,
+                  "webViewLink": "https://drive.google.com/file/d/1jcAguctrnEILqDvdrwNF6yl1Jqi0zB4h/view?usp=drivesdk",
+                  "modifiedTime": "2026-05-24T07:46:35.656Z",
+                  "videoMediaMetadata": null
+                },
+                {
+                  "id": "1A3cDAQXRE6OynMANYkAZBNOS2dx0IanT",
+                  "name": "CHƯƠNG 1-ESTER LIPID (BUỔI 1-HLTĐ)-VIẾT TAY.pdf",
+                  "mimeType": "application/pdf",
+                  "size": 9961394,
+                  "webViewLink": "https://drive.google.com/file/d/1A3cDAQXRE6OynMANYkAZBNOS2dx0IanT/view?usp=drivesdk",
+                  "modifiedTime": "2026-05-24T07:46:35.648Z",
+                  "videoMediaMetadata": null
+                },
+                {
+                  "id": "1cBaSjAdyZdg_g1jR2NAADhNrRTOM7Ppd",
+                  "name": "CHƯƠNG 1-ESTER LIPID (BUỔI 1-HLTĐ)-ĐỀ.pdf",
+                  "mimeType": "application/pdf",
+                  "size": 563631,
+                  "webViewLink": "https://drive.google.com/file/d/1cBaSjAdyZdg_g1jR2NAADhNrRTOM7Ppd/view?usp=drivesdk",
+                  "modifiedTime": "2026-05-24T07:46:35.642Z",
+                  "videoMediaMetadata": null
+                }
+              ]
+            },
+            {
+              "id": "1PsZc7qgmT8Zy492GM-a5KZy-imP-ba5W",
+              "name": "3. CHỮA BÀI TẬP TỰ LUẬN (SÁCH HTCPHHC)",
+              "webViewLink": "https://drive.google.com/drive/folders/1PsZc7qgmT8Zy492GM-a5KZy-imP-ba5W",
+              "modifiedTime": "2026-04-17T14:00:12.214Z",
+              "children": [],
+              "files": [
+                {
+                  "id": "1MGQnruftAc250fPvrsqSDVWiWs7ajvfg",
+                  "name": "(TỜ 01-CĐ1 ESTER-SÁCH HTCPHHC) CHƯƠNG 1-ESTER LIPID-ĐỀ.pdf",
+                  "mimeType": "application/pdf",
+                  "size": 19299519,
+                  "webViewLink": "https://drive.google.com/file/d/1MGQnruftAc250fPvrsqSDVWiWs7ajvfg/view?usp=drivesdk",
+                  "modifiedTime": "2026-04-17T14:00:14.567Z",
+                  "videoMediaMetadata": null
+                },
+                {
+                  "id": "15rjLCpkLTTQQty0WqJbPPGG1d3zWFVN5",
+                  "name": "(TỜ 01-SÁCH HTCPHHC) CHƯƠNG 1-ESTER LIPID-CĐ1-ESTER-(BÀI TẬP TỰ LUẬN)-VIẾT TAY.pdf",
+                  "mimeType": "application/pdf",
+                  "size": 27308558,
+                  "webViewLink": "https://drive.google.com/file/d/15rjLCpkLTTQQty0WqJbPPGG1d3zWFVN5/view?usp=drivesdk",
+                  "modifiedTime": "2026-04-17T14:00:12.995Z",
+                  "videoMediaMetadata": null
+                },
+                {
+                  "id": "1Knvv6ERgmNu9SwmoGQXoJKC8ndqj5ssb",
+                  "name": "[LIVE] BUỔI 3-CHỮA BÀI TẬP TỰ LUẬN ESTER (SÁCH HÀNH TRÌNH CPHHC).mp4",
+                  "mimeType": "video/mp4",
+                  "size": 414857717,
+                  "webViewLink": "https://drive.google.com/file/d/1Knvv6ERgmNu9SwmoGQXoJKC8ndqj5ssb/view?usp=drivesdk",
+                  "modifiedTime": "2026-04-17T14:00:16.139Z",
+                  "videoMediaMetadata": {
+                    "width": 1920,
+                    "height": 1080,
+                    "durationMillis": "5095367"
+                  }
+                }
+              ]
+            },
+            {
+              "id": "1zSRdp8zIVd5NpU1sE_BXJrCKezOGC7Y_",
+              "name": "4. CHỮA BÀI TẬP TRẮC NGHIỆM VÀ ĐÚNG SAI (SÁCH HTCPHHC)",
+              "webViewLink": "https://drive.google.com/drive/folders/1zSRdp8zIVd5NpU1sE_BXJrCKezOGC7Y_",
+              "modifiedTime": "2026-04-17T14:00:05.871Z",
+              "children": [],
+              "files": [
+                {
+                  "id": "1O_hengpTEFAuYyu-EtrwvXlNDc_MosqH",
+                  "name": "(TỜ 01-SÁCH HTCPHHC) CHƯƠNG 1-ESTER LIPID-CĐ1-ESTER-(BÀI TẬP TN-ĐÚNG SAI)-VIẾT TAY.pdf",
+                  "mimeType": "application/pdf",
+                  "size": 56381800,
+                  "webViewLink": "https://drive.google.com/file/d/1O_hengpTEFAuYyu-EtrwvXlNDc_MosqH/view?usp=drivesdk",
+                  "modifiedTime": "2026-04-17T14:00:06.755Z",
+                  "videoMediaMetadata": null
+                },
+                {
+                  "id": "11G9yrjdNP1bZbvP8k6nomVQ0neGYVmZg",
+                  "name": "[LIVE] CHỮA BÀI TẬP TRẮC NGHIỆM-ĐÚNG SAI ESTER (SÁCH HTCPHHC).mp4",
+                  "mimeType": "video/mp4",
+                  "size": 594494088,
+                  "webViewLink": "https://drive.google.com/file/d/11G9yrjdNP1bZbvP8k6nomVQ0neGYVmZg/view?usp=drivesdk",
+                  "modifiedTime": "2026-04-17T14:00:09.667Z",
+                  "videoMediaMetadata": {
+                    "width": 1920,
+                    "height": 1080,
+                    "durationMillis": "5769867"
+                  }
+                }
+              ]
+            },
+            {
+              "id": "1ZTpeN7Zfii_-Jy_y7ttC4gk3J8v2rBkj",
+              "name": "5. CÁC PHẢN ỨNG QUAN TRỌNG VÀ BIỆN LUẬN ESTER ",
+              "webViewLink": "https://drive.google.com/drive/folders/1ZTpeN7Zfii_-Jy_y7ttC4gk3J8v2rBkj",
+              "modifiedTime": "2026-04-17T13:59:59.620Z",
+              "children": [],
+              "files": [
+                {
+                  "id": "1ezyCV3in8huhVvN_Ekbd5IaoK3UmMm2a",
+                  "name": "--[BỔ TRỢ] CÁC PHẢN ỨNG QUAN TRỌNG VÀ BIỆN LUẬN ESTER.--.mp4",
+                  "mimeType": "video/mp4",
+                  "size": 111754187,
+                  "webViewLink": "https://drive.google.com/file/d/1ezyCV3in8huhVvN_Ekbd5IaoK3UmMm2a/view?usp=drivesdk",
+                  "modifiedTime": "2026-04-17T14:00:03.719Z",
+                  "videoMediaMetadata": {
+                    "width": 1280,
+                    "height": 720,
+                    "durationMillis": "2780299"
+                  }
+                },
+                {
+                  "id": "1yJfde-ZXfYR6JXGrv74HFMH856UwQDaS",
+                  "name": "BIỆN LUẬN ESTER VIẾT TAY.pdf",
+                  "mimeType": "application/pdf",
+                  "size": 16659654,
+                  "webViewLink": "https://drive.google.com/file/d/1yJfde-ZXfYR6JXGrv74HFMH856UwQDaS/view?usp=drivesdk",
+                  "modifiedTime": "2026-04-17T14:00:00.991Z",
+                  "videoMediaMetadata": null
+                }
+              ]
+            },
+            {
+              "id": "1KFuv_oHKust6LkPwjgVBgX5R-M5WrO1-",
+              "name": "6. CHỮA BÀI TẬP TRẢ LỜI NGẮN (SÁCH HTCPHHC)",
+              "webViewLink": "https://drive.google.com/drive/folders/1KFuv_oHKust6LkPwjgVBgX5R-M5WrO1-",
+              "modifiedTime": "2026-04-17T13:59:55.679Z",
+              "children": [],
+              "files": [
+                {
+                  "id": "1aEYb2dplB-Mz5lrRPz06A69dCMQAbja8",
+                  "name": "(TỜ 01-SÁCH HTCPHHC) CHƯƠNG 1-ESTER LIPID-CĐ1-ESTER-(BÀI TẬP TRẢ LỜI NGẮN)-VIẾT TAY.pdf",
+                  "mimeType": "application/pdf",
+                  "size": 41995467,
+                  "webViewLink": "https://drive.google.com/file/d/1aEYb2dplB-Mz5lrRPz06A69dCMQAbja8/view?usp=drivesdk",
+                  "modifiedTime": "2026-04-17T13:59:56.394Z",
+                  "videoMediaMetadata": null
+                },
+                {
+                  "id": "1_g5IM5QN5ui4wWM9bAnXuofhwlrPji-Y",
+                  "name": "--[VIDEO] CHỮA BÀI TẬP TRẢ LỜI NGẮN ESTER (SÁCH HTCPHHC trang 31-42)--.mp4",
+                  "mimeType": "video/mp4",
+                  "size": 123129657,
+                  "webViewLink": "https://drive.google.com/file/d/1_g5IM5QN5ui4wWM9bAnXuofhwlrPji-Y/view?usp=drivesdk",
+                  "modifiedTime": "2026-04-17T13:59:57.930Z",
+                  "videoMediaMetadata": {
+                    "width": 1280,
+                    "height": 720,
+                    "durationMillis": "4102266"
+                  }
+                }
+              ]
+            },
+            {
+              "id": "1RNbXC4Z8aJ6i5_27JpjJikN_-59Nj1Cx",
+              "name": "7. THÍ NGHIỆM THỦY PHÂN, ĐIỀU CHẾ ESTER VDC",
+              "webViewLink": "https://drive.google.com/drive/folders/1RNbXC4Z8aJ6i5_27JpjJikN_-59Nj1Cx",
+              "modifiedTime": "2026-04-17T13:59:47.851Z",
+              "children": [],
+              "files": [
+                {
+                  "id": "1sLBfpo2FS85RAyDS5b7Oj3tuUDGcwIsH",
+                  "name": "CHUYÊN ĐỀ BÀI TẬP THÍ NGHIỆM ĐIỀU CHẾ ESTER, XÀ PHÒNG HÓA-VIẾT TAY.pdf",
+                  "mimeType": "application/pdf",
+                  "size": 57503392,
+                  "webViewLink": "https://drive.google.com/file/d/1sLBfpo2FS85RAyDS5b7Oj3tuUDGcwIsH/view?usp=drivesdk",
+                  "modifiedTime": "2026-04-17T13:59:51.424Z",
+                  "videoMediaMetadata": null
+                },
+                {
+                  "id": "1qlhWx9lLwlbqLhKjigO4hfL1l7PYT7U0",
+                  "name": "CHUYÊN ĐỀ BÀI TẬP THÍ NGHIỆM ĐIỀU CHẾ ESTER, XÀ PHÒNG HÓA-ĐỀ.pdf",
+                  "mimeType": "application/pdf",
+                  "size": 9910580,
+                  "webViewLink": "https://drive.google.com/file/d/1qlhWx9lLwlbqLhKjigO4hfL1l7PYT7U0/view?usp=drivesdk",
+                  "modifiedTime": "2026-04-17T13:59:53.216Z",
+                  "videoMediaMetadata": null
+                },
+                {
+                  "id": "1gz6oNVduykrY3BtlzgvO9BBfqq3rPOxy",
+                  "name": "CHUYÊN ĐỀ THÍ NGHIỆM ĐIỀU CHẾ, THỦY PHÂN ESTER VDC.mp4",
+                  "mimeType": "video/mp4",
+                  "size": 3736543158,
+                  "webViewLink": "https://drive.google.com/file/d/1gz6oNVduykrY3BtlzgvO9BBfqq3rPOxy/view?usp=drivesdk",
+                  "modifiedTime": "2026-04-17T13:59:48.967Z",
+                  "videoMediaMetadata": {
+                    "width": 1920,
+                    "height": 1080,
+                    "durationMillis": "4310899"
+                  }
+                }
+              ]
+            },
+            {
+              "id": "1NKRGMM1ZuElCkEG5ANhd9LeYTm8I-lZ0",
+              "name": "8. BÀI TẬP THỰC TẾ ĐIỀU CHẾ ESTER PHẦN 1 - PHẦN 3 (NÂNG CAO)",
+              "webViewLink": "https://drive.google.com/drive/folders/1NKRGMM1ZuElCkEG5ANhd9LeYTm8I-lZ0",
+              "modifiedTime": "2026-04-17T13:59:36.073Z",
+              "children": [],
+              "files": [
+                {
+                  "id": "1W7wXTJnXZrbJzYUOXjH_RoIA7cCcOPG7",
+                  "name": "(TỜ 6.1) BÀI TẬP THỰC TẾ ĐIỀU CHẾ ESTER PHẦN 1.pdf",
+                  "mimeType": "application/pdf",
+                  "size": 2441327,
+                  "webViewLink": "https://drive.google.com/file/d/1W7wXTJnXZrbJzYUOXjH_RoIA7cCcOPG7/view?usp=drivesdk",
+                  "modifiedTime": "2026-04-17T13:59:40.436Z",
+                  "videoMediaMetadata": null
+                },
+                {
+                  "id": "1Az20CWtRBLA07aYd-4FroZ-7RofSxEAF",
+                  "name": "(TỜ 6.2) BÀI TẬP THỰC TẾ, ĐIỀU CHẾ-SẢN XUẤT ESTER SỐ 02-ĐỀ.pdf",
+                  "mimeType": "application/pdf",
+                  "size": 7407562,
+                  "webViewLink": "https://drive.google.com/file/d/1Az20CWtRBLA07aYd-4FroZ-7RofSxEAF/view?usp=drivesdk",
+                  "modifiedTime": "2026-04-17T13:59:42.706Z",
+                  "videoMediaMetadata": null
+                },
+                {
+                  "id": "1EbmwJklj59NcrtnP2iJeu5BKxA9x5FRe",
+                  "name": "(TỜ 6.3) BÀI TẬP THỰC TẾ, ĐIỀU CHẾ-SẢN XUẤT ESTER SỐ 03-VIẾT TAY.pdf",
+                  "mimeType": "application/pdf",
+                  "size": 12286882,
+                  "webViewLink": "https://drive.google.com/file/d/1EbmwJklj59NcrtnP2iJeu5BKxA9x5FRe/view?usp=drivesdk",
+                  "modifiedTime": "2026-04-29T13:57:58.985Z",
+                  "videoMediaMetadata": null
+                },
+                {
+                  "id": "1mf1mN5JaAYW3U0YsCe6a69Nat1iBT_Pa",
+                  "name": "(TỜ 6.3) BÀI TẬP THỰC TẾ, ĐIỀU CHẾ-SẢN XUẤT ESTER SỐ 03-ĐỀ.pdf",
+                  "mimeType": "application/pdf",
+                  "size": 1185178,
+                  "webViewLink": "https://drive.google.com/file/d/1mf1mN5JaAYW3U0YsCe6a69Nat1iBT_Pa/view?usp=drivesdk",
+                  "modifiedTime": "2026-04-29T13:57:56.640Z",
+                  "videoMediaMetadata": null
+                },
+                {
+                  "id": "1TX5iwsiK0EbM9h3zfJDlehabx3vENepo",
+                  "name": "--[VIDEO] BÀI TẬP THỰC TẾ ĐIỀU CHẾ ESTER PHẦN 1. --.mp4",
+                  "mimeType": "video/mp4",
+                  "size": 35586005,
+                  "webViewLink": "https://drive.google.com/file/d/1TX5iwsiK0EbM9h3zfJDlehabx3vENepo/view?usp=drivesdk",
+                  "modifiedTime": "2026-04-17T13:59:46.220Z",
+                  "videoMediaMetadata": {
+                    "width": 1280,
+                    "height": 720,
+                    "durationMillis": "1206233"
+                  }
+                },
+                {
+                  "id": "1UK5hENFvJjMsSAGJjLWiaBno4L-quahu",
+                  "name": "--[VIDEO] BÀI TẬP THỰC TẾ ĐIỀU CHẾ ESTER PHẦN 2 VDC. --.mp4",
+                  "mimeType": "video/mp4",
+                  "size": 195583662,
+                  "webViewLink": "https://drive.google.com/file/d/1UK5hENFvJjMsSAGJjLWiaBno4L-quahu/view?usp=drivesdk",
+                  "modifiedTime": "2026-04-17T13:59:44.482Z",
+                  "videoMediaMetadata": {
+                    "width": 1280,
+                    "height": 720,
+                    "durationMillis": "6199499"
+                  }
+                },
+                {
+                  "id": "1ZaT56Ktq7EJWvmdVQkaqJmyWVg3O-ijW",
+                  "name": "[LIVE] BÀI TẬP THỰC TẾ ĐIỀU CHẾ ESTER VD-VDC PHẦN 3.mp4",
+                  "mimeType": "video/mp4",
+                  "size": 436297998,
+                  "webViewLink": "https://drive.google.com/file/d/1ZaT56Ktq7EJWvmdVQkaqJmyWVg3O-ijW/view?usp=drivesdk",
+                  "modifiedTime": "2026-04-29T13:58:01.518Z",
+                  "videoMediaMetadata": null
+                },
+                {
+                  "id": "1WcWGd0x7I97flWVqZovECHnlzkAATYtt",
+                  "name": "P1 Bài tập thực tế điều chế ester-viết tay.pdf",
+                  "mimeType": "application/pdf",
+                  "size": 12016443,
+                  "webViewLink": "https://drive.google.com/file/d/1WcWGd0x7I97flWVqZovECHnlzkAATYtt/view?usp=drivesdk",
+                  "modifiedTime": "2026-04-17T13:59:37.244Z",
+                  "videoMediaMetadata": null
+                },
+                {
+                  "id": "1lhc7VfAPFHuKW7deWGa64bdKnx5lseP0",
+                  "name": "P2 BÀI TẬP THỰC TẾ, ĐIỀU CHẾ-SẢN XUẤT ESTER-VIẾT TAY.pdf",
+                  "mimeType": "application/pdf",
+                  "size": 49203926,
+                  "webViewLink": "https://drive.google.com/file/d/1lhc7VfAPFHuKW7deWGa64bdKnx5lseP0/view?usp=drivesdk",
+                  "modifiedTime": "2026-04-17T13:59:38.562Z",
+                  "videoMediaMetadata": null
+                }
+              ]
+            },
+            {
+              "id": "1ZTg2I3uejIeBCOX_3--PdPwTHqa6m_0w",
+              "name": "9. LÝ THUYẾT LIPID-CHẤT BÉO (Ưu tiên học lại)",
+              "webViewLink": "https://drive.google.com/drive/folders/1ZTg2I3uejIeBCOX_3--PdPwTHqa6m_0w",
+              "modifiedTime": "2026-04-17T13:59:31.497Z",
+              "children": [],
+              "files": [
+                {
+                  "id": "1WPXZsIcKkMtbJO2axRPwH1I0-WgKJ13r",
+                  "name": "[LIVE] LÝ THUYẾT CHẤT BÉO-LIPID.mp4",
+                  "mimeType": "video/mp4",
+                  "size": 1341782892,
+                  "webViewLink": "https://drive.google.com/file/d/1WPXZsIcKkMtbJO2axRPwH1I0-WgKJ13r/view?usp=drivesdk",
+                  "modifiedTime": "2026-04-17T13:59:34.255Z",
+                  "videoMediaMetadata": {
+                    "width": 1920,
+                    "height": 1080,
+                    "durationMillis": "5450266"
+                  }
+                },
+                {
+                  "id": "1nios0iD8WQroF7TR1cKbdkTi-ltbOndA",
+                  "name": "LÝ THUYẾT CHẤT BÉO-LIPID VIẾT TAY.pdf",
+                  "mimeType": "application/pdf",
+                  "size": 27522885,
+                  "webViewLink": "https://drive.google.com/file/d/1nios0iD8WQroF7TR1cKbdkTi-ltbOndA/view?usp=drivesdk",
+                  "modifiedTime": "2026-04-17T13:59:32.648Z",
+                  "videoMediaMetadata": null
+                }
+              ]
+            }
+          ],
+          "files": []
+        },
+        {
+          "id": "1IRCyaBGJwbn54Y6P87ymEE_bhsZHazTR",
+          "name": "2. CHƯƠNG 2-CARBOHYDRATE\t\t\t\t\t",
+          "webViewLink": "https://drive.google.com/drive/folders/1IRCyaBGJwbn54Y6P87ymEE_bhsZHazTR",
+          "modifiedTime": "2026-05-18T01:26:35.371Z",
+          "children": [
+            {
+              "id": "1lDLyC8zMfEJYxbMFf63M658pbWl59swS",
+              "name": "0. TÀI LIỆU IN CẢ CHƯƠNG 2\t\t\t",
+              "webViewLink": "https://drive.google.com/drive/folders/1lDLyC8zMfEJYxbMFf63M658pbWl59swS",
+              "modifiedTime": "2026-05-18T01:26:48.604Z",
+              "children": [],
+              "files": []
+            },
+            {
+              "id": "1TXAroJ99N_-D1AWZV4P5Q8eJlU66klex",
+              "name": "1. LÝ THUYẾT GLUCOSE-FRUCTOSE (Ưu tiên học lại)",
+              "webViewLink": "https://drive.google.com/drive/folders/1TXAroJ99N_-D1AWZV4P5Q8eJlU66klex",
+              "modifiedTime": "2026-05-18T01:26:39.103Z",
+              "children": [],
+              "files": [
+                {
+                  "id": "17v3xv2v-rmvspQQENNMp7g3HKj6ihcwu",
+                  "name": "[LIVE] CHƯƠNG 2-BUỔI 1-LÝ THUYẾT GLUCOSE VÀ FRUCTOSE.mp4",
+                  "mimeType": "video/mp4",
+                  "size": 988023538,
+                  "webViewLink": "https://drive.google.com/file/d/17v3xv2v-rmvspQQENNMp7g3HKj6ihcwu/view?usp=drivesdk",
+                  "modifiedTime": "2026-05-18T01:26:43.731Z",
+                  "videoMediaMetadata": null
+                },
+                {
+                  "id": "14x98bSviV-mSmVeWbpglgzAUpkVYiYr5",
+                  "name": "LÝ THUYẾT GLUCOSE-FRUCTOSE-VIẾT TAY.pdf",
+                  "mimeType": "application/pdf",
+                  "size": 7919858,
+                  "webViewLink": "https://drive.google.com/file/d/14x98bSviV-mSmVeWbpglgzAUpkVYiYr5/view?usp=drivesdk",
+                  "modifiedTime": "2026-05-18T01:26:41.685Z",
+                  "videoMediaMetadata": null
+                }
+              ]
+            },
+            {
+              "id": "1rx6NjxPYoF2TKsPZU51rM2-Urjy7ZX8W",
+              "name": "2. CHỮA BÀI TẬP CHUYÊN ĐỀ GLUCOSE-FRUCTOSE (SÁCH HTCPHHC)",
+              "webViewLink": "https://drive.google.com/drive/folders/1rx6NjxPYoF2TKsPZU51rM2-Urjy7ZX8W",
+              "modifiedTime": "2026-05-24T07:46:27.428Z",
+              "children": [],
+              "files": [
+                {
+                  "id": "1BZ_52KikEdyYSbgHyQOE4FSiGE4QZxYF",
+                  "name": "(TỜ 01-CĐ1-GLUCOSE VÀ FRUCTOSE) CHƯƠNG 2-CARBOHYDRATE-VIẾT TAY.pdf",
+                  "mimeType": "application/pdf",
+                  "size": 16546231,
+                  "webViewLink": "https://drive.google.com/file/d/1BZ_52KikEdyYSbgHyQOE4FSiGE4QZxYF/view?usp=drivesdk",
+                  "modifiedTime": "2026-05-24T07:46:29.520Z",
+                  "videoMediaMetadata": null
+                },
+                {
+                  "id": "1g5HiO59EL6emoQJNe8lRCgCGLpWWSo6r",
+                  "name": "(TỜ 01-CĐ1-GLUCOSE VÀ FRUCTOSE) CHƯƠNG 2-CARBOHYDRATE-ĐỀ.pdf",
+                  "mimeType": "application/pdf",
+                  "size": 574801,
+                  "webViewLink": "https://drive.google.com/file/d/1g5HiO59EL6emoQJNe8lRCgCGLpWWSo6r/view?usp=drivesdk",
+                  "modifiedTime": "2026-05-24T07:46:29.489Z",
+                  "videoMediaMetadata": null
+                },
+                {
+                  "id": "1IxzxHwDRtwgS7UT8yO3dD_B2PMTX_hoW",
+                  "name": "[LIVE] CHƯƠNG 2-CHỮA BÀI TẬP CHUYÊN ĐỀ 1-GLUCOSE VÀ FRUCTOSE.mp4",
+                  "mimeType": "video/mp4",
+                  "size": 605555282,
+                  "webViewLink": "https://drive.google.com/file/d/1IxzxHwDRtwgS7UT8yO3dD_B2PMTX_hoW/view?usp=drivesdk",
+                  "modifiedTime": "2026-05-24T07:46:29.550Z",
+                  "videoMediaMetadata": {
+                    "width": 1920,
+                    "height": 1080,
+                    "durationMillis": "6615600"
+                  }
+                }
+              ]
+            },
+            {
+              "id": "1q5dWqF_skNNUgmyjjVRg06rA4VKZ59rG",
+              "name": "3. LÝ THUYẾT SACCHAROSE-MALTOSE (Ưu tiên học lại)",
+              "webViewLink": "https://drive.google.com/drive/folders/1q5dWqF_skNNUgmyjjVRg06rA4VKZ59rG",
+              "modifiedTime": "2026-05-24T07:46:25.019Z",
+              "children": [],
+              "files": [
+                {
+                  "id": "1QsNA995r_VjmAb3BR0lwwhBI818dpK6x",
+                  "name": "[LIVE] CHƯƠNG 2-LÝ THUYẾT SACCHAROSE VÀ MALTOSE.mp4",
+                  "mimeType": "video/mp4",
+                  "size": 809452161,
+                  "webViewLink": "https://drive.google.com/file/d/1QsNA995r_VjmAb3BR0lwwhBI818dpK6x/view?usp=drivesdk",
+                  "modifiedTime": "2026-05-24T07:46:26.962Z",
+                  "videoMediaMetadata": null
+                },
+                {
+                  "id": "1SdqJLqkj39QyLU-SO0JUOtynpBZCWOKn",
+                  "name": "LÝ THUYẾT SACCHAROSE-MALTOSE VIẾT TAY.pdf",
+                  "mimeType": "application/pdf",
+                  "size": 7830027,
+                  "webViewLink": "https://drive.google.com/file/d/1SdqJLqkj39QyLU-SO0JUOtynpBZCWOKn/view?usp=drivesdk",
+                  "modifiedTime": "2026-05-24T07:46:26.928Z",
+                  "videoMediaMetadata": null
+                }
+              ]
+            }
+          ],
+          "files": []
+        }
+      ],
+      "files": [],
+      "webViewLink": "https://drive.google.com/drive/folders/1lBd3xv7jkAtGvv1JOB49pNISPejMJwqI",
+      "modifiedTime": "2026-04-15T22:18:50.042Z"
+    },
+    {
+      "id": "1Y4TATuCoM0oXWsn-t9T5BE8RzMAeFsGT",
+      "name": "2. KHOÁ E VÀ N THỰC CHIẾN LUYỆN ĐỀ - TỔNG ÔN TRỌNG ĐIỂM",
+      "children": [],
+      "files": [],
+      "webViewLink": "https://drive.google.com/drive/folders/1Y4TATuCoM0oXWsn-t9T5BE8RzMAeFsGT",
+      "modifiedTime": "2026-04-15T22:18:49.263Z"
+    },
+    {
+      "id": "1mS60DNmNyxePK1M-la_rFnfG4tyNLlkL",
+      "name": "3. KHOÁ S CHINH PHỤC LÝ THUYẾT",
+      "children": [],
+      "files": [],
+      "webViewLink": "https://drive.google.com/drive/folders/1mS60DNmNyxePK1M-la_rFnfG4tyNLlkL",
+      "modifiedTime": "2026-04-15T22:18:47.789Z"
+    },
+    {
+      "id": "1alpC4woJRCwZmqIuLUttsIGa7ZtrpcaH",
+      "name": "Z. BONUS BỘ BÀI GIẢNG LẤY GỐC HÓA HỮU CƠ 11-HÓA VÔ CƠ",
+      "children": [],
+      "files": [],
+      "webViewLink": "https://drive.google.com/drive/folders/1alpC4woJRCwZmqIuLUttsIGa7ZtrpcaH",
+      "modifiedTime": "2026-04-15T22:18:46.941Z"
+    },
+    {
+      "id": "1I6ml1n_9_0LHhy2ai1b2epGuhujBw6hz",
+      "name": "Z. EBOOK SÁCH KÈM KHOÁ HỌC",
+      "children": [],
+      "files": [],
+      "webViewLink": "https://drive.google.com/drive/folders/1I6ml1n_9_0LHhy2ai1b2epGuhujBw6hz",
+      "modifiedTime": "2026-04-15T22:18:51.682Z"
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "crawledAt": "2026-05-29T10:38:53.948Z",
+  "teacher": {
+    "id": "1o8ag_6LgjiI09vo8ZE2_tYrgSHsFYKpC",
+    "name": "5. LÝ THẦY LÊ TÙNG ƯNG TENS 2k9",
+    "modifiedTime": "2026-05-27T15:22:41.051Z",
+    "webViewLink": "https://drive.google.com/drive/folders/1o8ag_6LgjiI09vo8ZE2_tYrgSHsFYKpC"
+  },
+  "courses": [
+    {
+      "id": "1QCc_TtJ7zaYjYkr7PCjdUXoq5nPx8yvy",
+      "name": "0. INFO THÔNG TIN VÀ HƯỚNG DẪN KHOÁ HỌC",
+      "children": [],
+      "files": [],
+      "webViewLink": "https://drive.google.com/drive/folders/1QCc_TtJ7zaYjYkr7PCjdUXoq5nPx8yvy",
+      "modifiedTime": "2026-04-15T22:18:54.192Z"
+    },
+    {
+      "id": "18EVKBDut-ua63sF0KqB0p1cCdc8YByxd",
+      "name": "1. KHOÁ T NỀN TẢNG VẬT LÝ 12",
+      "children": [],
+      "files": [],
+      "webViewLink": "https://drive.google.com/drive/folders/18EVKBDut-ua63sF0KqB0p1cCdc8YByxd",
+      "modifiedTime": "2026-04-15T22:18:53.437Z"
+    },
+    {
+      "id": "1qN3aEimheJITNPDGN-ayOqwCQOhb4og6",
+      "name": "2. KHOÁ E MÔ HÌNH THỰC TẾ VÀ BÀI TẬP NÂNG CAO",
+      "children": [],
+      "files": [],
+      "webViewLink": "https://drive.google.com/drive/folders/1qN3aEimheJITNPDGN-ayOqwCQOhb4og6",
+      "modifiedTime": "2026-04-15T22:18:52.687Z"
+    },
+    {
+      "id": "1IzqHzOBBJJU6clsWTzzhfnItobTwkCkO",
+      "name": "3. KHOÁ N THỰC CHIẾN LUYỆN ĐỀ",
+      "children": [],
+      "files": [],
+      "webViewLink": "https://drive.google.com/drive/folders/1IzqHzOBBJJU6clsWTzzhfnItobTwkCkO",
+      "modifiedTime": "2026-04-15T22:18:51.695Z"
+    },
+    {
+      "id": "1QuOVDeT3NckGN833jaV_apu3hVD3o5qa",
+      "name": "4. KHOÁ S TỔNG ÔN TOÀN DIỆN LÝ THUYẾT",
+      "children": [],
+      "files": [],
+      "webViewLink": "https://drive.google.com/drive/folders/1QuOVDeT3NckGN833jaV_apu3hVD3o5qa",
+      "modifiedTime": "2026-04-15T22:18:50.802Z"
+    },
+    {
+      "id": "1iixnM679SOPHs5m9z52ms3t3sXAy97-2",
+      "name": "Z. EBOOK SÁCH KÈM KHOÁ HỌC",
+      "children": [],
+      "files": [],
+      "webViewLink": "https://drive.google.com/drive/folders/1iixnM679SOPHs5m9z52ms3t3sXAy97-2",
+      "modifiedTime": "2026-04-15T22:18:55.042Z"
+    }
+  ]
+}

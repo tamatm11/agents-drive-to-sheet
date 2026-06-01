@@ -1,0 +1,77 @@
+{
+  "teacherId": "198Vq2KWTC3OPXar58qU0FNFT-Eyu9zHQ",
+  "tabs": {
+    "1NwTlBiqitZFQS35Zcaztd70oGLp1VUTb": {
+      "tabName": "XPS",
+      "renderedAt": "2026-05-31T04:11:19.589Z",
+      "checksum": "1NwTlBiqitZFQS35Zcaztd70oGLp1VUTb|2026-05-24T14:35:36.882Z|47",
+      "lessons": [],
+      "rendererVersion": "4.3.1",
+      "styleVersion": "2026-05-31-student-banner-no-meta-v2",
+      "runId": "no-meta-sync-2026-05-31-104541",
+      "spreadsheetId": "1UJTB1UWHhQf82Lk2IWMxfVm5T6BYx7mcs9Pq85-iCEM",
+      "stats": {
+        "leafCount": 15,
+        "totalVideos": 18
+      }
+    },
+    "1Vf2XdDRW2Ahz_KCP09t8BlXau-S-4YXv": {
+      "tabName": "GIAI ĐOẠN 1",
+      "renderedAt": "2026-05-31T04:11:26.788Z",
+      "checksum": "1Vf2XdDRW2Ahz_KCP09t8BlXau-S-4YXv|2026-04-19T23:14:48.547Z|0",
+      "lessons": [],
+      "rendererVersion": "4.3.1",
+      "styleVersion": "2026-05-31-student-banner-no-meta-v2",
+      "runId": "no-meta-sync-2026-05-31-104541",
+      "spreadsheetId": "1UJTB1UWHhQf82Lk2IWMxfVm5T6BYx7mcs9Pq85-iCEM",
+      "stats": {
+        "leafCount": 0,
+        "totalVideos": 0
+      }
+    },
+    "1rN95NWAdN_GZHBi3ktNhRN4KLj83lEkr": {
+      "tabName": "GIAI ĐOẠN 2",
+      "renderedAt": "2026-05-31T04:11:33.888Z",
+      "checksum": "1rN95NWAdN_GZHBi3ktNhRN4KLj83lEkr|2026-04-19T23:14:47.823Z|0",
+      "lessons": [],
+      "rendererVersion": "4.3.1",
+      "styleVersion": "2026-05-31-student-banner-no-meta-v2",
+      "runId": "no-meta-sync-2026-05-31-104541",
+      "spreadsheetId": "1UJTB1UWHhQf82Lk2IWMxfVm5T6BYx7mcs9Pq85-iCEM",
+      "stats": {
+        "leafCount": 0,
+        "totalVideos": 0
+      }
+    },
+    "1GvpdfefCUoYC7niCMUdmfwn5vT81AFOD": {
+      "tabName": "GIAI ĐOẠN 3",
+      "renderedAt": "2026-05-31T04:11:40.911Z",
+      "checksum": "1GvpdfefCUoYC7niCMUdmfwn5vT81AFOD|2026-04-19T23:14:47.179Z|0",
+      "lessons": [],
+      "rendererVersion": "4.3.1",
+      "styleVersion": "2026-05-31-student-banner-no-meta-v2",
+      "runId": "no-meta-sync-2026-05-31-104541",
+      "spreadsheetId": "1UJTB1UWHhQf82Lk2IWMxfVm5T6BYx7mcs9Pq85-iCEM",
+      "stats": {
+        "leafCount": 0,
+        "totalVideos": 0
+      }
+    },
+    "1rdDjxT3mGP8E9ghFRKOyq5_ebrWIgxIp": {
+      "tabName": "GIAI ĐOẠN 4",
+      "renderedAt": "2026-05-31T04:11:47.951Z",
+      "checksum": "1rdDjxT3mGP8E9ghFRKOyq5_ebrWIgxIp|2026-04-19T23:14:46.491Z|0",
+      "lessons": [],
+      "rendererVersion": "4.3.1",
+      "styleVersion": "2026-05-31-student-banner-no-meta-v2",
+      "runId": "no-meta-sync-2026-05-31-104541",
+      "spreadsheetId": "1UJTB1UWHhQf82Lk2IWMxfVm5T6BYx7mcs9Pq85-iCEM",
+      "stats": {
+        "leafCount": 0,
+        "totalVideos": 0
+      }
+    }
+  },
+  "updatedAt": "2026-05-31T04:11:47.951Z",
+  "version": 2
+}

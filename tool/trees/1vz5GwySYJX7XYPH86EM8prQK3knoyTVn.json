@@ -1,0 +1,1951 @@
+{
+  "crawledAt": "2026-05-30T02:11:09.559Z",
+  "teacher": {
+    "id": "1vz5GwySYJX7XYPH86EM8prQK3knoyTVn",
+    "name": "1. ANH CÔ VŨ MAI PHƯƠNG NGOAINGU24H 2027",
+    "modifiedTime": "2026-05-27T15:22:31.626Z",
+    "webViewLink": "https://drive.google.com/drive/folders/1vz5GwySYJX7XYPH86EM8prQK3knoyTVn"
+  },
+  "courses": [
+    {
+      "id": "1GNNkBQLvHzVa0FE2AD0At3kz_NYU6thZ",
+      "name": "0. INFO THÔNG TIN VÀ HƯỚNG DẪN KHOÁ HỌC",
+      "children": [],
+      "files": [],
+      "webViewLink": "https://drive.google.com/drive/folders/1GNNkBQLvHzVa0FE2AD0At3kz_NYU6thZ",
+      "modifiedTime": "2026-04-18T14:18:39.572Z"
+    },
+    {
+      "id": "1KOUx_HYXMCkZL6ozcgu4NAFEI2Ubbo1o",
+      "name": "1. COMBO PRO3M 2027 CƠ BẢN MỤC TIÊU 7-8+",
+      "children": [
+        {
+          "id": "1nt2UoOrY4hyh7FXRLpY1P5s0vetje-3j",
+          "name": "1. NGỮ PHÁP ỨNG DỤNG (2027)",
+          "webViewLink": "https://drive.google.com/drive/folders/1nt2UoOrY4hyh7FXRLpY1P5s0vetje-3j",
+          "modifiedTime": "2026-04-18T14:18:38.637Z",
+          "children": [
+            {
+              "id": "138Xsdu_MOvbbxFtyhS86mbGe57ZBFElj",
+              "name": "01. CHUYÊN ĐỀ 1: TỪ LOẠI | LÝ THUYẾT TRỌNG TÂM VÀ ỨNG DỤNG",
+              "webViewLink": "https://drive.google.com/drive/folders/138Xsdu_MOvbbxFtyhS86mbGe57ZBFElj",
+              "modifiedTime": "2026-04-22T14:55:00.460Z",
+              "children": [
+                {
+                  "id": "19RZ2ycVB0SUUNrsrch6lhYuz2rtgN6uz",
+                  "name": "01. Từ loại (Lý thuyết - Buổi 1)",
+                  "webViewLink": "https://drive.google.com/drive/folders/19RZ2ycVB0SUUNrsrch6lhYuz2rtgN6uz",
+                  "modifiedTime": "2026-04-22T14:55:23.673Z",
+                  "children": [],
+                  "files": [
+                    {
+                      "id": "1CmvK0XiWbFmEn7zymSrunNu266sf3IFz",
+                      "name": "co-vu-mai-phuong-tu-loai-ly-thuyet-buoi-1-danh-tu.pdf",
+                      "mimeType": "application/pdf",
+                      "size": 5534597,
+                      "webViewLink": "https://drive.google.com/file/d/1CmvK0XiWbFmEn7zymSrunNu266sf3IFz/view?usp=drivesdk",
+                      "modifiedTime": "2026-04-22T14:55:27.137Z",
+                      "videoMediaMetadata": null
+                    },
+                    {
+                      "id": "15Ap3OeUK4g77JqhcHoNCyia4pQUvTITI",
+                      "name": "Từ loại (Lý thuyết - Buổi 1).mp4",
+                      "mimeType": "video/mp4",
+                      "size": 443488308,
+                      "webViewLink": "https://drive.google.com/file/d/15Ap3OeUK4g77JqhcHoNCyia4pQUvTITI/view?usp=drivesdk",
+                      "modifiedTime": "2026-04-22T14:55:25.182Z",
+                      "videoMediaMetadata": {
+                        "width": 1280,
+                        "height": 720,
+                        "durationMillis": "3340249"
+                      }
+                    }
+                  ]
+                },
+                {
+                  "id": "1pIwPxZdsvJ7jRJzAS-BsyGzn-E59TRH4",
+                  "name": "02. Thi Online Danh từ",
+                  "webViewLink": "https://drive.google.com/drive/folders/1pIwPxZdsvJ7jRJzAS-BsyGzn-E59TRH4",
+                  "modifiedTime": "2026-04-22T14:55:01.700Z",
+                  "children": [],
+                  "files": [
+                    {
+                      "id": "1yEv_1NLhb9oicqRXOdHUevqGV-68gim1",
+                      "name": "co-vu-mai-phuong-thi-online-tu-loai-ly-thuyet-buoi-1-danh-tu.pdf",
+                      "mimeType": "application/pdf",
+                      "size": 1674695,
+                      "webViewLink": "https://drive.google.com/file/d/1yEv_1NLhb9oicqRXOdHUevqGV-68gim1/view?usp=drivesdk",
+                      "modifiedTime": "2026-04-22T14:55:04.935Z",
+                      "videoMediaMetadata": null
+                    },
+                    {
+                      "id": "1pb9XV_VGTX0k-CwyzwE6q3EdzUB7f-xH",
+                      "name": "DA_Thi Online Danh từ.pdf",
+                      "mimeType": "application/pdf",
+                      "size": 4930163,
+                      "webViewLink": "https://drive.google.com/file/d/1pb9XV_VGTX0k-CwyzwE6q3EdzUB7f-xH/view?usp=drivesdk",
+                      "modifiedTime": "2026-04-22T14:55:02.960Z",
+                      "videoMediaMetadata": null
+                    }
+                  ]
+                },
+                {
+                  "id": "10fouKqednXDOek2LsmUyULKO9zYPDG1A",
+                  "name": "03. Từ loại (Lý thuyết - Buổi 2)",
+                  "webViewLink": "https://drive.google.com/drive/folders/10fouKqednXDOek2LsmUyULKO9zYPDG1A",
+                  "modifiedTime": "2026-04-22T14:55:28.896Z",
+                  "children": [],
+                  "files": [
+                    {
+                      "id": "12tZjKeGNytcXKqxsFMljN3AMXH16K6fi",
+                      "name": "co-vu-mai-phuong-tu-loai-ly-thuyet-buoi-2-tinh-tu.pdf",
+                      "mimeType": "application/pdf",
+                      "size": 5405780,
+                      "webViewLink": "https://drive.google.com/file/d/12tZjKeGNytcXKqxsFMljN3AMXH16K6fi/view?usp=drivesdk",
+                      "modifiedTime": "2026-04-22T14:55:31.739Z",
+                      "videoMediaMetadata": null
+                    },
+                    {
+                      "id": "1mZzO_aQsHWozni_0uQS9I2I5kSXbn3i-",
+                      "name": "Từ loại (Lý thuyết - Buổi 2).mp4",
+                      "mimeType": "video/mp4",
+                      "size": 457644926,
+                      "webViewLink": "https://drive.google.com/file/d/1mZzO_aQsHWozni_0uQS9I2I5kSXbn3i-/view?usp=drivesdk",
+                      "modifiedTime": "2026-04-22T14:55:29.764Z",
+                      "videoMediaMetadata": null
+                    }
+                  ]
+                },
+                {
+                  "id": "1px5Wj-uuZOPmB_zfy6NJtc1tl9Y-0QG1",
+                  "name": "04. Thi online Tính từ",
+                  "webViewLink": "https://drive.google.com/drive/folders/1px5Wj-uuZOPmB_zfy6NJtc1tl9Y-0QG1",
+                  "modifiedTime": "2026-04-22T14:55:18.181Z",
+                  "children": [],
+                  "files": [
+                    {
+                      "id": "1tcJey_WjJtBD2IC54z9QxvEVwXYZNUoR",
+                      "name": "co-vu-mai-phuong-thi-online-tu-loai-ly-thuyet-buoi-2-tinh-tu.pdf",
+                      "mimeType": "application/pdf",
+                      "size": 1810390,
+                      "webViewLink": "https://drive.google.com/file/d/1tcJey_WjJtBD2IC54z9QxvEVwXYZNUoR/view?usp=drivesdk",
+                      "modifiedTime": "2026-04-22T14:55:21.609Z",
+                      "videoMediaMetadata": null
+                    },
+                    {
+                      "id": "1a71L8_mJvZoEWJVevaeRvYXc30gs-Ty2",
+                      "name": "DA_Thi online Tính từ.pdf",
+                      "mimeType": "application/pdf",
+                      "size": 6397198,
+                      "webViewLink": "https://drive.google.com/file/d/1a71L8_mJvZoEWJVevaeRvYXc30gs-Ty2/view?usp=drivesdk",
+                      "modifiedTime": "2026-04-22T14:55:19.596Z",
+                      "videoMediaMetadata": null
+                    }
+                  ]
+                },
+                {
+                  "id": "1XhZ9XYQ0EwdZm9TmO-ejAGeHOTioiftM",
+                  "name": "05. Từ loại (Lý thuyết - Buổi 3)",
+                  "webViewLink": "https://drive.google.com/drive/folders/1XhZ9XYQ0EwdZm9TmO-ejAGeHOTioiftM",
+                  "modifiedTime": "2026-04-22T14:55:12.194Z",
+                  "children": [],
+                  "files": [
+                    {
+                      "id": "1shN68fB5aRrjoqki8lqOAoF0u0RM6POG",
+                      "name": "co-vu-mai-phuong-tu-loai-ly-thuyet-buoi-3-trang-tu.pdf",
+                      "mimeType": "application/pdf",
+                      "size": 4427865,
+                      "webViewLink": "https://drive.google.com/file/d/1shN68fB5aRrjoqki8lqOAoF0u0RM6POG/view?usp=drivesdk",
+                      "modifiedTime": "2026-04-22T14:55:16.460Z",
+                      "videoMediaMetadata": null
+                    },
+                    {
+                      "id": "1zGmhLMTn00nuJ35Qch-ujC9DARR-xoLX",
+                      "name": "Từ loại (Lý thuyết - Buổi 3).mp4",
+                      "mimeType": "video/mp4",
+                      "size": 401655580,
+                      "webViewLink": "https://drive.google.com/file/d/1zGmhLMTn00nuJ35Qch-ujC9DARR-xoLX/view?usp=drivesdk",
+                      "modifiedTime": "2026-04-22T14:55:13.140Z",
+                      "videoMediaMetadata": {
+                        "width": 1280,
+                        "height": 720,
+                        "durationMillis": "3020666"
+                      }
+                    }
+                  ]
+                },
+                {
+                  "id": "1m5udE0Y7kEJcpfEWMR2TiDywfeSXsOXK",
+                  "name": "06. Thi online Trạng từ",
+                  "webViewLink": "https://drive.google.com/drive/folders/1m5udE0Y7kEJcpfEWMR2TiDywfeSXsOXK",
+                  "modifiedTime": "2026-04-22T14:55:07.304Z",
+                  "children": [],
+                  "files": [
+                    {
+                      "id": "1EaXI-OaNmeLlY0nQ5haIqgbJANzCGndE",
+                      "name": "co-vu-mai-phuong-thi-online-tu-loai-ly-thuyet-buoi-3-trang-tu.pdf",
+                      "mimeType": "application/pdf",
+                      "size": 1610576,
+                      "webViewLink": "https://drive.google.com/file/d/1EaXI-OaNmeLlY0nQ5haIqgbJANzCGndE/view?usp=drivesdk",
+                      "modifiedTime": "2026-04-22T14:55:10.521Z",
+                      "videoMediaMetadata": null
+                    },
+                    {
+                      "id": "1n6jaxZooPkNAbQ8hCtiZQWa0wiHrdbGf",
+                      "name": "DA_Thi online Trạng từ.pdf",
+                      "mimeType": "application/pdf",
+                      "size": 5389687,
+                      "webViewLink": "https://drive.google.com/file/d/1n6jaxZooPkNAbQ8hCtiZQWa0wiHrdbGf/view?usp=drivesdk",
+                      "modifiedTime": "2026-04-22T14:55:08.453Z",
+                      "videoMediaMetadata": null
+                    }
+                  ]
+                },
+                {
+                  "id": "14mNdaHafcj8r6N85guKCjgIOtoFe2R9a",
+                  "name": "07. Từ loại (Bài tập Ứng dụng - Buổi 1)",
+                  "webViewLink": "https://drive.google.com/drive/folders/14mNdaHafcj8r6N85guKCjgIOtoFe2R9a",
+                  "modifiedTime": "2026-04-22T14:55:39.138Z",
+                  "children": [],
+                  "files": [
+                    {
+                      "id": "16wC5JWJFNC4bBMgtCQx4G1usqY2Th02X",
+                      "name": "covumaiphuongtuloaibaitapungdung-buoi1.pdf",
+                      "mimeType": "application/pdf",
+                      "size": 2384598,
+                      "webViewLink": "https://drive.google.com/file/d/16wC5JWJFNC4bBMgtCQx4G1usqY2Th02X/view?usp=drivesdk",
+                      "modifiedTime": "2026-04-22T14:55:41.924Z",
+                      "videoMediaMetadata": null
+                    },
+                    {
+                      "id": "1qtWn5D35YEtWYKiJ83B1Ek2MmhiA-Zbc",
+                      "name": "Từ loại (Bài tập Ứng dụng - Buổi 1).mp4",
+                      "mimeType": "video/mp4",
+                      "size": 269599920,
+                      "webViewLink": "https://drive.google.com/file/d/1qtWn5D35YEtWYKiJ83B1Ek2MmhiA-Zbc/view?usp=drivesdk",
+                      "modifiedTime": "2026-04-22T14:55:40.254Z",
+                      "videoMediaMetadata": {
+                        "width": 1280,
+                        "height": 720,
+                        "durationMillis": "2030791"
+                      }
+                    }
+                  ]
+                },
+                {
+                  "id": "1tfc3WlcCtnRWxS_TZzVn-cYaNVHy_p9e",
+                  "name": "08. Từ loại (Bài tập Ứng dụng - Buổi 2)",
+                  "webViewLink": "https://drive.google.com/drive/folders/1tfc3WlcCtnRWxS_TZzVn-cYaNVHy_p9e",
+                  "modifiedTime": "2026-04-22T14:55:33.533Z",
+                  "children": [],
+                  "files": [
+                    {
+                      "id": "1WQ5ACOiYg8ZcVfRNyM5mBiIeodS4i9NM",
+                      "name": "co-vu-mai-phuong-tu-loai-bai-tap-ung-dung-buoi-2.pdf",
+                      "mimeType": "application/pdf",
+                      "size": 2052600,
+                      "webViewLink": "https://drive.google.com/file/d/1WQ5ACOiYg8ZcVfRNyM5mBiIeodS4i9NM/view?usp=drivesdk",
+                      "modifiedTime": "2026-04-22T14:55:36.566Z",
+                      "videoMediaMetadata": null
+                    },
+                    {
+                      "id": "1BhJ04_QxjTGiWyTPRMKqErERe_CkWqJA",
+                      "name": "Từ loại (Bài tập Ứng dụng - Buổi 2).mp4",
+                      "mimeType": "video/mp4",
+                      "size": 206155533,
+                      "webViewLink": "https://drive.google.com/file/d/1BhJ04_QxjTGiWyTPRMKqErERe_CkWqJA/view?usp=drivesdk",
+                      "modifiedTime": "2026-04-22T14:55:34.806Z",
+                      "videoMediaMetadata": {
+                        "width": 1280,
+                        "height": 720,
+                        "durationMillis": "1558666"
+                      }
+                    }
+                  ]
+                },
+                {
+                  "id": "1GbQxuNY7fxRw-5EhicTCJ76HZThIPWrE",
+                  "name": "09. Thi Online Từ loại (Đề số 01)",
+                  "webViewLink": "https://drive.google.com/drive/folders/1GbQxuNY7fxRw-5EhicTCJ76HZThIPWrE",
+                  "modifiedTime": "2026-04-22T14:55:54.338Z",
+                  "children": [],
+                  "files": [
+                    {
+                      "id": "1Ntv5QNxrYbDlbFxHwfzDGt7BJakF_Iek",
+                      "name": "co-vu-mai-phuong-thi-online-tu-loai-de-so-1.pdf",
+                      "mimeType": "application/pdf",
+                      "size": 2028108,
+                      "webViewLink": "https://drive.google.com/file/d/1Ntv5QNxrYbDlbFxHwfzDGt7BJakF_Iek/view?usp=drivesdk",
+                      "modifiedTime": "2026-04-22T14:55:57.514Z",
+                      "videoMediaMetadata": null
+                    },
+                    {
+                      "id": "1DIRrhW1EkCpErKUCDybTXWxLZPeN_wxb",
+                      "name": "DA_Thi Online Từ loại (Đề số 01).pdf",
+                      "mimeType": "application/pdf",
+                      "size": 7283696,
+                      "webViewLink": "https://drive.google.com/file/d/1DIRrhW1EkCpErKUCDybTXWxLZPeN_wxb/view?usp=drivesdk",
+                      "modifiedTime": "2026-04-22T14:55:55.712Z",
+                      "videoMediaMetadata": null
+                    }
+                  ]
+                },
+                {
+                  "id": "1imsbJTNSGOWN6qNgNMxBMKzdgIS5O3ik",
+                  "name": "10. Thi Online Từ loại (Đề số 02)",
+                  "webViewLink": "https://drive.google.com/drive/folders/1imsbJTNSGOWN6qNgNMxBMKzdgIS5O3ik",
+                  "modifiedTime": "2026-04-22T14:55:45.093Z",
+                  "children": [],
+                  "files": [
+                    {
+                      "id": "1FE9OPJYMewjPxSGDG2sAGAww1RGa3asH",
+                      "name": "co-vu-mai-phuong-thi-online-tu-loai-de-so-2.pdf",
+                      "mimeType": "application/pdf",
+                      "size": 2012135,
+                      "webViewLink": "https://drive.google.com/file/d/1FE9OPJYMewjPxSGDG2sAGAww1RGa3asH/view?usp=drivesdk",
+                      "modifiedTime": "2026-04-22T14:55:46.067Z",
+                      "videoMediaMetadata": null
+                    },
+                    {
+                      "id": "1eVaJWOYDOTTWNWPEuQpi-t7tF4PO2Dd4",
+                      "name": "DA_Thi Online Từ loại (Đề số 02).pdf",
+                      "mimeType": "application/pdf",
+                      "size": 7462233,
+                      "webViewLink": "https://drive.google.com/file/d/1eVaJWOYDOTTWNWPEuQpi-t7tF4PO2Dd4/view?usp=drivesdk",
+                      "modifiedTime": "2026-04-22T14:55:47.699Z",
+                      "videoMediaMetadata": null
+                    }
+                  ]
+                },
+                {
+                  "id": "1gFX7z_tE0vvG1nPAS14dxTsoa-8ZGSon",
+                  "name": "11. Thi Online Từ loại (Đề số 03)",
+                  "webViewLink": "https://drive.google.com/drive/folders/1gFX7z_tE0vvG1nPAS14dxTsoa-8ZGSon",
+                  "modifiedTime": "2026-04-22T14:55:49.393Z",
+                  "children": [],
+                  "files": [
+                    {
+                      "id": "1mDhjZmigYFdE7EtWxocKZnJhHhOmG4PZ",
+                      "name": "co-vu-mai-phuong-thi-online-tu-loai-de-so-3.pdf",
+                      "mimeType": "application/pdf",
+                      "size": 2072504,
+                      "webViewLink": "https://drive.google.com/file/d/1mDhjZmigYFdE7EtWxocKZnJhHhOmG4PZ/view?usp=drivesdk",
+                      "modifiedTime": "2026-04-22T14:55:50.297Z",
+                      "videoMediaMetadata": null
+                    },
+                    {
+                      "id": "1CdTlM_Yo7d6CrPjD5-TgraN7I6444fEK",
+                      "name": "DA_Thi Online Từ loại (Đề số 03).pdf",
+                      "mimeType": "application/pdf",
+                      "size": 4789296,
+                      "webViewLink": "https://drive.google.com/file/d/1CdTlM_Yo7d6CrPjD5-TgraN7I6444fEK/view?usp=drivesdk",
+                      "modifiedTime": "2026-04-22T14:55:52.046Z",
+                      "videoMediaMetadata": null
+                    }
+                  ]
+                }
+              ],
+              "files": []
+            },
+            {
+              "id": "1i3C42wc2Z9vs6nAGK0rGlgdYDPrNA30D",
+              "name": "02. CHUYÊN ĐỀ 2: MẠO TỪ & TỪ HẠN ĐỊNH - LÝ THUYẾT VÀ ỨNG DỤNG",
+              "webViewLink": "https://drive.google.com/drive/folders/1i3C42wc2Z9vs6nAGK0rGlgdYDPrNA30D",
+              "modifiedTime": "2026-04-24T22:18:52.162Z",
+              "children": [
+                {
+                  "id": "1C1gxAyfY6vS2dFseEdJbmTmkaicxoFt1",
+                  "name": "01. Mạo từ và Từ hạn định (Lý thuyết)",
+                  "webViewLink": "https://drive.google.com/drive/folders/1C1gxAyfY6vS2dFseEdJbmTmkaicxoFt1",
+                  "modifiedTime": "2026-04-24T22:19:03.523Z",
+                  "children": [],
+                  "files": [
+                    {
+                      "id": "1q4_S8A_wyNfuSt64g-kS2qvrY1bF5c0e",
+                      "name": "mao-tu-va-tu-han-dinh-ly-thuyet.pdf",
+                      "mimeType": "application/pdf",
+                      "size": 4234241,
+                      "webViewLink": "https://drive.google.com/file/d/1q4_S8A_wyNfuSt64g-kS2qvrY1bF5c0e/view?usp=drivesdk",
+                      "modifiedTime": "2026-04-24T22:19:06.867Z",
+                      "videoMediaMetadata": null
+                    },
+                    {
+                      "id": "1AmDip0zt3fQ24VLzH3yOFnTm0krAAGnb",
+                      "name": "Mạo từ và Từ hạn định (Lý thuyết).mp4",
+                      "mimeType": "video/mp4",
+                      "size": 369228574,
+                      "webViewLink": "https://drive.google.com/file/d/1AmDip0zt3fQ24VLzH3yOFnTm0krAAGnb/view?usp=drivesdk",
+                      "modifiedTime": "2026-04-24T22:19:04.948Z",
+                      "videoMediaMetadata": null
+                    }
+                  ]
+                },
+                {
+                  "id": "1QU9ZFDuAB9sInrz2zvYJf7sTvopLTXP9",
+                  "name": "02. Mạo từ và Từ hạn định (Bài tập Ứng dụng)",
+                  "webViewLink": "https://drive.google.com/drive/folders/1QU9ZFDuAB9sInrz2zvYJf7sTvopLTXP9",
+                  "modifiedTime": "2026-04-24T22:18:53.656Z",
+                  "children": [],
+                  "files": [
+                    {
+                      "id": "1wKMRuNeAeSjqwXjHVWoMeQPqIWmnqyeM",
+                      "name": "mao-tu-va-tu-han-dinh-bai-tap-ung-dung.pdf",
+                      "mimeType": "application/pdf",
+                      "size": 2473322,
+                      "webViewLink": "https://drive.google.com/file/d/1wKMRuNeAeSjqwXjHVWoMeQPqIWmnqyeM/view?usp=drivesdk",
+                      "modifiedTime": "2026-04-24T22:18:55.263Z",
+                      "videoMediaMetadata": null
+                    },
+                    {
+                      "id": "1LpKM8K_DpqCfJd2qC7Ummpo3bIKdY4iT",
+                      "name": "Mạo từ và Từ hạn định (Bài tập Ứng dụng).mp4",
+                      "mimeType": "video/mp4",
+                      "size": 238365466,
+                      "webViewLink": "https://drive.google.com/file/d/1LpKM8K_DpqCfJd2qC7Ummpo3bIKdY4iT/view?usp=drivesdk",
+                      "modifiedTime": "2026-04-24T22:18:56.990Z",
+                      "videoMediaMetadata": {
+                        "width": 1280,
+                        "height": 720,
+                        "durationMillis": "1801791"
+                      }
+                    }
+                  ]
+                },
+                {
+                  "id": "18rAM46rO4MU2a6u3ZVVSm7ybFyQz8WKs",
+                  "name": "03. Thi Online Mạo từ và Từ hạn định",
+                  "webViewLink": "https://drive.google.com/drive/folders/18rAM46rO4MU2a6u3ZVVSm7ybFyQz8WKs",
+                  "modifiedTime": "2026-04-24T22:18:58.691Z",
+                  "children": [],
+                  "files": [
+                    {
+                      "id": "1zyQIswr-8kGFxw3DpZxHX_lMan36mY1s",
+                      "name": "DA_Thi Online Mạo từ và Từ hạn định.pdf",
+                      "mimeType": "application/pdf",
+                      "size": 8209408,
+                      "webViewLink": "https://drive.google.com/file/d/1zyQIswr-8kGFxw3DpZxHX_lMan36mY1s/view?usp=drivesdk",
+                      "modifiedTime": "2026-04-24T22:19:00.121Z",
+                      "videoMediaMetadata": null
+                    },
+                    {
+                      "id": "1ged2J4Ptw1yfPTy_sbgGhwe2ao33oBlj",
+                      "name": "thi-online-mao-tu-va-tu-han-dinh.pdf",
+                      "mimeType": "application/pdf",
+                      "size": 2648450,
+                      "webViewLink": "https://drive.google.com/file/d/1ged2J4Ptw1yfPTy_sbgGhwe2ao33oBlj/view?usp=drivesdk",
+                      "modifiedTime": "2026-04-24T22:19:01.802Z",
+                      "videoMediaMetadata": null
+                    }
+                  ]
+                }
+              ],
+              "files": []
+            },
+            {
+              "id": "1FNe1p2i5yWNLeeuQK-D4Bqb6aEjplk5h",
+              "name": "03. CHUYÊN ĐỀ 3: LƯỢNG TỪ & TỪ CHỈ LƯỢNG - LÝ THUYẾT VÀ ỨNG DỤNG",
+              "webViewLink": "https://drive.google.com/drive/folders/1FNe1p2i5yWNLeeuQK-D4Bqb6aEjplk5h",
+              "modifiedTime": "2026-04-27T15:59:20.406Z",
+              "children": [
+                {
+                  "id": "1wsMu9hu3gdpxTGd_4ws2y6DjJi4SL4eN",
+                  "name": "01. Lượng từ, đại từ & từ chỉ lượng (Lý thuyết - Buổi 1)",
+                  "webViewLink": "https://drive.google.com/drive/folders/1wsMu9hu3gdpxTGd_4ws2y6DjJi4SL4eN",
+                  "modifiedTime": "2026-04-27T15:59:21.308Z",
+                  "children": [],
+                  "files": [
+                    {
+                      "id": "1h0vBNul5uL66ZPdtKtLGim5Wg8s78XUV",
+                      "name": "luongtudaitutuchiluonglythuyet-buoi1-daitu.pdf",
+                      "mimeType": "application/pdf",
+                      "size": 3726011,
+                      "webViewLink": "https://drive.google.com/file/d/1h0vBNul5uL66ZPdtKtLGim5Wg8s78XUV/view?usp=drivesdk",
+                      "modifiedTime": "2026-04-27T15:59:23.679Z",
+                      "videoMediaMetadata": null
+                    },
+                    {
+                      "id": "1RtbDe1s91wJAi1GVlvM--2_oTxIov4rr",
+                      "name": "Lượng từ, đại từ & từ chỉ lượng (Lý thuyết - Buổi 1).mp4",
+                      "mimeType": "video/mp4",
+                      "size": 242121781,
+                      "webViewLink": "https://drive.google.com/file/d/1RtbDe1s91wJAi1GVlvM--2_oTxIov4rr/view?usp=drivesdk",
+                      "modifiedTime": "2026-04-27T15:59:22.121Z",
+                      "videoMediaMetadata": null
+                    }
+                  ]
+                },
+                {
+                  "id": "1kW9g-lusM0d9DoNhPkSR47ImVvsMHML2",
+                  "name": "02. Lượng từ, đại từ & từ chỉ lượng (Lý thuyết - Buổi 2)",
+                  "webViewLink": "https://drive.google.com/drive/folders/1kW9g-lusM0d9DoNhPkSR47ImVvsMHML2",
+                  "modifiedTime": "2026-04-27T15:59:29.057Z",
+                  "children": [],
+                  "files": [
+                    {
+                      "id": "1srb3fs1XEZRejJewpdYYh7Bm_ish7aTH",
+                      "name": "luongtudaitutuchiluonglythuyet-buoi2-luongtu.pdf",
+                      "mimeType": "application/pdf",
+                      "size": 4808345,
+                      "webViewLink": "https://drive.google.com/file/d/1srb3fs1XEZRejJewpdYYh7Bm_ish7aTH/view?usp=drivesdk",
+                      "modifiedTime": "2026-04-27T15:59:31.475Z",
+                      "videoMediaMetadata": null
+                    },
+                    {
+                      "id": "1gj10-AFWq9AQL5NotkiGtoEvMIN3Nyrw",
+                      "name": "Lượng từ, đại từ & từ chỉ lượng (Lý thuyết - Buổi 2).mp4",
+                      "mimeType": "video/mp4",
+                      "size": 261991633,
+                      "webViewLink": "https://drive.google.com/file/d/1gj10-AFWq9AQL5NotkiGtoEvMIN3Nyrw/view?usp=drivesdk",
+                      "modifiedTime": "2026-04-27T15:59:29.891Z",
+                      "videoMediaMetadata": {
+                        "width": 1280,
+                        "height": 720,
+                        "durationMillis": "1994124"
+                      }
+                    }
+                  ]
+                },
+                {
+                  "id": "1sxGToc4NYpZRuC_nrW3mybrBK4NK45Fs",
+                  "name": "03. Lượng từ, đại từ & từ chỉ lượng (Lý thuyết - Buổi 3)",
+                  "webViewLink": "https://drive.google.com/drive/folders/1sxGToc4NYpZRuC_nrW3mybrBK4NK45Fs",
+                  "modifiedTime": "2026-04-27T15:59:25.289Z",
+                  "children": [],
+                  "files": [
+                    {
+                      "id": "1yQh1vgYf7sAAX8vy8YagYvCeZfUCMhLa",
+                      "name": "luongtudaitutuchiluonglythuyet-buoi3-cumtuchiluong.pdf",
+                      "mimeType": "application/pdf",
+                      "size": 3870286,
+                      "webViewLink": "https://drive.google.com/file/d/1yQh1vgYf7sAAX8vy8YagYvCeZfUCMhLa/view?usp=drivesdk",
+                      "modifiedTime": "2026-04-27T15:59:27.581Z",
+                      "videoMediaMetadata": null
+                    },
+                    {
+                      "id": "14cECTdsoQqXAVVZNkGh9ikif_ImfCLe0",
+                      "name": "Lượng từ, đại từ & từ chỉ lượng (Lý thuyết - Buổi 3).mp4",
+                      "mimeType": "video/mp4",
+                      "size": 175366236,
+                      "webViewLink": "https://drive.google.com/file/d/14cECTdsoQqXAVVZNkGh9ikif_ImfCLe0/view?usp=drivesdk",
+                      "modifiedTime": "2026-04-27T15:59:26.128Z",
+                      "videoMediaMetadata": null
+                    }
+                  ]
+                },
+                {
+                  "id": "1Blvi2TtT_esLzxxqWnOIWWtxdo0dHuJq",
+                  "name": "04. Thi Online Lượng từ, đại từ & từ chỉ lượng (Đề số 01)",
+                  "webViewLink": "https://drive.google.com/drive/folders/1Blvi2TtT_esLzxxqWnOIWWtxdo0dHuJq",
+                  "modifiedTime": "2026-04-27T15:59:32.957Z",
+                  "children": [],
+                  "files": [
+                    {
+                      "id": "1DeVjrVolG6rDgWYIINMT6xAtypb3uBY2",
+                      "name": "DA_Thi Online Lượng từ, đại từ & từ chỉ lượng (Đề số 01).pdf",
+                      "mimeType": "application/pdf",
+                      "size": 8309634,
+                      "webViewLink": "https://drive.google.com/file/d/1DeVjrVolG6rDgWYIINMT6xAtypb3uBY2/view?usp=drivesdk",
+                      "modifiedTime": "2026-04-27T15:59:34.010Z",
+                      "videoMediaMetadata": null
+                    },
+                    {
+                      "id": "1mjW6-A8uFbfObg5Kns5PbW74K6rrZdIb",
+                      "name": "thi-online-luong-tu-dai-tu-va-tu-chi-luong-de-so-01.pdf",
+                      "mimeType": "application/pdf",
+                      "size": 3736540,
+                      "webViewLink": "https://drive.google.com/file/d/1mjW6-A8uFbfObg5Kns5PbW74K6rrZdIb/view?usp=drivesdk",
+                      "modifiedTime": "2026-04-27T15:59:35.532Z",
+                      "videoMediaMetadata": null
+                    }
+                  ]
+                },
+                {
+                  "id": "1TtMHCYp5h-vBwjSqXBoH_s_DOoUe0g9J",
+                  "name": "05. Lượng từ, đại từ & từ chỉ lượng (Bài tập ứng dụng - Buổi 1)",
+                  "webViewLink": "https://drive.google.com/drive/folders/1TtMHCYp5h-vBwjSqXBoH_s_DOoUe0g9J",
+                  "modifiedTime": "2026-04-27T15:59:41.126Z",
+                  "children": [],
+                  "files": [
+                    {
+                      "id": "1Xx39ZmMXNNL76WBfiz6AUGzBprzoSOtn",
+                      "name": "luong-tu-dai-tu-tu-chi-luong-bai-tap-ung-dung-buoi-1.pdf",
+                      "mimeType": "application/pdf",
+                      "size": 3000731,
+                      "webViewLink": "https://drive.google.com/file/d/1Xx39ZmMXNNL76WBfiz6AUGzBprzoSOtn/view?usp=drivesdk",
+                      "modifiedTime": "2026-04-27T15:59:44.165Z",
+                      "videoMediaMetadata": null
+                    },
+                    {
+                      "id": "1Ullonlli8Iw0NfSj2HRFABwgn5kpQ_26",
+                      "name": "Lượng từ, đại từ & từ chỉ lượng (Bài tập ứng dụng - Buổi 1).mp4",
+                      "mimeType": "video/mp4",
+                      "size": 200054627,
+                      "webViewLink": "https://drive.google.com/file/d/1Ullonlli8Iw0NfSj2HRFABwgn5kpQ_26/view?usp=drivesdk",
+                      "modifiedTime": "2026-04-27T15:59:41.863Z",
+                      "videoMediaMetadata": null
+                    }
+                  ]
+                },
+                {
+                  "id": "1R_c5yim_QELR9Y8rBVPjkNk7E25ZKWeP",
+                  "name": "06. Thi Online Lượng từ, đại từ & từ chỉ lượng (Đề số 02)",
+                  "webViewLink": "https://drive.google.com/drive/folders/1R_c5yim_QELR9Y8rBVPjkNk7E25ZKWeP",
+                  "modifiedTime": "2026-04-27T15:59:45.836Z",
+                  "children": [],
+                  "files": [
+                    {
+                      "id": "1Bq2Wiu7nZSu4feIIWXpQTJDglB9BeguV",
+                      "name": "DA_Thi Online Lượng từ, đại từ & từ chỉ lượng (Đề số 02).pdf",
+                      "mimeType": "application/pdf",
+                      "size": 8190215,
+                      "webViewLink": "https://drive.google.com/file/d/1Bq2Wiu7nZSu4feIIWXpQTJDglB9BeguV/view?usp=drivesdk",
+                      "modifiedTime": "2026-04-27T15:59:46.694Z",
+                      "videoMediaMetadata": null
+                    },
+                    {
+                      "id": "1AdjDYmXnlXuE7lpg-Pg6ndajdnMuqlOn",
+                      "name": "thi-online-luong-tu-dai-tu-va-tu-chi-luong-de-so-02.pdf",
+                      "mimeType": "application/pdf",
+                      "size": 3311232,
+                      "webViewLink": "https://drive.google.com/file/d/1AdjDYmXnlXuE7lpg-Pg6ndajdnMuqlOn/view?usp=drivesdk",
+                      "modifiedTime": "2026-04-27T15:59:48.210Z",
+                      "videoMediaMetadata": null
+                    }
+                  ]
+                },
+                {
+                  "id": "1KYH5lQxsQ-MFU8UqQdn4U30ZNg2VlCYb",
+                  "name": "07. Lượng từ, đại từ & từ chỉ lượng (Bài tập ứng dụng - Buổi 2)",
+                  "webViewLink": "https://drive.google.com/drive/folders/1KYH5lQxsQ-MFU8UqQdn4U30ZNg2VlCYb",
+                  "modifiedTime": "2026-04-27T15:59:37.157Z",
+                  "children": [],
+                  "files": [
+                    {
+                      "id": "11GJMQlzno2t1Gxs-4L8JTLk-Erj-lJy2",
+                      "name": "luong-tu-dai-tu-tu-chi-luong-bai-tap-ung-dung-buoi-2.pdf",
+                      "mimeType": "application/pdf",
+                      "size": 3026173,
+                      "webViewLink": "https://drive.google.com/file/d/11GJMQlzno2t1Gxs-4L8JTLk-Erj-lJy2/view?usp=drivesdk",
+                      "modifiedTime": "2026-04-27T15:59:39.794Z",
+                      "videoMediaMetadata": null
+                    },
+                    {
+                      "id": "1Kqz7TskHrhZdt5Ay5ec-Lerx0NOPbmkA",
+                      "name": "Lượng từ, đại từ & từ chỉ lượng (Bài tập ứng dụng - Buổi 2).mp4",
+                      "mimeType": "video/mp4",
+                      "size": 242487563,
+                      "webViewLink": "https://drive.google.com/file/d/1Kqz7TskHrhZdt5Ay5ec-Lerx0NOPbmkA/view?usp=drivesdk",
+                      "modifiedTime": "2026-04-27T15:59:37.907Z",
+                      "videoMediaMetadata": {
+                        "width": 1280,
+                        "height": 720,
+                        "durationMillis": "1835749"
+                      }
+                    }
+                  ]
+                }
+              ],
+              "files": []
+            },
+            {
+              "id": "1FremH-EL3yNzDHTRw6byPQf9__R1YL-d",
+              "name": "04. CHUYÊN ĐỀ 4: DANH ĐỘNG TỪ VÀ ĐỘNG TỪ NGUYÊN MẪU",
+              "webViewLink": "https://drive.google.com/drive/folders/1FremH-EL3yNzDHTRw6byPQf9__R1YL-d",
+              "modifiedTime": "2026-04-30T23:15:52.893Z",
+              "children": [
+                {
+                  "id": "1qdVmoYKDv8nIa-lOHrpyzNvR8QTAjova",
+                  "name": "01. Danh động từ và Động từ nguyên mẫu (Lý thuyết - Buổi 1)",
+                  "webViewLink": "https://drive.google.com/drive/folders/1qdVmoYKDv8nIa-lOHrpyzNvR8QTAjova",
+                  "modifiedTime": "2026-04-30T23:15:53.809Z",
+                  "children": [],
+                  "files": [
+                    {
+                      "id": "1gyWLRC7bkZ640y7LyS5ZkmRF3yM_Mjs7",
+                      "name": "Danh động từ và Động từ nguyên mẫu (Lý thuyết - Buổi 1).mp4",
+                      "mimeType": "video/mp4",
+                      "size": 212781244,
+                      "webViewLink": "https://drive.google.com/file/d/1gyWLRC7bkZ640y7LyS5ZkmRF3yM_Mjs7/view?usp=drivesdk",
+                      "modifiedTime": "2026-04-30T23:15:54.769Z",
+                      "videoMediaMetadata": null
+                    },
+                    {
+                      "id": "1MD4HboobkW31lc0kkbogj8wIs63aPx_h",
+                      "name": "danh-dong-tu-va-dong-tu-nguyen-mau-ly-thuyet-buoi-1-danh-dong-tu.pdf",
+                      "mimeType": "application/pdf",
+                      "size": 4380348,
+                      "webViewLink": "https://drive.google.com/file/d/1MD4HboobkW31lc0kkbogj8wIs63aPx_h/view?usp=drivesdk",
+                      "modifiedTime": "2026-04-30T23:15:56.342Z",
+                      "videoMediaMetadata": null
+                    }
+                  ]
+                },
+                {
+                  "id": "1P_MAWBcaWVUozHu1Hhl4Q7ioFPlNRGPN",
+                  "name": "02. Danh động từ và Động từ nguyên mẫu (Lý thuyết - Buổi 2)",
+                  "webViewLink": "https://drive.google.com/drive/folders/1P_MAWBcaWVUozHu1Hhl4Q7ioFPlNRGPN",
+                  "modifiedTime": "2026-04-30T23:15:57.837Z",
+                  "children": [],
+                  "files": [
+                    {
+                      "id": "1r7A2D1C_-OylkAQKa1sjyDMhXVdkrJeb",
+                      "name": "Danh động từ và Động từ nguyên mẫu (Lý thuyết - Buổi 2).mp4",
+                      "mimeType": "video/mp4",
+                      "size": 285332788,
+                      "webViewLink": "https://drive.google.com/file/d/1r7A2D1C_-OylkAQKa1sjyDMhXVdkrJeb/view?usp=drivesdk",
+                      "modifiedTime": "2026-04-30T23:15:58.719Z",
+                      "videoMediaMetadata": null
+                    },
+                    {
+                      "id": "1sPCYlEqlgetfLiPrPxB16DCHCnMX1Aqa",
+                      "name": "danhdongtuvadongtunguyenmaulythuyet-buoi2-dongtunguyenmau.pdf",
+                      "mimeType": "application/pdf",
+                      "size": 5552165,
+                      "webViewLink": "https://drive.google.com/file/d/1sPCYlEqlgetfLiPrPxB16DCHCnMX1Aqa/view?usp=drivesdk",
+                      "modifiedTime": "2026-04-30T23:16:00.547Z",
+                      "videoMediaMetadata": null
+                    }
+                  ]
+                },
+                {
+                  "id": "1iKMrBS6VZic896qPw9tanicZLPV2htE6",
+                  "name": "03. Danh động từ và Động từ nguyên mẫu (Bài tập Ứng dụng - Buổi 1)",
+                  "webViewLink": "https://drive.google.com/drive/folders/1iKMrBS6VZic896qPw9tanicZLPV2htE6",
+                  "modifiedTime": "2026-04-30T23:16:14.381Z",
+                  "children": [],
+                  "files": [
+                    {
+                      "id": "1HHg-GyGNqBwffZMbKLP_rc6skBaL8dK2",
+                      "name": "Danh động từ và Động từ nguyên mẫu (Bài tập Ứng dụng - Buổi 1).mp4",
+                      "mimeType": "video/mp4",
+                      "size": 137108502,
+                      "webViewLink": "https://drive.google.com/file/d/1HHg-GyGNqBwffZMbKLP_rc6skBaL8dK2/view?usp=drivesdk",
+                      "modifiedTime": "2026-04-30T23:16:15.202Z",
+                      "videoMediaMetadata": null
+                    },
+                    {
+                      "id": "1_04zwKOcZPY6R5Fm4pW245J3OqrYD1hR",
+                      "name": "danhdongtuvadongtunguyenmaubaitapungdung-buoi1.pdf",
+                      "mimeType": "application/pdf",
+                      "size": 1746787,
+                      "webViewLink": "https://drive.google.com/file/d/1_04zwKOcZPY6R5Fm4pW245J3OqrYD1hR/view?usp=drivesdk",
+                      "modifiedTime": "2026-04-30T23:16:17.726Z",
+                      "videoMediaMetadata": null
+                    }
+                  ]
+                },
+                {
+                  "id": "1pVocvrCGth4Xwj8TKXU7QvpvMhp_0vuu",
+                  "name": "04. Thi Online Danh động từ và Động từ nguyên mẫu (Đề số 01)",
+                  "webViewLink": "https://drive.google.com/drive/folders/1pVocvrCGth4Xwj8TKXU7QvpvMhp_0vuu",
+                  "modifiedTime": "2026-04-30T23:16:06.269Z",
+                  "children": [],
+                  "files": [
+                    {
+                      "id": "1RePCtn6kwltpxcf9qF22cwni2pF-6-Op",
+                      "name": "DA_Thi Online Danh động từ và Động từ nguyên mẫu (Đề số 01).pdf",
+                      "mimeType": "application/pdf",
+                      "size": 7038102,
+                      "webViewLink": "https://drive.google.com/file/d/1RePCtn6kwltpxcf9qF22cwni2pF-6-Op/view?usp=drivesdk",
+                      "modifiedTime": "2026-04-30T23:16:07.100Z",
+                      "videoMediaMetadata": null
+                    },
+                    {
+                      "id": "1RQcbis0n9m5LeuV3hbZMTXDe5EZzmga3",
+                      "name": "thi-online-danh-dong-tu-va-dong-tu-nguyen-mau-de-so-01.pdf",
+                      "mimeType": "application/pdf",
+                      "size": 3136840,
+                      "webViewLink": "https://drive.google.com/file/d/1RQcbis0n9m5LeuV3hbZMTXDe5EZzmga3/view?usp=drivesdk",
+                      "modifiedTime": "2026-04-30T23:16:08.611Z",
+                      "videoMediaMetadata": null
+                    }
+                  ]
+                },
+                {
+                  "id": "197vr_aWdMfkg7zX_Vepz584V43Gpa_Y3",
+                  "name": "05. Thi Online Danh động từ và Động từ nguyên mẫu (Đề số 02)",
+                  "webViewLink": "https://drive.google.com/drive/folders/197vr_aWdMfkg7zX_Vepz584V43Gpa_Y3",
+                  "modifiedTime": "2026-04-30T23:16:02.209Z",
+                  "children": [],
+                  "files": [
+                    {
+                      "id": "1QeTzG_ePGQIZzeqOXzH930rFBCzNFx-A",
+                      "name": "DA_Thi Online Danh động từ và Động từ nguyên mẫu (Đề số 02).pdf",
+                      "mimeType": "application/pdf",
+                      "size": 6746428,
+                      "webViewLink": "https://drive.google.com/file/d/1QeTzG_ePGQIZzeqOXzH930rFBCzNFx-A/view?usp=drivesdk",
+                      "modifiedTime": "2026-04-30T23:16:03.033Z",
+                      "videoMediaMetadata": null
+                    },
+                    {
+                      "id": "1fhm58DtOukaOKWmD59NvtlnU7G1u3Lh_",
+                      "name": "danh-dong-tu-va-dong-tu-nguyen-mau-de-so-02.pdf",
+                      "mimeType": "application/pdf",
+                      "size": 2955621,
+                      "webViewLink": "https://drive.google.com/file/d/1fhm58DtOukaOKWmD59NvtlnU7G1u3Lh_/view?usp=drivesdk",
+                      "modifiedTime": "2026-04-30T23:16:04.645Z",
+                      "videoMediaMetadata": null
+                    }
+                  ]
+                },
+                {
+                  "id": "1QyEvnRCJZpDwfDeVY8GgdPtqNSNzW7I3",
+                  "name": "06. Danh động từ và Động từ nguyên mẫu (Bài tập Ứng dụng - Buổi 2)",
+                  "webViewLink": "https://drive.google.com/drive/folders/1QyEvnRCJZpDwfDeVY8GgdPtqNSNzW7I3",
+                  "modifiedTime": "2026-04-30T23:16:10.097Z",
+                  "children": [],
+                  "files": [
+                    {
+                      "id": "1jB8FTPvWkPFVHbVlJvixfgHzV2LShz8e",
+                      "name": "Danh động từ và Động từ nguyên mẫu (Bài tập Ứng dụng - Buổi 2).mp4",
+                      "mimeType": "video/mp4",
+                      "size": 152191133,
+                      "webViewLink": "https://drive.google.com/file/d/1jB8FTPvWkPFVHbVlJvixfgHzV2LShz8e/view?usp=drivesdk",
+                      "modifiedTime": "2026-04-30T23:16:10.949Z",
+                      "videoMediaMetadata": null
+                    },
+                    {
+                      "id": "1DZOZNU_jAC3b7yJPsmAk3izOfPN22OU9",
+                      "name": "danhdongtuvadongtunguyenmaubaitapungdung-buoi2.pdf",
+                      "mimeType": "application/pdf",
+                      "size": 1785732,
+                      "webViewLink": "https://drive.google.com/file/d/1DZOZNU_jAC3b7yJPsmAk3izOfPN22OU9/view?usp=drivesdk",
+                      "modifiedTime": "2026-04-30T23:16:12.815Z",
+                      "videoMediaMetadata": null
+                    }
+                  ]
+                }
+              ],
+              "files": []
+            },
+            {
+              "id": "1Rq4hhRx0QofJuXpXdXqe1NJzYpcH5oaV",
+              "name": "05. CHUYÊN ĐỀ 5: CẤP SO SÁNH",
+              "webViewLink": "https://drive.google.com/drive/folders/1Rq4hhRx0QofJuXpXdXqe1NJzYpcH5oaV",
+              "modifiedTime": "2026-05-06T14:10:45.354Z",
+              "children": [
+                {
+                  "id": "1TBBHMasycEAaGvVmgxBhOo1VarhKFxJU",
+                  "name": "01. Cấp so sánh (Lý thuyết)",
+                  "webViewLink": "https://drive.google.com/drive/folders/1TBBHMasycEAaGvVmgxBhOo1VarhKFxJU",
+                  "modifiedTime": "2026-05-06T14:10:52.559Z",
+                  "children": [],
+                  "files": [
+                    {
+                      "id": "1ER9lFSM9h1Rill4r36vBoZPPDn8TXpnl",
+                      "name": "capsosanhlythuyet.pdf",
+                      "mimeType": "application/pdf",
+                      "size": 5564191,
+                      "webViewLink": "https://drive.google.com/file/d/1ER9lFSM9h1Rill4r36vBoZPPDn8TXpnl/view?usp=drivesdk",
+                      "modifiedTime": "2026-05-06T14:10:55.980Z",
+                      "videoMediaMetadata": null
+                    },
+                    {
+                      "id": "1OhmSccVWwhQMiPjpDsMlaCcuFL_yIprJ",
+                      "name": "Cấp so sánh (Lý thuyết).mp4",
+                      "mimeType": "video/mp4",
+                      "size": 327695687,
+                      "webViewLink": "https://drive.google.com/file/d/1OhmSccVWwhQMiPjpDsMlaCcuFL_yIprJ/view?usp=drivesdk",
+                      "modifiedTime": "2026-05-06T14:10:54.143Z",
+                      "videoMediaMetadata": null
+                    }
+                  ]
+                },
+                {
+                  "id": "1JNxz5S9zmLhmDUazDkHWzu3eN9jIUTtL",
+                  "name": "02. Cấp so sánh (Bài tập Ứng dụng)",
+                  "webViewLink": "https://drive.google.com/drive/folders/1JNxz5S9zmLhmDUazDkHWzu3eN9jIUTtL",
+                  "modifiedTime": "2026-05-06T14:10:46.881Z",
+                  "children": [],
+                  "files": [
+                    {
+                      "id": "1yhzc4TtJmc4U8EwD7rjYQ1NqOIceYeJi",
+                      "name": "capsosanhbaitapungdung.pdf",
+                      "mimeType": "application/pdf",
+                      "size": 2380185,
+                      "webViewLink": "https://drive.google.com/file/d/1yhzc4TtJmc4U8EwD7rjYQ1NqOIceYeJi/view?usp=drivesdk",
+                      "modifiedTime": "2026-05-06T14:10:50.648Z",
+                      "videoMediaMetadata": null
+                    },
+                    {
+                      "id": "1dGZB9_Zq_T_sMpsXmM8QD1UaCo1FDI4S",
+                      "name": "Cấp so sánh (Bài tập Ứng dụng).mp4",
+                      "mimeType": "video/mp4",
+                      "size": 156099399,
+                      "webViewLink": "https://drive.google.com/file/d/1dGZB9_Zq_T_sMpsXmM8QD1UaCo1FDI4S/view?usp=drivesdk",
+                      "modifiedTime": "2026-05-06T14:10:48.788Z",
+                      "videoMediaMetadata": null
+                    }
+                  ]
+                },
+                {
+                  "id": "1qsWrAtUA46IrPEEHadNLXzgb4DCR4kfH",
+                  "name": "03. Thi Online Cấp so sánh",
+                  "webViewLink": "https://drive.google.com/drive/folders/1qsWrAtUA46IrPEEHadNLXzgb4DCR4kfH",
+                  "modifiedTime": "2026-05-06T14:10:58.042Z",
+                  "children": [],
+                  "files": [
+                    {
+                      "id": "1DKz1mBlv0gCgapCKBzV8fVjaJwkGQ5UQ",
+                      "name": "co-vu-mai-phuong-thi-online-cap-so-sanh.pdf",
+                      "mimeType": "application/pdf",
+                      "size": 3800907,
+                      "webViewLink": "https://drive.google.com/file/d/1DKz1mBlv0gCgapCKBzV8fVjaJwkGQ5UQ/view?usp=drivesdk",
+                      "modifiedTime": "2026-05-06T14:11:02.213Z",
+                      "videoMediaMetadata": null
+                    },
+                    {
+                      "id": "1XW4F8VPmcEcFeob2GsGEu-XLrQL3U_6X",
+                      "name": "DA_Thi Online Cấp so sánh.pdf",
+                      "mimeType": "application/pdf",
+                      "size": 7830931,
+                      "webViewLink": "https://drive.google.com/file/d/1XW4F8VPmcEcFeob2GsGEu-XLrQL3U_6X/view?usp=drivesdk",
+                      "modifiedTime": "2026-05-06T14:11:00.004Z",
+                      "videoMediaMetadata": null
+                    }
+                  ]
+                }
+              ],
+              "files": []
+            },
+            {
+              "id": "17NhwQhis6kTRavYKAcT2XcLiNiIuSCK5",
+              "name": "06. CHUYÊN ĐỀ 6  GIỚI TỪ VÀ CỤM GIỚI TỪ",
+              "webViewLink": "https://drive.google.com/drive/folders/17NhwQhis6kTRavYKAcT2XcLiNiIuSCK5",
+              "modifiedTime": "2026-05-14T10:57:43.709Z",
+              "children": [
+                {
+                  "id": "1dbf_Ax4DuyITx0mRYC-lXu6HFDuCKPq8",
+                  "name": "01. Giới từ và Cụm giới từ (Lý thuyết - Buổi 1)",
+                  "webViewLink": "https://drive.google.com/drive/folders/1dbf_Ax4DuyITx0mRYC-lXu6HFDuCKPq8",
+                  "modifiedTime": "2026-05-14T10:59:04.571Z",
+                  "children": [],
+                  "files": [
+                    {
+                      "id": "1CWbOk4CF9G4zXeauJZMeltHhLHAUKm1z",
+                      "name": "gioi-tu-va-cum-gioi-tu-ly-thuyet-buoi-1.pdf",
+                      "mimeType": "application/pdf",
+                      "size": 4655294,
+                      "webViewLink": "https://drive.google.com/file/d/1CWbOk4CF9G4zXeauJZMeltHhLHAUKm1z/view?usp=drivesdk",
+                      "modifiedTime": "2026-05-14T10:59:07.545Z",
+                      "videoMediaMetadata": null
+                    },
+                    {
+                      "id": "1Ngvgwg7kCohW6rXFWdTC-iQLYJxK3-wR",
+                      "name": "Giới từ và Cụm giới từ (Lý thuyết - Buổi 1).mp4",
+                      "mimeType": "video/mp4",
+                      "size": 191167604,
+                      "webViewLink": "https://drive.google.com/file/d/1Ngvgwg7kCohW6rXFWdTC-iQLYJxK3-wR/view?usp=drivesdk",
+                      "modifiedTime": "2026-05-14T10:59:06.040Z",
+                      "videoMediaMetadata": null
+                    }
+                  ]
+                },
+                {
+                  "id": "1ohic2g5NxrXr51LPdS90G33-bREZpVtE",
+                  "name": "02. Thi online Lý thuyết - Giới từ và Cụm giới từ (Đề số 1)",
+                  "webViewLink": "https://drive.google.com/drive/folders/1ohic2g5NxrXr51LPdS90G33-bREZpVtE",
+                  "modifiedTime": "2026-05-14T10:58:58.316Z",
+                  "children": [],
+                  "files": [
+                    {
+                      "id": "1QIkpiYPF2oFD-Q7hyCiaGTXG86YbevYp",
+                      "name": "co-vu-mai-phuong-thi-online-ly-thuyet-gioi-tu-va-cum-gioi-tu-buoi-01.pdf",
+                      "mimeType": "application/pdf",
+                      "size": 3422329,
+                      "webViewLink": "https://drive.google.com/file/d/1QIkpiYPF2oFD-Q7hyCiaGTXG86YbevYp/view?usp=drivesdk",
+                      "modifiedTime": "2026-05-14T10:59:02.572Z",
+                      "videoMediaMetadata": null
+                    },
+                    {
+                      "id": "1uoDyKQ9QFfSpFtw9__u8ar_QlQr68SB2",
+                      "name": "DA_Thi online Lý thuyết - Giới từ và Cụm giới từ (Đề số 1).pdf",
+                      "mimeType": "application/pdf",
+                      "size": 6975720,
+                      "webViewLink": "https://drive.google.com/file/d/1uoDyKQ9QFfSpFtw9__u8ar_QlQr68SB2/view?usp=drivesdk",
+                      "modifiedTime": "2026-05-14T10:58:59.689Z",
+                      "videoMediaMetadata": null
+                    }
+                  ]
+                },
+                {
+                  "id": "1Qig5doKl-Qz40IXXJRQ9HgO7UqDRdIMY",
+                  "name": "03. Giới từ và Cụm giới từ (Bài tập Ứng dụng - Buổi 1)",
+                  "webViewLink": "https://drive.google.com/drive/folders/1Qig5doKl-Qz40IXXJRQ9HgO7UqDRdIMY",
+                  "modifiedTime": "2026-05-14T10:58:53.090Z",
+                  "children": [],
+                  "files": [
+                    {
+                      "id": "1uXTtpH4Pl564YyVtd4VfpBGRfdQrVDir",
+                      "name": "gioi-tu-va-cum-gioi-tu-bai-tap-ung-dung-buoi-1.pdf",
+                      "mimeType": "application/pdf",
+                      "size": 1672529,
+                      "webViewLink": "https://drive.google.com/file/d/1uXTtpH4Pl564YyVtd4VfpBGRfdQrVDir/view?usp=drivesdk",
+                      "modifiedTime": "2026-05-14T10:58:56.296Z",
+                      "videoMediaMetadata": null
+                    },
+                    {
+                      "id": "1c1KJG1qJ-x1To2RBOTsGIthmysI2DlkW",
+                      "name": "Giới từ và Cụm giới từ (Bài tập Ứng dụng - Buổi 1).mp4",
+                      "mimeType": "video/mp4",
+                      "size": 123750403,
+                      "webViewLink": "https://drive.google.com/file/d/1c1KJG1qJ-x1To2RBOTsGIthmysI2DlkW/view?usp=drivesdk",
+                      "modifiedTime": "2026-05-14T10:58:54.523Z",
+                      "videoMediaMetadata": null
+                    }
+                  ]
+                },
+                {
+                  "id": "1SmPnSSjT3AV7fmqGAkT8qjJKGxd6_bkE",
+                  "name": "04. Thi online Lý thuyết - Giới từ và Cụm giới từ (Đề số 2)",
+                  "webViewLink": "https://drive.google.com/drive/folders/1SmPnSSjT3AV7fmqGAkT8qjJKGxd6_bkE",
+                  "modifiedTime": "2026-05-14T10:58:47.631Z",
+                  "children": [],
+                  "files": [
+                    {
+                      "id": "1lzj7_t0YPZjfNsi9pvrUhePJJDv86jf0",
+                      "name": "co-vu-mai-phuong-thi-online-ly-thuyet-gioi-tu-va-cum-gioi-tu-buoi-02.pdf",
+                      "mimeType": "application/pdf",
+                      "size": 3424301,
+                      "webViewLink": "https://drive.google.com/file/d/1lzj7_t0YPZjfNsi9pvrUhePJJDv86jf0/view?usp=drivesdk",
+                      "modifiedTime": "2026-05-14T10:58:51.070Z",
+                      "videoMediaMetadata": null
+                    },
+                    {
+                      "id": "1sXZBZe-_6cjRFmKt0jydzJuw2_6EocfC",
+                      "name": "DA_Thi online Lý thuyết - Giới từ và Cụm giới từ (Đề số 2).pdf",
+                      "mimeType": "application/pdf",
+                      "size": 6808954,
+                      "webViewLink": "https://drive.google.com/file/d/1sXZBZe-_6cjRFmKt0jydzJuw2_6EocfC/view?usp=drivesdk",
+                      "modifiedTime": "2026-05-14T10:58:48.915Z",
+                      "videoMediaMetadata": null
+                    }
+                  ]
+                },
+                {
+                  "id": "1Z2ACoUOXWbS6E3B9uGMMI8_duW3yalX4",
+                  "name": "05. Giới từ và Cụm giới từ (Lý thuyết - Buổi 2)",
+                  "webViewLink": "https://drive.google.com/drive/folders/1Z2ACoUOXWbS6E3B9uGMMI8_duW3yalX4",
+                  "modifiedTime": "2026-05-14T10:58:42.481Z",
+                  "children": [],
+                  "files": [
+                    {
+                      "id": "1BKIDt5GTJ7uaT0hHleL3pvvUTs7el5cj",
+                      "name": "gioi-tu-va-cum-gioi-tu-ly-thuyet-buoi-2.pdf",
+                      "mimeType": "application/pdf",
+                      "size": 5825286,
+                      "webViewLink": "https://drive.google.com/file/d/1BKIDt5GTJ7uaT0hHleL3pvvUTs7el5cj/view?usp=drivesdk",
+                      "modifiedTime": "2026-05-14T10:58:45.472Z",
+                      "videoMediaMetadata": null
+                    },
+                    {
+                      "id": "1XgbK_7LfwdbOzVB5ZR2iKMLqApnGnIal",
+                      "name": "Giới từ và Cụm giới từ (Lý thuyết - Buổi 2).mp4",
+                      "mimeType": "video/mp4",
+                      "size": 266494062,
+                      "webViewLink": "https://drive.google.com/file/d/1XgbK_7LfwdbOzVB5ZR2iKMLqApnGnIal/view?usp=drivesdk",
+                      "modifiedTime": "2026-05-14T10:58:43.970Z",
+                      "videoMediaMetadata": null
+                    }
+                  ]
+                },
+                {
+                  "id": "1pcPgu-2NOcuurtFeI3eWz02ixpJCVENI",
+                  "name": "06. Thi online Lý thuyết - Giới từ và Cụm giới từ (Đề số 3)",
+                  "webViewLink": "https://drive.google.com/drive/folders/1pcPgu-2NOcuurtFeI3eWz02ixpJCVENI",
+                  "modifiedTime": "2026-05-14T10:58:37.441Z",
+                  "children": [],
+                  "files": [
+                    {
+                      "id": "1Sr8sGCk61bfUtmqv150k6sZmxLbZ8Qku",
+                      "name": "co-vu-mai-phuong-thi-online-ly-thuyet-gioi-tu-va-cum-gioi-tu-buoi-03.pdf",
+                      "mimeType": "application/pdf",
+                      "size": 3626831,
+                      "webViewLink": "https://drive.google.com/file/d/1Sr8sGCk61bfUtmqv150k6sZmxLbZ8Qku/view?usp=drivesdk",
+                      "modifiedTime": "2026-05-14T10:58:40.444Z",
+                      "videoMediaMetadata": null
+                    },
+                    {
+                      "id": "1Eg-d6myRGiBDWTF4o-KQrX3vHghqJUEs",
+                      "name": "DA_Thi online Lý thuyết - Giới từ và Cụm giới từ (Đề số 3).pdf",
+                      "mimeType": "application/pdf",
+                      "size": 7011604,
+                      "webViewLink": "https://drive.google.com/file/d/1Eg-d6myRGiBDWTF4o-KQrX3vHghqJUEs/view?usp=drivesdk",
+                      "modifiedTime": "2026-05-14T10:58:38.882Z",
+                      "videoMediaMetadata": null
+                    }
+                  ]
+                },
+                {
+                  "id": "1oLUv9Ettp7iDOOT1V-3MU0JYHU7ARb83",
+                  "name": "07. Giới từ và Cụm giới từ (Bài tập Ứng dụng - Buổi 2)",
+                  "webViewLink": "https://drive.google.com/drive/folders/1oLUv9Ettp7iDOOT1V-3MU0JYHU7ARb83",
+                  "modifiedTime": "2026-05-14T10:58:32.357Z",
+                  "children": [],
+                  "files": [
+                    {
+                      "id": "1pnp0CSo1nQhwu5KfMYN5pKgpLTXuvoU9",
+                      "name": "gioi-tu-va-cum-gioi-tu-bai-tap-ung-dung-buoi-2.pdf",
+                      "mimeType": "application/pdf",
+                      "size": 1771935,
+                      "webViewLink": "https://drive.google.com/file/d/1pnp0CSo1nQhwu5KfMYN5pKgpLTXuvoU9/view?usp=drivesdk",
+                      "modifiedTime": "2026-05-14T10:58:35.333Z",
+                      "videoMediaMetadata": null
+                    },
+                    {
+                      "id": "1pQioJG4JS0KnRXl3fogYeSRQN23MPTDk",
+                      "name": "Giới từ và Cụm giới từ (Bài tập Ứng dụng - Buổi 2).mp4",
+                      "mimeType": "video/mp4",
+                      "size": 113321259,
+                      "webViewLink": "https://drive.google.com/file/d/1pQioJG4JS0KnRXl3fogYeSRQN23MPTDk/view?usp=drivesdk",
+                      "modifiedTime": "2026-05-14T10:58:33.818Z",
+                      "videoMediaMetadata": null
+                    }
+                  ]
+                },
+                {
+                  "id": "15ZuW90sPgDGXLX9JSr8Kyf0yDfSNW_zU",
+                  "name": "08. Thi online Lý thuyết - Giới từ và Cụm giới từ (Đề số 4)",
+                  "webViewLink": "https://drive.google.com/drive/folders/15ZuW90sPgDGXLX9JSr8Kyf0yDfSNW_zU",
+                  "modifiedTime": "2026-05-14T10:58:26.611Z",
+                  "children": [],
+                  "files": [
+                    {
+                      "id": "1-ECNMmrRN-psOeVeA7eIss-asCOJW3cu",
+                      "name": "co-vu-mai-phuong-thi-online-ly-thuyet-gioi-tu-va-cum-gioi-tu-buoi-04.pdf",
+                      "mimeType": "application/pdf",
+                      "size": 3067935,
+                      "webViewLink": "https://drive.google.com/file/d/1-ECNMmrRN-psOeVeA7eIss-asCOJW3cu/view?usp=drivesdk",
+                      "modifiedTime": "2026-05-14T10:58:29.993Z",
+                      "videoMediaMetadata": null
+                    },
+                    {
+                      "id": "1DTZAKgo0D5iuudrulz83g7kKXq0CLuJk",
+                      "name": "DA_Thi online Lý thuyết - Giới từ và Cụm giới từ (Đề số 4).pdf",
+                      "mimeType": "application/pdf",
+                      "size": 6148110,
+                      "webViewLink": "https://drive.google.com/file/d/1DTZAKgo0D5iuudrulz83g7kKXq0CLuJk/view?usp=drivesdk",
+                      "modifiedTime": "2026-05-14T10:58:28.269Z",
+                      "videoMediaMetadata": null
+                    }
+                  ]
+                },
+                {
+                  "id": "1hbjCmy9nPiigVSjBG_yesC888A1r2mT7",
+                  "name": "09. Giới từ và Cụm giới từ (Lý thuyết - Buổi 3)",
+                  "webViewLink": "https://drive.google.com/drive/folders/1hbjCmy9nPiigVSjBG_yesC888A1r2mT7",
+                  "modifiedTime": "2026-05-14T10:58:21.704Z",
+                  "children": [],
+                  "files": [
+                    {
+                      "id": "10YxWnUWDxDOgB0oqBCFvNy134pfvqSMe",
+                      "name": "gioi-tu-va-cum-gioi-tu-ly-thuyet-buoi-3.pdf",
+                      "mimeType": "application/pdf",
+                      "size": 7463206,
+                      "webViewLink": "https://drive.google.com/file/d/10YxWnUWDxDOgB0oqBCFvNy134pfvqSMe/view?usp=drivesdk",
+                      "modifiedTime": "2026-05-14T10:58:24.433Z",
+                      "videoMediaMetadata": null
+                    },
+                    {
+                      "id": "1JCRrI7IDyEVM86ZeZ_zjiBqHX6w37Fo0",
+                      "name": "Giới từ và Cụm giới từ (Lý thuyết - Buổi 3).mp4",
+                      "mimeType": "video/mp4",
+                      "size": 257839405,
+                      "webViewLink": "https://drive.google.com/file/d/1JCRrI7IDyEVM86ZeZ_zjiBqHX6w37Fo0/view?usp=drivesdk",
+                      "modifiedTime": "2026-05-14T10:58:23.015Z",
+                      "videoMediaMetadata": null
+                    }
+                  ]
+                },
+                {
+                  "id": "1CrLlxbKW1ySYqvmjxGF4XH1eG3ZCn6-o",
+                  "name": "10. Thi Online Bài tập Ứng dụng - Giới từ và Cụm giới từ (Đề số 01)",
+                  "webViewLink": "https://drive.google.com/drive/folders/1CrLlxbKW1ySYqvmjxGF4XH1eG3ZCn6-o",
+                  "modifiedTime": "2026-05-14T10:58:16.876Z",
+                  "children": [],
+                  "files": [
+                    {
+                      "id": "1gHE_jv6KQaNR2fr4sHZn6SIpgfsC-slV",
+                      "name": "co-vu-mai-phuong-thi-online-gioi-tu-va-cum-gioi-tu-buoi-01.pdf",
+                      "mimeType": "application/pdf",
+                      "size": 3654032,
+                      "webViewLink": "https://drive.google.com/file/d/1gHE_jv6KQaNR2fr4sHZn6SIpgfsC-slV/view?usp=drivesdk",
+                      "modifiedTime": "2026-05-14T10:58:19.682Z",
+                      "videoMediaMetadata": null
+                    },
+                    {
+                      "id": "1iWo0dbZ8GjS3W3zp14B16dOhiM1A06lV",
+                      "name": "DA_Thi Online Bài tập Ứng dụng - Giới từ và Cụm giới từ (Đề số 01).pdf",
+                      "mimeType": "application/pdf",
+                      "size": 6858911,
+                      "webViewLink": "https://drive.google.com/file/d/1iWo0dbZ8GjS3W3zp14B16dOhiM1A06lV/view?usp=drivesdk",
+                      "modifiedTime": "2026-05-14T10:58:18.242Z",
+                      "videoMediaMetadata": null
+                    }
+                  ]
+                },
+                {
+                  "id": "1CdHl7opa0uCyByR91PUTqeANb-QRWSQc",
+                  "name": "11. Giới từ và Cụm giới từ (Bài tập Ứng dụng - Buổi 3)",
+                  "webViewLink": "https://drive.google.com/drive/folders/1CdHl7opa0uCyByR91PUTqeANb-QRWSQc",
+                  "modifiedTime": "2026-05-14T10:58:11.984Z",
+                  "children": [],
+                  "files": [
+                    {
+                      "id": "1S_HmGlA-xYlu66WsyYHSqxj2humOMV4y",
+                      "name": "gioi-tu-va-cum-gioi-tu-bai-tap-ung-dung-buoi-3.pdf",
+                      "mimeType": "application/pdf",
+                      "size": 1688667,
+                      "webViewLink": "https://drive.google.com/file/d/1S_HmGlA-xYlu66WsyYHSqxj2humOMV4y/view?usp=drivesdk",
+                      "modifiedTime": "2026-05-14T10:58:14.865Z",
+                      "videoMediaMetadata": null
+                    },
+                    {
+                      "id": "1rtiEt2Tm_SQ3IYKm7CeupNEle1e0PKPs",
+                      "name": "Giới từ và Cụm giới từ (Bài tập Ứng dụng - Buổi 3).mp4",
+                      "mimeType": "video/mp4",
+                      "size": 102664119,
+                      "webViewLink": "https://drive.google.com/file/d/1rtiEt2Tm_SQ3IYKm7CeupNEle1e0PKPs/view?usp=drivesdk",
+                      "modifiedTime": "2026-05-14T10:58:13.434Z",
+                      "videoMediaMetadata": {
+                        "width": 1280,
+                        "height": 720,
+                        "durationMillis": "774749"
+                      }
+                    }
+                  ]
+                },
+                {
+                  "id": "10phddi8IyGoL5IyAxS_iH57pANmdVAi4",
+                  "name": "12. Thi Online Bài tập Ứng dụng - Giới từ và Cụm giới từ (Đề số 02)",
+                  "webViewLink": "https://drive.google.com/drive/folders/10phddi8IyGoL5IyAxS_iH57pANmdVAi4",
+                  "modifiedTime": "2026-05-14T10:58:07.079Z",
+                  "children": [],
+                  "files": [
+                    {
+                      "id": "123LC18c02zAnNo-htXb8e2VpV2yOgM2B",
+                      "name": "co-vu-mai-phuong-thi-online-gioi-tu-va-cum-gioi-tu-buoi-02.pdf",
+                      "mimeType": "application/pdf",
+                      "size": 3709885,
+                      "webViewLink": "https://drive.google.com/file/d/123LC18c02zAnNo-htXb8e2VpV2yOgM2B/view?usp=drivesdk",
+                      "modifiedTime": "2026-05-14T10:58:09.972Z",
+                      "videoMediaMetadata": null
+                    },
+                    {
+                      "id": "1OAdVDMJzSfXcTlBdcKz7r8wBaRz8EOjo",
+                      "name": "DA_Thi Online Bài tập Ứng dụng - Giới từ và Cụm giới từ (Đề số 02).pdf",
+                      "mimeType": "application/pdf",
+                      "size": 6785269,
+                      "webViewLink": "https://drive.google.com/file/d/1OAdVDMJzSfXcTlBdcKz7r8wBaRz8EOjo/view?usp=drivesdk",
+                      "modifiedTime": "2026-05-14T10:58:08.485Z",
+                      "videoMediaMetadata": null
+                    }
+                  ]
+                },
+                {
+                  "id": "1vUja7yK8BbEITMMyo25y6Gl6QlYty1X0",
+                  "name": "13. Giới từ và Cụm giới từ (Lý thuyết - Buổi 4)",
+                  "webViewLink": "https://drive.google.com/drive/folders/1vUja7yK8BbEITMMyo25y6Gl6QlYty1X0",
+                  "modifiedTime": "2026-05-14T10:58:02.122Z",
+                  "children": [],
+                  "files": [
+                    {
+                      "id": "1msAAacKh8QulhqcWHDVWJAezkv9ek87C",
+                      "name": "gioi-tu-va-cum-gioi-tu-ly-thuyet-buoi-4.pdf",
+                      "mimeType": "application/pdf",
+                      "size": 2753034,
+                      "webViewLink": "https://drive.google.com/file/d/1msAAacKh8QulhqcWHDVWJAezkv9ek87C/view?usp=drivesdk",
+                      "modifiedTime": "2026-05-14T10:58:04.939Z",
+                      "videoMediaMetadata": null
+                    },
+                    {
+                      "id": "1KVZky2w6BgluGSV0dq8a6klybqN7X98p",
+                      "name": "Giới từ và Cụm giới từ (Lý thuyết - Buổi 4).mp4",
+                      "mimeType": "video/mp4",
+                      "size": 131991214,
+                      "webViewLink": "https://drive.google.com/file/d/1KVZky2w6BgluGSV0dq8a6klybqN7X98p/view?usp=drivesdk",
+                      "modifiedTime": "2026-05-14T10:58:03.533Z",
+                      "videoMediaMetadata": {
+                        "width": 1280,
+                        "height": 720,
+                        "durationMillis": "959041"
+                      }
+                    }
+                  ]
+                },
+                {
+                  "id": "1FH4YZ54vS81P1lFZUZ0MfQn9rsFoR3JD",
+                  "name": "14. Thi Online Bài tập Ứng dụng - Giới từ và Cụm giới từ (Đề số 03)",
+                  "webViewLink": "https://drive.google.com/drive/folders/1FH4YZ54vS81P1lFZUZ0MfQn9rsFoR3JD",
+                  "modifiedTime": "2026-05-14T10:57:57.208Z",
+                  "children": [],
+                  "files": [
+                    {
+                      "id": "19IM14nl_RYDObEOWV4BI_4385d8CkHdu",
+                      "name": "co-vu-mai-phuong-thi-online-gioi-tu-va-cum-gioi-tu-buoi-03.pdf",
+                      "mimeType": "application/pdf",
+                      "size": 3249674,
+                      "webViewLink": "https://drive.google.com/file/d/19IM14nl_RYDObEOWV4BI_4385d8CkHdu/view?usp=drivesdk",
+                      "modifiedTime": "2026-05-14T10:58:00.106Z",
+                      "videoMediaMetadata": null
+                    },
+                    {
+                      "id": "1XchOe03NlzJa1pQTaR-Yro8Y4hSEAiXQ",
+                      "name": "DA_Thi Online Bài tập Ứng dụng - Giới từ và Cụm giới từ (Đề số 03).pdf",
+                      "mimeType": "application/pdf",
+                      "size": 6700398,
+                      "webViewLink": "https://drive.google.com/file/d/1XchOe03NlzJa1pQTaR-Yro8Y4hSEAiXQ/view?usp=drivesdk",
+                      "modifiedTime": "2026-05-14T10:57:58.572Z",
+                      "videoMediaMetadata": null
+                    }
+                  ]
+                },
+                {
+                  "id": "19USFRTbJxSb3CiDXugtCBNCZ7_xv7E6K",
+                  "name": "15. Giới từ và Cụm giới từ (Bài tập Ứng dụng - Buổi 4)",
+                  "webViewLink": "https://drive.google.com/drive/folders/19USFRTbJxSb3CiDXugtCBNCZ7_xv7E6K",
+                  "modifiedTime": "2026-05-14T10:57:51.024Z",
+                  "children": [],
+                  "files": [
+                    {
+                      "id": "1OB5e3GEZNsStgKx18rJqKdfuUehRQT43",
+                      "name": "gioi-tu-va-cum-gioi-tu-bai-tap-ung-dung-buoi-4.pdf",
+                      "mimeType": "application/pdf",
+                      "size": 1734283,
+                      "webViewLink": "https://drive.google.com/file/d/1OB5e3GEZNsStgKx18rJqKdfuUehRQT43/view?usp=drivesdk",
+                      "modifiedTime": "2026-05-14T10:57:54.009Z",
+                      "videoMediaMetadata": null
+                    },
+                    {
+                      "id": "1l3LIR0hO3yret9PkvDAYOiV7gGpyezi6",
+                      "name": "Giới từ và Cụm giới từ (Bài tập Ứng dụng - Buổi 4).mp4",
+                      "mimeType": "video/mp4",
+                      "size": 102484851,
+                      "webViewLink": "https://drive.google.com/file/d/1l3LIR0hO3yret9PkvDAYOiV7gGpyezi6/view?usp=drivesdk",
+                      "modifiedTime": "2026-05-14T10:57:52.480Z",
+                      "videoMediaMetadata": {
+                        "width": 1280,
+                        "height": 720,
+                        "durationMillis": "771124"
+                      }
+                    }
+                  ]
+                },
+                {
+                  "id": "1wE6r2aDiWgYnQVH0m4lvPZuVrVHuYpie",
+                  "name": "16. Thi Online Bài tập Ứng dụng - Giới từ và Cụm giới từ (Đề số 04)",
+                  "webViewLink": "https://drive.google.com/drive/folders/1wE6r2aDiWgYnQVH0m4lvPZuVrVHuYpie",
+                  "modifiedTime": "2026-05-14T10:57:46.047Z",
+                  "children": [],
+                  "files": [
+                    {
+                      "id": "15330bxYw1ogNmHWPnRAPd5Q6LOHLYw0c",
+                      "name": "6-co-vu-mai-phuong-thi-online-gioi-tu-va-cum-gioi-tu-buoi-04.pdf",
+                      "mimeType": "application/pdf",
+                      "size": 3764618,
+                      "webViewLink": "https://drive.google.com/file/d/15330bxYw1ogNmHWPnRAPd5Q6LOHLYw0c/view?usp=drivesdk",
+                      "modifiedTime": "2026-05-14T10:57:48.935Z",
+                      "videoMediaMetadata": null
+                    },
+                    {
+                      "id": "1CegBSN4kAudYlfZvPQ_8KP-tc753UPrn",
+                      "name": "DA_Thi Online Bài tập Ứng dụng - Giới từ và Cụm giới từ (Đề số 04).pdf",
+                      "mimeType": "application/pdf",
+                      "size": 6718924,
+                      "webViewLink": "https://drive.google.com/file/d/1CegBSN4kAudYlfZvPQ_8KP-tc753UPrn/view?usp=drivesdk",
+                      "modifiedTime": "2026-05-14T10:57:47.425Z",
+                      "videoMediaMetadata": null
+                    }
+                  ]
+                }
+              ],
+              "files": []
+            },
+            {
+              "id": "11JeShPMJucYDTf7oV26lzIcDRRLPw7ya",
+              "name": "07. CHUYÊN ĐỀ 7  CỤM ĐỘNG TỪ",
+              "webViewLink": "https://drive.google.com/drive/folders/11JeShPMJucYDTf7oV26lzIcDRRLPw7ya",
+              "modifiedTime": "2026-05-14T10:56:15.358Z",
+              "children": [
+                {
+                  "id": "1Kr9qAayPS22hhiA8C90NNnQzizdSzVQH",
+                  "name": "01. Cụm động từ (Lý thuyết - Buổi 1)",
+                  "webViewLink": "https://drive.google.com/drive/folders/1Kr9qAayPS22hhiA8C90NNnQzizdSzVQH",
+                  "modifiedTime": "2026-05-14T10:57:38.752Z",
+                  "children": [],
+                  "files": [
+                    {
+                      "id": "1kBiA9l-hlJIUb1mjqFgNVvJhJBEjslk5",
+                      "name": "cum-dong-tu-ly-thuyet-buoi-1.pdf",
+                      "mimeType": "application/pdf",
+                      "size": 4678317,
+                      "webViewLink": "https://drive.google.com/file/d/1kBiA9l-hlJIUb1mjqFgNVvJhJBEjslk5/view?usp=drivesdk",
+                      "modifiedTime": "2026-05-14T10:57:41.749Z",
+                      "videoMediaMetadata": null
+                    },
+                    {
+                      "id": "1TiQB046hYlli7IHo6te7lBCnhYnsU6UT",
+                      "name": "Cụm động từ (Lý thuyết - Buổi 1).mp4",
+                      "mimeType": "video/mp4",
+                      "size": 224061782,
+                      "webViewLink": "https://drive.google.com/file/d/1TiQB046hYlli7IHo6te7lBCnhYnsU6UT/view?usp=drivesdk",
+                      "modifiedTime": "2026-05-14T10:57:40.233Z",
+                      "videoMediaMetadata": {
+                        "width": 1280,
+                        "height": 720,
+                        "durationMillis": "1611666"
+                      }
+                    }
+                  ]
+                },
+                {
+                  "id": "1N0axfWDSBk5sULr0ldnKFwupsa0lNcun",
+                  "name": "02. Thi online Lý thuyết - Cụm động từ (Đề số 1)",
+                  "webViewLink": "https://drive.google.com/drive/folders/1N0axfWDSBk5sULr0ldnKFwupsa0lNcun",
+                  "modifiedTime": "2026-05-14T10:57:33.935Z",
+                  "children": [],
+                  "files": [
+                    {
+                      "id": "15czC_4VpxZc4RG1iDGplCXIypkm-cDVa",
+                      "name": "co-vu-mai-phuong-thi-online-ly-thuyet-cum-dong-tu-de-so-1.pdf",
+                      "mimeType": "application/pdf",
+                      "size": 3906953,
+                      "webViewLink": "https://drive.google.com/file/d/15czC_4VpxZc4RG1iDGplCXIypkm-cDVa/view?usp=drivesdk",
+                      "modifiedTime": "2026-05-14T10:57:36.732Z",
+                      "videoMediaMetadata": null
+                    },
+                    {
+                      "id": "1hcgsTp6wj8ptNcpR5jgP9dFHn2CkBNFp",
+                      "name": "DA_Thi online Lý thuyết - Cụm động từ (Đề số 1).pdf",
+                      "mimeType": "application/pdf",
+                      "size": 7657005,
+                      "webViewLink": "https://drive.google.com/file/d/1hcgsTp6wj8ptNcpR5jgP9dFHn2CkBNFp/view?usp=drivesdk",
+                      "modifiedTime": "2026-05-14T10:57:35.366Z",
+                      "videoMediaMetadata": null
+                    }
+                  ]
+                },
+                {
+                  "id": "1Fjaw-FRNW5JfObCUcOjJ8Q3fn0d8rCD3",
+                  "name": "03. Cụm động từ (Lý thuyết - Buổi 2)",
+                  "webViewLink": "https://drive.google.com/drive/folders/1Fjaw-FRNW5JfObCUcOjJ8Q3fn0d8rCD3",
+                  "modifiedTime": "2026-05-14T10:57:28.880Z",
+                  "children": [],
+                  "files": [
+                    {
+                      "id": "1LScCf_HGX_UbdeKP2TMrd6U0mmwxtiyW",
+                      "name": "cum-dong-tu-ly-thuyet-buoi-2.pdf",
+                      "mimeType": "application/pdf",
+                      "size": 5241380,
+                      "webViewLink": "https://drive.google.com/file/d/1LScCf_HGX_UbdeKP2TMrd6U0mmwxtiyW/view?usp=drivesdk",
+                      "modifiedTime": "2026-05-14T10:57:31.805Z",
+                      "videoMediaMetadata": null
+                    },
+                    {
+                      "id": "1pzavfsoLYRSCsVcOjTPSEzTBSDLe66jv",
+                      "name": "Cụm động từ (Lý thuyết - Buổi 2).mp4",
+                      "mimeType": "video/mp4",
+                      "size": 244700009,
+                      "webViewLink": "https://drive.google.com/file/d/1pzavfsoLYRSCsVcOjTPSEzTBSDLe66jv/view?usp=drivesdk",
+                      "modifiedTime": "2026-05-14T10:57:30.233Z",
+                      "videoMediaMetadata": null
+                    }
+                  ]
+                },
+                {
+                  "id": "1nR55Hrsr7CyTBEmBa7lhrxhk6QEzpItu",
+                  "name": "04. Thi online Lý thuyết - Cụm động từ (Đề số 2)",
+                  "webViewLink": "https://drive.google.com/drive/folders/1nR55Hrsr7CyTBEmBa7lhrxhk6QEzpItu",
+                  "modifiedTime": "2026-05-14T10:57:23.794Z",
+                  "children": [],
+                  "files": [
+                    {
+                      "id": "1zFgasKBcL9ZNiNyq4jZj77GS1HJ7nHfc",
+                      "name": "co-vu-mai-phuong-thi-online-ly-thuyet-cum-dong-tu-de-so-2.pdf",
+                      "mimeType": "application/pdf",
+                      "size": 3826095,
+                      "webViewLink": "https://drive.google.com/file/d/1zFgasKBcL9ZNiNyq4jZj77GS1HJ7nHfc/view?usp=drivesdk",
+                      "modifiedTime": "2026-05-14T10:57:26.790Z",
+                      "videoMediaMetadata": null
+                    },
+                    {
+                      "id": "1Lcl9sftO6boq5QarKGONhzEp56qXb2hM",
+                      "name": "DA_Thi online Lý thuyết - Cụm động từ (Đề số 2).pdf",
+                      "mimeType": "application/pdf",
+                      "size": 7708870,
+                      "webViewLink": "https://drive.google.com/file/d/1Lcl9sftO6boq5QarKGONhzEp56qXb2hM/view?usp=drivesdk",
+                      "modifiedTime": "2026-05-14T10:57:25.408Z",
+                      "videoMediaMetadata": null
+                    }
+                  ]
+                },
+                {
+                  "id": "1tJX3ibPz8CfvQa1TzYTW2aZRNM5V6Ha8",
+                  "name": "05. Cụm động từ (Lý thuyết - Buổi 3)",
+                  "webViewLink": "https://drive.google.com/drive/folders/1tJX3ibPz8CfvQa1TzYTW2aZRNM5V6Ha8",
+                  "modifiedTime": "2026-05-14T10:57:14.669Z",
+                  "children": [],
+                  "files": [
+                    {
+                      "id": "1ro9wFEOgw5h0GZNsRH8hHIlFxJ1ZVg96",
+                      "name": "cum-dong-tu-ly-thuyet-buoi-3.pdf",
+                      "mimeType": "application/pdf",
+                      "size": 4526627,
+                      "webViewLink": "https://drive.google.com/file/d/1ro9wFEOgw5h0GZNsRH8hHIlFxJ1ZVg96/view?usp=drivesdk",
+                      "modifiedTime": "2026-05-14T10:57:21.857Z",
+                      "videoMediaMetadata": null
+                    },
+                    {
+                      "id": "1awZw5kxaPrVcrp0LOMBz3lfo9gZTdCbS",
+                      "name": "Cụm động từ (Lý thuyết - Buổi 3).mp4",
+                      "mimeType": "video/mp4",
+                      "size": 202360275,
+                      "webViewLink": "https://drive.google.com/file/d/1awZw5kxaPrVcrp0LOMBz3lfo9gZTdCbS/view?usp=drivesdk",
+                      "modifiedTime": "2026-05-14T10:57:20.488Z",
+                      "videoMediaMetadata": null
+                    }
+                  ]
+                },
+                {
+                  "id": "1C37F_-iIJGjCOqXbsE34rV3vMCP4Ty-k",
+                  "name": "06. Thi online Lý thuyết - Cụm động từ (Đề số 3)",
+                  "webViewLink": "https://drive.google.com/drive/folders/1C37F_-iIJGjCOqXbsE34rV3vMCP4Ty-k",
+                  "modifiedTime": "2026-05-14T10:57:09.514Z",
+                  "children": [],
+                  "files": [
+                    {
+                      "id": "1khf2Rqtdswg550YkjzSDlZ-5U3zOIbNY",
+                      "name": "co-vu-mai-phuong-thi-online-ly-thuyet-cum-dong-tu-de-so-3.pdf",
+                      "mimeType": "application/pdf",
+                      "size": 4220315,
+                      "webViewLink": "https://drive.google.com/file/d/1khf2Rqtdswg550YkjzSDlZ-5U3zOIbNY/view?usp=drivesdk",
+                      "modifiedTime": "2026-05-14T10:57:12.389Z",
+                      "videoMediaMetadata": null
+                    },
+                    {
+                      "id": "1T4POS8tjEpfOWansoQg-MaJXJrA-DeKU",
+                      "name": "DA_Thi online Lý thuyết - Cụm động từ (Đề số 3).pdf",
+                      "mimeType": "application/pdf",
+                      "size": 7748368,
+                      "webViewLink": "https://drive.google.com/file/d/1T4POS8tjEpfOWansoQg-MaJXJrA-DeKU/view?usp=drivesdk",
+                      "modifiedTime": "2026-05-14T10:57:10.914Z",
+                      "videoMediaMetadata": null
+                    }
+                  ]
+                },
+                {
+                  "id": "1W9zGiDlpTa-r6hScLA5HlWjUAn0Mq6uF",
+                  "name": "07. Cụm động từ (Lý thuyết - Buổi 4)",
+                  "webViewLink": "https://drive.google.com/drive/folders/1W9zGiDlpTa-r6hScLA5HlWjUAn0Mq6uF",
+                  "modifiedTime": "2026-05-14T10:57:04.482Z",
+                  "children": [],
+                  "files": [
+                    {
+                      "id": "16pLxbkScGYFMd_dKcaUCiO_KzUFtZypl",
+                      "name": "cum-dong-tu-ly-thuyet-buoi-4.pdf",
+                      "mimeType": "application/pdf",
+                      "size": 4543162,
+                      "webViewLink": "https://drive.google.com/file/d/16pLxbkScGYFMd_dKcaUCiO_KzUFtZypl/view?usp=drivesdk",
+                      "modifiedTime": "2026-05-14T10:57:07.413Z",
+                      "videoMediaMetadata": null
+                    },
+                    {
+                      "id": "1b5BBNmytZgQwqAen7BCHnpom3eYxpbHX",
+                      "name": "Cụm động từ (Lý thuyết - Buổi 4).mp4",
+                      "mimeType": "video/mp4",
+                      "size": 208066072,
+                      "webViewLink": "https://drive.google.com/file/d/1b5BBNmytZgQwqAen7BCHnpom3eYxpbHX/view?usp=drivesdk",
+                      "modifiedTime": "2026-05-14T10:57:05.935Z",
+                      "videoMediaMetadata": {
+                        "width": 1280,
+                        "height": 720,
+                        "durationMillis": "1496416"
+                      }
+                    }
+                  ]
+                },
+                {
+                  "id": "1BPObSvjKNj9m7wWLmsViI9UQv47bKCC8",
+                  "name": "08. Thi online Lý thuyết - Cụm động từ (Đề số 4)",
+                  "webViewLink": "https://drive.google.com/drive/folders/1BPObSvjKNj9m7wWLmsViI9UQv47bKCC8",
+                  "modifiedTime": "2026-05-14T10:56:59.486Z",
+                  "children": [],
+                  "files": [
+                    {
+                      "id": "16Ldgha6GxBsK0DSQ1p9ZgK3WXZfvDI9Q",
+                      "name": "co-vu-mai-phuong-thi-online-ly-thuyet-cum-dong-tu-de-so-4.pdf",
+                      "mimeType": "application/pdf",
+                      "size": 3935307,
+                      "webViewLink": "https://drive.google.com/file/d/16Ldgha6GxBsK0DSQ1p9ZgK3WXZfvDI9Q/view?usp=drivesdk",
+                      "modifiedTime": "2026-05-14T10:57:02.424Z",
+                      "videoMediaMetadata": null
+                    },
+                    {
+                      "id": "1_lhsawkpTh-c-Z5qGxdtNnQYlceevnRC",
+                      "name": "DA_Thi online Lý thuyết - Cụm động từ (Đề số 4).pdf",
+                      "mimeType": "application/pdf",
+                      "size": 7931959,
+                      "webViewLink": "https://drive.google.com/file/d/1_lhsawkpTh-c-Z5qGxdtNnQYlceevnRC/view?usp=drivesdk",
+                      "modifiedTime": "2026-05-14T10:57:00.939Z",
+                      "videoMediaMetadata": null
+                    }
+                  ]
+                },
+                {
+                  "id": "1p7fYNDmtE_oev5eXiyeaiivuGxqDK4hs",
+                  "name": "09. Cụm động từ (Bài tập Ứng dụng - Buổi 1)",
+                  "webViewLink": "https://drive.google.com/drive/folders/1p7fYNDmtE_oev5eXiyeaiivuGxqDK4hs",
+                  "modifiedTime": "2026-05-14T10:56:54.241Z",
+                  "children": [],
+                  "files": [
+                    {
+                      "id": "1uObTLR1T7IUqpoQTCts_OJGlv8Kb76sr",
+                      "name": "cum-dong-tu-bai-tap-ung-dung-buoi-1.pdf",
+                      "mimeType": "application/pdf",
+                      "size": 1753325,
+                      "webViewLink": "https://drive.google.com/file/d/1uObTLR1T7IUqpoQTCts_OJGlv8Kb76sr/view?usp=drivesdk",
+                      "modifiedTime": "2026-05-14T10:56:57.200Z",
+                      "videoMediaMetadata": null
+                    },
+                    {
+                      "id": "1AsWcuXuQmu5UULeBIz8K6bKWNaPm__6r",
+                      "name": "Cụm động từ (Bài tập Ứng dụng - Buổi 1).mp4",
+                      "mimeType": "video/mp4",
+                      "size": 114768075,
+                      "webViewLink": "https://drive.google.com/file/d/1AsWcuXuQmu5UULeBIz8K6bKWNaPm__6r/view?usp=drivesdk",
+                      "modifiedTime": "2026-05-14T10:56:55.655Z",
+                      "videoMediaMetadata": {
+                        "width": 1280,
+                        "height": 720,
+                        "durationMillis": "854291"
+                      }
+                    }
+                  ]
+                },
+                {
+                  "id": "1DTAXo2X8Lq8enfJ0KrNBFgaacQ0WTnvA",
+                  "name": "10. Thi Online Bài tập Ứng dụng- Cụm động từ (Đề số 01)",
+                  "webViewLink": "https://drive.google.com/drive/folders/1DTAXo2X8Lq8enfJ0KrNBFgaacQ0WTnvA",
+                  "modifiedTime": "2026-05-14T10:56:48.990Z",
+                  "children": [],
+                  "files": [
+                    {
+                      "id": "1pp73DqKac2rjU8Yyz-RkQ4b6pqJFm7CU",
+                      "name": "co-vu-mai-phuong-thi-online-tong-hop-cum-dong-tu-buoi-1.pdf",
+                      "mimeType": "application/pdf",
+                      "size": 4536219,
+                      "webViewLink": "https://drive.google.com/file/d/1pp73DqKac2rjU8Yyz-RkQ4b6pqJFm7CU/view?usp=drivesdk",
+                      "modifiedTime": "2026-05-14T10:56:52.177Z",
+                      "videoMediaMetadata": null
+                    },
+                    {
+                      "id": "1BEk69srzjZu8JjL-iAnK4FmlmbVB5Zxi",
+                      "name": "DA_Thi Online Bài tập Ứng dụng- Cụm động từ (Đề số 01).pdf",
+                      "mimeType": "application/pdf",
+                      "size": 7485135,
+                      "webViewLink": "https://drive.google.com/file/d/1BEk69srzjZu8JjL-iAnK4FmlmbVB5Zxi/view?usp=drivesdk",
+                      "modifiedTime": "2026-05-14T10:56:50.429Z",
+                      "videoMediaMetadata": null
+                    }
+                  ]
+                },
+                {
+                  "id": "1SBfDzQmm5e1lBYKZxJSrzNCrvJghMrGP",
+                  "name": "11. Cụm động từ (Bài tập Ứng dụng - Buổi 2)",
+                  "webViewLink": "https://drive.google.com/drive/folders/1SBfDzQmm5e1lBYKZxJSrzNCrvJghMrGP",
+                  "modifiedTime": "2026-05-14T10:56:42.509Z",
+                  "children": [],
+                  "files": [
+                    {
+                      "id": "1oo7cwcf0CJairiDwbw9trCQxeIgdJ7pP",
+                      "name": "cum-dong-tu-bai-tap-ung-dung-buoi-2.pdf",
+                      "mimeType": "application/pdf",
+                      "size": 1684441,
+                      "webViewLink": "https://drive.google.com/file/d/1oo7cwcf0CJairiDwbw9trCQxeIgdJ7pP/view?usp=drivesdk",
+                      "modifiedTime": "2026-05-14T10:56:47.043Z",
+                      "videoMediaMetadata": null
+                    },
+                    {
+                      "id": "1BcLOlVWK0VZMCGfkZyyaFLnEiR0FMton",
+                      "name": "Cụm động từ (Bài tập Ứng dụng - Buổi 2).mp4",
+                      "mimeType": "video/mp4",
+                      "size": 103232398,
+                      "webViewLink": "https://drive.google.com/file/d/1BcLOlVWK0VZMCGfkZyyaFLnEiR0FMton/view?usp=drivesdk",
+                      "modifiedTime": "2026-05-14T10:56:44.176Z",
+                      "videoMediaMetadata": null
+                    }
+                  ]
+                },
+                {
+                  "id": "1fW4FOQ3Uru_Z2rYB3cpYJkL-KoS_I3Ix",
+                  "name": "12. Thi Online Bài tập Ứng dụng- Cụm động từ (Đề số 02)",
+                  "webViewLink": "https://drive.google.com/drive/folders/1fW4FOQ3Uru_Z2rYB3cpYJkL-KoS_I3Ix",
+                  "modifiedTime": "2026-05-14T10:56:37.605Z",
+                  "children": [],
+                  "files": [
+                    {
+                      "id": "1eD5IualHBiBGtQNFE6xXUwvrTGh2DBmX",
+                      "name": "co-vu-mai-phuong-thi-online-tong-hop-cum-dong-tu-buoi-2.pdf",
+                      "mimeType": "application/pdf",
+                      "size": 4632356,
+                      "webViewLink": "https://drive.google.com/file/d/1eD5IualHBiBGtQNFE6xXUwvrTGh2DBmX/view?usp=drivesdk",
+                      "modifiedTime": "2026-05-14T10:56:40.504Z",
+                      "videoMediaMetadata": null
+                    },
+                    {
+                      "id": "16iwPalt3jRRMjQwxKkcw6I-PI3HghpKe",
+                      "name": "DA_Thi Online Bài tập Ứng dụng- Cụm động từ (Đề số 02).pdf",
+                      "mimeType": "application/pdf",
+                      "size": 7770427,
+                      "webViewLink": "https://drive.google.com/file/d/16iwPalt3jRRMjQwxKkcw6I-PI3HghpKe/view?usp=drivesdk",
+                      "modifiedTime": "2026-05-14T10:56:39.063Z",
+                      "videoMediaMetadata": null
+                    }
+                  ]
+                },
+                {
+                  "id": "1Md40MAKSUCmqurAB8yVL37gmXD3rPhrU",
+                  "name": "13. Cụm động từ (Bài tập Ứng dụng - Buổi 3)",
+                  "webViewLink": "https://drive.google.com/drive/folders/1Md40MAKSUCmqurAB8yVL37gmXD3rPhrU",
+                  "modifiedTime": "2026-05-14T10:56:32.518Z",
+                  "children": [],
+                  "files": [
+                    {
+                      "id": "1Mk_zKE8j7QE1FnWf81DyZFAdUaniIXdY",
+                      "name": "cum-dong-tu-bai-tap-ung-dung-buoi-3.pdf",
+                      "mimeType": "application/pdf",
+                      "size": 1712105,
+                      "webViewLink": "https://drive.google.com/file/d/1Mk_zKE8j7QE1FnWf81DyZFAdUaniIXdY/view?usp=drivesdk",
+                      "modifiedTime": "2026-05-14T10:56:35.595Z",
+                      "videoMediaMetadata": null
+                    },
+                    {
+                      "id": "1CvLb_h_FExJrsR3d22hJwVLH63Ws5jRp",
+                      "name": "Cụm động từ (Bài tập Ứng dụng - Buổi 3).mp4",
+                      "mimeType": "video/mp4",
+                      "size": 105158510,
+                      "webViewLink": "https://drive.google.com/file/d/1CvLb_h_FExJrsR3d22hJwVLH63Ws5jRp/view?usp=drivesdk",
+                      "modifiedTime": "2026-05-14T10:56:34.064Z",
+                      "videoMediaMetadata": {
+                        "width": 1280,
+                        "height": 720,
+                        "durationMillis": "787708"
+                      }
+                    }
+                  ]
+                },
+                {
+                  "id": "1DCnNZ9DyVYwsSQEn7CmkGViOVM4Z1ogN",
+                  "name": "14. Thi Online Bài tập Ứng dụng- Cụm động từ (Đề số 03)",
+                  "webViewLink": "https://drive.google.com/drive/folders/1DCnNZ9DyVYwsSQEn7CmkGViOVM4Z1ogN",
+                  "modifiedTime": "2026-05-14T10:56:27.708Z",
+                  "children": [],
+                  "files": [
+                    {
+                      "id": "1z5KODsBAi3wQOmT77WnYf0ChvGEISfSc",
+                      "name": "co-vu-mai-phuong-thi-online-tong-hop-cum-dong-tu-buoi-3.pdf",
+                      "mimeType": "application/pdf",
+                      "size": 4954221,
+                      "webViewLink": "https://drive.google.com/file/d/1z5KODsBAi3wQOmT77WnYf0ChvGEISfSc/view?usp=drivesdk",
+                      "modifiedTime": "2026-05-14T10:56:30.614Z",
+                      "videoMediaMetadata": null
+                    },
+                    {
+                      "id": "1IhNt6fsepEwqziLxnjT7eA0WF_pQiHLY",
+                      "name": "DA_Thi Online Bài tập Ứng dụng- Cụm động từ (Đề số 03).pdf",
+                      "mimeType": "application/pdf",
+                      "size": 7984080,
+                      "webViewLink": "https://drive.google.com/file/d/1IhNt6fsepEwqziLxnjT7eA0WF_pQiHLY/view?usp=drivesdk",
+                      "modifiedTime": "2026-05-14T10:56:29.266Z",
+                      "videoMediaMetadata": null
+                    }
+                  ]
+                },
+                {
+                  "id": "144VEpbuTASAsdOWuUw0nei11ZpNiSzgP",
+                  "name": "15. Cụm động từ (Bài tập Ứng dụng - Buổi 4)",
+                  "webViewLink": "https://drive.google.com/drive/folders/144VEpbuTASAsdOWuUw0nei11ZpNiSzgP",
+                  "modifiedTime": "2026-05-14T10:56:22.751Z",
+                  "children": [],
+                  "files": [
+                    {
+                      "id": "1ssc_uvBnKBDhipPeLjTI3oV_gF54B-Er",
+                      "name": "cum-dong-tu-bai-tap-ung-dung-buoi-4.pdf",
+                      "mimeType": "application/pdf",
+                      "size": 1725756,
+                      "webViewLink": "https://drive.google.com/file/d/1ssc_uvBnKBDhipPeLjTI3oV_gF54B-Er/view?usp=drivesdk",
+                      "modifiedTime": "2026-05-14T10:56:25.651Z",
+                      "videoMediaMetadata": null
+                    },
+                    {
+                      "id": "1h61OLPb5Dign1GkrruAOzEVZ-yGIMnfO",
+                      "name": "Cụm động từ (Bài tập Ứng dụng - Buổi 4).mp4",
+                      "mimeType": "video/mp4",
+                      "size": 109133508,
+                      "webViewLink": "https://drive.google.com/file/d/1h61OLPb5Dign1GkrruAOzEVZ-yGIMnfO/view?usp=drivesdk",
+                      "modifiedTime": "2026-05-14T10:56:24.196Z",
+                      "videoMediaMetadata": null
+                    }
+                  ]
+                },
+                {
+                  "id": "1kf8y6VgK7_XvfoO9LbdmNjUT7rgtUVYr",
+                  "name": "16. Thi Online Bài tập Ứng dụng- Cụm động từ (Đề số 04)",
+                  "webViewLink": "https://drive.google.com/drive/folders/1kf8y6VgK7_XvfoO9LbdmNjUT7rgtUVYr",
+                  "modifiedTime": "2026-05-14T10:56:17.622Z",
+                  "children": [],
+                  "files": [
+                    {
+                      "id": "1catIdIs0pl7ghUMlaZbZh78p9SBzRDDd",
+                      "name": "co-vu-mai-phuong-thi-online-tong-hop-cum-dong-tu-buoi-4.pdf",
+                      "mimeType": "application/pdf",
+                      "size": 4148909,
+                      "webViewLink": "https://drive.google.com/file/d/1catIdIs0pl7ghUMlaZbZh78p9SBzRDDd/view?usp=drivesdk",
+                      "modifiedTime": "2026-05-14T10:56:20.515Z",
+                      "videoMediaMetadata": null
+                    },
+                    {
+                      "id": "1xma9iF1X5kLwYzsdKfvFuovQMy4pENcH",
+                      "name": "DA_Thi Online Bài tập Ứng dụng- Cụm động từ (Đề số 04).pdf",
+                      "mimeType": "application/pdf",
+                      "size": 7754406,
+                      "webViewLink": "https://drive.google.com/file/d/1xma9iF1X5kLwYzsdKfvFuovQMy4pENcH/view?usp=drivesdk",
+                      "modifiedTime": "2026-05-14T10:56:19.104Z",
+                      "videoMediaMetadata": null
+                    }
+                  ]
+                }
+              ],
+              "files": []
+            }
+          ],
+          "files": []
+        },
+        {
+          "id": "1NK0dp8zODx4mhxkUKX0vVOF63hVLX5pR",
+          "name": "2. NỀN TẢNG TỪ VỰNG - ĐỌC HIỂU (2027)",
+          "webViewLink": "https://drive.google.com/drive/folders/1NK0dp8zODx4mhxkUKX0vVOF63hVLX5pR",
+          "modifiedTime": "2026-04-18T14:18:37.464Z",
+          "children": [],
+          "files": []
+        },
+        {
+          "id": "18BFZDFvsP1NloTpS5TeJTyqXBbtw4jjc",
+          "name": "3. ÔN LUYỆN CÁC DẠNG CÂU HỎI TRONG ĐỀ THI (2027)",
+          "webViewLink": "https://drive.google.com/drive/folders/18BFZDFvsP1NloTpS5TeJTyqXBbtw4jjc",
+          "modifiedTime": "2026-04-18T14:18:36.518Z",
+          "children": [],
+          "files": []
+        },
+        {
+          "id": "1wC6cCg3KRVGlY-HCLqQ8oKvqQSP5fo8T",
+          "name": "4. LUYỆN GIẢI ĐỀ THI THPT 2027 (MỨC ĐỘ 8+)",
+          "webViewLink": "https://drive.google.com/drive/folders/1wC6cCg3KRVGlY-HCLqQ8oKvqQSP5fo8T",
+          "modifiedTime": "2026-04-18T14:18:35.440Z",
+          "children": [],
+          "files": []
+        },
+        {
+          "id": "1fuAynjPqg37PmTCb1UirmP_UmN7mCrek",
+          "name": "5. VIP 90 ÔN LÀ TRÚNG TỦ (2027) - Livestream luyện đề",
+          "webViewLink": "https://drive.google.com/drive/folders/1fuAynjPqg37PmTCb1UirmP_UmN7mCrek",
+          "modifiedTime": "2026-04-18T14:18:34.531Z",
+          "children": [],
+          "files": []
+        },
+        {
+          "id": "1UAVzFoHiY58vK9CPNLUaDB4UtnqMqR8F",
+          "name": "6. ANH VĂN 10-11-12 CƠ BẢN VÀ MỞ RỘNG (2027)",
+          "webViewLink": "https://drive.google.com/drive/folders/1UAVzFoHiY58vK9CPNLUaDB4UtnqMqR8F",
+          "modifiedTime": "2026-04-18T14:18:33.042Z",
+          "children": [],
+          "files": []
+        }
+      ],
+      "files": [],
+      "webViewLink": "https://drive.google.com/drive/folders/1KOUx_HYXMCkZL6ozcgu4NAFEI2Ubbo1o",
+      "modifiedTime": "2026-04-18T14:18:32.001Z"
+    },
+    {
+      "id": "1kMESJgU1EDtd1DVgNW7DbtCg-kx5MFXD",
+      "name": "2. COMBO PRO3M PLUS 2027 NÂNG CAO MỤC TIÊU 9+",
+      "children": [
+        {
+          "id": "1VF7pXiRkBLpyoIpRRKvQO9FO0kIglFi9",
+          "name": "1. PLUS 1: LUYỆN ĐỌC ĐIỀN VÀ ĐỌC HIỂU CHUYÊN SÂU (2027)",
+          "webViewLink": "https://drive.google.com/drive/folders/1VF7pXiRkBLpyoIpRRKvQO9FO0kIglFi9",
+          "modifiedTime": "2026-04-18T14:18:30.941Z",
+          "children": [],
+          "files": []
+        },
+        {
+          "id": "1r2CSSDLa0eM0O44lvCT_0c-rmt3oEMHx",
+          "name": "2. PLUS 2: CHINH PHỤC CÂU HỎI 10 ĐIỂM (2027)",
+          "webViewLink": "https://drive.google.com/drive/folders/1r2CSSDLa0eM0O44lvCT_0c-rmt3oEMHx",
+          "modifiedTime": "2026-04-18T14:18:30.008Z",
+          "children": [],
+          "files": []
+        },
+        {
+          "id": "1_Rtm42wNbwnL6_m2I-mwC2VVrQV_NPfn",
+          "name": "3. PLUS 3: LUYỆN GIẢI ĐỀ THI THPT 2027 (MỨC ĐỘ 9+)",
+          "webViewLink": "https://drive.google.com/drive/folders/1_Rtm42wNbwnL6_m2I-mwC2VVrQV_NPfn",
+          "modifiedTime": "2026-04-18T14:18:29.084Z",
+          "children": [],
+          "files": []
+        },
+        {
+          "id": "1Fk4XnekQCT9YxC34kTl5GafAh0OH0P_r",
+          "name": "4. PLUS 4: VIP 90 ÔN LÀ TRÚNG TỦ (2027) - Livestream luyện đề",
+          "webViewLink": "https://drive.google.com/drive/folders/1Fk4XnekQCT9YxC34kTl5GafAh0OH0P_r",
+          "modifiedTime": "2026-04-18T14:18:28.061Z",
+          "children": [],
+          "files": []
+        }
+      ],
+      "files": [],
+      "webViewLink": "https://drive.google.com/drive/folders/1kMESJgU1EDtd1DVgNW7DbtCg-kx5MFXD",
+      "modifiedTime": "2026-04-18T14:18:26.816Z"
+    },
+    {
+      "id": "17be112qY4OIe1U_IagkzVsMWIYMNyHDr",
+      "name": "COMBO CẤP TỐC 2027",
+      "children": [],
+      "files": [],
+      "webViewLink": "https://drive.google.com/drive/folders/17be112qY4OIe1U_IagkzVsMWIYMNyHDr",
+      "modifiedTime": "2026-04-18T14:18:22.902Z"
+    },
+    {
+      "id": "1E1ZWYgmaUH3lNGRtedOlSzxRF_KdgWHH",
+      "name": "EZVOCAB ĐỘC QUYỀN: HỌC VÀ GHI NHỚ TỪ VỰNG TRỌNG ĐIỂM CHỦ ĐỘNG (2027) KHOÁ FLASHCARD",
+      "children": [],
+      "files": [],
+      "webViewLink": "https://drive.google.com/drive/folders/1E1ZWYgmaUH3lNGRtedOlSzxRF_KdgWHH",
+      "modifiedTime": "2026-04-18T14:18:23.860Z"
+    },
+    {
+      "id": "14Kg6t68dUFYEsbAZIvDaCzjjm9ohlir1",
+      "name": "LUYỆN THI ĐÁNH GIÁ NĂNG LỰC MÔN TIẾNG ANH (2027)",
+      "children": [],
+      "files": [],
+      "webViewLink": "https://drive.google.com/drive/folders/14Kg6t68dUFYEsbAZIvDaCzjjm9ohlir1",
+      "modifiedTime": "2026-04-18T14:18:24.808Z"
+    },
+    {
+      "id": "1Hx2ySzXdQ2YvtwjjMvKUnLR1_krLOzD3",
+      "name": "NGÂN HÀNG ĐỀ THI TỐT NGHIỆP THPT 2027",
+      "children": [],
+      "files": [],
+      "webViewLink": "https://drive.google.com/drive/folders/1Hx2ySzXdQ2YvtwjjMvKUnLR1_krLOzD3",
+      "modifiedTime": "2026-04-18T14:18:25.761Z"
+    },
+    {
+      "id": "1qcAWuRFvyW6bDDd-28vodlakFQjZny1T",
+      "name": "Z. EBOOK SÁCH KÈM KHOÁ HỌC",
+      "children": [],
+      "files": [],
+      "webViewLink": "https://drive.google.com/drive/folders/1qcAWuRFvyW6bDDd-28vodlakFQjZny1T",
+      "modifiedTime": "2026-04-18T14:18:40.610Z"
+    }
+  ]
+}

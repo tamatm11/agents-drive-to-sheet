@@ -1,0 +1,122 @@
+================================================================================
+                      SHEET SYNC MANIFEST
+                 34 Destination Sheets - All Synchronized
+================================================================================
+
+[01] H-SCA HCM 2K9 PEDA EDU LUYỆN THI ĐGNL SƯ PHẠM TP.HCM 2027
+     Destination: 1EaoiMj2FMgwVWfmbectPj8PDny8_-FhrcGbQz85KjKg ✓
+
+[02] SPT HN1 2K9 PEDA EDU LUYỆN THI ĐGNL SƯ PHẠM HÀ NỘI 1 2027
+     Destination: 18DGr6123CZyzNa25L7OiJIw0DBhqToh-qCUWeZWe970 ✓
+
+[03] 3. ĐỊA LÝ CÔ MAI ANH LỚP HỌC ĐỊA LÝ 2K9
+     Destination: 1e6nSjQ55eWlBdMMARw2s6f1PMjyv7IToPuvIGdYjJU0 ✓
+
+[04] 2. ĐỊA LÝ THẦY TÀI QANDA 2K9
+     Destination: 1yHv1ZOoKAhka5tJURjptQaGmFZ9THgG1jRVFTZyb7r8 ✓
+
+[05] 1. SỬ CÔ NGUYỄN HƯƠNG SEN SANGSANG 2K9
+     Destination: 1WTBZNrS7ky9T4o9_xXPL0QUP-QORuIAW8LQQIBpMurE ✓
+
+[06] 3. SINH THẦY TRƯƠNG CÔNG KIÊN QANDA 2K9
+     Destination: 1YhomhhRhjc2fjOcQcpNt2AZbcIn24Jh7Nce_UZ1QDcY ✓
+
+[07] 2. SINH CÔ TRÀ MY QANDA 2k9
+     Destination: 1UJTB1UWHhQf82Lk2IWMxfVm5T6BYx7mcs9Pq85-iCEM ✓
+
+[08] 1. SINH THẦY PHAN KHẮC NGHỆ MOON 2K9
+     Destination: 1tBwXi0EoH2pRq-Uqz0iZnnkTLAeYUVk-GYjxfEAOne4 ✓
+
+[09] 4. HOÁ CÔ THÂN THỊ LIÊN 2K9
+     Destination: 1W2-d_FQwJvK2uwaG_L-kB4OuDbjH7pi4ce6Ih_Dt_qs ✓
+
+[10] 2. HOÁ THẦY PHẠM VĂN TRỌNG TENS 2K9
+     Destination: 156r8TMBZbV3o459EmMi0UMpnYCQJ2YplXq0eRkDJygA ✓
+
+[11] 3. HOÁ THẦY PHẠM THẮNG TYHH 2K9
+     Destination: 1ruoicttjiHk0dbA__GoAczxBe5kULFf7cPqBiBcOAX8 ✓
+
+[12] 1. HOÁ THẦY NGUYỄN ANH PHONG NAP 2K9
+     Destination: 1Q6K-jWgsZp4-26wXi6DO4m4n14YaENWAxUeuS6cFHmM ✓
+
+[13] 7. LÝ THẦY CHU VĂN BIÊN CHUVANBIEN 2027
+     Destination: 1yMX2PXkUwCF1yer6BcQJYgOzra93iByZeqTWYOFhoOU ✓
+
+[14] 8. LÝ THẦY NGUYỄN ĐĂNG ÁI TDM 2k9
+     Destination: 1P5DzynMwll3psUHCKanf3bbB44rlioX-zTeo0O1UTAI ✓
+
+[15] 6. LÝ THẦY VŨ HOÀNG QUÂN 2K9
+     Destination: 101OxmpPzXXUjNUsdl_ql8Imd0-SMvowIxlO5uxZaMEg ✓
+
+[16] 5. LÝ THẦY LÊ TÙNG ƯNG TENS 2k9
+     Destination: 1pRtnsIth9BvteDaihagaN0EA0Uw7dGRAfwcKxTIxsrc ✓
+
+[17] 4. LÝ THẦY ĐỖ NGỌC HÀ 2K9
+     Destination: 1kvOyeCUUaozB2L0nCldB4XXiIb97UWi6NCQhpyVGdmM ✓
+
+[18] 3. LÝ THẦY THẮNG, THẦY TIẾN IPCLASS 2K9
+     Destination: 1dCHfR-RgX4GVNEA1jfFWSw8awGr1MaQN3YFarC5nvyU ✓
+
+[19] 2. LÝ THẦY VŨ TUẤN ANH SANGSANG 2K9
+     Destination: 19Bhl7SE6-gPIowa9uq075n58KtJPgY3UFVXuySzwLIA ✓
+
+[20] 1. LÝ THẦY VŨ NGỌC ANH MAPSTUDY 2K9
+     Destination: 111HlKrsqyGOdLRVryafvyL_4zqyeAxGylLai_GfIuGg ✓
+
+[21] 3. ANH CÔ PHẠM LIỄU TENS 2K9
+     Destination: 1gBF3LkiVjCQgEZuHu1-aa6BsfooJKLgYfg1k47TjcaE ✓
+
+[22] 2. ANH CÔ TRANG ANH MOON 2K9
+     Destination: 1quXmdPH1SgoTAY5s1jv5A491NdqKWaQt3nYnlwhuVVg ✓
+
+[23] 1. ANH CÔ VŨ MAI PHƯƠNG NGOAINGU24H 2027
+     Destination: 1VxwGntXE6eYRxtZ0EI4JoG1y3_YT8CEeqrbcXo9HIhg ✓
+
+[24] 4. VĂN THẦY PHẠM MINH NHẬT SANGSANG 2K9
+     Destination: 1bJsGpUm473V1GniiONstWS-MIoTSRRiwd-KthsHpZks ✓
+
+[25] 3. VĂN CÔ TRẦN THUỲ DƯƠNG QANDA 2K9
+     Destination: 1QAffLlUQPTQ_2qzYH7Vsp1vggaflc01XUd3hI4ZTbDo ✓
+
+[26] 1. VĂN CÔ SƯƠNG MAI QANDA 2K9
+     Destination: 18IbDEQZIf4QhhKldn-NOXn1IXAhqm8L5bZ_EfuQvZtQ ✓
+
+[27] 9. TOÁN THẦY TRỊNH ĐÌNH THÀNH DPAD 2K9
+     Destination: 1ADNv7vj80tLiX4IVlXOPIcR7yhdtnMqsiNha6v7EhaM ✓
+
+[28] 7. TOÁN ANH GIÁO KID 2K9
+     Destination: 1m-ksBCjxOgCJtW1NMxJMXz0ECshqlqJsLLiuMif_h40 ✓
+
+[29] 6. TOÁN TỔ TOÁN MAPSTUDY 2K9
+     Destination: 1V7WBjb8dnvgtWEZjFprRUIlUt0nGJONeGCjWEn7iXEQ ✓
+
+[30] 5. TOÁN THẦY NGUYỄN PHAN TIẾN 2K9
+     Destination: 11gqyic7FidVfOuQMAgEjkgL2swJ4RAkg5bj5ZlKS4ZU ✓
+
+[31] 4. TOÁN THẦY NGUYỄN ĐĂNG ÁI TDM 2K9
+     Destination: 19W7flY2MrR-BDeqgpXRuCzL6HCV9nNQ126CvSqoKzbc ✓
+
+[32] 3. TOÁN CÔ NGỌC HUYỀN NGOCHUYENLB 2K9
+     Destination: 1PiBSdUdtkF9-cReFiFP81LWjpT_OTRD5jTdnyZh2h8U ✓
+
+[33] 2. TOÁN THẦY ĐỖ VĂN ĐỨC TENS 2K9
+     Destination: 1xUUjbxnXmq8G6zKKd2pEDnl0bzbOs7hSVpDdMoqjGLg ✓
+
+[34] 1. TOÁN THẦY NGUYỄN QUỐC CHÍ THAYCHI 2K9
+     Destination: 1MYgFHes8oNTG8zNjpKaO-dlrU8IvTa_E6aFuc92Og4c ✓
+
+================================================================================
+MANIFEST SUMMARY
+================================================================================
+
+All 34 destination sheets have been successfully synchronized!
+
+To access any sheet:
+  https://docs.google.com/spreadsheets/d/{SHEET_ID}
+
+To modify after source changes:
+  node tool/render.js --teacher {FOLDER_ID}
+
+Status: ✅ All 34 sheets LIVE and ready
+Last Updated: 2026-05-30
+================================================================================

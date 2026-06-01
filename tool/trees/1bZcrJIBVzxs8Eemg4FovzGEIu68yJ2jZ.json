@@ -1,0 +1,162 @@
+{
+  "crawledAt": "2026-05-30T02:14:02.651Z",
+  "teacher": {
+    "id": "1bZcrJIBVzxs8Eemg4FovzGEIu68yJ2jZ",
+    "name": "2. ĐỊA LÝ THẦY TÀI QANDA 2K9",
+    "modifiedTime": "2026-05-27T15:23:01.592Z",
+    "webViewLink": "https://drive.google.com/drive/folders/1bZcrJIBVzxs8Eemg4FovzGEIu68yJ2jZ"
+  },
+  "courses": [
+    {
+      "id": "1Ccp_HEEmqkBlrPyvH0aOSeYN5ll-GVwr",
+      "name": "0. INFO THÔNG TIN VÀ HƯỚNG DẪN KHOÁ HỌC",
+      "children": [],
+      "files": [],
+      "webViewLink": "https://drive.google.com/drive/folders/1Ccp_HEEmqkBlrPyvH0aOSeYN5ll-GVwr",
+      "modifiedTime": "2026-04-19T23:14:45.717Z"
+    },
+    {
+      "id": "1Cc0RSoYv2ZBv5ZSbGubj-uKuoKSwFfGM",
+      "name": "1. VOD - Địa lí 12 - Khóa 2K9 Xuất phát sớm 2027 - Thầy Trần Văn Tài",
+      "children": [
+        {
+          "id": "1qQ__08FJ9iTWcp4Xctsd857jkBmih96i",
+          "name": "1. Lý thuyết",
+          "webViewLink": "https://drive.google.com/drive/folders/1qQ__08FJ9iTWcp4Xctsd857jkBmih96i",
+          "modifiedTime": "2026-04-27T15:58:53.581Z",
+          "children": [],
+          "files": [
+            {
+              "id": "1x1EKRKW85K9oZk-8-wKyfstKLQpeuJWU",
+              "name": "Bứt phá kĩ năng nhận dạng và chọn tên biểu đồ.mp4",
+              "mimeType": "video/mp4",
+              "size": 259293947,
+              "webViewLink": "https://drive.google.com/file/d/1x1EKRKW85K9oZk-8-wKyfstKLQpeuJWU/view?usp=drivesdk",
+              "modifiedTime": "2026-04-27T15:58:56.906Z",
+              "videoMediaMetadata": null
+            },
+            {
+              "id": "1YJXAFQD5YgTjAUEqRiG5FFwnJsM34uB6",
+              "name": "ĐỊA LÝ THẦY TÀIBứt phá kĩ năng tính toán, nhận xét bảng số liệu, biểu đồ.mp4",
+              "mimeType": "video/mp4",
+              "size": 250125916,
+              "webViewLink": "https://drive.google.com/file/d/1YJXAFQD5YgTjAUEqRiG5FFwnJsM34uB6/view?usp=drivesdk",
+              "modifiedTime": "2026-04-27T15:58:54.688Z",
+              "videoMediaMetadata": {
+                "width": 1280,
+                "height": 720,
+                "durationMillis": "3795366"
+              }
+            }
+          ]
+        },
+        {
+          "id": "1r6HZbEpKGtfiryinc5WtZ_SDMNLhHfRb",
+          "name": "2. Chữa bài tập",
+          "webViewLink": "https://drive.google.com/drive/folders/1r6HZbEpKGtfiryinc5WtZ_SDMNLhHfRb",
+          "modifiedTime": "2026-04-27T15:58:52.577Z",
+          "children": [],
+          "files": [
+            {
+              "id": "1iRhi0UOy8oRxBP__XL-MyBSG-4LUHolJ",
+              "name": "ĐỊA LÝ THẦY TÀIChữa bài tập chủ đề biểu đồ (phần 1).mp4",
+              "mimeType": "video/mp4",
+              "size": 489617048,
+              "webViewLink": "https://drive.google.com/file/d/1iRhi0UOy8oRxBP__XL-MyBSG-4LUHolJ/view?usp=drivesdk",
+              "modifiedTime": "2026-04-28T13:26:28.103Z",
+              "videoMediaMetadata": null
+            },
+            {
+              "id": "1EZ6P3KgFPhCuhcOUNLSEJsFsSWi7NDvb",
+              "name": "ĐỊA LÝ THẦY TÀIChữa bài tập chủ đề biểu đồ (phần 2).mp4",
+              "mimeType": "video/mp4",
+              "size": 328062068,
+              "webViewLink": "https://drive.google.com/file/d/1EZ6P3KgFPhCuhcOUNLSEJsFsSWi7NDvb/view?usp=drivesdk",
+              "modifiedTime": "2026-04-28T13:26:30.563Z",
+              "videoMediaMetadata": {
+                "width": 1280,
+                "height": 720,
+                "durationMillis": "1172099"
+              }
+            },
+            {
+              "id": "1oKjMiNMDez6oBSpZE077H2x3Hw9qaYqU",
+              "name": "ĐỊA LÝ THẦY TÀIChữa bài tập chủ đề tính toán, nhận xét BSL, biểu đồ (phần 1).mp4",
+              "mimeType": "video/mp4",
+              "size": 188459472,
+              "webViewLink": "https://drive.google.com/file/d/1oKjMiNMDez6oBSpZE077H2x3Hw9qaYqU/view?usp=drivesdk",
+              "modifiedTime": "2026-04-28T13:26:36.977Z",
+              "videoMediaMetadata": null
+            },
+            {
+              "id": "1FaRDAQhsSTQSSTwZrsoRpwMSSRwicUf1",
+              "name": "ĐỊA LÝ THẦY TÀIChữa bài tập chủ đề tính toán, nhận xét BSL, biểu đồ (phần 2).mp4",
+              "mimeType": "video/mp4",
+              "size": 157988244,
+              "webViewLink": "https://drive.google.com/file/d/1FaRDAQhsSTQSSTwZrsoRpwMSSRwicUf1/view?usp=drivesdk",
+              "modifiedTime": "2026-04-28T13:26:38.457Z",
+              "videoMediaMetadata": null
+            },
+            {
+              "id": "1VrZuWHi2qLNaRug_HycUV1EZZqlKX-cC",
+              "name": "ĐỊA LÝ THẦY TÀIChữa bài tập chủ đề tính toán, nhận xét BSL, biểu đồ (phần 3).mp4",
+              "mimeType": "video/mp4",
+              "size": 203879608,
+              "webViewLink": "https://drive.google.com/file/d/1VrZuWHi2qLNaRug_HycUV1EZZqlKX-cC/view?usp=drivesdk",
+              "modifiedTime": "2026-04-28T13:26:35.140Z",
+              "videoMediaMetadata": null
+            },
+            {
+              "id": "1SqDd1LfFeD1HzZs7ODGRxtM5wmBRdOC3",
+              "name": "ĐỊA LÝ THẦY TÀIChữa bài tập chủ đề tính toán, nhận xét BSL, biểu đồ (phần 4).mp4",
+              "mimeType": "video/mp4",
+              "size": 216479932,
+              "webViewLink": "https://drive.google.com/file/d/1SqDd1LfFeD1HzZs7ODGRxtM5wmBRdOC3/view?usp=drivesdk",
+              "modifiedTime": "2026-04-28T13:26:32.875Z",
+              "videoMediaMetadata": {
+                "width": 1280,
+                "height": 720,
+                "durationMillis": "4095566"
+              }
+            }
+          ]
+        }
+      ],
+      "files": [],
+      "webViewLink": "https://drive.google.com/drive/folders/1Cc0RSoYv2ZBv5ZSbGubj-uKuoKSwFfGM",
+      "modifiedTime": "2026-04-19T23:14:44.955Z"
+    },
+    {
+      "id": "1O8CWSCuTjXkIspg_zdErbvOGfLNkzOmx",
+      "name": "2. Live - Địa lí 12 - Khóa 2K9 Tổng ôn chuyên sâu 2027 - Thầy Trần Văn Tài",
+      "children": [],
+      "files": [],
+      "webViewLink": "https://drive.google.com/drive/folders/1O8CWSCuTjXkIspg_zdErbvOGfLNkzOmx",
+      "modifiedTime": "2026-04-19T23:14:44.358Z"
+    },
+    {
+      "id": "16a7YwH6oXe6MQsn3ieMbSSK6T0P0-tKc",
+      "name": "3. Live - Địa lí 12 - Khóa 2K9 Luyện đề thực chiến 2027 - Thầy Trần Văn Tài",
+      "children": [],
+      "files": [],
+      "webViewLink": "https://drive.google.com/drive/folders/16a7YwH6oXe6MQsn3ieMbSSK6T0P0-tKc",
+      "modifiedTime": "2026-04-19T23:14:43.596Z"
+    },
+    {
+      "id": "10sWJDfV4C2q8e7iGufPCbOoJh6kWNFfr",
+      "name": "4. Live - Địa lí 12 - Khóa 2K9 Bứt phá VD&VDC 2027 - Thầy Trần Văn Tài",
+      "children": [],
+      "files": [],
+      "webViewLink": "https://drive.google.com/drive/folders/10sWJDfV4C2q8e7iGufPCbOoJh6kWNFfr",
+      "modifiedTime": "2026-04-19T23:14:42.841Z"
+    },
+    {
+      "id": "1M_7_n2OphNa5F8x9ez48MGePvKuJME5I",
+      "name": "Z. EBOOK SÁCH KÈM KHOÁ HỌC",
+      "children": [],
+      "files": [],
+      "webViewLink": "https://drive.google.com/drive/folders/1M_7_n2OphNa5F8x9ez48MGePvKuJME5I",
+      "modifiedTime": "2026-04-19T23:14:46.370Z"
+    }
+  ]
+}

@@ -1,0 +1,1469 @@
+{
+  "crawledAt": "2026-05-29T10:37:31.000Z",
+  "teacher": {
+    "id": "1a6F3BGCpXlHUCwsgpy1zkEjtvOXgi4t2",
+    "name": "1. LÝ THẦY VŨ NGỌC ANH MAPSTUDY 2K9",
+    "modifiedTime": "2026-05-27T15:22:35.497Z",
+    "webViewLink": "https://drive.google.com/drive/folders/1a6F3BGCpXlHUCwsgpy1zkEjtvOXgi4t2"
+  },
+  "courses": [
+    {
+      "id": "1J1MC5D_0_lX0jQdXQgaOLYc0T-RPuYUk",
+      "name": "0. INFO THÔNG TIN VÀ HƯỚNG DẪN KHOÁ HỌC",
+      "children": [],
+      "files": [],
+      "webViewLink": "https://drive.google.com/drive/folders/1J1MC5D_0_lX0jQdXQgaOLYc0T-RPuYUk",
+      "modifiedTime": "2026-04-15T22:19:08.899Z"
+    },
+    {
+      "id": "1xuD_trfYB6841Lw4Ly0r_wyxFQ4KV2hA",
+      "name": "1. LIVE I CHUYÊN ĐỀ CƠ BẢN",
+      "children": [
+        {
+          "id": "1alLmNsvF4hoIMrvwiO0CPWUmUidvdaof",
+          "name": "0. ÔN TẬP VẬT LÍ LỚP 10 VÀ LỚP 11\t\t",
+          "webViewLink": "https://drive.google.com/drive/folders/1alLmNsvF4hoIMrvwiO0CPWUmUidvdaof",
+          "modifiedTime": "2026-04-19T23:15:00.924Z",
+          "children": [
+            {
+              "id": "1WEzCGV2ourL0YeUvZxiRo2WwEOgglXO0",
+              "name": "1. 1001 - Lớp 10 - Bài toán chuyển động",
+              "webViewLink": "https://drive.google.com/drive/folders/1WEzCGV2ourL0YeUvZxiRo2WwEOgglXO0",
+              "modifiedTime": "2026-04-19T23:15:38.263Z",
+              "children": [],
+              "files": [
+                {
+                  "id": "1p_ip9OTu4RDPPvaPi56kA4VahoeehNvs",
+                  "name": "1001 – 1. Tài liệu - Bài 1001 Bài toán chuyển động.pdf",
+                  "mimeType": "application/pdf",
+                  "size": 446296,
+                  "webViewLink": "https://drive.google.com/file/d/1p_ip9OTu4RDPPvaPi56kA4VahoeehNvs/view?usp=drivesdk",
+                  "modifiedTime": "2026-04-19T23:15:41.310Z",
+                  "videoMediaMetadata": null
+                },
+                {
+                  "id": "1F_V8R0JsByEFo_cL5lfx83h54K6PAzE9",
+                  "name": "1001 – 1. Video lý thuyết Chuyển động thẳng đều.mp4",
+                  "mimeType": "video/mp4",
+                  "size": 104248632,
+                  "webViewLink": "https://drive.google.com/file/d/1F_V8R0JsByEFo_cL5lfx83h54K6PAzE9/view?usp=drivesdk",
+                  "modifiedTime": "2026-04-19T23:15:54.008Z",
+                  "videoMediaMetadata": {
+                    "width": 1920,
+                    "height": 1080,
+                    "durationMillis": "266266"
+                  }
+                },
+                {
+                  "id": "1RLGRm1ZK-exGGimUAM0Uls6otyt5nyoM",
+                  "name": "1001 – 2. Bản viết tay - Bài 1001 Bài toán chuyển động.pdf",
+                  "mimeType": "application/pdf",
+                  "size": 7707757,
+                  "webViewLink": "https://drive.google.com/file/d/1RLGRm1ZK-exGGimUAM0Uls6otyt5nyoM/view?usp=drivesdk",
+                  "modifiedTime": "2026-04-19T23:15:39.705Z",
+                  "videoMediaMetadata": null
+                },
+                {
+                  "id": "118BU8nyWRSHg8O2emHvqLiobxnfdCXXb",
+                  "name": "1001 – 2. Video lý thuyết Chuyển động thẳng biến đổi đều.mp4",
+                  "mimeType": "video/mp4",
+                  "size": 293397500,
+                  "webViewLink": "https://drive.google.com/file/d/118BU8nyWRSHg8O2emHvqLiobxnfdCXXb/view?usp=drivesdk",
+                  "modifiedTime": "2026-04-19T23:15:50.795Z",
+                  "videoMediaMetadata": {
+                    "width": 1920,
+                    "height": 1080,
+                    "durationMillis": "705066"
+                  }
+                },
+                {
+                  "id": "1dObpXZx-0ZGZEQsjTPx2rUzv0T-d_k7h",
+                  "name": "1001 – 3. Video bài tập minh họa (câu 1-3).mp4",
+                  "mimeType": "video/mp4",
+                  "size": 343435204,
+                  "webViewLink": "https://drive.google.com/file/d/1dObpXZx-0ZGZEQsjTPx2rUzv0T-d_k7h/view?usp=drivesdk",
+                  "modifiedTime": "2026-04-19T23:15:47.563Z",
+                  "videoMediaMetadata": {
+                    "width": 1920,
+                    "height": 1080,
+                    "durationMillis": "980833"
+                  }
+                },
+                {
+                  "id": "1gke5zVF0CbqxsApCGLtBtvqPLkWt25YD",
+                  "name": "1001 – 4. Video lý thuyết Rơi tự do.mp4",
+                  "mimeType": "video/mp4",
+                  "size": 107716480,
+                  "webViewLink": "https://drive.google.com/file/d/1gke5zVF0CbqxsApCGLtBtvqPLkWt25YD/view?usp=drivesdk",
+                  "modifiedTime": "2026-04-19T23:15:52.407Z",
+                  "videoMediaMetadata": {
+                    "width": 1920,
+                    "height": 1080,
+                    "durationMillis": "281066"
+                  }
+                },
+                {
+                  "id": "1gzVKr2vvw9LmEvOsCB0RMUVHU5W58B4a",
+                  "name": "1001 – 5. Video bài tập minh họa (câu 4).mp4",
+                  "mimeType": "video/mp4",
+                  "size": 128871180,
+                  "webViewLink": "https://drive.google.com/file/d/1gzVKr2vvw9LmEvOsCB0RMUVHU5W58B4a/view?usp=drivesdk",
+                  "modifiedTime": "2026-04-19T23:15:49.080Z",
+                  "videoMediaMetadata": {
+                    "width": 1920,
+                    "height": 1080,
+                    "durationMillis": "347533"
+                  }
+                },
+                {
+                  "id": "1i_XedbvAEEvXkvG9cT8w49GrVg8edhiE",
+                  "name": "1001 – 6. Video lý thuyết Chuyển động ném ngang.mp4",
+                  "mimeType": "video/mp4",
+                  "size": 213963552,
+                  "webViewLink": "https://drive.google.com/file/d/1i_XedbvAEEvXkvG9cT8w49GrVg8edhiE/view?usp=drivesdk",
+                  "modifiedTime": "2026-04-19T23:15:46.010Z",
+                  "videoMediaMetadata": {
+                    "width": 1920,
+                    "height": 1080,
+                    "durationMillis": "557966"
+                  }
+                },
+                {
+                  "id": "1ocoGLpmac2FBEQhQnvNMB5UKcaFENAWF",
+                  "name": "1001 – 7. Video bài tập minh họa (câu 5).mp4",
+                  "mimeType": "video/mp4",
+                  "size": 195120312,
+                  "webViewLink": "https://drive.google.com/file/d/1ocoGLpmac2FBEQhQnvNMB5UKcaFENAWF/view?usp=drivesdk",
+                  "modifiedTime": "2026-04-19T23:15:44.417Z",
+                  "videoMediaMetadata": {
+                    "width": 1920,
+                    "height": 1080,
+                    "durationMillis": "442000"
+                  }
+                },
+                {
+                  "id": "1lSFJle2_DkItP27FaOguijl1a65M-FLN",
+                  "name": "1001 – 8. Video chữa chi tiết Bài tập tự luyện.mp4",
+                  "mimeType": "video/mp4",
+                  "size": 463831720,
+                  "webViewLink": "https://drive.google.com/file/d/1lSFJle2_DkItP27FaOguijl1a65M-FLN/view?usp=drivesdk",
+                  "modifiedTime": "2026-04-19T23:15:42.841Z",
+                  "videoMediaMetadata": {
+                    "width": 1920,
+                    "height": 1080,
+                    "durationMillis": "831366"
+                  }
+                }
+              ]
+            },
+            {
+              "id": "1LCE8Ike_GCvw1j-Ijui9hcW2PPfkqFlx",
+              "name": "2. 1002 - Lớp 10 - Ba định luật Newton",
+              "webViewLink": "https://drive.google.com/drive/folders/1LCE8Ike_GCvw1j-Ijui9hcW2PPfkqFlx",
+              "modifiedTime": "2026-04-19T23:15:26.622Z",
+              "children": [],
+              "files": [
+                {
+                  "id": "1RQQvygboqnZgyCNzaQCVzeY30j2pd1lE",
+                  "name": "1002 – 1. Tài liệu - Bài 1002 Bài tập tự luyện.pdf",
+                  "mimeType": "application/pdf",
+                  "size": 338960,
+                  "webViewLink": "https://drive.google.com/file/d/1RQQvygboqnZgyCNzaQCVzeY30j2pd1lE/view?usp=drivesdk",
+                  "modifiedTime": "2026-04-19T23:15:29.351Z",
+                  "videoMediaMetadata": null
+                },
+                {
+                  "id": "126FFrmGvBbh3J0sRXsNzHKpIeePcmnta",
+                  "name": "1002 – 1. Video lý thuyết Định luật 1 Newton.mp4",
+                  "mimeType": "video/mp4",
+                  "size": 542216816,
+                  "webViewLink": "https://drive.google.com/file/d/126FFrmGvBbh3J0sRXsNzHKpIeePcmnta/view?usp=drivesdk",
+                  "modifiedTime": "2026-04-19T23:15:35.252Z",
+                  "videoMediaMetadata": {
+                    "width": 1920,
+                    "height": 1080,
+                    "durationMillis": "1246333"
+                  }
+                },
+                {
+                  "id": "1Fw8dkIWeQ0ZQPoYdFy71tinh5Lh1KZfp",
+                  "name": "1002 – 2. Tài liệu - Bài 1002 Bài tập về nhà.pdf",
+                  "mimeType": "application/pdf",
+                  "size": 448674,
+                  "webViewLink": "https://drive.google.com/file/d/1Fw8dkIWeQ0ZQPoYdFy71tinh5Lh1KZfp/view?usp=drivesdk",
+                  "modifiedTime": "2026-04-19T23:15:27.831Z",
+                  "videoMediaMetadata": null
+                },
+                {
+                  "id": "1NVAQYMZeNRO4fj-UBh2RpkNExVIYjWMS",
+                  "name": "1002 – 2. Video lý thuyết Định luật 2 Newton.mp4",
+                  "mimeType": "video/mp4",
+                  "size": 81493864,
+                  "webViewLink": "https://drive.google.com/file/d/1NVAQYMZeNRO4fj-UBh2RpkNExVIYjWMS/view?usp=drivesdk",
+                  "modifiedTime": "2026-04-19T23:15:36.731Z",
+                  "videoMediaMetadata": {
+                    "width": 1920,
+                    "height": 1080,
+                    "durationMillis": "228599"
+                  }
+                },
+                {
+                  "id": "1-BPUgh38PB-4f5wM7VwyJRZvxaXBCX6C",
+                  "name": "1002 – 3. Video lý thuyết Định luật 3 Newton.mp4",
+                  "mimeType": "video/mp4",
+                  "size": 389464372,
+                  "webViewLink": "https://drive.google.com/file/d/1-BPUgh38PB-4f5wM7VwyJRZvxaXBCX6C/view?usp=drivesdk",
+                  "modifiedTime": "2026-04-19T23:15:33.682Z",
+                  "videoMediaMetadata": {
+                    "width": 1920,
+                    "height": 1080,
+                    "durationMillis": "877333"
+                  }
+                },
+                {
+                  "id": "1rmGwFArpZwsRiXTHyd_woHAXnvchAaHi",
+                  "name": "1002 – 4. Video chữa chi tiết Bài tập tự luyện.mp4",
+                  "mimeType": "video/mp4",
+                  "size": 440404852,
+                  "webViewLink": "https://drive.google.com/file/d/1rmGwFArpZwsRiXTHyd_woHAXnvchAaHi/view?usp=drivesdk",
+                  "modifiedTime": "2026-04-19T23:15:32.293Z",
+                  "videoMediaMetadata": {
+                    "width": 1920,
+                    "height": 1080,
+                    "durationMillis": "1194666"
+                  }
+                },
+                {
+                  "id": "19_zAx3nIzfZ6KSZrE33Qfa8reWA64XyV",
+                  "name": "1002 – 5. Video chữa chi tiết Bài tập về nhà.mp4",
+                  "mimeType": "video/mp4",
+                  "size": 311762092,
+                  "webViewLink": "https://drive.google.com/file/d/19_zAx3nIzfZ6KSZrE33Qfa8reWA64XyV/view?usp=drivesdk",
+                  "modifiedTime": "2026-04-19T23:15:30.812Z",
+                  "videoMediaMetadata": {
+                    "width": 1280,
+                    "height": 720,
+                    "durationMillis": "2261920"
+                  }
+                }
+              ]
+            },
+            {
+              "id": "15fdTHD8FYqfD8ffzIIPfMAS5FEcEp6PU",
+              "name": "3. 1003 - Lớp 10 - Phân tích lực, Tổng hợp lực, Điều kiện cân bằng vật rắn",
+              "webViewLink": "https://drive.google.com/drive/folders/15fdTHD8FYqfD8ffzIIPfMAS5FEcEp6PU",
+              "modifiedTime": "2026-04-19T23:15:14.538Z",
+              "children": [],
+              "files": [
+                {
+                  "id": "17gvf3f24zc2GV_WtIx3cnLUsX4JcqenS",
+                  "name": "1003 – 1. Tài liệu - Bài 1003 Phân tích lực - Tổng hợp lực - Điều kiện cân bằng vật rắn.pdf",
+                  "mimeType": "application/pdf",
+                  "size": 1344229,
+                  "webViewLink": "https://drive.google.com/file/d/17gvf3f24zc2GV_WtIx3cnLUsX4JcqenS/view?usp=drivesdk",
+                  "modifiedTime": "2026-04-19T23:15:15.674Z",
+                  "videoMediaMetadata": null
+                },
+                {
+                  "id": "1oHw9XziGPpvOUFAzkJq_tvGjQ3rtSaj6",
+                  "name": "1003 – 1. Video lý thuyết Lực.mp4",
+                  "mimeType": "video/mp4",
+                  "size": 396633564,
+                  "webViewLink": "https://drive.google.com/file/d/1oHw9XziGPpvOUFAzkJq_tvGjQ3rtSaj6/view?usp=drivesdk",
+                  "modifiedTime": "2026-04-19T23:15:25.145Z",
+                  "videoMediaMetadata": {
+                    "width": 1920,
+                    "height": 1080,
+                    "durationMillis": "839500"
+                  }
+                },
+                {
+                  "id": "1wXrW-vH4kxAn_GB4yfMZbmxcmV0DbSow",
+                  "name": "1003 – 2. Video lý thuyết Phân tích lực.mp4",
+                  "mimeType": "video/mp4",
+                  "size": 534940276,
+                  "webViewLink": "https://drive.google.com/file/d/1wXrW-vH4kxAn_GB4yfMZbmxcmV0DbSow/view?usp=drivesdk",
+                  "modifiedTime": "2026-04-19T23:15:23.570Z",
+                  "videoMediaMetadata": {
+                    "width": 1920,
+                    "height": 1080,
+                    "durationMillis": "1147766"
+                  }
+                },
+                {
+                  "id": "1cBJw_D89cTFn8gIZClthHluZGCpzla2Q",
+                  "name": "1003 – 3. Video lý thuyết Tổng hợp lực - Điều kiện cân bằng.mp4",
+                  "mimeType": "video/mp4",
+                  "size": 424564912,
+                  "webViewLink": "https://drive.google.com/file/d/1cBJw_D89cTFn8gIZClthHluZGCpzla2Q/view?usp=drivesdk",
+                  "modifiedTime": "2026-04-19T23:15:22.065Z",
+                  "videoMediaMetadata": {
+                    "width": 1920,
+                    "height": 1080,
+                    "durationMillis": "972966"
+                  }
+                },
+                {
+                  "id": "1727sPSKP9kgjVtRlp9r7mxQBIxxSKgen",
+                  "name": "1003 – 4. Video chữa chi tiết Bài tập minh họa (câu 1-3).mp4",
+                  "mimeType": "video/mp4",
+                  "size": 573205608,
+                  "webViewLink": "https://drive.google.com/file/d/1727sPSKP9kgjVtRlp9r7mxQBIxxSKgen/view?usp=drivesdk",
+                  "modifiedTime": "2026-04-19T23:15:20.527Z",
+                  "videoMediaMetadata": {
+                    "width": 1920,
+                    "height": 1080,
+                    "durationMillis": "1278000"
+                  }
+                },
+                {
+                  "id": "1-8KIOYPLCV6qI2bDds0cRn1X7HjEFeJk",
+                  "name": "1003 – 5. Video chữa chi tiết Bài tập minh họa (câu 4-5).mp4",
+                  "mimeType": "video/mp4",
+                  "size": 1134300256,
+                  "webViewLink": "https://drive.google.com/file/d/1-8KIOYPLCV6qI2bDds0cRn1X7HjEFeJk/view?usp=drivesdk",
+                  "modifiedTime": "2026-04-19T23:15:18.944Z",
+                  "videoMediaMetadata": {
+                    "width": 1920,
+                    "height": 1080,
+                    "durationMillis": "2038000"
+                  }
+                },
+                {
+                  "id": "1zixipTx2OPtVvmtYreJH__VVm577t_Ip",
+                  "name": "1003 – 6. Video chữa chi tiết Bài tập tự luyện (câu 1-4).mp4",
+                  "mimeType": "video/mp4",
+                  "size": 1100473040,
+                  "webViewLink": "https://drive.google.com/file/d/1zixipTx2OPtVvmtYreJH__VVm577t_Ip/view?usp=drivesdk",
+                  "modifiedTime": "2026-04-19T23:15:17.264Z",
+                  "videoMediaMetadata": {
+                    "width": 1920,
+                    "height": 1080,
+                    "durationMillis": "2016900"
+                  }
+                }
+              ]
+            },
+            {
+              "id": "1JJfa33R9z7tjNPRpoIMmkQq6lBeCysgR",
+              "name": "4. 1004 - Lớp 10 - Chuyển động tròn đều và Lực hướng tâm",
+              "webViewLink": "https://drive.google.com/drive/folders/1JJfa33R9z7tjNPRpoIMmkQq6lBeCysgR",
+              "modifiedTime": "2026-04-19T23:15:07.823Z",
+              "children": [],
+              "files": [
+                {
+                  "id": "1XI8mogklFpfdkC_P0jRtjgPIlp4mlDWz",
+                  "name": "1004 – 1. Tài liệu - Bài 1004 Chuyển động tròn đều - Lực hướng tâm.pdf",
+                  "mimeType": "application/pdf",
+                  "size": 1147407,
+                  "webViewLink": "https://drive.google.com/file/d/1XI8mogklFpfdkC_P0jRtjgPIlp4mlDWz/view?usp=drivesdk",
+                  "modifiedTime": "2026-04-19T23:15:09.177Z",
+                  "videoMediaMetadata": null
+                },
+                {
+                  "id": "1K1eMy1L_dJLFXTG9al2OxNqHEXkO87W_",
+                  "name": "1004 – 1. Video lý thuyết Chuyển động tròn đều - Lực hướng tâm.mp4",
+                  "mimeType": "video/mp4",
+                  "size": 547779924,
+                  "webViewLink": "https://drive.google.com/file/d/1K1eMy1L_dJLFXTG9al2OxNqHEXkO87W_/view?usp=drivesdk",
+                  "modifiedTime": "2026-04-19T23:15:12.749Z",
+                  "videoMediaMetadata": {
+                    "width": 1920,
+                    "height": 1080,
+                    "durationMillis": "1371633"
+                  }
+                },
+                {
+                  "id": "1lN2A4yg1LSUjU__GA5QozoXPb33Hno2P",
+                  "name": "1004 – 2. Video chữa chi tiết Bài tập minh họa.mp4",
+                  "mimeType": "video/mp4",
+                  "size": 798851104,
+                  "webViewLink": "https://drive.google.com/file/d/1lN2A4yg1LSUjU__GA5QozoXPb33Hno2P/view?usp=drivesdk",
+                  "modifiedTime": "2026-04-19T23:15:11.106Z",
+                  "videoMediaMetadata": {
+                    "width": 1920,
+                    "height": 1080,
+                    "durationMillis": "1892866"
+                  }
+                }
+              ]
+            },
+            {
+              "id": "1CbqNgPVBoT-ALSRD-USqTZrZJ0sYHQy6",
+              "name": "5. 1005 - Lớp 10 - Moment lực và cân bằng vật rắn",
+              "webViewLink": "https://drive.google.com/drive/folders/1CbqNgPVBoT-ALSRD-USqTZrZJ0sYHQy6",
+              "modifiedTime": "2026-04-19T23:15:02.023Z",
+              "children": [],
+              "files": [
+                {
+                  "id": "1na7l-aA5N9gOjjbybAtsnlOcUfxkKb7J",
+                  "name": "1005 – 1. Video lý thuyết Khái niệm moment lực.mp4",
+                  "mimeType": "video/mp4",
+                  "size": 1264259204,
+                  "webViewLink": "https://drive.google.com/file/d/1na7l-aA5N9gOjjbybAtsnlOcUfxkKb7J/view?usp=drivesdk",
+                  "modifiedTime": "2026-04-19T23:15:03.073Z",
+                  "videoMediaMetadata": {
+                    "width": 1920,
+                    "height": 1080,
+                    "durationMillis": "2340833"
+                  }
+                },
+                {
+                  "id": "1lNhUvOpzRqZO87yrkoQOC3RkspvUNpry",
+                  "name": "1005 – 2. Video lý thuyết Cân bằng của vật rắn.mp4",
+                  "mimeType": "video/mp4",
+                  "size": 402508,
+                  "webViewLink": "https://drive.google.com/file/d/1lNhUvOpzRqZO87yrkoQOC3RkspvUNpry/view?usp=drivesdk",
+                  "modifiedTime": "2026-04-19T23:15:06.233Z",
+                  "videoMediaMetadata": {
+                    "width": 854,
+                    "height": 480,
+                    "durationMillis": "4000"
+                  }
+                },
+                {
+                  "id": "12vIER7eA2DwSGrxXdELqPrNzMiDjhfXP",
+                  "name": "1005 – 3. Video chữa chi tiết Ví dụ minh họa.mp4",
+                  "mimeType": "video/mp4",
+                  "size": 730802812,
+                  "webViewLink": "https://drive.google.com/file/d/12vIER7eA2DwSGrxXdELqPrNzMiDjhfXP/view?usp=drivesdk",
+                  "modifiedTime": "2026-04-19T23:15:04.664Z",
+                  "videoMediaMetadata": {
+                    "width": 1920,
+                    "height": 1080,
+                    "durationMillis": "1399033"
+                  }
+                }
+              ]
+            }
+          ],
+          "files": []
+        },
+        {
+          "id": "1LhCWG7UFVXogSO8s3bIdlMEI8-cSRWxx",
+          "name": "1. CHƯƠNG 1: VẬT LÝ NHIỆT\t\t",
+          "webViewLink": "https://drive.google.com/drive/folders/1LhCWG7UFVXogSO8s3bIdlMEI8-cSRWxx",
+          "modifiedTime": "2026-05-02T16:37:16.143Z",
+          "children": [
+            {
+              "id": "1xBQ7lrNW8WzzygLfQMgVt9LG_0IH7ejk",
+              "name": "1. 0101 - Cấu trúc của chất",
+              "webViewLink": "https://drive.google.com/drive/folders/1xBQ7lrNW8WzzygLfQMgVt9LG_0IH7ejk",
+              "modifiedTime": "2026-05-02T16:37:38.071Z",
+              "children": [],
+              "files": [
+                {
+                  "id": "1bboPNsYMKPv5GqY8i8nsMSOiK5B7566y",
+                  "name": "0101 - Cấu trúc của chất – 1. Các thông tin cần biết.mp4",
+                  "mimeType": "video/mp4",
+                  "size": 372140172,
+                  "webViewLink": "https://drive.google.com/file/d/1bboPNsYMKPv5GqY8i8nsMSOiK5B7566y/view?usp=drivesdk",
+                  "modifiedTime": "2026-05-02T17:38:26.934Z",
+                  "videoMediaMetadata": null
+                },
+                {
+                  "id": "18DQKkv2U2dGS2Tk2DOFlUMQJE_yh9gxc",
+                  "name": "0101 - Cấu trúc của chất – 1. File tài liệu – 0101 – Cấu trúc của chất.pdf",
+                  "mimeType": "application/pdf",
+                  "size": 6841462,
+                  "webViewLink": "https://drive.google.com/file/d/18DQKkv2U2dGS2Tk2DOFlUMQJE_yh9gxc/view?usp=drivesdk",
+                  "modifiedTime": "2026-05-02T17:38:20.212Z",
+                  "videoMediaMetadata": null
+                },
+                {
+                  "id": "1htQY0HD0wY1F_ECq1Xi0yJxv0NYzNfAv",
+                  "name": "0101 - Cấu trúc của chất – 1. Thi online – 0101 – Cấu trúc của chất.pdf",
+                  "mimeType": "application/pdf",
+                  "size": 875129,
+                  "webViewLink": "https://drive.google.com/file/d/1htQY0HD0wY1F_ECq1Xi0yJxv0NYzNfAv/view?usp=drivesdk",
+                  "modifiedTime": "2026-05-02T16:37:38.625Z",
+                  "videoMediaMetadata": null
+                },
+                {
+                  "id": "1pqQAwiRYX5nAq2XbAsE6l9YZJ94WShVm",
+                  "name": "0101 - Cấu trúc của chất – 2. Video lý thuyết- Mô hình động học phân tử về cấu tạo chất.mp4",
+                  "mimeType": "video/mp4",
+                  "size": 915161816,
+                  "webViewLink": "https://drive.google.com/file/d/1pqQAwiRYX5nAq2XbAsE6l9YZJ94WShVm/view?usp=drivesdk",
+                  "modifiedTime": "2026-05-02T17:38:22.475Z",
+                  "videoMediaMetadata": {
+                    "width": 1920,
+                    "height": 1080,
+                    "durationMillis": "2192066"
+                  }
+                },
+                {
+                  "id": "14R5_uLozHXO0zwMiTQ4GkqW15zrzbhTp",
+                  "name": "0101 - Cấu trúc của chất – 3. Video lý thuyết- Chuyển động Brown.mp4",
+                  "mimeType": "video/mp4",
+                  "size": 451801600,
+                  "webViewLink": "https://drive.google.com/file/d/14R5_uLozHXO0zwMiTQ4GkqW15zrzbhTp/view?usp=drivesdk",
+                  "modifiedTime": "2026-05-02T17:38:25.846Z",
+                  "videoMediaMetadata": {
+                    "width": 1920,
+                    "height": 1080,
+                    "durationMillis": "988666"
+                  }
+                },
+                {
+                  "id": "12co1bIJqITtjtq9uAHDs4OyUkz1vsycL",
+                  "name": "0101 - Cấu trúc của chất – 4. Video lý thuyết- Cấu tạo của chất rắn, chất lỏng, chất khí.mp4",
+                  "mimeType": "video/mp4",
+                  "size": 512166896,
+                  "webViewLink": "https://drive.google.com/file/d/12co1bIJqITtjtq9uAHDs4OyUkz1vsycL/view?usp=drivesdk",
+                  "modifiedTime": "2026-05-02T17:38:24.730Z",
+                  "videoMediaMetadata": {
+                    "width": 1920,
+                    "height": 1080,
+                    "durationMillis": "1121299"
+                  }
+                },
+                {
+                  "id": "1g4f4iH6DVRf6IxEgqEKqSFm4I3G78pDs",
+                  "name": "0101 - Cấu trúc của chất – 5. Video chữa chi tiết- Bài tập tự luyện.mp4",
+                  "mimeType": "video/mp4",
+                  "size": 596006248,
+                  "webViewLink": "https://drive.google.com/file/d/1g4f4iH6DVRf6IxEgqEKqSFm4I3G78pDs/view?usp=drivesdk",
+                  "modifiedTime": "2026-05-02T17:38:23.546Z",
+                  "videoMediaMetadata": {
+                    "width": 1920,
+                    "height": 1080,
+                    "durationMillis": "1448633"
+                  }
+                },
+                {
+                  "id": "1KYaceXNT-aYkMRUc6lLBBx31cU9gyc5y",
+                  "name": "0101 - Cấu trúc của chất – 6. Video chữa chi tiết- Bài thi online.mp4",
+                  "mimeType": "video/mp4",
+                  "size": 815773736,
+                  "webViewLink": "https://drive.google.com/file/d/1KYaceXNT-aYkMRUc6lLBBx31cU9gyc5y/view?usp=drivesdk",
+                  "modifiedTime": "2026-05-02T17:38:21.329Z",
+                  "videoMediaMetadata": null
+                }
+              ]
+            },
+            {
+              "id": "1dUIUnRM8aBKrTxNmNoC_zZID1kzqLkrU",
+              "name": "2. 0102 - Sự chuyển thể",
+              "webViewLink": "https://drive.google.com/drive/folders/1dUIUnRM8aBKrTxNmNoC_zZID1kzqLkrU",
+              "modifiedTime": "2026-05-02T16:37:16.780Z",
+              "children": [],
+              "files": [
+                {
+                  "id": "1Bi8nXHn7k3SWKCmIVjYs9TX1SFlrfbqA",
+                  "name": "0102 - Sự chuyển thể – 1. Thi online – 0102 – Sự chuyển thể.pdf",
+                  "mimeType": "application/pdf",
+                  "size": 1300658,
+                  "webViewLink": "https://drive.google.com/file/d/1Bi8nXHn7k3SWKCmIVjYs9TX1SFlrfbqA/view?usp=drivesdk",
+                  "modifiedTime": "2026-05-02T16:37:18.412Z",
+                  "videoMediaMetadata": null
+                },
+                {
+                  "id": "1nROiLEakZE9-bryLVK83mulSvFIGMxdn",
+                  "name": "0102 - Sự chuyển thể – 1. Tài liệu – 0102 – Sự chuyển thể.pdf",
+                  "mimeType": "application/pdf",
+                  "size": 10930406,
+                  "webViewLink": "https://drive.google.com/file/d/1nROiLEakZE9-bryLVK83mulSvFIGMxdn/view?usp=drivesdk",
+                  "modifiedTime": "2026-05-02T16:37:17.312Z",
+                  "videoMediaMetadata": null
+                },
+                {
+                  "id": "1aQNNVcMOB_EkVu5SJp4Gy00dBDOCYi9R",
+                  "name": "0102 - Sự chuyển thể – 1. Video lý thuyết- Sự chuyển thể.mp4",
+                  "mimeType": "video/mp4",
+                  "size": 1475567068,
+                  "webViewLink": "https://drive.google.com/file/d/1aQNNVcMOB_EkVu5SJp4Gy00dBDOCYi9R/view?usp=drivesdk",
+                  "modifiedTime": "2026-05-02T16:37:19.369Z",
+                  "videoMediaMetadata": null
+                },
+                {
+                  "id": "17ErGeUgMpW0Gzhj-wlk4CDb8bz19LL6m",
+                  "name": "0102 - Sự chuyển thể – 2. Video lý thuyết- Sự nóng chảy của chất rắn.mp4",
+                  "mimeType": "video/mp4",
+                  "size": 316319588,
+                  "webViewLink": "https://drive.google.com/file/d/17ErGeUgMpW0Gzhj-wlk4CDb8bz19LL6m/view?usp=drivesdk",
+                  "modifiedTime": "2026-05-02T16:37:25.711Z",
+                  "videoMediaMetadata": {
+                    "width": 1920,
+                    "height": 1080,
+                    "durationMillis": "757399"
+                  }
+                },
+                {
+                  "id": "1CRW-wBfqJTkaTMfcVDlSwlgsUsmFtXrg",
+                  "name": "0102 - Sự chuyển thể – 3. Video lý thuyết- Sự hoá hơi.mp4",
+                  "mimeType": "video/mp4",
+                  "size": 463237640,
+                  "webViewLink": "https://drive.google.com/file/d/1CRW-wBfqJTkaTMfcVDlSwlgsUsmFtXrg/view?usp=drivesdk",
+                  "modifiedTime": "2026-05-02T16:37:22.656Z",
+                  "videoMediaMetadata": {
+                    "width": 1920,
+                    "height": 1080,
+                    "durationMillis": "1225833"
+                  }
+                },
+                {
+                  "id": "1vKK68P7t2VrRtvg9RciCIqd-zoR1LUnU",
+                  "name": "0102 - Sự chuyển thể – 4. Video chữa chi tiết- Bài tập tự luyện.mp4",
+                  "mimeType": "video/mp4",
+                  "size": 1407046708,
+                  "webViewLink": "https://drive.google.com/file/d/1vKK68P7t2VrRtvg9RciCIqd-zoR1LUnU/view?usp=drivesdk",
+                  "modifiedTime": "2026-05-02T16:37:20.468Z",
+                  "videoMediaMetadata": {
+                    "width": 0,
+                    "height": 0,
+                    "durationMillis": "0"
+                  }
+                },
+                {
+                  "id": "1NZSxUixGS9e2E5-ZB-mHyE4iILKaZtgf",
+                  "name": "0102 - Sự chuyển thể – 5. Video chữa chi tiết- Bài thi online.mp4",
+                  "mimeType": "video/mp4",
+                  "size": 704592416,
+                  "webViewLink": "https://drive.google.com/file/d/1NZSxUixGS9e2E5-ZB-mHyE4iILKaZtgf/view?usp=drivesdk",
+                  "modifiedTime": "2026-05-02T16:37:21.501Z",
+                  "videoMediaMetadata": {
+                    "width": 1920,
+                    "height": 1080,
+                    "durationMillis": "1633933"
+                  }
+                }
+              ]
+            },
+            {
+              "id": "1stw4Qg_Zo2Gc4gzJ_HU5XdNDxkiuq5hu",
+              "name": "3. 0103 - Nhiệt độ, thang nhiệt độ, nhiệt kế",
+              "webViewLink": "https://drive.google.com/drive/folders/1stw4Qg_Zo2Gc4gzJ_HU5XdNDxkiuq5hu",
+              "modifiedTime": "2026-05-02T16:37:39.674Z",
+              "children": [],
+              "files": [
+                {
+                  "id": "10v9UHUzHEHRPNoXj55PvBB09OcADJFDb",
+                  "name": "0103 - Nhiệt độ, thang nhiệt độ, nhiệt kế – 1. Thi online – 0103 – Nhiệt độ, thang nhiệt độ, nhiệt kế.pdf",
+                  "mimeType": "application/pdf",
+                  "size": 833358,
+                  "webViewLink": "https://drive.google.com/file/d/10v9UHUzHEHRPNoXj55PvBB09OcADJFDb/view?usp=drivesdk",
+                  "modifiedTime": "2026-05-02T16:37:41.333Z",
+                  "videoMediaMetadata": null
+                },
+                {
+                  "id": "1PB0wNY-SC0U-0fImxOgLJx1QOfMCC7oO",
+                  "name": "0103 - Nhiệt độ, thang nhiệt độ, nhiệt kế – 1. Tài liệu – 0103 – Nhiệt độ, thang nhiệt độ, nhiệt kế.pdf",
+                  "mimeType": "application/pdf",
+                  "size": 6769265,
+                  "webViewLink": "https://drive.google.com/file/d/1PB0wNY-SC0U-0fImxOgLJx1QOfMCC7oO/view?usp=drivesdk",
+                  "modifiedTime": "2026-05-02T16:37:40.249Z",
+                  "videoMediaMetadata": null
+                },
+                {
+                  "id": "1Y12PGMw_pJt7OE19_dS-PlWojt0hYygp",
+                  "name": "0103 - Nhiệt độ, thang nhiệt độ, nhiệt kế – 1. Video lý thuyết- Nhiệt độ.mp4",
+                  "mimeType": "video/mp4",
+                  "size": 1127907504,
+                  "webViewLink": "https://drive.google.com/file/d/1Y12PGMw_pJt7OE19_dS-PlWojt0hYygp/view?usp=drivesdk",
+                  "modifiedTime": "2026-05-02T16:37:43.323Z",
+                  "videoMediaMetadata": {
+                    "width": 1920,
+                    "height": 1080,
+                    "durationMillis": "2543733"
+                  }
+                },
+                {
+                  "id": "131SIkWSOMXDEZLxS0FHAeyvPHKrQJsxE",
+                  "name": "0103 - Nhiệt độ, thang nhiệt độ, nhiệt kế – 2. Video lý thuyết- Thang nhiệt độ.mp4",
+                  "mimeType": "video/mp4",
+                  "size": 810569896,
+                  "webViewLink": "https://drive.google.com/file/d/131SIkWSOMXDEZLxS0FHAeyvPHKrQJsxE/view?usp=drivesdk",
+                  "modifiedTime": "2026-05-02T16:37:45.619Z",
+                  "videoMediaMetadata": {
+                    "width": 1920,
+                    "height": 1080,
+                    "durationMillis": "1788299"
+                  }
+                },
+                {
+                  "id": "1ib80xVQm99OM8LIz3aW0cGLhb_dVPYm-",
+                  "name": "0103 - Nhiệt độ, thang nhiệt độ, nhiệt kế – 3. Video lý thuyết- Nhiệt kế.mp4",
+                  "mimeType": "video/mp4",
+                  "size": 170502276,
+                  "webViewLink": "https://drive.google.com/file/d/1ib80xVQm99OM8LIz3aW0cGLhb_dVPYm-/view?usp=drivesdk",
+                  "modifiedTime": "2026-05-02T16:37:46.622Z",
+                  "videoMediaMetadata": {
+                    "width": 1920,
+                    "height": 1080,
+                    "durationMillis": "447300"
+                  }
+                },
+                {
+                  "id": "1XT2JrNcMHhAIqAh6ukKxFngss3e0R_KQ",
+                  "name": "0103 - Nhiệt độ, thang nhiệt độ, nhiệt kế – 4. Video chữa chi tiết- Bài tập về nhà.mp4",
+                  "mimeType": "video/mp4",
+                  "size": 1033007548,
+                  "webViewLink": "https://drive.google.com/file/d/1XT2JrNcMHhAIqAh6ukKxFngss3e0R_KQ/view?usp=drivesdk",
+                  "modifiedTime": "2026-05-02T16:37:44.358Z",
+                  "videoMediaMetadata": null
+                },
+                {
+                  "id": "1HpubB9wVITlIPJU1MGPOQlnmyt2L6x1a",
+                  "name": "0103 - Nhiệt độ, thang nhiệt độ, nhiệt kế – 5. Video chữa chi tiết- Bài thi online.mp4",
+                  "mimeType": "video/mp4",
+                  "size": 1324635028,
+                  "webViewLink": "https://drive.google.com/file/d/1HpubB9wVITlIPJU1MGPOQlnmyt2L6x1a/view?usp=drivesdk",
+                  "modifiedTime": "2026-05-02T16:37:42.244Z",
+                  "videoMediaMetadata": null
+                }
+              ]
+            },
+            {
+              "id": "1ICOKDJnnRbSaIS7coDQaA_rAFDXvj6TD",
+              "name": "3.1. Luyện tập - Nhiệt độ, thang nhiệt độ, nhiệt kế",
+              "webViewLink": "https://drive.google.com/drive/folders/1ICOKDJnnRbSaIS7coDQaA_rAFDXvj6TD",
+              "modifiedTime": "2026-05-02T16:37:48.212Z",
+              "children": [],
+              "files": [
+                {
+                  "id": "1QqJd-mrR7vUasmDJDs5k_ttS77lj11o2",
+                  "name": "Luyện tập - Nhiệt độ, thang nhiệt độ, nhiệt kế – 1. Tài liệu – Bài tập luyện tập thang nhiệt độ.pdf",
+                  "mimeType": "application/pdf",
+                  "size": 1136894,
+                  "webViewLink": "https://drive.google.com/file/d/1QqJd-mrR7vUasmDJDs5k_ttS77lj11o2/view?usp=drivesdk",
+                  "modifiedTime": "2026-05-02T16:37:48.764Z",
+                  "videoMediaMetadata": null
+                },
+                {
+                  "id": "1kLGezUXzkn3nvUJ3w_p8OOPENfDr3Ro-",
+                  "name": "Luyện tập - Nhiệt độ, thang nhiệt độ, nhiệt kế – 1. Video lí thuyết- Kiến thức cần nhớ.mp4",
+                  "mimeType": "video/mp4",
+                  "size": 739231604,
+                  "webViewLink": "https://drive.google.com/file/d/1kLGezUXzkn3nvUJ3w_p8OOPENfDr3Ro-/view?usp=drivesdk",
+                  "modifiedTime": "2026-05-02T17:38:37.088Z",
+                  "videoMediaMetadata": {
+                    "width": 1920,
+                    "height": 1080,
+                    "durationMillis": "1591299"
+                  }
+                },
+                {
+                  "id": "1EQcDFp4h9DCWTHV5EVKeZCVd5CqzJyWL",
+                  "name": "Luyện tập - Nhiệt độ, thang nhiệt độ, nhiệt kế – 2. Video bài tập minh họa.mp4",
+                  "mimeType": "video/mp4",
+                  "size": 1141853156,
+                  "webViewLink": "https://drive.google.com/file/d/1EQcDFp4h9DCWTHV5EVKeZCVd5CqzJyWL/view?usp=drivesdk",
+                  "modifiedTime": "2026-05-02T17:38:34.693Z",
+                  "videoMediaMetadata": null
+                },
+                {
+                  "id": "12CK8lzMhVxf0WTX7Qk82Y3nEbBE8CzJi",
+                  "name": "Luyện tập - Nhiệt độ, thang nhiệt độ, nhiệt kế – 3. Video chữa chi tiết- Bài tập tự luyện.mp4",
+                  "mimeType": "video/mp4",
+                  "size": 880655168,
+                  "webViewLink": "https://drive.google.com/file/d/12CK8lzMhVxf0WTX7Qk82Y3nEbBE8CzJi/view?usp=drivesdk",
+                  "modifiedTime": "2026-05-02T17:38:35.838Z",
+                  "videoMediaMetadata": null
+                }
+              ]
+            },
+            {
+              "id": "1Tw_StoKCMCAYVE4kjkRAmC_ZQePG8iD7",
+              "name": "4. 0104 - Nội năng, định luật I nhiệt động lực học",
+              "webViewLink": "https://drive.google.com/drive/folders/1Tw_StoKCMCAYVE4kjkRAmC_ZQePG8iD7",
+              "modifiedTime": "2026-05-02T16:37:50.290Z",
+              "children": [],
+              "files": [
+                {
+                  "id": "1XzNiU1sK8xLn-ZMRaAsK6xlA6mRM_RJw",
+                  "name": "0104 - Nội năng, định luật I nhiệt động lực học – 1. Thi online – 0104 – Nội năng. Định luật 1 nhiệt động lực học.pdf",
+                  "mimeType": "application/pdf",
+                  "size": 948899,
+                  "webViewLink": "https://drive.google.com/file/d/1XzNiU1sK8xLn-ZMRaAsK6xlA6mRM_RJw/view?usp=drivesdk",
+                  "modifiedTime": "2026-05-02T16:37:50.860Z",
+                  "videoMediaMetadata": null
+                },
+                {
+                  "id": "1n8rv4L2AguAPC1P74cNx1gbYFLgY_ex1",
+                  "name": "0104 - Nội năng, định luật I nhiệt động lực học – 1. Tài liệu – 0104 – Nội năng. Định luật 1 nhiệt động lực học.pdf",
+                  "mimeType": "application/pdf",
+                  "size": 4347306,
+                  "webViewLink": "https://drive.google.com/file/d/1n8rv4L2AguAPC1P74cNx1gbYFLgY_ex1/view?usp=drivesdk",
+                  "modifiedTime": "2026-05-02T17:38:38.473Z",
+                  "videoMediaMetadata": null
+                },
+                {
+                  "id": "192rdAEDuA9aB1JxILxfriSA_ozrzCRC5",
+                  "name": "0104 - Nội năng, định luật I nhiệt động lực học – 1. Video lý thuyết- Nội năng.mp4",
+                  "mimeType": "video/mp4",
+                  "size": 738548788,
+                  "webViewLink": "https://drive.google.com/file/d/192rdAEDuA9aB1JxILxfriSA_ozrzCRC5/view?usp=drivesdk",
+                  "modifiedTime": "2026-05-02T17:38:40.641Z",
+                  "videoMediaMetadata": null
+                },
+                {
+                  "id": "1dxUZ7zQ8D59qYTjVgrYdEsYlP815pYay",
+                  "name": "0104 - Nội năng, định luật I nhiệt động lực học – 2. Video lý thuyết- Các cách thay đổi Nội Năng.mp4",
+                  "mimeType": "video/mp4",
+                  "size": 441089360,
+                  "webViewLink": "https://drive.google.com/file/d/1dxUZ7zQ8D59qYTjVgrYdEsYlP815pYay/view?usp=drivesdk",
+                  "modifiedTime": "2026-05-02T17:38:42.814Z",
+                  "videoMediaMetadata": {
+                    "width": 1920,
+                    "height": 1080,
+                    "durationMillis": "1097866"
+                  }
+                },
+                {
+                  "id": "1kAmuYaraq55vxTZqkCcU9zHtRezijq3f",
+                  "name": "0104 - Nội năng, định luật I nhiệt động lực học – 3. Video lý thuyết- Định luật 1 của nhiệt động lực học.mp4",
+                  "mimeType": "video/mp4",
+                  "size": 186354624,
+                  "webViewLink": "https://drive.google.com/file/d/1kAmuYaraq55vxTZqkCcU9zHtRezijq3f/view?usp=drivesdk",
+                  "modifiedTime": "2026-05-02T17:38:44.936Z",
+                  "videoMediaMetadata": {
+                    "width": 1920,
+                    "height": 1080,
+                    "durationMillis": "523566"
+                  }
+                },
+                {
+                  "id": "1zlL368SpbWMSIUPDOnbsB7SYtYaiiD7O",
+                  "name": "0104 - Nội năng, định luật I nhiệt động lực học – 4. Video bài tập minh họa.mp4",
+                  "mimeType": "video/mp4",
+                  "size": 344640472,
+                  "webViewLink": "https://drive.google.com/file/d/1zlL368SpbWMSIUPDOnbsB7SYtYaiiD7O/view?usp=drivesdk",
+                  "modifiedTime": "2026-05-02T17:38:43.877Z",
+                  "videoMediaMetadata": null
+                },
+                {
+                  "id": "1292sKY_uhcLMzW0ZXV5PudjNhsSDg6_7",
+                  "name": "0104 - Nội năng, định luật I nhiệt động lực học – 5. Video chữa chi tiết- Bài tập về nhà.mp4",
+                  "mimeType": "video/mp4",
+                  "size": 641888776,
+                  "webViewLink": "https://drive.google.com/file/d/1292sKY_uhcLMzW0ZXV5PudjNhsSDg6_7/view?usp=drivesdk",
+                  "modifiedTime": "2026-05-02T17:38:41.822Z",
+                  "videoMediaMetadata": null
+                },
+                {
+                  "id": "1-E4ZJPyUvZ8AZZbPjycq0dIsC-f6n17n",
+                  "name": "0104 - Nội năng, định luật I nhiệt động lực học – 6. Video chữa chi tiết- Bài thi online.mp4",
+                  "mimeType": "video/mp4",
+                  "size": 644226368,
+                  "webViewLink": "https://drive.google.com/file/d/1-E4ZJPyUvZ8AZZbPjycq0dIsC-f6n17n/view?usp=drivesdk",
+                  "modifiedTime": "2026-05-02T17:38:39.573Z",
+                  "videoMediaMetadata": {
+                    "width": 1920,
+                    "height": 1080,
+                    "durationMillis": "1400866"
+                  }
+                }
+              ]
+            },
+            {
+              "id": "1mi_NPnP-I75TgZyS_MhKKtLch9skS-22",
+              "name": "4.1. Luyện tập - Nội năng, định luật I nhiệt động lực học",
+              "webViewLink": "https://drive.google.com/drive/folders/1mi_NPnP-I75TgZyS_MhKKtLch9skS-22",
+              "modifiedTime": "2026-05-02T16:37:47.703Z",
+              "children": [],
+              "files": [
+                {
+                  "id": "1YxY2zC2ijZNd80hP9AjEBjah560urc2X",
+                  "name": "Luyện tập - Nội năng, định luật I nhiệt động lực học – 1. Tài liệu – Luyện tập bài toán nội năng.pdf",
+                  "mimeType": "application/pdf",
+                  "size": 2954729,
+                  "webViewLink": "https://drive.google.com/file/d/1YxY2zC2ijZNd80hP9AjEBjah560urc2X/view?usp=drivesdk",
+                  "modifiedTime": "2026-05-02T17:38:29.207Z",
+                  "videoMediaMetadata": null
+                },
+                {
+                  "id": "1C8qePXPloLbAbJF-CHj6IkKNEHap5NIg",
+                  "name": "Luyện tập - Nội năng, định luật I nhiệt động lực học – 1. Video chữa chi tiết- Trắc nghiệm ABCD (câu 1-5).mp4",
+                  "mimeType": "video/mp4",
+                  "size": 827250008,
+                  "webViewLink": "https://drive.google.com/file/d/1C8qePXPloLbAbJF-CHj6IkKNEHap5NIg/view?usp=drivesdk",
+                  "modifiedTime": "2026-05-02T17:38:32.131Z",
+                  "videoMediaMetadata": null
+                },
+                {
+                  "id": "16ToMv0Lu7AQgY5EsvLGMaBYZL6ubww2C",
+                  "name": "Luyện tập - Nội năng, định luật I nhiệt động lực học – 2. Video chữa chi tiết- Trắc nghiệm trả lời ngắn (câu 6-7).mp4",
+                  "mimeType": "video/mp4",
+                  "size": 364201684,
+                  "webViewLink": "https://drive.google.com/file/d/16ToMv0Lu7AQgY5EsvLGMaBYZL6ubww2C/view?usp=drivesdk",
+                  "modifiedTime": "2026-05-02T17:38:33.304Z",
+                  "videoMediaMetadata": null
+                },
+                {
+                  "id": "1J8xF1co0bG8pvgs8IXV5JVkcar7jkcRW",
+                  "name": "Luyện tập - Nội năng, định luật I nhiệt động lực học – 3. Video chữa chi tiết- Trắc nghiệm đúng sai (câu 8-10).mp4",
+                  "mimeType": "video/mp4",
+                  "size": 1198126068,
+                  "webViewLink": "https://drive.google.com/file/d/1J8xF1co0bG8pvgs8IXV5JVkcar7jkcRW/view?usp=drivesdk",
+                  "modifiedTime": "2026-05-02T17:38:31.096Z",
+                  "videoMediaMetadata": {
+                    "width": 1920,
+                    "height": 1080,
+                    "durationMillis": "2717566"
+                  }
+                }
+              ]
+            },
+            {
+              "id": "1WshwwlPJM0qDv12oswqvLKY4dbb8L17n",
+              "name": "5. 0105 - Nhiệt dung riêng",
+              "webViewLink": "https://drive.google.com/drive/folders/1WshwwlPJM0qDv12oswqvLKY4dbb8L17n",
+              "modifiedTime": "2026-05-02T16:37:26.639Z",
+              "children": [],
+              "files": [
+                {
+                  "id": "1cu-qmoCwLRD8mpxzeF8xarD0Gq5ROVZJ",
+                  "name": "0105 - Nhiệt dung riêng – 1. Thi online – 0105 – Nhiệt dung riêng.pdf",
+                  "mimeType": "application/pdf",
+                  "size": 581110,
+                  "webViewLink": "https://drive.google.com/file/d/1cu-qmoCwLRD8mpxzeF8xarD0Gq5ROVZJ/view?usp=drivesdk",
+                  "modifiedTime": "2026-05-02T16:37:28.567Z",
+                  "videoMediaMetadata": null
+                },
+                {
+                  "id": "1IT6gDNf3nt3LXZ9h4o0ZDEkrOHMO3jut",
+                  "name": "0105 - Nhiệt dung riêng – 1. Tài liệu – 0105 – Nhiệt dung riêng.pdf",
+                  "mimeType": "application/pdf",
+                  "size": 5878048,
+                  "webViewLink": "https://drive.google.com/file/d/1IT6gDNf3nt3LXZ9h4o0ZDEkrOHMO3jut/view?usp=drivesdk",
+                  "modifiedTime": "2026-05-02T16:37:27.245Z",
+                  "videoMediaMetadata": null
+                },
+                {
+                  "id": "1WLPFuSHWZjgyeDat61mt4xpNvtxIAtbG",
+                  "name": "0105 - Nhiệt dung riêng – 1. Video lý thuyết- Công thức nhiệt lượng và nhiệt dung riêng.mp4",
+                  "mimeType": "video/mp4",
+                  "size": 468776120,
+                  "webViewLink": "https://drive.google.com/file/d/1WLPFuSHWZjgyeDat61mt4xpNvtxIAtbG/view?usp=drivesdk",
+                  "modifiedTime": "2026-05-02T16:37:37.045Z",
+                  "videoMediaMetadata": null
+                },
+                {
+                  "id": "1gTl7qTeQtuGjXjl-YiLDX0xswMLvuApX",
+                  "name": "0105 - Nhiệt dung riêng – 2. Video lý thuyết- Bảng nhiệt dung riêng của một số chất.mp4",
+                  "mimeType": "video/mp4",
+                  "size": 246168892,
+                  "webViewLink": "https://drive.google.com/file/d/1gTl7qTeQtuGjXjl-YiLDX0xswMLvuApX/view?usp=drivesdk",
+                  "modifiedTime": "2026-05-02T16:37:36.039Z",
+                  "videoMediaMetadata": {
+                    "width": 1920,
+                    "height": 1080,
+                    "durationMillis": "594799"
+                  }
+                },
+                {
+                  "id": "1tJ6BhDvp5hpzSiiMZAaoga2kbQPw6IvH",
+                  "name": "0105 - Nhiệt dung riêng – 3. Video bài tập cơ bản (Bài 1-2).mp4",
+                  "mimeType": "video/mp4",
+                  "size": 112445996,
+                  "webViewLink": "https://drive.google.com/file/d/1tJ6BhDvp5hpzSiiMZAaoga2kbQPw6IvH/view?usp=drivesdk",
+                  "modifiedTime": "2026-05-02T16:37:34.973Z",
+                  "videoMediaMetadata": {
+                    "width": 1920,
+                    "height": 1080,
+                    "durationMillis": "325600"
+                  }
+                },
+                {
+                  "id": "15U_uMXrOsdlNw3ZrSot1c5A9_x6qZCe8",
+                  "name": "0105 - Nhiệt dung riêng – 4. Video lý thuyết- Bình nhiệt lượng kế - Bếp điện.mp4",
+                  "mimeType": "video/mp4",
+                  "size": 474795128,
+                  "webViewLink": "https://drive.google.com/file/d/15U_uMXrOsdlNw3ZrSot1c5A9_x6qZCe8/view?usp=drivesdk",
+                  "modifiedTime": "2026-05-02T16:37:32.778Z",
+                  "videoMediaMetadata": {
+                    "width": 1920,
+                    "height": 1080,
+                    "durationMillis": "1071866"
+                  }
+                },
+                {
+                  "id": "1juzzZmzhAqt5xLs6_1w9Nft331IsB8hJ",
+                  "name": "0105 - Nhiệt dung riêng – 5. Video bài tập cơ bản (Bài 3).mp4",
+                  "mimeType": "video/mp4",
+                  "size": 121244584,
+                  "webViewLink": "https://drive.google.com/file/d/1juzzZmzhAqt5xLs6_1w9Nft331IsB8hJ/view?usp=drivesdk",
+                  "modifiedTime": "2026-05-02T16:37:34.005Z",
+                  "videoMediaMetadata": null
+                },
+                {
+                  "id": "1aWyPYB-Um-4l03L5XGOSIKmLsh_xQ7Q8",
+                  "name": "0105 - Nhiệt dung riêng – 6. Video lý thuyết- Đồ thị nhiệt độ thay đổi theo thời gian.mp4",
+                  "mimeType": "video/mp4",
+                  "size": 437291008,
+                  "webViewLink": "https://drive.google.com/file/d/1aWyPYB-Um-4l03L5XGOSIKmLsh_xQ7Q8/view?usp=drivesdk",
+                  "modifiedTime": "2026-05-02T16:37:30.785Z",
+                  "videoMediaMetadata": null
+                },
+                {
+                  "id": "1o0RalcyBozHRCnS1ShyPy4HeJGQwOw08",
+                  "name": "0105 - Nhiệt dung riêng – 7. Video bài tập minh họa đồ thị nhiệt độ.mp4",
+                  "mimeType": "video/mp4",
+                  "size": 298195072,
+                  "webViewLink": "https://drive.google.com/file/d/1o0RalcyBozHRCnS1ShyPy4HeJGQwOw08/view?usp=drivesdk",
+                  "modifiedTime": "2026-05-02T16:37:31.802Z",
+                  "videoMediaMetadata": {
+                    "width": 1920,
+                    "height": 1080,
+                    "durationMillis": "774000"
+                  }
+                },
+                {
+                  "id": "1CIb-m359UOVbxVa74E-kBbrcK86kj-I5",
+                  "name": "0105 - Nhiệt dung riêng – 8. Video chữa bài tập.mp4",
+                  "mimeType": "video/mp4",
+                  "size": 1474692116,
+                  "webViewLink": "https://drive.google.com/file/d/1CIb-m359UOVbxVa74E-kBbrcK86kj-I5/view?usp=drivesdk",
+                  "modifiedTime": "2026-05-02T16:37:29.813Z",
+                  "videoMediaMetadata": null
+                }
+              ]
+            },
+            {
+              "id": "1wUIpLRaLouXa4LqJrUdil9Q07Iy7xUOB",
+              "name": "5.1. Luyện tập - Bài toán trao đổi nhiệt (tiết 1)",
+              "webViewLink": "https://drive.google.com/drive/folders/1wUIpLRaLouXa4LqJrUdil9Q07Iy7xUOB",
+              "modifiedTime": "2026-05-02T16:37:51.902Z",
+              "children": [],
+              "files": [
+                {
+                  "id": "14osSUfvnTpfrICHGVK_4b4p2PbQl6C8a",
+                  "name": "Luyện tập - Bài toán trao đổi nhiệt (tiết 1) – 1. Tài liệu – Bài tập trao đổi nhiệt (tiết 1).pdf",
+                  "mimeType": "application/pdf",
+                  "size": 2931342,
+                  "webViewLink": "https://drive.google.com/file/d/14osSUfvnTpfrICHGVK_4b4p2PbQl6C8a/view?usp=drivesdk",
+                  "modifiedTime": "2026-05-02T17:38:46.393Z",
+                  "videoMediaMetadata": null
+                },
+                {
+                  "id": "1cj2IXk1JASxdXFMxDo1lMZckhirY7vdJ",
+                  "name": "Luyện tập - Bài toán trao đổi nhiệt (tiết 1) – 1. Video lý thuyết- Bài toán trao đổi nhiệt.mp4",
+                  "mimeType": "video/mp4",
+                  "size": 457784888,
+                  "webViewLink": "https://drive.google.com/file/d/1cj2IXk1JASxdXFMxDo1lMZckhirY7vdJ/view?usp=drivesdk",
+                  "modifiedTime": "2026-05-02T17:38:51.074Z",
+                  "videoMediaMetadata": {
+                    "width": 1920,
+                    "height": 1080,
+                    "durationMillis": "1207066"
+                  }
+                },
+                {
+                  "id": "1StQq1eCyHLCZUxBzw7oheZRflvsaFzys",
+                  "name": "Luyện tập - Bài toán trao đổi nhiệt (tiết 1) – 2. Video chữa chi tiết- Ví dụ minh họa (Thầy VNA chế).mp4",
+                  "mimeType": "video/mp4",
+                  "size": 401993632,
+                  "webViewLink": "https://drive.google.com/file/d/1StQq1eCyHLCZUxBzw7oheZRflvsaFzys/view?usp=drivesdk",
+                  "modifiedTime": "2026-05-02T17:38:49.967Z",
+                  "videoMediaMetadata": null
+                },
+                {
+                  "id": "1tN4rEyOdp-jYAkfGoSsqw_FoBvrWO353",
+                  "name": "Luyện tập - Bài toán trao đổi nhiệt (tiết 1) – 3. Video chữa chi tiết- Ví dụ minh họa (Trong file bài tập).mp4",
+                  "mimeType": "video/mp4",
+                  "size": 738740172,
+                  "webViewLink": "https://drive.google.com/file/d/1tN4rEyOdp-jYAkfGoSsqw_FoBvrWO353/view?usp=drivesdk",
+                  "modifiedTime": "2026-05-02T17:38:48.631Z",
+                  "videoMediaMetadata": {
+                    "width": 1920,
+                    "height": 1080,
+                    "durationMillis": "1946333"
+                  }
+                },
+                {
+                  "id": "1JexVHhAg3MJbMaPsbxXajKwIpqcTgwvg",
+                  "name": "Luyện tập - Bài toán trao đổi nhiệt (tiết 1) – 4. Video chữa chi tiết- Bài tập về nhà.mp4",
+                  "mimeType": "video/mp4",
+                  "size": 1415586420,
+                  "webViewLink": "https://drive.google.com/file/d/1JexVHhAg3MJbMaPsbxXajKwIpqcTgwvg/view?usp=drivesdk",
+                  "modifiedTime": "2026-05-02T17:38:47.485Z",
+                  "videoMediaMetadata": null
+                }
+              ]
+            },
+            {
+              "id": "1gWde8FWnfzaOLeyVu2_wy3hYlcM5UXVg",
+              "name": "6. 0106 - Nhiệt nóng chảy riêng và Nhiệt hoá hơi riêng",
+              "webViewLink": "https://drive.google.com/drive/folders/1gWde8FWnfzaOLeyVu2_wy3hYlcM5UXVg",
+              "modifiedTime": "2026-05-11T08:31:09.076Z",
+              "children": [],
+              "files": [
+                {
+                  "id": "1Bcpt82GgPVqaVHsEF3_M8Hc_nWxmuOIm",
+                  "name": "0106 - Nhiệt nóng chảy riêng và Nhiệt hoá hơi riêng – [Tài liệu] Tài liệu - 0106 - Nhiệt nóng chảy riêng và Nhiệt hoá hơi riêng.pdf",
+                  "mimeType": "application/pdf",
+                  "size": 1277808,
+                  "webViewLink": "https://drive.google.com/file/d/1Bcpt82GgPVqaVHsEF3_M8Hc_nWxmuOIm/view?usp=drivesdk",
+                  "modifiedTime": "2026-05-11T08:31:10.757Z",
+                  "videoMediaMetadata": null
+                },
+                {
+                  "id": "1CegLDvP9giS1aIiUbcwJ6hCPIaducHjv",
+                  "name": "0106 - Nhiệt nóng chảy riêng và Nhiệt hoá hơi riêng – [Video] Video chữa chi tiết- Bài tập minh hoạ.mp4",
+                  "mimeType": "video/mp4",
+                  "size": 199353132,
+                  "webViewLink": "https://drive.google.com/file/d/1CegLDvP9giS1aIiUbcwJ6hCPIaducHjv/view?usp=drivesdk",
+                  "modifiedTime": "2026-05-11T08:31:10.771Z",
+                  "videoMediaMetadata": {
+                    "width": 1920,
+                    "height": 1080,
+                    "durationMillis": "463466"
+                  }
+                },
+                {
+                  "id": "1Q_TmPYkLhEZrVYV5c5GXfU5ObppkvL7V",
+                  "name": "0106 - Nhiệt nóng chảy riêng và Nhiệt hoá hơi riêng – [Video] Video chữa chi tiết- Bài tập nhiệt hoá hơi riêng.mp4",
+                  "mimeType": "video/mp4",
+                  "size": 828313336,
+                  "webViewLink": "https://drive.google.com/file/d/1Q_TmPYkLhEZrVYV5c5GXfU5ObppkvL7V/view?usp=drivesdk",
+                  "modifiedTime": "2026-05-11T08:31:10.767Z",
+                  "videoMediaMetadata": {
+                    "width": 1920,
+                    "height": 1080,
+                    "durationMillis": "1953533"
+                  }
+                },
+                {
+                  "id": "1LQYaYNevZZ3V5bNhuGTh_ifk_LgP1_QU",
+                  "name": "0106 - Nhiệt nóng chảy riêng và Nhiệt hoá hơi riêng – [Video] Video chữa chi tiết- Bài tập nhiệt nóng chảy riêng.mp4",
+                  "mimeType": "video/mp4",
+                  "size": 840628088,
+                  "webViewLink": "https://drive.google.com/file/d/1LQYaYNevZZ3V5bNhuGTh_ifk_LgP1_QU/view?usp=drivesdk",
+                  "modifiedTime": "2026-05-11T08:31:10.763Z",
+                  "videoMediaMetadata": {
+                    "width": 1920,
+                    "height": 1080,
+                    "durationMillis": "1928966"
+                  }
+                },
+                {
+                  "id": "1rSCtWqnxjdHt6IjBI2pgPAPWVRX4LMAR",
+                  "name": "0106 - Nhiệt nóng chảy riêng và Nhiệt hoá hơi riêng – [Video] Video chữa chi tiết- Bài tập về nhà.mp4",
+                  "mimeType": "video/mp4",
+                  "size": 1187629276,
+                  "webViewLink": "https://drive.google.com/file/d/1rSCtWqnxjdHt6IjBI2pgPAPWVRX4LMAR/view?usp=drivesdk",
+                  "modifiedTime": "2026-05-11T08:31:10.763Z",
+                  "videoMediaMetadata": {
+                    "width": 1920,
+                    "height": 1080,
+                    "durationMillis": "3713500"
+                  }
+                },
+                {
+                  "id": "11iHSnecjrEtwWdbJMjJPnOnqUY1eD0y_",
+                  "name": "0106 - Nhiệt nóng chảy riêng và Nhiệt hoá hơi riêng – [Video] Video lý thuyết- Nhiệt nóng chảy riêng và Nhiệt hoá hơi riêng.mp4",
+                  "mimeType": "video/mp4",
+                  "size": 835738960,
+                  "webViewLink": "https://drive.google.com/file/d/11iHSnecjrEtwWdbJMjJPnOnqUY1eD0y_/view?usp=drivesdk",
+                  "modifiedTime": "2026-05-11T08:31:10.765Z",
+                  "videoMediaMetadata": null
+                },
+                {
+                  "id": "19H9kbD-l9VSxUvFvW9IXFvQC3RdYbCFV",
+                  "name": "0106 - Nhiệt nóng chảy riêng và Nhiệt hoá hơi riêng – [Đáp án] 0106 - Nhiệt nóng chảy riêng và Nhiệt hoá hơi riêng.pdf",
+                  "mimeType": "application/pdf",
+                  "size": 189764,
+                  "webViewLink": "https://drive.google.com/file/d/19H9kbD-l9VSxUvFvW9IXFvQC3RdYbCFV/view?usp=drivesdk",
+                  "modifiedTime": "2026-05-11T08:31:10.757Z",
+                  "videoMediaMetadata": null
+                }
+              ]
+            },
+            {
+              "id": "1z3PGC3DDBqcUdyXnkp7bIwke4lvzH50k",
+              "name": "6.1 Luyện tập – Bài toán biện luận chuyển pha",
+              "webViewLink": "https://drive.google.com/drive/folders/1z3PGC3DDBqcUdyXnkp7bIwke4lvzH50k",
+              "modifiedTime": "2026-05-19T09:15:06.264Z",
+              "children": [],
+              "files": [
+                {
+                  "id": "1GhO_koWas0C7ocayZJbDT6EgGX2NnJX4",
+                  "name": "Luyện tập – Bài toán biện luận chuyển pha – 1. Luyện tập – Bài toán biện luận chuyển pha.pdf",
+                  "mimeType": "application/pdf",
+                  "size": 3472719,
+                  "webViewLink": "https://drive.google.com/file/d/1GhO_koWas0C7ocayZJbDT6EgGX2NnJX4/view?usp=drivesdk",
+                  "modifiedTime": "2026-05-19T09:15:08.243Z",
+                  "videoMediaMetadata": null
+                },
+                {
+                  "id": "1QxXourw9rfKSadCdm_JtEzEnAJMTFRMa",
+                  "name": "Luyện tập – Bài toán biện luận chuyển pha – [Video bài giảng] 1. Video lý thuyết – Bài toán biện luận chuyển pha.mp4",
+                  "mimeType": "video/mp4",
+                  "size": 940264704,
+                  "webViewLink": "https://drive.google.com/file/d/1QxXourw9rfKSadCdm_JtEzEnAJMTFRMa/view?usp=drivesdk",
+                  "modifiedTime": "2026-05-19T09:15:12.264Z",
+                  "videoMediaMetadata": null
+                },
+                {
+                  "id": "17tjFvRln3yoI3-N1B5vTwa2E3CAy-Jk-",
+                  "name": "Luyện tập – Bài toán biện luận chuyển pha – [Video bài giảng] 2. Video bài tập minh họa (câu 1–5).mp4",
+                  "mimeType": "video/mp4",
+                  "size": 1219622552,
+                  "webViewLink": "https://drive.google.com/file/d/17tjFvRln3yoI3-N1B5vTwa2E3CAy-Jk-/view?usp=drivesdk",
+                  "modifiedTime": "2026-05-19T09:15:11.131Z",
+                  "videoMediaMetadata": null
+                },
+                {
+                  "id": "1BtKjVlEKUzjm67rmiRjQPw64C37paBwL",
+                  "name": "Luyện tập – Bài toán biện luận chuyển pha – [Video bài giảng] 3. Video chữa bài tập.mp4",
+                  "mimeType": "video/mp4",
+                  "size": 1790873712,
+                  "webViewLink": "https://drive.google.com/file/d/1BtKjVlEKUzjm67rmiRjQPw64C37paBwL/view?usp=drivesdk",
+                  "modifiedTime": "2026-05-19T09:15:09.567Z",
+                  "videoMediaMetadata": null
+                },
+                {
+                  "id": "1xvCnaj8KQrkxD6drat0w1pSNE8hPqU61",
+                  "name": "Luyện tập – Bài toán biện luận chuyển pha – [Video bài giảng] 4. Video chữa bài tập (8-12).mp4",
+                  "mimeType": "video/mp4",
+                  "size": 1257408860,
+                  "webViewLink": "https://drive.google.com/file/d/1xvCnaj8KQrkxD6drat0w1pSNE8hPqU61/view?usp=drivesdk",
+                  "modifiedTime": "2026-05-24T12:59:35.356Z",
+                  "videoMediaMetadata": null
+                }
+              ]
+            },
+            {
+              "id": "13EwXA_DLmApugUK1anXtwMWD6N2RYybq",
+              "name": "6.2 Luyện tập – Bài tập đồ thị sự chuyển thể",
+              "webViewLink": "https://drive.google.com/drive/folders/13EwXA_DLmApugUK1anXtwMWD6N2RYybq",
+              "modifiedTime": "2026-05-24T11:08:08.264Z",
+              "children": [],
+              "files": [
+                {
+                  "id": "1sR5Dch__p_-OPTzQSD0Q-PdW-ls35CWo",
+                  "name": "Luyện tập – Bài tập đồ thị sự chuyển thể – 1. Tài liệu – Bài tập đồ thị sự chuyển thể.pdf",
+                  "mimeType": "application/pdf",
+                  "size": 5268147,
+                  "webViewLink": "https://drive.google.com/file/d/1sR5Dch__p_-OPTzQSD0Q-PdW-ls35CWo/view?usp=drivesdk",
+                  "modifiedTime": "2026-05-24T12:59:35.300Z",
+                  "videoMediaMetadata": null
+                },
+                {
+                  "id": "1to3QBdGAR4qSHkbRpHQrCJmRWPYy6wmG",
+                  "name": "Luyện tập – Bài tập đồ thị sự chuyển thể – [Video bài giảng] 1. Luyện tập – Bài tập đồ thị sự chuyển thể.mp4",
+                  "mimeType": "video/mp4",
+                  "size": 1853898456,
+                  "webViewLink": "https://drive.google.com/file/d/1to3QBdGAR4qSHkbRpHQrCJmRWPYy6wmG/view?usp=drivesdk",
+                  "modifiedTime": "2026-05-24T12:59:35.317Z",
+                  "videoMediaMetadata": null
+                }
+              ]
+            },
+            {
+              "id": "1PQn3mhVpT1Ce_Xm7-eDrRfMsjCIIjzpg",
+              "name": "6.3 Tổng ôn – 100 câu lý thuyết trọng điểm Vật Lí Nhiệt",
+              "webViewLink": "https://drive.google.com/drive/folders/1PQn3mhVpT1Ce_Xm7-eDrRfMsjCIIjzpg",
+              "modifiedTime": "2026-05-24T11:08:07.671Z",
+              "children": [],
+              "files": [
+                {
+                  "id": "18S7FLgtqG09E2foBavmB6ULLePjS59JW",
+                  "name": "Tổng ôn – 100 câu lý thuyết trọng điểm Vật Lí Nhiệt – 1. Tài liệu – Chinh phục lí thuyết Vật Lí Nhiệt – Buổi 1.pdf",
+                  "mimeType": "application/pdf",
+                  "size": 7638340,
+                  "webViewLink": "https://drive.google.com/file/d/18S7FLgtqG09E2foBavmB6ULLePjS59JW/view?usp=drivesdk",
+                  "modifiedTime": "2026-05-24T12:59:34.595Z",
+                  "videoMediaMetadata": null
+                },
+                {
+                  "id": "1_8UdtS-BEVgqu3F8jysQLffaY7eWPo0O",
+                  "name": "Tổng ôn – 100 câu lý thuyết trọng điểm Vật Lí Nhiệt – 2. Bản viết tay – Chinh phục lí thuyết Vật Lí Nhiệt – Buổi 1.pdf",
+                  "mimeType": "application/pdf",
+                  "size": 42451869,
+                  "webViewLink": "https://drive.google.com/file/d/1_8UdtS-BEVgqu3F8jysQLffaY7eWPo0O/view?usp=drivesdk",
+                  "modifiedTime": "2026-05-24T12:59:34.598Z",
+                  "videoMediaMetadata": null
+                },
+                {
+                  "id": "1D5V6YoHLOo2XCd1vZTDMpEAJhKcDhv18",
+                  "name": "Tổng ôn – 100 câu lý thuyết trọng điểm Vật Lí Nhiệt – 3. Tài liệu – Chinh phục lí thuyết Vật Lí Nhiệt – Buổi 2.pdf",
+                  "mimeType": "application/pdf",
+                  "size": 7218942,
+                  "webViewLink": "https://drive.google.com/file/d/1D5V6YoHLOo2XCd1vZTDMpEAJhKcDhv18/view?usp=drivesdk",
+                  "modifiedTime": "2026-05-24T12:59:34.592Z",
+                  "videoMediaMetadata": null
+                },
+                {
+                  "id": "1pPnvOaDAoU4YK6kDq8vA9OtI5svrp1Fd",
+                  "name": "Tổng ôn – 100 câu lý thuyết trọng điểm Vật Lí Nhiệt – 4. Bản viết tay – Chinh phục lí thuyết Vật Lí Nhiệt – Buổi 2.pdf",
+                  "mimeType": "application/pdf",
+                  "size": 46501364,
+                  "webViewLink": "https://drive.google.com/file/d/1pPnvOaDAoU4YK6kDq8vA9OtI5svrp1Fd/view?usp=drivesdk",
+                  "modifiedTime": "2026-05-24T12:59:34.594Z",
+                  "videoMediaMetadata": null
+                },
+                {
+                  "id": "1t6jSkxh033JwMshSDK0mcLT4lpwnStWS",
+                  "name": "Tổng ôn – 100 câu lý thuyết trọng điểm Vật Lí Nhiệt – [Video bài giảng] 1. Chinh phục lí thuyết Vật Lí Nhiệt – Buổi 1.mp4",
+                  "mimeType": "video/mp4",
+                  "size": 267068534,
+                  "webViewLink": "https://drive.google.com/file/d/1t6jSkxh033JwMshSDK0mcLT4lpwnStWS/view?usp=drivesdk",
+                  "modifiedTime": "2026-05-24T12:59:34.593Z",
+                  "videoMediaMetadata": null
+                },
+                {
+                  "id": "1-ighvdY5HYXdXFcZ3ANAuIR9gt-FjKlp",
+                  "name": "Tổng ôn – 100 câu lý thuyết trọng điểm Vật Lí Nhiệt – [Video bài giảng] 2. Chinh phục lí thuyết Vật Lí Nhiệt – Buổi 2.mp4",
+                  "mimeType": "video/mp4",
+                  "size": 174250738,
+                  "webViewLink": "https://drive.google.com/file/d/1-ighvdY5HYXdXFcZ3ANAuIR9gt-FjKlp/view?usp=drivesdk",
+                  "modifiedTime": "2026-05-24T12:59:34.816Z",
+                  "videoMediaMetadata": null
+                }
+              ]
+            },
+            {
+              "id": "172bjOW6VSn4SeLRecvoLsH7wbWOqjUpi",
+              "name": "6.4 Các bài toán Nhiệt nâng cao - Phần 1",
+              "webViewLink": "https://drive.google.com/drive/folders/172bjOW6VSn4SeLRecvoLsH7wbWOqjUpi",
+              "modifiedTime": "2026-05-24T11:08:07.145Z",
+              "children": [],
+              "files": [
+                {
+                  "id": "1Ohv7YI2x6vYOORx9sews2jKyaGuhbxsI",
+                  "name": "Bản viết tay - Nâng cao Vật Lí Nhiệt - Buổi 1.pdf",
+                  "mimeType": "application/pdf",
+                  "size": 13462200,
+                  "webViewLink": "https://drive.google.com/file/d/1Ohv7YI2x6vYOORx9sews2jKyaGuhbxsI/view?usp=drivesdk",
+                  "modifiedTime": "2026-05-24T12:59:34.374Z",
+                  "videoMediaMetadata": null
+                },
+                {
+                  "id": "1UlpF86Ncut9PJ3df8Bl7jAfAvierY1jI",
+                  "name": "Các bài toán nhiệt nâng cao - Phần 1.mp4",
+                  "mimeType": "video/mp4",
+                  "size": 748027629,
+                  "webViewLink": "https://drive.google.com/file/d/1UlpF86Ncut9PJ3df8Bl7jAfAvierY1jI/view?usp=drivesdk",
+                  "modifiedTime": "2026-05-24T12:59:34.369Z",
+                  "videoMediaMetadata": null
+                },
+                {
+                  "id": "1vu8M3oVpRQirebVdkihPXFlA-j3V68_Y",
+                  "name": "Các bài toán nhiệt nâng cao - Phần 1.pdf",
+                  "mimeType": "application/pdf",
+                  "size": 2942756,
+                  "webViewLink": "https://drive.google.com/file/d/1vu8M3oVpRQirebVdkihPXFlA-j3V68_Y/view?usp=drivesdk",
+                  "modifiedTime": "2026-05-24T12:59:34.367Z",
+                  "videoMediaMetadata": null
+                }
+              ]
+            },
+            {
+              "id": "1VQtLf4FO2XRhlMBfRw2S1tX0Gi6DdMpn",
+              "name": "z. Độc quyền học sinh lớp VIP",
+              "webViewLink": "https://drive.google.com/drive/folders/1VQtLf4FO2XRhlMBfRw2S1tX0Gi6DdMpn",
+              "modifiedTime": "2026-05-24T11:08:06.552Z",
+              "children": [],
+              "files": [
+                {
+                  "id": "1hFxjP33MP8nnDNLUPQo_KfPGBO99Ludx",
+                  "name": "1. TAKENOTE - Chương 1 Vật Lí Nhiệt.pdf",
+                  "mimeType": "application/pdf",
+                  "size": 62101226,
+                  "webViewLink": "https://drive.google.com/file/d/1hFxjP33MP8nnDNLUPQo_KfPGBO99Ludx/view?usp=drivesdk",
+                  "modifiedTime": "2026-05-24T12:59:34.088Z",
+                  "videoMediaMetadata": null
+                }
+              ]
+            }
+          ],
+          "files": []
+        },
+        {
+          "id": "1GxdpYo047l6KFRXtcQsK-8X-Py1eFE6a",
+          "name": "Z. TỔNG HỢP CÁC BUỔI HỌC TRÊN FANPAGE\t\t",
+          "webViewLink": "https://drive.google.com/drive/folders/1GxdpYo047l6KFRXtcQsK-8X-Py1eFE6a",
+          "modifiedTime": "2026-05-19T09:14:56.222Z",
+          "children": [
+            {
+              "id": "1m5z-Sq8CsSgu-zfkqH8DiZbcvkB1z5KL",
+              "name": "1. Xây nền tảng Vật Lí Nhiệt",
+              "webViewLink": "https://drive.google.com/drive/folders/1m5z-Sq8CsSgu-zfkqH8DiZbcvkB1z5KL",
+              "modifiedTime": "2026-05-19T09:14:58.273Z",
+              "children": [],
+              "files": [
+                {
+                  "id": "1s8VK2jeaIfOvl7cKghtKWxY5ocYodu_D",
+                  "name": "Xây nền tảng Vật Lí Nhiệt – [Video bài giảng] 1. Buổi 1 – Cấu trúc của chất.mp4",
+                  "mimeType": "video/mp4",
+                  "size": 364530845,
+                  "webViewLink": "https://drive.google.com/file/d/1s8VK2jeaIfOvl7cKghtKWxY5ocYodu_D/view?usp=drivesdk",
+                  "modifiedTime": "2026-05-19T09:15:02.375Z",
+                  "videoMediaMetadata": {
+                    "width": 1920,
+                    "height": 1080,
+                    "durationMillis": "3745633"
+                  }
+                },
+                {
+                  "id": "12wtnwHwHFRhfiCHbPTzyAN8k61qagu_H",
+                  "name": "Xây nền tảng Vật Lí Nhiệt – [Video bài giảng] 2. Buổi 2 – Sự chuyển thể của chất.mp4",
+                  "mimeType": "video/mp4",
+                  "size": 300191093,
+                  "webViewLink": "https://drive.google.com/file/d/12wtnwHwHFRhfiCHbPTzyAN8k61qagu_H/view?usp=drivesdk",
+                  "modifiedTime": "2026-05-19T09:14:59.801Z",
+                  "videoMediaMetadata": {
+                    "width": 1920,
+                    "height": 1080,
+                    "durationMillis": "2778233"
+                  }
+                },
+                {
+                  "id": "17P50eniqP2xGMspTV2fa9fpWqHTuHaHR",
+                  "name": "Xây nền tảng Vật Lí Nhiệt – [Video bài giảng] 3. Buổi 3 – Nội năng. Định luật 1 nhiệt động lực học.mp4",
+                  "mimeType": "video/mp4",
+                  "size": 210888829,
+                  "webViewLink": "https://drive.google.com/file/d/17P50eniqP2xGMspTV2fa9fpWqHTuHaHR/view?usp=drivesdk",
+                  "modifiedTime": "2026-05-19T09:15:01.326Z",
+                  "videoMediaMetadata": {
+                    "width": 1920,
+                    "height": 1080,
+                    "durationMillis": "2670733"
+                  }
+                }
+              ]
+            }
+          ],
+          "files": []
+        }
+      ],
+      "files": [],
+      "webViewLink": "https://drive.google.com/drive/folders/1xuD_trfYB6841Lw4Ly0r_wyxFQ4KV2hA",
+      "modifiedTime": "2026-04-15T22:19:07.235Z"
+    },
+    {
+      "id": "1qOz50Z5-MKWeQ5OBAafeIHBiqQdvq6sq",
+      "name": "2. LIVE M LUYỆN NÂNG CAO VÀ MÔ HÌNH THỰC TẾ",
+      "children": [],
+      "files": [],
+      "webViewLink": "https://drive.google.com/drive/folders/1qOz50Z5-MKWeQ5OBAafeIHBiqQdvq6sq",
+      "modifiedTime": "2026-04-15T22:19:04.765Z"
+    },
+    {
+      "id": "1hG7z4bktEZK7uu_C_sI2hNg-IcJ7bTlj",
+      "name": "3. LIVE O THỰC CHIẾN LUYỆN ĐỀ THPT",
+      "children": [],
+      "files": [],
+      "webViewLink": "https://drive.google.com/drive/folders/1hG7z4bktEZK7uu_C_sI2hNg-IcJ7bTlj",
+      "modifiedTime": "2026-04-15T22:19:06.398Z"
+    },
+    {
+      "id": "1sipWzCGwlam0qvPHpR1Kt38uJgBfiZQ2",
+      "name": "4. LIVE E TỔNG ÔN TRỌNG ĐIỂM",
+      "children": [],
+      "files": [],
+      "webViewLink": "https://drive.google.com/drive/folders/1sipWzCGwlam0qvPHpR1Kt38uJgBfiZQ2",
+      "modifiedTime": "2026-04-15T22:19:05.542Z"
+    },
+    {
+      "id": "1AzIhos34vo9553yKBxAg0EKGcp9UQPFh",
+      "name": "Z. EBOOK SÁCH KÈM KHOÁ HỌC",
+      "children": [],
+      "files": [],
+      "webViewLink": "https://drive.google.com/drive/folders/1AzIhos34vo9553yKBxAg0EKGcp9UQPFh",
+      "modifiedTime": "2026-04-15T22:19:08.061Z"
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "updatedAt": "2026-05-29T17:29:55.617Z",
+  "teacher": {
+    "id": "1ALpgoWCiCVSUnNdklL-zHnaKegwp6s2S",
+    "name": "HOÁ CÔ THÂN THỊ LIÊN 2K9"
+  },
+  "schema": {
+    "levels": [
+      {
+        "depth": 0,
+        "label": "Khóa",
+        "icon": "📖",
+        "bold": true,
+        "bg": "#FDE7C0",
+        "namePatternHint": "KHÓA ..."
+      },
+      {
+        "depth": 1,
+        "label": "Chương",
+        "icon": "📂",
+        "bold": true,
+        "bg": "#FCF1D4",
+        "namePatternHint": "CHƯƠNG ..."
+      },
+      {
+        "depth": 2,
+        "label": "Bài",
+        "icon": "📁",
+        "bold": false,
+        "bg": "#F2FAEA",
+        "namePatternHint": "BÀI ..."
+      }
+    ],
+    "leafFallback": {
+      "label": "Bài",
+      "icon": "📂",
+      "bold": true,
+      "bg": "#FCF1D4",
+      "note": "Leaf level"
+    },
+    "courseRow": {
+      "icon": "📚",
+      "bold": true,
+      "fontSize": 12,
+      "bg": "#D4E5FA"
+    },
+    "notes": "Hóa học - Cô Thân Thị Liên (2K9)"
+  }
+}

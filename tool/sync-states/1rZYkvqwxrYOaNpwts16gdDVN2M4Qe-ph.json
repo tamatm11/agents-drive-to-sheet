@@ -1,0 +1,463 @@
+{
+  "teacherId": "1rZYkvqwxrYOaNpwts16gdDVN2M4Qe-ph",
+  "tabs": {
+    "1Rtxl8eSKbeXGzjBcQQVKovuTXv9U_9Yo": {
+      "tabName": "LIVE S",
+      "renderedAt": "2026-05-31T03:56:11.539Z",
+      "checksum": "1Rtxl8eSKbeXGzjBcQQVKovuTXv9U_9Yo|2026-05-19T09:15:55.604Z|74",
+      "lessons": [
+        {
+          "id": "1kvdWFX-6yRx51WBN3aAPEj7wQaJ6MDiX",
+          "name": "1. Thơ",
+          "parentName": "1. HƯỚNG DẪN VIẾT ĐOẠN VĂN 200 CHỮ BÌNH LUẬN, NHẬN XÉT, ĐÁNH GIÁ MỘT TÁC PHẨM\t\t\t",
+          "checksum": "2026-05-07T14:52:39.746Z|1",
+          "virtual": false
+        },
+        {
+          "id": "1fxUbsnaMbrhcaXJaiKjZ7k-IhRuZGqIK",
+          "name": "2. Truyện",
+          "parentName": "1. HƯỚNG DẪN VIẾT ĐOẠN VĂN 200 CHỮ BÌNH LUẬN, NHẬN XÉT, ĐÁNH GIÁ MỘT TÁC PHẨM\t\t\t",
+          "checksum": "2026-05-07T14:52:36.040Z|1",
+          "virtual": false
+        },
+        {
+          "id": "1WjPd6BYnvGoWuxy96WP_pAJrlBL6d8HL",
+          "name": "3. Kí",
+          "parentName": "1. HƯỚNG DẪN VIẾT ĐOẠN VĂN 200 CHỮ BÌNH LUẬN, NHẬN XÉT, ĐÁNH GIÁ MỘT TÁC PHẨM\t\t\t",
+          "checksum": "2026-05-07T14:52:32.777Z|1",
+          "virtual": false
+        },
+        {
+          "id": "1zu-L0CyrADys-BNxSX6qw-2sVFUXaKi4",
+          "name": "4. Kịch",
+          "parentName": "1. HƯỚNG DẪN VIẾT ĐOẠN VĂN 200 CHỮ BÌNH LUẬN, NHẬN XÉT, ĐÁNH GIÁ MỘT TÁC PHẨM\t\t\t",
+          "checksum": "2026-05-07T14:52:29.459Z|1",
+          "virtual": false
+        },
+        {
+          "id": "15pNG0fwUG9qJ4xGGTS-E7bwYraom-sJO",
+          "name": "1. Thơ",
+          "parentName": "2. HƯỚNG DẪN VIẾT BÀI VĂN 600 CHỮ BÌNH LUẬN, NHẬN XÉT, ĐÁNH GIÁ MỘT TÁC PHẨM\t\t\t",
+          "checksum": "2026-05-07T14:52:24.408Z|1",
+          "virtual": false
+        },
+        {
+          "id": "1U0TV0xbklUNp5EJ4k6mjDeM2vUOA0LT9",
+          "name": "2. Truyện",
+          "parentName": "2. HƯỚNG DẪN VIẾT BÀI VĂN 600 CHỮ BÌNH LUẬN, NHẬN XÉT, ĐÁNH GIÁ MỘT TÁC PHẨM\t\t\t",
+          "checksum": "2026-05-07T14:52:21.330Z|1",
+          "virtual": false
+        },
+        {
+          "id": "1MpSnL0Q683Byza5E7I65vhwcid_ePm4D",
+          "name": "3. Kịch",
+          "parentName": "2. HƯỚNG DẪN VIẾT BÀI VĂN 600 CHỮ BÌNH LUẬN, NHẬN XÉT, ĐÁNH GIÁ MỘT TÁC PHẨM\t\t\t",
+          "checksum": "2026-05-07T14:52:17.974Z|1",
+          "virtual": false
+        },
+        {
+          "id": "1LjmMp4o63npliCZY-wjW1qF7KdLC0Nll",
+          "name": "4. Kí",
+          "parentName": "2. HƯỚNG DẪN VIẾT BÀI VĂN 600 CHỮ BÌNH LUẬN, NHẬN XÉT, ĐÁNH GIÁ MỘT TÁC PHẨM\t\t\t",
+          "checksum": "2026-05-07T14:52:14.769Z|15",
+          "virtual": false
+        },
+        {
+          "id": "1SzR7AXPquGvhVWZ53D-xC3NdLpRJ1R0k",
+          "name": "1. Thơ",
+          "parentName": "3. ĐẶC TRƯNG THỂ LOẠI",
+          "checksum": "2026-05-07T14:51:39.517Z|1",
+          "virtual": false
+        },
+        {
+          "id": "1L_WEtrIN0Zdo1GMXJ_Q0RaMrwHo5cTIj",
+          "name": "2. Truyện",
+          "parentName": "3. ĐẶC TRƯNG THỂ LOẠI",
+          "checksum": "2026-05-07T14:51:36.050Z|1",
+          "virtual": false
+        },
+        {
+          "id": "1EyMG_C_FIJic2GwsUMgxbN3iU843bj_n",
+          "name": "3. Kí",
+          "parentName": "3. ĐẶC TRƯNG THỂ LOẠI",
+          "checksum": "2026-05-07T14:51:32.584Z|1",
+          "virtual": false
+        },
+        {
+          "id": "1aizQEt-P3alxz2_uui_9jShYK6m2hzOS",
+          "name": "4. Kịch",
+          "parentName": "3. ĐẶC TRƯNG THỂ LOẠI",
+          "checksum": "2026-05-07T14:51:28.954Z|1",
+          "virtual": false
+        },
+        {
+          "id": "12wLzD_Zy10hh1DfqMxWXbToJ2yT_hpG5",
+          "name": "5. Văn bản nghị luận",
+          "parentName": "3. ĐẶC TRƯNG THỂ LOẠI",
+          "checksum": "2026-05-07T14:51:25.628Z|1",
+          "virtual": false
+        },
+        {
+          "id": "1JDehhZoCqatqzxyLBThcHTf4Xp8xmJVf",
+          "name": "6. Văn bản thông tin",
+          "parentName": "3. ĐẶC TRƯNG THỂ LOẠI",
+          "checksum": "2026-05-07T14:51:22.348Z|1",
+          "virtual": false
+        },
+        {
+          "id": "1ywf4e8oS2YwZugvKbWHPBdoqruZcArR3",
+          "name": "1. Cách viết mở bài",
+          "parentName": "4. Hướng dẫn viết bài văn NLXH\t\t\t",
+          "checksum": "2026-05-11T13:14:15.825Z|1",
+          "virtual": false
+        },
+        {
+          "id": "1_-hNtzZboEJRFb3AbyjluHyy2e6ImbVp",
+          "name": "2. Cách viết thân bài ăn trọn điểm",
+          "parentName": "4. Hướng dẫn viết bài văn NLXH\t\t\t",
+          "checksum": "2026-05-11T13:14:04.717Z|1",
+          "virtual": false
+        },
+        {
+          "id": "19cu8LdSKHM2EgCzhx87C_7iCXAMTRBPM",
+          "name": "3. Cách viết giải thích",
+          "parentName": "4. Hướng dẫn viết bài văn NLXH\t\t\t",
+          "checksum": "2026-05-11T13:09:19.781Z|1",
+          "virtual": false
+        },
+        {
+          "id": "1cm6LbZyEEGKx2nrhewRcKmbHsTsvhQwe",
+          "name": "4. cách viết bình luận",
+          "parentName": "4. Hướng dẫn viết bài văn NLXH\t\t\t",
+          "checksum": "2026-05-11T13:08:02.329Z|1",
+          "virtual": false
+        },
+        {
+          "id": "1D3dB67sxQvlsuWWKeEQSj3PXE-rZvYDr",
+          "name": "5. Cách Lấy dẫn chứng",
+          "parentName": "4. Hướng dẫn viết bài văn NLXH\t\t\t",
+          "checksum": "2026-05-11T13:06:00.985Z|1",
+          "virtual": false
+        },
+        {
+          "id": "1arQ3TmQNekw3kZvse75NVnVIyIwIP_Gt",
+          "name": "6. Lưu ý khi lấy dẫn chứng",
+          "parentName": "4. Hướng dẫn viết bài văn NLXH\t\t\t",
+          "checksum": "2026-05-11T13:03:26.569Z|1",
+          "virtual": false
+        },
+        {
+          "id": "1UUEW6rmwqE5EMm6BzJC2uHU-0GSnOGPJ",
+          "name": "7. Hướng dẫn phản đề",
+          "parentName": "4. Hướng dẫn viết bài văn NLXH\t\t\t",
+          "checksum": "2026-05-11T13:02:33.851Z|1",
+          "virtual": false
+        },
+        {
+          "id": "17XS2pc4F8YkQfzaugBDniOiKi17wqFv6",
+          "name": "8. Đề xuất giải pháp",
+          "parentName": "4. Hướng dẫn viết bài văn NLXH\t\t\t",
+          "checksum": "2026-05-11T13:00:53.822Z|1",
+          "virtual": false
+        },
+        {
+          "id": "1HtQ2S0mF3mm7R6C-ka_YWPHUyHNHXIx3",
+          "name": "9. Cách viết liên hệ bản thân",
+          "parentName": "4. Hướng dẫn viết bài văn NLXH\t\t\t",
+          "checksum": "2026-05-11T12:59:49.742Z|1",
+          "virtual": false
+        },
+        {
+          "id": "18g3xjQjma1wAGF2a8ldk1rZJJXgDsjUg",
+          "name": "10. Hướng dẫn kết bài",
+          "parentName": "4. Hướng dẫn viết bài văn NLXH\t\t\t",
+          "checksum": "2026-05-11T12:53:43.843Z|1",
+          "virtual": false
+        },
+        {
+          "id": "1apo3ADf44XFpop8Eg1Rrk39JZhfis82b",
+          "name": "1. Hướng dẫn mở đoạn đa năng cho một tác phẩm thơ",
+          "parentName": "5. Hướng dẫn viết mở bài - kết bài\t\t\t",
+          "checksum": "2026-05-11T12:47:19.472Z|1",
+          "virtual": false
+        },
+        {
+          "id": "17LyuTTkOe-lAtP-Q6ghGQjFYuGzDMux6",
+          "name": "2. Hướng dẫn kết đoạn đa năng cho một tác phẩm thơ",
+          "parentName": "5. Hướng dẫn viết mở bài - kết bài\t\t\t",
+          "checksum": "2026-05-11T12:45:15.266Z|1",
+          "virtual": false
+        },
+        {
+          "id": "1Kfwo939UDa9r7pReQCXx8IcWZDOVVvqG",
+          "name": "3. Hướng dẫn mở đoạn đa năng cho một tác phẩm truyện",
+          "parentName": "5. Hướng dẫn viết mở bài - kết bài\t\t\t",
+          "checksum": "2026-05-11T12:43:04.538Z|1",
+          "virtual": false
+        },
+        {
+          "id": "1aD0-vXw04NgPl1ZG5FLjFGlG_UaZEbNF",
+          "name": "4. Hướng dẫn kết đoạn đa năng cho một tác phẩm truyện",
+          "parentName": "5. Hướng dẫn viết mở bài - kết bài\t\t\t",
+          "checksum": "2026-05-11T12:41:35.705Z|1",
+          "virtual": false
+        },
+        {
+          "id": "1lQEkBhPdD0cgPajtOKFAshBI4-lEb8gd",
+          "name": "5. Hướng dẫn mở đoạn đa năng cho một tác phẩm kí",
+          "parentName": "5. Hướng dẫn viết mở bài - kết bài\t\t\t",
+          "checksum": "2026-05-11T12:29:21.717Z|1",
+          "virtual": false
+        },
+        {
+          "id": "1uCvAQRLf5WNk6pKVqO8TDR6k_N9-u9lA",
+          "name": "6. Hướng dẫn kết đoạn đa năng cho một tác phẩm kí",
+          "parentName": "5. Hướng dẫn viết mở bài - kết bài\t\t\t",
+          "checksum": "2026-05-11T12:18:50.632Z|1",
+          "virtual": false
+        },
+        {
+          "id": "151A1iK1XLqOigRE9XPXrkT4gABpn6bso",
+          "name": "7. Hướng dẫn mở đoạn đa năng cho một tác phẩm kịch",
+          "parentName": "5. Hướng dẫn viết mở bài - kết bài\t\t\t",
+          "checksum": "2026-05-11T12:13:22.709Z|1",
+          "virtual": false
+        },
+        {
+          "id": "1HuzJVIdTFtfmvyQPC0jEQnqDeuCh5JG5",
+          "name": "8. Hướng dẫn kết đoạn đa năng cho một tác phẩm kịch",
+          "parentName": "5. Hướng dẫn viết mở bài - kết bài\t\t\t",
+          "checksum": "2026-05-11T12:03:28.688Z|1",
+          "virtual": false
+        },
+        {
+          "id": "1uv4dnP4hIsrkV9iiemuPjdJ065WtfgRp",
+          "name": "9. Hướng dẫn mở bài đa năng cho một tác phẩm thơ",
+          "parentName": "5. Hướng dẫn viết mở bài - kết bài\t\t\t",
+          "checksum": "2026-05-11T11:52:47.099Z|1",
+          "virtual": false
+        },
+        {
+          "id": "1jaTDPJtiAOQeS_iiSfNuf5coJ-Cf5gKF",
+          "name": "10. Hướng dẫn kết bài đa năng cho một tác phẩm thơ",
+          "parentName": "5. Hướng dẫn viết mở bài - kết bài\t\t\t",
+          "checksum": "2026-05-10T11:13:22.558Z|1",
+          "virtual": false
+        },
+        {
+          "id": "1xnXzhd-f9C9h3ypPrjXN3zzSkdGhO2wn",
+          "name": "11. Hướng dẫn mở bài đa năng cho một tác phẩm truyện",
+          "parentName": "5. Hướng dẫn viết mở bài - kết bài\t\t\t",
+          "checksum": "2026-05-10T11:04:11.387Z|1",
+          "virtual": false
+        },
+        {
+          "id": "13677UVgZ6szm_cqVcbTbN6tEsCP0DQBp",
+          "name": "12. Hướng dẫn kết bài đa năng cho một tác phẩm truyện",
+          "parentName": "5. Hướng dẫn viết mở bài - kết bài\t\t\t",
+          "checksum": "2026-05-10T10:52:19.099Z|1",
+          "virtual": false
+        },
+        {
+          "id": "1dmxfRE6bq6EL6oUb8wbLouHybupr5MTB",
+          "name": "13. Hướng dẫn mở bài đa năng cho một tác phẩm kí",
+          "parentName": "5. Hướng dẫn viết mở bài - kết bài\t\t\t",
+          "checksum": "2026-05-10T10:36:00.760Z|1",
+          "virtual": false
+        },
+        {
+          "id": "1UOMAvay6Wg-NPrKuP2n6UTyjOG8fF-aM",
+          "name": "14. Hướng dẫn kết bài đa năng cho một tác phẩm truyện",
+          "parentName": "5. Hướng dẫn viết mở bài - kết bài\t\t\t",
+          "checksum": "2026-05-10T10:23:30.895Z|1",
+          "virtual": false
+        },
+        {
+          "id": "1K7iIHm_1ecCGxgY8rZ-3x_YDA9SZPfXp",
+          "name": "15. Hướng dẫn mở bài đa năng cho một tác phẩm kịch",
+          "parentName": "5. Hướng dẫn viết mở bài - kết bài\t\t\t",
+          "checksum": "2026-05-10T10:14:45.553Z|1",
+          "virtual": false
+        },
+        {
+          "id": "1X1V8viNYxEgH9N9Tqb--RkEY56BuR0ye",
+          "name": "16. Hướng dẫn kết bài đa năng cho một tác phẩm kịch",
+          "parentName": "5. Hướng dẫn viết mở bài - kết bài\t\t\t",
+          "checksum": "2026-05-10T10:02:28.293Z|1",
+          "virtual": false
+        },
+        {
+          "id": "1kFzGJAWM3xLpuZR8hT8WyuinSvMLx4_H",
+          "name": "1. So sánh 2 tác phẩm thơ",
+          "parentName": "6. Chuyên đề so sánh\t\t\t",
+          "checksum": "2026-05-10T09:56:51.723Z|1",
+          "virtual": false
+        },
+        {
+          "id": "1TdAfcJtLJsyxedu5SWbfCnvm4VQKdKit",
+          "name": "2. So sánh 2 tác phẩm truyện",
+          "parentName": "6. Chuyên đề so sánh\t\t\t",
+          "checksum": "2026-05-10T09:46:41.729Z|1",
+          "virtual": false
+        },
+        {
+          "id": "12Wnxa4BG8Apva8kWT24KL1-ACv8zSnC_",
+          "name": "3. So sánh 2 tác phẩm Kí",
+          "parentName": "6. Chuyên đề so sánh\t\t\t",
+          "checksum": "2026-05-10T09:26:47.839Z|1",
+          "virtual": false
+        },
+        {
+          "id": "1RM7WAaxUhObaZwejYaSPtVUir8OLd38m",
+          "name": "4. So sánh 2 tác phẩm kịch",
+          "parentName": "6. Chuyên đề so sánh\t\t\t",
+          "checksum": "2026-05-10T08:38:10.222Z|1",
+          "virtual": false
+        },
+        {
+          "id": "1AN3lLcKcCaWif0TKO_7wolEOialGcKG9",
+          "name": "1. Chuyển đoạn cách 1",
+          "parentName": "7. Gợi ý chuyển đoạn\t\t\t",
+          "checksum": "2026-05-10T08:31:56.441Z|1",
+          "virtual": false
+        },
+        {
+          "id": "1ixXt9mlMWcQFIVu_wYcXEV4tLnqMOSW2",
+          "name": "2. Chuyển đoạn cách 2",
+          "parentName": "7. Gợi ý chuyển đoạn\t\t\t",
+          "checksum": "2026-05-10T08:24:38.901Z|1",
+          "virtual": false
+        },
+        {
+          "id": "1gnhvCd6Oujeourx8pOGA7c2XZJnBisL_",
+          "name": "3. Chuyển đoạn cách 3",
+          "parentName": "7. Gợi ý chuyển đoạn\t\t\t",
+          "checksum": "2026-05-10T08:16:31.444Z|1",
+          "virtual": false
+        },
+        {
+          "id": "1x9U1sBrAyfO6b5bfKwM3vhWFAsvkUQal",
+          "name": "4. Chuyển đoạn cách 4",
+          "parentName": "7. Gợi ý chuyển đoạn\t\t\t",
+          "checksum": "2026-05-10T08:03:24.701Z|1",
+          "virtual": false
+        },
+        {
+          "id": "1t9_h_lbN48FkeI7dr79h2fkTc01RpFxw",
+          "name": "5. Chuyển đoạn cách 5",
+          "parentName": "7. Gợi ý chuyển đoạn\t\t\t",
+          "checksum": "2026-05-10T07:51:44.769Z|1",
+          "virtual": false
+        },
+        {
+          "id": "1j-rn2wNNKO8ZBg2a_eqNFEOvpaf4Gnth",
+          "name": "1. Bài phát biểu",
+          "parentName": "8. Chuyên đề viết",
+          "checksum": "2026-05-19T09:15:55.604Z|1",
+          "virtual": false
+        },
+        {
+          "id": "1hQoKS-CnAEjFCqwtyMVUq84T4fy82IAC",
+          "name": "1. Bài phát biểu",
+          "parentName": "8. Chuyên đề viết",
+          "checksum": "2026-05-19T09:15:55.185Z|1",
+          "virtual": false
+        },
+        {
+          "id": "1-OyGOaT0SivgB8H6HMoqP4L0Qp43Hpog",
+          "name": "2. Khía cạnh trong tác phẩm nghệ thuật",
+          "parentName": "8. Chuyên đề viết",
+          "checksum": "2026-05-19T09:15:44.417Z|2",
+          "virtual": false
+        },
+        {
+          "id": "1aYsBRHTLIzoLX2mYNODk2N3cxa-YrEJL",
+          "name": "3. Vấn đề tuổi trẻ",
+          "parentName": "8. Chuyên đề viết",
+          "checksum": "2026-05-19T09:15:26.293Z|1",
+          "virtual": false
+        },
+        {
+          "id": "1KDlLbfumuO_JyO8hMLM31jOrmmd0qK8L",
+          "name": "3. Vấn đề tuổi trẻ",
+          "parentName": "8. Chuyên đề viết",
+          "checksum": "2026-05-19T09:15:25.040Z|1",
+          "virtual": false
+        },
+        {
+          "id": "11OyzU32naPZ1s_1XUwol4SkuUdySfS3z",
+          "name": "4. Hướng dẫn cách viết thân bài dạng đề bàn luận về một khía cạnh văn bản",
+          "parentName": "8. Chuyên đề viết",
+          "checksum": "2026-05-19T09:15:07.737Z|2",
+          "virtual": false
+        },
+        {
+          "id": "13fNswFirO5MsrRN7su8j4CHyGEnxM1yG",
+          "name": "5. Phân tích yếu tố kỳ ảo trong Truyện truyền kỳ",
+          "parentName": "8. Chuyên đề viết",
+          "checksum": "2026-05-19T09:14:54.588Z|2",
+          "virtual": false
+        },
+        {
+          "id": "1FHWV1Db4Ma6WG782qlpAp-v_OpfL4r-Z",
+          "name": "6. Hướng dẫn viết thư trao đổi công việc",
+          "parentName": "8. Chuyên đề viết",
+          "checksum": "2026-05-19T09:14:36.341Z|1",
+          "virtual": false
+        }
+      ],
+      "rendererVersion": "4.3.1",
+      "styleVersion": "2026-05-31-student-banner-no-meta-v2",
+      "runId": "no-meta-sync-2026-05-31-104541",
+      "spreadsheetId": "1bJsGpUm473V1GniiONstWS-MIoTSRRiwd-KthsHpZks",
+      "stats": {
+        "leafCount": 57,
+        "totalVideos": 60
+      }
+    },
+    "1Wqe7cMwCh_xwrAAMSHu08ZNGr3QLaWTS": {
+      "tabName": "LIVE C",
+      "renderedAt": "2026-05-31T03:56:22.343Z",
+      "checksum": "1Wqe7cMwCh_xwrAAMSHu08ZNGr3QLaWTS|2026-05-10T07:42:51.211Z|16",
+      "lessons": [],
+      "rendererVersion": "4.3.1",
+      "styleVersion": "2026-05-31-student-banner-no-meta-v2",
+      "runId": "no-meta-sync-2026-05-31-104541",
+      "spreadsheetId": "1bJsGpUm473V1GniiONstWS-MIoTSRRiwd-KthsHpZks",
+      "stats": {
+        "leafCount": 15,
+        "totalVideos": 16
+      }
+    },
+    "1KGCiFZx4AWFIm6sUM9TUmwQcowstE-Df": {
+      "tabName": "LIVE T",
+      "renderedAt": "2026-05-31T03:56:29.569Z",
+      "checksum": "1KGCiFZx4AWFIm6sUM9TUmwQcowstE-Df|2026-04-19T03:39:36.599Z|0",
+      "lessons": [],
+      "rendererVersion": "4.3.1",
+      "styleVersion": "2026-05-31-student-banner-no-meta-v2",
+      "runId": "no-meta-sync-2026-05-31-104541",
+      "spreadsheetId": "1bJsGpUm473V1GniiONstWS-MIoTSRRiwd-KthsHpZks",
+      "stats": {
+        "leafCount": 0,
+        "totalVideos": 0
+      }
+    },
+    "15NAHeBJaTYpfVyGsBDqwzxxc22QkM_2c": {
+      "tabName": "LIVE G",
+      "renderedAt": "2026-05-31T03:56:36.880Z",
+      "checksum": "15NAHeBJaTYpfVyGsBDqwzxxc22QkM_2c|2026-04-19T03:39:35.736Z|0",
+      "lessons": [],
+      "rendererVersion": "4.3.1",
+      "styleVersion": "2026-05-31-student-banner-no-meta-v2",
+      "runId": "no-meta-sync-2026-05-31-104541",
+      "spreadsheetId": "1bJsGpUm473V1GniiONstWS-MIoTSRRiwd-KthsHpZks",
+      "stats": {
+        "leafCount": 0,
+        "totalVideos": 0
+      }
+    }
+  },
+  "updatedAt": "2026-05-31T03:56:36.880Z",
+  "version": 2
+}

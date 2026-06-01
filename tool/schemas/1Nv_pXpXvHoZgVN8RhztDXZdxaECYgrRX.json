@@ -1,0 +1,44 @@
+{
+  "updatedAt": "2026-05-30T00:00:00.000Z",
+  "teacher": {
+    "id": "1Nv_pXpXvHoZgVN8RhztDXZdxaECYgrRX",
+    "name": "1. VĂN CÔ SƯƠNG MAI QANDA 2K9"
+  },
+  "schema": {
+    "levels": [
+      {
+        "depth": 0,
+        "label": "Giai đoạn / Tháng",
+        "icon": "📅",
+        "bold": true,
+        "bg": "#FCE5C0",
+        "namePatternHint": "Cấp 1: vd 'GĐ1.T1: LỘ TRÌNH HỌC THÁNG 1/2026', 'GĐ1.T2: LỘ TRÌNH HỌC THÁNG 2/2026'"
+      }
+    ],
+    "leafFallback": {
+      "label": "Bài",
+      "icon": "📂",
+      "bold": true,
+      "bg": "#FCF1D4",
+      "note": "Mỗi tháng có các bài học theo tuần: [Tuần 1] VOD, LIVESTREAM, STKTTV..."
+    },
+    "courseRow": {
+      "icon": "📚",
+      "bold": true,
+      "fontSize": 12,
+      "bg": "#D4E5FA"
+    },
+    "videoRow": {
+      "icon": "▸",
+      "indent": "extra-from-leaf"
+    },
+    "notes": "Cấu trúc 2 cấp: Giai đoạn/Tháng → Bài học theo tuần (chap_then_lesson). Pattern: GĐ1.T1/T2/T3... → [Tuần N] VOD/LIVESTREAM/STKTTV."
+  },
+  "_meta": {
+    "source": "manual",
+    "version": 1,
+    "generated_at": "2026-05-30T00:00:00.000Z",
+    "dominant_depth": 2,
+    "patterns_observed": ["chap_then_lesson"]
+  }
+}

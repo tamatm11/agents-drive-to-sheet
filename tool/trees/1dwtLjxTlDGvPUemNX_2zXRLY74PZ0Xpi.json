@@ -1,0 +1,886 @@
+{
+  "crawledAt": "2026-05-29T10:37:58.980Z",
+  "teacher": {
+    "id": "1dwtLjxTlDGvPUemNX_2zXRLY74PZ0Xpi",
+    "name": "2. LÝ THẦY VŨ TUẤN ANH SANGSANG 2K9",
+    "modifiedTime": "2026-05-27T15:22:36.769Z",
+    "webViewLink": "https://drive.google.com/drive/folders/1dwtLjxTlDGvPUemNX_2zXRLY74PZ0Xpi"
+  },
+  "courses": [
+    {
+      "id": "1ACii00Rw6QdfoTq1tDW8kZkIUTH7oZjS",
+      "name": "0. INFO THÔNG TIN VÀ HƯỚNG DẪN KHOÁ HỌC",
+      "children": [],
+      "files": [],
+      "webViewLink": "https://drive.google.com/drive/folders/1ACii00Rw6QdfoTq1tDW8kZkIUTH7oZjS",
+      "modifiedTime": "2026-04-19T03:39:53.199Z"
+    },
+    {
+      "id": "1VgTSuHB227wZ2ManmiDHHva8f_E3UX-E",
+      "name": "1. LÝ THUYẾT NỀN TẢNG VẬT LÍ 12 2K9",
+      "children": [
+        {
+          "id": "1R9JlhqRjmEEZ-PNmqr-ijbFIfa502gRe",
+          "name": "0. ĐÁN ÁN SÁCH LÝ THUYẾT NỀN TẢNG-ĐÍNH CHÍNH SÁCH",
+          "webViewLink": "https://drive.google.com/drive/folders/1R9JlhqRjmEEZ-PNmqr-ijbFIfa502gRe",
+          "modifiedTime": "2026-05-12T08:21:45.991Z",
+          "children": [
+            {
+              "id": "1oKVD1EAbTIHOQ7HbPeBM5lzQ_nBxwrAN",
+              "name": "1. ĐÍNH CHÍNH CÁC LỖI SAI CỦA SÁCH",
+              "webViewLink": "https://drive.google.com/drive/folders/1oKVD1EAbTIHOQ7HbPeBM5lzQ_nBxwrAN",
+              "modifiedTime": "2026-05-12T08:21:54.459Z",
+              "children": [],
+              "files": [
+                {
+                  "id": "15Hj5GeI8oTIYfP-sn4Rb_51JmG4Df6SR",
+                  "name": "ĐÁP ÁN THAM KHẢO.pdf",
+                  "mimeType": "application/pdf",
+                  "size": 1502250,
+                  "webViewLink": "https://drive.google.com/file/d/15Hj5GeI8oTIYfP-sn4Rb_51JmG4Df6SR/view?usp=drivesdk",
+                  "modifiedTime": "2026-05-12T08:21:56.026Z",
+                  "videoMediaMetadata": null
+                },
+                {
+                  "id": "1w-ksG4KzLAxLGffIQTCR7OLxjPRpyAcm",
+                  "name": "ĐÍNH CHÍNH CÁC LỖI SAI CỦA SÁCH.pdf",
+                  "mimeType": "application/pdf",
+                  "size": 852499,
+                  "webViewLink": "https://drive.google.com/file/d/1w-ksG4KzLAxLGffIQTCR7OLxjPRpyAcm/view?usp=drivesdk",
+                  "modifiedTime": "2026-05-12T08:21:57.417Z",
+                  "videoMediaMetadata": null
+                }
+              ]
+            }
+          ],
+          "files": []
+        },
+        {
+          "id": "1nB3LVA7cylo-X5f_-lBBv_bgmWsPK2vV",
+          "name": "1. CHƯƠNG 1: VẬT LÝ NHIỆT",
+          "webViewLink": "https://drive.google.com/drive/folders/1nB3LVA7cylo-X5f_-lBBv_bgmWsPK2vV",
+          "modifiedTime": "2026-05-03T23:05:53.530Z",
+          "children": [
+            {
+              "id": "1BRaYDVSoI5ybj3ejh87Rwr0Fb7pAe5OM",
+              "name": "1. Bài 1 Cấu trúc của chất sự chuyển thể",
+              "webViewLink": "https://drive.google.com/drive/folders/1BRaYDVSoI5ybj3ejh87Rwr0Fb7pAe5OM",
+              "modifiedTime": "2026-05-02T13:05:25.446Z",
+              "children": [],
+              "files": [
+                {
+                  "id": "1d0aYmMHlbMyOc5agnTHbvBmykNaTQc2j",
+                  "name": "Bài 1 cấu trúc của chất sự chuyển thể.mp4",
+                  "mimeType": "video/mp4",
+                  "size": 250143626,
+                  "webViewLink": "https://drive.google.com/file/d/1d0aYmMHlbMyOc5agnTHbvBmykNaTQc2j/view?usp=drivesdk",
+                  "modifiedTime": "2026-05-02T13:06:47.536Z",
+                  "videoMediaMetadata": {
+                    "width": 1920,
+                    "height": 1080,
+                    "durationMillis": "2032999"
+                  }
+                }
+              ]
+            },
+            {
+              "id": "1zQiqbqvlgUUWxWoRy-qfsDOhF4jjBZRY",
+              "name": "2. Bài 2 Nội năng định luật I của nhiệt dộng lực học p1",
+              "webViewLink": "https://drive.google.com/drive/folders/1zQiqbqvlgUUWxWoRy-qfsDOhF4jjBZRY",
+              "modifiedTime": "2026-05-02T13:05:25.452Z",
+              "children": [],
+              "files": [
+                {
+                  "id": "1zxLMF7Mc9k8vpFp9riLK0QULy4dVsDzV",
+                  "name": "Bài 2 nội năng định luật I của nhiệt dộng lực học p1.mp4",
+                  "mimeType": "video/mp4",
+                  "size": 90435953,
+                  "webViewLink": "https://drive.google.com/file/d/1zxLMF7Mc9k8vpFp9riLK0QULy4dVsDzV/view?usp=drivesdk",
+                  "modifiedTime": "2026-05-02T13:07:20.272Z",
+                  "videoMediaMetadata": null
+                }
+              ]
+            },
+            {
+              "id": "1pq6h85BBqPtzxwXgJ6fkaaBABOUWbuVx",
+              "name": "3. Bài 2 Nội năng định luật I của nhiệt dộng lực học p2",
+              "webViewLink": "https://drive.google.com/drive/folders/1pq6h85BBqPtzxwXgJ6fkaaBABOUWbuVx",
+              "modifiedTime": "2026-05-02T13:05:25.458Z",
+              "children": [],
+              "files": [
+                {
+                  "id": "1DRg8SAjf8fhbNYVb6s3zIn3kIWfySmVL",
+                  "name": "Bài 2 nội năng định luật I của nhiệt dộng lực học p2.mp4",
+                  "mimeType": "video/mp4",
+                  "size": 16626905,
+                  "webViewLink": "https://drive.google.com/file/d/1DRg8SAjf8fhbNYVb6s3zIn3kIWfySmVL/view?usp=drivesdk",
+                  "modifiedTime": "2026-05-02T13:07:35.445Z",
+                  "videoMediaMetadata": null
+                }
+              ]
+            },
+            {
+              "id": "1-65C9lRlcX2CTsjjUUUE0VBpigJeN87X",
+              "name": "4. Bài 2 Nội năng định luật I của nhiệt dộng lực học p3",
+              "webViewLink": "https://drive.google.com/drive/folders/1-65C9lRlcX2CTsjjUUUE0VBpigJeN87X",
+              "modifiedTime": "2026-05-02T13:05:25.464Z",
+              "children": [],
+              "files": [
+                {
+                  "id": "1WLQUI3eJeTamM68fZOkGs2HT0hQgvO80",
+                  "name": "Bài 2 nội năng định luật I của nhiệt dộng lực học p3.mp4",
+                  "mimeType": "video/mp4",
+                  "size": 59609774,
+                  "webViewLink": "https://drive.google.com/file/d/1WLQUI3eJeTamM68fZOkGs2HT0hQgvO80/view?usp=drivesdk",
+                  "modifiedTime": "2026-05-02T13:08:27.550Z",
+                  "videoMediaMetadata": null
+                }
+              ]
+            },
+            {
+              "id": "1urhJqpPvjawN6nAPkZ6xDFnERZHh56-r",
+              "name": "5. Bài 3 Nhiệt độ thang nhiệt độ nhiệt kế",
+              "webViewLink": "https://drive.google.com/drive/folders/1urhJqpPvjawN6nAPkZ6xDFnERZHh56-r",
+              "modifiedTime": "2026-05-02T13:05:25.506Z",
+              "children": [],
+              "files": [
+                {
+                  "id": "1ywUpXduCTLf2IE7CtlbPk2xfAGtCVNfD",
+                  "name": "Bài 3 Nhiệt độ thang nhiệt độ nhiệt kế.mp4",
+                  "mimeType": "video/mp4",
+                  "size": 191031277,
+                  "webViewLink": "https://drive.google.com/file/d/1ywUpXduCTLf2IE7CtlbPk2xfAGtCVNfD/view?usp=drivesdk",
+                  "modifiedTime": "2026-05-02T13:09:44.146Z",
+                  "videoMediaMetadata": {
+                    "width": 1920,
+                    "height": 1080,
+                    "durationMillis": "1682833"
+                  }
+                }
+              ]
+            },
+            {
+              "id": "1OSsHY-LWIJ-BJctnlBYZQI0-kxhIPSt4",
+              "name": "6. Bài 4 Nhiệt dung riêng",
+              "webViewLink": "https://drive.google.com/drive/folders/1OSsHY-LWIJ-BJctnlBYZQI0-kxhIPSt4",
+              "modifiedTime": "2026-05-02T13:05:25.520Z",
+              "children": [],
+              "files": [
+                {
+                  "id": "1EWk0HfsSgqXHWmPRfF2Woz8Ch38kfaOO",
+                  "name": "Bài 4 Nhiệt dung riêng.mp4",
+                  "mimeType": "video/mp4",
+                  "size": 162392802,
+                  "webViewLink": "https://drive.google.com/file/d/1EWk0HfsSgqXHWmPRfF2Woz8Ch38kfaOO/view?usp=drivesdk",
+                  "modifiedTime": "2026-05-02T13:11:04.913Z",
+                  "videoMediaMetadata": null
+                }
+              ]
+            },
+            {
+              "id": "1gYNXkIeIExEMrexQjjNBhvHafDZyUaLX",
+              "name": "7. Bài 5 Nhiệt nóng chảy riêng",
+              "webViewLink": "https://drive.google.com/drive/folders/1gYNXkIeIExEMrexQjjNBhvHafDZyUaLX",
+              "modifiedTime": "2026-05-02T13:05:25.528Z",
+              "children": [],
+              "files": [
+                {
+                  "id": "1MB_q_Aqd29j4ZRLmcw968Ejp9NUxqEgu",
+                  "name": "Bài 5 Nhiệt nóng chảy riêng.mp4",
+                  "mimeType": "video/mp4",
+                  "size": 122890295,
+                  "webViewLink": "https://drive.google.com/file/d/1MB_q_Aqd29j4ZRLmcw968Ejp9NUxqEgu/view?usp=drivesdk",
+                  "modifiedTime": "2026-05-02T13:11:58.070Z",
+                  "videoMediaMetadata": null
+                }
+              ]
+            },
+            {
+              "id": "1jRf-6iIrGbYQcfTNKA9PgucAz6-0IZ9U",
+              "name": "8. Bài 6 Nhiệt hóa hơi riêng",
+              "webViewLink": "https://drive.google.com/drive/folders/1jRf-6iIrGbYQcfTNKA9PgucAz6-0IZ9U",
+              "modifiedTime": "2026-05-02T13:05:25.535Z",
+              "children": [],
+              "files": [
+                {
+                  "id": "1C-6HDkRAewbQ5qExfqlUm669AE-EOnD5",
+                  "name": "Bài 6 nhiệt hóa hơi riêng.mp4",
+                  "mimeType": "video/mp4",
+                  "size": 144897047,
+                  "webViewLink": "https://drive.google.com/file/d/1C-6HDkRAewbQ5qExfqlUm669AE-EOnD5/view?usp=drivesdk",
+                  "modifiedTime": "2026-05-02T13:12:48.966Z",
+                  "videoMediaMetadata": {
+                    "width": 1920,
+                    "height": 1080,
+                    "durationMillis": "1175766"
+                  }
+                }
+              ]
+            }
+          ],
+          "files": []
+        },
+        {
+          "id": "1ewF6CGOLa9SSZs5kFuxMnHm2LSwwX4B6",
+          "name": "2. CHƯƠNG II: KHÍ LÍ TƯỞNG",
+          "webViewLink": "https://drive.google.com/drive/folders/1ewF6CGOLa9SSZs5kFuxMnHm2LSwwX4B6",
+          "modifiedTime": "2026-05-03T23:05:45.507Z",
+          "children": [
+            {
+              "id": "1TsF5L120SyE-HbI7N11zEMmqrex3Cjkm",
+              "name": "1. Bài 8 Mô hình động học phân tử P1",
+              "webViewLink": "https://drive.google.com/drive/folders/1TsF5L120SyE-HbI7N11zEMmqrex3Cjkm",
+              "modifiedTime": "2026-05-02T13:12:48.988Z",
+              "children": [],
+              "files": [
+                {
+                  "id": "1HctwK3-8apxgz0H5S0PVZPVVVkDyQYOi",
+                  "name": "Bài 8 Mô hình động học phân tử P1.mp4",
+                  "mimeType": "video/mp4",
+                  "size": 84508580,
+                  "webViewLink": "https://drive.google.com/file/d/1HctwK3-8apxgz0H5S0PVZPVVVkDyQYOi/view?usp=drivesdk",
+                  "modifiedTime": "2026-05-02T13:13:23.932Z",
+                  "videoMediaMetadata": {
+                    "width": 1920,
+                    "height": 1080,
+                    "durationMillis": "648133"
+                  }
+                }
+              ]
+            },
+            {
+              "id": "1eeXvGKxsPc6dm_4nRVip8JM0C5TIo-y4",
+              "name": "2. Bài 8 Mô hình động học phân tử P2",
+              "webViewLink": "https://drive.google.com/drive/folders/1eeXvGKxsPc6dm_4nRVip8JM0C5TIo-y4",
+              "modifiedTime": "2026-05-02T13:12:49.017Z",
+              "children": [],
+              "files": [
+                {
+                  "id": "1Y6g_1Zg41ti2e0mAk9gWWLyJAF4kkQYU",
+                  "name": "Bài 8 Mô hình động học phân tử P2.mp4",
+                  "mimeType": "video/mp4",
+                  "size": 76583161,
+                  "webViewLink": "https://drive.google.com/file/d/1Y6g_1Zg41ti2e0mAk9gWWLyJAF4kkQYU/view?usp=drivesdk",
+                  "modifiedTime": "2026-05-02T13:13:55.350Z",
+                  "videoMediaMetadata": null
+                }
+              ]
+            },
+            {
+              "id": "19taGWI_bbhxyAQMs3qj--D1hU3ZH8maI",
+              "name": "3. Bài 9 Định luật boyle P1",
+              "webViewLink": "https://drive.google.com/drive/folders/19taGWI_bbhxyAQMs3qj--D1hU3ZH8maI",
+              "modifiedTime": "2026-05-02T13:12:49.027Z",
+              "children": [],
+              "files": [
+                {
+                  "id": "17WQlZXACUE5I-6PLxPotrjUoK1u12THE",
+                  "name": "Bài 9 Định luật boyle P1.mp4",
+                  "mimeType": "video/mp4",
+                  "size": 93151188,
+                  "webViewLink": "https://drive.google.com/file/d/17WQlZXACUE5I-6PLxPotrjUoK1u12THE/view?usp=drivesdk",
+                  "modifiedTime": "2026-05-02T13:14:28.442Z",
+                  "videoMediaMetadata": {
+                    "width": 1920,
+                    "height": 1080,
+                    "durationMillis": "731966"
+                  }
+                }
+              ]
+            },
+            {
+              "id": "1NbPQUaBC-_vKvbbbUN9fnLHcn0I7m2Hq",
+              "name": "4. Bài 9 Định luật boyle P2",
+              "webViewLink": "https://drive.google.com/drive/folders/1NbPQUaBC-_vKvbbbUN9fnLHcn0I7m2Hq",
+              "modifiedTime": "2026-05-02T13:12:49.038Z",
+              "children": [],
+              "files": [
+                {
+                  "id": "1kh3hXVgqcmHLWgaVJvbTpTkfa2ia44hf",
+                  "name": "Bài 9 Định luật boyle P2.mp4",
+                  "mimeType": "video/mp4",
+                  "size": 109414494,
+                  "webViewLink": "https://drive.google.com/file/d/1kh3hXVgqcmHLWgaVJvbTpTkfa2ia44hf/view?usp=drivesdk",
+                  "modifiedTime": "2026-05-02T13:15:08.260Z",
+                  "videoMediaMetadata": null
+                }
+              ]
+            },
+            {
+              "id": "1pxP7uGbrUj6S2jwUIuCU51idKnqvknyf",
+              "name": "5. Bài 10 Định luật charles",
+              "webViewLink": "https://drive.google.com/drive/folders/1pxP7uGbrUj6S2jwUIuCU51idKnqvknyf",
+              "modifiedTime": "2026-05-02T13:12:49.049Z",
+              "children": [],
+              "files": [
+                {
+                  "id": "18QPqDwiMADOeVvHslOef7wEdzeLtO8FX",
+                  "name": "Bài 10 Định luật charles.mp4",
+                  "mimeType": "video/mp4",
+                  "size": 157436235,
+                  "webViewLink": "https://drive.google.com/file/d/18QPqDwiMADOeVvHslOef7wEdzeLtO8FX/view?usp=drivesdk",
+                  "modifiedTime": "2026-05-02T13:16:04.533Z",
+                  "videoMediaMetadata": null
+                }
+              ]
+            },
+            {
+              "id": "1Yo79vmSkylhM85kzrupNRoTyROzC7W7x",
+              "name": "6. Bài 11 Phương trình trạng thái khí lí tưởng",
+              "webViewLink": "https://drive.google.com/drive/folders/1Yo79vmSkylhM85kzrupNRoTyROzC7W7x",
+              "modifiedTime": "2026-05-02T13:12:49.063Z",
+              "children": [],
+              "files": [
+                {
+                  "id": "12o26DB6583_Jvp2NGBwqIdB6uTRyhAWu",
+                  "name": "Bài 11 Phương trình trạng thái khí lí tưởng P2.mp4",
+                  "mimeType": "video/mp4",
+                  "size": 165826865,
+                  "webViewLink": "https://drive.google.com/file/d/12o26DB6583_Jvp2NGBwqIdB6uTRyhAWu/view?usp=drivesdk",
+                  "modifiedTime": "2026-05-02T13:17:05.395Z",
+                  "videoMediaMetadata": null
+                }
+              ]
+            },
+            {
+              "id": "17zGy9qHEDAKCqqpcUAtc93SrTKe1TNJd",
+              "name": "7. Bài 11 Phương trình trạng thái khí lí tưởng P2",
+              "webViewLink": "https://drive.google.com/drive/folders/17zGy9qHEDAKCqqpcUAtc93SrTKe1TNJd",
+              "modifiedTime": "2026-05-02T13:12:49.076Z",
+              "children": [],
+              "files": [
+                {
+                  "id": "1UBeMN-c7O_A7ZvqHVRcfp-90K8uOpNlT",
+                  "name": "Bài 11 Phương trình trạng thái khí lí tưởng.mp4",
+                  "mimeType": "video/mp4",
+                  "size": 84611258,
+                  "webViewLink": "https://drive.google.com/file/d/1UBeMN-c7O_A7ZvqHVRcfp-90K8uOpNlT/view?usp=drivesdk",
+                  "modifiedTime": "2026-05-02T13:17:38.977Z",
+                  "videoMediaMetadata": null
+                }
+              ]
+            },
+            {
+              "id": "1Dc8QTyN5X4M9uLxjK961yF7LXrToHe8V",
+              "name": "8. Bài 12 Áp suất khí theo mô hình động học phân tử. quang hệ giữa động năng phân tử cà nhiệt dộ P1",
+              "webViewLink": "https://drive.google.com/drive/folders/1Dc8QTyN5X4M9uLxjK961yF7LXrToHe8V",
+              "modifiedTime": "2026-05-02T13:12:49.096Z",
+              "children": [],
+              "files": [
+                {
+                  "id": "1e3wsG90RH-0HlbST9ZTi8CaYS4t_bHam",
+                  "name": "Bài 12 Áp suất khí theo mô hình động học phân tử. quang hệ giữa động năng phân tử cà nhiệt dộ P1.mp4",
+                  "mimeType": "video/mp4",
+                  "size": 124570170,
+                  "webViewLink": "https://drive.google.com/file/d/1e3wsG90RH-0HlbST9ZTi8CaYS4t_bHam/view?usp=drivesdk",
+                  "modifiedTime": "2026-05-02T13:18:23.170Z",
+                  "videoMediaMetadata": null
+                }
+              ]
+            },
+            {
+              "id": "18bRTrTqJ8Z1dXkqoYxc5xQtx4rEE_Y1W",
+              "name": "9. Bài 12 Áp suất khí theo mô hình động học phân tử. quang hệ giữa động năng phân tử cà nhiệt dộ P2",
+              "webViewLink": "https://drive.google.com/drive/folders/18bRTrTqJ8Z1dXkqoYxc5xQtx4rEE_Y1W",
+              "modifiedTime": "2026-05-02T13:12:49.110Z",
+              "children": [],
+              "files": [
+                {
+                  "id": "1-y4xyf7oMS1Gn8lDA3U_7ZxiIXsvu8wD",
+                  "name": "Bài 12 Áp suất khí theo mô hình động học phân tử. quang hệ giữa động năng phân tử cà nhiệt dộ P2.mp4",
+                  "mimeType": "video/mp4",
+                  "size": 141563969,
+                  "webViewLink": "https://drive.google.com/file/d/1-y4xyf7oMS1Gn8lDA3U_7ZxiIXsvu8wD/view?usp=drivesdk",
+                  "modifiedTime": "2026-05-02T13:19:33.338Z",
+                  "videoMediaMetadata": {
+                    "width": 1920,
+                    "height": 1080,
+                    "durationMillis": "857333"
+                  }
+                }
+              ]
+            }
+          ],
+          "files": []
+        },
+        {
+          "id": "1W9eqBlCCFQm2rd558jyYOKnyCLC7KsYn",
+          "name": "3. CHƯƠNG III: TỪ TRƯỜNG",
+          "webViewLink": "https://drive.google.com/drive/folders/1W9eqBlCCFQm2rd558jyYOKnyCLC7KsYn",
+          "modifiedTime": "2026-05-03T23:05:18.086Z",
+          "children": [
+            {
+              "id": "1L-vrM9YZAlo9O0BRQ6Ymey34VNYSeqTx",
+              "name": "1. Bài 14 Từ trường P1",
+              "webViewLink": "https://drive.google.com/drive/folders/1L-vrM9YZAlo9O0BRQ6Ymey34VNYSeqTx",
+              "modifiedTime": "2026-05-02T13:19:33.355Z",
+              "children": [],
+              "files": [
+                {
+                  "id": "1sdy6XyeUv6xccGmzPRWw2j2jkMSmhO4k",
+                  "name": "Bài 14 Từ trường P1.mp4",
+                  "mimeType": "video/mp4",
+                  "size": 108045625,
+                  "webViewLink": "https://drive.google.com/file/d/1sdy6XyeUv6xccGmzPRWw2j2jkMSmhO4k/view?usp=drivesdk",
+                  "modifiedTime": "2026-05-02T13:20:12.933Z",
+                  "videoMediaMetadata": {
+                    "width": 1920,
+                    "height": 1080,
+                    "durationMillis": "989566"
+                  }
+                }
+              ]
+            },
+            {
+              "id": "12di_sp1SblBBT59YInzP59E-81S_AK_U",
+              "name": "10. Bài 19 Điện từ trường mô hình sóng điện từ",
+              "webViewLink": "https://drive.google.com/drive/folders/12di_sp1SblBBT59YInzP59E-81S_AK_U",
+              "modifiedTime": "2026-05-02T13:19:33.456Z",
+              "children": [],
+              "files": [
+                {
+                  "id": "1WJDMSFJLTjHIG64pJuGDcWSTSBBzgyl6",
+                  "name": "Bài 19 Điện từ trường mô hình sóng điện từ.mp4",
+                  "mimeType": "video/mp4",
+                  "size": 168527862,
+                  "webViewLink": "https://drive.google.com/file/d/1WJDMSFJLTjHIG64pJuGDcWSTSBBzgyl6/view?usp=drivesdk",
+                  "modifiedTime": "2026-05-02T13:27:10.017Z",
+                  "videoMediaMetadata": null
+                }
+              ]
+            },
+            {
+              "id": "1pmk7JYJaNydkhId6c9j47Iux6EWr4of2",
+              "name": "2. Bài 14 Từ trường P2",
+              "webViewLink": "https://drive.google.com/drive/folders/1pmk7JYJaNydkhId6c9j47Iux6EWr4of2",
+              "modifiedTime": "2026-05-02T13:19:33.364Z",
+              "children": [],
+              "files": [
+                {
+                  "id": "1eN1OFq3kjdE3ntrn-qw5vSulJSUb2hLL",
+                  "name": "Bài 14 Từ trường P2.mp4",
+                  "mimeType": "video/mp4",
+                  "size": 175956472,
+                  "webViewLink": "https://drive.google.com/file/d/1eN1OFq3kjdE3ntrn-qw5vSulJSUb2hLL/view?usp=drivesdk",
+                  "modifiedTime": "2026-05-02T13:21:09.107Z",
+                  "videoMediaMetadata": null
+                }
+              ]
+            },
+            {
+              "id": "1E89pYFLaX6Dfum8BcqOZg5I3GXnh-CAN",
+              "name": "3. Bài 15 Lực từ tác dụng lên dây dẫn mang dòng điện cảm ứng từ P1",
+              "webViewLink": "https://drive.google.com/drive/folders/1E89pYFLaX6Dfum8BcqOZg5I3GXnh-CAN",
+              "modifiedTime": "2026-05-02T13:19:33.372Z",
+              "children": [],
+              "files": [
+                {
+                  "id": "1vArb0sRz2Nt30I8M0s6_FTeKs_VzIBHt",
+                  "name": "Bài 15 Lực từ tác dụng lên dây dẫn mang dòng điện cảm ứng từ P1.mp4",
+                  "mimeType": "video/mp4",
+                  "size": 99740926,
+                  "webViewLink": "https://drive.google.com/file/d/1vArb0sRz2Nt30I8M0s6_FTeKs_VzIBHt/view?usp=drivesdk",
+                  "modifiedTime": "2026-05-02T13:21:49.913Z",
+                  "videoMediaMetadata": null
+                }
+              ]
+            },
+            {
+              "id": "1dz8tEvsEBgh2BURhj4c0Ccy8g44oKofa",
+              "name": "4. Bài 15 Lực từ tác dụng lên dây dẫn mang dòng điện cảm ứng từ P2",
+              "webViewLink": "https://drive.google.com/drive/folders/1dz8tEvsEBgh2BURhj4c0Ccy8g44oKofa",
+              "modifiedTime": "2026-05-02T13:19:33.390Z",
+              "children": [],
+              "files": [
+                {
+                  "id": "1JHw5vphuQPGP7lFnAuhOj3j5eIEXft3S",
+                  "name": "Bài 15 Lực từ tác dụng lên dây dẫn mang dòng điện cảm ứng từ P2.mp4",
+                  "mimeType": "video/mp4",
+                  "size": 92974993,
+                  "webViewLink": "https://drive.google.com/file/d/1JHw5vphuQPGP7lFnAuhOj3j5eIEXft3S/view?usp=drivesdk",
+                  "modifiedTime": "2026-05-02T13:22:26.675Z",
+                  "videoMediaMetadata": null
+                }
+              ]
+            },
+            {
+              "id": "1hHJE1i2Mhk-kApDtcOFr-FabKbYMxA2T",
+              "name": "5. Bài 16 Từ thông hiện tượng cảm ứng điện P1",
+              "webViewLink": "https://drive.google.com/drive/folders/1hHJE1i2Mhk-kApDtcOFr-FabKbYMxA2T",
+              "modifiedTime": "2026-05-02T13:19:33.400Z",
+              "children": [],
+              "files": [
+                {
+                  "id": "1_1FaxIVJi3juslRkCVlMYbCdrhKPa4ci",
+                  "name": "Bài 16 Từ thông hiện tượng cảm ứng điện P1.mp4",
+                  "mimeType": "video/mp4",
+                  "size": 128384407,
+                  "webViewLink": "https://drive.google.com/file/d/1_1FaxIVJi3juslRkCVlMYbCdrhKPa4ci/view?usp=drivesdk",
+                  "modifiedTime": "2026-05-02T13:23:07.678Z",
+                  "videoMediaMetadata": null
+                }
+              ]
+            },
+            {
+              "id": "1Xhm4OGxbbFlI7lIWHEasmfGmm3PLwOvB",
+              "name": "6. Bài 16 Từ thông hiện tượng cảm ứng điện P2",
+              "webViewLink": "https://drive.google.com/drive/folders/1Xhm4OGxbbFlI7lIWHEasmfGmm3PLwOvB",
+              "modifiedTime": "2026-05-02T13:19:33.409Z",
+              "children": [],
+              "files": [
+                {
+                  "id": "1W8HLkQctFZTdqh7DENVWEAZj-uwH1tbI",
+                  "name": "Bài 16 Từ thông hiện tượng cảm ứng điện P2.mp4",
+                  "mimeType": "video/mp4",
+                  "size": 191475050,
+                  "webViewLink": "https://drive.google.com/file/d/1W8HLkQctFZTdqh7DENVWEAZj-uwH1tbI/view?usp=drivesdk",
+                  "modifiedTime": "2026-05-02T13:24:11.017Z",
+                  "videoMediaMetadata": null
+                }
+              ]
+            },
+            {
+              "id": "1J6OELGYVIQgZ_72MC1ZLPqJi4LH_NupY",
+              "name": "7. Bài 17 Máy phát điện xoay chiều P1",
+              "webViewLink": "https://drive.google.com/drive/folders/1J6OELGYVIQgZ_72MC1ZLPqJi4LH_NupY",
+              "modifiedTime": "2026-05-02T13:19:33.417Z",
+              "children": [],
+              "files": [
+                {
+                  "id": "1i6c42VIFxiCXiq7k9U_IIORxW2H9z6tQ",
+                  "name": "Bài 17 Máy phát điện xoay chiều P1.mp4",
+                  "mimeType": "video/mp4",
+                  "size": 133827081,
+                  "webViewLink": "https://drive.google.com/file/d/1i6c42VIFxiCXiq7k9U_IIORxW2H9z6tQ/view?usp=drivesdk",
+                  "modifiedTime": "2026-05-02T13:24:56.801Z",
+                  "videoMediaMetadata": null
+                }
+              ]
+            },
+            {
+              "id": "1qz54-zg0fXsict1divmxHjbv3jOdmImM",
+              "name": "8. Bài 17 Máy phát điện xoay chiều P2",
+              "webViewLink": "https://drive.google.com/drive/folders/1qz54-zg0fXsict1divmxHjbv3jOdmImM",
+              "modifiedTime": "2026-05-02T13:19:33.437Z",
+              "children": [],
+              "files": [
+                {
+                  "id": "1STYpdEs2sqmkFLDyRZsCHOaxg7-_wc7T",
+                  "name": "Bài 17 Máy phát điện xoay chiều P2.mp4",
+                  "mimeType": "video/mp4",
+                  "size": 107036740,
+                  "webViewLink": "https://drive.google.com/file/d/1STYpdEs2sqmkFLDyRZsCHOaxg7-_wc7T/view?usp=drivesdk",
+                  "modifiedTime": "2026-05-02T13:25:29.560Z",
+                  "videoMediaMetadata": null
+                }
+              ]
+            },
+            {
+              "id": "1tLjP1hnf2-TqIMLp8ivP6HvHzmTJ6x_c",
+              "name": "9. Bài 18 Ứng dụng cảm ứng điện từ",
+              "webViewLink": "https://drive.google.com/drive/folders/1tLjP1hnf2-TqIMLp8ivP6HvHzmTJ6x_c",
+              "modifiedTime": "2026-05-02T13:19:33.447Z",
+              "children": [],
+              "files": [
+                {
+                  "id": "1UZxXwILwtuey8rzOUdnxUEo8gz29rt5h",
+                  "name": "Bài 18 Ứng dụng cảm ứng điện từ.mp4",
+                  "mimeType": "video/mp4",
+                  "size": 151535701,
+                  "webViewLink": "https://drive.google.com/file/d/1UZxXwILwtuey8rzOUdnxUEo8gz29rt5h/view?usp=drivesdk",
+                  "modifiedTime": "2026-05-02T13:26:18.840Z",
+                  "videoMediaMetadata": null
+                }
+              ]
+            }
+          ],
+          "files": []
+        },
+        {
+          "id": "189UZuSS5s8jZz_W2RymzK8KP2ZPdsqWJ",
+          "name": "4. CHƯƠNG IV: VẬT LÝ HẠT NHÂN",
+          "webViewLink": "https://drive.google.com/drive/folders/189UZuSS5s8jZz_W2RymzK8KP2ZPdsqWJ",
+          "modifiedTime": "2026-05-03T23:05:07.341Z",
+          "children": [
+            {
+              "id": "1o6ozZV74VSZAu2o05fi92XZGokuQRw--",
+              "name": "1. Bài 21 Cấu trúc hạt nhân",
+              "webViewLink": "https://drive.google.com/drive/folders/1o6ozZV74VSZAu2o05fi92XZGokuQRw--",
+              "modifiedTime": "2026-05-02T13:27:10.033Z",
+              "children": [],
+              "files": [
+                {
+                  "id": "177-T515SLz3nhaoBJObAQKX8JDRrH6T6",
+                  "name": "Bài 21 Cấu trúc hạt nhân.mp4",
+                  "mimeType": "video/mp4",
+                  "size": 146675519,
+                  "webViewLink": "https://drive.google.com/file/d/177-T515SLz3nhaoBJObAQKX8JDRrH6T6/view?usp=drivesdk",
+                  "modifiedTime": "2026-05-02T13:27:58.970Z",
+                  "videoMediaMetadata": {
+                    "width": 1920,
+                    "height": 1080,
+                    "durationMillis": "1138066"
+                  }
+                }
+              ]
+            },
+            {
+              "id": "1g7SkEEBf46veHgxxPkRkUXc84F3tTpLa",
+              "name": "2. Bài 22. Phản ứng Hạt nhân và Năng lượng liên kết P1",
+              "webViewLink": "https://drive.google.com/drive/folders/1g7SkEEBf46veHgxxPkRkUXc84F3tTpLa",
+              "modifiedTime": "2026-05-18T01:40:04.212Z",
+              "children": [],
+              "files": [
+                {
+                  "id": "11ZkyG9RDm-BaFZigZbGgpweOlMy76yNO",
+                  "name": "Bài 22. Phản ứng Hạt nhân và Năng lượng liên kết P1.mp4",
+                  "mimeType": "video/mp4",
+                  "size": 243208362,
+                  "webViewLink": "https://drive.google.com/file/d/11ZkyG9RDm-BaFZigZbGgpweOlMy76yNO/view?usp=drivesdk",
+                  "modifiedTime": "2026-05-18T01:40:15.939Z",
+                  "videoMediaMetadata": {
+                    "width": 1920,
+                    "height": 1080,
+                    "durationMillis": "1944066"
+                  }
+                }
+              ]
+            },
+            {
+              "id": "1INrMqEr73erkqKz6mfytsIpvWKS84O8U",
+              "name": "3. Bài 22. Phản ứng Hạt nhân và Năng lượng liên kết P2",
+              "webViewLink": "https://drive.google.com/drive/folders/1INrMqEr73erkqKz6mfytsIpvWKS84O8U",
+              "modifiedTime": "2026-05-18T01:39:51.592Z",
+              "children": [],
+              "files": [
+                {
+                  "id": "1iQr_31ZweyTrNym_4fmM-u-ssyG2HPti",
+                  "name": "Bài 22. Phản ứng Hạt nhân và Năng lượng liên kết P2.mp4",
+                  "mimeType": "video/mp4",
+                  "size": 124217876,
+                  "webViewLink": "https://drive.google.com/file/d/1iQr_31ZweyTrNym_4fmM-u-ssyG2HPti/view?usp=drivesdk",
+                  "modifiedTime": "2026-05-18T01:40:02.668Z",
+                  "videoMediaMetadata": null
+                }
+              ]
+            }
+          ],
+          "files": []
+        },
+        {
+          "id": "12Af9wGrRZMglFp2UYswNbgTuXALrpCha",
+          "name": "5. CHƯƠNG V: VẬT LÝ HẠT NHÂN(CHỮA BÀI TẬP)",
+          "webViewLink": "https://drive.google.com/drive/folders/12Af9wGrRZMglFp2UYswNbgTuXALrpCha",
+          "modifiedTime": "2026-05-03T23:04:52.756Z",
+          "children": [
+            {
+              "id": "1U2SpNg2Y1XmdUGpeJl_E8qZP0udbB4IS",
+              "name": "1. Bài 1 Cấu trúc và năng lượng liên kết hạt nhân",
+              "webViewLink": "https://drive.google.com/drive/folders/1U2SpNg2Y1XmdUGpeJl_E8qZP0udbB4IS",
+              "modifiedTime": "2026-05-02T13:27:58.985Z",
+              "children": [],
+              "files": [
+                {
+                  "id": "1tGPl2Z-lWIq_-RtS4ggb5qozMf-UHS04",
+                  "name": "Bài 1 Cấu trúc và năng lượng liên kết hạt nhân.mp4",
+                  "mimeType": "video/mp4",
+                  "size": 306556738,
+                  "webViewLink": "https://drive.google.com/file/d/1tGPl2Z-lWIq_-RtS4ggb5qozMf-UHS04/view?usp=drivesdk",
+                  "modifiedTime": "2026-05-02T13:30:59.268Z",
+                  "videoMediaMetadata": null
+                }
+              ]
+            },
+            {
+              "id": "1dZcnje_pPGHnQZYVocLLYN7D32Y04iDO",
+              "name": "2. CHỮA BT BÀI 1",
+              "webViewLink": "https://drive.google.com/drive/folders/1dZcnje_pPGHnQZYVocLLYN7D32Y04iDO",
+              "modifiedTime": "2026-05-02T13:27:59.054Z",
+              "children": [],
+              "files": [
+                {
+                  "id": "1k3My1CT4L8H_AA0qH5JOVQJ-dxSbJQev",
+                  "name": "BT BÀI 1.pdf",
+                  "mimeType": "application/pdf",
+                  "size": 2584341,
+                  "webViewLink": "https://drive.google.com/file/d/1k3My1CT4L8H_AA0qH5JOVQJ-dxSbJQev/view?usp=drivesdk",
+                  "modifiedTime": "2026-05-02T13:31:02.708Z",
+                  "videoMediaMetadata": null
+                },
+                {
+                  "id": "1kN4LreI4H46gB6ODDbwruEv8aFBStmOE",
+                  "name": "Bài 2 Phản ứng hạt nhân + Bài 3 phóng xạ.mp4",
+                  "mimeType": "video/mp4",
+                  "size": 270990699,
+                  "webViewLink": "https://drive.google.com/file/d/1kN4LreI4H46gB6ODDbwruEv8aFBStmOE/view?usp=drivesdk",
+                  "modifiedTime": "2026-05-02T13:34:09.487Z",
+                  "videoMediaMetadata": null
+                },
+                {
+                  "id": "1xJwfMBmtxkft62jb05i5bTdsEU3aNXa7",
+                  "name": "CHỮA BT BÀI 1.mp4",
+                  "mimeType": "video/mp4",
+                  "size": 66255034,
+                  "webViewLink": "https://drive.google.com/file/d/1xJwfMBmtxkft62jb05i5bTdsEU3aNXa7/view?usp=drivesdk",
+                  "modifiedTime": "2026-05-02T13:31:30.673Z",
+                  "videoMediaMetadata": null
+                }
+              ]
+            },
+            {
+              "id": "12RyGPFufdlhLnLXiXYNyUJC3j0AHSvph",
+              "name": "3. CHỮA BT BÀI 2",
+              "webViewLink": "https://drive.google.com/drive/folders/12RyGPFufdlhLnLXiXYNyUJC3j0AHSvph",
+              "modifiedTime": "2026-05-02T13:27:59.062Z",
+              "children": [],
+              "files": [
+                {
+                  "id": "1r26WW5au-H87NR7c6j5HiCZRmk8j-9Hd",
+                  "name": "BT BÀI 2.pdf",
+                  "mimeType": "application/pdf",
+                  "size": 1440282,
+                  "webViewLink": "https://drive.google.com/file/d/1r26WW5au-H87NR7c6j5HiCZRmk8j-9Hd/view?usp=drivesdk",
+                  "modifiedTime": "2026-05-02T13:34:11.951Z",
+                  "videoMediaMetadata": null
+                },
+                {
+                  "id": "1iBxY9_H5uFpyjZ1UZZjVXHdTvdIIS1vs",
+                  "name": "CHỮA BT BÀI 2.mp4",
+                  "mimeType": "video/mp4",
+                  "size": 32928924,
+                  "webViewLink": "https://drive.google.com/file/d/1iBxY9_H5uFpyjZ1UZZjVXHdTvdIIS1vs/view?usp=drivesdk",
+                  "modifiedTime": "2026-05-02T13:34:25.476Z",
+                  "videoMediaMetadata": {
+                    "width": 1920,
+                    "height": 1080,
+                    "durationMillis": "796529"
+                  }
+                }
+              ]
+            },
+            {
+              "id": "1eebn_cmxzOGLBNovu5PnbXmO-lTd2c2Y",
+              "name": "4. Bài 2 Phản ứng hạt nhân + Bài 3 phóng xạ",
+              "webViewLink": "https://drive.google.com/drive/folders/1eebn_cmxzOGLBNovu5PnbXmO-lTd2c2Y",
+              "modifiedTime": "2026-05-02T13:27:59.072Z",
+              "children": [],
+              "files": [
+                {
+                  "id": "1SWYmK1p62uv2bKhXB2eA3aUZdjC9YSJg",
+                  "name": "Bài 2 Phản ứng hạt nhân + Bài 3 phóng xạ.mp4",
+                  "mimeType": "video/mp4",
+                  "size": 270990699,
+                  "webViewLink": "https://drive.google.com/file/d/1SWYmK1p62uv2bKhXB2eA3aUZdjC9YSJg/view?usp=drivesdk",
+                  "modifiedTime": "2026-05-11T22:15:23.451Z",
+                  "videoMediaMetadata": {
+                    "width": 1920,
+                    "height": 1080,
+                    "durationMillis": "4907666"
+                  }
+                },
+                {
+                  "id": "1A1I4X4yu5KfmsdIBukAibthnuH8XkGke",
+                  "name": "Bài 2 Phản ứng hạt nhân + Bài 3 phóng xạ.mp4.idm.json",
+                  "mimeType": "application/json",
+                  "size": 2786,
+                  "webViewLink": "https://drive.google.com/file/d/1A1I4X4yu5KfmsdIBukAibthnuH8XkGke/view?usp=drivesdk",
+                  "modifiedTime": "2026-05-02T13:49:27.912Z",
+                  "videoMediaMetadata": null
+                }
+              ]
+            },
+            {
+              "id": "1NA8xNpg7VJs3Wez5_8gcC3C9_F2_T-fr",
+              "name": "5. Bài 3 Phóng xạ",
+              "webViewLink": "https://drive.google.com/drive/folders/1NA8xNpg7VJs3Wez5_8gcC3C9_F2_T-fr",
+              "modifiedTime": "2026-05-02T13:27:59.081Z",
+              "children": [],
+              "files": [
+                {
+                  "id": "16G7S0wqDS4Z81HdAyX1aHvuw8SX1vHpG",
+                  "name": "Bài 3 Phóng xạ.mp4",
+                  "mimeType": "video/mp4",
+                  "size": 267599167,
+                  "webViewLink": "https://drive.google.com/file/d/16G7S0wqDS4Z81HdAyX1aHvuw8SX1vHpG/view?usp=drivesdk",
+                  "modifiedTime": "2026-05-11T22:13:58.682Z",
+                  "videoMediaMetadata": {
+                    "width": 1920,
+                    "height": 1080,
+                    "durationMillis": "4717299"
+                  }
+                }
+              ]
+            },
+            {
+              "id": "1PVzCgUQjVwdHBVY9KFdhgbp-tvZwrsOo",
+              "name": "6. CHỮA BT BÀI 3",
+              "webViewLink": "https://drive.google.com/drive/folders/1PVzCgUQjVwdHBVY9KFdhgbp-tvZwrsOo",
+              "modifiedTime": "2026-05-02T13:27:59.090Z",
+              "children": [],
+              "files": [
+                {
+                  "id": "1AzSRmZzO-MSBTwp5T8eJN0ezdJKYMEZj",
+                  "name": "BT BÀI 3.pdf",
+                  "mimeType": "application/pdf",
+                  "size": 8885020,
+                  "webViewLink": "https://drive.google.com/file/d/1AzSRmZzO-MSBTwp5T8eJN0ezdJKYMEZj/view?usp=drivesdk",
+                  "modifiedTime": "2026-05-10T11:31:31.870Z",
+                  "videoMediaMetadata": null
+                },
+                {
+                  "id": "1PbRTCHP1AhTsplH5Ax9OcgvZp8yOQ-e2",
+                  "name": "CHỮA BT BÀI 3.mp4",
+                  "mimeType": "video/mp4",
+                  "size": 207043429,
+                  "webViewLink": "https://drive.google.com/file/d/1PbRTCHP1AhTsplH5Ax9OcgvZp8yOQ-e2/view?usp=drivesdk",
+                  "modifiedTime": "2026-05-11T22:13:44.182Z",
+                  "videoMediaMetadata": {
+                    "width": 1920,
+                    "height": 1080,
+                    "durationMillis": "4243499"
+                  }
+                }
+              ]
+            }
+          ],
+          "files": []
+        }
+      ],
+      "files": [],
+      "webViewLink": "https://drive.google.com/drive/folders/1VgTSuHB227wZ2ManmiDHHva8f_E3UX-E",
+      "modifiedTime": "2026-05-02T13:05:25.400Z"
+    },
+    {
+      "id": "10Gd-SXjBXq61dwl1hs4NPCLlxIQ3sK9I",
+      "name": "2. LIVE C - Luyện Thi Chuyên Đề - Lí 12 2K9 - VTA",
+      "children": [],
+      "files": [],
+      "webViewLink": "https://drive.google.com/drive/folders/10Gd-SXjBXq61dwl1hs4NPCLlxIQ3sK9I",
+      "modifiedTime": "2026-04-19T03:39:51.755Z"
+    },
+    {
+      "id": "1bzmdiUeIKRNpOfp3h19pfvS93HVY1xnU",
+      "name": "3. LIVE T - Luyện đề - Vật Lí 12 2K9 - VTA",
+      "children": [],
+      "files": [],
+      "webViewLink": "https://drive.google.com/drive/folders/1bzmdiUeIKRNpOfp3h19pfvS93HVY1xnU",
+      "modifiedTime": "2026-04-19T03:39:51.009Z"
+    },
+    {
+      "id": "1-taN80jnTXEkPq1HDiwwusJIFSrIhrCm",
+      "name": "4. LIVE G - Tổng ôn - Vật lí 12 2K9 - VTA",
+      "children": [],
+      "files": [],
+      "webViewLink": "https://drive.google.com/drive/folders/1-taN80jnTXEkPq1HDiwwusJIFSrIhrCm",
+      "modifiedTime": "2026-04-19T03:39:50.241Z"
+    },
+    {
+      "id": "1sdKqYOhT4tDDLUFFQvvLFtEtfE9lqRb-",
+      "name": "Z. EBOOK SÁCH KÈM KHOÁ HỌC",
+      "children": [],
+      "files": [],
+      "webViewLink": "https://drive.google.com/drive/folders/1sdKqYOhT4tDDLUFFQvvLFtEtfE9lqRb-",
+      "modifiedTime": "2026-04-19T03:39:53.976Z"
+    }
+  ]
+}

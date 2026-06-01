@@ -1,0 +1,617 @@
+{
+  "teacherId": "1Egk914jxRYEGku0jzCfMrvfTen6hUCm8",
+  "tabs": {
+    "1Vnet49fvpTEY0GGSwzIJYOvy8J3-ONIV": {
+      "tabName": "CHẶNG 1",
+      "renderedAt": "2026-05-31T04:14:36.995Z",
+      "checksum": "1Vnet49fvpTEY0GGSwzIJYOvy8J3-ONIV|2026-05-21T06:36:13.019Z|78",
+      "lessons": [
+        {
+          "id": "1kr8Dq4QfHZ-MkGHearDFqACUZ1Fmapka",
+          "name": "1. PHÂN TÍCH ĐỀ THI TN THPT VÀ HƯỚNG ÔN THI HIỆU QUẢ",
+          "parentName": "1. ĐỊNH HƯỚNG ÔN THI",
+          "checksum": "2026-05-03T11:16:56.562Z|1",
+          "virtual": false
+        },
+        {
+          "id": "19EcYaDY9Jvwru0NNSMg7s909GM4tLzGc",
+          "name": "1. PHÂN TÍCH ĐỀ THI TN THPT VÀ HƯỚNG ÔN THI HIỆU QUẢ",
+          "parentName": "1. ĐỊNH HƯỚNG ÔN THI\t\t\t",
+          "checksum": "2026-05-21T06:36:13.019Z|1",
+          "virtual": false
+        },
+        {
+          "id": "1GYcVg_1hPkHYQyOp2XMY-C9HrzM6x9OQ::bai:4",
+          "name": "BÀI 4 VẤN ĐỀ SỬ DỤNG HỢP LÍ TÀI NGUYÊN THIÊN NHIÊN VÀ BẢO VỆ MÔI TRƯỜNG",
+          "parentName": "2. CHƯƠNG 1: ĐỊA LÍ TỰ NHIÊN\t\t\t",
+          "checksum": "2026-05-21T06:34:13.472Z|1|9071225e2dcd",
+          "virtual": true
+        },
+        {
+          "id": "1n_mtattEh3hslTrvCHQyyKfmnG6mR4KI",
+          "name": "1. BÀI 1 VỊ TRÍ ĐỊA LÍ, PHẠM VI LÃNH THỔ",
+          "parentName": "2. CHƯƠNG 1: ĐỊA LÍ TỰ NHIÊN\t\t\t",
+          "checksum": "2026-05-21T06:36:00.049Z|1",
+          "virtual": false
+        },
+        {
+          "id": "1d_xK2CcXBeUsj66ORdfBmDUvekVMXjbN",
+          "name": "2. CHỮA BT BÀI 1",
+          "parentName": "2. CHƯƠNG 1: ĐỊA LÍ TỰ NHIÊN\t\t\t",
+          "checksum": "2026-05-21T06:35:49.196Z|1",
+          "virtual": false
+        },
+        {
+          "id": "13KwBP8g5_hQyFcDN5aMap9cqJ0yTjmPl",
+          "name": "3. BÀI 2 THIÊN NHIÊN NHIỆT ĐỚI ẨM GIÓ MÙA",
+          "parentName": "2. CHƯƠNG 1: ĐỊA LÍ TỰ NHIÊN\t\t\t",
+          "checksum": "2026-05-21T06:35:34.067Z|1",
+          "virtual": false
+        },
+        {
+          "id": "1Hh-SRjpcUpeoZet6UwwI5AL9voJaZVtQ",
+          "name": "4. BÀI 2 THIÊN NHIÊN NHIỆT ĐỚI ẨM GIÓ MÙA P2",
+          "parentName": "2. CHƯƠNG 1: ĐỊA LÍ TỰ NHIÊN\t\t\t",
+          "checksum": "2026-05-21T06:35:22.508Z|1",
+          "virtual": false
+        },
+        {
+          "id": "1974kR-n-tTHUGHBepZjik26hNkdzQxSb",
+          "name": "5. CHỮA BT BÀI 2",
+          "parentName": "2. CHƯƠNG 1: ĐỊA LÍ TỰ NHIÊN\t\t\t",
+          "checksum": "2026-05-21T06:35:10.961Z|1",
+          "virtual": false
+        },
+        {
+          "id": "1gtVUfZvdaKHNE2zAPGg5fsCFypy5pAjc",
+          "name": "6. BÀI 3 SỰ PHÂN HÓA ĐA DẠNG CỦA THIÊN NHIÊN",
+          "parentName": "2. CHƯƠNG 1: ĐỊA LÍ TỰ NHIÊN\t\t\t",
+          "checksum": "2026-05-21T06:34:53.008Z|1",
+          "virtual": false
+        },
+        {
+          "id": "1bbVmeb_P7zWNJIJNaT7wzHQOQDlaC75o",
+          "name": "7. BÀI 3 SỰ PHÂN HÓA ĐA DẠNG CỦA THIÊN NHIÊN P2",
+          "parentName": "2. CHƯƠNG 1: ĐỊA LÍ TỰ NHIÊN\t\t\t",
+          "checksum": "2026-05-21T06:34:37.866Z|1",
+          "virtual": false
+        },
+        {
+          "id": "1rq8XiZSvbju0nmzkDU3eJn-IQcYonccd",
+          "name": "8. CHỮA BT BÀI 3",
+          "parentName": "2. CHƯƠNG 1: ĐỊA LÍ TỰ NHIÊN\t\t\t",
+          "checksum": "2026-05-21T06:34:00.315Z|1",
+          "virtual": false
+        },
+        {
+          "id": "1NIBv7gMSOFcwvsseZiLUx6iMaZWHHYG3",
+          "name": "10. CHỮA BT BÀI 4",
+          "parentName": "2. CHƯƠNG 1: ĐỊA LÍ TỰ NHIÊN\t\t\t",
+          "checksum": "2026-05-21T06:34:25.002Z|1",
+          "virtual": false
+        },
+        {
+          "id": "1sC8lvCKfP0Vpz_rKZlMeFkv8ynIQTva5",
+          "name": "1. BÀI 5 DÂN SỐ VIỆT NAM",
+          "parentName": "3. CHƯƠNG 2: ĐỊA LÍ DÂN CƯ\t\t\t",
+          "checksum": "2026-05-21T06:33:42.789Z|1",
+          "virtual": false
+        },
+        {
+          "id": "1CrFQ94ISIwkdoCiYwkIPnsyxqW8tu8Z1",
+          "name": "2. BÀI 6 LAO ĐỘNG VÀ VIỆC LÀM",
+          "parentName": "3. CHƯƠNG 2: ĐỊA LÍ DÂN CƯ\t\t\t",
+          "checksum": "2026-05-21T06:33:31.974Z|1",
+          "virtual": false
+        },
+        {
+          "id": "1Exe9X0BvzftdxSuv10Zz5mvlByZSeQSv",
+          "name": "3. BÀI 7 ĐÔ THỊ HÓA",
+          "parentName": "3. CHƯƠNG 2: ĐỊA LÍ DÂN CƯ\t\t\t",
+          "checksum": "2026-05-21T06:33:21.568Z|1",
+          "virtual": false
+        },
+        {
+          "id": "10pBHnMalowlD8VBjvurk0bjalxBRobK6",
+          "name": "4. CHỮA BT BÀI 5",
+          "parentName": "3. CHƯƠNG 2: ĐỊA LÍ DÂN CƯ\t\t\t",
+          "checksum": "2026-05-21T06:33:12.236Z|1",
+          "virtual": false
+        },
+        {
+          "id": "1n6JgMUcy7ZXX8J91zSCLHCaIIDZbf3jl",
+          "name": "5. CHỮA BT BÀI 6",
+          "parentName": "3. CHƯƠNG 2: ĐỊA LÍ DÂN CƯ\t\t\t",
+          "checksum": "2026-05-21T06:33:02.068Z|1",
+          "virtual": false
+        },
+        {
+          "id": "15kCbGC7Mrfdr21krgY3HZG7Ik5mqq5ac",
+          "name": "6. CHỮA BT BÀI 7",
+          "parentName": "3. CHƯƠNG 2: ĐỊA LÍ DÂN CƯ\t\t\t",
+          "checksum": "2026-05-21T06:32:50.513Z|1",
+          "virtual": false
+        },
+        {
+          "id": "1N2Qe1CLcDS6WtBAVDXUSjJAVO6rLGF4K",
+          "name": "1. BÀI 8 CHUYỂN DỊCH CƠ CẤU KINH TẾ",
+          "parentName": "4. CHƯƠNG 3: ĐỊA LÍ NGÀNH KINH TẾ\t\t",
+          "checksum": "2026-05-21T06:32:37.420Z|1",
+          "virtual": false
+        },
+        {
+          "id": "1R7ZjSUWhqg7tEIQs9g0yP-TdJmykb5Jc",
+          "name": "2. CHỮA BT 8",
+          "parentName": "4. CHƯƠNG 3: ĐỊA LÍ NGÀNH KINH TẾ\t\t",
+          "checksum": "2026-05-21T06:32:27.264Z|1",
+          "virtual": false
+        },
+        {
+          "id": "1kM8hq9323yA5BR8ZR0S8k-s1rQENJpZU",
+          "name": "3. CHỮA BT 9",
+          "parentName": "4. CHƯƠNG 3: ĐỊA LÍ NGÀNH KINH TẾ\t\t",
+          "checksum": "2026-05-21T06:32:15.235Z|1",
+          "virtual": false
+        },
+        {
+          "id": "17MncZB0V4roCIKhvp38xNDVrJi3Cm8ti",
+          "name": "4. CHỮA BT 10",
+          "parentName": "4. CHƯƠNG 3: ĐỊA LÍ NGÀNH KINH TẾ\t\t",
+          "checksum": "2026-05-21T06:32:00.412Z|1",
+          "virtual": false
+        },
+        {
+          "id": "1oopuoFF5tz-vJYnQm9VIiuLOeB80WCQn",
+          "name": "5. CHỮA BT 11",
+          "parentName": "4. CHƯƠNG 3: ĐỊA LÍ NGÀNH KINH TẾ\t\t",
+          "checksum": "2026-05-21T06:31:49.704Z|1",
+          "virtual": false
+        },
+        {
+          "id": "1ia3HCfdtx2YnNHk5UAeGC1bg4MjFDdWQ",
+          "name": "6. CHỮA BT 12",
+          "parentName": "4. CHƯƠNG 3: ĐỊA LÍ NGÀNH KINH TẾ\t\t",
+          "checksum": "2026-05-21T06:31:38.741Z|1",
+          "virtual": false
+        },
+        {
+          "id": "1GPjTpfhV650f7U2QOpr8QODlziNEKxJ5",
+          "name": "7. CHỮA BT 13",
+          "parentName": "4. CHƯƠNG 3: ĐỊA LÍ NGÀNH KINH TẾ\t\t",
+          "checksum": "2026-05-21T06:31:27.278Z|1",
+          "virtual": false
+        },
+        {
+          "id": "1IcHCSEGpKsGYsi6spL-gS1FRPC0U4yLU",
+          "name": "8. CHỮA BT 14",
+          "parentName": "4. CHƯƠNG 3: ĐỊA LÍ NGÀNH KINH TẾ\t\t",
+          "checksum": "2026-05-21T06:31:16.618Z|1",
+          "virtual": false
+        },
+        {
+          "id": "1Rrsponp1WWIRnRF_9l3el3esfjekCkgL",
+          "name": "9. CHỮA BT 15",
+          "parentName": "4. CHƯƠNG 3: ĐỊA LÍ NGÀNH KINH TẾ\t\t",
+          "checksum": "2026-05-21T06:31:05.203Z|1",
+          "virtual": false
+        },
+        {
+          "id": "1hoWIag65Dsuw3GHloQGR62UgG7NEGgIB",
+          "name": "10. CHỮA BT 16",
+          "parentName": "4. CHƯƠNG 3: ĐỊA LÍ NGÀNH KINH TẾ\t\t",
+          "checksum": "2026-05-21T06:30:52.796Z|1",
+          "virtual": false
+        },
+        {
+          "id": "1V8B3K50g8FrpMHcE8zSMqkxxKEsQjUgR",
+          "name": "11. CHỮA BT 17",
+          "parentName": "4. CHƯƠNG 3: ĐỊA LÍ NGÀNH KINH TẾ\t\t",
+          "checksum": "2026-05-21T06:30:40.062Z|1",
+          "virtual": false
+        },
+        {
+          "id": "1VCI5ZVjN2xmBlrW0m7Vl36vGJ-v6DJtG",
+          "name": "12. Bài 9 Vấn đề phát triển ngành nông nghiệp",
+          "parentName": "4. CHƯƠNG 3: ĐỊA LÍ NGÀNH KINH TẾ\t\t",
+          "checksum": "2026-05-21T06:30:28.526Z|1",
+          "virtual": false
+        },
+        {
+          "id": "1P6No6gKdL1HSylMFfVasb5MWJqmpu2ma",
+          "name": "13. Bài 10 Vấn đề phát triển ngành lâm nghiệp và ngành thủy sản",
+          "parentName": "4. CHƯƠNG 3: ĐỊA LÍ NGÀNH KINH TẾ\t\t",
+          "checksum": "2026-05-21T06:30:09.450Z|1",
+          "virtual": false
+        },
+        {
+          "id": "1yZG0bCLK6d3EFNbVwdOFAHdTKPBWK_Hh",
+          "name": "14. Bài 11 + 12 Tổ chức lãnh thổ nông nghiệp, Chuyển dịch cơ cấu ngành công nghiệp",
+          "parentName": "4. CHƯƠNG 3: ĐỊA LÍ NGÀNH KINH TẾ\t\t",
+          "checksum": "2026-05-21T06:29:50.699Z|1",
+          "virtual": false
+        },
+        {
+          "id": "1z2PnHwdA9oUpw7HThJw67gkydqwdtHi5",
+          "name": "15. Bài 13 Một số ngành công nghiệp",
+          "parentName": "4. CHƯƠNG 3: ĐỊA LÍ NGÀNH KINH TẾ\t\t",
+          "checksum": "2026-05-21T06:29:28.375Z|1",
+          "virtual": false
+        },
+        {
+          "id": "1Uc5qZCkP2Ayl-XdvnIo_MQhrU2OEx-Ew",
+          "name": "16. Bài 14 Tổ chức lãnh thổ công nghiệp",
+          "parentName": "4. CHƯƠNG 3: ĐỊA LÍ NGÀNH KINH TẾ\t\t",
+          "checksum": "2026-05-21T06:29:10.518Z|1",
+          "virtual": false
+        },
+        {
+          "id": "17mXezV6dtJ1DLXYZZ0VB_NTa5ilyYU1i",
+          "name": "17. Bài 15 + 16 Dịch vụ, Giao thông vận tải và bưu chính viễn thông",
+          "parentName": "4. CHƯƠNG 3: ĐỊA LÍ NGÀNH KINH TẾ\t\t",
+          "checksum": "2026-05-21T06:28:55.421Z|1",
+          "virtual": false
+        },
+        {
+          "id": "15acZKCZuX6v3lqD2sGTuPktJI87sn3-r",
+          "name": "18. Bài 17 Thương mại và du lịch",
+          "parentName": "4. CHƯƠNG 3: ĐỊA LÍ NGÀNH KINH TẾ\t\t",
+          "checksum": "2026-05-21T06:28:37.443Z|1",
+          "virtual": false
+        },
+        {
+          "id": "11pP3LJhJzSYKf06_echCrn4HpMVuUOiA",
+          "name": "1. Chữa BT Bài 18",
+          "parentName": "5.  Chương 4: Địa lí vùng kinh tế",
+          "checksum": "2026-05-21T06:28:16.500Z|1",
+          "virtual": false
+        },
+        {
+          "id": "1TCzTUxGtd_YH0l4vOp-xDK1Xtio_6y4x",
+          "name": "2. Chữa BT Bài 19",
+          "parentName": "5.  Chương 4: Địa lí vùng kinh tế",
+          "checksum": "2026-05-21T06:28:06.096Z|1",
+          "virtual": false
+        },
+        {
+          "id": "1cd_VZdDW5DxyShrmPKkCqlzMeDKlhuZr",
+          "name": "3. Chữa BT Bài 20",
+          "parentName": "5.  Chương 4: Địa lí vùng kinh tế",
+          "checksum": "2026-05-21T06:27:54.048Z|1",
+          "virtual": false
+        },
+        {
+          "id": "1VMd3Fbp3dtK6gT522iL0Km0ut8ZtACsH",
+          "name": "4. Chữa BT Bài 21",
+          "parentName": "5.  Chương 4: Địa lí vùng kinh tế",
+          "checksum": "2026-05-21T06:27:41.248Z|1",
+          "virtual": false
+        },
+        {
+          "id": "1fLObVYvzz9WWSb_MaKxH3qP6oZA-UYQR",
+          "name": "5. Chữa BT Bài 22",
+          "parentName": "5.  Chương 4: Địa lí vùng kinh tế",
+          "checksum": "2026-05-21T06:27:29.748Z|1",
+          "virtual": false
+        },
+        {
+          "id": "1bt1lLVcb7mhjek3WhE9Dcst4d1H9jXa-",
+          "name": "6. Chữa BT Bài 23",
+          "parentName": "5.  Chương 4: Địa lí vùng kinh tế",
+          "checksum": "2026-05-21T06:27:13.562Z|1",
+          "virtual": false
+        },
+        {
+          "id": "12DJHDkufdMeJtQ4fapg7a1u2nmVfF_zF",
+          "name": "7. Chữa BT Bài 24",
+          "parentName": "5.  Chương 4: Địa lí vùng kinh tế",
+          "checksum": "2026-05-21T06:27:02.730Z|1",
+          "virtual": false
+        },
+        {
+          "id": "1_F3OWSmajwgbp30n262w33R53yjrLWEI",
+          "name": "8. Bài 18 Trung du và miền núi phía Bắc",
+          "parentName": "5.  Chương 4: Địa lí vùng kinh tế",
+          "checksum": "2026-05-21T06:26:51.234Z|1",
+          "virtual": false
+        },
+        {
+          "id": "1hpDqFl7j3KgsbQmzO0_YPcojQFhKxbhk",
+          "name": "9. Bài 19 Đồng bằng sông Hồng",
+          "parentName": "5.  Chương 4: Địa lí vùng kinh tế",
+          "checksum": "2026-05-21T06:26:32.694Z|1",
+          "virtual": false
+        },
+        {
+          "id": "1knWoh5HOXW3NbSiMng6_I5l6J49nvvxo",
+          "name": "10. Bài 20 Bắc Trung Bộ",
+          "parentName": "5.  Chương 4: Địa lí vùng kinh tế",
+          "checksum": "2026-05-21T06:26:06.577Z|1",
+          "virtual": false
+        },
+        {
+          "id": "1G15Poo3PGCEqkjXsb2n9rpKSEI2QNgi5",
+          "name": "11. Bài 21 - P1 Nam Trung Bộ",
+          "parentName": "5.  Chương 4: Địa lí vùng kinh tế",
+          "checksum": "2026-05-21T06:25:48.280Z|1",
+          "virtual": false
+        },
+        {
+          "id": "1DZXJdhpgU6TDvsNqvUd-VBSG6XKlaT06",
+          "name": "12. Bài 21 - P2 Nam Trung Bộ",
+          "parentName": "5.  Chương 4: Địa lí vùng kinh tế",
+          "checksum": "2026-05-21T06:23:55.461Z|1",
+          "virtual": false
+        },
+        {
+          "id": "1ftLkOP_67T96ON6bmPeUVb3frd8nINTd",
+          "name": "13. Bài 22 Đông Nam Bộ",
+          "parentName": "5.  Chương 4: Địa lí vùng kinh tế",
+          "checksum": "2026-05-21T06:23:41.773Z|1",
+          "virtual": false
+        },
+        {
+          "id": "1oKxfGV286IgRLq58jwmaCZAyIsCcYr7T",
+          "name": "14. Bài 23 Đồng bằng sông Cửu Long",
+          "parentName": "5.  Chương 4: Địa lí vùng kinh tế",
+          "checksum": "2026-05-21T06:23:21.628Z|1",
+          "virtual": false
+        },
+        {
+          "id": "1QeJ1Z1WMhgUXwFv1ljlkQtnZCiky64F9",
+          "name": "15. Bài 24 Biển Đông và các đảo, quần đảo",
+          "parentName": "5.  Chương 4: Địa lí vùng kinh tế",
+          "checksum": "2026-05-21T06:23:03.122Z|1",
+          "virtual": false
+        },
+        {
+          "id": "18IAxlYhZuj4D9b3Gtl0MnqFj9UI0Vkax::bai:4",
+          "name": "BÀI 4 VẤN ĐỀ SỬ DỤNG HỢP LÍ TÀI NGUYÊN THIÊN NHIÊN VÀ BẢO VỆ MÔI TRƯỜNG",
+          "parentName": "2. CHƯƠNG 1: ĐỊA LÍ TỰ NHIÊN",
+          "checksum": "2026-05-04T14:17:23.366Z|1|ab6fb629a90d",
+          "virtual": true
+        },
+        {
+          "id": "1siZr1GTjf-QH_Ur1B6OH8tf6maBD1NDs",
+          "name": "1. BÀI 1 VỊ TRÍ ĐỊA LÍ, PHẠM VI LÃNH THỔ",
+          "parentName": "2. CHƯƠNG 1: ĐỊA LÍ TỰ NHIÊN",
+          "checksum": "2026-05-03T12:31:58.304Z|1",
+          "virtual": false
+        },
+        {
+          "id": "1ttZz4jMgyoW3LPagpaLguGYR-PGllukl",
+          "name": "2. CHỮA BT BÀI 1",
+          "parentName": "2. CHƯƠNG 1: ĐỊA LÍ TỰ NHIÊN",
+          "checksum": "2026-05-03T12:33:39.698Z|1",
+          "virtual": false
+        },
+        {
+          "id": "1Bg14upCdXwqx8cGHLt4GxVVmUpr1ZKET",
+          "name": "3. BÀI 2 THIÊN NHIÊN NHIỆT ĐỚI ẨM GIÓ MÙA",
+          "parentName": "2. CHƯƠNG 1: ĐỊA LÍ TỰ NHIÊN",
+          "checksum": "2026-05-03T12:34:30.748Z|1",
+          "virtual": false
+        },
+        {
+          "id": "1tYnubmGtfKf5cGIJzz7fnHy70jCFRVze",
+          "name": "4. BÀI 2 THIÊN NHIÊN NHIỆT ĐỚI ẨM GIÓ MÙA P2",
+          "parentName": "2. CHƯƠNG 1: ĐỊA LÍ TỰ NHIÊN",
+          "checksum": "2026-05-03T12:35:21.929Z|1",
+          "virtual": false
+        },
+        {
+          "id": "1oLVtQOeurZdSws53AWKQVnHq9EHSvUdr",
+          "name": "5. CHỮA BT BÀI 2",
+          "parentName": "2. CHƯƠNG 1: ĐỊA LÍ TỰ NHIÊN",
+          "checksum": "2026-05-03T12:37:25.338Z|1",
+          "virtual": false
+        },
+        {
+          "id": "1AumGaLnI88rZOKhOxI1CbmEh9sRVb1X9",
+          "name": "6. BÀI 3 SỰ PHÂN HÓA ĐA DẠNG CỦA THIÊN NHIÊN",
+          "parentName": "2. CHƯƠNG 1: ĐỊA LÍ TỰ NHIÊN",
+          "checksum": "2026-05-03T12:39:01.219Z|1",
+          "virtual": false
+        },
+        {
+          "id": "1rIhC02Y8Nx3FEPPZB6YPnlopk0jF3tRQ",
+          "name": "7. BÀI 3 SỰ PHÂN HÓA ĐA DẠNG CỦA THIÊN NHIÊN P2",
+          "parentName": "2. CHƯƠNG 1: ĐỊA LÍ TỰ NHIÊN",
+          "checksum": "2026-05-03T12:40:19.206Z|1",
+          "virtual": false
+        },
+        {
+          "id": "1LOxZRY4zmrhm_5Pk5_6zhXx9aM79odzB",
+          "name": "8. CHỮA BT BÀI 3",
+          "parentName": "2. CHƯƠNG 1: ĐỊA LÍ TỰ NHIÊN",
+          "checksum": "2026-05-12T08:22:03.027Z|1",
+          "virtual": false
+        },
+        {
+          "id": "1cTY12Jjw92twE3gOpBT_uUoOBBgxIEeE",
+          "name": "9. CHỮA BT BÀI 4",
+          "parentName": "2. CHƯƠNG 1: ĐỊA LÍ TỰ NHIÊN",
+          "checksum": "2026-05-03T12:42:34.715Z|1",
+          "virtual": false
+        },
+        {
+          "id": "1IBwt1IRou3P6TC-OlAvQRbQbplny-lCA",
+          "name": "10. CHỮA BT BÀI 4",
+          "parentName": "2. CHƯƠNG 1: ĐỊA LÍ TỰ NHIÊN",
+          "checksum": "2026-05-12T08:22:11.162Z|0",
+          "virtual": false
+        },
+        {
+          "id": "1q8PWZ-DbN56hRjfWyOqyZnNlxoMr1spr",
+          "name": "1. BÀI 5 DÂN SỐ VIỆT NAM",
+          "parentName": "3. CHƯƠNG 2: ĐỊA LÍ DÂN CƯ",
+          "checksum": "2026-05-03T12:43:24.151Z|1",
+          "virtual": false
+        },
+        {
+          "id": "1aE03k5DCbJ27LHty44Ao2kbHh3I0IYxU",
+          "name": "2. BÀI 6 LAO ĐỘNG VÀ VIỆC LÀM",
+          "parentName": "3. CHƯƠNG 2: ĐỊA LÍ DÂN CƯ",
+          "checksum": "2026-05-03T12:44:00.777Z|1",
+          "virtual": false
+        },
+        {
+          "id": "1oDvsCCvzh45fhXFCF4XQsDPcVyWTmP0l",
+          "name": "3. BÀI 7 ĐÔ THỊ HÓA",
+          "parentName": "3. CHƯƠNG 2: ĐỊA LÍ DÂN CƯ",
+          "checksum": "2026-05-03T12:44:25.879Z|1",
+          "virtual": false
+        },
+        {
+          "id": "1gQ2SDCy_NtCK2fwi4u3GgZT3sC57aZGi",
+          "name": "4. CHỮA BT BÀI 5",
+          "parentName": "3. CHƯƠNG 2: ĐỊA LÍ DÂN CƯ",
+          "checksum": "2026-05-11T12:03:01.394Z|1",
+          "virtual": false
+        },
+        {
+          "id": "1_2nfXRjSSR2x5POa5MFuzF5JlCZhdUtA",
+          "name": "5. CHỮA BT BÀI 6",
+          "parentName": "3. CHƯƠNG 2: ĐỊA LÍ DÂN CƯ",
+          "checksum": "2026-05-11T11:51:49.282Z|1",
+          "virtual": false
+        },
+        {
+          "id": "1KIt70q1FRsiqnHZOzuREcwNCrNNQkF7h",
+          "name": "6. CHỮA BT BÀI 7",
+          "parentName": "3. CHƯƠNG 2: ĐỊA LÍ DÂN CƯ",
+          "checksum": "2026-05-10T11:15:12.327Z|1",
+          "virtual": false
+        },
+        {
+          "id": "1rz_k-jOPv6divRyOYKC8BOgHGvizpmvO",
+          "name": "1. BÀI 8 CHUYỂN DỊCH CƠ CẤU KINH TẾ",
+          "parentName": "4. CHƯƠNG 3: ĐỊA LÍ NGÀNH KINH TẾ",
+          "checksum": "2026-05-03T12:45:13.907Z|1",
+          "virtual": false
+        },
+        {
+          "id": "1LZDfQ_84LAvK2DPER6iFl09Gk-HXNb6Q",
+          "name": "2. CHỮA BT 8",
+          "parentName": "4. CHƯƠNG 3: ĐỊA LÍ NGÀNH KINH TẾ",
+          "checksum": "2026-05-10T11:08:49.658Z|1",
+          "virtual": false
+        },
+        {
+          "id": "14GlRc_mz4QQtx9J_YzckuKQO4OpvfuIo",
+          "name": "3. CHỮA BT 9",
+          "parentName": "4. CHƯƠNG 3: ĐỊA LÍ NGÀNH KINH TẾ",
+          "checksum": "2026-05-10T11:01:47.688Z|1",
+          "virtual": false
+        },
+        {
+          "id": "13LnBXE8c-qA_eFQ_fRn6clALdh8WE5MB",
+          "name": "4. CHỮA BT 10",
+          "parentName": "4. CHƯƠNG 3: ĐỊA LÍ NGÀNH KINH TẾ",
+          "checksum": "2026-05-10T10:44:54.707Z|1",
+          "virtual": false
+        },
+        {
+          "id": "1Ldo9p259Gj-Zgmmfxi5O36D7zn1MR9Qi",
+          "name": "5. CHỮA BT 11",
+          "parentName": "4. CHƯƠNG 3: ĐỊA LÍ NGÀNH KINH TẾ",
+          "checksum": "2026-05-10T10:30:29.417Z|1",
+          "virtual": false
+        },
+        {
+          "id": "1C_ofYvqysp3xA4roXeinQ0n4cNqJe3Q2",
+          "name": "6. CHỮA BT 12",
+          "parentName": "4. CHƯƠNG 3: ĐỊA LÍ NGÀNH KINH TẾ",
+          "checksum": "2026-05-10T10:21:44.188Z|1",
+          "virtual": false
+        },
+        {
+          "id": "12lMWxV7_Ddb9GEsG0oDxkkmW2xxjiF8W",
+          "name": "7. CHỮA BT 13",
+          "parentName": "4. CHƯƠNG 3: ĐỊA LÍ NGÀNH KINH TẾ",
+          "checksum": "2026-05-10T10:09:42.861Z|1",
+          "virtual": false
+        },
+        {
+          "id": "11Id_EZGb8FiRIEUNz9QRw-WKsRKcSsIp",
+          "name": "8. CHỮA BT 14",
+          "parentName": "4. CHƯƠNG 3: ĐỊA LÍ NGÀNH KINH TẾ",
+          "checksum": "2026-05-10T09:59:37.148Z|1",
+          "virtual": false
+        },
+        {
+          "id": "1T7-0uGd6DJFpHXA6Vo6GOOef0AZzlc6Z",
+          "name": "9. CHỮA BT 15",
+          "parentName": "4. CHƯƠNG 3: ĐỊA LÍ NGÀNH KINH TẾ",
+          "checksum": "2026-05-10T09:49:36.206Z|1",
+          "virtual": false
+        },
+        {
+          "id": "1J9lNpnTms2x-lADbBoY8lX4fwKDb4GzJ",
+          "name": "10. CHỮA BT 16",
+          "parentName": "4. CHƯƠNG 3: ĐỊA LÍ NGÀNH KINH TẾ",
+          "checksum": "2026-05-10T09:31:12.881Z|1",
+          "virtual": false
+        },
+        {
+          "id": "1oIDSJGLXORMiEM6HtPy8tRjXxu0SBuTe",
+          "name": "11. CHỮA BT 17",
+          "parentName": "4. CHƯƠNG 3: ĐỊA LÍ NGÀNH KINH TẾ",
+          "checksum": "2026-05-10T09:18:41.768Z|1",
+          "virtual": false
+        }
+      ],
+      "rendererVersion": "4.3.1",
+      "styleVersion": "2026-05-31-student-banner-no-meta-v2",
+      "runId": "no-meta-sync-2026-05-31-104541",
+      "spreadsheetId": "1e6nSjQ55eWlBdMMARw2s6f1PMjyv7IToPuvIGdYjJU0",
+      "stats": {
+        "leafCount": 79,
+        "totalVideos": 78
+      }
+    },
+    "1t2DBINCnz4YSy6oglzGqucu5iHTctJHt": {
+      "tabName": "CHẶNG 2",
+      "renderedAt": "2026-05-31T04:14:44.158Z",
+      "checksum": "1t2DBINCnz4YSy6oglzGqucu5iHTctJHt|2026-04-19T03:39:37.289Z|0",
+      "lessons": [],
+      "rendererVersion": "4.3.1",
+      "styleVersion": "2026-05-31-student-banner-no-meta-v2",
+      "runId": "no-meta-sync-2026-05-31-104541",
+      "spreadsheetId": "1e6nSjQ55eWlBdMMARw2s6f1PMjyv7IToPuvIGdYjJU0",
+      "stats": {
+        "leafCount": 0,
+        "totalVideos": 0
+      }
+    },
+    "1UTyfbHOkeHo9-YVWHqCPAIhqVB_cXFsC": {
+      "tabName": "CHẶNG 3",
+      "renderedAt": "2026-05-31T04:14:51.287Z",
+      "checksum": "1UTyfbHOkeHo9-YVWHqCPAIhqVB_cXFsC|2026-04-19T03:39:36.173Z|0",
+      "lessons": [],
+      "rendererVersion": "4.3.1",
+      "styleVersion": "2026-05-31-student-banner-no-meta-v2",
+      "runId": "no-meta-sync-2026-05-31-104541",
+      "spreadsheetId": "1e6nSjQ55eWlBdMMARw2s6f1PMjyv7IToPuvIGdYjJU0",
+      "stats": {
+        "leafCount": 0,
+        "totalVideos": 0
+      }
+    },
+    "1UhJogo0qrdBftNZypNCkJynKcFV0CREo": {
+      "tabName": "CHẶNG 4",
+      "renderedAt": "2026-05-31T04:14:58.508Z",
+      "checksum": "1UhJogo0qrdBftNZypNCkJynKcFV0CREo|2026-04-19T03:39:35.274Z|0",
+      "lessons": [],
+      "rendererVersion": "4.3.1",
+      "styleVersion": "2026-05-31-student-banner-no-meta-v2",
+      "runId": "no-meta-sync-2026-05-31-104541",
+      "spreadsheetId": "1e6nSjQ55eWlBdMMARw2s6f1PMjyv7IToPuvIGdYjJU0",
+      "stats": {
+        "leafCount": 0,
+        "totalVideos": 0
+      }
+    }
+  },
+  "updatedAt": "2026-05-31T04:14:58.509Z",
+  "version": 2
+}

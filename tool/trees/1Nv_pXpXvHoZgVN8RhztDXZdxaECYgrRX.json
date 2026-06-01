@@ -1,0 +1,1438 @@
+{
+  "crawledAt": "2026-05-30T02:09:51.361Z",
+  "teacher": {
+    "id": "1Nv_pXpXvHoZgVN8RhztDXZdxaECYgrRX",
+    "name": "1. VĂN CÔ SƯƠNG MAI QANDA 2K9",
+    "modifiedTime": "2026-05-27T14:44:00.197Z",
+    "webViewLink": "https://drive.google.com/drive/folders/1Nv_pXpXvHoZgVN8RhztDXZdxaECYgrRX"
+  },
+  "courses": [
+    {
+      "id": "1lEkjJPSYPjcqB4_piAM1rjIKLxK63T33",
+      "name": "0. INFO THÔNG TIN VÀ HƯỚNG DẪN KHOÁ HỌC",
+      "children": [],
+      "files": [],
+      "webViewLink": "https://drive.google.com/drive/folders/1lEkjJPSYPjcqB4_piAM1rjIKLxK63T33",
+      "modifiedTime": "2026-04-17T13:59:44.276Z"
+    },
+    {
+      "id": "1WTtfkDDQn5Cv0AyAD93eYBR0v0OPiQrT",
+      "name": "0. THÔNG TIN QUAN TRỌNG CẦN NẮM",
+      "children": [],
+      "files": [],
+      "webViewLink": "https://drive.google.com/drive/folders/1WTtfkDDQn5Cv0AyAD93eYBR0v0OPiQrT",
+      "modifiedTime": "2026-04-17T13:59:43.431Z"
+    },
+    {
+      "id": "1v_L1Br6OOQTrjQiUn5Ox4Q9ScZia6RLB",
+      "name": "1. GĐ1.T1: LỘ TRÌNH HỌC THÁNG 1/2026",
+      "children": [
+        {
+          "id": "1BIPSNsMR-VL8g7K8bscoQFFO5L9CGg8t",
+          "name": "01. [Tuần 1] Những kiến thức BẮT BUỘC phải học nếu mất gốc",
+          "webViewLink": "https://drive.google.com/drive/folders/1BIPSNsMR-VL8g7K8bscoQFFO5L9CGg8t",
+          "modifiedTime": "2026-04-25T22:50:38.442Z",
+          "children": [],
+          "files": [
+            {
+              "id": "1asOkVhmOrzVIM0eQawnfAJ6BULRThB4b",
+              "name": "1767328207524-tu-hoc-diem-danh-nhung-kien-thuc-bat-buoc-phai-hoc-neu-mat-goc-pdf.pdf",
+              "mimeType": "application/pdf",
+              "size": 824024,
+              "webViewLink": "https://drive.google.com/file/d/1asOkVhmOrzVIM0eQawnfAJ6BULRThB4b/view?usp=drivesdk",
+              "modifiedTime": "2026-04-25T22:50:39.416Z",
+              "videoMediaMetadata": null
+            }
+          ]
+        },
+        {
+          "id": "1TXYS4oHKCw2cJY1h6mOPLF3_FhDTslSi",
+          "name": "02. [Tuần 1] VOD - KỸ NĂNG CHUNG VIẾT BÀI VĂN VÀ ĐOẠN VĂN",
+          "webViewLink": "https://drive.google.com/drive/folders/1TXYS4oHKCw2cJY1h6mOPLF3_FhDTslSi",
+          "modifiedTime": "2026-04-25T22:50:25.994Z",
+          "children": [],
+          "files": [
+            {
+              "id": "1Zo_yNiFegGnobouddwY5CrRPeS4pYXJK",
+              "name": "1752635685874-ki-nang-chung-viet-doan-van-va-bai-van-pdf.pdf",
+              "mimeType": "application/pdf",
+              "size": 11273962,
+              "webViewLink": "https://drive.google.com/file/d/1Zo_yNiFegGnobouddwY5CrRPeS4pYXJK/view?usp=drivesdk",
+              "modifiedTime": "2026-04-25T22:50:28.191Z",
+              "videoMediaMetadata": null
+            },
+            {
+              "id": "1WT0n_YyvOfnz4rXsIZMUaUYwZ840I2Aw",
+              "name": "[Tuần 1] VOD - KỸ NĂNG CHUNG VIẾT BÀI VĂN VÀ ĐOẠN VĂN.mp4",
+              "mimeType": "video/mp4",
+              "size": 192481713,
+              "webViewLink": "https://drive.google.com/file/d/1WT0n_YyvOfnz4rXsIZMUaUYwZ840I2Aw/view?usp=drivesdk",
+              "modifiedTime": "2026-05-11T13:16:19.007Z",
+              "videoMediaMetadata": {
+                "width": 1280,
+                "height": 720,
+                "durationMillis": "3769999"
+              }
+            }
+          ]
+        },
+        {
+          "id": "18xCD-SqFSwei_eg7BnlJjXoYyfi5zU8-",
+          "name": "03. [Tuần 1] Đoạn văn và các bước viết đoạn văn",
+          "webViewLink": "https://drive.google.com/drive/folders/18xCD-SqFSwei_eg7BnlJjXoYyfi5zU8-",
+          "modifiedTime": "2026-04-25T22:50:23.286Z",
+          "children": [],
+          "files": [
+            {
+              "id": "1_cvz1O6utRr8tdGqKFBT3eJ3u4BopY7-",
+              "name": "1767328487824-tai-lieu-doan-van-va-cac-buoc-viet-doan-van-pdf.pdf",
+              "mimeType": "application/pdf",
+              "size": 898582,
+              "webViewLink": "https://drive.google.com/file/d/1_cvz1O6utRr8tdGqKFBT3eJ3u4BopY7-/view?usp=drivesdk",
+              "modifiedTime": "2026-04-25T22:50:24.148Z",
+              "videoMediaMetadata": null
+            }
+          ]
+        },
+        {
+          "id": "1-Q45mazRm8KtaEy5LJ06jxXsNPZhzcEg",
+          "name": "04. [Tuần 1] STKTTV - Kiến thức về từ (Từ vựng, phân loại từ, cụm từ)",
+          "webViewLink": "https://drive.google.com/drive/folders/1-Q45mazRm8KtaEy5LJ06jxXsNPZhzcEg",
+          "modifiedTime": "2026-04-25T22:50:44.667Z",
+          "children": [],
+          "files": [
+            {
+              "id": "14S04YzmWw1EPzhi-H7ou_h4wpjjZMAyb",
+              "name": "1768301648286-tuan-1-kien-thuc-ve-tu-tu-vung-phan-loai-tu-cum-tu-pdf.pdf",
+              "mimeType": "application/pdf",
+              "size": 2693892,
+              "webViewLink": "https://drive.google.com/file/d/14S04YzmWw1EPzhi-H7ou_h4wpjjZMAyb/view?usp=drivesdk",
+              "modifiedTime": "2026-04-25T22:50:45.615Z",
+              "videoMediaMetadata": null
+            }
+          ]
+        },
+        {
+          "id": "1L62y_FOk1O9M1B5_EXVmjZXHzX43q3G9",
+          "name": "05. [Tuần 2] VOD - KỸ NĂNG CHUNG VIẾT BÀI VĂN VÀ ĐOẠN VĂN",
+          "webViewLink": "https://drive.google.com/drive/folders/1L62y_FOk1O9M1B5_EXVmjZXHzX43q3G9",
+          "modifiedTime": "2026-04-25T22:50:47.375Z",
+          "children": [],
+          "files": [
+            {
+              "id": "1Ycdb7STmMsRKQOp5HrFlpAxx2P-UXMyb",
+              "name": "1752635729996-ki-nang-chung-viet-doan-van-va-bai-van-pdf.pdf",
+              "mimeType": "application/pdf",
+              "size": 11273962,
+              "webViewLink": "https://drive.google.com/file/d/1Ycdb7STmMsRKQOp5HrFlpAxx2P-UXMyb/view?usp=drivesdk",
+              "modifiedTime": "2026-04-25T22:50:49.623Z",
+              "videoMediaMetadata": null
+            },
+            {
+              "id": "1AXLfMtbuOE9DvGKMXC57NXSgeHTpNaiE",
+              "name": "[Tuần 2] VOD - KỸ NĂNG CHUNG VIẾT BÀI VĂN VÀ ĐOẠN VĂN.mp4",
+              "mimeType": "video/mp4",
+              "size": 298958045,
+              "webViewLink": "https://drive.google.com/file/d/1AXLfMtbuOE9DvGKMXC57NXSgeHTpNaiE/view?usp=drivesdk",
+              "modifiedTime": "2026-05-11T13:19:26.141Z",
+              "videoMediaMetadata": null
+            }
+          ]
+        },
+        {
+          "id": "1vIdfYI2co6t7ZGyeC9INjrQl3kVuj0C-",
+          "name": "06. [Tuần 2] STKTTV - Kiến thức về từ (Từ đồng nghĩa - trái nghĩa, trường nghĩa; Sửa lỗi dùng từ)",
+          "webViewLink": "https://drive.google.com/drive/folders/1vIdfYI2co6t7ZGyeC9INjrQl3kVuj0C-",
+          "modifiedTime": "2026-04-25T22:50:20.281Z",
+          "children": [],
+          "files": [
+            {
+              "id": "1dAzxYsXBFKIDWcH8AButHCNqHf8S8W05",
+              "name": "1768301658203-tuan-2-kien-thuc-ve-tu-tu-dong-nghia-trai-nghia-truong-nghia-sua-loi-dung-tu-pdf.pdf",
+              "mimeType": "application/pdf",
+              "size": 3960024,
+              "webViewLink": "https://drive.google.com/file/d/1dAzxYsXBFKIDWcH8AButHCNqHf8S8W05/view?usp=drivesdk",
+              "modifiedTime": "2026-04-25T22:50:21.423Z",
+              "videoMediaMetadata": null
+            }
+          ]
+        },
+        {
+          "id": "1Z0K94NxE2kDxeblFMFky7_l2Td8vvGvy",
+          "name": "07. [Tuần 2] Gợi ý các tiêu chí giúp đạt điểm sáng tạo trong bài thi",
+          "webViewLink": "https://drive.google.com/drive/folders/1Z0K94NxE2kDxeblFMFky7_l2Td8vvGvy",
+          "modifiedTime": "2026-04-25T22:50:30.049Z",
+          "children": [],
+          "files": [
+            {
+              "id": "1tro3gF8NRhFpDPsyUu0H_GRADfTYG9HN",
+              "name": "1767328998806-goi-y-mot-so-cach-de-an-diem-sang-tao-trong-bai-van-nghi-luan-pdf.pdf",
+              "mimeType": "application/pdf",
+              "size": 1289797,
+              "webViewLink": "https://drive.google.com/file/d/1tro3gF8NRhFpDPsyUu0H_GRADfTYG9HN/view?usp=drivesdk",
+              "modifiedTime": "2026-04-25T22:50:31.012Z",
+              "videoMediaMetadata": null
+            }
+          ]
+        },
+        {
+          "id": "1Z5t-DqOOIUpAOzY2h2slACWi89iziHDB",
+          "name": "08. [Tuần 3] VOD - KỸ NĂNG CHUNG ĐỌC HIỂU",
+          "webViewLink": "https://drive.google.com/drive/folders/1Z5t-DqOOIUpAOzY2h2slACWi89iziHDB",
+          "modifiedTime": "2026-04-25T22:50:32.648Z",
+          "children": [],
+          "files": [
+            {
+              "id": "1N2Uiwny0aS7-1CEZu5KjDbPvIKDZIq9A",
+              "name": "1753716472660-ki-nang-chung-khi-lam-doc-hieu-pdf.pdf",
+              "mimeType": "application/pdf",
+              "size": 16535731,
+              "webViewLink": "https://drive.google.com/file/d/1N2Uiwny0aS7-1CEZu5KjDbPvIKDZIq9A/view?usp=drivesdk",
+              "modifiedTime": "2026-04-25T22:50:36.837Z",
+              "videoMediaMetadata": null
+            },
+            {
+              "id": "1Ssx6mF7zz1UvyrMX1kPruErl-wrhMvmf",
+              "name": "1753716525280-ki-nang-chung-doc-hieu-tai-lieu-truoc-buoi-hoc-pdf.pdf",
+              "mimeType": "application/pdf",
+              "size": 12608396,
+              "webViewLink": "https://drive.google.com/file/d/1Ssx6mF7zz1UvyrMX1kPruErl-wrhMvmf/view?usp=drivesdk",
+              "modifiedTime": "2026-04-25T22:50:35.047Z",
+              "videoMediaMetadata": null
+            },
+            {
+              "id": "1ezmfTdwItyG2hdTL0zZS-ZJSxRAc8544",
+              "name": "[Tuần 3] VOD - KỸ NĂNG CHUNG ĐỌC HIỂU.mp4",
+              "mimeType": "video/mp4",
+              "size": 437840017,
+              "webViewLink": "https://drive.google.com/file/d/1ezmfTdwItyG2hdTL0zZS-ZJSxRAc8544/view?usp=drivesdk",
+              "modifiedTime": "2026-05-11T13:18:48.980Z",
+              "videoMediaMetadata": null
+            }
+          ]
+        },
+        {
+          "id": "1R5xzS-eZKiU27S8fM86TxjUYIUerr4d6",
+          "name": "09. [Tuần 3] STKTTV - Kiến thức về câu (Thành phần câu; Câu theo cấu tạo ngữ pháp)",
+          "webViewLink": "https://drive.google.com/drive/folders/1R5xzS-eZKiU27S8fM86TxjUYIUerr4d6",
+          "modifiedTime": "2026-04-25T22:50:11.647Z",
+          "children": [],
+          "files": [
+            {
+              "id": "1BTVFxqCrnDD52PHDYRIMXKXAhHI7uGGM",
+              "name": "1768301671631-tuan-3-kien-thuc-ve-cau-thanh-phan-cau-cau-theo-cau-tao-ngu-phap-pdf.pdf",
+              "mimeType": "application/pdf",
+              "size": 2056658,
+              "webViewLink": "https://drive.google.com/file/d/1BTVFxqCrnDD52PHDYRIMXKXAhHI7uGGM/view?usp=drivesdk",
+              "modifiedTime": "2026-04-25T22:50:12.590Z",
+              "videoMediaMetadata": null
+            }
+          ]
+        },
+        {
+          "id": "1uYcQ3VWTGxtGltksiA3ZcwnZOpm9bO8I",
+          "name": "10. [Tuần 3] STKTTV - Kiến thức về câu (Câu theo mục đích giao tiếp)",
+          "webViewLink": "https://drive.google.com/drive/folders/1uYcQ3VWTGxtGltksiA3ZcwnZOpm9bO8I",
+          "modifiedTime": "2026-04-25T22:50:00.978Z",
+          "children": [],
+          "files": [
+            {
+              "id": "1F0RqOu1JX-HZIXnipR0sOUeNXQ--LLvg",
+              "name": "1768301681250-tuan-3-kien-thuc-ve-cau-cau-theo-muc-dich-giao-tiep-pdf.pdf",
+              "mimeType": "application/pdf",
+              "size": 1124538,
+              "webViewLink": "https://drive.google.com/file/d/1F0RqOu1JX-HZIXnipR0sOUeNXQ--LLvg/view?usp=drivesdk",
+              "modifiedTime": "2026-04-25T22:50:02.129Z",
+              "videoMediaMetadata": null
+            }
+          ]
+        },
+        {
+          "id": "1SBRML7QUEYvVBXq3hHC-by_JN9kQHPOo",
+          "name": "11. [Tuần 4] VOD - KĨ NĂNG CHUNG LÀM NGHỊ LUẬN XÃ HỘI",
+          "webViewLink": "https://drive.google.com/drive/folders/1SBRML7QUEYvVBXq3hHC-by_JN9kQHPOo",
+          "modifiedTime": "2026-04-25T22:50:40.974Z",
+          "children": [],
+          "files": [
+            {
+              "id": "1uyXgPM2Mga1JiV3-k73Nb3V-jo3KDx9s",
+              "name": "1753801451091-ki-nang-chung-lam-nghi-luan-xa-hoi-pdf.pdf",
+              "mimeType": "application/pdf",
+              "size": 13314128,
+              "webViewLink": "https://drive.google.com/file/d/1uyXgPM2Mga1JiV3-k73Nb3V-jo3KDx9s/view?usp=drivesdk",
+              "modifiedTime": "2026-04-25T22:50:43.094Z",
+              "videoMediaMetadata": null
+            },
+            {
+              "id": "1v5atxrsMGdFYQW4i9bGl1N6bOkS_ATDu",
+              "name": "[Tuần 4] VOD - KĨ NĂNG CHUNG LÀM NGHỊ LUẬN XÃ HỘI.mp4",
+              "mimeType": "video/mp4",
+              "size": 261185966,
+              "webViewLink": "https://drive.google.com/file/d/1v5atxrsMGdFYQW4i9bGl1N6bOkS_ATDu/view?usp=drivesdk",
+              "modifiedTime": "2026-05-11T13:19:06.407Z",
+              "videoMediaMetadata": null
+            }
+          ]
+        },
+        {
+          "id": "14jWukB8iAYXup__OmEiAjmlf4W4zItCE",
+          "name": "12. [Tuần 4] Củng cố một số kĩ năng viết NLXH",
+          "webViewLink": "https://drive.google.com/drive/folders/14jWukB8iAYXup__OmEiAjmlf4W4zItCE",
+          "modifiedTime": "2026-04-25T22:50:14.028Z",
+          "children": [],
+          "files": [
+            {
+              "id": "1PUFw-_bBJ0tDd8KqTGA1q62jUpkWPJeo",
+              "name": "1767329126357-cung-co-ki-nang-viet-nghi-luan-xa-hoi-pdf.pdf",
+              "mimeType": "application/pdf",
+              "size": 5484347,
+              "webViewLink": "https://drive.google.com/file/d/1PUFw-_bBJ0tDd8KqTGA1q62jUpkWPJeo/view?usp=drivesdk",
+              "modifiedTime": "2026-04-25T22:50:14.886Z",
+              "videoMediaMetadata": null
+            }
+          ]
+        },
+        {
+          "id": "1QFX2bJUYN2M_GNW4XGWLi3NntYIOycXr",
+          "name": "13. [Tuần 4] STKTTV - Kiến thức về câu (Lỗi câu logic và mơ hồ)",
+          "webViewLink": "https://drive.google.com/drive/folders/1QFX2bJUYN2M_GNW4XGWLi3NntYIOycXr",
+          "modifiedTime": "2026-04-25T22:50:06.650Z",
+          "children": [],
+          "files": [
+            {
+              "id": "12KRux3uygcpIDwS5Xd_fCvVuWYaGUIBK",
+              "name": "1768301718320-tuan-4-kien-thuc-ve-cau-loi-cau-logic-va-mo-ho-pdf.pdf",
+              "mimeType": "application/pdf",
+              "size": 1052431,
+              "webViewLink": "https://drive.google.com/file/d/12KRux3uygcpIDwS5Xd_fCvVuWYaGUIBK/view?usp=drivesdk",
+              "modifiedTime": "2026-04-25T22:50:07.511Z",
+              "videoMediaMetadata": null
+            }
+          ]
+        },
+        {
+          "id": "14VgVCD3CF8xclkYo6glLb9WJRXel9ddc",
+          "name": "14. [Tuần 5] Nhận diện và khắc phục lỗi mơ hồ trong tạo lập câu",
+          "webViewLink": "https://drive.google.com/drive/folders/14VgVCD3CF8xclkYo6glLb9WJRXel9ddc",
+          "modifiedTime": "2026-04-25T22:50:09.152Z",
+          "children": [],
+          "files": [
+            {
+              "id": "1AB2UKHXNY8FhhM6A5CWa-4Qrjv-frlx_",
+              "name": "1767329241330-nhan-dien-va-khac-phuc-loi-mo-ho-trong-tao-lap-cau-pdf.pdf",
+              "mimeType": "application/pdf",
+              "size": 2165444,
+              "webViewLink": "https://drive.google.com/file/d/1AB2UKHXNY8FhhM6A5CWa-4Qrjv-frlx_/view?usp=drivesdk",
+              "modifiedTime": "2026-04-25T22:50:10.101Z",
+              "videoMediaMetadata": null
+            }
+          ]
+        },
+        {
+          "id": "1FzrYsHhWChEjywizTylMl9t6SC4IFr-Z",
+          "name": "15. [Tuần 5] VOD - Kĩ NĂNG CHUNG LÀM NGHỊ LUẬN VĂN HỌC",
+          "webViewLink": "https://drive.google.com/drive/folders/1FzrYsHhWChEjywizTylMl9t6SC4IFr-Z",
+          "modifiedTime": "2026-04-25T22:50:16.445Z",
+          "children": [],
+          "files": [
+            {
+              "id": "1T2Z0XVg3s_-Pv2hYOXuBxL9dT4rhVlz3",
+              "name": "1754405709483-ki-nang-chung-nlvh-pdf.pdf",
+              "mimeType": "application/pdf",
+              "size": 17950854,
+              "webViewLink": "https://drive.google.com/file/d/1T2Z0XVg3s_-Pv2hYOXuBxL9dT4rhVlz3/view?usp=drivesdk",
+              "modifiedTime": "2026-04-25T22:50:18.631Z",
+              "videoMediaMetadata": null
+            },
+            {
+              "id": "1u0s1WLlhpbEMfsYKkKGnn-QVjRmJr3Za",
+              "name": "[Tuần 5] VOD - Kĩ NĂNG CHUNG LÀM NGHỊ LUẬN VĂN HỌC.mp4",
+              "mimeType": "video/mp4",
+              "size": 227274489,
+              "webViewLink": "https://drive.google.com/file/d/1u0s1WLlhpbEMfsYKkKGnn-QVjRmJr3Za/view?usp=drivesdk",
+              "modifiedTime": "2026-05-11T13:16:01.819Z",
+              "videoMediaMetadata": null
+            }
+          ]
+        },
+        {
+          "id": "1FHw1yQprrVRmeQ1_tiBKbYp-BtY66Q8W",
+          "name": "16. [Tuần 5] STKTTV - Liên kết đoạn, thể loại (Liên kết nội dung và liên kết hình thức; Lỗi liên kết thường gặp)",
+          "webViewLink": "https://drive.google.com/drive/folders/1FHw1yQprrVRmeQ1_tiBKbYp-BtY66Q8W",
+          "modifiedTime": "2026-04-25T22:50:04.135Z",
+          "children": [],
+          "files": [
+            {
+              "id": "1XfkNM46i0OJAxSO0cCycrop1zf50YtEC",
+              "name": "1768301775778-tuan-5-lien-ket-doan-the-loai-lien-ket-noi-dung-va-lien-ket-hinh-thuc-loi-lien-ket-thuong-gap-pdf.pdf",
+              "mimeType": "application/pdf",
+              "size": 6090693,
+              "webViewLink": "https://drive.google.com/file/d/1XfkNM46i0OJAxSO0cCycrop1zf50YtEC/view?usp=drivesdk",
+              "modifiedTime": "2026-04-25T22:50:05.150Z",
+              "videoMediaMetadata": null
+            }
+          ]
+        }
+      ],
+      "files": [],
+      "webViewLink": "https://drive.google.com/drive/folders/1v_L1Br6OOQTrjQiUn5Ox4Q9ScZia6RLB",
+      "modifiedTime": "2026-04-17T13:59:42.443Z"
+    },
+    {
+      "id": "1giAy5fGWKDbUozB5y08D2vDAyW3GNDSR",
+      "name": "2. GĐ1.T2: LỘ TRÌNH HỌC THÁNG 2/2026",
+      "children": [
+        {
+          "id": "18VQTxaBNZBbagmIYbLUXqKZcVb8mNuS_",
+          "name": "01. [Tuần 1] VOD - ĐẶC ĐIỂM CHUNG CỦA THƠ",
+          "webViewLink": "https://drive.google.com/drive/folders/18VQTxaBNZBbagmIYbLUXqKZcVb8mNuS_",
+          "modifiedTime": "2026-05-24T07:49:19.497Z",
+          "children": [],
+          "files": [
+            {
+              "id": "1yHxNfXA3a45TeSLp-xZMJHAXLvWHBHSv",
+              "name": "01. [Tuần 1] VOD - ĐẶC ĐIỂM CHUNG CỦA THƠ.mp4",
+              "mimeType": "video/mp4",
+              "size": 216420607,
+              "webViewLink": "https://drive.google.com/file/d/1yHxNfXA3a45TeSLp-xZMJHAXLvWHBHSv/view?usp=drivesdk",
+              "modifiedTime": "2026-05-24T14:40:20.249Z",
+              "videoMediaMetadata": null
+            },
+            {
+              "id": "1iiY112IsXCaHn4Z5gG5LMq-sfxNaijN-",
+              "name": "1769502699417-tuan-1-dac-diem-chung-cua-tho-pdf.pdf",
+              "mimeType": "application/pdf",
+              "size": 4576065,
+              "webViewLink": "https://drive.google.com/file/d/1iiY112IsXCaHn4Z5gG5LMq-sfxNaijN-/view?usp=drivesdk",
+              "modifiedTime": "2026-05-24T07:49:20.684Z",
+              "videoMediaMetadata": null
+            }
+          ]
+        },
+        {
+          "id": "1c09s72Pv-3s5FZiEVZGU54IELFKUZ5Os",
+          "name": "02. [Tuần 1] Kiến thức cơ bản về thơ và cách làm một số dạng NLVH về thơ",
+          "webViewLink": "https://drive.google.com/drive/folders/1c09s72Pv-3s5FZiEVZGU54IELFKUZ5Os",
+          "modifiedTime": "2026-05-24T07:49:10.876Z",
+          "children": [],
+          "files": [
+            {
+              "id": "1vmxqltWSJlEMeU_c4_IIJb4hUhbhSGeH",
+              "name": "1770005546226-tuan-1-chuyen-de-tho-pdf.pdf",
+              "mimeType": "application/pdf",
+              "size": 14954409,
+              "webViewLink": "https://drive.google.com/file/d/1vmxqltWSJlEMeU_c4_IIJb4hUhbhSGeH/view?usp=drivesdk",
+              "modifiedTime": "2026-05-24T07:49:12.077Z",
+              "videoMediaMetadata": null
+            }
+          ]
+        },
+        {
+          "id": "1tdEdd8qKlruv3utIylTimbp0eJJNgf-s",
+          "name": "03. [Tuần 1] STKTTV - Biện pháp tu từ",
+          "webViewLink": "https://drive.google.com/drive/folders/1tdEdd8qKlruv3utIylTimbp0eJJNgf-s",
+          "modifiedTime": "2026-05-24T07:49:14.590Z",
+          "children": [],
+          "files": [
+            {
+              "id": "1aFX_3Ln1MEwd37vlOKBVN9jnjpYmijbG",
+              "name": "1770007067597-tuan-1-bien-phap-tu-tu-pdf.pdf",
+              "mimeType": "application/pdf",
+              "size": 2419083,
+              "webViewLink": "https://drive.google.com/file/d/1aFX_3Ln1MEwd37vlOKBVN9jnjpYmijbG/view?usp=drivesdk",
+              "modifiedTime": "2026-05-24T07:49:15.783Z",
+              "videoMediaMetadata": null
+            }
+          ]
+        },
+        {
+          "id": "1WUN2k7Rq0IIAhhAihXzp1AiMZkMHuani",
+          "name": "04. [Tuần 2] VOD - ĐẶC ĐIỂM CHUNG CỦA TRUYỆN NGẮN",
+          "webViewLink": "https://drive.google.com/drive/folders/1WUN2k7Rq0IIAhhAihXzp1AiMZkMHuani",
+          "modifiedTime": "2026-05-24T07:49:18.194Z",
+          "children": [],
+          "files": [
+            {
+              "id": "1snLlIvQRRO2jXLDzVay_yInaVWVnVeWj",
+              "name": "1759886675676-dac-trung-the-loai-truyen-pdf.pdf",
+              "mimeType": "application/pdf",
+              "size": 3326252,
+              "webViewLink": "https://drive.google.com/file/d/1snLlIvQRRO2jXLDzVay_yInaVWVnVeWj/view?usp=drivesdk",
+              "modifiedTime": "2026-05-24T07:49:19.644Z",
+              "videoMediaMetadata": null
+            },
+            {
+              "id": "1UhlvErpkWdg9g3EWfCIZJAp4h7Os0cpy",
+              "name": "[Tuần 2] VOD - ĐẶC ĐIỂM CHUNG CỦA TRUYỆN NGẮN.mp4",
+              "mimeType": "video/mp4",
+              "size": 256527827,
+              "webViewLink": "https://drive.google.com/file/d/1UhlvErpkWdg9g3EWfCIZJAp4h7Os0cpy/view?usp=drivesdk",
+              "modifiedTime": "2026-05-24T14:39:53.066Z",
+              "videoMediaMetadata": null
+            }
+          ]
+        },
+        {
+          "id": "1OKyPwp_SOpHbnZUFd5wGklM-HrxqYGnN",
+          "name": "05. [Tuần 2] Kiến thức cơ bản về truyện ngắn và cách làm một số dạng NLVH về truyện ngắn",
+          "webViewLink": "https://drive.google.com/drive/folders/1OKyPwp_SOpHbnZUFd5wGklM-HrxqYGnN",
+          "modifiedTime": "2026-05-24T07:49:13.075Z",
+          "children": [],
+          "files": [
+            {
+              "id": "13edjmnb7qCrtpFSOcqQnqIJDFFx9tSWn",
+              "name": "1770005623936-tuan-2-chuyen-de-truyen-ngan-pdf.pdf",
+              "mimeType": "application/pdf",
+              "size": 10820738,
+              "webViewLink": "https://drive.google.com/file/d/13edjmnb7qCrtpFSOcqQnqIJDFFx9tSWn/view?usp=drivesdk",
+              "modifiedTime": "2026-05-24T07:49:14.721Z",
+              "videoMediaMetadata": null
+            }
+          ]
+        },
+        {
+          "id": "1fY35btrnIITWmOoNhLFv6D3GjJ4zy5-P",
+          "name": "06. [Tuần 2] STKTTV - Biệp pháp tu từ (tiếp)",
+          "webViewLink": "https://drive.google.com/drive/folders/1fY35btrnIITWmOoNhLFv6D3GjJ4zy5-P",
+          "modifiedTime": "2026-05-24T07:49:16.869Z",
+          "children": [],
+          "files": [
+            {
+              "id": "1svMCnqp2KZ6yojrHMsDiiisbmDeK8nPs",
+              "name": "1770007100815-tuan-2-bien-phap-tu-tu-tiep-pdf.pdf",
+              "mimeType": "application/pdf",
+              "size": 2853234,
+              "webViewLink": "https://drive.google.com/file/d/1svMCnqp2KZ6yojrHMsDiiisbmDeK8nPs/view?usp=drivesdk",
+              "modifiedTime": "2026-05-24T07:49:18.642Z",
+              "videoMediaMetadata": null
+            }
+          ]
+        },
+        {
+          "id": "1SwkvJCIEB-SsXJQn1rg7xNsZYU19KQC_",
+          "name": "07. [Tuần 4] VOD - ĐẶC ĐIỂM CHUNG CỦA KỊCH",
+          "webViewLink": "https://drive.google.com/drive/folders/1SwkvJCIEB-SsXJQn1rg7xNsZYU19KQC_",
+          "modifiedTime": "2026-05-24T07:49:11.949Z",
+          "children": [],
+          "files": [
+            {
+              "id": "1CDR9ovpc0qCIoeh1gERO9tpB-cNP2QuU",
+              "name": "1762486481139-tim-hieu-chung-ve-hai-kich-pdf.pdf",
+              "mimeType": "application/pdf",
+              "size": 1641978,
+              "webViewLink": "https://drive.google.com/file/d/1CDR9ovpc0qCIoeh1gERO9tpB-cNP2QuU/view?usp=drivesdk",
+              "modifiedTime": "2026-05-24T07:49:13.208Z",
+              "videoMediaMetadata": null
+            },
+            {
+              "id": "1RedGjKInjdvem8s-PvOH1NCJrOkMqlIm",
+              "name": "[Tuần 4] VOD - ĐẶC ĐIỂM CHUNG CỦA KỊCH.mp4",
+              "mimeType": "video/mp4",
+              "size": 183249283,
+              "webViewLink": "https://drive.google.com/file/d/1RedGjKInjdvem8s-PvOH1NCJrOkMqlIm/view?usp=drivesdk",
+              "modifiedTime": "2026-05-24T14:39:29.227Z",
+              "videoMediaMetadata": null
+            }
+          ]
+        },
+        {
+          "id": "1T_MIGQtQL7gdCvHFYP0uDSpUaUZaTqKo",
+          "name": "08. [Tuần 4] Cách nhận diện, phân tích một số yếu tố trong thể loại kịch",
+          "webViewLink": "https://drive.google.com/drive/folders/1T_MIGQtQL7gdCvHFYP0uDSpUaUZaTqKo",
+          "modifiedTime": "2026-05-24T07:49:15.666Z",
+          "children": [],
+          "files": [
+            {
+              "id": "1QCQ9q42Ft86yyq_mxa2mMM21O_1DuRbP",
+              "name": "1770005660139-tuan-4-cach-nhan-dien-phan-tich-mot-so-yeu-to-trong-the-loai-kich-pdf.pdf",
+              "mimeType": "application/pdf",
+              "size": 4689132,
+              "webViewLink": "https://drive.google.com/file/d/1QCQ9q42Ft86yyq_mxa2mMM21O_1DuRbP/view?usp=drivesdk",
+              "modifiedTime": "2026-05-24T07:49:16.847Z",
+              "videoMediaMetadata": null
+            }
+          ]
+        },
+        {
+          "id": "1gJHLVnMWb68RTaiTZ3WfArIgVXcb8YIC",
+          "name": "09. [Tuần 4] STKTTV - Phương châm hội thoại",
+          "webViewLink": "https://drive.google.com/drive/folders/1gJHLVnMWb68RTaiTZ3WfArIgVXcb8YIC",
+          "modifiedTime": "2026-05-24T07:49:20.724Z",
+          "children": [],
+          "files": [
+            {
+              "id": "1tfyGw-79h8Ql6rHMwoRYJG--4gaJH7js",
+              "name": "1770007120595-tuan-4-phuong-cham-hoi-thoai-pdf.pdf",
+              "mimeType": "application/pdf",
+              "size": 1416478,
+              "webViewLink": "https://drive.google.com/file/d/1tfyGw-79h8Ql6rHMwoRYJG--4gaJH7js/view?usp=drivesdk",
+              "modifiedTime": "2026-05-24T07:49:22.034Z",
+              "videoMediaMetadata": null
+            }
+          ]
+        }
+      ],
+      "files": [],
+      "webViewLink": "https://drive.google.com/drive/folders/1giAy5fGWKDbUozB5y08D2vDAyW3GNDSR",
+      "modifiedTime": "2026-04-17T13:59:41.643Z"
+    },
+    {
+      "id": "1nNSL4tcla64fjh-0aC3YQqsdWx54vWEY",
+      "name": "3. GĐ1.T3: LỘ TRÌNH HỌC THÁNG 3/2026",
+      "children": [
+        {
+          "id": "1Nx9au93D6TRtyCi6HkcZTRzJWzNbtsLV",
+          "name": "0. Bài khảo sát số 01",
+          "webViewLink": "https://drive.google.com/drive/folders/1Nx9au93D6TRtyCi6HkcZTRzJWzNbtsLV",
+          "modifiedTime": "2026-05-24T07:48:56.375Z",
+          "children": [],
+          "files": [
+            {
+              "id": "1ZNyFOAysVyQeGeKarMccHB8LvtOQppEI",
+              "name": "1772887371750-thi-thu-01-pdf.pdf",
+              "mimeType": "application/pdf",
+              "size": 1566930,
+              "webViewLink": "https://drive.google.com/file/d/1ZNyFOAysVyQeGeKarMccHB8LvtOQppEI/view?usp=drivesdk",
+              "modifiedTime": "2026-05-24T07:48:57.600Z",
+              "videoMediaMetadata": null
+            }
+          ]
+        },
+        {
+          "id": "1_9PUSLd2I4YGKxa39BYY_yQ8Ib7B9SVx",
+          "name": "01. [Tuần 1] LIVESTREAM - CHỮA BÀI THI THỬ SỐ 01 NGÀY 0803 (P1)",
+          "webViewLink": "https://drive.google.com/drive/folders/1_9PUSLd2I4YGKxa39BYY_yQ8Ib7B9SVx",
+          "modifiedTime": "2026-05-24T07:49:08.005Z",
+          "children": [],
+          "files": [
+            {
+              "id": "1XT4gq6wvL6fcgtI7l0ga6jF10P2c4wE9",
+              "name": "1773027522129-thi-thu-01-huong-dan-pdf.pdf",
+              "mimeType": "application/pdf",
+              "size": 7745009,
+              "webViewLink": "https://drive.google.com/file/d/1XT4gq6wvL6fcgtI7l0ga6jF10P2c4wE9/view?usp=drivesdk",
+              "modifiedTime": "2026-05-24T07:49:09.424Z",
+              "videoMediaMetadata": null
+            },
+            {
+              "id": "1T3mtusSRQxJ5nXrJQDN3vsZCPpyllory",
+              "name": "[Tuần 1] LIVESTREAM - CHỮA BÀI THI THỬ SỐ 01 NGÀY 08 03 P1.mp4",
+              "mimeType": "video/mp4",
+              "size": 343965650,
+              "webViewLink": "https://drive.google.com/file/d/1T3mtusSRQxJ5nXrJQDN3vsZCPpyllory/view?usp=drivesdk",
+              "modifiedTime": "2026-05-24T14:39:12.934Z",
+              "videoMediaMetadata": null
+            }
+          ]
+        },
+        {
+          "id": "1h_fOWVNEVhIn0EOGN0knoSZxx3wHEnQL",
+          "name": "02. [Tuần 1] LIVESTREAM - CHỮA BÀI THI THỬ SỐ 01 NGÀY 0803 (P2)",
+          "webViewLink": "https://drive.google.com/drive/folders/1h_fOWVNEVhIn0EOGN0knoSZxx3wHEnQL",
+          "modifiedTime": "2026-05-24T07:49:03.205Z",
+          "children": [],
+          "files": [
+            {
+              "id": "1lI7IUr_gTUFeLa82g_S_Kjpu3I2NiK5d",
+              "name": "[Tuần 1] LIVESTREAM - CHỮA BÀI THI THỬ SỐ 01 NGÀY 08 03 P2.mp4",
+              "mimeType": "video/mp4",
+              "size": 7869128,
+              "webViewLink": "https://drive.google.com/file/d/1lI7IUr_gTUFeLa82g_S_Kjpu3I2NiK5d/view?usp=drivesdk",
+              "modifiedTime": "2026-05-24T14:38:36.510Z",
+              "videoMediaMetadata": null
+            }
+          ]
+        },
+        {
+          "id": "1qhRXU3DJmdFrkN871gc43gRfl49rnCg-",
+          "name": "03. [Tuần 2] VOD - ĐẶC ĐIỂM CHUNG CỦA KÍ",
+          "webViewLink": "https://drive.google.com/drive/folders/1qhRXU3DJmdFrkN871gc43gRfl49rnCg-",
+          "modifiedTime": "2026-05-24T07:48:59.605Z",
+          "children": [],
+          "files": [
+            {
+              "id": "1p6IJva0AHoEvtJ1Kn0INxyu_LxQ2xUjq",
+              "name": "1763861189135-dac-trung-co-ban-the-loai-ki-pdf.pdf",
+              "mimeType": "application/pdf",
+              "size": 2477124,
+              "webViewLink": "https://drive.google.com/file/d/1p6IJva0AHoEvtJ1Kn0INxyu_LxQ2xUjq/view?usp=drivesdk",
+              "modifiedTime": "2026-05-24T07:49:00.877Z",
+              "videoMediaMetadata": null
+            },
+            {
+              "id": "1b5MaPhO03k4w-q_Giv-rXYDZT6V-KpwG",
+              "name": "[Tuần 2] VOD - ĐẶC ĐIỂM CHUNG CỦA KÍ.mp4",
+              "mimeType": "video/mp4",
+              "size": 207959017,
+              "webViewLink": "https://drive.google.com/file/d/1b5MaPhO03k4w-q_Giv-rXYDZT6V-KpwG/view?usp=drivesdk",
+              "modifiedTime": "2026-05-24T14:37:57.962Z",
+              "videoMediaMetadata": null
+            }
+          ]
+        },
+        {
+          "id": "1dNJVnN7Y_rkkHZdNdeI4d_4CVZmHqpjg",
+          "name": "04. [Tuần 2] Tham khảo cách phân biệt giữa ba thể loại văn học thường nhầm lẫn Bút kí - Tùy bút - Tản văn",
+          "webViewLink": "https://drive.google.com/drive/folders/1dNJVnN7Y_rkkHZdNdeI4d_4CVZmHqpjg",
+          "modifiedTime": "2026-05-24T07:48:57.478Z",
+          "children": [],
+          "files": [
+            {
+              "id": "1shDfQDsLkF8VQeON3G0mVbyrckInp6Gu",
+              "name": "tuan-1-tham-khao-cach-phan-biet-giua-ba-the-loai-van-hoc-thuong-nham-lan-but-ki-tuy-but-tan-van.pdf",
+              "mimeType": "application/pdf",
+              "size": 1086222,
+              "webViewLink": "https://drive.google.com/file/d/1shDfQDsLkF8VQeON3G0mVbyrckInp6Gu/view?usp=drivesdk",
+              "modifiedTime": "2026-05-24T07:48:58.644Z",
+              "videoMediaMetadata": null
+            },
+            {
+              "id": "1Dqxgq5pfDZgDSD-Cj__k7LjiWUdvT4j0",
+              "name": "tuan-2-tham-khao-cach-phan-biet-giua-ba-the-loai-van-hoc-thuong-nham-lan-but-ki-tuy-but-tan-van.pdf",
+              "mimeType": "application/pdf",
+              "size": 1086222,
+              "webViewLink": "https://drive.google.com/file/d/1Dqxgq5pfDZgDSD-Cj__k7LjiWUdvT4j0/view?usp=drivesdk",
+              "modifiedTime": "2026-05-24T07:48:58.652Z",
+              "videoMediaMetadata": null
+            }
+          ]
+        },
+        {
+          "id": "1mrjFuXp69OKrFjnJfUypMju9V1An_EMe",
+          "name": "05. [Tuần 2] Hướng dẫn viết bài văn nghị luận xã hội cho học sinh chưa giỏi văn",
+          "webViewLink": "https://drive.google.com/drive/folders/1mrjFuXp69OKrFjnJfUypMju9V1An_EMe",
+          "modifiedTime": "2026-05-24T07:49:04.344Z",
+          "children": [],
+          "files": [
+            {
+              "id": "13uV2-r0Jf8KENvCdsqo_trVLq_uc1Tx2",
+              "name": "1772447577255-tuan-2-huong-dan-viet-bai-van-nghi-luan-xa-hoi-cho-hoc-sinh-chua-gioi-van-pdf.pdf",
+              "mimeType": "application/pdf",
+              "size": 4131176,
+              "webViewLink": "https://drive.google.com/file/d/13uV2-r0Jf8KENvCdsqo_trVLq_uc1Tx2/view?usp=drivesdk",
+              "modifiedTime": "2026-05-24T07:49:05.712Z",
+              "videoMediaMetadata": null
+            }
+          ]
+        },
+        {
+          "id": "1x_TPLXYh2PuwRVPMzxrclewVOLzRpp_E",
+          "name": "06. [Tuần 3] PHỤ ĐẠO - KĨ NĂNG VÀ CÁC MẸO ĐỌC HIỂU THỂ LOẠI TRUYỆN NGÀY 2803",
+          "webViewLink": "https://drive.google.com/drive/folders/1x_TPLXYh2PuwRVPMzxrclewVOLzRpp_E",
+          "modifiedTime": "2026-05-24T07:49:00.776Z",
+          "children": [],
+          "files": [
+            {
+              "id": "1Zsq5VeV2trNlk0j8VAHnGv72jsu-1HhO",
+              "name": "[Tuần 3] PHỤ ĐẠO - KĨ NĂNG VÀ CÁC MẸO ĐỌC HIỂU THỂ LOẠI TRUYỆN NGÀY 28 03.mp4",
+              "mimeType": "video/mp4",
+              "size": 202964929,
+              "webViewLink": "https://drive.google.com/file/d/1Zsq5VeV2trNlk0j8VAHnGv72jsu-1HhO/view?usp=drivesdk",
+              "modifiedTime": "2026-05-24T14:38:15.058Z",
+              "videoMediaMetadata": null
+            }
+          ]
+        },
+        {
+          "id": "1HqNpnChmeok7ApyfQS--1gTA2Gd26AYV",
+          "name": "07. [Tuần 3] PHỤ ĐẠO - KĨ NĂNG VÀ CÁC MẸO ĐỌC HIỂU THỂ LOẠI THƠ NGÀY 2803",
+          "webViewLink": "https://drive.google.com/drive/folders/1HqNpnChmeok7ApyfQS--1gTA2Gd26AYV",
+          "modifiedTime": "2026-05-24T07:48:58.521Z",
+          "children": [],
+          "files": [
+            {
+              "id": "11PXhpmqCjUlsVSOkP4C0imcmi6EaKyCA",
+              "name": "1775017260394-ki-nang-tra-loi-cac-cau-hoi-doc-hieu-the-loai-tho-pdf.pdf",
+              "mimeType": "application/pdf",
+              "size": 5018658,
+              "webViewLink": "https://drive.google.com/file/d/11PXhpmqCjUlsVSOkP4C0imcmi6EaKyCA/view?usp=drivesdk",
+              "modifiedTime": "2026-05-24T07:48:59.781Z",
+              "videoMediaMetadata": null
+            },
+            {
+              "id": "1pAX7p7OR8tJ5I94j9yLUPJBdM7P-ADGl",
+              "name": "[Tuần 3] PHỤ ĐẠO - KĨ NĂNG VÀ CÁC MẸO ĐỌC HIỂU THỂ LOẠI THƠ NGÀY 28 03.mp4",
+              "mimeType": "video/mp4",
+              "size": 200630975,
+              "webViewLink": "https://drive.google.com/file/d/1pAX7p7OR8tJ5I94j9yLUPJBdM7P-ADGl/view?usp=drivesdk",
+              "modifiedTime": "2026-05-24T14:37:39.107Z",
+              "videoMediaMetadata": null
+            }
+          ]
+        },
+        {
+          "id": "1gnR7DA1LcZNLDPG685N5zK7IblHt_yr5",
+          "name": "08. [Tuần 3] STKTTV - Phong cách ngôn ngữ",
+          "webViewLink": "https://drive.google.com/drive/folders/1gnR7DA1LcZNLDPG685N5zK7IblHt_yr5",
+          "modifiedTime": "2026-05-24T07:49:09.334Z",
+          "children": [],
+          "files": [
+            {
+              "id": "1aIrGm5awgNQ8YTGTcRAmaIm7KxE2ZNoO",
+              "name": "1772449551991-tuan-3-phong-cach-ngon-ngu-pdf.pdf",
+              "mimeType": "application/pdf",
+              "size": 15510526,
+              "webViewLink": "https://drive.google.com/file/d/1aIrGm5awgNQ8YTGTcRAmaIm7KxE2ZNoO/view?usp=drivesdk",
+              "modifiedTime": "2026-05-24T07:49:10.540Z",
+              "videoMediaMetadata": null
+            }
+          ]
+        },
+        {
+          "id": "1TP2kEGjXzygp7DfmN7-idPzbtzyLDQeT",
+          "name": "09. [Tuần 4] PHỤ ĐẠO - KĨ NĂNG TẠO LẬP CÂU NGÀY 2903",
+          "webViewLink": "https://drive.google.com/drive/folders/1TP2kEGjXzygp7DfmN7-idPzbtzyLDQeT",
+          "modifiedTime": "2026-05-24T07:49:06.833Z",
+          "children": [],
+          "files": [
+            {
+              "id": "1wuZ6smc7lqYCyk4xyCPW4wK7aauJQM8o",
+              "name": "1774997911049-ki-nang-tao-lap-cau-pdf.pdf",
+              "mimeType": "application/pdf",
+              "size": 16439754,
+              "webViewLink": "https://drive.google.com/file/d/1wuZ6smc7lqYCyk4xyCPW4wK7aauJQM8o/view?usp=drivesdk",
+              "modifiedTime": "2026-05-24T07:49:08.128Z",
+              "videoMediaMetadata": null
+            },
+            {
+              "id": "1aRnmL7PqdFOUiQJ78BulX8-hTjmJm1U8",
+              "name": "[Tuần 4] PHỤ ĐẠO - KĨ NĂNG TẠO LẬP CÂU NGÀY 29 03.mp4",
+              "mimeType": "video/mp4",
+              "size": 138230998,
+              "webViewLink": "https://drive.google.com/file/d/1aRnmL7PqdFOUiQJ78BulX8-hTjmJm1U8/view?usp=drivesdk",
+              "modifiedTime": "2026-05-24T14:38:51.189Z",
+              "videoMediaMetadata": null
+            }
+          ]
+        },
+        {
+          "id": "1Cdiwf-h5OF51MGeA_gKNrhGV9cLfUEB9",
+          "name": "10. [Tuần 4] PHỤ ĐẠO - KĨ NĂNG VIẾT ĐOẠN VÀ BÀI VĂN NGÀY 2903",
+          "webViewLink": "https://drive.google.com/drive/folders/1Cdiwf-h5OF51MGeA_gKNrhGV9cLfUEB9",
+          "modifiedTime": "2026-05-24T07:49:01.919Z",
+          "children": [],
+          "files": [
+            {
+              "id": "16xez8_9p425xA66s2EcY2oqipXvbmDjw",
+              "name": "[Tuần 4] PHỤ ĐẠO - KĨ NĂNG VIẾT ĐOẠN VÀ BÀI VĂN NGÀY 29 03.mp4",
+              "mimeType": "video/mp4",
+              "size": 232486596,
+              "webViewLink": "https://drive.google.com/file/d/16xez8_9p425xA66s2EcY2oqipXvbmDjw/view?usp=drivesdk",
+              "modifiedTime": "2026-05-24T14:38:29.201Z",
+              "videoMediaMetadata": null
+            }
+          ]
+        },
+        {
+          "id": "1c9WOulZsrfCkM8xCWkPEWjRwXrc3RLIB",
+          "name": "11. [Tuần 4] STKTTV - Phương thức biểu đạt",
+          "webViewLink": "https://drive.google.com/drive/folders/1c9WOulZsrfCkM8xCWkPEWjRwXrc3RLIB",
+          "modifiedTime": "2026-05-24T07:49:05.775Z",
+          "children": [],
+          "files": [
+            {
+              "id": "1BI8i27ibnG1xLVTdN-Qan9mSFYG2s1VJ",
+              "name": "1772449734788-tuan-4-phuong-thuc-bieu-dat-pdf.pdf",
+              "mimeType": "application/pdf",
+              "size": 15565547,
+              "webViewLink": "https://drive.google.com/file/d/1BI8i27ibnG1xLVTdN-Qan9mSFYG2s1VJ/view?usp=drivesdk",
+              "modifiedTime": "2026-05-24T07:49:06.961Z",
+              "videoMediaMetadata": null
+            }
+          ]
+        }
+      ],
+      "files": [],
+      "webViewLink": "https://drive.google.com/drive/folders/1nNSL4tcla64fjh-0aC3YQqsdWx54vWEY",
+      "modifiedTime": "2026-04-17T13:59:39.614Z"
+    },
+    {
+      "id": "13hNi9dOtJ1zXKk57ScpzWPUoygXhCj7s",
+      "name": "4. GĐ1.T4: LỘ TRÌNH HỌC THÁNG 4/2026",
+      "children": [
+        {
+          "id": "1Cr7JY6azAVpcnj-Aunv_jYXnF0Frh6B-",
+          "name": "0. Bài khảo sát số 02",
+          "webViewLink": "https://drive.google.com/drive/folders/1Cr7JY6azAVpcnj-Aunv_jYXnF0Frh6B-",
+          "modifiedTime": "2026-05-24T07:48:42.039Z",
+          "children": [],
+          "files": [
+            {
+              "id": "1swg_STBoFZyHyLmKlQ_pRqei9TpmSL2o",
+              "name": "1775305934665-thi-thu-02-pdf.pdf",
+              "mimeType": "application/pdf",
+              "size": 3094543,
+              "webViewLink": "https://drive.google.com/file/d/1swg_STBoFZyHyLmKlQ_pRqei9TpmSL2o/view?usp=drivesdk",
+              "modifiedTime": "2026-05-24T07:48:43.284Z",
+              "videoMediaMetadata": null
+            }
+          ]
+        },
+        {
+          "id": "13QLFvDJ7INnspy0czqtm7P462Iy4meYC",
+          "name": "01. [Tuần 1] LIVESTREAM - CHỮA BÀI THI THỬ SỐ 02 NGÀY 0504 (P1)",
+          "webViewLink": "https://drive.google.com/drive/folders/13QLFvDJ7INnspy0czqtm7P462Iy4meYC",
+          "modifiedTime": "2026-05-24T07:48:45.411Z",
+          "children": [],
+          "files": [
+            {
+              "id": "1jRTOOr3KizHbmpkX9PHd8u9neAhXWrYV",
+              "name": "1775403980542-thi-thu-02-huong-dan-pdf.pdf",
+              "mimeType": "application/pdf",
+              "size": 9857142,
+              "webViewLink": "https://drive.google.com/file/d/1jRTOOr3KizHbmpkX9PHd8u9neAhXWrYV/view?usp=drivesdk",
+              "modifiedTime": "2026-05-24T07:48:46.644Z",
+              "videoMediaMetadata": null
+            },
+            {
+              "id": "1sq03oIUfB61z2Aevyl185m8mXgR7yH79",
+              "name": "[Tuần 1] LIVESTREAM - CHỮA BÀI THI THỬ SỐ 02 NGÀY 05 04 P1.mp4",
+              "mimeType": "video/mp4",
+              "size": 334222467,
+              "webViewLink": "https://drive.google.com/file/d/1sq03oIUfB61z2Aevyl185m8mXgR7yH79/view?usp=drivesdk",
+              "modifiedTime": "2026-05-24T14:35:25.509Z",
+              "videoMediaMetadata": null
+            }
+          ]
+        },
+        {
+          "id": "1jptI2z1C6jbQKJPLcsMTrWiegUTZYb8Y",
+          "name": "02. [Tuần 1] LIVESTREAM - CHỮA BÀI THI THỬ SỐ 02 NGÀY 0504 (P2)",
+          "webViewLink": "https://drive.google.com/drive/folders/1jptI2z1C6jbQKJPLcsMTrWiegUTZYb8Y",
+          "modifiedTime": "2026-05-24T07:48:47.752Z",
+          "children": [],
+          "files": [
+            {
+              "id": "18ADfCBbwpf9aHYNtgRSAs4n7tULyk1td",
+              "name": "[Tuần 1] LIVESTREAM - CHỮA BÀI THI THỬ SỐ 02 NGÀY 05 04 P2.mp4",
+              "mimeType": "video/mp4",
+              "size": 85266984,
+              "webViewLink": "https://drive.google.com/file/d/18ADfCBbwpf9aHYNtgRSAs4n7tULyk1td/view?usp=drivesdk",
+              "modifiedTime": "2026-05-24T14:36:06.076Z",
+              "videoMediaMetadata": null
+            }
+          ]
+        },
+        {
+          "id": "13CLYTZtjoxEtKK7dB_c2LGG_xKrJskEh",
+          "name": "03. [Tuần 2] PHỤ ĐẠO - ÔN TẬP HKII BUỔI 1 NGÀY 1204 (1)",
+          "webViewLink": "https://drive.google.com/drive/folders/13CLYTZtjoxEtKK7dB_c2LGG_xKrJskEh",
+          "modifiedTime": "2026-05-24T07:48:51.257Z",
+          "children": [],
+          "files": [
+            {
+              "id": "1O40nnZp2iGBPcT9OdvOqMTDyIYhviJkS",
+              "name": "1776141464853-phu-dao-truyen-tho-nom-ki-nang-viet-bai-van-nlvh-pdf.pdf",
+              "mimeType": "application/pdf",
+              "size": 3630948,
+              "webViewLink": "https://drive.google.com/file/d/1O40nnZp2iGBPcT9OdvOqMTDyIYhviJkS/view?usp=drivesdk",
+              "modifiedTime": "2026-05-24T07:48:52.539Z",
+              "videoMediaMetadata": null
+            },
+            {
+              "id": "1yM5x-HKV48waFertXtc0OwD8thb7MWMz",
+              "name": "[Tuần 2] PHỤ ĐẠO - ÔN TẬP HKII BUỔI 1 NGÀY 12 04 1.mp4",
+              "mimeType": "video/mp4",
+              "size": 185872446,
+              "webViewLink": "https://drive.google.com/file/d/1yM5x-HKV48waFertXtc0OwD8thb7MWMz/view?usp=drivesdk",
+              "modifiedTime": "2026-05-24T14:36:56.611Z",
+              "videoMediaMetadata": {
+                "width": 1280,
+                "height": 720,
+                "durationMillis": "4725266"
+              }
+            }
+          ]
+        },
+        {
+          "id": "1J6Fzf1qOlOnsAaUNoFoQhOlzC7Idtzoe",
+          "name": "04. [Tuần 2] PHỤ ĐẠO - ÔN TẬP HKII BUỔI 1 NGÀY 1204 (2)",
+          "webViewLink": "https://drive.google.com/drive/folders/1J6Fzf1qOlOnsAaUNoFoQhOlzC7Idtzoe",
+          "modifiedTime": "2026-05-24T07:48:50.100Z",
+          "children": [],
+          "files": [
+            {
+              "id": "1laSD8MA7wOMh3bZJJv7jLB2XglyPDuy7",
+              "name": "1776141570135-on-tap-cuoi-hoc-ki-ii-lop-11-pdf.pdf",
+              "mimeType": "application/pdf",
+              "size": 3285688,
+              "webViewLink": "https://drive.google.com/file/d/1laSD8MA7wOMh3bZJJv7jLB2XglyPDuy7/view?usp=drivesdk",
+              "modifiedTime": "2026-05-24T07:48:51.486Z",
+              "videoMediaMetadata": null
+            },
+            {
+              "id": "1QwvRkXVd25gp4OPzQkM8UnqhJ8ObON-9",
+              "name": "[Tuần 2] PHỤ ĐẠO - ÔN TẬP HKII BUỔI 1 NGÀY 12 04 2.mp4",
+              "mimeType": "video/mp4",
+              "size": 302732456,
+              "webViewLink": "https://drive.google.com/file/d/1QwvRkXVd25gp4OPzQkM8UnqhJ8ObON-9/view?usp=drivesdk",
+              "modifiedTime": "2026-05-24T14:36:34.647Z",
+              "videoMediaMetadata": null
+            }
+          ]
+        },
+        {
+          "id": "1VKU5XJ3AzIIz6StPIgXcJVJxVjg015Kd",
+          "name": "05. [Tuần 2] STKTTV - Ngôn ngữ nói & viết",
+          "webViewLink": "https://drive.google.com/drive/folders/1VKU5XJ3AzIIz6StPIgXcJVJxVjg015Kd",
+          "modifiedTime": "2026-05-24T07:48:43.145Z",
+          "children": [],
+          "files": [
+            {
+              "id": "1ssmuJBzRDmerJ8hYsLC_ZO9H6VaKCgKr",
+              "name": "1775019196230-tuan-3-ngon-ngu-noi-viet-pdf.pdf",
+              "mimeType": "application/pdf",
+              "size": 14154742,
+              "webViewLink": "https://drive.google.com/file/d/1ssmuJBzRDmerJ8hYsLC_ZO9H6VaKCgKr/view?usp=drivesdk",
+              "modifiedTime": "2026-05-24T07:48:44.358Z",
+              "videoMediaMetadata": null
+            }
+          ]
+        },
+        {
+          "id": "1pyCEM-yWcI1S9q9rW9TdfikcGmIfjK_L",
+          "name": "06. [Tuần 2] Cách phân tích đặc điểm của ngôn ngữ trang trọng, ngôn ngữ thân mật trong tác phẩm văn học",
+          "webViewLink": "https://drive.google.com/drive/folders/1pyCEM-yWcI1S9q9rW9TdfikcGmIfjK_L",
+          "modifiedTime": "2026-05-24T07:48:48.967Z",
+          "children": [],
+          "files": [
+            {
+              "id": "1jyyM7tTLGOCNMjTtklKhyY-AV55oz0oi",
+              "name": "1775019269210-cach-phan-tich-dac-diem-cua-nn-trang-trong-va-nn-than-mat-pdf.pdf",
+              "mimeType": "application/pdf",
+              "size": 2268379,
+              "webViewLink": "https://drive.google.com/file/d/1jyyM7tTLGOCNMjTtklKhyY-AV55oz0oi/view?usp=drivesdk",
+              "modifiedTime": "2026-05-24T07:48:50.213Z",
+              "videoMediaMetadata": null
+            }
+          ]
+        },
+        {
+          "id": "1ksiy6GEuiJngOrYn5KgdK5kO1_uDSsKH",
+          "name": "07. [Tuần 3] VOD - CÁCH LÀM BÀI NGHỊ LUẬN VỀ MỘT TƯ TƯỞNG ĐẠO LÍ TỐT ĐẸP",
+          "webViewLink": "https://drive.google.com/drive/folders/1ksiy6GEuiJngOrYn5KgdK5kO1_uDSsKH",
+          "modifiedTime": "2026-05-24T07:48:44.260Z",
+          "children": [],
+          "files": [
+            {
+              "id": "10p5URGLROHZdHNbvP-blPv2NpJqiKmFk",
+              "name": "1757070621603-nlxh-nl-ve-tu-tuong-dao-ly-tot-dep-pdf.pdf",
+              "mimeType": "application/pdf",
+              "size": 8159183,
+              "webViewLink": "https://drive.google.com/file/d/10p5URGLROHZdHNbvP-blPv2NpJqiKmFk/view?usp=drivesdk",
+              "modifiedTime": "2026-05-24T07:48:45.560Z",
+              "videoMediaMetadata": null
+            },
+            {
+              "id": "1UfmiWU8SDZDJ7SHdigQBvG8R2K05puUW",
+              "name": "[Tuần 3] VOD - CÁCH LÀM BÀI NGHỊ LUẬN VỀ MỘT TƯ TƯỞNG ĐẠO LÍ TỐT ĐẸP.mp4",
+              "mimeType": "video/mp4",
+              "size": 242302338,
+              "webViewLink": "https://drive.google.com/file/d/1UfmiWU8SDZDJ7SHdigQBvG8R2K05puUW/view?usp=drivesdk",
+              "modifiedTime": "2026-05-24T14:34:35.421Z",
+              "videoMediaMetadata": null
+            }
+          ]
+        },
+        {
+          "id": "11rmLkPz6YKqlbo4hSURFkwZfClxifGVa",
+          "name": "08. [Tuần 3] Kiến thức thể loại (lớp 10 - 11 có thể sử dụng trong kì thi THPT)",
+          "webViewLink": "https://drive.google.com/drive/folders/11rmLkPz6YKqlbo4hSURFkwZfClxifGVa",
+          "modifiedTime": "2026-05-24T07:48:52.397Z",
+          "children": [],
+          "files": [
+            {
+              "id": "1fiqfo0CKl1tb2gQMfjmr1f9hEIHk5X-h",
+              "name": "1775024106082-hvcsm-tong-hop-kien-thuc-the-loai-pdf.pdf",
+              "mimeType": "application/pdf",
+              "size": 11092721,
+              "webViewLink": "https://drive.google.com/file/d/1fiqfo0CKl1tb2gQMfjmr1f9hEIHk5X-h/view?usp=drivesdk",
+              "modifiedTime": "2026-05-24T07:48:53.754Z",
+              "videoMediaMetadata": null
+            }
+          ]
+        },
+        {
+          "id": "1JOiqgkRHy3z-SqxgukUYxrHjOScLP7_L",
+          "name": "09. [Tuần 4] PHỤ ĐẠO - ÔN THI HKII BUỔI 2 NGÀY 2504 (1)",
+          "webViewLink": "https://drive.google.com/drive/folders/1JOiqgkRHy3z-SqxgukUYxrHjOScLP7_L",
+          "modifiedTime": "2026-05-24T07:48:46.527Z",
+          "children": [],
+          "files": [
+            {
+              "id": "1fQ9R8QrSDmxCbrULmNas0kWLyki2RXbI",
+              "name": "1777256368304-on-thi-cuoi-hoc-ki-ii-truyen-tho-pdf.pdf",
+              "mimeType": "application/pdf",
+              "size": 3669468,
+              "webViewLink": "https://drive.google.com/file/d/1fQ9R8QrSDmxCbrULmNas0kWLyki2RXbI/view?usp=drivesdk",
+              "modifiedTime": "2026-05-24T07:48:47.875Z",
+              "videoMediaMetadata": null
+            },
+            {
+              "id": "1I-QGy8_TfSwG8fbtxpM_o-WX5D-lzdSA",
+              "name": "[Tuần 4] PHỤ ĐẠO - ÔN THI HKII BUỔI 2 NGÀY 25 04 1.mp4",
+              "mimeType": "video/mp4",
+              "size": 248993687,
+              "webViewLink": "https://drive.google.com/file/d/1I-QGy8_TfSwG8fbtxpM_o-WX5D-lzdSA/view?usp=drivesdk",
+              "modifiedTime": "2026-05-24T14:35:53.719Z",
+              "videoMediaMetadata": null
+            }
+          ]
+        },
+        {
+          "id": "1z9XVelf_4Ca_jhwn3KxUQ0gIJSz4obDl",
+          "name": "10. [Tuần 4] PHỤ ĐẠO - ÔN THI HKII BUỔI 2 NGÀY 2504 (2)",
+          "webViewLink": "https://drive.google.com/drive/folders/1z9XVelf_4Ca_jhwn3KxUQ0gIJSz4obDl",
+          "modifiedTime": "2026-05-24T07:48:54.738Z",
+          "children": [],
+          "files": [
+            {
+              "id": "13Le8AD5-3k7qUpVUGjvllLczmdrEs4gW",
+              "name": "1777256420461-on-tap-hoc-ki-ii-lop-11-pdf.pdf",
+              "mimeType": "application/pdf",
+              "size": 5600233,
+              "webViewLink": "https://drive.google.com/file/d/13Le8AD5-3k7qUpVUGjvllLczmdrEs4gW/view?usp=drivesdk",
+              "modifiedTime": "2026-05-24T07:48:56.013Z",
+              "videoMediaMetadata": null
+            },
+            {
+              "id": "1vXxYbuCj3lWnLaIPllQSQBzpOlnAju3p",
+              "name": "[Tuần 4] PHỤ ĐẠO - ÔN THI HKII BUỔI 2 NGÀY 25 04 2.mp4",
+              "mimeType": "video/mp4",
+              "size": 291290787,
+              "webViewLink": "https://drive.google.com/file/d/1vXxYbuCj3lWnLaIPllQSQBzpOlnAju3p/view?usp=drivesdk",
+              "modifiedTime": "2026-05-24T14:37:20.938Z",
+              "videoMediaMetadata": null
+            }
+          ]
+        },
+        {
+          "id": "1Obkt7WD61-EERasF1oFo-SXlHoauBt33",
+          "name": "11. [Tuần 4] Tài liệu ôn thi cuối học kỳ II lớp 11",
+          "webViewLink": "https://drive.google.com/drive/folders/1Obkt7WD61-EERasF1oFo-SXlHoauBt33",
+          "modifiedTime": "2026-05-24T07:48:53.606Z",
+          "children": [],
+          "files": [
+            {
+              "id": "1lznhnZqxWXDovlh5aHyyjkq4igUy7PTG",
+              "name": "1775024268498-hvcsm-tai-lieu-on-thi-cuoi-ki-ii-lop-11-pdf.pdf",
+              "mimeType": "application/pdf",
+              "size": 15938957,
+              "webViewLink": "https://drive.google.com/file/d/1lznhnZqxWXDovlh5aHyyjkq4igUy7PTG/view?usp=drivesdk",
+              "modifiedTime": "2026-05-24T07:48:54.868Z",
+              "videoMediaMetadata": null
+            }
+          ]
+        }
+      ],
+      "files": [],
+      "webViewLink": "https://drive.google.com/drive/folders/13hNi9dOtJ1zXKk57ScpzWPUoygXhCj7s",
+      "modifiedTime": "2026-04-17T13:59:38.786Z"
+    },
+    {
+      "id": "1HaBJlY0gqMRzSp4A5ZzC1MLFC2FfKzBK",
+      "name": "5. GĐ1.T5 LỘ TRÌNH HỌC THÁNG 5/2026",
+      "children": [
+        {
+          "id": "1qd-VuP8t5XR16aD1EaGvVWFoDLhx3iFd",
+          "name": "01. [Tuần 1] Đề tự luyện số 1",
+          "webViewLink": "https://drive.google.com/drive/folders/1qd-VuP8t5XR16aD1EaGvVWFoDLhx3iFd",
+          "modifiedTime": "2026-05-24T07:48:32.864Z",
+          "children": [],
+          "files": [
+            {
+              "id": "13EYrGG5K3zeC902FY-nGyLeeaIjbGdAG",
+              "name": "1777716506252-de-tu-luyen-so-1-2-pdf.pdf",
+              "mimeType": "application/pdf",
+              "size": 1789275,
+              "webViewLink": "https://drive.google.com/file/d/13EYrGG5K3zeC902FY-nGyLeeaIjbGdAG/view?usp=drivesdk",
+              "modifiedTime": "2026-05-24T07:48:34.083Z",
+              "videoMediaMetadata": null
+            }
+          ]
+        },
+        {
+          "id": "1CN8jeekk4SkLhJxwbZAVqPuX-rgZxUSJ",
+          "name": "02. [Tuần 1] VOD CÁCH LÀM BÀI NGHỊ LUẬN VỀ MỘT TRÍCH DẪN (1)",
+          "webViewLink": "https://drive.google.com/drive/folders/1CN8jeekk4SkLhJxwbZAVqPuX-rgZxUSJ",
+          "modifiedTime": "2026-05-24T07:48:30.622Z",
+          "children": [],
+          "files": [
+            {
+              "id": "1tng0QZpspJ9u6AuBb6CcGChQK9vhgs0T",
+              "name": "1761728660069-sach1-nghi-luan-ve-mot-trich-dan-pdf.pdf",
+              "mimeType": "application/pdf",
+              "size": 4945831,
+              "webViewLink": "https://drive.google.com/file/d/1tng0QZpspJ9u6AuBb6CcGChQK9vhgs0T/view?usp=drivesdk",
+              "modifiedTime": "2026-05-24T07:48:31.875Z",
+              "videoMediaMetadata": null
+            },
+            {
+              "id": "1XG7LKk4gTvTbez2pr1sbviJvRDi30Sr1",
+              "name": "1761838663475-nlxh-nghi-luan-ve-mot-trich-dan-pdf.pdf",
+              "mimeType": "application/pdf",
+              "size": 4027522,
+              "webViewLink": "https://drive.google.com/file/d/1XG7LKk4gTvTbez2pr1sbviJvRDi30Sr1/view?usp=drivesdk",
+              "modifiedTime": "2026-05-24T07:48:31.871Z",
+              "videoMediaMetadata": null
+            },
+            {
+              "id": "1UUcoNOxhoe4QdeWx2XDibOoLO71nNJpC",
+              "name": "[Tuần 1] VOD CÁCH LÀM BÀI NGHỊ LUẬN VỀ MỘT TRÍCH DẪN 1.mp4",
+              "mimeType": "video/mp4",
+              "size": 264475166,
+              "webViewLink": "https://drive.google.com/file/d/1UUcoNOxhoe4QdeWx2XDibOoLO71nNJpC/view?usp=drivesdk",
+              "modifiedTime": "2026-05-24T14:27:47.394Z",
+              "videoMediaMetadata": null
+            }
+          ]
+        },
+        {
+          "id": "1n6T2rmE4T6lWbi4-qd-6T_SuRzaDpcEs",
+          "name": "03. [Tuần 1] VOD CÁCH LÀM BÀI NGHỊ LUẬN VỀ MỘT TRÍCH DẪN (2)",
+          "webViewLink": "https://drive.google.com/drive/folders/1n6T2rmE4T6lWbi4-qd-6T_SuRzaDpcEs",
+          "modifiedTime": "2026-05-24T07:48:38.454Z",
+          "children": [],
+          "files": [
+            {
+              "id": "1fPs2-aD0VUb2a6oH3AZPrnaxkTbRWU28",
+              "name": "[Tuần 1] VOD CÁCH LÀM BÀI NGHỊ LUẬN VỀ MỘT TRÍCH DẪN 2.mp4",
+              "mimeType": "video/mp4",
+              "size": 9873138,
+              "webViewLink": "https://drive.google.com/file/d/1fPs2-aD0VUb2a6oH3AZPrnaxkTbRWU28/view?usp=drivesdk",
+              "modifiedTime": "2026-05-24T14:33:48.156Z",
+              "videoMediaMetadata": null
+            }
+          ]
+        },
+        {
+          "id": "18RO5Lo7fJGr7o1DzR3926iY0CGMp1mB3",
+          "name": "04. [Tuần 2] VOD Chữa đề tự luyện số 1",
+          "webViewLink": "https://drive.google.com/drive/folders/18RO5Lo7fJGr7o1DzR3926iY0CGMp1mB3",
+          "modifiedTime": "2026-05-24T07:48:37.292Z",
+          "children": [],
+          "files": [
+            {
+              "id": "1p45u1aej2n28A6LLDYj1ETJfB5qR4OEv",
+              "name": "1778147797750-de-tu-luyen-so-1-huong-dan-pdf.pdf",
+              "mimeType": "application/pdf",
+              "size": 9680351,
+              "webViewLink": "https://drive.google.com/file/d/1p45u1aej2n28A6LLDYj1ETJfB5qR4OEv/view?usp=drivesdk",
+              "modifiedTime": "2026-05-24T07:48:38.621Z",
+              "videoMediaMetadata": null
+            },
+            {
+              "id": "1NXfX0O8iKA_ZH-8U1jTaNsezFKa2JVBV",
+              "name": "[Tuần 2] VOD Chữa đề tự luyện số 1.mp4",
+              "mimeType": "video/mp4",
+              "size": 512687468,
+              "webViewLink": "https://drive.google.com/file/d/1NXfX0O8iKA_ZH-8U1jTaNsezFKa2JVBV/view?usp=drivesdk",
+              "modifiedTime": "2026-05-24T14:33:39.311Z",
+              "videoMediaMetadata": {
+                "width": 1280,
+                "height": 720,
+                "durationMillis": "7176833"
+              }
+            }
+          ]
+        },
+        {
+          "id": "12PmzJornyeHk-pgujVK8nTf3Vry4WpBL",
+          "name": "05. [Tuần 2] STKTTV - Phương tiện giao tiếp phi ngôn ngữ",
+          "webViewLink": "https://drive.google.com/drive/folders/12PmzJornyeHk-pgujVK8nTf3Vry4WpBL",
+          "modifiedTime": "2026-05-24T07:48:35.048Z",
+          "children": [],
+          "files": [
+            {
+              "id": "1WRZmZZmSFGx53S_Ie_uGPsIfr73No51g",
+              "name": "1778148616649-kttv-phuong-tien-giao-tiep-phi-ngon-ngu-pdf.pdf",
+              "mimeType": "application/pdf",
+              "size": 1064824,
+              "webViewLink": "https://drive.google.com/file/d/1WRZmZZmSFGx53S_Ie_uGPsIfr73No51g/view?usp=drivesdk",
+              "modifiedTime": "2026-05-24T07:48:36.310Z",
+              "videoMediaMetadata": null
+            }
+          ]
+        },
+        {
+          "id": "1_ak3toen68Azn0Bj7PLIUivCpTE9_u0C",
+          "name": "06. [Tuần 3] Đề tự luyện số 2",
+          "webViewLink": "https://drive.google.com/drive/folders/1_ak3toen68Azn0Bj7PLIUivCpTE9_u0C",
+          "modifiedTime": "2026-05-24T07:48:29.496Z",
+          "children": [],
+          "files": [
+            {
+              "id": "1CHSvfso9bUt3u__Xg75JWu_okGLp6giS",
+              "name": "1779003763331-de-tu-luyen-so-2-pdf.pdf",
+              "mimeType": "application/pdf",
+              "size": 1103184,
+              "webViewLink": "https://drive.google.com/file/d/1CHSvfso9bUt3u__Xg75JWu_okGLp6giS/view?usp=drivesdk",
+              "modifiedTime": "2026-05-24T07:48:30.745Z",
+              "videoMediaMetadata": null
+            }
+          ]
+        },
+        {
+          "id": "1S_Ogsq3kuq_lHbpMUm23Wptj3ytiWO6M",
+          "name": "07. [Tuần 3] VOD NLXH - Nghị luận về một vấn đề liên quan đến tuổi trẻ (1)",
+          "webViewLink": "https://drive.google.com/drive/folders/1S_Ogsq3kuq_lHbpMUm23Wptj3ytiWO6M",
+          "modifiedTime": "2026-05-24T07:48:33.939Z",
+          "children": [],
+          "files": [
+            {
+              "id": "1xLwVTF1urUBnykYa6vm2se6n-9x6Q_Wi",
+              "name": "1763364701100-sach1-nghi-luan-ve-mot-van-de-lien-quan-den-tuoi-tre-pdf.pdf",
+              "mimeType": "application/pdf",
+              "size": 876773,
+              "webViewLink": "https://drive.google.com/file/d/1xLwVTF1urUBnykYa6vm2se6n-9x6Q_Wi/view?usp=drivesdk",
+              "modifiedTime": "2026-05-24T07:48:35.191Z",
+              "videoMediaMetadata": null
+            },
+            {
+              "id": "15S3Lx_ZheqEXKZDTSod9IKDgIrZqD5JD",
+              "name": "1763514755294-nlxh-ve-mot-van-de-lien-quan-tuoi-tre-pdf.pdf",
+              "mimeType": "application/pdf",
+              "size": 5959117,
+              "webViewLink": "https://drive.google.com/file/d/15S3Lx_ZheqEXKZDTSod9IKDgIrZqD5JD/view?usp=drivesdk",
+              "modifiedTime": "2026-05-24T07:48:35.188Z",
+              "videoMediaMetadata": null
+            },
+            {
+              "id": "18hgyUyjWLMWkz2u-Nz6krmk5wh8t-bwD",
+              "name": "[Tuần 3] VOD NLXH - Nghị luận về một vấn đề liên quan đến tuổi trẻ 1.mp4",
+              "mimeType": "video/mp4",
+              "size": 276494297,
+              "webViewLink": "https://drive.google.com/file/d/18hgyUyjWLMWkz2u-Nz6krmk5wh8t-bwD/view?usp=drivesdk",
+              "modifiedTime": "2026-05-24T14:30:50.519Z",
+              "videoMediaMetadata": null
+            }
+          ]
+        },
+        {
+          "id": "1tlGlQ--yvC9SZyVUz3Ov-4zpjj9xjEIX",
+          "name": "08. [Tuần 3] VOD NLXH - Nghị luận về một vấn đề liên quan đến tuổi trẻ (2)",
+          "webViewLink": "https://drive.google.com/drive/folders/1tlGlQ--yvC9SZyVUz3Ov-4zpjj9xjEIX",
+          "modifiedTime": "2026-05-24T07:48:36.180Z",
+          "children": [],
+          "files": [
+            {
+              "id": "1KCQV0NhnGiLzM6zY2m6xhBcC0rGsAc35",
+              "name": "[Tuần 3] VOD NLXH - Nghị luận về một vấn đề liên quan đến tuổi trẻ 2.mp4",
+              "mimeType": "video/mp4",
+              "size": 48361476,
+              "webViewLink": "https://drive.google.com/file/d/1KCQV0NhnGiLzM6zY2m6xhBcC0rGsAc35/view?usp=drivesdk",
+              "modifiedTime": "2026-05-24T14:31:07.823Z",
+              "videoMediaMetadata": null
+            }
+          ]
+        },
+        {
+          "id": "1D9LDHMV8L4FXAGW8lFqHKeNLrx2TCVTN",
+          "name": "09. [Tuần 4] Gợi ý tư duy triển khai lập luận cho một số vấn đề liên quan đến tuổi trẻ",
+          "webViewLink": "https://drive.google.com/drive/folders/1D9LDHMV8L4FXAGW8lFqHKeNLrx2TCVTN",
+          "modifiedTime": "2026-05-24T07:48:39.660Z",
+          "children": [],
+          "files": [
+            {
+              "id": "1wRvNrFTrcZZaZ5QJ-E-pihi1U_IhONE-",
+              "name": "1768549886472-goi-y-tu-duy-trien-khai-binh-luan-cho-mot-so-van-de-lien-quan-den-tuoi-tre-docx-1-pdf.pdf",
+              "mimeType": "application/pdf",
+              "size": 531485,
+              "webViewLink": "https://drive.google.com/file/d/1wRvNrFTrcZZaZ5QJ-E-pihi1U_IhONE-/view?usp=drivesdk",
+              "modifiedTime": "2026-05-24T07:48:40.886Z",
+              "videoMediaMetadata": null
+            }
+          ]
+        },
+        {
+          "id": "14Cbgm5urcYnfYwe4KkkamchSeMdodTqS",
+          "name": "10. [Tuần 4] VOD Chữa đề tự luyện số 2",
+          "webViewLink": "https://drive.google.com/drive/folders/14Cbgm5urcYnfYwe4KkkamchSeMdodTqS",
+          "modifiedTime": "2026-05-24T07:48:31.762Z",
+          "children": [],
+          "files": [
+            {
+              "id": "1JfUdpmNiSdBN1naLYeGl4x83shR0SeoP",
+              "name": "1779252472094-de-tu-luyen-so-2-huong-dan-pdf.pdf",
+              "mimeType": "application/pdf",
+              "size": 8073572,
+              "webViewLink": "https://drive.google.com/file/d/1JfUdpmNiSdBN1naLYeGl4x83shR0SeoP/view?usp=drivesdk",
+              "modifiedTime": "2026-05-24T07:48:33.023Z",
+              "videoMediaMetadata": null
+            },
+            {
+              "id": "12zjiiPTq2cFyHxpZUuXrUb-HMPPNngZL",
+              "name": "[Tuần 4] VOD Chữa đề tự luyện số 2.mp4",
+              "mimeType": "video/mp4",
+              "size": 394073525,
+              "webViewLink": "https://drive.google.com/file/d/12zjiiPTq2cFyHxpZUuXrUb-HMPPNngZL/view?usp=drivesdk",
+              "modifiedTime": "2026-05-24T14:29:58.805Z",
+              "videoMediaMetadata": null
+            }
+          ]
+        },
+        {
+          "id": "1qM_zW27RsguW7BYKYRoBBNfVvZC_iZvV",
+          "name": "11. [Tuần 4] Sổ tay bảng hóa một số vấn đề thực hành tiếng Việt",
+          "webViewLink": "https://drive.google.com/drive/folders/1qM_zW27RsguW7BYKYRoBBNfVvZC_iZvV",
+          "modifiedTime": "2026-05-24T07:48:27.834Z",
+          "children": [],
+          "files": [
+            {
+              "id": "1LJ8tfKlbrxGzCd2LQe2CRj920nDYLnGa",
+              "name": "1776681512773-so-tay-bang-hoa-mot-so-van-de-thuc-hanh-tieng-viet-docx-pdf.pdf",
+              "mimeType": "application/pdf",
+              "size": 6316878,
+              "webViewLink": "https://drive.google.com/file/d/1LJ8tfKlbrxGzCd2LQe2CRj920nDYLnGa/view?usp=drivesdk",
+              "modifiedTime": "2026-05-24T07:48:29.626Z",
+              "videoMediaMetadata": null
+            }
+          ]
+        }
+      ],
+      "files": [],
+      "webViewLink": "https://drive.google.com/drive/folders/1HaBJlY0gqMRzSp4A5ZzC1MLFC2FfKzBK",
+      "modifiedTime": "2026-05-24T07:48:26.409Z"
+    },
+    {
+      "id": "1Mv4c45QvCxyCGg6jlgYELxCqSMCxDOXf",
+      "name": "HỌC PHỤ ĐẠO CÙNG CÁC ANH CHỊ TRỢ GIẢNG",
+      "children": [],
+      "files": [],
+      "webViewLink": "https://drive.google.com/drive/folders/1Mv4c45QvCxyCGg6jlgYELxCqSMCxDOXf",
+      "modifiedTime": "2026-04-17T13:59:34.295Z"
+    },
+    {
+      "id": "1P5kXRjf-qmil-LefVLX2tcQNYrWXPIZ9",
+      "name": "LIVESTREAM CHỮA ĐỀ LUYỆN/THI THỬ/KHẢO SÁT",
+      "children": [],
+      "files": [],
+      "webViewLink": "https://drive.google.com/drive/folders/1P5kXRjf-qmil-LefVLX2tcQNYrWXPIZ9",
+      "modifiedTime": "2026-04-17T13:59:35.254Z"
+    },
+    {
+      "id": "1l7DaB_4KIoqUGXpgKXZvkcWWlpIuoudo",
+      "name": "THI THỬ/ KHẢO SÁT",
+      "children": [],
+      "files": [],
+      "webViewLink": "https://drive.google.com/drive/folders/1l7DaB_4KIoqUGXpgKXZvkcWWlpIuoudo",
+      "modifiedTime": "2026-04-17T13:59:36.338Z"
+    },
+    {
+      "id": "1g75pNZg2FH-Yy4U-Eelyf2AhKgal-7pS",
+      "name": "TRẮC NGHIỆM CUỐI THÁNG",
+      "children": [],
+      "files": [],
+      "webViewLink": "https://drive.google.com/drive/folders/1g75pNZg2FH-Yy4U-Eelyf2AhKgal-7pS",
+      "modifiedTime": "2026-04-17T13:59:37.900Z"
+    },
+    {
+      "id": "1Zxp_UtEH6RviYl19cPw9Ipef6Y6ChJ7M",
+      "name": "Z. EBOOK SÁCH KÈM KHOÁ HỌC",
+      "children": [],
+      "files": [],
+      "webViewLink": "https://drive.google.com/drive/folders/1Zxp_UtEH6RviYl19cPw9Ipef6Y6ChJ7M",
+      "modifiedTime": "2026-04-17T13:59:44.973Z"
+    }
+  ]
+}

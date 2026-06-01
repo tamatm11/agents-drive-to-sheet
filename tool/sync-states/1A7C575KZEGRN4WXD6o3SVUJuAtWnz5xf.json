@@ -1,0 +1,49 @@
+{
+  "teacherId": "1A7C575KZEGRN4WXD6o3SVUJuAtWnz5xf",
+  "tabs": {
+    "19RieNWL7peFy9tpcqKH5-yIbXuEUk1tt": {
+      "tabName": "Khóa ZOOM",
+      "renderedAt": "2026-05-31T04:10:51.944Z",
+      "checksum": "19RieNWL7peFy9tpcqKH5-yIbXuEUk1tt|2026-04-19T03:39:36.634Z|0",
+      "lessons": [],
+      "rendererVersion": "4.3.1",
+      "styleVersion": "2026-05-31-student-banner-no-meta-v2",
+      "runId": "no-meta-sync-2026-05-31-104541",
+      "spreadsheetId": "1tBwXi0EoH2pRq-Uqz0iZnnkTLAeYUVk-GYjxfEAOne4",
+      "stats": {
+        "leafCount": 0,
+        "totalVideos": 0
+      }
+    },
+    "16PWJWIGO9_ZIgMMBGcPDWrQUzMcc0_xQ": {
+      "tabName": "GIAI ĐOẠN 2",
+      "renderedAt": "2026-05-31T04:10:37.250Z",
+      "checksum": "16PWJWIGO9_ZIgMMBGcPDWrQUzMcc0_xQ|2026-04-19T03:39:41.081Z|0",
+      "lessons": [],
+      "rendererVersion": "4.3.1",
+      "styleVersion": "2026-05-31-student-banner-no-meta-v2",
+      "runId": "no-meta-sync-2026-05-31-104541",
+      "spreadsheetId": "1tBwXi0EoH2pRq-Uqz0iZnnkTLAeYUVk-GYjxfEAOne4",
+      "stats": {
+        "leafCount": 0,
+        "totalVideos": 0
+      }
+    },
+    "1ZdLL32QF97RyoiHoiOZKAX4SqbvoVz4V": {
+      "tabName": "GIAI ĐOẠN 3",
+      "renderedAt": "2026-05-31T04:10:44.892Z",
+      "checksum": "1ZdLL32QF97RyoiHoiOZKAX4SqbvoVz4V|2026-04-19T03:39:38.798Z|0",
+      "lessons": [],
+      "rendererVersion": "4.3.1",
+      "styleVersion": "2026-05-31-student-banner-no-meta-v2",
+      "runId": "no-meta-sync-2026-05-31-104541",
+      "spreadsheetId": "1tBwXi0EoH2pRq-Uqz0iZnnkTLAeYUVk-GYjxfEAOne4",
+      "stats": {
+        "leafCount": 0,
+        "totalVideos": 0
+      }
+    }
+  },
+  "updatedAt": "2026-05-31T04:10:51.944Z",
+  "version": 2
+}

@@ -1,0 +1,1679 @@
+{
+  "crawledAt": "2026-05-30T02:10:36.385Z",
+  "teacher": {
+    "id": "1rZYkvqwxrYOaNpwts16gdDVN2M4Qe-ph",
+    "name": "4. VĂN THẦY PHẠM MINH NHẬT SANGSANG 2K9",
+    "modifiedTime": "2026-05-27T14:44:35.930Z",
+    "webViewLink": "https://drive.google.com/drive/folders/1rZYkvqwxrYOaNpwts16gdDVN2M4Qe-ph"
+  },
+  "courses": [
+    {
+      "id": "1p7io-BtkiCkB2wzC8qb_NQpt82olMxjE",
+      "name": "0. INFO THÔNG TIN VÀ HƯỚNG DẪN KHOÁ HỌC",
+      "children": [],
+      "files": [],
+      "webViewLink": "https://drive.google.com/drive/folders/1p7io-BtkiCkB2wzC8qb_NQpt82olMxjE",
+      "modifiedTime": "2026-04-19T03:39:38.724Z"
+    },
+    {
+      "id": "1Rtxl8eSKbeXGzjBcQQVKovuTXv9U_9Yo",
+      "name": "1. LIVE S LÝ THUYẾT NỀN TẢNG NGỮ VĂN 12 K9",
+      "children": [
+        {
+          "id": "1ANQRbmLYFGz8DEStCK9swVhprbUX0cvY",
+          "name": "1. HƯỚNG DẪN VIẾT ĐOẠN VĂN 200 CHỮ BÌNH LUẬN, NHẬN XÉT, ĐÁNH GIÁ MỘT TÁC PHẨM\t\t\t",
+          "webViewLink": "https://drive.google.com/drive/folders/1ANQRbmLYFGz8DEStCK9swVhprbUX0cvY",
+          "modifiedTime": "2026-05-07T14:52:26.273Z",
+          "children": [
+            {
+              "id": "1kvdWFX-6yRx51WBN3aAPEj7wQaJ6MDiX",
+              "name": "1. Thơ",
+              "webViewLink": "https://drive.google.com/drive/folders/1kvdWFX-6yRx51WBN3aAPEj7wQaJ6MDiX",
+              "modifiedTime": "2026-05-07T14:52:38.335Z",
+              "children": [],
+              "files": [
+                {
+                  "id": "1i158fJQK4rjm8qa5VVtPCDnFvUSfq0ZY",
+                  "name": "1. Thơ.mp4",
+                  "mimeType": "video/mp4",
+                  "size": 61959960,
+                  "webViewLink": "https://drive.google.com/file/d/1i158fJQK4rjm8qa5VVtPCDnFvUSfq0ZY/view?usp=drivesdk",
+                  "modifiedTime": "2026-05-07T14:52:39.746Z",
+                  "videoMediaMetadata": {
+                    "width": 1920,
+                    "height": 1080,
+                    "durationMillis": "453033"
+                  }
+                }
+              ]
+            },
+            {
+              "id": "1fxUbsnaMbrhcaXJaiKjZ7k-IhRuZGqIK",
+              "name": "2. Truyện",
+              "webViewLink": "https://drive.google.com/drive/folders/1fxUbsnaMbrhcaXJaiKjZ7k-IhRuZGqIK",
+              "modifiedTime": "2026-05-07T14:52:34.760Z",
+              "children": [],
+              "files": [
+                {
+                  "id": "1dMX_ogp40qwK-R_rjr2rW27TqUzM0P2Q",
+                  "name": "2. Truyện.mp4",
+                  "mimeType": "video/mp4",
+                  "size": 63399360,
+                  "webViewLink": "https://drive.google.com/file/d/1dMX_ogp40qwK-R_rjr2rW27TqUzM0P2Q/view?usp=drivesdk",
+                  "modifiedTime": "2026-05-07T14:52:36.040Z",
+                  "videoMediaMetadata": {
+                    "width": 1920,
+                    "height": 1080,
+                    "durationMillis": "470599"
+                  }
+                }
+              ]
+            },
+            {
+              "id": "1WjPd6BYnvGoWuxy96WP_pAJrlBL6d8HL",
+              "name": "3. Kí",
+              "webViewLink": "https://drive.google.com/drive/folders/1WjPd6BYnvGoWuxy96WP_pAJrlBL6d8HL",
+              "modifiedTime": "2026-05-07T14:52:31.304Z",
+              "children": [],
+              "files": [
+                {
+                  "id": "1l_GFsQVoqT_0DPhQY9z07apoZzybDDFQ",
+                  "name": "3. Kí.mp4",
+                  "mimeType": "video/mp4",
+                  "size": 57913857,
+                  "webViewLink": "https://drive.google.com/file/d/1l_GFsQVoqT_0DPhQY9z07apoZzybDDFQ/view?usp=drivesdk",
+                  "modifiedTime": "2026-05-07T14:52:32.777Z",
+                  "videoMediaMetadata": {
+                    "width": 1920,
+                    "height": 1080,
+                    "durationMillis": "467899"
+                  }
+                }
+              ]
+            },
+            {
+              "id": "1zu-L0CyrADys-BNxSX6qw-2sVFUXaKi4",
+              "name": "4. Kịch",
+              "webViewLink": "https://drive.google.com/drive/folders/1zu-L0CyrADys-BNxSX6qw-2sVFUXaKi4",
+              "modifiedTime": "2026-05-07T14:52:28.052Z",
+              "children": [],
+              "files": [
+                {
+                  "id": "1_K8IZZhZ12QHWBYZM1vlFrX2TYe1unTr",
+                  "name": "4. Kịch.mp4",
+                  "mimeType": "video/mp4",
+                  "size": 67577942,
+                  "webViewLink": "https://drive.google.com/file/d/1_K8IZZhZ12QHWBYZM1vlFrX2TYe1unTr/view?usp=drivesdk",
+                  "modifiedTime": "2026-05-07T14:52:29.459Z",
+                  "videoMediaMetadata": null
+                }
+              ]
+            }
+          ],
+          "files": []
+        },
+        {
+          "id": "1OjFSorVpIbHBgxdqmIRvpFNwUThZXWrk",
+          "name": "2. HƯỚNG DẪN VIẾT BÀI VĂN 600 CHỮ BÌNH LUẬN, NHẬN XÉT, ĐÁNH GIÁ MỘT TÁC PHẨM\t\t\t",
+          "webViewLink": "https://drive.google.com/drive/folders/1OjFSorVpIbHBgxdqmIRvpFNwUThZXWrk",
+          "modifiedTime": "2026-05-07T14:51:41.461Z",
+          "children": [
+            {
+              "id": "15pNG0fwUG9qJ4xGGTS-E7bwYraom-sJO",
+              "name": "1. Thơ",
+              "webViewLink": "https://drive.google.com/drive/folders/15pNG0fwUG9qJ4xGGTS-E7bwYraom-sJO",
+              "modifiedTime": "2026-05-07T14:52:23.018Z",
+              "children": [],
+              "files": [
+                {
+                  "id": "1dvNxnpNkxmOv-__isrVFoNfgzW2I8wKV",
+                  "name": "1. Thơ.mp4",
+                  "mimeType": "video/mp4",
+                  "size": 69566635,
+                  "webViewLink": "https://drive.google.com/file/d/1dvNxnpNkxmOv-__isrVFoNfgzW2I8wKV/view?usp=drivesdk",
+                  "modifiedTime": "2026-05-07T14:52:24.408Z",
+                  "videoMediaMetadata": null
+                }
+              ]
+            },
+            {
+              "id": "1U0TV0xbklUNp5EJ4k6mjDeM2vUOA0LT9",
+              "name": "2. Truyện",
+              "webViewLink": "https://drive.google.com/drive/folders/1U0TV0xbklUNp5EJ4k6mjDeM2vUOA0LT9",
+              "modifiedTime": "2026-05-07T14:52:19.741Z",
+              "children": [],
+              "files": [
+                {
+                  "id": "1IV9M-5PuBSStNRZMqmDoV5f7ENC4ofhw",
+                  "name": "2. Truyện.mp4",
+                  "mimeType": "video/mp4",
+                  "size": 100392832,
+                  "webViewLink": "https://drive.google.com/file/d/1IV9M-5PuBSStNRZMqmDoV5f7ENC4ofhw/view?usp=drivesdk",
+                  "modifiedTime": "2026-05-07T14:52:21.330Z",
+                  "videoMediaMetadata": null
+                }
+              ]
+            },
+            {
+              "id": "1MpSnL0Q683Byza5E7I65vhwcid_ePm4D",
+              "name": "3. Kịch",
+              "webViewLink": "https://drive.google.com/drive/folders/1MpSnL0Q683Byza5E7I65vhwcid_ePm4D",
+              "modifiedTime": "2026-05-07T14:52:16.747Z",
+              "children": [],
+              "files": [
+                {
+                  "id": "1gk_wUFKRDy51EQ4d6aQNsJvagv9tUXP9",
+                  "name": "3. Kịch.mp4",
+                  "mimeType": "video/mp4",
+                  "size": 99393856,
+                  "webViewLink": "https://drive.google.com/file/d/1gk_wUFKRDy51EQ4d6aQNsJvagv9tUXP9/view?usp=drivesdk",
+                  "modifiedTime": "2026-05-07T14:52:17.974Z",
+                  "videoMediaMetadata": null
+                }
+              ]
+            },
+            {
+              "id": "1LjmMp4o63npliCZY-wjW1qF7KdLC0Nll",
+              "name": "4. Kí",
+              "webViewLink": "https://drive.google.com/drive/folders/1LjmMp4o63npliCZY-wjW1qF7KdLC0Nll",
+              "modifiedTime": "2026-05-07T14:51:42.835Z",
+              "children": [],
+              "files": [
+                {
+                  "id": "1BrHttBom3TcK-GsKVrUJYYCLBEL6J878",
+                  "name": "4. Kí.mp4",
+                  "mimeType": "video/mp4",
+                  "size": 104592724,
+                  "webViewLink": "https://drive.google.com/file/d/1BrHttBom3TcK-GsKVrUJYYCLBEL6J878/view?usp=drivesdk",
+                  "modifiedTime": "2026-05-07T14:51:45.178Z",
+                  "videoMediaMetadata": null
+                },
+                {
+                  "id": "11x_MxrkS13_QcEL1VxQCr2UYuZkwRnbe",
+                  "name": "mp42aac.exe",
+                  "mimeType": "application/x-msdownload",
+                  "size": 315392,
+                  "webViewLink": "https://drive.google.com/file/d/11x_MxrkS13_QcEL1VxQCr2UYuZkwRnbe/view?usp=drivesdk",
+                  "modifiedTime": "2026-05-07T14:52:14.769Z",
+                  "videoMediaMetadata": null
+                },
+                {
+                  "id": "14CvXyzWZfnoH-GetLxKnwf2qLUl15H1M",
+                  "name": "mp42avc.exe",
+                  "mimeType": "application/x-msdownload",
+                  "size": 315904,
+                  "webViewLink": "https://drive.google.com/file/d/14CvXyzWZfnoH-GetLxKnwf2qLUl15H1M/view?usp=drivesdk",
+                  "modifiedTime": "2026-05-07T14:52:12.843Z",
+                  "videoMediaMetadata": null
+                },
+                {
+                  "id": "1cm8zhl-cVE5s-k8QZI__pzfhTlYdCcVH",
+                  "name": "mp42hevc.exe",
+                  "mimeType": "application/x-msdownload",
+                  "size": 316416,
+                  "webViewLink": "https://drive.google.com/file/d/1cm8zhl-cVE5s-k8QZI__pzfhTlYdCcVH/view?usp=drivesdk",
+                  "modifiedTime": "2026-05-07T14:52:10.976Z",
+                  "videoMediaMetadata": null
+                },
+                {
+                  "id": "1oJrC5ZKL6pRO0NtRBUr6Uw-QUz6Den-H",
+                  "name": "mp42hls.exe",
+                  "mimeType": "application/x-msdownload",
+                  "size": 355840,
+                  "webViewLink": "https://drive.google.com/file/d/1oJrC5ZKL6pRO0NtRBUr6Uw-QUz6Den-H/view?usp=drivesdk",
+                  "modifiedTime": "2026-05-07T14:52:07.717Z",
+                  "videoMediaMetadata": null
+                },
+                {
+                  "id": "1HyjW5BcUSsCOtaiySc2Es3eR2uX8RHTQ",
+                  "name": "mp42ts.exe",
+                  "mimeType": "application/x-msdownload",
+                  "size": 330240,
+                  "webViewLink": "https://drive.google.com/file/d/1HyjW5BcUSsCOtaiySc2Es3eR2uX8RHTQ/view?usp=drivesdk",
+                  "modifiedTime": "2026-05-07T14:52:06.011Z",
+                  "videoMediaMetadata": null
+                },
+                {
+                  "id": "1SjSMgHGPsAfQGoAApGnRk7iu625aVYOQ",
+                  "name": "mp4iframeindex.exe",
+                  "mimeType": "application/x-msdownload",
+                  "size": 314880,
+                  "webViewLink": "https://drive.google.com/file/d/1SjSMgHGPsAfQGoAApGnRk7iu625aVYOQ/view?usp=drivesdk",
+                  "modifiedTime": "2026-05-07T14:52:03.980Z",
+                  "videoMediaMetadata": null
+                },
+                {
+                  "id": "1ca-jEOXO9fF1N3jXt2Wh4VuUP0irCNwm",
+                  "name": "mp4info.exe",
+                  "mimeType": "application/x-msdownload",
+                  "size": 364544,
+                  "webViewLink": "https://drive.google.com/file/d/1ca-jEOXO9fF1N3jXt2Wh4VuUP0irCNwm/view?usp=drivesdk",
+                  "modifiedTime": "2026-05-07T14:52:01.873Z",
+                  "videoMediaMetadata": null
+                },
+                {
+                  "id": "19nLik50Cg0EQNWjkVPC5n8FH-N3AN13c",
+                  "name": "mp4mux.exe",
+                  "mimeType": "application/x-msdownload",
+                  "size": 416768,
+                  "webViewLink": "https://drive.google.com/file/d/19nLik50Cg0EQNWjkVPC5n8FH-N3AN13c/view?usp=drivesdk",
+                  "modifiedTime": "2026-05-07T14:51:59.895Z",
+                  "videoMediaMetadata": null
+                },
+                {
+                  "id": "1t-80xkoIB-jG6HEcpdXlDhHUwaMlcuPB",
+                  "name": "mp4pssh.exe",
+                  "mimeType": "application/x-msdownload",
+                  "size": 324608,
+                  "webViewLink": "https://drive.google.com/file/d/1t-80xkoIB-jG6HEcpdXlDhHUwaMlcuPB/view?usp=drivesdk",
+                  "modifiedTime": "2026-05-07T14:51:57.873Z",
+                  "videoMediaMetadata": null
+                },
+                {
+                  "id": "1fqy-KJGrfKXoLhgjuY1BZdkg8AipaZMP",
+                  "name": "mp4rtphintinfo.exe",
+                  "mimeType": "application/x-msdownload",
+                  "size": 313344,
+                  "webViewLink": "https://drive.google.com/file/d/1fqy-KJGrfKXoLhgjuY1BZdkg8AipaZMP/view?usp=drivesdk",
+                  "modifiedTime": "2026-05-07T14:51:55.995Z",
+                  "videoMediaMetadata": null
+                },
+                {
+                  "id": "1kMc7jjI_FMa98ENs9eg7am_OJ4S2Wf57",
+                  "name": "mp4split.exe",
+                  "mimeType": "application/x-msdownload",
+                  "size": 307200,
+                  "webViewLink": "https://drive.google.com/file/d/1kMc7jjI_FMa98ENs9eg7am_OJ4S2Wf57/view?usp=drivesdk",
+                  "modifiedTime": "2026-05-07T14:51:54.321Z",
+                  "videoMediaMetadata": null
+                },
+                {
+                  "id": "16eDU4z35frzIDTgm1wKlvOQ01YTei4BT",
+                  "name": "mp4tag.exe",
+                  "mimeType": "application/x-msdownload",
+                  "size": 330240,
+                  "webViewLink": "https://drive.google.com/file/d/16eDU4z35frzIDTgm1wKlvOQ01YTei4BT/view?usp=drivesdk",
+                  "modifiedTime": "2026-05-07T14:51:52.442Z",
+                  "videoMediaMetadata": null
+                },
+                {
+                  "id": "1-WhF4APzaHWl5KfrnbpwcXsADC8qu6tH",
+                  "name": "sangsangdownload.bat",
+                  "mimeType": "application/x-msdos-program",
+                  "size": 1228,
+                  "webViewLink": "https://drive.google.com/file/d/1-WhF4APzaHWl5KfrnbpwcXsADC8qu6tH/view?usp=drivesdk",
+                  "modifiedTime": "2026-05-07T14:51:50.065Z",
+                  "videoMediaMetadata": null
+                },
+                {
+                  "id": "16gN8otPS7CJmj3XUwu-87mjbRvDDtfHT",
+                  "name": "Version.txt",
+                  "mimeType": "text/plain",
+                  "size": 0,
+                  "webViewLink": "https://drive.google.com/file/d/16gN8otPS7CJmj3XUwu-87mjbRvDDtfHT/view?usp=drivesdk",
+                  "modifiedTime": "2026-05-07T14:51:47.272Z",
+                  "videoMediaMetadata": null
+                }
+              ]
+            }
+          ],
+          "files": []
+        },
+        {
+          "id": "13nZ7Thk-NhdlDBN1C9G96EAJmmT79o8R",
+          "name": "3. ĐẶC TRƯNG THỂ LOẠI",
+          "webViewLink": "https://drive.google.com/drive/folders/13nZ7Thk-NhdlDBN1C9G96EAJmmT79o8R",
+          "modifiedTime": "2026-05-07T14:51:19.417Z",
+          "children": [
+            {
+              "id": "1SzR7AXPquGvhVWZ53D-xC3NdLpRJ1R0k",
+              "name": "1. Thơ",
+              "webViewLink": "https://drive.google.com/drive/folders/1SzR7AXPquGvhVWZ53D-xC3NdLpRJ1R0k",
+              "modifiedTime": "2026-05-07T14:51:38.038Z",
+              "children": [],
+              "files": [
+                {
+                  "id": "1tNaP65F-AIkgj3GgmU8rjRjOJnTFtNnb",
+                  "name": "1. Thơ.mp4",
+                  "mimeType": "video/mp4",
+                  "size": 416592843,
+                  "webViewLink": "https://drive.google.com/file/d/1tNaP65F-AIkgj3GgmU8rjRjOJnTFtNnb/view?usp=drivesdk",
+                  "modifiedTime": "2026-05-07T14:51:39.517Z",
+                  "videoMediaMetadata": null
+                }
+              ]
+            },
+            {
+              "id": "1L_WEtrIN0Zdo1GMXJ_Q0RaMrwHo5cTIj",
+              "name": "2. Truyện",
+              "webViewLink": "https://drive.google.com/drive/folders/1L_WEtrIN0Zdo1GMXJ_Q0RaMrwHo5cTIj",
+              "modifiedTime": "2026-05-07T14:51:34.576Z",
+              "children": [],
+              "files": [
+                {
+                  "id": "1Y5V5N6WywL9ZkcB--8-RqWEXSBIH38U0",
+                  "name": "2. Truyện.mp4",
+                  "mimeType": "video/mp4",
+                  "size": 328094830,
+                  "webViewLink": "https://drive.google.com/file/d/1Y5V5N6WywL9ZkcB--8-RqWEXSBIH38U0/view?usp=drivesdk",
+                  "modifiedTime": "2026-05-07T14:51:36.050Z",
+                  "videoMediaMetadata": null
+                }
+              ]
+            },
+            {
+              "id": "1EyMG_C_FIJic2GwsUMgxbN3iU843bj_n",
+              "name": "3. Kí",
+              "webViewLink": "https://drive.google.com/drive/folders/1EyMG_C_FIJic2GwsUMgxbN3iU843bj_n",
+              "modifiedTime": "2026-05-07T14:51:31.117Z",
+              "children": [],
+              "files": [
+                {
+                  "id": "1vyjHVZy3QnqYc_uDl6eD97A8Tw_PZOLX",
+                  "name": "3. Kí.mp4",
+                  "mimeType": "video/mp4",
+                  "size": 172874200,
+                  "webViewLink": "https://drive.google.com/file/d/1vyjHVZy3QnqYc_uDl6eD97A8Tw_PZOLX/view?usp=drivesdk",
+                  "modifiedTime": "2026-05-07T14:51:32.584Z",
+                  "videoMediaMetadata": null
+                }
+              ]
+            },
+            {
+              "id": "1aizQEt-P3alxz2_uui_9jShYK6m2hzOS",
+              "name": "4. Kịch",
+              "webViewLink": "https://drive.google.com/drive/folders/1aizQEt-P3alxz2_uui_9jShYK6m2hzOS",
+              "modifiedTime": "2026-05-07T14:51:27.619Z",
+              "children": [],
+              "files": [
+                {
+                  "id": "1ke-gyLLy8lwFyCpvBaHaIXUZDR2wYoCv",
+                  "name": "4. Kịch.mp4",
+                  "mimeType": "video/mp4",
+                  "size": 86760249,
+                  "webViewLink": "https://drive.google.com/file/d/1ke-gyLLy8lwFyCpvBaHaIXUZDR2wYoCv/view?usp=drivesdk",
+                  "modifiedTime": "2026-05-07T14:51:28.954Z",
+                  "videoMediaMetadata": null
+                }
+              ]
+            },
+            {
+              "id": "12wLzD_Zy10hh1DfqMxWXbToJ2yT_hpG5",
+              "name": "5. Văn bản nghị luận",
+              "webViewLink": "https://drive.google.com/drive/folders/12wLzD_Zy10hh1DfqMxWXbToJ2yT_hpG5",
+              "modifiedTime": "2026-05-07T14:51:24.217Z",
+              "children": [],
+              "files": [
+                {
+                  "id": "1svvhn0KdHmzi9bYnlD_AhmQlYoeFkKzT",
+                  "name": "5. Văn bản nghị luận.mp4",
+                  "mimeType": "video/mp4",
+                  "size": 156834901,
+                  "webViewLink": "https://drive.google.com/file/d/1svvhn0KdHmzi9bYnlD_AhmQlYoeFkKzT/view?usp=drivesdk",
+                  "modifiedTime": "2026-05-07T14:51:25.628Z",
+                  "videoMediaMetadata": null
+                }
+              ]
+            },
+            {
+              "id": "1JDehhZoCqatqzxyLBThcHTf4Xp8xmJVf",
+              "name": "6. Văn bản thông tin",
+              "webViewLink": "https://drive.google.com/drive/folders/1JDehhZoCqatqzxyLBThcHTf4Xp8xmJVf",
+              "modifiedTime": "2026-05-07T14:51:20.988Z",
+              "children": [],
+              "files": [
+                {
+                  "id": "1mjZ_2f6zld7sOSym1P5-LjZCODZChS1Y",
+                  "name": "6. Văn bản thông tin.mp4",
+                  "mimeType": "video/mp4",
+                  "size": 140565781,
+                  "webViewLink": "https://drive.google.com/file/d/1mjZ_2f6zld7sOSym1P5-LjZCODZChS1Y/view?usp=drivesdk",
+                  "modifiedTime": "2026-05-07T14:51:22.348Z",
+                  "videoMediaMetadata": null
+                }
+              ]
+            }
+          ],
+          "files": []
+        },
+        {
+          "id": "1DjIG00Yo7AJqKGn2Fe9lsf90z7lXAl_v",
+          "name": "4. Hướng dẫn viết bài văn NLXH\t\t\t",
+          "webViewLink": "https://drive.google.com/drive/folders/1DjIG00Yo7AJqKGn2Fe9lsf90z7lXAl_v",
+          "modifiedTime": "2026-05-07T14:51:18.057Z",
+          "children": [
+            {
+              "id": "1ywf4e8oS2YwZugvKbWHPBdoqruZcArR3",
+              "name": "1. Cách viết mở bài",
+              "webViewLink": "https://drive.google.com/drive/folders/1ywf4e8oS2YwZugvKbWHPBdoqruZcArR3",
+              "modifiedTime": "2026-05-10T06:48:36.364Z",
+              "children": [],
+              "files": [
+                {
+                  "id": "1HaiuHg-0PABTTugixZlWzIe18EDtSTfr",
+                  "name": "1. Cách viết mở bài.mp4",
+                  "mimeType": "video/mp4",
+                  "size": 83579617,
+                  "webViewLink": "https://drive.google.com/file/d/1HaiuHg-0PABTTugixZlWzIe18EDtSTfr/view?usp=drivesdk",
+                  "modifiedTime": "2026-05-11T13:14:15.825Z",
+                  "videoMediaMetadata": null
+                }
+              ]
+            },
+            {
+              "id": "18g3xjQjma1wAGF2a8ldk1rZJJXgDsjUg",
+              "name": "10. Hướng dẫn kết bài",
+              "webViewLink": "https://drive.google.com/drive/folders/18g3xjQjma1wAGF2a8ldk1rZJJXgDsjUg",
+              "modifiedTime": "2026-05-10T06:48:25.296Z",
+              "children": [],
+              "files": [
+                {
+                  "id": "1W3C7-UsTYrFNOQiAYJWuKkhSEQBKbAto",
+                  "name": "10. Hướng dẫn kết bài.mp4",
+                  "mimeType": "video/mp4",
+                  "size": 41732220,
+                  "webViewLink": "https://drive.google.com/file/d/1W3C7-UsTYrFNOQiAYJWuKkhSEQBKbAto/view?usp=drivesdk",
+                  "modifiedTime": "2026-05-11T12:53:43.843Z",
+                  "videoMediaMetadata": null
+                }
+              ]
+            },
+            {
+              "id": "1_-hNtzZboEJRFb3AbyjluHyy2e6ImbVp",
+              "name": "2. Cách viết thân bài ăn trọn điểm",
+              "webViewLink": "https://drive.google.com/drive/folders/1_-hNtzZboEJRFb3AbyjluHyy2e6ImbVp",
+              "modifiedTime": "2026-05-10T06:48:35.170Z",
+              "children": [],
+              "files": [
+                {
+                  "id": "1GadJxlwzAaz_IiKRQ5B4PypSjTaSJPDp",
+                  "name": "2. Cách viết thân bài ăn trọn điểm.mp4",
+                  "mimeType": "video/mp4",
+                  "size": 112493521,
+                  "webViewLink": "https://drive.google.com/file/d/1GadJxlwzAaz_IiKRQ5B4PypSjTaSJPDp/view?usp=drivesdk",
+                  "modifiedTime": "2026-05-11T13:14:04.717Z",
+                  "videoMediaMetadata": null
+                }
+              ]
+            },
+            {
+              "id": "19cu8LdSKHM2EgCzhx87C_7iCXAMTRBPM",
+              "name": "3. Cách viết giải thích",
+              "webViewLink": "https://drive.google.com/drive/folders/19cu8LdSKHM2EgCzhx87C_7iCXAMTRBPM",
+              "modifiedTime": "2026-05-10T06:48:33.765Z",
+              "children": [],
+              "files": [
+                {
+                  "id": "1vybBE7hfTrQRaDG6TclNKlKEdofrE-hw",
+                  "name": "3. Cách viết giải thích.mp4",
+                  "mimeType": "video/mp4",
+                  "size": 43480994,
+                  "webViewLink": "https://drive.google.com/file/d/1vybBE7hfTrQRaDG6TclNKlKEdofrE-hw/view?usp=drivesdk",
+                  "modifiedTime": "2026-05-11T13:09:19.781Z",
+                  "videoMediaMetadata": null
+                }
+              ]
+            },
+            {
+              "id": "1cm6LbZyEEGKx2nrhewRcKmbHsTsvhQwe",
+              "name": "4. cách viết bình luận",
+              "webViewLink": "https://drive.google.com/drive/folders/1cm6LbZyEEGKx2nrhewRcKmbHsTsvhQwe",
+              "modifiedTime": "2026-05-10T06:48:32.653Z",
+              "children": [],
+              "files": [
+                {
+                  "id": "1zoI4sk2xsu8N6r8anszcNPKeOPzrgiUy",
+                  "name": "4. cách viết bình luận.mp4",
+                  "mimeType": "video/mp4",
+                  "size": 92528851,
+                  "webViewLink": "https://drive.google.com/file/d/1zoI4sk2xsu8N6r8anszcNPKeOPzrgiUy/view?usp=drivesdk",
+                  "modifiedTime": "2026-05-11T13:08:02.329Z",
+                  "videoMediaMetadata": null
+                }
+              ]
+            },
+            {
+              "id": "1D3dB67sxQvlsuWWKeEQSj3PXE-rZvYDr",
+              "name": "5. Cách Lấy dẫn chứng",
+              "webViewLink": "https://drive.google.com/drive/folders/1D3dB67sxQvlsuWWKeEQSj3PXE-rZvYDr",
+              "modifiedTime": "2026-05-10T06:48:31.134Z",
+              "children": [],
+              "files": [
+                {
+                  "id": "16Gd6N1ij4YF9WH3hmAUMCbbP5ncQ8f75",
+                  "name": "5. Cách Lấy dẫn chứng.mp4",
+                  "mimeType": "video/mp4",
+                  "size": 55296307,
+                  "webViewLink": "https://drive.google.com/file/d/16Gd6N1ij4YF9WH3hmAUMCbbP5ncQ8f75/view?usp=drivesdk",
+                  "modifiedTime": "2026-05-11T13:06:00.985Z",
+                  "videoMediaMetadata": null
+                }
+              ]
+            },
+            {
+              "id": "1arQ3TmQNekw3kZvse75NVnVIyIwIP_Gt",
+              "name": "6. Lưu ý khi lấy dẫn chứng",
+              "webViewLink": "https://drive.google.com/drive/folders/1arQ3TmQNekw3kZvse75NVnVIyIwIP_Gt",
+              "modifiedTime": "2026-05-10T06:48:30.075Z",
+              "children": [],
+              "files": [
+                {
+                  "id": "1jO06zGPW9nDh3iU1_QVmCESJ5xYAzctz",
+                  "name": "6. Lưu ý khi lấy dẫn chứng.mp4",
+                  "mimeType": "video/mp4",
+                  "size": 28378378,
+                  "webViewLink": "https://drive.google.com/file/d/1jO06zGPW9nDh3iU1_QVmCESJ5xYAzctz/view?usp=drivesdk",
+                  "modifiedTime": "2026-05-11T13:03:26.569Z",
+                  "videoMediaMetadata": null
+                }
+              ]
+            },
+            {
+              "id": "1UUEW6rmwqE5EMm6BzJC2uHU-0GSnOGPJ",
+              "name": "7. Hướng dẫn phản đề",
+              "webViewLink": "https://drive.google.com/drive/folders/1UUEW6rmwqE5EMm6BzJC2uHU-0GSnOGPJ",
+              "modifiedTime": "2026-05-10T06:48:28.944Z",
+              "children": [],
+              "files": [
+                {
+                  "id": "1X6M9SRhPNNNzxoVFPc6Y7BS4hmxvgL7D",
+                  "name": "7. Hướng dẫn phản đề.mp4",
+                  "mimeType": "video/mp4",
+                  "size": 76869872,
+                  "webViewLink": "https://drive.google.com/file/d/1X6M9SRhPNNNzxoVFPc6Y7BS4hmxvgL7D/view?usp=drivesdk",
+                  "modifiedTime": "2026-05-11T13:02:33.851Z",
+                  "videoMediaMetadata": {
+                    "width": 1920,
+                    "height": 1080,
+                    "durationMillis": "198133"
+                  }
+                }
+              ]
+            },
+            {
+              "id": "17XS2pc4F8YkQfzaugBDniOiKi17wqFv6",
+              "name": "8. Đề xuất giải pháp",
+              "webViewLink": "https://drive.google.com/drive/folders/17XS2pc4F8YkQfzaugBDniOiKi17wqFv6",
+              "modifiedTime": "2026-05-10T06:48:27.742Z",
+              "children": [],
+              "files": [
+                {
+                  "id": "1obxSBFpRGLQlcir5-4IQ0orNNM4G8Z_5",
+                  "name": "8. Đề xuất giải pháp.mp4",
+                  "mimeType": "video/mp4",
+                  "size": 23602793,
+                  "webViewLink": "https://drive.google.com/file/d/1obxSBFpRGLQlcir5-4IQ0orNNM4G8Z_5/view?usp=drivesdk",
+                  "modifiedTime": "2026-05-11T13:00:53.822Z",
+                  "videoMediaMetadata": null
+                }
+              ]
+            },
+            {
+              "id": "1HtQ2S0mF3mm7R6C-ka_YWPHUyHNHXIx3",
+              "name": "9. Cách viết liên hệ bản thân",
+              "webViewLink": "https://drive.google.com/drive/folders/1HtQ2S0mF3mm7R6C-ka_YWPHUyHNHXIx3",
+              "modifiedTime": "2026-05-10T06:48:26.475Z",
+              "children": [],
+              "files": [
+                {
+                  "id": "1u5vQk6nPvzycyLTv_qQnzjvOtaNNMuiI",
+                  "name": "9. Cách viết liên hệ bản thân.mp4",
+                  "mimeType": "video/mp4",
+                  "size": 30723372,
+                  "webViewLink": "https://drive.google.com/file/d/1u5vQk6nPvzycyLTv_qQnzjvOtaNNMuiI/view?usp=drivesdk",
+                  "modifiedTime": "2026-05-11T12:59:49.742Z",
+                  "videoMediaMetadata": null
+                }
+              ]
+            }
+          ],
+          "files": []
+        },
+        {
+          "id": "1apSFSs7xNN9BktwDcBy5vcuDdO_0mXqk",
+          "name": "5. Hướng dẫn viết mở bài - kết bài\t\t\t",
+          "webViewLink": "https://drive.google.com/drive/folders/1apSFSs7xNN9BktwDcBy5vcuDdO_0mXqk",
+          "modifiedTime": "2026-05-10T06:48:03.476Z",
+          "children": [
+            {
+              "id": "1apo3ADf44XFpop8Eg1Rrk39JZhfis82b",
+              "name": "1. Hướng dẫn mở đoạn đa năng cho một tác phẩm thơ",
+              "webViewLink": "https://drive.google.com/drive/folders/1apo3ADf44XFpop8Eg1Rrk39JZhfis82b",
+              "modifiedTime": "2026-05-10T06:48:23.160Z",
+              "children": [],
+              "files": [
+                {
+                  "id": "1Ab09U9xV0wUwTccC5ECyLJtDiDG-9QpB",
+                  "name": "1. Hướng dẫn mở đoạn đa năng cho một tác phẩm thơ.mp4",
+                  "mimeType": "video/mp4",
+                  "size": 13016105,
+                  "webViewLink": "https://drive.google.com/file/d/1Ab09U9xV0wUwTccC5ECyLJtDiDG-9QpB/view?usp=drivesdk",
+                  "modifiedTime": "2026-05-11T12:47:19.472Z",
+                  "videoMediaMetadata": null
+                }
+              ]
+            },
+            {
+              "id": "1jaTDPJtiAOQeS_iiSfNuf5coJ-Cf5gKF",
+              "name": "10. Hướng dẫn kết bài đa năng cho một tác phẩm thơ",
+              "webViewLink": "https://drive.google.com/drive/folders/1jaTDPJtiAOQeS_iiSfNuf5coJ-Cf5gKF",
+              "modifiedTime": "2026-05-10T06:48:12.927Z",
+              "children": [],
+              "files": [
+                {
+                  "id": "1Pir4tk4UcrjC8QsVGSTXMoW6_er9cfiv",
+                  "name": "10. Hướng dẫn kết bài đa năng cho một tác phẩm thơ.mp4",
+                  "mimeType": "video/mp4",
+                  "size": 23156196,
+                  "webViewLink": "https://drive.google.com/file/d/1Pir4tk4UcrjC8QsVGSTXMoW6_er9cfiv/view?usp=drivesdk",
+                  "modifiedTime": "2026-05-10T11:13:22.558Z",
+                  "videoMediaMetadata": null
+                }
+              ]
+            },
+            {
+              "id": "1xnXzhd-f9C9h3ypPrjXN3zzSkdGhO2wn",
+              "name": "11. Hướng dẫn mở bài đa năng cho một tác phẩm truyện",
+              "webViewLink": "https://drive.google.com/drive/folders/1xnXzhd-f9C9h3ypPrjXN3zzSkdGhO2wn",
+              "modifiedTime": "2026-05-10T06:48:11.874Z",
+              "children": [],
+              "files": [
+                {
+                  "id": "17dZ7ONgVZVotQD4CSwcRd9KY-_cQa6ll",
+                  "name": "11. Hướng dẫn mở bài đa năng cho một tác phẩm truyện.mp4",
+                  "mimeType": "video/mp4",
+                  "size": 40626806,
+                  "webViewLink": "https://drive.google.com/file/d/17dZ7ONgVZVotQD4CSwcRd9KY-_cQa6ll/view?usp=drivesdk",
+                  "modifiedTime": "2026-05-10T11:04:11.387Z",
+                  "videoMediaMetadata": null
+                }
+              ]
+            },
+            {
+              "id": "13677UVgZ6szm_cqVcbTbN6tEsCP0DQBp",
+              "name": "12. Hướng dẫn kết bài đa năng cho một tác phẩm truyện",
+              "webViewLink": "https://drive.google.com/drive/folders/13677UVgZ6szm_cqVcbTbN6tEsCP0DQBp",
+              "modifiedTime": "2026-05-10T06:48:10.819Z",
+              "children": [],
+              "files": [
+                {
+                  "id": "1NMgNkl6vD_J861cV-GJvqMg96XjlgRgy",
+                  "name": "12. Hướng dẫn kết bài đa năng cho một tác phẩm truyện.mp4",
+                  "mimeType": "video/mp4",
+                  "size": 38836416,
+                  "webViewLink": "https://drive.google.com/file/d/1NMgNkl6vD_J861cV-GJvqMg96XjlgRgy/view?usp=drivesdk",
+                  "modifiedTime": "2026-05-10T10:52:19.099Z",
+                  "videoMediaMetadata": null
+                }
+              ]
+            },
+            {
+              "id": "1dmxfRE6bq6EL6oUb8wbLouHybupr5MTB",
+              "name": "13. Hướng dẫn mở bài đa năng cho một tác phẩm kí",
+              "webViewLink": "https://drive.google.com/drive/folders/1dmxfRE6bq6EL6oUb8wbLouHybupr5MTB",
+              "modifiedTime": "2026-05-10T06:48:08.780Z",
+              "children": [],
+              "files": [
+                {
+                  "id": "1GjPUXODbVZqOtX8PzNWCfcanExUlrJFQ",
+                  "name": "13. Hướng dẫn mở bài đa năng cho một tác phẩm kí.mp4",
+                  "mimeType": "video/mp4",
+                  "size": 29832341,
+                  "webViewLink": "https://drive.google.com/file/d/1GjPUXODbVZqOtX8PzNWCfcanExUlrJFQ/view?usp=drivesdk",
+                  "modifiedTime": "2026-05-10T10:36:00.760Z",
+                  "videoMediaMetadata": {
+                    "width": 1920,
+                    "height": 1080,
+                    "durationMillis": "108699"
+                  }
+                }
+              ]
+            },
+            {
+              "id": "1UOMAvay6Wg-NPrKuP2n6UTyjOG8fF-aM",
+              "name": "14. Hướng dẫn kết bài đa năng cho một tác phẩm truyện",
+              "webViewLink": "https://drive.google.com/drive/folders/1UOMAvay6Wg-NPrKuP2n6UTyjOG8fF-aM",
+              "modifiedTime": "2026-05-10T06:48:07.702Z",
+              "children": [],
+              "files": [
+                {
+                  "id": "1dQHUWNHLpNhv4x1E9wXiuTs1EO8p2AA3",
+                  "name": "14. Hướng dẫn kết bài đa năng cho một tác phẩm truyện.mp4",
+                  "mimeType": "video/mp4",
+                  "size": 26216369,
+                  "webViewLink": "https://drive.google.com/file/d/1dQHUWNHLpNhv4x1E9wXiuTs1EO8p2AA3/view?usp=drivesdk",
+                  "modifiedTime": "2026-05-10T10:23:30.895Z",
+                  "videoMediaMetadata": null
+                }
+              ]
+            },
+            {
+              "id": "1K7iIHm_1ecCGxgY8rZ-3x_YDA9SZPfXp",
+              "name": "15. Hướng dẫn mở bài đa năng cho một tác phẩm kịch",
+              "webViewLink": "https://drive.google.com/drive/folders/1K7iIHm_1ecCGxgY8rZ-3x_YDA9SZPfXp",
+              "modifiedTime": "2026-05-10T06:48:06.707Z",
+              "children": [],
+              "files": [
+                {
+                  "id": "1Xf26AuyF0t0jTaFT5EECZ_-e7voW-UUd",
+                  "name": "15. Hướng dẫn mở bài đa năng cho một tác phẩm kịch.mp4",
+                  "mimeType": "video/mp4",
+                  "size": 24633433,
+                  "webViewLink": "https://drive.google.com/file/d/1Xf26AuyF0t0jTaFT5EECZ_-e7voW-UUd/view?usp=drivesdk",
+                  "modifiedTime": "2026-05-10T10:14:45.553Z",
+                  "videoMediaMetadata": {
+                    "width": 1920,
+                    "height": 1080,
+                    "durationMillis": "97366"
+                  }
+                }
+              ]
+            },
+            {
+              "id": "1X1V8viNYxEgH9N9Tqb--RkEY56BuR0ye",
+              "name": "16. Hướng dẫn kết bài đa năng cho một tác phẩm kịch",
+              "webViewLink": "https://drive.google.com/drive/folders/1X1V8viNYxEgH9N9Tqb--RkEY56BuR0ye",
+              "modifiedTime": "2026-05-10T06:48:05.343Z",
+              "children": [],
+              "files": [
+                {
+                  "id": "1e2SwkfTOb5VGBq3WeRKa6O0vpTLg7FjS",
+                  "name": "16. Hướng dẫn kết bài đa năng cho một tác phẩm kịch.mp4",
+                  "mimeType": "video/mp4",
+                  "size": 24613464,
+                  "webViewLink": "https://drive.google.com/file/d/1e2SwkfTOb5VGBq3WeRKa6O0vpTLg7FjS/view?usp=drivesdk",
+                  "modifiedTime": "2026-05-10T10:02:28.293Z",
+                  "videoMediaMetadata": {
+                    "width": 1920,
+                    "height": 1080,
+                    "durationMillis": "95566"
+                  }
+                }
+              ]
+            },
+            {
+              "id": "17LyuTTkOe-lAtP-Q6ghGQjFYuGzDMux6",
+              "name": "2. Hướng dẫn kết đoạn đa năng cho một tác phẩm thơ",
+              "webViewLink": "https://drive.google.com/drive/folders/17LyuTTkOe-lAtP-Q6ghGQjFYuGzDMux6",
+              "modifiedTime": "2026-05-10T06:48:22.067Z",
+              "children": [],
+              "files": [
+                {
+                  "id": "1PXdz0LISamokWyBR1flSo8Yx5BwWNUU8",
+                  "name": "2. Hướng dẫn kết đoạn đa năng cho một tác phẩm thơ.mp4",
+                  "mimeType": "video/mp4",
+                  "size": 13747749,
+                  "webViewLink": "https://drive.google.com/file/d/1PXdz0LISamokWyBR1flSo8Yx5BwWNUU8/view?usp=drivesdk",
+                  "modifiedTime": "2026-05-11T12:45:15.266Z",
+                  "videoMediaMetadata": {
+                    "width": 1920,
+                    "height": 1080,
+                    "durationMillis": "48933"
+                  }
+                }
+              ]
+            },
+            {
+              "id": "1Kfwo939UDa9r7pReQCXx8IcWZDOVVvqG",
+              "name": "3. Hướng dẫn mở đoạn đa năng cho một tác phẩm truyện",
+              "webViewLink": "https://drive.google.com/drive/folders/1Kfwo939UDa9r7pReQCXx8IcWZDOVVvqG",
+              "modifiedTime": "2026-05-10T06:48:21.035Z",
+              "children": [],
+              "files": [
+                {
+                  "id": "1LdcOYNOsYCd9aq9T2gPBgY1IKzUQblfV",
+                  "name": "3. Hướng dẫn mở đoạn đa năng cho một tác phẩm truyện.mp4",
+                  "mimeType": "video/mp4",
+                  "size": 12892538,
+                  "webViewLink": "https://drive.google.com/file/d/1LdcOYNOsYCd9aq9T2gPBgY1IKzUQblfV/view?usp=drivesdk",
+                  "modifiedTime": "2026-05-11T12:43:04.538Z",
+                  "videoMediaMetadata": null
+                }
+              ]
+            },
+            {
+              "id": "1aD0-vXw04NgPl1ZG5FLjFGlG_UaZEbNF",
+              "name": "4. Hướng dẫn kết đoạn đa năng cho một tác phẩm truyện",
+              "webViewLink": "https://drive.google.com/drive/folders/1aD0-vXw04NgPl1ZG5FLjFGlG_UaZEbNF",
+              "modifiedTime": "2026-05-10T06:48:19.944Z",
+              "children": [],
+              "files": [
+                {
+                  "id": "142KpjRvc5mNIQ0LAcDy6iBm1ExsdsE8R",
+                  "name": "4. Hướng dẫn kết đoạn đa năng cho một tác phẩm truyện.mp4",
+                  "mimeType": "video/mp4",
+                  "size": 16270371,
+                  "webViewLink": "https://drive.google.com/file/d/142KpjRvc5mNIQ0LAcDy6iBm1ExsdsE8R/view?usp=drivesdk",
+                  "modifiedTime": "2026-05-11T12:41:35.705Z",
+                  "videoMediaMetadata": null
+                }
+              ]
+            },
+            {
+              "id": "1lQEkBhPdD0cgPajtOKFAshBI4-lEb8gd",
+              "name": "5. Hướng dẫn mở đoạn đa năng cho một tác phẩm kí",
+              "webViewLink": "https://drive.google.com/drive/folders/1lQEkBhPdD0cgPajtOKFAshBI4-lEb8gd",
+              "modifiedTime": "2026-05-10T06:48:18.791Z",
+              "children": [],
+              "files": [
+                {
+                  "id": "1klV51FbpUO4-894BmKiGQfEMJUtDF4rj",
+                  "name": "5. Hướng dẫn mở đoạn đa năng cho một tác phẩm kí.mp4",
+                  "mimeType": "video/mp4",
+                  "size": 12235142,
+                  "webViewLink": "https://drive.google.com/file/d/1klV51FbpUO4-894BmKiGQfEMJUtDF4rj/view?usp=drivesdk",
+                  "modifiedTime": "2026-05-11T12:29:21.717Z",
+                  "videoMediaMetadata": {
+                    "width": 1920,
+                    "height": 1080,
+                    "durationMillis": "43533"
+                  }
+                }
+              ]
+            },
+            {
+              "id": "1uCvAQRLf5WNk6pKVqO8TDR6k_N9-u9lA",
+              "name": "6. Hướng dẫn kết đoạn đa năng cho một tác phẩm kí",
+              "webViewLink": "https://drive.google.com/drive/folders/1uCvAQRLf5WNk6pKVqO8TDR6k_N9-u9lA",
+              "modifiedTime": "2026-05-10T06:48:17.622Z",
+              "children": [],
+              "files": [
+                {
+                  "id": "1uzhQYPnL2xKf1fbDTmwRDgs3Sk-nVIpY",
+                  "name": "6. Hướng dẫn kết đoạn đa năng cho một tác phẩm kí.mp4",
+                  "mimeType": "video/mp4",
+                  "size": 13299965,
+                  "webViewLink": "https://drive.google.com/file/d/1uzhQYPnL2xKf1fbDTmwRDgs3Sk-nVIpY/view?usp=drivesdk",
+                  "modifiedTime": "2026-05-11T12:18:50.632Z",
+                  "videoMediaMetadata": null
+                }
+              ]
+            },
+            {
+              "id": "151A1iK1XLqOigRE9XPXrkT4gABpn6bso",
+              "name": "7. Hướng dẫn mở đoạn đa năng cho một tác phẩm kịch",
+              "webViewLink": "https://drive.google.com/drive/folders/151A1iK1XLqOigRE9XPXrkT4gABpn6bso",
+              "modifiedTime": "2026-05-10T06:48:16.393Z",
+              "children": [],
+              "files": [
+                {
+                  "id": "1nxgFxpv7GwDZdvwQeaMgzWOd1vXKyH3S",
+                  "name": "7. Hướng dẫn mở đoạn đa năng cho một tác phẩm kịch.mp4",
+                  "mimeType": "video/mp4",
+                  "size": 12480258,
+                  "webViewLink": "https://drive.google.com/file/d/1nxgFxpv7GwDZdvwQeaMgzWOd1vXKyH3S/view?usp=drivesdk",
+                  "modifiedTime": "2026-05-11T12:13:22.709Z",
+                  "videoMediaMetadata": null
+                }
+              ]
+            },
+            {
+              "id": "1HuzJVIdTFtfmvyQPC0jEQnqDeuCh5JG5",
+              "name": "8. Hướng dẫn kết đoạn đa năng cho một tác phẩm kịch",
+              "webViewLink": "https://drive.google.com/drive/folders/1HuzJVIdTFtfmvyQPC0jEQnqDeuCh5JG5",
+              "modifiedTime": "2026-05-10T06:48:15.185Z",
+              "children": [],
+              "files": [
+                {
+                  "id": "1Bh68MwBlFEBL9dFN68QYnqrPSfN_c8iR",
+                  "name": "8. Hướng dẫn kết đoạn đa năng cho một tác phẩm kịch.mp4",
+                  "mimeType": "video/mp4",
+                  "size": 12181933,
+                  "webViewLink": "https://drive.google.com/file/d/1Bh68MwBlFEBL9dFN68QYnqrPSfN_c8iR/view?usp=drivesdk",
+                  "modifiedTime": "2026-05-11T12:03:28.688Z",
+                  "videoMediaMetadata": null
+                }
+              ]
+            },
+            {
+              "id": "1uv4dnP4hIsrkV9iiemuPjdJ065WtfgRp",
+              "name": "9. Hướng dẫn mở bài đa năng cho một tác phẩm thơ",
+              "webViewLink": "https://drive.google.com/drive/folders/1uv4dnP4hIsrkV9iiemuPjdJ065WtfgRp",
+              "modifiedTime": "2026-05-10T06:48:14.151Z",
+              "children": [],
+              "files": [
+                {
+                  "id": "1Zo7kShfkXF97CTkZ91WCp0uCCG85RWzT",
+                  "name": "9. Hướng dẫn mở bài đa năng cho một tác phẩm thơ.mp4",
+                  "mimeType": "video/mp4",
+                  "size": 30269213,
+                  "webViewLink": "https://drive.google.com/file/d/1Zo7kShfkXF97CTkZ91WCp0uCCG85RWzT/view?usp=drivesdk",
+                  "modifiedTime": "2026-05-11T11:52:47.099Z",
+                  "videoMediaMetadata": null
+                }
+              ]
+            }
+          ],
+          "files": []
+        },
+        {
+          "id": "1lKDgb2vJDMTB-4pbJYgzxEgGmLx8BY0p",
+          "name": "6. Chuyên đề so sánh\t\t\t",
+          "webViewLink": "https://drive.google.com/drive/folders/1lKDgb2vJDMTB-4pbJYgzxEgGmLx8BY0p",
+          "modifiedTime": "2026-05-10T06:47:56.706Z",
+          "children": [
+            {
+              "id": "1kFzGJAWM3xLpuZR8hT8WyuinSvMLx4_H",
+              "name": "1. So sánh 2 tác phẩm thơ",
+              "webViewLink": "https://drive.google.com/drive/folders/1kFzGJAWM3xLpuZR8hT8WyuinSvMLx4_H",
+              "modifiedTime": "2026-05-10T06:48:02.340Z",
+              "children": [],
+              "files": [
+                {
+                  "id": "1Lsi205O-65x6lXUHPNn3ybzAGL784HcF",
+                  "name": "1. So sánh 2 tác phẩm thơ.mp4",
+                  "mimeType": "video/mp4",
+                  "size": 234571727,
+                  "webViewLink": "https://drive.google.com/file/d/1Lsi205O-65x6lXUHPNn3ybzAGL784HcF/view?usp=drivesdk",
+                  "modifiedTime": "2026-05-10T09:56:51.723Z",
+                  "videoMediaMetadata": null
+                }
+              ]
+            },
+            {
+              "id": "1TdAfcJtLJsyxedu5SWbfCnvm4VQKdKit",
+              "name": "2. So sánh 2 tác phẩm truyện",
+              "webViewLink": "https://drive.google.com/drive/folders/1TdAfcJtLJsyxedu5SWbfCnvm4VQKdKit",
+              "modifiedTime": "2026-05-10T06:48:01.268Z",
+              "children": [],
+              "files": [
+                {
+                  "id": "1H6VWo5VLJH-cjVI2X0GN2V3CJX_IUj8W",
+                  "name": "2. So sánh 2 tác phẩm truyện.mp4",
+                  "mimeType": "video/mp4",
+                  "size": 327317546,
+                  "webViewLink": "https://drive.google.com/file/d/1H6VWo5VLJH-cjVI2X0GN2V3CJX_IUj8W/view?usp=drivesdk",
+                  "modifiedTime": "2026-05-10T09:46:41.729Z",
+                  "videoMediaMetadata": null
+                }
+              ]
+            },
+            {
+              "id": "12Wnxa4BG8Apva8kWT24KL1-ACv8zSnC_",
+              "name": "3. So sánh 2 tác phẩm Kí",
+              "webViewLink": "https://drive.google.com/drive/folders/12Wnxa4BG8Apva8kWT24KL1-ACv8zSnC_",
+              "modifiedTime": "2026-05-10T06:48:00.199Z",
+              "children": [],
+              "files": [
+                {
+                  "id": "1w4C4MIWlvk9c7BBPE1pYje87NNBQsonX",
+                  "name": "3. So sánh 2 tác phẩm Kí.mp4",
+                  "mimeType": "video/mp4",
+                  "size": 295233169,
+                  "webViewLink": "https://drive.google.com/file/d/1w4C4MIWlvk9c7BBPE1pYje87NNBQsonX/view?usp=drivesdk",
+                  "modifiedTime": "2026-05-10T09:26:47.839Z",
+                  "videoMediaMetadata": {
+                    "width": 1920,
+                    "height": 1080,
+                    "durationMillis": "1070466"
+                  }
+                }
+              ]
+            },
+            {
+              "id": "1RM7WAaxUhObaZwejYaSPtVUir8OLd38m",
+              "name": "4. So sánh 2 tác phẩm kịch",
+              "webViewLink": "https://drive.google.com/drive/folders/1RM7WAaxUhObaZwejYaSPtVUir8OLd38m",
+              "modifiedTime": "2026-05-10T06:47:58.602Z",
+              "children": [],
+              "files": [
+                {
+                  "id": "1BzhEHqJ_B92T222Rg1JFJPlbEatoA6vb",
+                  "name": "4. So sánh 2 tác phẩm kịch.mp4",
+                  "mimeType": "video/mp4",
+                  "size": 181628644,
+                  "webViewLink": "https://drive.google.com/file/d/1BzhEHqJ_B92T222Rg1JFJPlbEatoA6vb/view?usp=drivesdk",
+                  "modifiedTime": "2026-05-10T08:38:10.222Z",
+                  "videoMediaMetadata": null
+                }
+              ]
+            }
+          ],
+          "files": []
+        },
+        {
+          "id": "14dX4pNHMuWeUONmrSFQh0jlxCmpAzshI",
+          "name": "7. Gợi ý chuyển đoạn\t\t\t",
+          "webViewLink": "https://drive.google.com/drive/folders/14dX4pNHMuWeUONmrSFQh0jlxCmpAzshI",
+          "modifiedTime": "2026-05-10T06:47:47.996Z",
+          "children": [
+            {
+              "id": "1AN3lLcKcCaWif0TKO_7wolEOialGcKG9",
+              "name": "1. Chuyển đoạn cách 1",
+              "webViewLink": "https://drive.google.com/drive/folders/1AN3lLcKcCaWif0TKO_7wolEOialGcKG9",
+              "modifiedTime": "2026-05-10T06:47:55.591Z",
+              "children": [],
+              "files": [
+                {
+                  "id": "13SXOxVSIg3SJhTm_x5GXxfJJ_5EO8kBK",
+                  "name": "1. Chuyển đoạn cách 1.mp4",
+                  "mimeType": "video/mp4",
+                  "size": 13138626,
+                  "webViewLink": "https://drive.google.com/file/d/13SXOxVSIg3SJhTm_x5GXxfJJ_5EO8kBK/view?usp=drivesdk",
+                  "modifiedTime": "2026-05-10T08:31:56.441Z",
+                  "videoMediaMetadata": null
+                }
+              ]
+            },
+            {
+              "id": "1ixXt9mlMWcQFIVu_wYcXEV4tLnqMOSW2",
+              "name": "2. Chuyển đoạn cách 2",
+              "webViewLink": "https://drive.google.com/drive/folders/1ixXt9mlMWcQFIVu_wYcXEV4tLnqMOSW2",
+              "modifiedTime": "2026-05-10T06:47:54.126Z",
+              "children": [],
+              "files": [
+                {
+                  "id": "1KC9xez0c-1vJRvQ7dBXlGMy0RgqcVh0d",
+                  "name": "2. Chuyển đoạn cách 2.mp4",
+                  "mimeType": "video/mp4",
+                  "size": 12950852,
+                  "webViewLink": "https://drive.google.com/file/d/1KC9xez0c-1vJRvQ7dBXlGMy0RgqcVh0d/view?usp=drivesdk",
+                  "modifiedTime": "2026-05-10T08:24:38.901Z",
+                  "videoMediaMetadata": null
+                }
+              ]
+            },
+            {
+              "id": "1gnhvCd6Oujeourx8pOGA7c2XZJnBisL_",
+              "name": "3. Chuyển đoạn cách 3",
+              "webViewLink": "https://drive.google.com/drive/folders/1gnhvCd6Oujeourx8pOGA7c2XZJnBisL_",
+              "modifiedTime": "2026-05-10T06:47:52.244Z",
+              "children": [],
+              "files": [
+                {
+                  "id": "1BIOv9rtKIhAz4J9JI0IsxzcaLXAAl_wl",
+                  "name": "3. Chuyển đoạn cách 3.mp4",
+                  "mimeType": "video/mp4",
+                  "size": 15709614,
+                  "webViewLink": "https://drive.google.com/file/d/1BIOv9rtKIhAz4J9JI0IsxzcaLXAAl_wl/view?usp=drivesdk",
+                  "modifiedTime": "2026-05-10T08:16:31.444Z",
+                  "videoMediaMetadata": null
+                }
+              ]
+            },
+            {
+              "id": "1x9U1sBrAyfO6b5bfKwM3vhWFAsvkUQal",
+              "name": "4. Chuyển đoạn cách 4",
+              "webViewLink": "https://drive.google.com/drive/folders/1x9U1sBrAyfO6b5bfKwM3vhWFAsvkUQal",
+              "modifiedTime": "2026-05-10T06:47:51.095Z",
+              "children": [],
+              "files": [
+                {
+                  "id": "1lkopNTf9Xi9J-57Trc0OdNK3jzlQ9zm5",
+                  "name": "4. Chuyển đoạn cách 4.mp4",
+                  "mimeType": "video/mp4",
+                  "size": 14385250,
+                  "webViewLink": "https://drive.google.com/file/d/1lkopNTf9Xi9J-57Trc0OdNK3jzlQ9zm5/view?usp=drivesdk",
+                  "modifiedTime": "2026-05-10T08:03:24.701Z",
+                  "videoMediaMetadata": null
+                }
+              ]
+            },
+            {
+              "id": "1t9_h_lbN48FkeI7dr79h2fkTc01RpFxw",
+              "name": "5. Chuyển đoạn cách 5",
+              "webViewLink": "https://drive.google.com/drive/folders/1t9_h_lbN48FkeI7dr79h2fkTc01RpFxw",
+              "modifiedTime": "2026-05-10T06:47:49.599Z",
+              "children": [],
+              "files": [
+                {
+                  "id": "19qQO0L4CD_LXaJJ3Wmu66N92ZEQtXej7",
+                  "name": "5. Chuyển đoạn cách 5.mp4",
+                  "mimeType": "video/mp4",
+                  "size": 17443528,
+                  "webViewLink": "https://drive.google.com/file/d/19qQO0L4CD_LXaJJ3Wmu66N92ZEQtXej7/view?usp=drivesdk",
+                  "modifiedTime": "2026-05-10T07:51:44.769Z",
+                  "videoMediaMetadata": null
+                }
+              ]
+            }
+          ],
+          "files": []
+        },
+        {
+          "id": "1A63W8JinhKZQ3Cm1AlqGSJcvBATDfC3A",
+          "name": "8. Chuyên đề viết",
+          "webViewLink": "https://drive.google.com/drive/folders/1A63W8JinhKZQ3Cm1AlqGSJcvBATDfC3A",
+          "modifiedTime": "2026-05-19T09:14:18.345Z",
+          "children": [
+            {
+              "id": "1j-rn2wNNKO8ZBg2a_eqNFEOvpaf4Gnth",
+              "name": "1. Bài phát biểu",
+              "webViewLink": "https://drive.google.com/drive/folders/1j-rn2wNNKO8ZBg2a_eqNFEOvpaf4Gnth",
+              "modifiedTime": "2026-05-19T09:15:45.897Z",
+              "children": [],
+              "files": [
+                {
+                  "id": "1ixJHk2_2jYTTbCKi5oYts7MmT8y_g7EH",
+                  "name": "1. Bài phát biểu.mp4",
+                  "mimeType": "video/mp4",
+                  "size": 74420223,
+                  "webViewLink": "https://drive.google.com/file/d/1ixJHk2_2jYTTbCKi5oYts7MmT8y_g7EH/view?usp=drivesdk",
+                  "modifiedTime": "2026-05-19T09:15:55.604Z",
+                  "videoMediaMetadata": null
+                }
+              ]
+            },
+            {
+              "id": "1hQoKS-CnAEjFCqwtyMVUq84T4fy82IAC",
+              "name": "1. Bài phát biểu",
+              "webViewLink": "https://drive.google.com/drive/folders/1hQoKS-CnAEjFCqwtyMVUq84T4fy82IAC",
+              "modifiedTime": "2026-05-19T09:15:45.457Z",
+              "children": [],
+              "files": [
+                {
+                  "id": "17HVOWYC6WuE23gHul8ooyp1lgp4-PwkM",
+                  "name": "1. Bài phát biểu.mp4",
+                  "mimeType": "video/mp4",
+                  "size": 74420223,
+                  "webViewLink": "https://drive.google.com/file/d/17HVOWYC6WuE23gHul8ooyp1lgp4-PwkM/view?usp=drivesdk",
+                  "modifiedTime": "2026-05-19T09:15:55.185Z",
+                  "videoMediaMetadata": null
+                }
+              ]
+            },
+            {
+              "id": "1-OyGOaT0SivgB8H6HMoqP4L0Qp43Hpog",
+              "name": "2. Khía cạnh trong tác phẩm nghệ thuật",
+              "webViewLink": "https://drive.google.com/drive/folders/1-OyGOaT0SivgB8H6HMoqP4L0Qp43Hpog",
+              "modifiedTime": "2026-05-19T09:15:26.509Z",
+              "children": [],
+              "files": [
+                {
+                  "id": "11kabQ0hPriMHtxOoAOos0lQrYt6OC7l4",
+                  "name": "2. Khía cạnh trong tác phẩm nghệ thuật.mp4",
+                  "mimeType": "video/mp4",
+                  "size": 261051877,
+                  "webViewLink": "https://drive.google.com/file/d/11kabQ0hPriMHtxOoAOos0lQrYt6OC7l4/view?usp=drivesdk",
+                  "modifiedTime": "2026-05-19T09:15:44.417Z",
+                  "videoMediaMetadata": {
+                    "width": 1920,
+                    "height": 1080,
+                    "durationMillis": "1195766"
+                  }
+                },
+                {
+                  "id": "1eZOt8yyLTB73yJ6Jck84onwNw9bdS9NK",
+                  "name": "2. Khía cạnh trong tác phẩm nghệ thuật.mp4",
+                  "mimeType": "video/mp4",
+                  "size": 261051877,
+                  "webViewLink": "https://drive.google.com/file/d/1eZOt8yyLTB73yJ6Jck84onwNw9bdS9NK/view?usp=drivesdk",
+                  "modifiedTime": "2026-05-19T09:15:43.772Z",
+                  "videoMediaMetadata": {
+                    "width": 1920,
+                    "height": 1080,
+                    "durationMillis": "1195766"
+                  }
+                }
+              ]
+            },
+            {
+              "id": "1aYsBRHTLIzoLX2mYNODk2N3cxa-YrEJL",
+              "name": "3. Vấn đề tuổi trẻ",
+              "webViewLink": "https://drive.google.com/drive/folders/1aYsBRHTLIzoLX2mYNODk2N3cxa-YrEJL",
+              "modifiedTime": "2026-05-19T09:15:09.305Z",
+              "children": [],
+              "files": [
+                {
+                  "id": "1LQ8vxFsN2gdm5bNSPBZFJJfg45jvivip",
+                  "name": "3. Vấn đề tuổi trẻ.mp4",
+                  "mimeType": "video/mp4",
+                  "size": 236181191,
+                  "webViewLink": "https://drive.google.com/file/d/1LQ8vxFsN2gdm5bNSPBZFJJfg45jvivip/view?usp=drivesdk",
+                  "modifiedTime": "2026-05-19T09:15:26.293Z",
+                  "videoMediaMetadata": null
+                }
+              ]
+            },
+            {
+              "id": "1KDlLbfumuO_JyO8hMLM31jOrmmd0qK8L",
+              "name": "3. Vấn đề tuổi trẻ",
+              "webViewLink": "https://drive.google.com/drive/folders/1KDlLbfumuO_JyO8hMLM31jOrmmd0qK8L",
+              "modifiedTime": "2026-05-19T09:15:09.036Z",
+              "children": [],
+              "files": [
+                {
+                  "id": "1kxZNSkmw2MOXaLVXRIVquDZ2C5n0SxWX",
+                  "name": "3. Vấn đề tuổi trẻ.mp4",
+                  "mimeType": "video/mp4",
+                  "size": 236181191,
+                  "webViewLink": "https://drive.google.com/file/d/1kxZNSkmw2MOXaLVXRIVquDZ2C5n0SxWX/view?usp=drivesdk",
+                  "modifiedTime": "2026-05-19T09:15:25.040Z",
+                  "videoMediaMetadata": null
+                }
+              ]
+            },
+            {
+              "id": "11OyzU32naPZ1s_1XUwol4SkuUdySfS3z",
+              "name": "4. Hướng dẫn cách viết thân bài dạng đề bàn luận về một khía cạnh văn bản",
+              "webViewLink": "https://drive.google.com/drive/folders/11OyzU32naPZ1s_1XUwol4SkuUdySfS3z",
+              "modifiedTime": "2026-05-19T09:14:56.272Z",
+              "children": [],
+              "files": [
+                {
+                  "id": "1DjzSQbvQrTuyWrM47s6WK1Vu2s2fpRGU",
+                  "name": "4. Hướng dẫn cách viết thân bài dạng đề bàn luận về một khía cạnh văn bản.mp4",
+                  "mimeType": "video/mp4",
+                  "size": 64531575,
+                  "webViewLink": "https://drive.google.com/file/d/1DjzSQbvQrTuyWrM47s6WK1Vu2s2fpRGU/view?usp=drivesdk",
+                  "modifiedTime": "2026-05-19T09:15:07.737Z",
+                  "videoMediaMetadata": null
+                },
+                {
+                  "id": "1sYMrop4LzegI-2oGgh8xhXTrbg3I9swj",
+                  "name": "4. Hướng dẫn cách viết thân bài dạng đề bàn luận về một khía cạnh văn bản.mp4",
+                  "mimeType": "video/mp4",
+                  "size": 64531575,
+                  "webViewLink": "https://drive.google.com/file/d/1sYMrop4LzegI-2oGgh8xhXTrbg3I9swj/view?usp=drivesdk",
+                  "modifiedTime": "2026-05-19T09:15:07.438Z",
+                  "videoMediaMetadata": {
+                    "width": 1920,
+                    "height": 1080,
+                    "durationMillis": "299033"
+                  }
+                }
+              ]
+            },
+            {
+              "id": "13fNswFirO5MsrRN7su8j4CHyGEnxM1yG",
+              "name": "5. Phân tích yếu tố kỳ ảo trong Truyện truyền kỳ",
+              "webViewLink": "https://drive.google.com/drive/folders/13fNswFirO5MsrRN7su8j4CHyGEnxM1yG",
+              "modifiedTime": "2026-05-19T09:14:39.890Z",
+              "children": [],
+              "files": [
+                {
+                  "id": "116otYnKFVKJCvgbbB0elvj_azodJL-De",
+                  "name": "5. Phân tích yếu tố kỳ ảo trong Truyện truyền kỳ.mp4",
+                  "mimeType": "video/mp4",
+                  "size": 155463516,
+                  "webViewLink": "https://drive.google.com/file/d/116otYnKFVKJCvgbbB0elvj_azodJL-De/view?usp=drivesdk",
+                  "modifiedTime": "2026-05-19T09:14:54.588Z",
+                  "videoMediaMetadata": {
+                    "width": 1920,
+                    "height": 1080,
+                    "durationMillis": "683599"
+                  }
+                },
+                {
+                  "id": "1pSUsFeliD0TpkWLF6vfZ_GoTrGCv6uys",
+                  "name": "5. Phân tích yếu tố kỳ ảo trong Truyện truyền kỳ.mp4",
+                  "mimeType": "video/mp4",
+                  "size": 155463516,
+                  "webViewLink": "https://drive.google.com/file/d/1pSUsFeliD0TpkWLF6vfZ_GoTrGCv6uys/view?usp=drivesdk",
+                  "modifiedTime": "2026-05-19T09:14:54.513Z",
+                  "videoMediaMetadata": null
+                }
+              ]
+            },
+            {
+              "id": "1FHWV1Db4Ma6WG782qlpAp-v_OpfL4r-Z",
+              "name": "6. Hướng dẫn viết thư trao đổi công việc",
+              "webViewLink": "https://drive.google.com/drive/folders/1FHWV1Db4Ma6WG782qlpAp-v_OpfL4r-Z",
+              "modifiedTime": "2026-05-19T09:14:23.901Z",
+              "children": [],
+              "files": [
+                {
+                  "id": "17vvvLdqwI-USUrU1ayK9W9t297UKyUZT",
+                  "name": "6. Hướng dẫn viết thư trao đổi công việc.mp4",
+                  "mimeType": "video/mp4",
+                  "size": 117007882,
+                  "webViewLink": "https://drive.google.com/file/d/17vvvLdqwI-USUrU1ayK9W9t297UKyUZT/view?usp=drivesdk",
+                  "modifiedTime": "2026-05-19T09:14:36.341Z",
+                  "videoMediaMetadata": {
+                    "width": 1920,
+                    "height": 1080,
+                    "durationMillis": "446699"
+                  }
+                }
+              ]
+            }
+          ],
+          "files": []
+        }
+      ],
+      "files": [],
+      "webViewLink": "https://drive.google.com/drive/folders/1Rtxl8eSKbeXGzjBcQQVKovuTXv9U_9Yo",
+      "modifiedTime": "2026-04-19T03:39:38.041Z"
+    },
+    {
+      "id": "1Wqe7cMwCh_xwrAAMSHu08ZNGr3QLaWTS",
+      "name": "2. LIVE C - Luyện Thi Chuyên Đề - Văn 2K9 - PMN",
+      "children": [
+        {
+          "id": "1qu8aszUrq8m_305yWjNht7mjSOvl-T5n",
+          "name": "1. Cuộc đời và sự nghiệp đại thi hào Nguyễn Du",
+          "webViewLink": "https://drive.google.com/drive/folders/1qu8aszUrq8m_305yWjNht7mjSOvl-T5n",
+          "modifiedTime": "2026-05-03T12:50:46.789Z",
+          "children": [],
+          "files": [
+            {
+              "id": "1xUYDjoYioGjINf_YdmSzIoe60zsRabZq",
+              "name": "1. Cuộc đời và sự nghiệp đại thi hào Nguyễn Du.mp4",
+              "mimeType": "video/mp4",
+              "size": 130977081,
+              "webViewLink": "https://drive.google.com/file/d/1xUYDjoYioGjINf_YdmSzIoe60zsRabZq/view?usp=drivesdk",
+              "modifiedTime": "2026-05-03T12:51:55.814Z",
+              "videoMediaMetadata": {
+                "width": 1920,
+                "height": 1080,
+                "durationMillis": "483366"
+              }
+            }
+          ]
+        },
+        {
+          "id": "1q9Q1D29QIdpOw0JH80BgmOHQfIsg9xuo",
+          "name": "10. Thuyết minh về một tác phẩm văn học",
+          "webViewLink": "https://drive.google.com/drive/folders/1q9Q1D29QIdpOw0JH80BgmOHQfIsg9xuo",
+          "modifiedTime": "2026-05-03T12:50:46.963Z",
+          "children": [],
+          "files": [
+            {
+              "id": "1_vYE0KoJyzHSmhmRw16MTkpHPXtqy4DD",
+              "name": "10. Thuyết minh về một tác phẩm văn học.mp4",
+              "mimeType": "video/mp4",
+              "size": 79486746,
+              "webViewLink": "https://drive.google.com/file/d/1_vYE0KoJyzHSmhmRw16MTkpHPXtqy4DD/view?usp=drivesdk",
+              "modifiedTime": "2026-05-03T13:04:32.622Z",
+              "videoMediaMetadata": {
+                "width": 1920,
+                "height": 1080,
+                "durationMillis": "344133"
+              }
+            }
+          ]
+        },
+        {
+          "id": "1Fi68pRnyfc73i2urDqBjY1yxoe2379OR",
+          "name": "11. Thuyết minh về một hiện tượng xã hội",
+          "webViewLink": "https://drive.google.com/drive/folders/1Fi68pRnyfc73i2urDqBjY1yxoe2379OR",
+          "modifiedTime": "2026-05-03T12:50:46.982Z",
+          "children": [],
+          "files": [
+            {
+              "id": "1M4l1GIDF-Qoz2sR_2WQX5oMZwY4mpsta",
+              "name": "11. Thuyết minh về một hiện tượng xã hội.mp4",
+              "mimeType": "video/mp4",
+              "size": 116403998,
+              "webViewLink": "https://drive.google.com/file/d/1M4l1GIDF-Qoz2sR_2WQX5oMZwY4mpsta/view?usp=drivesdk",
+              "modifiedTime": "2026-05-03T13:05:27.896Z",
+              "videoMediaMetadata": null
+            }
+          ]
+        },
+        {
+          "id": "1CAyLfV-xDiCcQOWOMupXHFP23oJATtfx",
+          "name": "12. Thuyết minh về một hiện tượng đời sống xã hội",
+          "webViewLink": "https://drive.google.com/drive/folders/1CAyLfV-xDiCcQOWOMupXHFP23oJATtfx",
+          "modifiedTime": "2026-05-03T12:50:47.001Z",
+          "children": [],
+          "files": [
+            {
+              "id": "1iI6NV6vWB_mEixncxI0VlROW6vNv9ApJ",
+              "name": "12. Thuyết minh về một hiện tượng đời sống xã hội.mp4",
+              "mimeType": "video/mp4",
+              "size": 129301319,
+              "webViewLink": "https://drive.google.com/file/d/1iI6NV6vWB_mEixncxI0VlROW6vNv9ApJ/view?usp=drivesdk",
+              "modifiedTime": "2026-05-03T13:06:31.035Z",
+              "videoMediaMetadata": null
+            }
+          ]
+        },
+        {
+          "id": "1HrPDy-cadNApX6jfDEqc_F7ZrADfaf2r",
+          "name": "13. Biện pháp tu từ lặp cấu trúc và biện pháp tu từ đối",
+          "webViewLink": "https://drive.google.com/drive/folders/1HrPDy-cadNApX6jfDEqc_F7ZrADfaf2r",
+          "modifiedTime": "2026-05-03T12:50:47.021Z",
+          "children": [],
+          "files": [
+            {
+              "id": "1G4ZyMhwx-FV9emWxEfN6mH3DwWXitA1i",
+              "name": "13. Biện pháp tu từ lặp cấu trúc và biện pháp tu từ đối .mp4",
+              "mimeType": "video/mp4",
+              "size": 474318069,
+              "webViewLink": "https://drive.google.com/file/d/1G4ZyMhwx-FV9emWxEfN6mH3DwWXitA1i/view?usp=drivesdk",
+              "modifiedTime": "2026-05-03T13:10:06.072Z",
+              "videoMediaMetadata": null
+            }
+          ]
+        },
+        {
+          "id": "1Uh4FBxhIZ3D8QLYUhvRvkfDRiYSR7Mys",
+          "name": "13. Biện pháp tu từ lặp cấu trúc và biện pháp tu từ đối ",
+          "webViewLink": "https://drive.google.com/drive/folders/1Uh4FBxhIZ3D8QLYUhvRvkfDRiYSR7Mys",
+          "modifiedTime": "2026-05-03T14:48:18.810Z",
+          "children": [],
+          "files": [
+            {
+              "id": "1yWRGeTW4WqnpPL_L4_6OfYPXaZrYp9xP",
+              "name": "13. Biện pháp tu từ lặp cấu trúc và biện pháp tu từ đối .mp4",
+              "mimeType": "video/mp4",
+              "size": 474318069,
+              "webViewLink": "https://drive.google.com/file/d/1yWRGeTW4WqnpPL_L4_6OfYPXaZrYp9xP/view?usp=drivesdk",
+              "modifiedTime": "2026-05-10T07:29:12.787Z",
+              "videoMediaMetadata": {
+                "width": 1920,
+                "height": 1080,
+                "durationMillis": "2342066"
+              }
+            }
+          ]
+        },
+        {
+          "id": "1HkhLtdsXGHo5IWlQdz42DfJWCtxUGdUG",
+          "name": "14. hướng dẫn đọc hiểu một văn bản thông tin",
+          "webViewLink": "https://drive.google.com/drive/folders/1HkhLtdsXGHo5IWlQdz42DfJWCtxUGdUG",
+          "modifiedTime": "2026-05-03T12:50:47.042Z",
+          "children": [],
+          "files": [
+            {
+              "id": "14rAyks68RlHA3uHOqbSi8cRTj9MV4YbO",
+              "name": "14. hướng dẫn đọc hiểu một văn bản thông tin.mp4",
+              "mimeType": "video/mp4",
+              "size": 760272335,
+              "webViewLink": "https://drive.google.com/file/d/14rAyks68RlHA3uHOqbSi8cRTj9MV4YbO/view?usp=drivesdk",
+              "modifiedTime": "2026-05-03T13:14:51.789Z",
+              "videoMediaMetadata": null
+            }
+          ]
+        },
+        {
+          "id": "1SXT9RqY74sr2TngriVxoe-X9M4VGQZCF",
+          "name": "2. Cuộc đời và sự nghiệp đại thi hào Nguyễn Du",
+          "webViewLink": "https://drive.google.com/drive/folders/1SXT9RqY74sr2TngriVxoe-X9M4VGQZCF",
+          "modifiedTime": "2026-05-03T12:50:46.809Z",
+          "children": [],
+          "files": [
+            {
+              "id": "1j8k3cOFUFAQIxcmmPyXOMBVNkdJrpeZu",
+              "name": "1hMJy1im9Fd-HZvYjmt-d5nF05OlXcGBA.mp4",
+              "mimeType": "video/mp4",
+              "size": 130977081,
+              "webViewLink": "https://drive.google.com/file/d/1j8k3cOFUFAQIxcmmPyXOMBVNkdJrpeZu/view?usp=drivesdk",
+              "modifiedTime": "2026-05-03T14:00:50.332Z",
+              "videoMediaMetadata": {
+                "width": 1920,
+                "height": 1080,
+                "durationMillis": "483366"
+              }
+            },
+            {
+              "id": "1XJb7RGFQmVrJG_91wJmpGm_6lcYngTnv",
+              "name": "2. Cuộc đời và sự nghiệp đại thi hào Nguyễn Du.mp4",
+              "mimeType": "video/mp4",
+              "size": 130977081,
+              "webViewLink": "https://drive.google.com/file/d/1XJb7RGFQmVrJG_91wJmpGm_6lcYngTnv/view?usp=drivesdk",
+              "modifiedTime": "2026-05-10T07:42:51.211Z",
+              "videoMediaMetadata": null
+            }
+          ]
+        },
+        {
+          "id": "1pwFaurqALkimUnCJOGJe2mjqT_Gp9Gi2",
+          "name": "3. Thuyết minh về một hiện tượng đời sống",
+          "webViewLink": "https://drive.google.com/drive/folders/1pwFaurqALkimUnCJOGJe2mjqT_Gp9Gi2",
+          "modifiedTime": "2026-05-03T12:50:46.827Z",
+          "children": [],
+          "files": [
+            {
+              "id": "1GIdJBRmVUYyx3BXHOmH8lTgumMrxgmqJ",
+              "name": "3. Thuyết minh về một hiện tượng đời sống.mp4",
+              "mimeType": "video/mp4",
+              "size": 105579625,
+              "webViewLink": "https://drive.google.com/file/d/1GIdJBRmVUYyx3BXHOmH8lTgumMrxgmqJ/view?usp=drivesdk",
+              "modifiedTime": "2026-05-03T12:52:57.940Z",
+              "videoMediaMetadata": {
+                "width": 1920,
+                "height": 1080,
+                "durationMillis": "417133"
+              }
+            }
+          ]
+        },
+        {
+          "id": "1UgapRcbhUZNzslEg3_aL1QvdT_qw4ZU4",
+          "name": "4. Thuyết minh về một tác phẩm văn học",
+          "webViewLink": "https://drive.google.com/drive/folders/1UgapRcbhUZNzslEg3_aL1QvdT_qw4ZU4",
+          "modifiedTime": "2026-05-03T12:50:46.845Z",
+          "children": [],
+          "files": [
+            {
+              "id": "1ylqievobXHhxxRTkymPQGc_WajyIiz_a",
+              "name": "4. Thuyết minh về một tác phẩm văn học.mp4",
+              "mimeType": "video/mp4",
+              "size": 366812230,
+              "webViewLink": "https://drive.google.com/file/d/1ylqievobXHhxxRTkymPQGc_WajyIiz_a/view?usp=drivesdk",
+              "modifiedTime": "2026-05-03T12:56:06.103Z",
+              "videoMediaMetadata": null
+            }
+          ]
+        },
+        {
+          "id": "1vms90iV3qMP7md1jl5CMoo9zwlYt_36R",
+          "name": "5. Trao duyên",
+          "webViewLink": "https://drive.google.com/drive/folders/1vms90iV3qMP7md1jl5CMoo9zwlYt_36R",
+          "modifiedTime": "2026-05-03T12:50:46.863Z",
+          "children": [],
+          "files": [
+            {
+              "id": "1zinG2TcmPulTQfmmUcadvTzbcYBN5Ka2",
+              "name": "5. Trao duyên.mp4",
+              "mimeType": "video/mp4",
+              "size": 289393141,
+              "webViewLink": "https://drive.google.com/file/d/1zinG2TcmPulTQfmmUcadvTzbcYBN5Ka2/view?usp=drivesdk",
+              "modifiedTime": "2026-05-03T12:58:32.215Z",
+              "videoMediaMetadata": {
+                "width": 1920,
+                "height": 1080,
+                "durationMillis": "922566"
+              }
+            }
+          ]
+        },
+        {
+          "id": "1g8y60dFvi_lNDOJ9Zhj06ZbY6_QXgPkb",
+          "name": "6. Ghi chép và tưởng tượng trong văn bản Kí",
+          "webViewLink": "https://drive.google.com/drive/folders/1g8y60dFvi_lNDOJ9Zhj06ZbY6_QXgPkb",
+          "modifiedTime": "2026-05-03T12:50:46.881Z",
+          "children": [],
+          "files": [
+            {
+              "id": "167AX0ZWk4StRlVQnGRpqCRKtEINilSaj",
+              "name": "6. Ghi chép và tưởng tượng trong văn bản Kí.mp4",
+              "mimeType": "video/mp4",
+              "size": 174245813,
+              "webViewLink": "https://drive.google.com/file/d/167AX0ZWk4StRlVQnGRpqCRKtEINilSaj/view?usp=drivesdk",
+              "modifiedTime": "2026-05-03T13:00:04.051Z",
+              "videoMediaMetadata": null
+            }
+          ]
+        },
+        {
+          "id": "1geVAE0C5P1ueOeCiK3u9kJEGvI53be2e",
+          "name": "7. Độc Tiểu Thanh Ký",
+          "webViewLink": "https://drive.google.com/drive/folders/1geVAE0C5P1ueOeCiK3u9kJEGvI53be2e",
+          "modifiedTime": "2026-05-03T12:50:46.903Z",
+          "children": [],
+          "files": [
+            {
+              "id": "1TJPQY9wZZjTEKkMhdBcg7xl_pjlp_9FD",
+              "name": "7. Độc Tiểu Thanh Ký.mp4",
+              "mimeType": "video/mp4",
+              "size": 209543713,
+              "webViewLink": "https://drive.google.com/file/d/1TJPQY9wZZjTEKkMhdBcg7xl_pjlp_9FD/view?usp=drivesdk",
+              "modifiedTime": "2026-05-03T13:01:47.465Z",
+              "videoMediaMetadata": null
+            }
+          ]
+        },
+        {
+          "id": "1huEyanriJ1F7zH1G1TOf_1Lg-wo8gp6f",
+          "name": "8. Biện pháp tu từ lặp cấu trúc , biện pháp đối",
+          "webViewLink": "https://drive.google.com/drive/folders/1huEyanriJ1F7zH1G1TOf_1Lg-wo8gp6f",
+          "modifiedTime": "2026-05-03T12:50:46.923Z",
+          "children": [],
+          "files": [
+            {
+              "id": "1OeHGBUrQTe1a6N2q7GcXHpvpKE_b21Xi",
+              "name": "8. Biện pháp tu từ lặp cấu trúc , biện pháp đối.mp4",
+              "mimeType": "video/mp4",
+              "size": 55866376,
+              "webViewLink": "https://drive.google.com/file/d/1OeHGBUrQTe1a6N2q7GcXHpvpKE_b21Xi/view?usp=drivesdk",
+              "modifiedTime": "2026-05-03T13:02:17.439Z",
+              "videoMediaMetadata": {
+                "width": 1920,
+                "height": 1080,
+                "durationMillis": "267466"
+              }
+            }
+          ]
+        },
+        {
+          "id": "1X6hLgEbI2xbbMTczcCtRTsvvPZbDpGYh",
+          "name": "9. Nghị luận xã hội về 2 ý kiến trái chiều",
+          "webViewLink": "https://drive.google.com/drive/folders/1X6hLgEbI2xbbMTczcCtRTsvvPZbDpGYh",
+          "modifiedTime": "2026-05-03T12:50:46.943Z",
+          "children": [],
+          "files": [
+            {
+              "id": "1ByhamVk2DpMuV_i0ipPHtPEQDhcZT9DT",
+              "name": "9. Nghị luận xã hội về 2 ý kiến trái chiều.mp4",
+              "mimeType": "video/mp4",
+              "size": 223177193,
+              "webViewLink": "https://drive.google.com/file/d/1ByhamVk2DpMuV_i0ipPHtPEQDhcZT9DT/view?usp=drivesdk",
+              "modifiedTime": "2026-05-03T13:03:50.266Z",
+              "videoMediaMetadata": null
+            }
+          ]
+        }
+      ],
+      "files": [],
+      "webViewLink": "https://drive.google.com/drive/folders/1Wqe7cMwCh_xwrAAMSHu08ZNGr3QLaWTS",
+      "modifiedTime": "2026-05-03T12:50:46.769Z"
+    },
+    {
+      "id": "1KGCiFZx4AWFIm6sUM9TUmwQcowstE-Df",
+      "name": "3. LIVE T - Luyện đề - Văn học 2K9 - PMN",
+      "children": [],
+      "files": [],
+      "webViewLink": "https://drive.google.com/drive/folders/1KGCiFZx4AWFIm6sUM9TUmwQcowstE-Df",
+      "modifiedTime": "2026-04-19T03:39:36.599Z"
+    },
+    {
+      "id": "15NAHeBJaTYpfVyGsBDqwzxxc22QkM_2c",
+      "name": "4. LIVE G - Tổng ôn - Ngữ văn 2K9 - PMN",
+      "children": [],
+      "files": [],
+      "webViewLink": "https://drive.google.com/drive/folders/15NAHeBJaTYpfVyGsBDqwzxxc22QkM_2c",
+      "modifiedTime": "2026-04-19T03:39:35.736Z"
+    },
+    {
+      "id": "1mdP7PJy1O9lCj1rtQEnGHwKPZO2kSyNF",
+      "name": "Z. EBOOK SÁCH KÈM KHOÁ HỌC",
+      "children": [],
+      "files": [],
+      "webViewLink": "https://drive.google.com/drive/folders/1mdP7PJy1O9lCj1rtQEnGHwKPZO2kSyNF",
+      "modifiedTime": "2026-04-19T03:39:39.429Z"
+    }
+  ]
+}

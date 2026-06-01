@@ -1,0 +1,2181 @@
+{
+  "crawledAt": "2026-05-29T12:51:48.014Z",
+  "teacher": {
+    "id": "18eBA7PeCBEYILYv7h6a4rIxqZvaSFX8t",
+    "name": "4. TOÁN THẦY NGUYỄN ĐĂNG ÁI TDM 2K9",
+    "modifiedTime": "2026-05-27T15:31:26.989Z",
+    "webViewLink": "https://drive.google.com/drive/folders/18eBA7PeCBEYILYv7h6a4rIxqZvaSFX8t"
+  },
+  "courses": [
+    {
+      "id": "1TodJximGtng4RhlT3kl1FP2ai_xtIeLh",
+      "name": "0. INFO THÔNG TIN VÀ HƯỚNG DẪN KHOÁ HỌC",
+      "children": [],
+      "files": [],
+      "webViewLink": "https://drive.google.com/drive/folders/1TodJximGtng4RhlT3kl1FP2ai_xtIeLh",
+      "modifiedTime": "2026-04-17T16:31:12.133Z"
+    },
+    {
+      "id": "1OXXj11oruRJfViKBYh2OWPiCo3sGTV_T",
+      "name": "1. KHOÁ TDMX 2027 CHINH PHỤC NỀN TẢNG BẢN CHẤT VẬN DỤNG NHẸ TOÁN THPT 7-9 ĐIỂM",
+      "children": [
+        {
+          "id": "1BSLiYg91LR6yVwYTyarIvA2-LYvfWIt6",
+          "name": "1.1 TDMXX2027 - Nền tảng vận dụng Hàm số - Oxyz - Tích Phân",
+          "webViewLink": "https://drive.google.com/drive/folders/1BSLiYg91LR6yVwYTyarIvA2-LYvfWIt6",
+          "modifiedTime": "2026-04-17T14:00:01.017Z",
+          "children": [
+            {
+              "id": "11TEJwVXkQ_l5kfS-9zpAkbahokxrEye5",
+              "name": "TDMXX01_Khoảng cách số 01",
+              "webViewLink": "https://drive.google.com/drive/folders/11TEJwVXkQ_l5kfS-9zpAkbahokxrEye5",
+              "modifiedTime": "2026-04-17T23:23:26.959Z",
+              "children": [
+                {
+                  "id": "1QMuLz7zygeHbXac85eWBP0C1enZnghJ5",
+                  "name": "Bài giảng",
+                  "webViewLink": "https://drive.google.com/drive/folders/1QMuLz7zygeHbXac85eWBP0C1enZnghJ5",
+                  "modifiedTime": "2026-04-17T23:23:44.398Z",
+                  "children": [],
+                  "files": [
+                    {
+                      "id": "1Qy-PtA2Qnkdca9pmgqj8eMsV7tparLwj",
+                      "name": "Bg01. Khoảng cách cơ bản.mp4",
+                      "mimeType": "video/mp4",
+                      "size": 424549308,
+                      "webViewLink": "https://drive.google.com/file/d/1Qy-PtA2Qnkdca9pmgqj8eMsV7tparLwj/view?usp=drivesdk",
+                      "modifiedTime": "2026-04-17T23:23:47.107Z",
+                      "videoMediaMetadata": {
+                        "width": 1280,
+                        "height": 720,
+                        "durationMillis": "1522440"
+                      }
+                    },
+                    {
+                      "id": "1TeJv0jDKcPFiMcrpLVvdkykdxtnTkO8Z",
+                      "name": "Bg02. KN triển khai bài toán mô hình KC.mp4",
+                      "mimeType": "video/mp4",
+                      "size": 977067584,
+                      "webViewLink": "https://drive.google.com/file/d/1TeJv0jDKcPFiMcrpLVvdkykdxtnTkO8Z/view?usp=drivesdk",
+                      "modifiedTime": "2026-04-17T23:23:48.914Z",
+                      "videoMediaMetadata": {
+                        "width": 1280,
+                        "height": 720,
+                        "durationMillis": "3494960"
+                      }
+                    },
+                    {
+                      "id": "1V7k4vliohe4O62IM-a9lvYFGPuxXgNsn",
+                      "name": "Bg03. Một số VD triển khai BT mô hình KC01.mp4",
+                      "mimeType": "video/mp4",
+                      "size": 619466204,
+                      "webViewLink": "https://drive.google.com/file/d/1V7k4vliohe4O62IM-a9lvYFGPuxXgNsn/view?usp=drivesdk",
+                      "modifiedTime": "2026-04-17T23:23:45.385Z",
+                      "videoMediaMetadata": {
+                        "width": 1920,
+                        "height": 1080,
+                        "durationMillis": "2764133"
+                      }
+                    }
+                  ]
+                },
+                {
+                  "id": "1g4xV6W3PVCLp3NSOAuCxYMotOl9r4TjO",
+                  "name": "Phần A",
+                  "webViewLink": "https://drive.google.com/drive/folders/1g4xV6W3PVCLp3NSOAuCxYMotOl9r4TjO",
+                  "modifiedTime": "2026-04-17T23:23:36.343Z",
+                  "children": [],
+                  "files": [
+                    {
+                      "id": "1OfLNDa2kmnkGTq82kgFE7yNTHx8d9AKa",
+                      "name": "BVT_LIVE_TDMXX01A_ĐTL_KHOẢNG CÁCH CƠ BẢN PHẦN A 2.pdf",
+                      "mimeType": "application/pdf",
+                      "size": 7910666,
+                      "webViewLink": "https://drive.google.com/file/d/1OfLNDa2kmnkGTq82kgFE7yNTHx8d9AKa/view?usp=drivesdk",
+                      "modifiedTime": "2026-04-17T23:23:42.659Z",
+                      "videoMediaMetadata": null
+                    },
+                    {
+                      "id": "11HsUTwJN2jVv1eCLND6QBpq3EQQEKVJR",
+                      "name": "Chữa ĐTL TDMXX01A_Khoảng cách cơ bản",
+                      "mimeType": "video/mp4",
+                      "size": 152197701,
+                      "webViewLink": "https://drive.google.com/file/d/11HsUTwJN2jVv1eCLND6QBpq3EQQEKVJR/view?usp=drivesdk",
+                      "modifiedTime": "2026-04-17T23:23:37.283Z",
+                      "videoMediaMetadata": {
+                        "width": 1920,
+                        "height": 1080,
+                        "durationMillis": "3500767"
+                      }
+                    },
+                    {
+                      "id": "1pEFAmLVrh8aYyFIpALwoa2uNXdjCssLx",
+                      "name": "KEY ĐỀ TDMXX01A_ĐTL_KHOẢNG CÁCH CƠ BẢN_PHẦN A.pdf",
+                      "mimeType": "application/pdf",
+                      "size": 111039,
+                      "webViewLink": "https://drive.google.com/file/d/1pEFAmLVrh8aYyFIpALwoa2uNXdjCssLx/view?usp=drivesdk",
+                      "modifiedTime": "2026-04-17T23:23:40.695Z",
+                      "videoMediaMetadata": null
+                    },
+                    {
+                      "id": "13oguMLbHGc78Wv4lPjCMaazwzaUe-YO5",
+                      "name": "ĐỀ TDMXX01A_ĐTL_KHOẢNG CÁCH CƠ BẢN_PHẦN A.pdf",
+                      "mimeType": "application/pdf",
+                      "size": 268612,
+                      "webViewLink": "https://drive.google.com/file/d/13oguMLbHGc78Wv4lPjCMaazwzaUe-YO5/view?usp=drivesdk",
+                      "modifiedTime": "2026-04-17T23:23:38.953Z",
+                      "videoMediaMetadata": null
+                    }
+                  ]
+                },
+                {
+                  "id": "1bYoKeVhxZgjH1JNgK3odmnj2kAW5UuBM",
+                  "name": "Phần B",
+                  "webViewLink": "https://drive.google.com/drive/folders/1bYoKeVhxZgjH1JNgK3odmnj2kAW5UuBM",
+                  "modifiedTime": "2026-04-17T23:23:27.904Z",
+                  "children": [],
+                  "files": [
+                    {
+                      "id": "1TAZenJ-LaEOmEkr7GZwmqoYqp2Xb0Upr",
+                      "name": "BVT_LIVE_TDMX01B_ĐTL_KHOẢNG CÁCH CƠ BẢN PHẦN B.pdf",
+                      "mimeType": "application/pdf",
+                      "size": 11103148,
+                      "webViewLink": "https://drive.google.com/file/d/1TAZenJ-LaEOmEkr7GZwmqoYqp2Xb0Upr/view?usp=drivesdk",
+                      "modifiedTime": "2026-04-17T23:23:30.552Z",
+                      "videoMediaMetadata": null
+                    },
+                    {
+                      "id": "1LRPOVDFrgprSlCiG0ikkiXhV8wLAq5TG",
+                      "name": "Chữa đề- TDMXX01B_Khoảng cách từ 1 điểm tới MP_Phần B.mp4",
+                      "mimeType": "video/mp4",
+                      "size": 784607022,
+                      "webViewLink": "https://drive.google.com/file/d/1LRPOVDFrgprSlCiG0ikkiXhV8wLAq5TG/view?usp=drivesdk",
+                      "modifiedTime": "2026-04-17T23:23:32.204Z",
+                      "videoMediaMetadata": {
+                        "width": 1920,
+                        "height": 1080,
+                        "durationMillis": "7073199"
+                      }
+                    },
+                    {
+                      "id": "1yZkCEmu0H4XKKzz1JVWq8qeZfHFhwgd2",
+                      "name": "KEY ĐỀ TDMXX01B_ĐTL_KHOẢNG CÁCH CƠ BẢN_PHẦN B.pdf",
+                      "mimeType": "application/pdf",
+                      "size": 109428,
+                      "webViewLink": "https://drive.google.com/file/d/1yZkCEmu0H4XKKzz1JVWq8qeZfHFhwgd2/view?usp=drivesdk",
+                      "modifiedTime": "2026-04-17T23:23:28.918Z",
+                      "videoMediaMetadata": null
+                    },
+                    {
+                      "id": "1kBpeZ523sEOu7aQ7VLQ6dlrzzs_KCBig",
+                      "name": "ĐỀ TDMXX01B_ĐTL_KHOẢNG CÁCH CƠ BẢN_PHẦN B.pdf",
+                      "mimeType": "application/pdf",
+                      "size": 276332,
+                      "webViewLink": "https://drive.google.com/file/d/1kBpeZ523sEOu7aQ7VLQ6dlrzzs_KCBig/view?usp=drivesdk",
+                      "modifiedTime": "2026-04-17T23:23:33.948Z",
+                      "videoMediaMetadata": null
+                    }
+                  ]
+                }
+              ],
+              "files": [
+                {
+                  "id": "1IejVatMK1AJEt13VBQJkG2sgUwv2LfzV",
+                  "name": "TDMXX01_FCD_KHOẢNG CÁCH CƠ BẢN.pdf",
+                  "mimeType": "application/pdf",
+                  "size": 455455,
+                  "webViewLink": "https://drive.google.com/file/d/1IejVatMK1AJEt13VBQJkG2sgUwv2LfzV/view?usp=drivesdk",
+                  "modifiedTime": "2026-04-17T23:23:50.658Z",
+                  "videoMediaMetadata": null
+                }
+              ]
+            },
+            {
+              "id": "16Kt8nOgU-uCf0AikHqr4w1BMheW0TFBZ",
+              "name": "TDMXX02_Khoảng cách số 02",
+              "webViewLink": "https://drive.google.com/drive/folders/16Kt8nOgU-uCf0AikHqr4w1BMheW0TFBZ",
+              "modifiedTime": "2026-04-17T23:23:09.049Z",
+              "children": [
+                {
+                  "id": "1HuIb3MmEEVokFoQizHphQGZgF-DDY2th",
+                  "name": "Bài giảng",
+                  "webViewLink": "https://drive.google.com/drive/folders/1HuIb3MmEEVokFoQizHphQGZgF-DDY2th",
+                  "modifiedTime": "2026-04-17T23:23:20.736Z",
+                  "children": [],
+                  "files": [
+                    {
+                      "id": "1_tGkFIfcmTNWCm5yBu79hmAkLX7QWtT0",
+                      "name": "Bg01. Cơ bản về KC giữa 2ĐTCN.mp4",
+                      "mimeType": "video/mp4",
+                      "size": 613247728,
+                      "webViewLink": "https://drive.google.com/file/d/1_tGkFIfcmTNWCm5yBu79hmAkLX7QWtT0/view?usp=drivesdk",
+                      "modifiedTime": "2026-04-17T23:23:23.376Z",
+                      "videoMediaMetadata": null
+                    },
+                    {
+                      "id": "1SFOoAuCJKFuChSJ0pRkDjJ6e-gkGRx0h",
+                      "name": "Bg02. KC giữa cạnh đáy và cạnh bên của HC.mp4",
+                      "mimeType": "video/mp4",
+                      "size": 1050848560,
+                      "webViewLink": "https://drive.google.com/file/d/1SFOoAuCJKFuChSJ0pRkDjJ6e-gkGRx0h/view?usp=drivesdk",
+                      "modifiedTime": "2026-04-17T23:23:21.665Z",
+                      "videoMediaMetadata": {
+                        "width": 1280,
+                        "height": 720,
+                        "durationMillis": "3752760"
+                      }
+                    }
+                  ]
+                },
+                {
+                  "id": "1oitlLN1PLMD5U6s6Qujncpvdf-0ZwBH7",
+                  "name": "Đề A",
+                  "webViewLink": "https://drive.google.com/drive/folders/1oitlLN1PLMD5U6s6Qujncpvdf-0ZwBH7",
+                  "modifiedTime": "2026-04-17T23:23:12.634Z",
+                  "children": [],
+                  "files": [
+                    {
+                      "id": "1kmSnBzbbYDTmP4JkDuHaiHqm5Y31znb5",
+                      "name": "BVT_LIVE_TDMXX02A_ĐTL_KC GIỮA 2ĐTCN_PHẦN A.pdf",
+                      "mimeType": "application/pdf",
+                      "size": 10664852,
+                      "webViewLink": "https://drive.google.com/file/d/1kmSnBzbbYDTmP4JkDuHaiHqm5Y31znb5/view?usp=drivesdk",
+                      "modifiedTime": "2026-04-17T23:23:18.991Z",
+                      "videoMediaMetadata": null
+                    },
+                    {
+                      "id": "1HEsg2rRGjPHxIu7bU-zCuhgCrybsHlxM",
+                      "name": "Chữa ĐTL- TDMXX02_Khoảng cách giữa hai đường thẳng chéo nhau.mp4",
+                      "mimeType": "video/mp4",
+                      "size": 217125987,
+                      "webViewLink": "https://drive.google.com/file/d/1HEsg2rRGjPHxIu7bU-zCuhgCrybsHlxM/view?usp=drivesdk",
+                      "modifiedTime": "2026-04-17T23:23:13.793Z",
+                      "videoMediaMetadata": {
+                        "width": 1920,
+                        "height": 1080,
+                        "durationMillis": "4529596"
+                      }
+                    },
+                    {
+                      "id": "1zayhLspE-GRjxxuGSHd_f0bxuDTjcVMw",
+                      "name": "KEY ĐỀ TDMXX02A_ĐTL_KC GIỮA 2ĐTCN_PHẦN A.pdf",
+                      "mimeType": "application/pdf",
+                      "size": 110846,
+                      "webViewLink": "https://drive.google.com/file/d/1zayhLspE-GRjxxuGSHd_f0bxuDTjcVMw/view?usp=drivesdk",
+                      "modifiedTime": "2026-04-17T23:23:17.317Z",
+                      "videoMediaMetadata": null
+                    },
+                    {
+                      "id": "1jblPBW12-LHijtoGLyeFA0JW28RFLo-z",
+                      "name": "ĐỀ TDMXX02A_ĐTL_KC GIỮA 2ĐTCN_PHẦN A.pdf",
+                      "mimeType": "application/pdf",
+                      "size": 279749,
+                      "webViewLink": "https://drive.google.com/file/d/1jblPBW12-LHijtoGLyeFA0JW28RFLo-z/view?usp=drivesdk",
+                      "modifiedTime": "2026-04-17T23:23:15.646Z",
+                      "videoMediaMetadata": null
+                    }
+                  ]
+                },
+                {
+                  "id": "16QaIqueBvvaecGg4nHTGILckshD9CRIb",
+                  "name": "Đề B",
+                  "webViewLink": "https://drive.google.com/drive/folders/16QaIqueBvvaecGg4nHTGILckshD9CRIb",
+                  "modifiedTime": "2026-04-17T23:23:09.959Z",
+                  "children": [],
+                  "files": [
+                    {
+                      "id": "18q8S1VJ65PQeAJJTHq8jFbI1ROC8YA5S",
+                      "name": "BVT_LIVE_TDMXX02B_ĐTL_KC GIỮA 2ĐTCN_PHẦN B.pdf",
+                      "mimeType": "application/pdf",
+                      "size": 10809123,
+                      "webViewLink": "https://drive.google.com/file/d/18q8S1VJ65PQeAJJTHq8jFbI1ROC8YA5S/view?usp=drivesdk",
+                      "modifiedTime": "2026-05-08T14:50:46.041Z",
+                      "videoMediaMetadata": null
+                    },
+                    {
+                      "id": "1aNBS6HM6PKRe3L-tC2ZFpNHdjPvIvE80",
+                      "name": "Chữa ĐTL TDMXX02B.mp4",
+                      "mimeType": "video/mp4",
+                      "size": 366082448,
+                      "webViewLink": "https://drive.google.com/file/d/1aNBS6HM6PKRe3L-tC2ZFpNHdjPvIvE80/view?usp=drivesdk",
+                      "modifiedTime": "2026-05-11T13:29:29.630Z",
+                      "videoMediaMetadata": {
+                        "width": 1920,
+                        "height": 1080,
+                        "durationMillis": "4755266"
+                      }
+                    },
+                    {
+                      "id": "1pvC_l4Ovvqs5hjJOhXoEfyPt7437KE2u",
+                      "name": "KEY ĐỀ TDMXX02B_ĐTL_KC GIỮA 2ĐTCN_PHẦN B.pdf",
+                      "mimeType": "application/pdf",
+                      "size": 110437,
+                      "webViewLink": "https://drive.google.com/file/d/1pvC_l4Ovvqs5hjJOhXoEfyPt7437KE2u/view?usp=drivesdk",
+                      "modifiedTime": "2026-05-08T14:50:48.557Z",
+                      "videoMediaMetadata": null
+                    },
+                    {
+                      "id": "1wpUTWjKtkrEth8-lnMyq8LCZorYpPty7",
+                      "name": "ĐỀ TDMXX02B_ĐTL_KC GIỮA 2ĐTCN_PHẦN B.pdf",
+                      "mimeType": "application/pdf",
+                      "size": 279542,
+                      "webViewLink": "https://drive.google.com/file/d/1wpUTWjKtkrEth8-lnMyq8LCZorYpPty7/view?usp=drivesdk",
+                      "modifiedTime": "2026-04-17T23:23:10.908Z",
+                      "videoMediaMetadata": null
+                    }
+                  ]
+                }
+              ],
+              "files": [
+                {
+                  "id": "138-uC2W21K3Bbjvd3irBlYdgFhf-SQ07",
+                  "name": "TDMXX02_FCD_KHOẢNG CÁCH GIỮA 2ĐTCN.pdf",
+                  "mimeType": "application/pdf",
+                  "size": 441061,
+                  "webViewLink": "https://drive.google.com/file/d/138-uC2W21K3Bbjvd3irBlYdgFhf-SQ07/view?usp=drivesdk",
+                  "modifiedTime": "2026-04-17T23:23:25.107Z",
+                  "videoMediaMetadata": null
+                }
+              ]
+            },
+            {
+              "id": "1OBPVEiYr7zlVBIut6tWt2ohogGxW94YN",
+              "name": "TDMXX03_Cơ bản về thể tích",
+              "webViewLink": "https://drive.google.com/drive/folders/1OBPVEiYr7zlVBIut6tWt2ohogGxW94YN",
+              "modifiedTime": "2026-04-17T23:22:55.754Z",
+              "children": [
+                {
+                  "id": "1A_XvoJ4sDFvDHNHyY44MWkBWgHg9RSJ2",
+                  "name": "Bài giảng",
+                  "webViewLink": "https://drive.google.com/drive/folders/1A_XvoJ4sDFvDHNHyY44MWkBWgHg9RSJ2",
+                  "modifiedTime": "2026-04-17T23:23:04.679Z",
+                  "children": [],
+                  "files": [
+                    {
+                      "id": "1HmUbALoYmG2iBNqm-mFvbskleMZ3nCqg",
+                      "name": "Bg01. Cơ bản về thể tích.mp4",
+                      "mimeType": "video/mp4",
+                      "size": 596156084,
+                      "webViewLink": "https://drive.google.com/file/d/1HmUbALoYmG2iBNqm-mFvbskleMZ3nCqg/view?usp=drivesdk",
+                      "modifiedTime": "2026-04-17T23:23:05.630Z",
+                      "videoMediaMetadata": {
+                        "width": 1280,
+                        "height": 720,
+                        "durationMillis": "2133159"
+                      }
+                    }
+                  ]
+                },
+                {
+                  "id": "1Osig5YKU0KUuCqaVHYWM3p0_i_lSi9qQ",
+                  "name": "Đề A",
+                  "webViewLink": "https://drive.google.com/drive/folders/1Osig5YKU0KUuCqaVHYWM3p0_i_lSi9qQ",
+                  "modifiedTime": "2026-04-17T23:22:56.676Z",
+                  "children": [],
+                  "files": [
+                    {
+                      "id": "1EusNpdDbM80L3SEOE4WvEIzZQs3AmwCh",
+                      "name": "BVT_LIVE_TDMXX03A_ĐTL_CƠ BẢN VỀ THỂ TÍCH_PHẦN A.pdf",
+                      "mimeType": "application/pdf",
+                      "size": 8024087,
+                      "webViewLink": "https://drive.google.com/file/d/1EusNpdDbM80L3SEOE4WvEIzZQs3AmwCh/view?usp=drivesdk",
+                      "modifiedTime": "2026-04-17T23:23:02.967Z",
+                      "videoMediaMetadata": null
+                    },
+                    {
+                      "id": "1RPcqrQhZpZpkSLNjfSNyh0aavTli8yl-",
+                      "name": "Chữa đề CƠ BẢN VỀ THỂ TÍCH.mp4",
+                      "mimeType": "video/mp4",
+                      "size": 136822881,
+                      "webViewLink": "https://drive.google.com/file/d/1RPcqrQhZpZpkSLNjfSNyh0aavTli8yl-/view?usp=drivesdk",
+                      "modifiedTime": "2026-04-17T23:22:57.584Z",
+                      "videoMediaMetadata": {
+                        "width": 1920,
+                        "height": 1080,
+                        "durationMillis": "3084751"
+                      }
+                    },
+                    {
+                      "id": "1fsgWIJC9FekBL41iprVsOrAWCpQo7Mg0",
+                      "name": "KEY ĐỀ TDMXX03A_ĐTL_THỂ TÍCH HÌNH CHÓP VÀ LĂNG TRỤ_PHẦN A.pdf",
+                      "mimeType": "application/pdf",
+                      "size": 109924,
+                      "webViewLink": "https://drive.google.com/file/d/1fsgWIJC9FekBL41iprVsOrAWCpQo7Mg0/view?usp=drivesdk",
+                      "modifiedTime": "2026-04-17T23:23:01.176Z",
+                      "videoMediaMetadata": null
+                    },
+                    {
+                      "id": "1Oc_W-NSoI07NI02bpn3x_XqalCZ-BZoP",
+                      "name": "ĐỀ TDMXX03A_ĐTL_THỂ TÍCH HÌNH CHÓP VÀ LĂNG TRỤ_PHẦN A.pdf",
+                      "mimeType": "application/pdf",
+                      "size": 269059,
+                      "webViewLink": "https://drive.google.com/file/d/1Oc_W-NSoI07NI02bpn3x_XqalCZ-BZoP/view?usp=drivesdk",
+                      "modifiedTime": "2026-04-17T23:22:59.408Z",
+                      "videoMediaMetadata": null
+                    }
+                  ]
+                }
+              ],
+              "files": [
+                {
+                  "id": "1kiQjs3Z1KDuyiPATJS5ukC4vbZclPUmU",
+                  "name": "TDMXX03_FCD_THỂ TÍCH HÌNH CHÓP VÀ LĂNG TRỤ.pdf",
+                  "mimeType": "application/pdf",
+                  "size": 413362,
+                  "webViewLink": "https://drive.google.com/file/d/1kiQjs3Z1KDuyiPATJS5ukC4vbZclPUmU/view?usp=drivesdk",
+                  "modifiedTime": "2026-04-17T23:23:07.309Z",
+                  "videoMediaMetadata": null
+                }
+              ]
+            },
+            {
+              "id": "1llHTvbAut7ZZe4qmtEIV29OeVcwpYHgw",
+              "name": "TDMXX04_Góc giữa đường thẳng và mặt phẳng",
+              "webViewLink": "https://drive.google.com/drive/folders/1llHTvbAut7ZZe4qmtEIV29OeVcwpYHgw",
+              "modifiedTime": "2026-04-17T23:22:54.842Z",
+              "children": [],
+              "files": []
+            },
+            {
+              "id": "1TIMLU7HoDnuO5fvPIJkmK3Q_QnW7YUOp",
+              "name": "TDMXX04_Tỉ lệ thể tích cốt lõi",
+              "webViewLink": "https://drive.google.com/drive/folders/1TIMLU7HoDnuO5fvPIJkmK3Q_QnW7YUOp",
+              "modifiedTime": "2026-04-26T23:13:25.092Z",
+              "children": [],
+              "files": [
+                {
+                  "id": "10CBQtMmaQULnb-oqtl9-4Y_FAx9x8Zql",
+                  "name": "Bg01. Tỉ lệ thể tích cốt lõi.mp4",
+                  "mimeType": "video/mp4",
+                  "size": 592396460,
+                  "webViewLink": "https://drive.google.com/file/d/10CBQtMmaQULnb-oqtl9-4Y_FAx9x8Zql/view?usp=drivesdk",
+                  "modifiedTime": "2026-04-26T23:13:25.978Z",
+                  "videoMediaMetadata": {
+                    "width": 1920,
+                    "height": 1080,
+                    "durationMillis": "3062266"
+                  }
+                },
+                {
+                  "id": "1xdgZljW5d1MtZnd5oaDjW0bmHv3f8bEk",
+                  "name": "BVT_LIVE_TDMXX04_ĐTL_TỈ LỆ THỂ TÍCH CỐT LÕI_PHẦN A.pdf",
+                  "mimeType": "application/pdf",
+                  "size": 14656552,
+                  "webViewLink": "https://drive.google.com/file/d/1xdgZljW5d1MtZnd5oaDjW0bmHv3f8bEk/view?usp=drivesdk",
+                  "modifiedTime": "2026-05-11T08:31:40.328Z",
+                  "videoMediaMetadata": null
+                },
+                {
+                  "id": "1NamGYH5xOcV87krjWA3Oz0vJMafMHhx5",
+                  "name": "Chữa ĐTL TDMXX04.mp4",
+                  "mimeType": "video/mp4",
+                  "size": 301775026,
+                  "webViewLink": "https://drive.google.com/file/d/1NamGYH5xOcV87krjWA3Oz0vJMafMHhx5/view?usp=drivesdk",
+                  "modifiedTime": "2026-05-11T13:20:48.253Z",
+                  "videoMediaMetadata": null
+                },
+                {
+                  "id": "1PpqEZgMHxia_V87ThWySY32JMDZ2RQvt",
+                  "name": "KEY ĐỀ TDMXX04_ĐTL_TỈ LỆ THỂ TÍCH TRONG CHÓP VÀ LĂNG TRỤ.pdf",
+                  "mimeType": "application/pdf",
+                  "size": 112862,
+                  "webViewLink": "https://drive.google.com/file/d/1PpqEZgMHxia_V87ThWySY32JMDZ2RQvt/view?usp=drivesdk",
+                  "modifiedTime": "2026-05-11T08:31:40.331Z",
+                  "videoMediaMetadata": null
+                },
+                {
+                  "id": "1OzGJFw7JlnIogxm-t_hUrWzzfU0c3AyJ",
+                  "name": "TDMXX04_FGC_TỈ LỆ THỂ TÍCH CỐT LÕI.pdf",
+                  "mimeType": "application/pdf",
+                  "size": 417880,
+                  "webViewLink": "https://drive.google.com/file/d/1OzGJFw7JlnIogxm-t_hUrWzzfU0c3AyJ/view?usp=drivesdk",
+                  "modifiedTime": "2026-04-29T13:59:34.330Z",
+                  "videoMediaMetadata": null
+                },
+                {
+                  "id": "1zXm9FKyseqwvIx77TLIS-l1VEwZ3OTI3",
+                  "name": "ĐỀ TDMXX04_ĐTL_TỈ LỆ THỂ TÍCH TRONG CHÓP VÀ LĂNG TRỤ.pdf",
+                  "mimeType": "application/pdf",
+                  "size": 301825,
+                  "webViewLink": "https://drive.google.com/file/d/1zXm9FKyseqwvIx77TLIS-l1VEwZ3OTI3/view?usp=drivesdk",
+                  "modifiedTime": "2026-04-29T13:59:36.115Z",
+                  "videoMediaMetadata": null
+                }
+              ]
+            },
+            {
+              "id": "1NKdaLZ-jVCb6LKfVqB-IlLP8Fi-E--3M",
+              "name": "TDMXX05_Góc nhị diện",
+              "webViewLink": "https://drive.google.com/drive/folders/1NKdaLZ-jVCb6LKfVqB-IlLP8Fi-E--3M",
+              "modifiedTime": "2026-04-17T23:22:53.985Z",
+              "children": [],
+              "files": [
+                {
+                  "id": "1Ak1U7rZMzAL71W81WbNaBy-znjXDGDQW",
+                  "name": "Bg01. Chinh phục góc nhị diện.mp4",
+                  "mimeType": "video/mp4",
+                  "size": 332509584,
+                  "webViewLink": "https://drive.google.com/file/d/1Ak1U7rZMzAL71W81WbNaBy-znjXDGDQW/view?usp=drivesdk",
+                  "modifiedTime": "2026-04-26T23:13:35.206Z",
+                  "videoMediaMetadata": {
+                    "width": 1920,
+                    "height": 1080,
+                    "durationMillis": "4602300"
+                  }
+                },
+                {
+                  "id": "1BKLUdXxX3UWZ37TnamWHbaGZ2kvdFdfR",
+                  "name": "BVT_LIVE_TDMXX05_ĐTL_CHINH PHỤC GÓC NHỊ DIỆN.pdf",
+                  "mimeType": "application/pdf",
+                  "size": 12522734,
+                  "webViewLink": "https://drive.google.com/file/d/1BKLUdXxX3UWZ37TnamWHbaGZ2kvdFdfR/view?usp=drivesdk",
+                  "modifiedTime": "2026-04-27T16:00:24.133Z",
+                  "videoMediaMetadata": null
+                },
+                {
+                  "id": "1SM5_4G-sMNwMz2D49N4KV4Fug7QDAOqj",
+                  "name": "BVT_TDMXX05_FGC_CHINH PHỤC GÓC NHỊ DIỆN VIP.pdf",
+                  "mimeType": "application/pdf",
+                  "size": 6457236,
+                  "webViewLink": "https://drive.google.com/file/d/1SM5_4G-sMNwMz2D49N4KV4Fug7QDAOqj/view?usp=drivesdk",
+                  "modifiedTime": "2026-04-24T01:31:58.692Z",
+                  "videoMediaMetadata": null
+                },
+                {
+                  "id": "1-NbMIvSiWWUx-GbgPb6fJaFPfBLQz6n2",
+                  "name": "Chữa ĐTL- Chinh phục GÓC NHỊ DIỆN - VIP.mp4",
+                  "mimeType": "video/mp4",
+                  "size": 740343791,
+                  "webViewLink": "https://drive.google.com/file/d/1-NbMIvSiWWUx-GbgPb6fJaFPfBLQz6n2/view?usp=drivesdk",
+                  "modifiedTime": "2026-05-11T13:29:06.652Z",
+                  "videoMediaMetadata": null
+                },
+                {
+                  "id": "11x3eGFhM7qsVB0pddmnBs3yAvEymdA0b",
+                  "name": "KEY ĐỀ TDMXX05_ĐTL_CHINH PHỤC GÓC NHỊ DIỆN.pdf",
+                  "mimeType": "application/pdf",
+                  "size": 110603,
+                  "webViewLink": "https://drive.google.com/file/d/11x3eGFhM7qsVB0pddmnBs3yAvEymdA0b/view?usp=drivesdk",
+                  "modifiedTime": "2026-04-27T16:00:22.531Z",
+                  "videoMediaMetadata": null
+                },
+                {
+                  "id": "1u1dziyxThTqdW4pHX-t2DeCc43DRbNq9",
+                  "name": "TDMXX05_FGC_CHINH PHỤC GÓC NHỊ DIỆN VIP_2027A.pdf",
+                  "mimeType": "application/pdf",
+                  "size": 501001,
+                  "webViewLink": "https://drive.google.com/file/d/1u1dziyxThTqdW4pHX-t2DeCc43DRbNq9/view?usp=drivesdk",
+                  "modifiedTime": "2026-04-24T01:32:00.412Z",
+                  "videoMediaMetadata": null
+                },
+                {
+                  "id": "1Ousv1OkYgiLaNCLKCzOOhmbhhHNSOIcU",
+                  "name": "ĐỀ TDMXX05_ĐTL_CHINH PHỤC GÓC NHỊ DIỆN.pdf",
+                  "mimeType": "application/pdf",
+                  "size": 432903,
+                  "webViewLink": "https://drive.google.com/file/d/1Ousv1OkYgiLaNCLKCzOOhmbhhHNSOIcU/view?usp=drivesdk",
+                  "modifiedTime": "2026-04-24T01:32:02.850Z",
+                  "videoMediaMetadata": null
+                }
+              ]
+            },
+            {
+              "id": "1-yBWA7RDwaO_5cG0_AF8yUeld74jFYfq",
+              "name": "TDMXX06_Cơ bản về đơn điệu của hàm số",
+              "webViewLink": "https://drive.google.com/drive/folders/1-yBWA7RDwaO_5cG0_AF8yUeld74jFYfq",
+              "modifiedTime": "2026-04-17T23:22:35.560Z",
+              "children": [
+                {
+                  "id": "1ZZUL6rx_YLxz-kxhBl6NKmKSsnms48Xw",
+                  "name": "Bài giảng",
+                  "webViewLink": "https://drive.google.com/drive/folders/1ZZUL6rx_YLxz-kxhBl6NKmKSsnms48Xw",
+                  "modifiedTime": "2026-04-17T23:22:47.567Z",
+                  "children": [],
+                  "files": [
+                    {
+                      "id": "11mnvSy2xiznOl-p4q11YQn12CepR0oTF",
+                      "name": "Bg01. Cơ bản về đơn điệu của hàm số.mp4",
+                      "mimeType": "video/mp4",
+                      "size": 3937652104,
+                      "webViewLink": "https://drive.google.com/file/d/11mnvSy2xiznOl-p4q11YQn12CepR0oTF/view?usp=drivesdk",
+                      "modifiedTime": "2026-04-17T23:22:48.584Z",
+                      "videoMediaMetadata": {
+                        "width": 1920,
+                        "height": 1080,
+                        "durationMillis": "7260853"
+                      }
+                    }
+                  ]
+                },
+                {
+                  "id": "1xCTMf63HC2q5m02wB1zLxKGD7HQgNCH3",
+                  "name": "Đề A",
+                  "webViewLink": "https://drive.google.com/drive/folders/1xCTMf63HC2q5m02wB1zLxKGD7HQgNCH3",
+                  "modifiedTime": "2026-04-17T23:22:39.207Z",
+                  "children": [],
+                  "files": [
+                    {
+                      "id": "1dk737p67Hx3jUjMyuNbpg4_2nfeNyrD0",
+                      "name": "BVT_LIVE_TDMXX06A_ĐTL_CƠ BẢN VỀ ĐƠN ĐIỆU CỦA HÀM SỐ_PHẦN A.pdf",
+                      "mimeType": "application/pdf",
+                      "size": 13979815,
+                      "webViewLink": "https://drive.google.com/file/d/1dk737p67Hx3jUjMyuNbpg4_2nfeNyrD0/view?usp=drivesdk",
+                      "modifiedTime": "2026-04-17T23:22:45.750Z",
+                      "videoMediaMetadata": null
+                    },
+                    {
+                      "id": "13jUBz2e9tAltG-UYFfYRWIDLzbp2j3yk",
+                      "name": "Chữa ĐTL TDMXX06A_Cơ bản về đơn điệu_Phần A.mp4",
+                      "mimeType": "video/mp4",
+                      "size": 861854856,
+                      "webViewLink": "https://drive.google.com/file/d/13jUBz2e9tAltG-UYFfYRWIDLzbp2j3yk/view?usp=drivesdk",
+                      "modifiedTime": "2026-04-17T23:22:42.116Z",
+                      "videoMediaMetadata": {
+                        "width": 1920,
+                        "height": 1080,
+                        "durationMillis": "7728300"
+                      }
+                    },
+                    {
+                      "id": "1JGGzMTToYpJyalleOD9nDACoYU2u_Lag",
+                      "name": "KEY ĐỀ TDMXX06A_ĐTL_CƠ BẢN VỀ ĐƠN ĐIỆU CỦA HÀM SỐ_PHẦN A.pdf",
+                      "mimeType": "application/pdf",
+                      "size": 111027,
+                      "webViewLink": "https://drive.google.com/file/d/1JGGzMTToYpJyalleOD9nDACoYU2u_Lag/view?usp=drivesdk",
+                      "modifiedTime": "2026-04-17T23:22:43.941Z",
+                      "videoMediaMetadata": null
+                    },
+                    {
+                      "id": "1sLKTBn1NotBQG0jcMaiLFg1fTRfSnXN_",
+                      "name": "ĐỀ TDMXX06A_ĐTL_CƠ BẢN VỀ ĐƠN ĐIỆU CỦA HÀM SỐ_PHẦN A.pdf",
+                      "mimeType": "application/pdf",
+                      "size": 297215,
+                      "webViewLink": "https://drive.google.com/file/d/1sLKTBn1NotBQG0jcMaiLFg1fTRfSnXN_/view?usp=drivesdk",
+                      "modifiedTime": "2026-04-17T23:22:40.198Z",
+                      "videoMediaMetadata": null
+                    }
+                  ]
+                },
+                {
+                  "id": "1t7tzBL4_jMtFD2W2VASL2jE9LU0lvcZo",
+                  "name": "Đề B",
+                  "webViewLink": "https://drive.google.com/drive/folders/1t7tzBL4_jMtFD2W2VASL2jE9LU0lvcZo",
+                  "modifiedTime": "2026-04-17T23:22:36.599Z",
+                  "children": [],
+                  "files": [
+                    {
+                      "id": "1bM5qmNw69-MaMcPYDU534FlLWd2V6-Ku",
+                      "name": "BVT_LIVE_TDMXX06B_ĐTL_CƠ BẢN VỀ ĐƠN ĐIỆU CỦA HÀM SỐ_PHẦN B.pdf",
+                      "mimeType": "application/pdf",
+                      "size": 8711152,
+                      "webViewLink": "https://drive.google.com/file/d/1bM5qmNw69-MaMcPYDU534FlLWd2V6-Ku/view?usp=drivesdk",
+                      "modifiedTime": "2026-05-21T05:00:27.072Z",
+                      "videoMediaMetadata": null
+                    },
+                    {
+                      "id": "1vHlepMNX08LwwMJYPPtd2W_lH70kKGnw",
+                      "name": "Chữa ĐTL TDMXX06B.mp4",
+                      "mimeType": "video/mp4",
+                      "size": 183521338,
+                      "webViewLink": "https://drive.google.com/file/d/1vHlepMNX08LwwMJYPPtd2W_lH70kKGnw/view?usp=drivesdk",
+                      "modifiedTime": "2026-05-21T05:00:24.190Z",
+                      "videoMediaMetadata": null
+                    },
+                    {
+                      "id": "1nMMUO8GklTbuzQ7LFK1mCVnU5j9rxUfb",
+                      "name": "KEY ĐỀ TDMXX06B_ĐTL_CƠ BẢN VỀ ĐƠN ĐIỆU CỦA HÀM SỐ_PHẦN B.pdf",
+                      "mimeType": "application/pdf",
+                      "size": 110734,
+                      "webViewLink": "https://drive.google.com/file/d/1nMMUO8GklTbuzQ7LFK1mCVnU5j9rxUfb/view?usp=drivesdk",
+                      "modifiedTime": "2026-05-21T05:00:25.518Z",
+                      "videoMediaMetadata": null
+                    },
+                    {
+                      "id": "1gYwKXJ6uJiYHxD1HR_f0r3KID-X-D5rt",
+                      "name": "ĐỀ TDMXX06B_ĐTL_CƠ BẢN VỀ ĐƠN ĐIỆU CỦA HÀM SỐ_PHẦN B.pdf",
+                      "mimeType": "application/pdf",
+                      "size": 319018,
+                      "webViewLink": "https://drive.google.com/file/d/1gYwKXJ6uJiYHxD1HR_f0r3KID-X-D5rt/view?usp=drivesdk",
+                      "modifiedTime": "2026-04-17T23:22:37.480Z",
+                      "videoMediaMetadata": null
+                    }
+                  ]
+                }
+              ],
+              "files": [
+                {
+                  "id": "1ZEwDCqisQvgh3h3hdW2sDdLKtFSI2rmp",
+                  "name": "BVT_TDMXX06_FGC_CƠ BẢN ĐƠN ĐIỆU HÀM SỐ.pdf",
+                  "mimeType": "application/pdf",
+                  "size": 16922525,
+                  "webViewLink": "https://drive.google.com/file/d/1ZEwDCqisQvgh3h3hdW2sDdLKtFSI2rmp/view?usp=drivesdk",
+                  "modifiedTime": "2026-04-17T23:22:52.142Z",
+                  "videoMediaMetadata": null
+                },
+                {
+                  "id": "1otJSuA8IXrQ6gzR33nMrMvohEl3hi6l2",
+                  "name": "TDMXX06_FGC_CƠ BẢN ĐƠN ĐIỆU HÀM SỐ.pdf",
+                  "mimeType": "application/pdf",
+                  "size": 464268,
+                  "webViewLink": "https://drive.google.com/file/d/1otJSuA8IXrQ6gzR33nMrMvohEl3hi6l2/view?usp=drivesdk",
+                  "modifiedTime": "2026-04-17T23:22:50.351Z",
+                  "videoMediaMetadata": null
+                }
+              ]
+            },
+            {
+              "id": "1mwgtq5j_wZ5ceI0nIvra_azU4HY-fUrC",
+              "name": "TDMXX07_Mở rộng đơn điệu của hàm số",
+              "webViewLink": "https://drive.google.com/drive/folders/1mwgtq5j_wZ5ceI0nIvra_azU4HY-fUrC",
+              "modifiedTime": "2026-04-17T23:22:24.317Z",
+              "children": [
+                {
+                  "id": "1ukQQ7vKY2ZWfyrRu-1c06IQOhHqw0cgR",
+                  "name": "Bài giảng",
+                  "webViewLink": "https://drive.google.com/drive/folders/1ukQQ7vKY2ZWfyrRu-1c06IQOhHqw0cgR",
+                  "modifiedTime": "2026-04-17T23:22:25.295Z",
+                  "children": [],
+                  "files": [
+                    {
+                      "id": "1ijvhbaghhU0hE5Emrm9WtkcodoPfAOME",
+                      "name": "Bg01. Ứng dụng KSHS để giải PT BPT.mp4",
+                      "mimeType": "video/mp4",
+                      "size": 243986400,
+                      "webViewLink": "https://drive.google.com/file/d/1ijvhbaghhU0hE5Emrm9WtkcodoPfAOME/view?usp=drivesdk",
+                      "modifiedTime": "2026-04-17T23:22:28.195Z",
+                      "videoMediaMetadata": {
+                        "width": 858,
+                        "height": 480,
+                        "durationMillis": "1630829"
+                      }
+                    },
+                    {
+                      "id": "1DjCFvbvlHL-kp7_sx8SHz5OAUSw9dDyF",
+                      "name": "Bg02. Mở rộng đơn điệu.mp4",
+                      "mimeType": "video/mp4",
+                      "size": 214016944,
+                      "webViewLink": "https://drive.google.com/file/d/1DjCFvbvlHL-kp7_sx8SHz5OAUSw9dDyF/view?usp=drivesdk",
+                      "modifiedTime": "2026-04-17T23:22:26.272Z",
+                      "videoMediaMetadata": {
+                        "width": 1280,
+                        "height": 720,
+                        "durationMillis": "5490000"
+                      }
+                    }
+                  ]
+                }
+              ],
+              "files": [
+                {
+                  "id": "12hZ9wGHux8Y2jxsXQdh5wdQ_HSJhybXb",
+                  "name": "KEY ĐỀ TDMXX07_ĐTL_MỞ RỘNG ĐƠN ĐIỆU HÀM SỐ_PB123.pdf",
+                  "mimeType": "application/pdf",
+                  "size": 111799,
+                  "webViewLink": "https://drive.google.com/file/d/12hZ9wGHux8Y2jxsXQdh5wdQ_HSJhybXb/view?usp=drivesdk",
+                  "modifiedTime": "2026-04-17T23:22:32.039Z",
+                  "videoMediaMetadata": null
+                },
+                {
+                  "id": "1eHBsEsdAw6UojeVNSaDOlYxL_WYC7WOh",
+                  "name": "TDMXX07_FGC_MỞ RỘNG ĐƠN ĐIỆU CỦA HÀM SỐ.pdf",
+                  "mimeType": "application/pdf",
+                  "size": 443155,
+                  "webViewLink": "https://drive.google.com/file/d/1eHBsEsdAw6UojeVNSaDOlYxL_WYC7WOh/view?usp=drivesdk",
+                  "modifiedTime": "2026-04-17T23:22:33.794Z",
+                  "videoMediaMetadata": null
+                },
+                {
+                  "id": "16vsg1h8Al0Mc-Z5Vs23DxUzYCIJd-Rk8",
+                  "name": "ĐỀ TDMXX07_ĐTL_MỞ RỘNG ĐƠN ĐIỆU HÀM SỐ_PB123.pdf",
+                  "mimeType": "application/pdf",
+                  "size": 268037,
+                  "webViewLink": "https://drive.google.com/file/d/16vsg1h8Al0Mc-Z5Vs23DxUzYCIJd-Rk8/view?usp=drivesdk",
+                  "modifiedTime": "2026-04-17T23:22:29.894Z",
+                  "videoMediaMetadata": null
+                }
+              ]
+            },
+            {
+              "id": "1HD3JWErc-h2LLUaqCppEwBVDJiLHdOZc",
+              "name": "TDMXX08_Đơn điệu hàm số liên quan tới lượng giác",
+              "webViewLink": "https://drive.google.com/drive/folders/1HD3JWErc-h2LLUaqCppEwBVDJiLHdOZc",
+              "modifiedTime": "2026-04-17T23:22:23.380Z",
+              "children": [],
+              "files": [
+                {
+                  "id": "1aRd_KSuWpt7cIZRzClQkxGNNpghoml8o",
+                  "name": "Bg01. Đơn điệu liên quan tới hàm lượng giác.mp4",
+                  "mimeType": "video/mp4",
+                  "size": 207341816,
+                  "webViewLink": "https://drive.google.com/file/d/1aRd_KSuWpt7cIZRzClQkxGNNpghoml8o/view?usp=drivesdk",
+                  "modifiedTime": "2026-04-26T23:13:28.291Z",
+                  "videoMediaMetadata": {
+                    "width": 1920,
+                    "height": 1080,
+                    "durationMillis": "3209866"
+                  }
+                },
+                {
+                  "id": "1cZS4idjs4-GvyH3dA7-MoSJDELo-RSvB",
+                  "name": "TDMXX08_FGC_ĐƠN ĐIỆU LIÊN QUAN TỚI HÀM LƯỢNG GIÁC.pdf",
+                  "mimeType": "application/pdf",
+                  "size": 406842,
+                  "webViewLink": "https://drive.google.com/file/d/1cZS4idjs4-GvyH3dA7-MoSJDELo-RSvB/view?usp=drivesdk",
+                  "modifiedTime": "2026-05-04T13:59:43.779Z",
+                  "videoMediaMetadata": null
+                },
+                {
+                  "id": "1EdK6O_LC6pTFYmaHNV9WWU1tEoRhnThq",
+                  "name": "ĐỀ TDMXX08_ĐTL_ĐƠN ĐIỆU LIÊN QUIAN TỚI HÀM LƯỢNG GIÁC.pdf",
+                  "mimeType": "application/pdf",
+                  "size": 253759,
+                  "webViewLink": "https://drive.google.com/file/d/1EdK6O_LC6pTFYmaHNV9WWU1tEoRhnThq/view?usp=drivesdk",
+                  "modifiedTime": "2026-05-04T13:59:42.047Z",
+                  "videoMediaMetadata": null
+                }
+              ]
+            },
+            {
+              "id": "1ED1jhRBSiMmXBvyRYDNWamv2qL-rNoZw",
+              "name": "TDMXX09_Cơ bản về cực trị của hàm số",
+              "webViewLink": "https://drive.google.com/drive/folders/1ED1jhRBSiMmXBvyRYDNWamv2qL-rNoZw",
+              "modifiedTime": "2026-05-18T01:50:53.723Z",
+              "children": [],
+              "files": [
+                {
+                  "id": "1vrnCKPU2UX2bJB9f6QtaRpVPCkGoYxgP",
+                  "name": "Bg01. Cơ bản cực trị hàm số.mp4",
+                  "mimeType": "video/mp4",
+                  "size": 495146273,
+                  "webViewLink": "https://drive.google.com/file/d/1vrnCKPU2UX2bJB9f6QtaRpVPCkGoYxgP/view?usp=drivesdk",
+                  "modifiedTime": "2026-05-18T01:52:05.081Z",
+                  "videoMediaMetadata": {
+                    "width": 1920,
+                    "height": 1080,
+                    "durationMillis": "3313333"
+                  }
+                },
+                {
+                  "id": "1ODI0Y58trRbn00xL_SJ2I6BLv4iYb4bl",
+                  "name": "Chữa ĐTL TDMXX09A_Cơ bản về cực trị_Phần A.mp4",
+                  "mimeType": "video/mp4",
+                  "size": 598793267,
+                  "webViewLink": "https://drive.google.com/file/d/1ODI0Y58trRbn00xL_SJ2I6BLv4iYb4bl/view?usp=drivesdk",
+                  "modifiedTime": "2026-05-18T01:53:57.402Z",
+                  "videoMediaMetadata": null
+                },
+                {
+                  "id": "129R8cw2kYoFyZ-6_hkY0CZpX60A6Jbw4",
+                  "name": "TDMXX09_FGC_CƠ BẢN VỀ CỰC TRỊ CỦA HÀM SỐ.pdf",
+                  "mimeType": "application/pdf",
+                  "size": 441473,
+                  "webViewLink": "https://drive.google.com/file/d/129R8cw2kYoFyZ-6_hkY0CZpX60A6Jbw4/view?usp=drivesdk",
+                  "modifiedTime": "2026-05-18T01:53:59.730Z",
+                  "videoMediaMetadata": null
+                },
+                {
+                  "id": "1qvEtXxJ6Gb5q4GAD46c97O_uNz310-Lb",
+                  "name": "ĐỀ TDMXX09A_ĐTL_CƠ BẢN CỰC TRỊ HÀM SỐ_PHẦN A.pdf",
+                  "mimeType": "application/pdf",
+                  "size": 300051,
+                  "webViewLink": "https://drive.google.com/file/d/1qvEtXxJ6Gb5q4GAD46c97O_uNz310-Lb/view?usp=drivesdk",
+                  "modifiedTime": "2026-05-18T01:53:58.199Z",
+                  "videoMediaMetadata": null
+                },
+                {
+                  "id": "14eb5kotyyjF684Ck6E5DdgYwONUexUgN",
+                  "name": "ĐỀ TDMXX09B_ĐTL_CƠ BẢN CỰC TRỊ HÀM SỐ_PHẦN B.pdf",
+                  "mimeType": "application/pdf",
+                  "size": 363478,
+                  "webViewLink": "https://drive.google.com/file/d/14eb5kotyyjF684Ck6E5DdgYwONUexUgN/view?usp=drivesdk",
+                  "modifiedTime": "2026-05-18T01:54:06.501Z",
+                  "videoMediaMetadata": null
+                }
+              ]
+            },
+            {
+              "id": "1twdpwGU26rFwooMoJX5JUWfsqmX7MDyn",
+              "name": "TDMXX10_Nâng cao nhẹ về cực trị phần 01",
+              "webViewLink": "https://drive.google.com/drive/folders/1twdpwGU26rFwooMoJX5JUWfsqmX7MDyn",
+              "modifiedTime": "2026-05-18T01:48:46.868Z",
+              "children": [],
+              "files": [
+                {
+                  "id": "1Lj_JCqAkxeWdcK2-RdLb_r__zRO-mUuw",
+                  "name": "BVT_TDMXX10_FGC_NÂNG CAO NHẸ CỰC TRỊ HÀM SỐ.pdf",
+                  "mimeType": "application/pdf",
+                  "size": 11904497,
+                  "webViewLink": "https://drive.google.com/file/d/1Lj_JCqAkxeWdcK2-RdLb_r__zRO-mUuw/view?usp=drivesdk",
+                  "modifiedTime": "2026-05-21T05:00:04.438Z",
+                  "videoMediaMetadata": null
+                },
+                {
+                  "id": "1YP__jtUaWhRGp6fbJiWtaYR_mQfmRZvK",
+                  "name": "TDMXX10_FGC_NÂNG CAO NHẸ CỰC TRỊ HÀM SỐ.pdf",
+                  "mimeType": "application/pdf",
+                  "size": 460554,
+                  "webViewLink": "https://drive.google.com/file/d/1YP__jtUaWhRGp6fbJiWtaYR_mQfmRZvK/view?usp=drivesdk",
+                  "modifiedTime": "2026-05-18T01:50:51.564Z",
+                  "videoMediaMetadata": null
+                },
+                {
+                  "id": "15jNxbVxGulyidcC1rWxz0Cjz1iPeXa_J",
+                  "name": "TDMXX10_Nâng cao nhẹ về cực trị phần 01.mp4",
+                  "mimeType": "video/mp4",
+                  "size": 676887312,
+                  "webViewLink": "https://drive.google.com/file/d/15jNxbVxGulyidcC1rWxz0Cjz1iPeXa_J/view?usp=drivesdk",
+                  "modifiedTime": "2026-05-18T01:50:50.633Z",
+                  "videoMediaMetadata": {
+                    "width": 1920,
+                    "height": 1080,
+                    "durationMillis": "6405499"
+                  }
+                },
+                {
+                  "id": "1f7RVA4XDS1ALc2u2yS3HKonFPE_EmxNA",
+                  "name": "ĐỀ TDMXX10_ĐTL_NÂNG CAO NHẸ CỰC TRỊ HÀM SỐ.pdf",
+                  "mimeType": "application/pdf",
+                  "size": 272580,
+                  "webViewLink": "https://drive.google.com/file/d/1f7RVA4XDS1ALc2u2yS3HKonFPE_EmxNA/view?usp=drivesdk",
+                  "modifiedTime": "2026-05-21T05:00:06.189Z",
+                  "videoMediaMetadata": null
+                }
+              ]
+            },
+            {
+              "id": "1bZxEyaq5vuLm5l6eMs4uh3qucrJR8bvi",
+              "name": "TDMXX11_Nâng cao nhẹ cực trị 02",
+              "webViewLink": "https://drive.google.com/drive/folders/1bZxEyaq5vuLm5l6eMs4uh3qucrJR8bvi",
+              "modifiedTime": "2026-05-23T11:55:11.607Z",
+              "children": [],
+              "files": [
+                {
+                  "id": "1DVL330lgyh3yHmbv0jiiBpTzyxx4t8oZ",
+                  "name": "BVT_TDMXX11_FGC_NÂNG CAO NHẸ CỰC TRỊ HÀM SỐ 02 3.pdf",
+                  "mimeType": "application/pdf",
+                  "size": 8826435,
+                  "webViewLink": "https://drive.google.com/file/d/1DVL330lgyh3yHmbv0jiiBpTzyxx4t8oZ/view?usp=drivesdk",
+                  "modifiedTime": "2026-05-23T11:55:12.491Z",
+                  "videoMediaMetadata": null
+                },
+                {
+                  "id": "1CEfWEoKgn17hCfjTcZywkaHIdFo4kFAO",
+                  "name": "Dạy TDMXX11_Nâng cao nhẹ cực trị_Phần 02.mp4",
+                  "mimeType": "video/mp4",
+                  "size": 451614339,
+                  "webViewLink": "https://drive.google.com/file/d/1CEfWEoKgn17hCfjTcZywkaHIdFo4kFAO/view?usp=drivesdk",
+                  "modifiedTime": "2026-05-23T11:55:12.490Z",
+                  "videoMediaMetadata": {
+                    "width": 1920,
+                    "height": 1080,
+                    "durationMillis": "4266899"
+                  }
+                },
+                {
+                  "id": "1V49zlNeXht0VJrhRxKMW4fWKgnGPzb6A",
+                  "name": "TDMXX11_FGC_NÂNG CAO NHẸ CỰC TRỊ HÀM SỐ 02.pdf",
+                  "mimeType": "application/pdf",
+                  "size": 428691,
+                  "webViewLink": "https://drive.google.com/file/d/1V49zlNeXht0VJrhRxKMW4fWKgnGPzb6A/view?usp=drivesdk",
+                  "modifiedTime": "2026-05-23T11:55:12.493Z",
+                  "videoMediaMetadata": null
+                },
+                {
+                  "id": "10_uhciHxc5kWPUgbj10OlFUs1udGED8K",
+                  "name": "ĐỀ TDMXX11_ĐTL_NÂNG CAO NHẸ CỰC TRỊ HÀM SỐ 02.pdf",
+                  "mimeType": "application/pdf",
+                  "size": 256731,
+                  "webViewLink": "https://drive.google.com/file/d/10_uhciHxc5kWPUgbj10OlFUs1udGED8K/view?usp=drivesdk",
+                  "modifiedTime": "2026-05-23T11:55:12.501Z",
+                  "videoMediaMetadata": null
+                }
+              ]
+            }
+          ],
+          "files": []
+        },
+        {
+          "id": "1F1MXdh6g_STZJXVC-a6WuOr3yoEAh2yt",
+          "name": "1.2 TDMXR2027 - Nền tảng vận dụng Toán thực tế",
+          "webViewLink": "https://drive.google.com/drive/folders/1F1MXdh6g_STZJXVC-a6WuOr3yoEAh2yt",
+          "modifiedTime": "2026-04-17T14:00:00.212Z",
+          "children": [
+            {
+              "id": "1ICcuO1B2XT42mTa6aWyg5WwWBe9EWLHr",
+              "name": "TDMXR16_Một số BT ứng dụng KS và vẽ đồ thị HS",
+              "webViewLink": "https://drive.google.com/drive/folders/1ICcuO1B2XT42mTa6aWyg5WwWBe9EWLHr",
+              "modifiedTime": "2026-05-18T01:48:35.164Z",
+              "children": [],
+              "files": [
+                {
+                  "id": "1Ed0IBBc_q8AUjAHy0vRyeVo4YI0FjOq4",
+                  "name": "Bg01. Ứng dụng KSĐTHS vào một số BT thực tiễn.mp4",
+                  "mimeType": "video/mp4",
+                  "size": 440919032,
+                  "webViewLink": "https://drive.google.com/file/d/1Ed0IBBc_q8AUjAHy0vRyeVo4YI0FjOq4/view?usp=drivesdk",
+                  "modifiedTime": "2026-05-18T01:48:43.522Z",
+                  "videoMediaMetadata": null
+                },
+                {
+                  "id": "11bZgKFSePt56NleZuo7XSfQ2PUDYQrNA",
+                  "name": "TDMXR16_FGC_ỨNG DỤNG ĐTHS VÀO MỘT SỐ BT THỰC TIỄN.pdf",
+                  "mimeType": "application/pdf",
+                  "size": 443288,
+                  "webViewLink": "https://drive.google.com/file/d/11bZgKFSePt56NleZuo7XSfQ2PUDYQrNA/view?usp=drivesdk",
+                  "modifiedTime": "2026-05-18T01:48:38.667Z",
+                  "videoMediaMetadata": null
+                },
+                {
+                  "id": "1hHN1MDkE8mUQWEGpAL2_KkqARiXePgNy",
+                  "name": "ĐỀ TDMXR16_ĐTL_ỨNG DỤNG KSĐTHS VÀO MỘT SỐ BT THỰC TIỄN_PB12.pdf",
+                  "mimeType": "application/pdf",
+                  "size": 419062,
+                  "webViewLink": "https://drive.google.com/file/d/1hHN1MDkE8mUQWEGpAL2_KkqARiXePgNy/view?usp=drivesdk",
+                  "modifiedTime": "2026-05-18T01:48:40.579Z",
+                  "videoMediaMetadata": null
+                }
+              ]
+            }
+          ],
+          "files": []
+        },
+        {
+          "id": "1PgFej8XPMCfuszTzS8I89PgbFZRROJYJ",
+          "name": "1.3 TDMXV2027 - Nền tảng vận dụng THXSTK",
+          "webViewLink": "https://drive.google.com/drive/folders/1PgFej8XPMCfuszTzS8I89PgbFZRROJYJ",
+          "modifiedTime": "2026-04-17T13:59:59.318Z",
+          "children": [],
+          "files": []
+        }
+      ],
+      "files": [],
+      "webViewLink": "https://drive.google.com/drive/folders/1OXXj11oruRJfViKBYh2OWPiCo3sGTV_T",
+      "modifiedTime": "2026-04-17T16:31:12.133Z"
+    },
+    {
+      "id": "1zEYO6yXG7zPK6Lpq76Mx9dmonY01Ew9D",
+      "name": "2. KHOÁ TDMY 2027 CHINH PHỤC TINH HOA VẬN DỤNG CAO TOÁN 9+",
+      "children": [
+        {
+          "id": "1b6fO_B_w_miUTIKvB9giQV7mC3yG1qzf",
+          "name": "2.1 TDMYY2027 - VDC Thuần tuý",
+          "webViewLink": "https://drive.google.com/drive/folders/1b6fO_B_w_miUTIKvB9giQV7mC3yG1qzf",
+          "modifiedTime": "2026-04-17T13:59:57.378Z",
+          "children": [
+            {
+              "id": "1QDsMBWJsg2BjZx4GT1d87YjmsyacJkrw",
+              "name": "TDMYY001_KN triển khai góc giữa 2CĐ1TD",
+              "webViewLink": "https://drive.google.com/drive/folders/1QDsMBWJsg2BjZx4GT1d87YjmsyacJkrw",
+              "modifiedTime": "2026-04-19T03:40:52.945Z",
+              "children": [],
+              "files": [
+                {
+                  "id": "1PtRVBmnEROXioUFrgKvydHYhNV-f0UVz",
+                  "name": "Bg01_KN triển khai góc giữa 2CĐTD.mp4",
+                  "mimeType": "video/mp4",
+                  "size": 83249408,
+                  "webViewLink": "https://drive.google.com/file/d/1PtRVBmnEROXioUFrgKvydHYhNV-f0UVz/view?usp=drivesdk",
+                  "modifiedTime": "2026-04-19T03:40:56.986Z",
+                  "videoMediaMetadata": {
+                    "width": 1280,
+                    "height": 720,
+                    "durationMillis": "2174366"
+                  }
+                },
+                {
+                  "id": "13RfIVfkyJVbFNmMYyw-f3LhvZTAlRDoB",
+                  "name": "BVT_LIVE_TDM11Y26_ĐTL_KN TRIỂN KHAI GÓC GIỮA 2CĐTD.pdf",
+                  "mimeType": "application/pdf",
+                  "size": 4285875,
+                  "webViewLink": "https://drive.google.com/file/d/13RfIVfkyJVbFNmMYyw-f3LhvZTAlRDoB/view?usp=drivesdk",
+                  "modifiedTime": "2026-04-19T03:40:54.130Z",
+                  "videoMediaMetadata": null
+                },
+                {
+                  "id": "1_6Z1QGqAfuLE1K-wHW2ZN5yYFIqLDdXw",
+                  "name": "KEY ĐỀ TDMYY001_ĐTL_KN TRIỂN KHAI GÓC GIỮA 2CĐ1TD_2027A.pdf",
+                  "mimeType": "application/pdf",
+                  "size": 109473,
+                  "webViewLink": "https://drive.google.com/file/d/1_6Z1QGqAfuLE1K-wHW2ZN5yYFIqLDdXw/view?usp=drivesdk",
+                  "modifiedTime": "2026-04-19T03:41:01.483Z",
+                  "videoMediaMetadata": null
+                },
+                {
+                  "id": "1i92ITJUKj7mizKiaQfeKlqq-J-YU745B",
+                  "name": "LIVE CHỮA - TDM11Y26_KN triển khai góc giữ 2 cạnh đối 1 tứ diện.mp4",
+                  "mimeType": "video/mp4",
+                  "size": 47055445,
+                  "webViewLink": "https://drive.google.com/file/d/1i92ITJUKj7mizKiaQfeKlqq-J-YU745B/view?usp=drivesdk",
+                  "modifiedTime": "2026-04-19T03:40:55.581Z",
+                  "videoMediaMetadata": {
+                    "width": 1276,
+                    "height": 720,
+                    "durationMillis": "1545812"
+                  }
+                },
+                {
+                  "id": "1tLmGLgxnU0BoLhmL1dGbUVKZFVziKQEm",
+                  "name": "TDMYY001_FGC_KN TRIỂN KHAI GÓC GIỮA 2CĐ1TD.pdf",
+                  "mimeType": "application/pdf",
+                  "size": 410377,
+                  "webViewLink": "https://drive.google.com/file/d/1tLmGLgxnU0BoLhmL1dGbUVKZFVziKQEm/view?usp=drivesdk",
+                  "modifiedTime": "2026-04-19T03:40:59.919Z",
+                  "videoMediaMetadata": null
+                },
+                {
+                  "id": "1D1xknVUf--ZhV3XA1DX_44_k306eFn2d",
+                  "name": "ĐỀ TDMYY001_ĐTL_KN TRIỂN KHAI GÓC GIỮA 2CĐ1TD_2027A.pdf",
+                  "mimeType": "application/pdf",
+                  "size": 253031,
+                  "webViewLink": "https://drive.google.com/file/d/1D1xknVUf--ZhV3XA1DX_44_k306eFn2d/view?usp=drivesdk",
+                  "modifiedTime": "2026-04-19T03:40:58.462Z",
+                  "videoMediaMetadata": null
+                }
+              ]
+            },
+            {
+              "id": "17aO3SzUEsJzf6phIho_iY9mEZWjJdeM-",
+              "name": "TDMYY002_KN triển khai CT GKC01_GKC02",
+              "webViewLink": "https://drive.google.com/drive/folders/17aO3SzUEsJzf6phIho_iY9mEZWjJdeM-",
+              "modifiedTime": "2026-04-19T03:40:43.274Z",
+              "children": [],
+              "files": [
+                {
+                  "id": "1nRDL2MGUjxzTCLVXiocZuVEZvaHy0wt1",
+                  "name": "Bg. Kỹ năng triển khai công thức tính nhanh Góc từ Khoảng Cách Vip.mp4",
+                  "mimeType": "video/mp4",
+                  "size": 364877363,
+                  "webViewLink": "https://drive.google.com/file/d/1nRDL2MGUjxzTCLVXiocZuVEZvaHy0wt1/view?usp=drivesdk",
+                  "modifiedTime": "2026-04-19T03:40:45.689Z",
+                  "videoMediaMetadata": {
+                    "width": 1280,
+                    "height": 720,
+                    "durationMillis": "3088418"
+                  }
+                },
+                {
+                  "id": "1541K3uQt2VvhE9NE_mo51mocgzrVYNLe",
+                  "name": "BVT_LIVE_TDMYY002_ĐTL_ĐTL_KN TRIỂN KHAI CT GKC01_GKC02_2027A.pdf",
+                  "mimeType": "application/pdf",
+                  "size": 6333672,
+                  "webViewLink": "https://drive.google.com/file/d/1541K3uQt2VvhE9NE_mo51mocgzrVYNLe/view?usp=drivesdk",
+                  "modifiedTime": "2026-04-19T03:40:51.581Z",
+                  "videoMediaMetadata": null
+                },
+                {
+                  "id": "1prxm_R3mjVh1lmAry_zCkw-tk0_cPdnM",
+                  "name": "Chữa ĐTL TDM11Y27_KN triển khai CT GKC01_GKC02.mp4",
+                  "mimeType": "video/mp4",
+                  "size": 127380926,
+                  "webViewLink": "https://drive.google.com/file/d/1prxm_R3mjVh1lmAry_zCkw-tk0_cPdnM/view?usp=drivesdk",
+                  "modifiedTime": "2026-04-19T03:40:44.167Z",
+                  "videoMediaMetadata": {
+                    "width": 1920,
+                    "height": 1080,
+                    "durationMillis": "2710744"
+                  }
+                },
+                {
+                  "id": "1oE1gq159I_v27FRYmpvqf2Dot8nwsoYc",
+                  "name": "KEY ĐỀ TDMYY002_ĐTL_KN TRIỂN KHAI CT GKC01_GKC02_2027A.pdf",
+                  "mimeType": "application/pdf",
+                  "size": 109470,
+                  "webViewLink": "https://drive.google.com/file/d/1oE1gq159I_v27FRYmpvqf2Dot8nwsoYc/view?usp=drivesdk",
+                  "modifiedTime": "2026-04-19T03:40:47.176Z",
+                  "videoMediaMetadata": null
+                },
+                {
+                  "id": "1sP3Z8i4qd8MFSZv3MQ-AZ73kkbLoha66",
+                  "name": "TDMYY002_FGC_KN TRIỂN KHAI CT GKC01_GKC02.pdf",
+                  "mimeType": "application/pdf",
+                  "size": 441014,
+                  "webViewLink": "https://drive.google.com/file/d/1sP3Z8i4qd8MFSZv3MQ-AZ73kkbLoha66/view?usp=drivesdk",
+                  "modifiedTime": "2026-04-19T03:40:50.072Z",
+                  "videoMediaMetadata": null
+                },
+                {
+                  "id": "1IH77cfroME1eUxIITF5XJcJDefypWsxA",
+                  "name": "ĐỀ TDMYY002_ĐTL_KN TRIỂN KHAI CT GKC01_GKC02_2027A.pdf",
+                  "mimeType": "application/pdf",
+                  "size": 259022,
+                  "webViewLink": "https://drive.google.com/file/d/1IH77cfroME1eUxIITF5XJcJDefypWsxA/view?usp=drivesdk",
+                  "modifiedTime": "2026-04-19T03:40:48.603Z",
+                  "videoMediaMetadata": null
+                }
+              ]
+            },
+            {
+              "id": "1lHxy0S6CSGr19kB5qYppO65H6noytSJF",
+              "name": "TDMYY003_KN định vị chân đường cao Level3",
+              "webViewLink": "https://drive.google.com/drive/folders/1lHxy0S6CSGr19kB5qYppO65H6noytSJF",
+              "modifiedTime": "2026-05-04T13:59:32.724Z",
+              "children": [],
+              "files": [
+                {
+                  "id": "1OLF4VfdHPZMkEc-A-cP94vsCfmQ8MS_p",
+                  "name": "BVT_LIVE_TDMYY03_ĐTL_KN ĐỊNH VỊ CHÂN ĐƯỜNG CAO_2027A 2.pdf",
+                  "mimeType": "application/pdf",
+                  "size": 13642675,
+                  "webViewLink": "https://drive.google.com/file/d/1OLF4VfdHPZMkEc-A-cP94vsCfmQ8MS_p/view?usp=drivesdk",
+                  "modifiedTime": "2026-05-07T01:26:12.285Z",
+                  "videoMediaMetadata": null
+                },
+                {
+                  "id": "1sAehH9Mj6Etv7fISdup4T0hkQRPd6UNB",
+                  "name": "Chữa ĐTL TDMYY003_Kĩ năng định vị chân đường cao Level 3.mp4",
+                  "mimeType": "video/mp4",
+                  "size": 280478554,
+                  "webViewLink": "https://drive.google.com/file/d/1sAehH9Mj6Etv7fISdup4T0hkQRPd6UNB/view?usp=drivesdk",
+                  "modifiedTime": "2026-05-07T01:26:09.239Z",
+                  "videoMediaMetadata": null
+                },
+                {
+                  "id": "1pNn1C5QKfJUPyldC-xhby3y7YjfgsUG0",
+                  "name": "KEY ĐỀ TDMYY003_ĐTL_KN ĐỊNH VỊ CHÂN ĐƯỜNG CAO_2027A.pdf",
+                  "mimeType": "application/pdf",
+                  "size": 111517,
+                  "webViewLink": "https://drive.google.com/file/d/1pNn1C5QKfJUPyldC-xhby3y7YjfgsUG0/view?usp=drivesdk",
+                  "modifiedTime": "2026-05-07T01:26:13.838Z",
+                  "videoMediaMetadata": null
+                },
+                {
+                  "id": "1BoQCT4KOBz6ywYgishQKvXr9w-yQN5i9",
+                  "name": "Kĩ năng định vị chân đường cao.mp4",
+                  "mimeType": "video/mp4",
+                  "size": 1823229480,
+                  "webViewLink": "https://drive.google.com/file/d/1BoQCT4KOBz6ywYgishQKvXr9w-yQN5i9/view?usp=drivesdk",
+                  "modifiedTime": "2026-05-07T01:26:10.731Z",
+                  "videoMediaMetadata": {
+                    "width": 1920,
+                    "height": 1080,
+                    "durationMillis": "6755300"
+                  }
+                },
+                {
+                  "id": "1wJsXnPE17FFu9-fQ4P1uzFKeHCXeW3Jj",
+                  "name": "TDMYY03_FCD_KN ĐỊNH VỊ CHÂN ĐƯỜNG CAO.pdf",
+                  "mimeType": "application/pdf",
+                  "size": 422202,
+                  "webViewLink": "https://drive.google.com/file/d/1wJsXnPE17FFu9-fQ4P1uzFKeHCXeW3Jj/view?usp=drivesdk",
+                  "modifiedTime": "2026-05-07T01:26:17.375Z",
+                  "videoMediaMetadata": null
+                },
+                {
+                  "id": "174snUB2gCtsueqHBxgwO5ficVRAaAWsG",
+                  "name": "ĐỀ TDMYY03_ĐTL_KN ĐỊNH VỊ CHÂN ĐƯỜNG CAO_2027A.pdf",
+                  "mimeType": "application/pdf",
+                  "size": 280282,
+                  "webViewLink": "https://drive.google.com/file/d/174snUB2gCtsueqHBxgwO5ficVRAaAWsG/view?usp=drivesdk",
+                  "modifiedTime": "2026-05-07T01:26:15.402Z",
+                  "videoMediaMetadata": null
+                }
+              ]
+            },
+            {
+              "id": "1AM9v16WKJEDxwSTmNB1ynLCXuYWmAlP0",
+              "name": "TDMYY004_CT tính nhanh thể tích nâng cao",
+              "webViewLink": "https://drive.google.com/drive/folders/1AM9v16WKJEDxwSTmNB1ynLCXuYWmAlP0",
+              "modifiedTime": "2026-04-19T03:40:24.343Z",
+              "children": [],
+              "files": [
+                {
+                  "id": "1erp70dsyOa3xnJmO6ZwQfl-bxcovPMeH",
+                  "name": "BVT_LIVE_TDMYY004_ĐTL_ĐTL_KN TRIỂN KHAI CT TÍNH THỂ TÍCH NÂNG CAO_2027A.pdf",
+                  "mimeType": "application/pdf",
+                  "size": 8802347,
+                  "webViewLink": "https://drive.google.com/file/d/1erp70dsyOa3xnJmO6ZwQfl-bxcovPMeH/view?usp=drivesdk",
+                  "modifiedTime": "2026-04-19T03:40:29.523Z",
+                  "videoMediaMetadata": null
+                },
+                {
+                  "id": "1J0PVI_qldR-5bOobKWATdruNsXxE3Llu",
+                  "name": "Chữa ĐTL TDM11Y29_Công thức tính thể tích nâng cao.mp4",
+                  "mimeType": "video/mp4",
+                  "size": 135579513,
+                  "webViewLink": "https://drive.google.com/file/d/1J0PVI_qldR-5bOobKWATdruNsXxE3Llu/view?usp=drivesdk",
+                  "modifiedTime": "2026-04-19T03:40:25.271Z",
+                  "videoMediaMetadata": {
+                    "width": 1920,
+                    "height": 1080,
+                    "durationMillis": "3246980"
+                  }
+                },
+                {
+                  "id": "12L2NZuu3AoBL1wPa_90hQuR5U3KAdfUh",
+                  "name": "Dạy TDMYY004_Kĩ năng vận dụng CT tính nhanh thể tích nâng cao.mp4",
+                  "mimeType": "video/mp4",
+                  "size": 2523047783,
+                  "webViewLink": "https://drive.google.com/file/d/12L2NZuu3AoBL1wPa_90hQuR5U3KAdfUh/view?usp=drivesdk",
+                  "modifiedTime": "2026-04-19T03:40:26.671Z",
+                  "videoMediaMetadata": {
+                    "width": 1920,
+                    "height": 1080,
+                    "durationMillis": "8894600"
+                  }
+                },
+                {
+                  "id": "1Rdxa5uO2memCWF9oGg1xR9SqiM2N3FwO",
+                  "name": "KEY ĐỀ TDMYY004_ĐTL_KN TRIỂN KHAI CT TÍNH THỂ TÍCH NÂNG CAO_2027A.pdf",
+                  "mimeType": "application/pdf",
+                  "size": 109568,
+                  "webViewLink": "https://drive.google.com/file/d/1Rdxa5uO2memCWF9oGg1xR9SqiM2N3FwO/view?usp=drivesdk",
+                  "modifiedTime": "2026-04-19T03:40:32.462Z",
+                  "videoMediaMetadata": null
+                },
+                {
+                  "id": "1Ax0EeKPYusCDcKk2Msr3b9lrr4lokpbJ",
+                  "name": "TDMYY004_FGC_CÔNG THỨC THỂ TÍCH NÂNG CAO.pdf",
+                  "mimeType": "application/pdf",
+                  "size": 432407,
+                  "webViewLink": "https://drive.google.com/file/d/1Ax0EeKPYusCDcKk2Msr3b9lrr4lokpbJ/view?usp=drivesdk",
+                  "modifiedTime": "2026-04-19T03:40:28.173Z",
+                  "videoMediaMetadata": null
+                },
+                {
+                  "id": "1nBAG-lXA3vAxppfF8UhaFOMEjQdRufws",
+                  "name": "ĐỀ TDMYY004_ĐTL_KN TRIỂN KHAI CT TÍNH THỂ TÍCH NÂNG CAO_2027A.pdf",
+                  "mimeType": "application/pdf",
+                  "size": 268791,
+                  "webViewLink": "https://drive.google.com/file/d/1nBAG-lXA3vAxppfF8UhaFOMEjQdRufws/view?usp=drivesdk",
+                  "modifiedTime": "2026-04-19T03:40:31.035Z",
+                  "videoMediaMetadata": null
+                }
+              ]
+            },
+            {
+              "id": "19JqTHt6cPfzdzCM6c0ej3kdjm43ScqWw",
+              "name": "TDMYY005_Nâng cao nhị diện",
+              "webViewLink": "https://drive.google.com/drive/folders/19JqTHt6cPfzdzCM6c0ej3kdjm43ScqWw",
+              "modifiedTime": "2026-04-24T01:31:38.366Z",
+              "children": [],
+              "files": [
+                {
+                  "id": "1nWviSRIz_dMt9QBNd4uBhfOp0K_czEgj",
+                  "name": "Bg01. Nâng cao góc nhị diện.mp4",
+                  "mimeType": "video/mp4",
+                  "size": 265744180,
+                  "webViewLink": "https://drive.google.com/file/d/1nWviSRIz_dMt9QBNd4uBhfOp0K_czEgj/view?usp=drivesdk",
+                  "modifiedTime": "2026-05-11T13:20:24.227Z",
+                  "videoMediaMetadata": {
+                    "width": 1920,
+                    "height": 1080,
+                    "durationMillis": "4810999"
+                  }
+                },
+                {
+                  "id": "1JpmVP3SuRns7qdp5bElyWpnMpB3SNrin",
+                  "name": "BVT_LIVE_TDMYY005_ĐTL_GÓC NHỊ DIỆN NÂNG CAO_2027A.pdf",
+                  "mimeType": "application/pdf",
+                  "size": 8440880,
+                  "webViewLink": "https://drive.google.com/file/d/1JpmVP3SuRns7qdp5bElyWpnMpB3SNrin/view?usp=drivesdk",
+                  "modifiedTime": "2026-05-04T10:52:22.982Z",
+                  "videoMediaMetadata": null
+                },
+                {
+                  "id": "18a7Vn3ratlA-8D2yklBZBwonZmgHOF5C",
+                  "name": "BVT_TDMYY005_FGC_NÂNG CAO GÓC NHỊ DIỆN.pdf",
+                  "mimeType": "application/pdf",
+                  "size": 9743581,
+                  "webViewLink": "https://drive.google.com/file/d/18a7Vn3ratlA-8D2yklBZBwonZmgHOF5C/view?usp=drivesdk",
+                  "modifiedTime": "2026-04-24T01:31:40.322Z",
+                  "videoMediaMetadata": null
+                },
+                {
+                  "id": "1qGnmiPrTI84iohC37_z6h1oB_T_7zMju",
+                  "name": "Chữa đề TDMYY005.mp4",
+                  "mimeType": "video/mp4",
+                  "size": 172011490,
+                  "webViewLink": "https://drive.google.com/file/d/1qGnmiPrTI84iohC37_z6h1oB_T_7zMju/view?usp=drivesdk",
+                  "modifiedTime": "2026-05-11T13:20:08.031Z",
+                  "videoMediaMetadata": {
+                    "width": 1920,
+                    "height": 1080,
+                    "durationMillis": "3334233"
+                  }
+                },
+                {
+                  "id": "1ry67ShPjKfoYOx5m8EyIFCGoxEmHOcKr",
+                  "name": "KEY ĐỀ TDMYY005_ĐTL_NÂNG CAO GÓC NHỊ DIỆN_2027A.pdf",
+                  "mimeType": "application/pdf",
+                  "size": 109589,
+                  "webViewLink": "https://drive.google.com/file/d/1ry67ShPjKfoYOx5m8EyIFCGoxEmHOcKr/view?usp=drivesdk",
+                  "modifiedTime": "2026-05-04T10:52:21.146Z",
+                  "videoMediaMetadata": null
+                },
+                {
+                  "id": "1dH1IAcAf3s-8OiHoDTZi5tNhTdiijU78",
+                  "name": "TDMYY005_FGC_NÂNG CAO GÓC NHỊ DIỆN.pdf",
+                  "mimeType": "application/pdf",
+                  "size": 471588,
+                  "webViewLink": "https://drive.google.com/file/d/1dH1IAcAf3s-8OiHoDTZi5tNhTdiijU78/view?usp=drivesdk",
+                  "modifiedTime": "2026-04-24T01:31:41.963Z",
+                  "videoMediaMetadata": null
+                },
+                {
+                  "id": "1V4QXpvN5Tjf3cDpF_ABS1gHYClawffOA",
+                  "name": "ĐỀ TDMYY005_ĐTL_NÂNG CAO GÓC NHỊ DIỆN_2027A.pdf",
+                  "mimeType": "application/pdf",
+                  "size": 296556,
+                  "webViewLink": "https://drive.google.com/file/d/1V4QXpvN5Tjf3cDpF_ABS1gHYClawffOA/view?usp=drivesdk",
+                  "modifiedTime": "2026-04-24T01:31:43.528Z",
+                  "videoMediaMetadata": null
+                }
+              ]
+            },
+            {
+              "id": "1Yo_eP8879TNQiffRw0yBmTvmtKDws0MH",
+              "name": "TDMYY006_Cực trị thể tích",
+              "webViewLink": "https://drive.google.com/drive/folders/1Yo_eP8879TNQiffRw0yBmTvmtKDws0MH",
+              "modifiedTime": "2026-05-04T13:59:18.088Z",
+              "children": [],
+              "files": [
+                {
+                  "id": "15_sZzUl712_pCZBBx6-qP0uH0lElr2j8",
+                  "name": "Bg01. Cực trị thể tích số 01.mp4",
+                  "mimeType": "video/mp4",
+                  "size": 365702256,
+                  "webViewLink": "https://drive.google.com/file/d/15_sZzUl712_pCZBBx6-qP0uH0lElr2j8/view?usp=drivesdk",
+                  "modifiedTime": "2026-05-11T13:17:36.020Z",
+                  "videoMediaMetadata": null
+                },
+                {
+                  "id": "1A3vxRigxYpzl8r2g9rqsn9Oc0D-1C04O",
+                  "name": "TDMYY006_FGC_CỰC TRỊ THỂ TÍCH 01.pdf",
+                  "mimeType": "application/pdf",
+                  "size": 408554,
+                  "webViewLink": "https://drive.google.com/file/d/1A3vxRigxYpzl8r2g9rqsn9Oc0D-1C04O/view?usp=drivesdk",
+                  "modifiedTime": "2026-05-04T13:59:19.487Z",
+                  "videoMediaMetadata": null
+                },
+                {
+                  "id": "11nFjP2sIgjeyyMdAJGIbkYGaZgXpiIse",
+                  "name": "ĐỀ TDMYY006_ĐTL_CỰC TRỊ THỂ TÍCH SỐ 01.pdf",
+                  "mimeType": "application/pdf",
+                  "size": 277529,
+                  "webViewLink": "https://drive.google.com/file/d/11nFjP2sIgjeyyMdAJGIbkYGaZgXpiIse/view?usp=drivesdk",
+                  "modifiedTime": "2026-05-04T13:59:21.284Z",
+                  "videoMediaMetadata": null
+                }
+              ]
+            },
+            {
+              "id": "1-JsYhHiWEgG7_xIgfR7b3uSuiABe9w0R",
+              "name": "TDMYY007_Kĩ năng miền D",
+              "webViewLink": "https://drive.google.com/drive/folders/1-JsYhHiWEgG7_xIgfR7b3uSuiABe9w0R",
+              "modifiedTime": "2026-05-04T13:59:34.104Z",
+              "children": [],
+              "files": [
+                {
+                  "id": "1C4UTSfEP6a5pNftPXT6mwYRU9jdu62pA",
+                  "name": "Bg01. Kĩ năng miền D.mp4",
+                  "mimeType": "video/mp4",
+                  "size": 158353081,
+                  "webViewLink": "https://drive.google.com/file/d/1C4UTSfEP6a5pNftPXT6mwYRU9jdu62pA/view?usp=drivesdk",
+                  "modifiedTime": "2026-05-11T13:19:41.084Z",
+                  "videoMediaMetadata": null
+                },
+                {
+                  "id": "1UmsbVKp8gztG4SLsu9bdpMbSmEqY3pVy",
+                  "name": "BVT_LIVE_TDM11Y34_ĐTL_KĨ NĂNG MIỀN D 3.pdf",
+                  "mimeType": "application/pdf",
+                  "size": 8905280,
+                  "webViewLink": "https://drive.google.com/file/d/1UmsbVKp8gztG4SLsu9bdpMbSmEqY3pVy/view?usp=drivesdk",
+                  "modifiedTime": "2026-05-07T01:26:24.285Z",
+                  "videoMediaMetadata": null
+                },
+                {
+                  "id": "1a8d1hi2jPv2ePpITSzDR8dTkhbGiilxP",
+                  "name": "BVT_TDM11Y34_FCD_KN MIỀN D.pdf",
+                  "mimeType": "application/pdf",
+                  "size": 6747864,
+                  "webViewLink": "https://drive.google.com/file/d/1a8d1hi2jPv2ePpITSzDR8dTkhbGiilxP/view?usp=drivesdk",
+                  "modifiedTime": "2026-05-07T01:26:25.759Z",
+                  "videoMediaMetadata": null
+                },
+                {
+                  "id": "15SHkxoyUa-6DkImY6wW3NTCtQ6Ovfy2A",
+                  "name": "Chữa ĐTL TDMYY008.mp4",
+                  "mimeType": "video/mp4",
+                  "size": 215712755,
+                  "webViewLink": "https://drive.google.com/file/d/15SHkxoyUa-6DkImY6wW3NTCtQ6Ovfy2A/view?usp=drivesdk",
+                  "modifiedTime": "2026-05-11T13:19:54.748Z",
+                  "videoMediaMetadata": null
+                },
+                {
+                  "id": "11jkRSZT8xdMQEQfmf6rjzQm9qdbmpmpe",
+                  "name": "KEY ĐỀ TDMYY007_ĐTL_KĨ NĂNG MIỀN D_2027A.pdf",
+                  "mimeType": "application/pdf",
+                  "size": 77053,
+                  "webViewLink": "https://drive.google.com/file/d/11jkRSZT8xdMQEQfmf6rjzQm9qdbmpmpe/view?usp=drivesdk",
+                  "modifiedTime": "2026-05-07T01:26:20.925Z",
+                  "videoMediaMetadata": null
+                },
+                {
+                  "id": "1p_Acu6Y0lw3RwMXIkTr9zkftyNGLiu5x",
+                  "name": "TDMYY007_FGC_KĨ NĂNG MIỀN D.pdf",
+                  "mimeType": "application/pdf",
+                  "size": 364910,
+                  "webViewLink": "https://drive.google.com/file/d/1p_Acu6Y0lw3RwMXIkTr9zkftyNGLiu5x/view?usp=drivesdk",
+                  "modifiedTime": "2026-05-07T01:26:19.425Z",
+                  "videoMediaMetadata": null
+                },
+                {
+                  "id": "1JNBREN1Kg49oO7tuyCyp2oAGVnEEspop",
+                  "name": "ĐỀ TDMYY007_ĐTL_KĨ NĂNG MIỀN D_2027A.pdf",
+                  "mimeType": "application/pdf",
+                  "size": 194153,
+                  "webViewLink": "https://drive.google.com/file/d/1JNBREN1Kg49oO7tuyCyp2oAGVnEEspop/view?usp=drivesdk",
+                  "modifiedTime": "2026-05-07T01:26:22.368Z",
+                  "videoMediaMetadata": null
+                }
+              ]
+            },
+            {
+              "id": "1wMsKVVex8atXSu3X0HcQEHY9sQd5YVQ_",
+              "name": "TDMYY008_Kĩ năng rút gọn đường cong quỹ tích",
+              "webViewLink": "https://drive.google.com/drive/folders/1wMsKVVex8atXSu3X0HcQEHY9sQd5YVQ_",
+              "modifiedTime": "2026-05-04T13:59:23.199Z",
+              "children": [],
+              "files": [
+                {
+                  "id": "1gHvi_t1bRGkKfXfx7KfBsnyJ2dke1Qan",
+                  "name": "Dạy- TDMYY008_Kĩ năng rút gọn đường cong quỹ tích.mp4",
+                  "mimeType": "video/mp4",
+                  "size": 510034472,
+                  "webViewLink": "https://drive.google.com/file/d/1gHvi_t1bRGkKfXfx7KfBsnyJ2dke1Qan/view?usp=drivesdk",
+                  "modifiedTime": "2026-05-11T13:19:26.227Z",
+                  "videoMediaMetadata": null
+                },
+                {
+                  "id": "10xoph3WR2pEpP-DJuBTKX-p7_xoLICnT",
+                  "name": "KEY ĐỀ TDMYY008_ĐTL_KĨ NĂNG RÚT GỌN ĐƯỜNG CONG QUỸ TÍCH.pdf",
+                  "mimeType": "application/pdf",
+                  "size": 138017,
+                  "webViewLink": "https://drive.google.com/file/d/10xoph3WR2pEpP-DJuBTKX-p7_xoLICnT/view?usp=drivesdk",
+                  "modifiedTime": "2026-05-04T13:59:26.765Z",
+                  "videoMediaMetadata": null
+                },
+                {
+                  "id": "10XgdMOSltv8cHlFeohTn1Y8uaAJhInje",
+                  "name": "TDMYYR008_FGC_KỸ NĂNG RÚT GỌN ĐƯỜNG CONG QUỸ TÍCH.pdf",
+                  "mimeType": "application/pdf",
+                  "size": 458635,
+                  "webViewLink": "https://drive.google.com/file/d/10XgdMOSltv8cHlFeohTn1Y8uaAJhInje/view?usp=drivesdk",
+                  "modifiedTime": "2026-05-04T13:59:24.464Z",
+                  "videoMediaMetadata": null
+                },
+                {
+                  "id": "1rg9VMnym2n-7uJ2dTnd_7iHAxDJSbHUK",
+                  "name": "ĐỀ TDMYY008_ĐTL_KĨ NĂNG RÚT GỌN ĐƯỜNG CONG QUỸ TÍCH.pdf",
+                  "mimeType": "application/pdf",
+                  "size": 271691,
+                  "webViewLink": "https://drive.google.com/file/d/1rg9VMnym2n-7uJ2dTnd_7iHAxDJSbHUK/view?usp=drivesdk",
+                  "modifiedTime": "2026-05-04T13:59:29.441Z",
+                  "videoMediaMetadata": null
+                }
+              ]
+            },
+            {
+              "id": "1xs18MYCvCs9UUqzqgbvxFrNJZN0q1dUY",
+              "name": "TDMYY009_Cực trị khoảng cách giữa 2 đường cong ĐB",
+              "webViewLink": "https://drive.google.com/drive/folders/1xs18MYCvCs9UUqzqgbvxFrNJZN0q1dUY",
+              "modifiedTime": "2026-05-04T13:59:31.513Z",
+              "children": [],
+              "files": [
+                {
+                  "id": "1yidqevOUohPhmr5qvKxoqhZ1Ih4rpTfG",
+                  "name": "BVT_TDMYYR009_FGC_CỰC TRỊ KC GIỮA HAI ĐƯỜNG CONG ĐB 2.pdf",
+                  "mimeType": "application/pdf",
+                  "size": 6998001,
+                  "webViewLink": "https://drive.google.com/file/d/1yidqevOUohPhmr5qvKxoqhZ1Ih4rpTfG/view?usp=drivesdk",
+                  "modifiedTime": "2026-05-07T01:26:07.289Z",
+                  "videoMediaMetadata": null
+                },
+                {
+                  "id": "1hhh_0dFwLGmWI8MnVkoiW0J_BCOzwJeP",
+                  "name": "Cực trị khoảng cách giữa 2 đường cong ĐB.mp4",
+                  "mimeType": "video/mp4",
+                  "size": 750055400,
+                  "webViewLink": "https://drive.google.com/file/d/1hhh_0dFwLGmWI8MnVkoiW0J_BCOzwJeP/view?usp=drivesdk",
+                  "modifiedTime": "2026-05-07T01:26:02.235Z",
+                  "videoMediaMetadata": null
+                },
+                {
+                  "id": "14ZphyjZgw3Okut19reM4JjHsf1PsPizK",
+                  "name": "TDMYYR009_FGC_CỰC TRỊ KC GIỮA HAI ĐƯỜNG CONG ĐB.pdf",
+                  "mimeType": "application/pdf",
+                  "size": 424610,
+                  "webViewLink": "https://drive.google.com/file/d/14ZphyjZgw3Okut19reM4JjHsf1PsPizK/view?usp=drivesdk",
+                  "modifiedTime": "2026-05-07T01:26:05.740Z",
+                  "videoMediaMetadata": null
+                },
+                {
+                  "id": "1dvv5D65p_YJOnpv0B74uIKvRCxzJPTuj",
+                  "name": "ĐỀ TDMYY009_ĐTL_CỰC TRỊ KC GIỮA HAI ĐƯỜNG CONG ĐB_2027A.pdf",
+                  "mimeType": "application/pdf",
+                  "size": 241689,
+                  "webViewLink": "https://drive.google.com/file/d/1dvv5D65p_YJOnpv0B74uIKvRCxzJPTuj/view?usp=drivesdk",
+                  "modifiedTime": "2026-05-07T01:26:04.065Z",
+                  "videoMediaMetadata": null
+                }
+              ]
+            },
+            {
+              "id": "1OXSaipraO7AnzJ-gOL_qIiZVI_-zmMZJ",
+              "name": "TDMYY03_KN định vị chân đường cao Level3",
+              "webViewLink": "https://drive.google.com/drive/folders/1OXSaipraO7AnzJ-gOL_qIiZVI_-zmMZJ",
+              "modifiedTime": "2026-04-19T03:40:33.911Z",
+              "children": [],
+              "files": [
+                {
+                  "id": "1fNX_TZ3lngHXxBUNBM4UrTepcnhgLB4p",
+                  "name": "BVT_LIVE_TDMYY03_ĐTL_KN ĐỊNH VỊ CHÂN ĐƯỜNG CAO_2027A 2.pdf",
+                  "mimeType": "application/pdf",
+                  "size": 13642675,
+                  "webViewLink": "https://drive.google.com/file/d/1fNX_TZ3lngHXxBUNBM4UrTepcnhgLB4p/view?usp=drivesdk",
+                  "modifiedTime": "2026-04-19T03:40:37.716Z",
+                  "videoMediaMetadata": null
+                },
+                {
+                  "id": "1phs6MpqsftTs1IvUsLUCSJFoGgAsxqNJ",
+                  "name": "Chữa ĐTL TDMYY003_Kĩ năng định vị chân đường cao Level 3.mp4",
+                  "mimeType": "video/mp4",
+                  "size": 280478554,
+                  "webViewLink": "https://drive.google.com/file/d/1phs6MpqsftTs1IvUsLUCSJFoGgAsxqNJ/view?usp=drivesdk",
+                  "modifiedTime": "2026-04-19T03:40:34.841Z",
+                  "videoMediaMetadata": {
+                    "width": 1920,
+                    "height": 1080,
+                    "durationMillis": "5749115"
+                  }
+                },
+                {
+                  "id": "19-YYiKhbMjwrq0qnjIH88ND9d_wRTNMa",
+                  "name": "KEY ĐỀ TDMYY003_ĐTL_KN ĐỊNH VỊ CHÂN ĐƯỜNG CAO_2027A.pdf",
+                  "mimeType": "application/pdf",
+                  "size": 111517,
+                  "webViewLink": "https://drive.google.com/file/d/19-YYiKhbMjwrq0qnjIH88ND9d_wRTNMa/view?usp=drivesdk",
+                  "modifiedTime": "2026-04-19T03:40:38.989Z",
+                  "videoMediaMetadata": null
+                },
+                {
+                  "id": "1NEDlw0fQOqRKgT5DSsFL5RpDSwhmElcn",
+                  "name": "Kĩ năng định vị chân đường cao.mp4",
+                  "mimeType": "video/mp4",
+                  "size": 1823229480,
+                  "webViewLink": "https://drive.google.com/file/d/1NEDlw0fQOqRKgT5DSsFL5RpDSwhmElcn/view?usp=drivesdk",
+                  "modifiedTime": "2026-04-19T03:40:36.300Z",
+                  "videoMediaMetadata": {
+                    "width": 1920,
+                    "height": 1080,
+                    "durationMillis": "6755300"
+                  }
+                },
+                {
+                  "id": "1WGPyF8uZiLiVJrd0zcaykqP2Ov4F2163",
+                  "name": "TDMYY03_FCD_KN ĐỊNH VỊ CHÂN ĐƯỜNG CAO.pdf",
+                  "mimeType": "application/pdf",
+                  "size": 422202,
+                  "webViewLink": "https://drive.google.com/file/d/1WGPyF8uZiLiVJrd0zcaykqP2Ov4F2163/view?usp=drivesdk",
+                  "modifiedTime": "2026-04-19T03:40:41.797Z",
+                  "videoMediaMetadata": null
+                },
+                {
+                  "id": "1tSaoHwdF47MpzwWYQ3h7X4QXqMolATWp",
+                  "name": "ĐỀ TDMYY03_ĐTL_KN ĐỊNH VỊ CHÂN ĐƯỜNG CAO_2027A.pdf",
+                  "mimeType": "application/pdf",
+                  "size": 280282,
+                  "webViewLink": "https://drive.google.com/file/d/1tSaoHwdF47MpzwWYQ3h7X4QXqMolATWp/view?usp=drivesdk",
+                  "modifiedTime": "2026-04-19T03:40:40.368Z",
+                  "videoMediaMetadata": null
+                }
+              ]
+            },
+            {
+              "id": "1TfieHHVXFb4HK1iMAIY_dYZuxM73vFs8",
+              "name": "TDMYY08_Kĩ năng miền D",
+              "webViewLink": "https://drive.google.com/drive/folders/1TfieHHVXFb4HK1iMAIY_dYZuxM73vFs8",
+              "modifiedTime": "2026-04-27T15:59:56.973Z",
+              "children": [],
+              "files": [
+                {
+                  "id": "1_m-L9CpaQ-N8QofRJS0Jm2G1cxLBEfAy",
+                  "name": "BVT_LIVE_TDM11Y34_ĐTL_KĨ NĂNG MIỀN D 3.pdf",
+                  "mimeType": "application/pdf",
+                  "size": 8905280,
+                  "webViewLink": "https://drive.google.com/file/d/1_m-L9CpaQ-N8QofRJS0Jm2G1cxLBEfAy/view?usp=drivesdk",
+                  "modifiedTime": "2026-04-27T16:00:00.366Z",
+                  "videoMediaMetadata": null
+                },
+                {
+                  "id": "19Iz8TGxZNaKonmxtYW1-fd-mtjKw3KmK",
+                  "name": "BVT_TDM11Y34_FCD_KN MIỀN D.pdf",
+                  "mimeType": "application/pdf",
+                  "size": 6747864,
+                  "webViewLink": "https://drive.google.com/file/d/19Iz8TGxZNaKonmxtYW1-fd-mtjKw3KmK/view?usp=drivesdk",
+                  "modifiedTime": "2026-04-27T16:00:04.999Z",
+                  "videoMediaMetadata": null
+                },
+                {
+                  "id": "1MsAtKVqAAhpxpz04hWyW_k2Q-ExnDX9c",
+                  "name": "KEY ĐỀ TDMYY008_ĐTL_KĨ NĂNG MIỀN D_2027A.pdf",
+                  "mimeType": "application/pdf",
+                  "size": 77053,
+                  "webViewLink": "https://drive.google.com/file/d/1MsAtKVqAAhpxpz04hWyW_k2Q-ExnDX9c/view?usp=drivesdk",
+                  "modifiedTime": "2026-04-27T16:00:01.888Z",
+                  "videoMediaMetadata": null
+                },
+                {
+                  "id": "1bx7jCHdFFHjY2lttYXSJgKfOhhMIepZr",
+                  "name": "TDMYY008_FGC_KĨ NĂNG MIỀN D.pdf",
+                  "mimeType": "application/pdf",
+                  "size": 364910,
+                  "webViewLink": "https://drive.google.com/file/d/1bx7jCHdFFHjY2lttYXSJgKfOhhMIepZr/view?usp=drivesdk",
+                  "modifiedTime": "2026-04-27T16:00:06.585Z",
+                  "videoMediaMetadata": null
+                },
+                {
+                  "id": "143z-g6YKCOreUgU0Csp60fYPmaAeQc6d",
+                  "name": "ĐỀ TDMYY008_ĐTL_KĨ NĂNG MIỀN D_2027A.pdf",
+                  "mimeType": "application/pdf",
+                  "size": 194153,
+                  "webViewLink": "https://drive.google.com/file/d/143z-g6YKCOreUgU0Csp60fYPmaAeQc6d/view?usp=drivesdk",
+                  "modifiedTime": "2026-04-27T16:00:03.442Z",
+                  "videoMediaMetadata": null
+                }
+              ]
+            },
+            {
+              "id": "1D6f6cKrq_fyFcX1DGZVgHF59M9gi6QTl",
+              "name": "TDMYY09_Cực trị khoảng cách giữa 2 đường cong ĐB",
+              "webViewLink": "https://drive.google.com/drive/folders/1D6f6cKrq_fyFcX1DGZVgHF59M9gi6QTl",
+              "modifiedTime": "2026-04-19T03:40:16.915Z",
+              "children": [],
+              "files": [
+                {
+                  "id": "1qdUWRKrx774MP6NFWb3PLDcZsBh9GQe-",
+                  "name": "BVT_TDMYYR009_FGC_CỰC TRỊ KC GIỮA HAI ĐƯỜNG CONG ĐB 2.pdf",
+                  "mimeType": "application/pdf",
+                  "size": 6998001,
+                  "webViewLink": "https://drive.google.com/file/d/1qdUWRKrx774MP6NFWb3PLDcZsBh9GQe-/view?usp=drivesdk",
+                  "modifiedTime": "2026-04-19T03:40:22.906Z",
+                  "videoMediaMetadata": null
+                },
+                {
+                  "id": "1tqlTeqgdGIL8l0yJBnQ_CGAEykB9lU8i",
+                  "name": "Cực trị khoảng cách giữa 2 đường cong ĐB.mp4",
+                  "mimeType": "video/mp4",
+                  "size": 750055400,
+                  "webViewLink": "https://drive.google.com/file/d/1tqlTeqgdGIL8l0yJBnQ_CGAEykB9lU8i/view?usp=drivesdk",
+                  "modifiedTime": "2026-04-19T03:40:17.713Z",
+                  "videoMediaMetadata": {
+                    "width": 1920,
+                    "height": 1080,
+                    "durationMillis": "6199199"
+                  }
+                },
+                {
+                  "id": "1PPgR_6WthItoV2v0QebGss8mYatMeSOu",
+                  "name": "TDMYYR009_FGC_CỰC TRỊ KC GIỮA HAI ĐƯỜNG CONG ĐB.pdf",
+                  "mimeType": "application/pdf",
+                  "size": 424610,
+                  "webViewLink": "https://drive.google.com/file/d/1PPgR_6WthItoV2v0QebGss8mYatMeSOu/view?usp=drivesdk",
+                  "modifiedTime": "2026-04-19T03:40:21.179Z",
+                  "videoMediaMetadata": null
+                },
+                {
+                  "id": "1RdbpEJ5zIpZbUA2znz6czYteWY8Tzpnz",
+                  "name": "ĐỀ TDMYY009_ĐTL_CỰC TRỊ KC GIỮA HAI ĐƯỜNG CONG ĐB_2027A.pdf",
+                  "mimeType": "application/pdf",
+                  "size": 241689,
+                  "webViewLink": "https://drive.google.com/file/d/1RdbpEJ5zIpZbUA2znz6czYteWY8Tzpnz/view?usp=drivesdk",
+                  "modifiedTime": "2026-04-19T03:40:19.690Z",
+                  "videoMediaMetadata": null
+                }
+              ]
+            },
+            {
+              "id": "1AByyc-0aZ3EAak7y2WisUO2YH10mlkdU",
+              "name": "TDMYY101_KN tương giao hợp hàm",
+              "webViewLink": "https://drive.google.com/drive/folders/1AByyc-0aZ3EAak7y2WisUO2YH10mlkdU",
+              "modifiedTime": "2026-05-23T11:55:04.442Z",
+              "children": [],
+              "files": [
+                {
+                  "id": "13-Ap16OuTRloRNy2B5GCT-9Z3Ok7No_b",
+                  "name": "Bg01. KN tương giao hợp hàm.mp4",
+                  "mimeType": "video/mp4",
+                  "size": 264519384,
+                  "webViewLink": "https://drive.google.com/file/d/13-Ap16OuTRloRNy2B5GCT-9Z3Ok7No_b/view?usp=drivesdk",
+                  "modifiedTime": "2026-05-23T11:55:05.510Z",
+                  "videoMediaMetadata": null
+                },
+                {
+                  "id": "1Qfsz48vFTfBmGDO3uPR6h_ZezbTiWl89",
+                  "name": "BVT_LIVE_TDMY55_ĐTL_KN TƯƠNG GIAO HỢP HÀM.pdf",
+                  "mimeType": "application/pdf",
+                  "size": 7148863,
+                  "webViewLink": "https://drive.google.com/file/d/1Qfsz48vFTfBmGDO3uPR6h_ZezbTiWl89/view?usp=drivesdk",
+                  "modifiedTime": "2026-05-23T11:55:05.500Z",
+                  "videoMediaMetadata": null
+                },
+                {
+                  "id": "1blUDC06CdJF5xNlYKoS6E3wf6lEKrLgI",
+                  "name": "BVT_TDMY55_FCD_KN TƯƠNG GIAO HỢP HÀM_A.pdf",
+                  "mimeType": "application/pdf",
+                  "size": 9691483,
+                  "webViewLink": "https://drive.google.com/file/d/1blUDC06CdJF5xNlYKoS6E3wf6lEKrLgI/view?usp=drivesdk",
+                  "modifiedTime": "2026-05-23T11:55:05.504Z",
+                  "videoMediaMetadata": null
+                },
+                {
+                  "id": "1I2wPVVoyEeuZOsdvvfkkBuWnJNhABXV2",
+                  "name": "Chữa ĐTL TDMYY101.mp4",
+                  "mimeType": "video/mp4",
+                  "size": 250847648,
+                  "webViewLink": "https://drive.google.com/file/d/1I2wPVVoyEeuZOsdvvfkkBuWnJNhABXV2/view?usp=drivesdk",
+                  "modifiedTime": "2026-05-23T11:55:05.497Z",
+                  "videoMediaMetadata": {
+                    "width": 1920,
+                    "height": 1080,
+                    "durationMillis": "3860433"
+                  }
+                },
+                {
+                  "id": "1QDBgbia7QTDJEaKOLX4Yjk03FAzWD4zP",
+                  "name": "KEY ĐỀ TDMYY101_ĐTL_KĨ NĂNG TƯƠNG GIAO HỢP HÀM_2027A.pdf",
+                  "mimeType": "application/pdf",
+                  "size": 109672,
+                  "webViewLink": "https://drive.google.com/file/d/1QDBgbia7QTDJEaKOLX4Yjk03FAzWD4zP/view?usp=drivesdk",
+                  "modifiedTime": "2026-05-23T11:55:05.510Z",
+                  "videoMediaMetadata": null
+                },
+                {
+                  "id": "17JpWCwMfB3vlJLD-bHLJJVFnSvCbfGAF",
+                  "name": "TDMYY101_FGC_KỸ NĂNG TƯƠNG GIAO HỢP HÀM.pdf",
+                  "mimeType": "application/pdf",
+                  "size": 417009,
+                  "webViewLink": "https://drive.google.com/file/d/17JpWCwMfB3vlJLD-bHLJJVFnSvCbfGAF/view?usp=drivesdk",
+                  "modifiedTime": "2026-05-23T11:55:05.502Z",
+                  "videoMediaMetadata": null
+                },
+                {
+                  "id": "1TnbxClXWnomgxpXY3xiUoXNVEBaWiDRp",
+                  "name": "ĐỀ TDMYY101_ĐTL_KĨ NĂNG TƯƠNG GIAO HỢP HÀM_2027A.pdf",
+                  "mimeType": "application/pdf",
+                  "size": 220656,
+                  "webViewLink": "https://drive.google.com/file/d/1TnbxClXWnomgxpXY3xiUoXNVEBaWiDRp/view?usp=drivesdk",
+                  "modifiedTime": "2026-05-23T11:55:05.496Z",
+                  "videoMediaMetadata": null
+                }
+              ]
+            }
+          ],
+          "files": []
+        },
+        {
+          "id": "1poNNDOdLjKU81-Y4_eP9wXpTiGHkHpJi",
+          "name": "2.2 TDMYV2027 - VDC THXS",
+          "webViewLink": "https://drive.google.com/drive/folders/1poNNDOdLjKU81-Y4_eP9wXpTiGHkHpJi",
+          "modifiedTime": "2026-04-17T13:59:56.473Z",
+          "children": [
+            {
+              "id": "1WsywxxLQCS0aaphHHkXPk-w-KM1BG2Mq",
+              "name": "TDMYV10_Kết hợp kĩ năng vách ngăn và bó",
+              "webViewLink": "https://drive.google.com/drive/folders/1WsywxxLQCS0aaphHHkXPk-w-KM1BG2Mq",
+              "modifiedTime": "2026-05-18T01:48:27.674Z",
+              "children": [],
+              "files": [
+                {
+                  "id": "1wrNUqTikz1Qh7CVwuRcBHor7dFTjIqS-",
+                  "name": "BVT_TDMYV10_FGC_KẾT HỢP KĨ NĂNG VÁCH NGĂN VÀ BÓ_2027A.pdf",
+                  "mimeType": "application/pdf",
+                  "size": 6194537,
+                  "webViewLink": "https://drive.google.com/file/d/1wrNUqTikz1Qh7CVwuRcBHor7dFTjIqS-/view?usp=drivesdk",
+                  "modifiedTime": "2026-05-19T09:17:15.642Z",
+                  "videoMediaMetadata": null
+                },
+                {
+                  "id": "1zHIAhrdYMCwA4TEN5rn8lhdhDoEaHRnc",
+                  "name": "BVT_TDMYV10_FGC_KẾT HỢP KĨ NĂNG VÁCH NGĂN VÀ BÓ_2027A.pdf",
+                  "mimeType": "application/pdf",
+                  "size": 6194537,
+                  "webViewLink": "https://drive.google.com/file/d/1zHIAhrdYMCwA4TEN5rn8lhdhDoEaHRnc/view?usp=drivesdk",
+                  "modifiedTime": "2026-05-19T09:17:14.813Z",
+                  "videoMediaMetadata": null
+                },
+                {
+                  "id": "11ncE4lMMcim9M39E3jcCVpxTpruRwu_B",
+                  "name": "Dạy- VDC Tinh hoa THXS- Kết hợp KN vách ngăn và Bó.mp4",
+                  "mimeType": "video/mp4",
+                  "size": 870292764,
+                  "webViewLink": "https://drive.google.com/file/d/11ncE4lMMcim9M39E3jcCVpxTpruRwu_B/view?usp=drivesdk",
+                  "modifiedTime": "2026-05-19T09:17:14.692Z",
+                  "videoMediaMetadata": null
+                },
+                {
+                  "id": "1gVh5KyhpKPQm1bgy0zOJEJP7xC5IkrVQ",
+                  "name": "Dạy- VDC Tinh hoa THXS- Kết hợp KN vách ngăn và Bó.mp4",
+                  "mimeType": "video/mp4",
+                  "size": 870292764,
+                  "webViewLink": "https://drive.google.com/file/d/1gVh5KyhpKPQm1bgy0zOJEJP7xC5IkrVQ/view?usp=drivesdk",
+                  "modifiedTime": "2026-05-19T09:17:13.486Z",
+                  "videoMediaMetadata": null
+                },
+                {
+                  "id": "1Kap8xtO27K5C7sP629wO5EAxxnaUPIgK",
+                  "name": "TDMYV10_FGC_KẾT HỢP KĨ NĂNG VÁCH NGĂN VÀ BÓ_2027A.pdf",
+                  "mimeType": "application/pdf",
+                  "size": 518163,
+                  "webViewLink": "https://drive.google.com/file/d/1Kap8xtO27K5C7sP629wO5EAxxnaUPIgK/view?usp=drivesdk",
+                  "modifiedTime": "2026-05-18T01:48:29.302Z",
+                  "videoMediaMetadata": null
+                }
+              ]
+            },
+            {
+              "id": "1FwUJNAPkFdlVIYL97lGJhMIXdbQ3y8Cq",
+              "name": "TDMYV17_KN triển khai vách ngăn và chia kẹo Euler",
+              "webViewLink": "https://drive.google.com/drive/folders/1FwUJNAPkFdlVIYL97lGJhMIXdbQ3y8Cq",
+              "modifiedTime": "2026-04-19T03:40:09.197Z",
+              "children": [],
+              "files": [
+                {
+                  "id": "1o2HOG055-ruZr7t2OwxOuHAzrjsWlBsZ",
+                  "name": "BVT DẠY_TDMYV17_FGC_VẬN DỤNG KN VÁCH NGĂN VÀ CHIA KẸO VÀO BÀI TOÁN TỔNG HỢP_2027A .pdf",
+                  "mimeType": "application/pdf",
+                  "size": 7382409,
+                  "webViewLink": "https://drive.google.com/file/d/1o2HOG055-ruZr7t2OwxOuHAzrjsWlBsZ/view?usp=drivesdk",
+                  "modifiedTime": "2026-04-19T03:40:10.322Z",
+                  "videoMediaMetadata": null
+                },
+                {
+                  "id": "1dkzc46b76wYjGvCLsWZYIVQAnj6q22sg",
+                  "name": "TDMYV17- Kĩ năng vận dụng Vách Ngăn và Chia Kẹo vào BTTH.mp4",
+                  "mimeType": "video/mp4",
+                  "size": 818997217,
+                  "webViewLink": "https://drive.google.com/file/d/1dkzc46b76wYjGvCLsWZYIVQAnj6q22sg/view?usp=drivesdk",
+                  "modifiedTime": "2026-04-19T03:40:14.869Z",
+                  "videoMediaMetadata": {
+                    "width": 1920,
+                    "height": 1080,
+                    "durationMillis": "6304199"
+                  }
+                },
+                {
+                  "id": "1dmY3BBLUQzNld6vVZc49_0BDfZWLyTna",
+                  "name": "TDMYV17_FGC_VẬN DỤNG KN VÁCH NGĂN VÀ CHIA KẸO VÀO BÀI TOÁN TỔNG HỢP_2027A.pdf",
+                  "mimeType": "application/pdf",
+                  "size": 403492,
+                  "webViewLink": "https://drive.google.com/file/d/1dmY3BBLUQzNld6vVZc49_0BDfZWLyTna/view?usp=drivesdk",
+                  "modifiedTime": "2026-04-19T03:40:13.442Z",
+                  "videoMediaMetadata": null
+                },
+                {
+                  "id": "1Lb9QyCb_8c-ODvFvqTiHPTVkcMyaYGqW",
+                  "name": "TDMYV17_ĐTL_VD KN VÁCH NGĂN VÀ CHIA KẸO VÀO BT TỔNG HỢP_2027A.pdf",
+                  "mimeType": "application/pdf",
+                  "size": 386806,
+                  "webViewLink": "https://drive.google.com/file/d/1Lb9QyCb_8c-ODvFvqTiHPTVkcMyaYGqW/view?usp=drivesdk",
+                  "modifiedTime": "2026-04-19T03:40:11.965Z",
+                  "videoMediaMetadata": null
+                }
+              ]
+            },
+            {
+              "id": "1-XCbJCb_CH9RNMFEoqb7AJmMR3woyvjk",
+              "name": "TDMYV21_KN định vị xắp xếp",
+              "webViewLink": "https://drive.google.com/drive/folders/1-XCbJCb_CH9RNMFEoqb7AJmMR3woyvjk",
+              "modifiedTime": "2026-04-19T03:40:02.572Z",
+              "children": [],
+              "files": [
+                {
+                  "id": "1wRda7lSb3PVA4QfKurzEun6q9zcgaz2L",
+                  "name": "Bg01. Kĩ năng định vị sắp xếp.mp4",
+                  "mimeType": "video/mp4",
+                  "size": 165383600,
+                  "webViewLink": "https://drive.google.com/file/d/1wRda7lSb3PVA4QfKurzEun6q9zcgaz2L/view?usp=drivesdk",
+                  "modifiedTime": "2026-04-19T03:40:03.396Z",
+                  "videoMediaMetadata": {
+                    "width": 1920,
+                    "height": 1080,
+                    "durationMillis": "2481199"
+                  }
+                },
+                {
+                  "id": "1LC0aNcEO1kWNItKNsdDUDwEmk6HKlnjD",
+                  "name": "BVT_TDMYV21_FCD_KN ĐỊNH VỊ SẮP XẾP_2027A.pdf",
+                  "mimeType": "application/pdf",
+                  "size": 4794243,
+                  "webViewLink": "https://drive.google.com/file/d/1LC0aNcEO1kWNItKNsdDUDwEmk6HKlnjD/view?usp=drivesdk",
+                  "modifiedTime": "2026-04-19T03:40:04.823Z",
+                  "videoMediaMetadata": null
+                },
+                {
+                  "id": "1cX01dKNiUm6b_aPpyQ1zZVFVg-K_QqeM",
+                  "name": "TDMYV21_FCD_KN ĐỊNH VỊ SẮP XẾP_2027A.pdf",
+                  "mimeType": "application/pdf",
+                  "size": 371529,
+                  "webViewLink": "https://drive.google.com/file/d/1cX01dKNiUm6b_aPpyQ1zZVFVg-K_QqeM/view?usp=drivesdk",
+                  "modifiedTime": "2026-04-19T03:40:07.757Z",
+                  "videoMediaMetadata": null
+                },
+                {
+                  "id": "1cSzLpznWl9Q56ZYm1kikwk-lo1tjrhuB",
+                  "name": "ĐỀ TDMYV21_ĐTL_KN ĐỊNH VỊ HÌNH HỌC SẮP XẾP_2027A.pdf",
+                  "mimeType": "application/pdf",
+                  "size": 438404,
+                  "webViewLink": "https://drive.google.com/file/d/1cSzLpznWl9Q56ZYm1kikwk-lo1tjrhuB/view?usp=drivesdk",
+                  "modifiedTime": "2026-04-19T03:40:06.295Z",
+                  "videoMediaMetadata": null
+                }
+              ]
+            }
+          ],
+          "files": []
+        },
+        {
+          "id": "1yZol-V65zyLd3m1TmMv542U0Pt2n00yT",
+          "name": "2.3 TDMYR2027 - VDC Toán thực tế",
+          "webViewLink": "https://drive.google.com/drive/folders/1yZol-V65zyLd3m1TmMv542U0Pt2n00yT",
+          "modifiedTime": "2026-04-17T13:59:54.978Z",
+          "children": [
+            {
+              "id": "143z2zgaspQV5_oXgx-12s6v3AZpFVewH",
+              "name": "TDMYR001. BT đón bắt mục tiêu 01",
+              "webViewLink": "https://drive.google.com/drive/folders/143z2zgaspQV5_oXgx-12s6v3AZpFVewH",
+              "modifiedTime": "2026-04-19T03:39:51.060Z",
+              "children": [],
+              "files": [
+                {
+                  "id": "1Rh3nrlPtL2T8j1Nd2t9waF3oHfk22SqW",
+                  "name": "Bg01. BT đón bắt mục tiêu 01.mp4",
+                  "mimeType": "video/mp4",
+                  "size": 674963616,
+                  "webViewLink": "https://drive.google.com/file/d/1Rh3nrlPtL2T8j1Nd2t9waF3oHfk22SqW/view?usp=drivesdk",
+                  "modifiedTime": "2026-04-19T03:40:00.595Z",
+                  "videoMediaMetadata": {
+                    "width": 1280,
+                    "height": 720,
+                    "durationMillis": "2430127"
+                  }
+                },
+                {
+                  "id": "1RXzsDwb-G5NQIC0zJLbHaH0q0OPAef4E",
+                  "name": "BVT_LIVE_TDMYR001_ĐTL_BT ĐÓN BẮT MỤC TIÊU 01.pdf",
+                  "mimeType": "application/pdf",
+                  "size": 7298472,
+                  "webViewLink": "https://drive.google.com/file/d/1RXzsDwb-G5NQIC0zJLbHaH0q0OPAef4E/view?usp=drivesdk",
+                  "modifiedTime": "2026-04-19T03:39:54.714Z",
+                  "videoMediaMetadata": null
+                },
+                {
+                  "id": "1XYTEsIb0CUFGFOXM22p39WoZ4tIHbHoy",
+                  "name": "BVT_TDMYR001_FCD_BT ĐÓN BẮT MỤC TIÊU DI ĐỘNG TRONG MP.pdf",
+                  "mimeType": "application/pdf",
+                  "size": 5099519,
+                  "webViewLink": "https://drive.google.com/file/d/1XYTEsIb0CUFGFOXM22p39WoZ4tIHbHoy/view?usp=drivesdk",
+                  "modifiedTime": "2026-04-19T03:39:53.322Z",
+                  "videoMediaMetadata": null
+                },
+                {
+                  "id": "1FsCUao0Kf_pcrNnkakwi_QWENRwLaRvd",
+                  "name": "Chữa ĐTL TDMYR001.mp4",
+                  "mimeType": "video/mp4",
+                  "size": 211789520,
+                  "webViewLink": "https://drive.google.com/file/d/1FsCUao0Kf_pcrNnkakwi_QWENRwLaRvd/view?usp=drivesdk",
+                  "modifiedTime": "2026-04-19T03:39:58.875Z",
+                  "videoMediaMetadata": {
+                    "width": 1920,
+                    "height": 1080,
+                    "durationMillis": "3339000"
+                  }
+                },
+                {
+                  "id": "1PZpiX4rZ3cpQDudfC2wKXyf46erOvB27",
+                  "name": "KEY ĐỀ TDMYR001_ĐTL_BT ĐÓN BẮT MỤC TIÊU DI ĐỘNG.pdf",
+                  "mimeType": "application/pdf",
+                  "size": 108479,
+                  "webViewLink": "https://drive.google.com/file/d/1PZpiX4rZ3cpQDudfC2wKXyf46erOvB27/view?usp=drivesdk",
+                  "modifiedTime": "2026-04-19T03:39:51.935Z",
+                  "videoMediaMetadata": null
+                },
+                {
+                  "id": "1qlgr0BpvPeoQSc424k4rcFHUj22AT5pq",
+                  "name": "TDMYR001_FCD_BT ĐÓN BẮT MỤC TIÊU DI ĐỘNG TRONG MP.pdf",
+                  "mimeType": "application/pdf",
+                  "size": 403003,
+                  "webViewLink": "https://drive.google.com/file/d/1qlgr0BpvPeoQSc424k4rcFHUj22AT5pq/view?usp=drivesdk",
+                  "modifiedTime": "2026-04-19T03:39:57.517Z",
+                  "videoMediaMetadata": null
+                },
+                {
+                  "id": "1s1Sv8v70Vuw_bUc1sPxtV7DIvP22PFP5",
+                  "name": "ĐỀ TDMYR001_ĐTL_BT ĐÓN BẮT MỤC TIÊU DI ĐỘNG.pdf",
+                  "mimeType": "application/pdf",
+                  "size": 283736,
+                  "webViewLink": "https://drive.google.com/file/d/1s1Sv8v70Vuw_bUc1sPxtV7DIvP22PFP5/view?usp=drivesdk",
+                  "modifiedTime": "2026-04-19T03:39:56.137Z",
+                  "videoMediaMetadata": null
+                }
+              ]
+            }
+          ],
+          "files": []
+        }
+      ],
+      "files": [],
+      "webViewLink": "https://drive.google.com/drive/folders/1zEYO6yXG7zPK6Lpq76Mx9dmonY01Ew9D",
+      "modifiedTime": "2026-04-17T16:31:12.133Z"
+    },
+    {
+      "id": "1vw0dUA9hhfSMQ73TayKM_1EJEV2t5ha9",
+      "name": "3. KHOÁ TDMZ 2027 TINH HOA THỰC CHIẾN - TỔNG ÔN - VỀ ĐÍCH",
+      "children": [],
+      "files": [],
+      "webViewLink": "https://drive.google.com/drive/folders/1vw0dUA9hhfSMQ73TayKM_1EJEV2t5ha9",
+      "modifiedTime": "2026-04-17T16:31:12.133Z"
+    },
+    {
+      "id": "1G4ZdVsu45J0OXtTUjpwil9a5qEQNdtwP",
+      "name": "4. KHOÁ TDMT 2027 KSCL VÀ ÔN GIỮA KÌ - ÔN HỌC KÌ TOÁN LÝ CHẤT LƯỢNG CAO",
+      "children": [],
+      "files": [],
+      "webViewLink": "https://drive.google.com/drive/folders/1G4ZdVsu45J0OXtTUjpwil9a5qEQNdtwP",
+      "modifiedTime": "2026-04-17T16:31:12.133Z"
+    },
+    {
+      "id": "1eJeE4xiz7syXE_wvtXMY5YS96MT3g0Gp",
+      "name": "KHOÁ TDMG 2027 ÔN TẬP CỐT LÕI TOÁN 10 -11",
+      "children": [],
+      "files": [],
+      "webViewLink": "https://drive.google.com/drive/folders/1eJeE4xiz7syXE_wvtXMY5YS96MT3g0Gp",
+      "modifiedTime": "2026-04-17T16:31:12.133Z"
+    },
+    {
+      "id": "1idUbRzxgji31VCDSe0I709dYedHsmFaQ",
+      "name": "KHOÁ TDMU 2027 BỔ TRỢ TSA - HSA - VACT",
+      "children": [],
+      "files": [],
+      "webViewLink": "https://drive.google.com/drive/folders/1idUbRzxgji31VCDSe0I709dYedHsmFaQ",
+      "modifiedTime": "2026-04-17T16:31:12.133Z"
+    },
+    {
+      "id": "1KqD06rIBrt-6mm5Nv57ka_I2YMMek25a",
+      "name": "Z. EBOOK SÁCH KÈM KHOÁ HỌC",
+      "children": [
+        {
+          "id": "1KSEApHFPh_jhAHsyLDZC3QCfYReVRbo2",
+          "name": "Sách toán thầy Ái, đợi thầy hoàn thiện gửi sau",
+          "webViewLink": "https://drive.google.com/drive/folders/1KSEApHFPh_jhAHsyLDZC3QCfYReVRbo2",
+          "modifiedTime": "2026-05-25T11:05:45.799Z",
+          "children": [],
+          "files": []
+        }
+      ],
+      "files": [],
+      "webViewLink": "https://drive.google.com/drive/folders/1KqD06rIBrt-6mm5Nv57ka_I2YMMek25a",
+      "modifiedTime": "2026-04-17T16:31:12.133Z"
+    }
+  ]
+}

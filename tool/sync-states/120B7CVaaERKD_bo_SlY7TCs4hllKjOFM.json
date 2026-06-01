@@ -1,0 +1,92 @@
+{
+  "teacherId": "120B7CVaaERKD_bo_SlY7TCs4hllKjOFM",
+  "tabs": {
+    "1u33IyibSA-nrFZZP3brVOleSpUNUvjlM": {
+      "tabName": "Khóa F",
+      "renderedAt": "2026-05-31T03:51:58.336Z",
+      "checksum": "1u33IyibSA-nrFZZP3brVOleSpUNUvjlM|2026-05-28T09:02:56.929Z|35",
+      "lessons": [],
+      "rendererVersion": "4.3.1",
+      "styleVersion": "2026-05-31-student-banner-no-meta-v2",
+      "runId": "no-meta-sync-2026-05-31-104541",
+      "spreadsheetId": "1m-ksBCjxOgCJtW1NMxJMXz0ECshqlqJsLLiuMif_h40",
+      "stats": {
+        "leafCount": 9,
+        "totalVideos": 19
+      }
+    },
+    "1VCPDT839La3y3wUV1WVZzDFC-xDWhA_m": {
+      "tabName": "Khóa L",
+      "renderedAt": "2026-05-31T03:52:06.963Z",
+      "checksum": "1VCPDT839La3y3wUV1WVZzDFC-xDWhA_m|2026-05-27T08:36:20.070Z|23",
+      "lessons": [
+        {
+          "id": "1gKFZN_iMqowRCmFZRLyRmZr2_O-Rrd_u",
+          "name": "CHỦ ĐỀ 01: TÍNH ĐƠN ĐIỆU CỦA HÀM SỐ",
+          "parentName": "KHOÁ L NỀN TÀNG 12 - 2027",
+          "checksum": "2026-05-26T12:36:45.624Z|9",
+          "virtual": false
+        },
+        {
+          "id": "1NAPPH3Pl8gAErV7h5FkZtp2V2lmsdqvc",
+          "name": "Chủ đề 02: Cực trị của hàm số",
+          "parentName": "KHOÁ L NỀN TÀNG 12 - 2027",
+          "checksum": "2026-05-27T08:36:20.070Z|14",
+          "virtual": false
+        }
+      ],
+      "rendererVersion": "4.3.1",
+      "styleVersion": "2026-05-31-student-banner-no-meta-v2",
+      "runId": "no-meta-sync-2026-05-31-104541",
+      "spreadsheetId": "1m-ksBCjxOgCJtW1NMxJMXz0ECshqlqJsLLiuMif_h40",
+      "stats": {
+        "leafCount": 2,
+        "totalVideos": 18
+      }
+    },
+    "124n37aXpUP6-jJxXLD844zPRPOJJqwvS": {
+      "tabName": "Khóa A",
+      "renderedAt": "2026-05-31T03:52:14.232Z",
+      "checksum": "124n37aXpUP6-jJxXLD844zPRPOJJqwvS|2026-05-24T07:47:47.101Z|0",
+      "lessons": [],
+      "rendererVersion": "4.3.1",
+      "styleVersion": "2026-05-31-student-banner-no-meta-v2",
+      "runId": "no-meta-sync-2026-05-31-104541",
+      "spreadsheetId": "1m-ksBCjxOgCJtW1NMxJMXz0ECshqlqJsLLiuMif_h40",
+      "stats": {
+        "leafCount": 0,
+        "totalVideos": 0
+      }
+    },
+    "1lyrcrMCy1hMrQXw-c8xZ-1J2ZA0iJFOZ": {
+      "tabName": "Khóa S",
+      "renderedAt": "2026-05-31T03:52:21.499Z",
+      "checksum": "1lyrcrMCy1hMrQXw-c8xZ-1J2ZA0iJFOZ|2026-05-24T07:47:45.941Z|0",
+      "lessons": [],
+      "rendererVersion": "4.3.1",
+      "styleVersion": "2026-05-31-student-banner-no-meta-v2",
+      "runId": "no-meta-sync-2026-05-31-104541",
+      "spreadsheetId": "1m-ksBCjxOgCJtW1NMxJMXz0ECshqlqJsLLiuMif_h40",
+      "stats": {
+        "leafCount": 0,
+        "totalVideos": 0
+      }
+    },
+    "1CT2pgoGDrJgS481tUtDVvsZcrCX7JCmb": {
+      "tabName": "Khóa H",
+      "renderedAt": "2026-05-31T03:52:28.755Z",
+      "checksum": "1CT2pgoGDrJgS481tUtDVvsZcrCX7JCmb|2026-05-24T07:47:44.072Z|0",
+      "lessons": [],
+      "rendererVersion": "4.3.1",
+      "styleVersion": "2026-05-31-student-banner-no-meta-v2",
+      "runId": "no-meta-sync-2026-05-31-104541",
+      "spreadsheetId": "1m-ksBCjxOgCJtW1NMxJMXz0ECshqlqJsLLiuMif_h40",
+      "stats": {
+        "leafCount": 0,
+        "totalVideos": 0
+      }
+    }
+  },
+  "updatedAt": "2026-05-31T03:52:28.756Z",
+  "version": 2
+}

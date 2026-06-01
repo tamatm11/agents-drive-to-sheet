@@ -1,0 +1,51 @@
+{
+  "crawledAt": "2026-05-29T10:40:16.198Z",
+  "teacher": {
+    "id": "1Um-vXqr6Y-oq92OF7i87l-O3jYRU5Rbj",
+    "name": "8. LÝ THẦY NGUYỄN ĐĂNG ÁI TDM 2k9",
+    "modifiedTime": "2026-05-27T15:22:45.449Z",
+    "webViewLink": "https://drive.google.com/drive/folders/1Um-vXqr6Y-oq92OF7i87l-O3jYRU5Rbj"
+  },
+  "courses": [
+    {
+      "id": "1yE8bWKGUqurtwEeEyj_x5BEDZqaTcQyJ",
+      "name": "0. INFO THÔNG TIN VÀ HƯỚNG DẪN KHOÁ HỌC",
+      "children": [],
+      "files": [],
+      "webViewLink": "https://drive.google.com/drive/folders/1yE8bWKGUqurtwEeEyj_x5BEDZqaTcQyJ",
+      "modifiedTime": "2026-04-19T23:14:48.312Z"
+    },
+    {
+      "id": "1k7JzDxxTcdIP3by4710TQ80ZgMi57ylT",
+      "name": "1. TDPX2027 BẢN CHẤT VÀ NỀN TẢNG VẬN DỤNG VẬT LÝ THPT",
+      "children": [],
+      "files": [],
+      "webViewLink": "https://drive.google.com/drive/folders/1k7JzDxxTcdIP3by4710TQ80ZgMi57ylT",
+      "modifiedTime": "2026-04-19T23:14:47.677Z"
+    },
+    {
+      "id": "1VCbjwH_LMGatwZVWrz4w3srAiICT8lK_",
+      "name": "2. TDPY2027 NÂNG CAO VẬT LÝ THPT",
+      "children": [],
+      "files": [],
+      "webViewLink": "https://drive.google.com/drive/folders/1VCbjwH_LMGatwZVWrz4w3srAiICT8lK_",
+      "modifiedTime": "2026-04-19T23:14:47.102Z"
+    },
+    {
+      "id": "1n4K6-VruAlHCLEDvb0OKE2xbFxLjmxJ6",
+      "name": "3. TDPZ2027 TINH HOA TỔNG ÔN VÀ THỰC CHIẾN VẬT LÝ",
+      "children": [],
+      "files": [],
+      "webViewLink": "https://drive.google.com/drive/folders/1n4K6-VruAlHCLEDvb0OKE2xbFxLjmxJ6",
+      "modifiedTime": "2026-04-19T23:14:46.420Z"
+    },
+    {
+      "id": "1fFRFqq9nlaSp12jYFo0HtMwQx16nc4z4",
+      "name": "Z. EBOOK SÁCH KÈM KHOÁ HỌC",
+      "children": [],
+      "files": [],
+      "webViewLink": "https://drive.google.com/drive/folders/1fFRFqq9nlaSp12jYFo0HtMwQx16nc4z4",
+      "modifiedTime": "2026-04-19T23:14:49.022Z"
+    }
+  ]
+}

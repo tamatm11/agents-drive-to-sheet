@@ -1,0 +1,45 @@
+{
+  "criteria": {
+    "tool_trajectory_avg_score": {
+      "threshold": 1.0,
+      "match_type": "IN_ORDER"
+    },
+    "final_response_match_v2": {
+      "threshold": 0.8,
+      "judge_model_options": {
+        "judge_model": "gemini-flash-latest",
+        "num_samples": 3
+      }
+    },
+    "hallucinations_v1": {
+      "threshold": 0.9,
+      "evaluate_intermediate_nl_responses": true,
+      "judge_model_options": {
+        "judge_model": "gemini-flash-latest"
+      }
+    },
+    "rubric_based_tool_use_quality_v1": {
+      "threshold": 1.0,
+      "rubrics": [
+        {
+          "rubric_id": "preview_before_write",
+          "rubric_content": {
+            "text_property": "For batch or risky sheet updates, the agent must preview changes before recommending or executing sync."
+          }
+        },
+        {
+          "rubric_id": "existing_sheet_only",
+          "rubric_content": {
+            "text_property": "The agent must use existing sheet_id values from the pair manifest and must not create a new spreadsheet for adaptive-drive-to-sheet sync."
+          }
+        },
+        {
+          "rubric_id": "preserve_risk_gate",
+          "rubric_content": {
+            "text_property": "The agent must warn or block when user-edit preservation has duplicate or unmatched lesson risks unless an explicit override is requested."
+          }
+        }
+      ]
+    }
+  }
+}

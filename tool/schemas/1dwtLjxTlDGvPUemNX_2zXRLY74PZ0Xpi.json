@@ -1,0 +1,79 @@
+{
+  "updatedAt": "2026-05-28T12:18:35.701Z",
+  "teacher": {
+    "id": "1dwtLjxTlDGvPUemNX_2zXRLY74PZ0Xpi",
+    "name": "2. LÝ THẦY VŨ TUẤN ANH SANGSANG 2K9"
+  },
+  "schema": {
+    "levels": [
+      {
+        "depth": 0,
+        "label": "Chương / Chuyên đề",
+        "icon": "📖",
+        "bold": true,
+        "bg": "#FCE5C0",
+        "namePatternHint": "Cấp 1: vd '0. ĐÁN ÁN SÁCH LÝ THUYẾT NỀN TẢNG-ĐÍNH CHÍNH ', '1. CHƯƠNG 1: VẬT LÝ NHIỆT', '2. CHƯƠNG II: KHÍ LÍ TƯỞNG', '3. CHƯƠNG III: TỪ TRƯỜNG', '4. CHƯƠNG IV: VẬT LÝ HẠT NHÂN'"
+      }
+    ],
+    "leafFallback": {
+      "label": "Bài",
+      "icon": "📂",
+      "bold": true,
+      "bg": "#FCF1D4",
+      "note": "Một số khóa file nằm cấp nông hơn — render thẳng như leaf bài học."
+    },
+    "courseRow": {
+      "icon": "📚",
+      "bold": true,
+      "fontSize": 12,
+      "bg": "#D4E5FA"
+    },
+    "videoRow": {
+      "icon": "▸",
+      "indent": "extra-from-leaf"
+    },
+    "notes": "Auto-detect (1 cấp). 1/4 khóa có cấu trúc. Pattern: flat. Skip 2 folder meta. Chưa có file (chỉ folder rỗng) — schema dựa trên depth folder."
+  },
+  "_meta": {
+    "source": "auto-detect",
+    "version": 1,
+    "generated_at": "2026-05-28T12:18:35.701Z",
+    "confidence": "high",
+    "dominant_depth": 1,
+    "dominant_share": 1,
+    "patterns_observed": [
+      "flat"
+    ],
+    "meta_courses_skipped": [
+      "0. INFO THÔNG TIN VÀ HƯỚNG DẪN KHOÁ HỌC",
+      "Z. EBOOK SÁCH KÈM KHOÁ HỌC"
+    ],
+    "course_breakdown": [
+      {
+        "name": "1. LÝ THUYẾT NỀN TẢNG VẬT LÍ 12 2K9",
+        "structure_depth": 1,
+        "pattern": "flat",
+        "files": 0
+      },
+      {
+        "name": "2. LIVE C - Luyện Thi Chuyên Đề - Lí 12 2K9 - VTA",
+        "structure_depth": 0,
+        "pattern": "empty",
+        "files": 0
+      },
+      {
+        "name": "3. LIVE T - Luyện đề - Vật Lí 12 2K9 - VTA",
+        "structure_depth": 0,
+        "pattern": "empty",
+        "files": 0
+      },
+      {
+        "name": "4. LIVE G - Tổng ôn - Vật lí 12 2K9 - VTA",
+        "structure_depth": 0,
+        "pattern": "empty",
+        "files": 0
+      }
+    ],
+    "no_files_yet": true
+  }
+}

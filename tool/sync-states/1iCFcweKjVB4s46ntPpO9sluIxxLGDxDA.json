@@ -1,0 +1,212 @@
+{
+  "teacherId": "1iCFcweKjVB4s46ntPpO9sluIxxLGDxDA",
+  "tabs": {
+    "12Y8kNGIBBD1FTScfpd_vEUh49QKh3dHp": {
+      "tabName": "Khóa T",
+      "renderedAt": "2026-05-31T03:46:34.476Z",
+      "checksum": "12Y8kNGIBBD1FTScfpd_vEUh49QKh3dHp|2026-05-22T08:21:39.295Z|45",
+      "lessons": [
+        {
+          "id": "1wd9uX4Du9QYXLkBxgyr8dMIOwUOZ8HTZ",
+          "name": "T1-A1 – Nền tảng về tính đơn điệu và cực trị của hàm số",
+          "parentName": "1. CHƯƠNG 1 - HÀM SỐ\t\t",
+          "checksum": "2026-05-22T08:21:39.295Z|9",
+          "virtual": false
+        },
+        {
+          "id": "1NkBoDdlYrtPfeqHRvEDLgL7waMfonZ_T",
+          "name": "T1-A2 – Nền tảng về Min Max của hàm số",
+          "parentName": "1. CHƯƠNG 1 - HÀM SỐ\t\t",
+          "checksum": "2026-04-28T13:30:04.474Z|8",
+          "virtual": false
+        },
+        {
+          "id": "1esrreICcaUsziHBKdXvzh02GijAEHcft",
+          "name": "T1-A3 – Nền tảng về tiệm cận của đồ thị hàm số",
+          "parentName": "1. CHƯƠNG 1 - HÀM SỐ\t\t",
+          "checksum": "2026-04-28T13:29:45.547Z|4",
+          "virtual": false
+        },
+        {
+          "id": "1LXGC3pdDebFzwv3puhjhuivfGGV4edbh",
+          "name": "T1-A4 – Khảo sát sự biến thiên và vẽ đồ thị hàm số",
+          "parentName": "1. CHƯƠNG 1 - HÀM SỐ\t\t",
+          "checksum": "2026-05-22T08:21:38.123Z|5",
+          "virtual": false
+        },
+        {
+          "id": "15Ob4AbcIys87WVPeZ70qqxil5IT1O8Re",
+          "name": "T1-A5 - Ứng dụng đạo hàm giải toán thực tiễn",
+          "parentName": "1. CHƯƠNG 1 - HÀM SỐ\t\t",
+          "checksum": "2026-05-22T08:21:37.506Z|4",
+          "virtual": false
+        },
+        {
+          "id": "11xobw7rcg3cw4XR2Bbd1x7q3anaTTWXm",
+          "name": "T1-B1 - Vecto trong không gian",
+          "parentName": "2. CHƯƠNG 2 - TỌA ĐỘ VECTO\t\t",
+          "checksum": "2026-05-22T08:21:36.829Z|4",
+          "virtual": false
+        },
+        {
+          "id": "1aN9qRLv2xR30xVdJLTDf-_53zlDpJdP3",
+          "name": "T1-B2 - Tọa độ vecto",
+          "parentName": "2. CHƯƠNG 2 - TỌA ĐỘ VECTO\t\t",
+          "checksum": "2026-05-22T08:21:36.527Z|4",
+          "virtual": false
+        },
+        {
+          "id": "1bMAvfwdiPSl5lzVoykc9dOU7xb7EEGgt",
+          "name": "T1-X1 - Test đơn điệu, cực trị, Min Max",
+          "parentName": "X. CHƯƠNG X - TEST\t\t",
+          "checksum": "2026-05-04T16:08:03.373Z|3",
+          "virtual": false
+        },
+        {
+          "id": "1gjAAxIuUE88BR5lGgjE3lLAvs0SDmc9m",
+          "name": "T1-X2 - Test tổng ôn Hàm Số",
+          "parentName": "X. CHƯƠNG X - TEST\t\t",
+          "checksum": "2026-05-22T08:21:35.429Z|3",
+          "virtual": false
+        }
+      ],
+      "rendererVersion": "4.3.1",
+      "styleVersion": "2026-05-31-student-banner-no-meta-v2",
+      "runId": "no-meta-sync-2026-05-31-104541",
+      "spreadsheetId": "1xUUjbxnXmq8G6zKKd2pEDnl0bzbOs7hSVpDdMoqjGLg",
+      "stats": {
+        "leafCount": 10,
+        "totalVideos": 24
+      }
+    },
+    "1f2b-s6FaD8TYgLxUkQk7Q09DQ59gJF5Q": {
+      "tabName": "Khóa E",
+      "renderedAt": "2026-05-31T03:46:45.049Z",
+      "checksum": "1f2b-s6FaD8TYgLxUkQk7Q09DQ59gJF5Q|2026-05-04T16:07:54.843Z|27",
+      "lessons": [
+        {
+          "id": "1rTONXz2uE7T8LDLX1e2FJHhQk8mvNirs",
+          "name": "E1-B8-Buổi 1 - Kỹ năng tìm khoảng cách từ chân đường vuông góc tới mặt bên và kỹ năng đổi điểm",
+          "parentName": "8. CHƯƠNG B8 - GÓC VÀ KHOẢNG CÁCH\t\t",
+          "checksum": "2026-05-04T16:07:32.310Z|5",
+          "virtual": false
+        },
+        {
+          "id": "11Ccmh14AAdhtzAIf7OoNj7gbflnJwDqt",
+          "name": "E1-B8-Buổi 2 - Tạo mặt phẳng song song tìm khoảng cách giữa hai đường thẳng chéo nhau",
+          "parentName": "8. CHƯƠNG B8 - GÓC VÀ KHOẢNG CÁCH\t\t",
+          "checksum": "2026-05-04T16:07:54.843Z|3",
+          "virtual": false
+        },
+        {
+          "id": "1yZrEy_eH0XuaV35WglAuPuBzQSUeUzsJ",
+          "name": "E1-B8-Buổi 3 - Bổ trợ 20 bài toán khoảng cách giữa 2 đường thẳng chéo nhau",
+          "parentName": "8. CHƯƠNG B8 - GÓC VÀ KHOẢNG CÁCH\t\t",
+          "checksum": "2026-05-04T16:07:24.909Z|2",
+          "virtual": false
+        },
+        {
+          "id": "182GTuawt2aP45-UtwuyuxscmMMHU3h3u",
+          "name": "E1-B8-Buổi 3 - Sơ đồ ĐKH và công thức ĐKH",
+          "parentName": "8. CHƯƠNG B8 - GÓC VÀ KHOẢNG CÁCH\t\t",
+          "checksum": "2026-05-04T16:07:17.616Z|3",
+          "virtual": false
+        },
+        {
+          "id": "1J5wUtIB0r9K8rFXRqIxABLTOMFAhF9Uy",
+          "name": "E1-B8-Buổi 4 - Kỹ năng tìm góc qua khoảng cách",
+          "parentName": "8. CHƯƠNG B8 - GÓC VÀ KHOẢNG CÁCH\t\t",
+          "checksum": "2026-05-04T16:07:44.515Z|3",
+          "virtual": false
+        },
+        {
+          "id": "10kmp6A7LIehxsXdA4iVUVnadT2ue9x_0",
+          "name": "E1-B8-Buổi 5 - Bổ trợ 20 bài toán góc nhị diện",
+          "parentName": "8. CHƯƠNG B8 - GÓC VÀ KHOẢNG CÁCH\t\t",
+          "checksum": "2026-05-04T16:07:40.009Z|2",
+          "virtual": false
+        },
+        {
+          "id": "1AFQydpsg6KUPnIl1r4FJaXK89XTWQ9D1",
+          "name": "E1-B8-Buổi 5 - Góc nhị diện và tính số đo góc nhị diện",
+          "parentName": "8. CHƯƠNG B8 - GÓC VÀ KHOẢNG CÁCH\t\t",
+          "checksum": "2026-05-04T16:07:36.779Z|3",
+          "virtual": false
+        },
+        {
+          "id": "1AYsk5VGSiVlYRGdSxmvolTx4fkhDFstU",
+          "name": "E1-B8-Buổi 6 - Thể tích và tỉ lệ thể tích hình chóp đáy là tam giác",
+          "parentName": "8. CHƯƠNG B8 - GÓC VÀ KHOẢNG CÁCH\t\t",
+          "checksum": "2026-05-04T16:07:51.051Z|2",
+          "virtual": false
+        },
+        {
+          "id": "1ll9TSKn-CNe_oUKF9V5sa804hTRRByEx",
+          "name": "E1-B8-Buổi 7 - Bổ trợ 20 bài toán thể tích, tỉ lệ thể tích",
+          "parentName": "8. CHƯƠNG B8 - GÓC VÀ KHOẢNG CÁCH\t\t",
+          "checksum": "2026-05-04T16:07:13.164Z|2",
+          "virtual": false
+        },
+        {
+          "id": "1sQJwINtD0BchCYPDvP1dDh3eRUpmucXI",
+          "name": "E1-B8-Buổi 7 - Ti lệ thể tích hình chóp đáy là hình bình hành",
+          "parentName": "8. CHƯƠNG B8 - GÓC VÀ KHOẢNG CÁCH\t\t",
+          "checksum": "2026-05-04T16:07:47.994Z|2",
+          "virtual": false
+        }
+      ],
+      "rendererVersion": "4.3.1",
+      "styleVersion": "2026-05-31-student-banner-no-meta-v2",
+      "runId": "no-meta-sync-2026-05-31-104541",
+      "spreadsheetId": "1xUUjbxnXmq8G6zKKd2pEDnl0bzbOs7hSVpDdMoqjGLg",
+      "stats": {
+        "leafCount": 10,
+        "totalVideos": 7
+      }
+    },
+    "1hGlmt-dvsIdj8J4FgasFrccUtIeXV96u": {
+      "tabName": "BONUS 2K8 KIẾN",
+      "renderedAt": "2026-05-31T03:46:52.445Z",
+      "checksum": "1hGlmt-dvsIdj8J4FgasFrccUtIeXV96u|2026-04-17T16:25:01.543Z|0",
+      "lessons": [],
+      "rendererVersion": "4.3.1",
+      "styleVersion": "2026-05-31-student-banner-no-meta-v2",
+      "runId": "no-meta-sync-2026-05-31-104541",
+      "spreadsheetId": "1xUUjbxnXmq8G6zKKd2pEDnl0bzbOs7hSVpDdMoqjGLg",
+      "stats": {
+        "leafCount": 0,
+        "totalVideos": 0
+      }
+    },
+    "1cDyNbqoPPKYN7J4KdawGPHhX-azU-3r1": {
+      "tabName": "BONUS 2K8 TOÁN 12",
+      "renderedAt": "2026-05-31T03:46:59.882Z",
+      "checksum": "1cDyNbqoPPKYN7J4KdawGPHhX-azU-3r1|2026-04-17T16:25:01.543Z|0",
+      "lessons": [],
+      "rendererVersion": "4.3.1",
+      "styleVersion": "2026-05-31-student-banner-no-meta-v2",
+      "runId": "no-meta-sync-2026-05-31-104541",
+      "spreadsheetId": "1xUUjbxnXmq8G6zKKd2pEDnl0bzbOs7hSVpDdMoqjGLg",
+      "stats": {
+        "leafCount": 0,
+        "totalVideos": 0
+      }
+    },
+    "1uwdj1GsejbCC9mBtRwI3YhpEVqriWXb_": {
+      "tabName": "Khóa NS",
+      "renderedAt": "2026-05-31T03:47:07.045Z",
+      "checksum": "1uwdj1GsejbCC9mBtRwI3YhpEVqriWXb_|2026-04-17T16:25:01.543Z|0",
+      "lessons": [],
+      "rendererVersion": "4.3.1",
+      "styleVersion": "2026-05-31-student-banner-no-meta-v2",
+      "runId": "no-meta-sync-2026-05-31-104541",
+      "spreadsheetId": "1xUUjbxnXmq8G6zKKd2pEDnl0bzbOs7hSVpDdMoqjGLg",
+      "stats": {
+        "leafCount": 0,
+        "totalVideos": 0
+      }
+    }
+  },
+  "updatedAt": "2026-05-31T03:47:07.046Z",
+  "version": 2
+}

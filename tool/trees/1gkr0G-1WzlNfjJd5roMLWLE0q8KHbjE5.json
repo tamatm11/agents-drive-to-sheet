@@ -1,0 +1,67 @@
+{
+  "crawledAt": "2026-05-29T10:40:01.758Z",
+  "teacher": {
+    "id": "1gkr0G-1WzlNfjJd5roMLWLE0q8KHbjE5",
+    "name": "7. LÝ THẦY CHU VĂN BIÊN CHUVANBIEN 2027",
+    "modifiedTime": "2026-05-27T15:22:43.931Z",
+    "webViewLink": "https://drive.google.com/drive/folders/1gkr0G-1WzlNfjJd5roMLWLE0q8KHbjE5"
+  },
+  "courses": [
+    {
+      "id": "1t1G5MqFUQRb5FJcovdywNzVG7P1-5F5H",
+      "name": "0. INFO THÔNG TIN VÀ HƯỚNG DẪN KHOÁ HỌC",
+      "children": [],
+      "files": [],
+      "webViewLink": "https://drive.google.com/drive/folders/1t1G5MqFUQRb5FJcovdywNzVG7P1-5F5H",
+      "modifiedTime": "2026-04-19T04:06:18.286Z"
+    },
+    {
+      "id": "1n43TIc6_gqIWD-ehbBUsInPhDgls1tag",
+      "name": "1. VẬT LÝ 12 (2027)",
+      "children": [],
+      "files": [],
+      "webViewLink": "https://drive.google.com/drive/folders/1n43TIc6_gqIWD-ehbBUsInPhDgls1tag",
+      "modifiedTime": "2026-04-19T23:14:44.692Z"
+    },
+    {
+      "id": "1pw3PAdOt6ngmcGouBLXzzYZgdfgIPvsL",
+      "name": "2. VẬT LÝ 11 (2027)",
+      "children": [],
+      "files": [],
+      "webViewLink": "https://drive.google.com/drive/folders/1pw3PAdOt6ngmcGouBLXzzYZgdfgIPvsL",
+      "modifiedTime": "2026-04-19T23:14:43.939Z"
+    },
+    {
+      "id": "1DRtjWmyvjkEyIBoO1AeVgMXzSMuezoaP",
+      "name": "3. VẬT LÝ 10 (2027)",
+      "children": [],
+      "files": [],
+      "webViewLink": "https://drive.google.com/drive/folders/1DRtjWmyvjkEyIBoO1AeVgMXzSMuezoaP",
+      "modifiedTime": "2026-04-19T23:14:43.297Z"
+    },
+    {
+      "id": "1vbXMnkmfT9LQiwGv6e3F75dYbKHcNn2f",
+      "name": "GIẢI ĐỀ TRƯỜNG SỞ",
+      "children": [],
+      "files": [],
+      "webViewLink": "https://drive.google.com/drive/folders/1vbXMnkmfT9LQiwGv6e3F75dYbKHcNn2f",
+      "modifiedTime": "2026-04-19T23:14:41.935Z"
+    },
+    {
+      "id": "1jBYcWJIczN2enU8Jl9sIcDifRne9Ios3",
+      "name": "KIỂM TRA MỨC ĐỘ TIẾP THU BÀI HỌC",
+      "children": [],
+      "files": [],
+      "webViewLink": "https://drive.google.com/drive/folders/1jBYcWJIczN2enU8Jl9sIcDifRne9Ios3",
+      "modifiedTime": "2026-04-19T23:14:42.573Z"
+    },
+    {
+      "id": "1uBGjT2FAjDMHnTvXbgf8f5GrU5ZIWNhR",
+      "name": "Z. EBOOK SÁCH KÈM KHOÁ HỌC",
+      "children": [],
+      "files": [],
+      "webViewLink": "https://drive.google.com/drive/folders/1uBGjT2FAjDMHnTvXbgf8f5GrU5ZIWNhR",
+      "modifiedTime": "2026-04-19T04:06:19.143Z"
+    }
+  ]
+}

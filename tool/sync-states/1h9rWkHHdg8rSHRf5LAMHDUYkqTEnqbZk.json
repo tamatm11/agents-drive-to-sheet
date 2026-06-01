@@ -1,0 +1,127 @@
+{
+  "teacherId": "1h9rWkHHdg8rSHRf5LAMHDUYkqTEnqbZk",
+  "tabs": {
+    "1TnT-Tiv9Z8wGt-lGCZNyZ-LrhR2Mf0QI": {
+      "tabName": "LIVE I",
+      "renderedAt": "2026-05-31T03:51:11.091Z",
+      "checksum": "1TnT-Tiv9Z8wGt-lGCZNyZ-LrhR2Mf0QI|2026-05-25T10:00:36.573Z|41",
+      "lessons": [
+        {
+          "id": "1M4Zp6qzLyLE_EPYxfZr1XZBQgsat7lNJ",
+          "name": "#1. I101: Tính đơn điệu của hàm số",
+          "parentName": "Chuyên đề 1: Ứng dụng đạo hàm khảo sát hàm số\t\t\t",
+          "checksum": "2026-04-21T21:49:54.415Z|4",
+          "virtual": false
+        },
+        {
+          "id": "1OFPPD3vqZLUgHPBfl3AFsDdHe4siHXUt",
+          "name": "#2. I102: Cực trị của hàm số",
+          "parentName": "Chuyên đề 1: Ứng dụng đạo hàm khảo sát hàm số\t\t\t",
+          "checksum": "2026-04-21T21:49:46.268Z|4",
+          "virtual": false
+        },
+        {
+          "id": "1wlgE3CF5NwOym0iSAPEZGqNBuDsabt3Q",
+          "name": "#3. I103: Giá trị lớn nhất và giá trị nhỏ nhất của hàm số",
+          "parentName": "Chuyên đề 1: Ứng dụng đạo hàm khảo sát hàm số\t\t\t",
+          "checksum": "2026-04-21T21:49:38.696Z|4",
+          "virtual": false
+        },
+        {
+          "id": "1hNMifC87UUDpawamQDg6C709si9nrrdr",
+          "name": "#4. I104: Ứng dụng đạo hàm giải bài toán tối ưu",
+          "parentName": "Chuyên đề 1: Ứng dụng đạo hàm khảo sát hàm số\t\t\t",
+          "checksum": "2026-04-21T21:49:31.102Z|5",
+          "virtual": false
+        },
+        {
+          "id": "1bU-Qh2Qe5y5-g-LUVjf1sqH_349G5zBe",
+          "name": "#5. Đề kiểm tra tính đơn điệu và Min Max của hàm số",
+          "parentName": "Chuyên đề 1: Ứng dụng đạo hàm khảo sát hàm số\t\t\t",
+          "checksum": "2026-04-27T15:59:42.378Z|2",
+          "virtual": false
+        },
+        {
+          "id": "17t0E5EbpRKhGG4cj4e3_nrRBl2yTAVRX",
+          "name": "#6. I105: Tiệm cận ngang và đứng của đồ thị hàm số",
+          "parentName": "Chuyên đề 1: Ứng dụng đạo hàm khảo sát hàm số\t\t\t",
+          "checksum": "2026-05-05T10:27:13.069Z|3",
+          "virtual": false
+        },
+        {
+          "id": "1PHca2yPVuRjrQFbeZr2bN4zaH860_Qmh",
+          "name": "#7. I106: Tiệm cận xiên của đồ thị hàm số",
+          "parentName": "Chuyên đề 1: Ứng dụng đạo hàm khảo sát hàm số\t\t\t",
+          "checksum": "2026-05-25T10:00:36.573Z|5",
+          "virtual": false
+        },
+        {
+          "id": "1GgR8UqH4jZj0rkoi3oJkQUEJ6fGg7nAr",
+          "name": "#8. I107: Khảo sát hàm số bậc ba",
+          "parentName": "Chuyên đề 1: Ứng dụng đạo hàm khảo sát hàm số\t\t\t",
+          "checksum": "2026-05-14T10:54:13.956Z|4",
+          "virtual": false
+        },
+        {
+          "id": "1wZUiZBTeGbS-UZcl9pzUtkzcJPNOEZE9",
+          "name": "#9. I108: Khảo sát hàm số phân thức bậc nhất",
+          "parentName": "Chuyên đề 1: Ứng dụng đạo hàm khảo sát hàm số\t\t\t",
+          "checksum": "2026-05-25T10:00:35.559Z|10",
+          "virtual": false
+        }
+      ],
+      "rendererVersion": "4.3.1",
+      "styleVersion": "2026-05-31-student-banner-no-meta-v2",
+      "runId": "no-meta-sync-2026-05-31-104541",
+      "spreadsheetId": "1V7WBjb8dnvgtWEZjFprRUIlUt0nGJONeGCjWEn7iXEQ",
+      "stats": {
+        "leafCount": 9,
+        "totalVideos": 29
+      }
+    },
+    "18lOkzLjsWears5jLwUBD12atuIWw3WOC": {
+      "tabName": "LIVE M",
+      "renderedAt": "2026-05-31T03:51:18.532Z",
+      "checksum": "18lOkzLjsWears5jLwUBD12atuIWw3WOC|2026-04-17T16:23:48.591Z|0",
+      "lessons": [],
+      "rendererVersion": "4.3.1",
+      "styleVersion": "2026-05-31-student-banner-no-meta-v2",
+      "runId": "no-meta-sync-2026-05-31-104541",
+      "spreadsheetId": "1V7WBjb8dnvgtWEZjFprRUIlUt0nGJONeGCjWEn7iXEQ",
+      "stats": {
+        "leafCount": 0,
+        "totalVideos": 0
+      }
+    },
+    "1FLLF8-ANPzN-6uZcAYyeS2eBnDURx_95": {
+      "tabName": "LIVE O",
+      "renderedAt": "2026-05-31T03:51:25.944Z",
+      "checksum": "1FLLF8-ANPzN-6uZcAYyeS2eBnDURx_95|2026-04-17T16:23:48.591Z|0",
+      "lessons": [],
+      "rendererVersion": "4.3.1",
+      "styleVersion": "2026-05-31-student-banner-no-meta-v2",
+      "runId": "no-meta-sync-2026-05-31-104541",
+      "spreadsheetId": "1V7WBjb8dnvgtWEZjFprRUIlUt0nGJONeGCjWEn7iXEQ",
+      "stats": {
+        "leafCount": 0,
+        "totalVideos": 0
+      }
+    },
+    "1fMoLJiqrmrkEu-hG-pEVRC-0NgqbrFwr": {
+      "tabName": "LIVE E",
+      "renderedAt": "2026-05-31T03:51:33.354Z",
+      "checksum": "1fMoLJiqrmrkEu-hG-pEVRC-0NgqbrFwr|2026-04-17T16:23:48.591Z|0",
+      "lessons": [],
+      "rendererVersion": "4.3.1",
+      "styleVersion": "2026-05-31-student-banner-no-meta-v2",
+      "runId": "no-meta-sync-2026-05-31-104541",
+      "spreadsheetId": "1V7WBjb8dnvgtWEZjFprRUIlUt0nGJONeGCjWEn7iXEQ",
+      "stats": {
+        "leafCount": 0,
+        "totalVideos": 0
+      }
+    }
+  },
+  "updatedAt": "2026-05-31T03:51:33.355Z",
+  "version": 2
+}

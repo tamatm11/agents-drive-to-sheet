@@ -1,0 +1,303 @@
+{
+  "teacherId": "18eBA7PeCBEYILYv7h6a4rIxqZvaSFX8t",
+  "tabs": {
+    "1OXXj11oruRJfViKBYh2OWPiCo3sGTV_T": {
+      "tabName": "Khóa TDMX",
+      "renderedAt": "2026-05-31T03:49:05.698Z",
+      "checksum": "1OXXj11oruRJfViKBYh2OWPiCo3sGTV_T|2026-05-23T11:55:12.501Z|77",
+      "lessons": [
+        {
+          "id": "11TEJwVXkQ_l5kfS-9zpAkbahokxrEye5",
+          "name": "TDMXX01_Khoảng cách số 01",
+          "parentName": "1.1 TDMXX2027 - Nền tảng vận dụng Hàm số - Oxyz - Tích Phân",
+          "checksum": "2026-04-17T23:23:50.658Z|12",
+          "virtual": false
+        },
+        {
+          "id": "16Kt8nOgU-uCf0AikHqr4w1BMheW0TFBZ",
+          "name": "TDMXX02_Khoảng cách số 02",
+          "parentName": "1.1 TDMXX2027 - Nền tảng vận dụng Hàm số - Oxyz - Tích Phân",
+          "checksum": "2026-05-11T13:29:29.630Z|11",
+          "virtual": false
+        },
+        {
+          "id": "1OBPVEiYr7zlVBIut6tWt2ohogGxW94YN",
+          "name": "TDMXX03_Cơ bản về thể tích",
+          "parentName": "1.1 TDMXX2027 - Nền tảng vận dụng Hàm số - Oxyz - Tích Phân",
+          "checksum": "2026-04-17T23:23:07.309Z|6",
+          "virtual": false
+        },
+        {
+          "id": "1llHTvbAut7ZZe4qmtEIV29OeVcwpYHgw",
+          "name": "TDMXX04_Góc giữa đường thẳng và mặt phẳng",
+          "parentName": "1.1 TDMXX2027 - Nền tảng vận dụng Hàm số - Oxyz - Tích Phân",
+          "checksum": "2026-04-17T23:22:54.842Z|0",
+          "virtual": false
+        },
+        {
+          "id": "1TIMLU7HoDnuO5fvPIJkmK3Q_QnW7YUOp",
+          "name": "TDMXX04_Tỉ lệ thể tích cốt lõi",
+          "parentName": "1.1 TDMXX2027 - Nền tảng vận dụng Hàm số - Oxyz - Tích Phân",
+          "checksum": "2026-05-11T13:20:48.253Z|6",
+          "virtual": false
+        },
+        {
+          "id": "1NKdaLZ-jVCb6LKfVqB-IlLP8Fi-E--3M",
+          "name": "TDMXX05_Góc nhị diện",
+          "parentName": "1.1 TDMXX2027 - Nền tảng vận dụng Hàm số - Oxyz - Tích Phân",
+          "checksum": "2026-05-11T13:29:06.652Z|7",
+          "virtual": false
+        },
+        {
+          "id": "1-yBWA7RDwaO_5cG0_AF8yUeld74jFYfq",
+          "name": "TDMXX06_Cơ bản về đơn điệu của hàm số",
+          "parentName": "1.1 TDMXX2027 - Nền tảng vận dụng Hàm số - Oxyz - Tích Phân",
+          "checksum": "2026-05-21T05:00:27.072Z|11",
+          "virtual": false
+        },
+        {
+          "id": "1mwgtq5j_wZ5ceI0nIvra_azU4HY-fUrC",
+          "name": "TDMXX07_Mở rộng đơn điệu của hàm số",
+          "parentName": "1.1 TDMXX2027 - Nền tảng vận dụng Hàm số - Oxyz - Tích Phân",
+          "checksum": "2026-04-17T23:22:33.794Z|5",
+          "virtual": false
+        },
+        {
+          "id": "1HD3JWErc-h2LLUaqCppEwBVDJiLHdOZc",
+          "name": "TDMXX08_Đơn điệu hàm số liên quan tới lượng giác",
+          "parentName": "1.1 TDMXX2027 - Nền tảng vận dụng Hàm số - Oxyz - Tích Phân",
+          "checksum": "2026-05-04T13:59:43.779Z|3",
+          "virtual": false
+        },
+        {
+          "id": "1ED1jhRBSiMmXBvyRYDNWamv2qL-rNoZw",
+          "name": "TDMXX09_Cơ bản về cực trị của hàm số",
+          "parentName": "1.1 TDMXX2027 - Nền tảng vận dụng Hàm số - Oxyz - Tích Phân",
+          "checksum": "2026-05-18T01:54:06.501Z|5",
+          "virtual": false
+        },
+        {
+          "id": "1twdpwGU26rFwooMoJX5JUWfsqmX7MDyn",
+          "name": "TDMXX10_Nâng cao nhẹ về cực trị phần 01",
+          "parentName": "1.1 TDMXX2027 - Nền tảng vận dụng Hàm số - Oxyz - Tích Phân",
+          "checksum": "2026-05-21T05:00:06.189Z|4",
+          "virtual": false
+        },
+        {
+          "id": "1bZxEyaq5vuLm5l6eMs4uh3qucrJR8bvi",
+          "name": "TDMXX11_Nâng cao nhẹ cực trị 02",
+          "parentName": "1.1 TDMXX2027 - Nền tảng vận dụng Hàm số - Oxyz - Tích Phân",
+          "checksum": "2026-05-23T11:55:12.501Z|4",
+          "virtual": false
+        },
+        {
+          "id": "1ICcuO1B2XT42mTa6aWyg5WwWBe9EWLHr",
+          "name": "TDMXR16_Một số BT ứng dụng KS và vẽ đồ thị HS",
+          "parentName": "1.2 TDMXR2027 - Nền tảng vận dụng Toán thực tế",
+          "checksum": "2026-05-18T01:48:43.522Z|3",
+          "virtual": false
+        }
+      ],
+      "rendererVersion": "4.3.1",
+      "styleVersion": "2026-05-31-student-banner-no-meta-v2",
+      "runId": "no-meta-sync-2026-05-31-104541",
+      "spreadsheetId": "19W7flY2MrR-BDeqgpXRuCzL6HCV9nNQ126CvSqoKzbc",
+      "stats": {
+        "leafCount": 13,
+        "totalVideos": 26
+      }
+    },
+    "1zEYO6yXG7zPK6Lpq76Mx9dmonY01Ew9D": {
+      "tabName": "Khóa TDMY",
+      "renderedAt": "2026-05-31T03:49:17.780Z",
+      "checksum": "1zEYO6yXG7zPK6Lpq76Mx9dmonY01Ew9D|2026-05-23T11:55:05.510Z|91",
+      "lessons": [
+        {
+          "id": "1QDsMBWJsg2BjZx4GT1d87YjmsyacJkrw",
+          "name": "TDMYY001_KN triển khai góc giữa 2CĐ1TD",
+          "parentName": "2.1 TDMYY2027 - VDC Thuần tuý",
+          "checksum": "2026-04-19T03:41:01.483Z|6",
+          "virtual": false
+        },
+        {
+          "id": "17aO3SzUEsJzf6phIho_iY9mEZWjJdeM-",
+          "name": "TDMYY002_KN triển khai CT GKC01_GKC02",
+          "parentName": "2.1 TDMYY2027 - VDC Thuần tuý",
+          "checksum": "2026-04-19T03:40:51.581Z|6",
+          "virtual": false
+        },
+        {
+          "id": "1lHxy0S6CSGr19kB5qYppO65H6noytSJF",
+          "name": "TDMYY003_KN định vị chân đường cao Level3",
+          "parentName": "2.1 TDMYY2027 - VDC Thuần tuý",
+          "checksum": "2026-05-07T01:26:17.375Z|6",
+          "virtual": false
+        },
+        {
+          "id": "1OXSaipraO7AnzJ-gOL_qIiZVI_-zmMZJ",
+          "name": "TDMYY03_KN định vị chân đường cao Level3",
+          "parentName": "2.1 TDMYY2027 - VDC Thuần tuý",
+          "checksum": "2026-04-19T03:40:41.797Z|6",
+          "virtual": false
+        },
+        {
+          "id": "1AM9v16WKJEDxwSTmNB1ynLCXuYWmAlP0",
+          "name": "TDMYY004_CT tính nhanh thể tích nâng cao",
+          "parentName": "2.1 TDMYY2027 - VDC Thuần tuý",
+          "checksum": "2026-04-19T03:40:32.462Z|6",
+          "virtual": false
+        },
+        {
+          "id": "19JqTHt6cPfzdzCM6c0ej3kdjm43ScqWw",
+          "name": "TDMYY005_Nâng cao nhị diện",
+          "parentName": "2.1 TDMYY2027 - VDC Thuần tuý",
+          "checksum": "2026-05-11T13:20:24.227Z|7",
+          "virtual": false
+        },
+        {
+          "id": "1Yo_eP8879TNQiffRw0yBmTvmtKDws0MH",
+          "name": "TDMYY006_Cực trị thể tích",
+          "parentName": "2.1 TDMYY2027 - VDC Thuần tuý",
+          "checksum": "2026-05-11T13:17:36.020Z|3",
+          "virtual": false
+        },
+        {
+          "id": "1-JsYhHiWEgG7_xIgfR7b3uSuiABe9w0R",
+          "name": "TDMYY007_Kĩ năng miền D",
+          "parentName": "2.1 TDMYY2027 - VDC Thuần tuý",
+          "checksum": "2026-05-11T13:19:54.748Z|7",
+          "virtual": false
+        },
+        {
+          "id": "1wMsKVVex8atXSu3X0HcQEHY9sQd5YVQ_",
+          "name": "TDMYY008_Kĩ năng rút gọn đường cong quỹ tích",
+          "parentName": "2.1 TDMYY2027 - VDC Thuần tuý",
+          "checksum": "2026-05-11T13:19:26.227Z|4",
+          "virtual": false
+        },
+        {
+          "id": "1TfieHHVXFb4HK1iMAIY_dYZuxM73vFs8",
+          "name": "TDMYY08_Kĩ năng miền D",
+          "parentName": "2.1 TDMYY2027 - VDC Thuần tuý",
+          "checksum": "2026-04-27T16:00:06.585Z|5",
+          "virtual": false
+        },
+        {
+          "id": "1xs18MYCvCs9UUqzqgbvxFrNJZN0q1dUY",
+          "name": "TDMYY009_Cực trị khoảng cách giữa 2 đường cong ĐB",
+          "parentName": "2.1 TDMYY2027 - VDC Thuần tuý",
+          "checksum": "2026-05-07T01:26:07.289Z|4",
+          "virtual": false
+        },
+        {
+          "id": "1D6f6cKrq_fyFcX1DGZVgHF59M9gi6QTl",
+          "name": "TDMYY09_Cực trị khoảng cách giữa 2 đường cong ĐB",
+          "parentName": "2.1 TDMYY2027 - VDC Thuần tuý",
+          "checksum": "2026-04-19T03:40:22.906Z|4",
+          "virtual": false
+        },
+        {
+          "id": "1AByyc-0aZ3EAak7y2WisUO2YH10mlkdU",
+          "name": "TDMYY101_KN tương giao hợp hàm",
+          "parentName": "2.1 TDMYY2027 - VDC Thuần tuý",
+          "checksum": "2026-05-23T11:55:05.510Z|7",
+          "virtual": false
+        },
+        {
+          "id": "1WsywxxLQCS0aaphHHkXPk-w-KM1BG2Mq",
+          "name": "TDMYV10_Kết hợp kĩ năng vách ngăn và bó",
+          "parentName": "2.2 TDMYV2027 - VDC THXS",
+          "checksum": "2026-05-19T09:17:15.642Z|5",
+          "virtual": false
+        },
+        {
+          "id": "1FwUJNAPkFdlVIYL97lGJhMIXdbQ3y8Cq",
+          "name": "TDMYV17_KN triển khai vách ngăn và chia kẹo Euler",
+          "parentName": "2.2 TDMYV2027 - VDC THXS",
+          "checksum": "2026-04-19T03:40:14.869Z|4",
+          "virtual": false
+        },
+        {
+          "id": "1-XCbJCb_CH9RNMFEoqb7AJmMR3woyvjk",
+          "name": "TDMYV21_KN định vị xắp xếp",
+          "parentName": "2.2 TDMYV2027 - VDC THXS",
+          "checksum": "2026-04-19T03:40:07.757Z|4",
+          "virtual": false
+        },
+        {
+          "id": "143z2zgaspQV5_oXgx-12s6v3AZpFVewH",
+          "name": "TDMYR001. BT đón bắt mục tiêu 01",
+          "parentName": "2.3 TDMYR2027 - VDC Toán thực tế",
+          "checksum": "2026-04-19T03:40:00.595Z|7",
+          "virtual": false
+        }
+      ],
+      "rendererVersion": "4.3.1",
+      "styleVersion": "2026-05-31-student-banner-no-meta-v2",
+      "runId": "no-meta-sync-2026-05-31-104541",
+      "spreadsheetId": "19W7flY2MrR-BDeqgpXRuCzL6HCV9nNQ126CvSqoKzbc",
+      "stats": {
+        "leafCount": 17,
+        "totalVideos": 26
+      }
+    },
+    "1vw0dUA9hhfSMQ73TayKM_1EJEV2t5ha9": {
+      "tabName": "Khóa TDMZ",
+      "renderedAt": "2026-05-31T03:49:25.031Z",
+      "checksum": "1vw0dUA9hhfSMQ73TayKM_1EJEV2t5ha9|2026-04-17T16:31:12.133Z|0",
+      "lessons": [],
+      "rendererVersion": "4.3.1",
+      "styleVersion": "2026-05-31-student-banner-no-meta-v2",
+      "runId": "no-meta-sync-2026-05-31-104541",
+      "spreadsheetId": "19W7flY2MrR-BDeqgpXRuCzL6HCV9nNQ126CvSqoKzbc",
+      "stats": {
+        "leafCount": 0,
+        "totalVideos": 0
+      }
+    },
+    "1G4ZdVsu45J0OXtTUjpwil9a5qEQNdtwP": {
+      "tabName": "Khóa TDMT",
+      "renderedAt": "2026-05-31T03:49:32.196Z",
+      "checksum": "1G4ZdVsu45J0OXtTUjpwil9a5qEQNdtwP|2026-04-17T16:31:12.133Z|0",
+      "lessons": [],
+      "rendererVersion": "4.3.1",
+      "styleVersion": "2026-05-31-student-banner-no-meta-v2",
+      "runId": "no-meta-sync-2026-05-31-104541",
+      "spreadsheetId": "19W7flY2MrR-BDeqgpXRuCzL6HCV9nNQ126CvSqoKzbc",
+      "stats": {
+        "leafCount": 0,
+        "totalVideos": 0
+      }
+    },
+    "1eJeE4xiz7syXE_wvtXMY5YS96MT3g0Gp": {
+      "tabName": "Khóa TDMG",
+      "renderedAt": "2026-05-31T03:49:39.379Z",
+      "checksum": "1eJeE4xiz7syXE_wvtXMY5YS96MT3g0Gp|2026-04-17T16:31:12.133Z|0",
+      "lessons": [],
+      "rendererVersion": "4.3.1",
+      "styleVersion": "2026-05-31-student-banner-no-meta-v2",
+      "runId": "no-meta-sync-2026-05-31-104541",
+      "spreadsheetId": "19W7flY2MrR-BDeqgpXRuCzL6HCV9nNQ126CvSqoKzbc",
+      "stats": {
+        "leafCount": 0,
+        "totalVideos": 0
+      }
+    },
+    "1idUbRzxgji31VCDSe0I709dYedHsmFaQ": {
+      "tabName": "Khóa TDMU",
+      "renderedAt": "2026-05-31T03:49:51.371Z",
+      "checksum": "1idUbRzxgji31VCDSe0I709dYedHsmFaQ|2026-04-17T16:31:12.133Z|0",
+      "lessons": [],
+      "rendererVersion": "4.3.1",
+      "styleVersion": "2026-05-31-student-banner-no-meta-v2",
+      "runId": "no-meta-sync-2026-05-31-104541",
+      "spreadsheetId": "19W7flY2MrR-BDeqgpXRuCzL6HCV9nNQ126CvSqoKzbc",
+      "stats": {
+        "leafCount": 0,
+        "totalVideos": 0
+      }
+    }
+  },
+  "updatedAt": "2026-05-31T03:49:51.371Z",
+  "version": 2
+}

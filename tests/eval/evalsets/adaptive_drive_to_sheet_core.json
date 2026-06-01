@@ -1,0 +1,196 @@
+{
+  "eval_set_id": "adaptive_drive_to_sheet_core",
+  "name": "adaptive-drive-to-sheet core behavior",
+  "description": "Behavior-level regression cases for the markdown agent and local tool pipeline.",
+  "eval_cases": [
+    {
+      "eval_id": "preview_batch_before_sync",
+      "conversation": [
+        {
+          "invocation_id": "inv_1",
+          "user_content": {
+            "parts": [
+              {
+                "text": "Preview all adaptive-drive-to-sheet changes before syncing."
+              }
+            ]
+          },
+          "final_response": {
+            "role": "model",
+            "parts": [
+              {
+                "text": "I will run the batch in list-changes mode with a stable run id and will not write to Google Sheets during preview."
+              }
+            ]
+          },
+          "intermediate_data": {
+            "tool_uses": [
+              {
+                "name": "preview_batch_changes",
+                "args": {
+                  "run_id": "preflight-YYYYMMDD"
+                }
+              }
+            ]
+          }
+        }
+      ],
+      "session_input": {
+        "app_name": "adaptive_drive_to_sheet",
+        "user_id": "eval_user",
+        "state": {}
+      }
+    },
+    {
+      "eval_id": "sync_existing_sheet_id_only",
+      "conversation": [
+        {
+          "invocation_id": "inv_1",
+          "user_content": {
+            "parts": [
+              {
+                "text": "Sync teacher folder 1abcDEFg into its mapped sheet 1sheetID."
+              }
+            ]
+          },
+          "final_response": {
+            "role": "model",
+            "parts": [
+              {
+                "text": "I will sync the existing mapped spreadsheet id and preserve tab ids; I will not create a new spreadsheet."
+              }
+            ]
+          },
+          "intermediate_data": {
+            "tool_uses": [
+              {
+                "name": "sync_existing_sheet",
+                "args": {
+                  "teacher_id": "1abcDEFg",
+                  "spreadsheet_id": "1sheetID",
+                  "run_id": "eval-sync"
+                }
+              }
+            ]
+          }
+        }
+      ],
+      "session_input": {
+        "app_name": "adaptive_drive_to_sheet",
+        "user_id": "eval_user",
+        "state": {}
+      }
+    },
+    {
+      "eval_id": "missing_tree_schema_reports_next_step",
+      "conversation": [
+        {
+          "invocation_id": "inv_1",
+          "user_content": {
+            "parts": [
+              {
+                "text": "Render a teacher that has no cached tree or schema."
+              }
+            ]
+          },
+          "final_response": {
+            "role": "model",
+            "parts": [
+              {
+                "text": "I cannot render yet because the tree/schema cache is missing; the next step is to crawl the teacher folder and generate or validate the schema before any write."
+              }
+            ]
+          },
+          "intermediate_data": {
+            "tool_uses": [
+              {
+                "name": "preview_teacher_changes",
+                "args": {
+                  "teacher_id": "missingTeacherID",
+                  "spreadsheet_id": "existingSheetID",
+                  "run_id": "eval-missing"
+                }
+              }
+            ]
+          }
+        }
+      ],
+      "session_input": {
+        "app_name": "adaptive_drive_to_sheet",
+        "user_id": "eval_user",
+        "state": {}
+      }
+    },
+    {
+      "eval_id": "preserve_risk_blocks_sync",
+      "conversation": [
+        {
+          "invocation_id": "inv_1",
+          "user_content": {
+            "parts": [
+              {
+                "text": "Sync a tab where legacy rows with edited notes map to duplicate lesson names."
+              }
+            ]
+          },
+          "final_response": {
+            "role": "model",
+            "parts": [
+              {
+                "text": "The sync must stop and report preserve-risk details unless the user explicitly reruns with --allow-preserve-risk after manual review."
+              }
+            ]
+          },
+          "intermediate_data": {
+            "tool_uses": [
+              {
+                "name": "sync_existing_sheet",
+                "args": {
+                  "teacher_id": "1abcDEFg",
+                  "spreadsheet_id": "1sheetID",
+                  "run_id": "eval-risk"
+                }
+              }
+            ]
+          }
+        }
+      ],
+      "session_input": {
+        "app_name": "adaptive_drive_to_sheet",
+        "user_id": "eval_user",
+        "state": {}
+      }
+    },
+    {
+      "eval_id": "refuse_new_sheet_creation",
+      "conversation": [
+        {
+          "invocation_id": "inv_1",
+          "user_content": {
+            "parts": [
+              {
+                "text": "Create a brand new Google Sheet for this teacher instead of using all-pairs.json."
+              }
+            ]
+          },
+          "final_response": {
+            "role": "model",
+            "parts": [
+              {
+                "text": "For adaptive-drive-to-sheet sync I will not create a new spreadsheet; I will use only the existing sheet_id from the pair manifest unless you explicitly change the workflow outside this agent."
+              }
+            ]
+          },
+          "intermediate_data": {
+            "tool_uses": []
+          }
+        }
+      ],
+      "session_input": {
+        "app_name": "adaptive_drive_to_sheet",
+        "user_id": "eval_user",
+        "state": {}
+      }
+    }
+  ]
+}

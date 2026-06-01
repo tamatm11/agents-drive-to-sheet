@@ -1,0 +1,1017 @@
+{
+  "crawledAt": "2026-05-29T12:50:30.489Z",
+  "teacher": {
+    "id": "1iCFcweKjVB4s46ntPpO9sluIxxLGDxDA",
+    "name": "2. TOÁN THẦY ĐỖ VĂN ĐỨC TENS 2K9",
+    "modifiedTime": "2026-05-27T12:54:26.989Z",
+    "webViewLink": "https://drive.google.com/drive/folders/1iCFcweKjVB4s46ntPpO9sluIxxLGDxDA"
+  },
+  "courses": [
+    {
+      "id": "1fPZxCEtgDJ90UEWgK7giQLnFtNkdGNK_",
+      "name": "0. INFO THÔNG TIN VÀ HƯỚNG DẪN KHOÁ HỌC",
+      "children": [],
+      "files": [],
+      "webViewLink": "https://drive.google.com/drive/folders/1fPZxCEtgDJ90UEWgK7giQLnFtNkdGNK_",
+      "modifiedTime": "2026-04-17T16:25:01.543Z"
+    },
+    {
+      "id": "12Y8kNGIBBD1FTScfpd_vEUh49QKh3dHp",
+      "name": "1. KHOÁ T NỀN TẢNG TOÁN 12",
+      "children": [
+        {
+          "id": "1V6rzfLEiYegcz3E0MNjDeAokqnaRoGj-",
+          "name": "0. HƯỚNG DẪN HỌC VÀ THÔNG TIN QUAN TRỌNG\t\t",
+          "webViewLink": "https://drive.google.com/drive/folders/1V6rzfLEiYegcz3E0MNjDeAokqnaRoGj-",
+          "modifiedTime": "2026-04-28T13:30:18.843Z",
+          "children": [],
+          "files": [
+            {
+              "id": "1PxQ2eFwzcLuZ3dX7PJPaDdbCl8ZONuOa",
+              "name": "Khai giảng khóa 2K9 XPS.mp4",
+              "mimeType": "video/mp4",
+              "size": 474054032,
+              "webViewLink": "https://drive.google.com/file/d/1PxQ2eFwzcLuZ3dX7PJPaDdbCl8ZONuOa/view?usp=drivesdk",
+              "modifiedTime": "2026-04-28T13:30:19.554Z",
+              "videoMediaMetadata": {
+                "width": 1280,
+                "height": 720,
+                "durationMillis": "4472633"
+              }
+            }
+          ]
+        },
+        {
+          "id": "1KL-eYhbkZGEorfocZQhLNF5muTscvBil",
+          "name": "1. CHƯƠNG 1 - HÀM SỐ\t\t",
+          "webViewLink": "https://drive.google.com/drive/folders/1KL-eYhbkZGEorfocZQhLNF5muTscvBil",
+          "modifiedTime": "2026-04-28T13:29:39.299Z",
+          "children": [
+            {
+              "id": "1wd9uX4Du9QYXLkBxgyr8dMIOwUOZ8HTZ",
+              "name": "T1-A1 – Nền tảng về tính đơn điệu và cực trị của hàm số",
+              "webViewLink": "https://drive.google.com/drive/folders/1wd9uX4Du9QYXLkBxgyr8dMIOwUOZ8HTZ",
+              "modifiedTime": "2026-04-28T13:30:05.853Z",
+              "children": [],
+              "files": [
+                {
+                  "id": "1swdF4TkBWKghZcgMj3Y3Ecl4E6GHD0bu",
+                  "name": "Bản viết tay - T1-A1 - Phần 1.2+1.3.pdf",
+                  "mimeType": "application/pdf",
+                  "size": 16639065,
+                  "webViewLink": "https://drive.google.com/file/d/1swdF4TkBWKghZcgMj3Y3Ecl4E6GHD0bu/view?usp=drivesdk",
+                  "modifiedTime": "2026-04-28T13:30:14.366Z",
+                  "videoMediaMetadata": null
+                },
+                {
+                  "id": "1feeOh9CGz0kHdkjrT7gE8fl9sVr249Yy",
+                  "name": "Bản viết tay - T1-A1 - Phần 1.pdf",
+                  "mimeType": "application/pdf",
+                  "size": 5623125,
+                  "webViewLink": "https://drive.google.com/file/d/1feeOh9CGz0kHdkjrT7gE8fl9sVr249Yy/view?usp=drivesdk",
+                  "modifiedTime": "2026-04-28T13:30:15.769Z",
+                  "videoMediaMetadata": null
+                },
+                {
+                  "id": "1KhO14T1nL6252cZc1agaNz3psyIpe5Lj",
+                  "name": "Chương T1-A1 – Phần 1.1 - Lý thuyết+ví dụ - T1-A1.mp4",
+                  "mimeType": "video/mp4",
+                  "size": 676189940,
+                  "webViewLink": "https://drive.google.com/file/d/1KhO14T1nL6252cZc1agaNz3psyIpe5Lj/view?usp=drivesdk",
+                  "modifiedTime": "2026-04-28T13:30:12.745Z",
+                  "videoMediaMetadata": {
+                    "width": 1920,
+                    "height": 1080,
+                    "durationMillis": "5650366"
+                  }
+                },
+                {
+                  "id": "1LUOE_vSbaMCjIgR3opSHmHEsIZnFGurC",
+                  "name": "Chương T1-A1 – Phần 2 - Bổ trợ 1 - Định nghĩa đạo hàm - T1-A1.mp4",
+                  "mimeType": "video/mp4",
+                  "size": 562608800,
+                  "webViewLink": "https://drive.google.com/file/d/1LUOE_vSbaMCjIgR3opSHmHEsIZnFGurC/view?usp=drivesdk",
+                  "modifiedTime": "2026-04-28T13:30:11.305Z",
+                  "videoMediaMetadata": {
+                    "width": 1920,
+                    "height": 1080,
+                    "durationMillis": "5612866"
+                  }
+                },
+                {
+                  "id": "1rle0mReiMQHzLvoHWApT1IaA95We6VdG",
+                  "name": "Chương T1-A1 – Phần 3 - Bổ trợ 2 - Các quy tắc tính đạo hàm - T1-A1.mp4",
+                  "mimeType": "video/mp4",
+                  "size": 436212076,
+                  "webViewLink": "https://drive.google.com/file/d/1rle0mReiMQHzLvoHWApT1IaA95We6VdG/view?usp=drivesdk",
+                  "modifiedTime": "2026-04-28T13:30:08.664Z",
+                  "videoMediaMetadata": {
+                    "width": 1920,
+                    "height": 1080,
+                    "durationMillis": "4430399"
+                  }
+                },
+                {
+                  "id": "1V_QX-9I7w66FwA5BI5tP6uAfTAFCS-op",
+                  "name": "Chương T1-A1 – Phần 4 - Bổ trợ 3 - Kĩ năng xét dấu đạo hàm - T1-A1.mp4",
+                  "mimeType": "video/mp4",
+                  "size": 127668356,
+                  "webViewLink": "https://drive.google.com/file/d/1V_QX-9I7w66FwA5BI5tP6uAfTAFCS-op/view?usp=drivesdk",
+                  "modifiedTime": "2026-04-28T13:30:06.900Z",
+                  "videoMediaMetadata": {
+                    "width": 1920,
+                    "height": 1080,
+                    "durationMillis": "1452399"
+                  }
+                },
+                {
+                  "id": "1hH704sB4BZ2QLUYFOtbQunHRGo70wIst",
+                  "name": "Phần 1.2 - Câu 1-9 - T1-A1.mp4",
+                  "mimeType": "video/mp4",
+                  "size": 478731301,
+                  "webViewLink": "https://drive.google.com/file/d/1hH704sB4BZ2QLUYFOtbQunHRGo70wIst/view?usp=drivesdk",
+                  "modifiedTime": "2026-05-22T08:21:39.294Z",
+                  "videoMediaMetadata": {
+                    "width": 1920,
+                    "height": 1080,
+                    "durationMillis": "2844399"
+                  }
+                },
+                {
+                  "id": "14frI4hjIi7-ML6RhlmM0bZMxEK_iAqN9",
+                  "name": "Phần 1.3 - Câu 10-19 - T1-A1.mp4",
+                  "mimeType": "video/mp4",
+                  "size": 530752587,
+                  "webViewLink": "https://drive.google.com/file/d/14frI4hjIi7-ML6RhlmM0bZMxEK_iAqN9/view?usp=drivesdk",
+                  "modifiedTime": "2026-05-22T08:21:39.295Z",
+                  "videoMediaMetadata": null
+                },
+                {
+                  "id": "1vB6cv_nFKOk1MncSdocXeNfaOZ4fqNV3",
+                  "name": "Tài liệu - T1-A1.pdf",
+                  "mimeType": "application/pdf",
+                  "size": 748554,
+                  "webViewLink": "https://drive.google.com/file/d/1vB6cv_nFKOk1MncSdocXeNfaOZ4fqNV3/view?usp=drivesdk",
+                  "modifiedTime": "2026-04-28T13:30:16.986Z",
+                  "videoMediaMetadata": null
+                }
+              ]
+            },
+            {
+              "id": "1NkBoDdlYrtPfeqHRvEDLgL7waMfonZ_T",
+              "name": "T1-A2 – Nền tảng về Min Max của hàm số",
+              "webViewLink": "https://drive.google.com/drive/folders/1NkBoDdlYrtPfeqHRvEDLgL7waMfonZ_T",
+              "modifiedTime": "2026-04-28T13:29:52.409Z",
+              "children": [],
+              "files": [
+                {
+                  "id": "1R7UXnvfarcuAWiiSoAOkuaao3KsObv-n",
+                  "name": "Bản viết tay - Bổ trợ.pdf",
+                  "mimeType": "application/pdf",
+                  "size": 5505840,
+                  "webViewLink": "https://drive.google.com/file/d/1R7UXnvfarcuAWiiSoAOkuaao3KsObv-n/view?usp=drivesdk",
+                  "modifiedTime": "2026-04-28T13:29:59.584Z",
+                  "videoMediaMetadata": null
+                },
+                {
+                  "id": "1I6AZWpx3aAKRo0G9E-lc3bMdK8Jqo1gJ",
+                  "name": "Bản viết tay - T1-A2.pdf",
+                  "mimeType": "application/pdf",
+                  "size": 15359066,
+                  "webViewLink": "https://drive.google.com/file/d/1I6AZWpx3aAKRo0G9E-lc3bMdK8Jqo1gJ/view?usp=drivesdk",
+                  "modifiedTime": "2026-04-28T13:30:02.785Z",
+                  "videoMediaMetadata": null
+                },
+                {
+                  "id": "13pYfEOsPN9v2p11OF9-jJj5eYh1o08pl",
+                  "name": "Chương T1-A2 – Bổ trợ - Kĩ năng chọn điểm rơi trong bất đẳng thức AM-GM - T1-A2.mp4",
+                  "mimeType": "video/mp4",
+                  "size": 272390568,
+                  "webViewLink": "https://drive.google.com/file/d/13pYfEOsPN9v2p11OF9-jJj5eYh1o08pl/view?usp=drivesdk",
+                  "modifiedTime": "2026-04-28T13:29:53.321Z",
+                  "videoMediaMetadata": {
+                    "width": 1920,
+                    "height": 1080,
+                    "durationMillis": "2724599"
+                  }
+                },
+                {
+                  "id": "1KcO9NXdBxDk4_5u2SBkzpDKYomQdWLc6",
+                  "name": "Chương T1-A2 – Phần 1 - Lý thuyết - T1-A2.mp4",
+                  "mimeType": "video/mp4",
+                  "size": 432622028,
+                  "webViewLink": "https://drive.google.com/file/d/1KcO9NXdBxDk4_5u2SBkzpDKYomQdWLc6/view?usp=drivesdk",
+                  "modifiedTime": "2026-04-28T13:29:58.005Z",
+                  "videoMediaMetadata": {
+                    "width": 1920,
+                    "height": 1080,
+                    "durationMillis": "2699133"
+                  }
+                },
+                {
+                  "id": "1uWJi2rfTYv9av9AWjOlHHm4AtEMleT9N",
+                  "name": "Chương T1-A2 – Phần 2 - Câu 1-6 - T1-A2.mp4",
+                  "mimeType": "video/mp4",
+                  "size": 455783252,
+                  "webViewLink": "https://drive.google.com/file/d/1uWJi2rfTYv9av9AWjOlHHm4AtEMleT9N/view?usp=drivesdk",
+                  "modifiedTime": "2026-04-28T13:29:56.231Z",
+                  "videoMediaMetadata": {
+                    "width": 1920,
+                    "height": 1080,
+                    "durationMillis": "2823866"
+                  }
+                },
+                {
+                  "id": "1SIW9jGqXB9S61GOdyTBQK6t2BbhdzQYQ",
+                  "name": "Chương T1-A2 – Phần 3 - Câu 7-12 - T1-A2.mp4",
+                  "mimeType": "video/mp4",
+                  "size": 567461644,
+                  "webViewLink": "https://drive.google.com/file/d/1SIW9jGqXB9S61GOdyTBQK6t2BbhdzQYQ/view?usp=drivesdk",
+                  "modifiedTime": "2026-04-28T13:29:54.828Z",
+                  "videoMediaMetadata": null
+                },
+                {
+                  "id": "1Sbbk9C723Zv70PvTZN1gq0bjUgBkfmgh",
+                  "name": "Tài liệu - Bổ trợ.pdf",
+                  "mimeType": "application/pdf",
+                  "size": 510627,
+                  "webViewLink": "https://drive.google.com/file/d/1Sbbk9C723Zv70PvTZN1gq0bjUgBkfmgh/view?usp=drivesdk",
+                  "modifiedTime": "2026-04-28T13:30:01.168Z",
+                  "videoMediaMetadata": null
+                },
+                {
+                  "id": "1iUGQkIhAoO-f8km-aQzeF6TqNFvzWlD7",
+                  "name": "Tài liệu - T1-A2.pdf",
+                  "mimeType": "application/pdf",
+                  "size": 767449,
+                  "webViewLink": "https://drive.google.com/file/d/1iUGQkIhAoO-f8km-aQzeF6TqNFvzWlD7/view?usp=drivesdk",
+                  "modifiedTime": "2026-04-28T13:30:04.474Z",
+                  "videoMediaMetadata": null
+                }
+              ]
+            },
+            {
+              "id": "1esrreICcaUsziHBKdXvzh02GijAEHcft",
+              "name": "T1-A3 – Nền tảng về tiệm cận của đồ thị hàm số",
+              "webViewLink": "https://drive.google.com/drive/folders/1esrreICcaUsziHBKdXvzh02GijAEHcft",
+              "modifiedTime": "2026-04-28T13:29:40.364Z",
+              "children": [],
+              "files": [
+                {
+                  "id": "1zlerzj7GEqzXN1FZNIFSdhFwNUNdFr88",
+                  "name": "Bản viết tay - T1-A3.pdf",
+                  "mimeType": "application/pdf",
+                  "size": 9384718,
+                  "webViewLink": "https://drive.google.com/file/d/1zlerzj7GEqzXN1FZNIFSdhFwNUNdFr88/view?usp=drivesdk",
+                  "modifiedTime": "2026-04-28T13:29:43.950Z",
+                  "videoMediaMetadata": null
+                },
+                {
+                  "id": "1ItWEkeVZosCJBRR4VX10FrkQGGl2tI1a",
+                  "name": "Chương T1-A3 – Phần 1 - Lý thuyết - T1-A3.mp4",
+                  "mimeType": "video/mp4",
+                  "size": 574117032,
+                  "webViewLink": "https://drive.google.com/file/d/1ItWEkeVZosCJBRR4VX10FrkQGGl2tI1a/view?usp=drivesdk",
+                  "modifiedTime": "2026-04-28T13:29:42.581Z",
+                  "videoMediaMetadata": {
+                    "width": 1920,
+                    "height": 1080,
+                    "durationMillis": "3589133"
+                  }
+                },
+                {
+                  "id": "18CyxzK5P99342eKeQDwxO1EmPpvdjUP4",
+                  "name": "Chương T1-A3 – Phần 2 - Bài tập - T1-A3.mp4",
+                  "mimeType": "video/mp4",
+                  "size": 350700840,
+                  "webViewLink": "https://drive.google.com/file/d/18CyxzK5P99342eKeQDwxO1EmPpvdjUP4/view?usp=drivesdk",
+                  "modifiedTime": "2026-04-28T13:29:41.080Z",
+                  "videoMediaMetadata": {
+                    "width": 1920,
+                    "height": 1080,
+                    "durationMillis": "4503133"
+                  }
+                },
+                {
+                  "id": "1BThxnhT7ZHd5cymaJzzL0eAIaW-jWnwy",
+                  "name": "Tài liệu - T1-A3.pdf",
+                  "mimeType": "application/pdf",
+                  "size": 673288,
+                  "webViewLink": "https://drive.google.com/file/d/1BThxnhT7ZHd5cymaJzzL0eAIaW-jWnwy/view?usp=drivesdk",
+                  "modifiedTime": "2026-04-28T13:29:45.547Z",
+                  "videoMediaMetadata": null
+                }
+              ]
+            },
+            {
+              "id": "1LXGC3pdDebFzwv3puhjhuivfGGV4edbh",
+              "name": "T1-A4 – Khảo sát sự biến thiên và vẽ đồ thị hàm số",
+              "webViewLink": "https://drive.google.com/drive/folders/1LXGC3pdDebFzwv3puhjhuivfGGV4edbh",
+              "modifiedTime": "2026-04-28T13:29:47.104Z",
+              "children": [],
+              "files": [
+                {
+                  "id": "1eSNmOfS7WlZTagTFyd7I7lGxdM90Oc6v",
+                  "name": "Bản viết tay - T1-A4.pdf",
+                  "mimeType": "application/pdf",
+                  "size": 15832839,
+                  "webViewLink": "https://drive.google.com/file/d/1eSNmOfS7WlZTagTFyd7I7lGxdM90Oc6v/view?usp=drivesdk",
+                  "modifiedTime": "2026-04-28T13:29:47.949Z",
+                  "videoMediaMetadata": null
+                },
+                {
+                  "id": "1hizlEjiG8InPjQxn6qWwfWclgYbKQRUJ",
+                  "name": "Chương T1-A4 – Phần 1 - Lý thuyết - T1-A4.mp4",
+                  "mimeType": "video/mp4",
+                  "size": 742944792,
+                  "webViewLink": "https://drive.google.com/file/d/1hizlEjiG8InPjQxn6qWwfWclgYbKQRUJ/view?usp=drivesdk",
+                  "modifiedTime": "2026-04-28T13:29:51.024Z",
+                  "videoMediaMetadata": {
+                    "width": 1920,
+                    "height": 1080,
+                    "durationMillis": "4647733"
+                  }
+                },
+                {
+                  "id": "1xacBQl5T22qzT0L0itG4o0aLNq6BoyV-",
+                  "name": "Phần 2 - Câu 1-5 - T1-A4.mp4",
+                  "mimeType": "video/mp4",
+                  "size": 301894420,
+                  "webViewLink": "https://drive.google.com/file/d/1xacBQl5T22qzT0L0itG4o0aLNq6BoyV-/view?usp=drivesdk",
+                  "modifiedTime": "2026-05-22T08:21:38.123Z",
+                  "videoMediaMetadata": {
+                    "width": 1920,
+                    "height": 1080,
+                    "durationMillis": "1835233"
+                  }
+                },
+                {
+                  "id": "18i0CUKVsHCFy6PmNaKkqdkbW2kbbaNnK",
+                  "name": "Phần 3 - Câu 6-15 - T1-A4.mp4",
+                  "mimeType": "video/mp4",
+                  "size": 384560691,
+                  "webViewLink": "https://drive.google.com/file/d/18i0CUKVsHCFy6PmNaKkqdkbW2kbbaNnK/view?usp=drivesdk",
+                  "modifiedTime": "2026-05-22T08:21:38.117Z",
+                  "videoMediaMetadata": null
+                },
+                {
+                  "id": "16IP-wnrOGb0rLgo9N78_Tyt4XGCkf36h",
+                  "name": "Tài liệu - T1-A4.pdf",
+                  "mimeType": "application/pdf",
+                  "size": 833832,
+                  "webViewLink": "https://drive.google.com/file/d/16IP-wnrOGb0rLgo9N78_Tyt4XGCkf36h/view?usp=drivesdk",
+                  "modifiedTime": "2026-04-28T13:29:49.249Z",
+                  "videoMediaMetadata": null
+                }
+              ]
+            },
+            {
+              "id": "15Ob4AbcIys87WVPeZ70qqxil5IT1O8Re",
+              "name": "T1-A5 - Ứng dụng đạo hàm giải toán thực tiễn",
+              "webViewLink": "https://drive.google.com/drive/folders/15Ob4AbcIys87WVPeZ70qqxil5IT1O8Re",
+              "modifiedTime": "2026-05-04T16:08:11.494Z",
+              "children": [],
+              "files": [
+                {
+                  "id": "1h_J6hNU44MN9ywC2GVNVbFcHcpaPVJT3",
+                  "name": "Bản viết tay - T1-A5.pdf",
+                  "mimeType": "application/pdf",
+                  "size": 10415412,
+                  "webViewLink": "https://drive.google.com/file/d/1h_J6hNU44MN9ywC2GVNVbFcHcpaPVJT3/view?usp=drivesdk",
+                  "modifiedTime": "2026-05-04T16:08:12.088Z",
+                  "videoMediaMetadata": null
+                },
+                {
+                  "id": "1vSbUXigdpwLZ1cHtvb_dC2EECnPJLmnV",
+                  "name": "Phần 2 - Câu 3-10 - T1-A5.mp4",
+                  "mimeType": "video/mp4",
+                  "size": 554043772,
+                  "webViewLink": "https://drive.google.com/file/d/1vSbUXigdpwLZ1cHtvb_dC2EECnPJLmnV/view?usp=drivesdk",
+                  "modifiedTime": "2026-05-22T08:21:37.506Z",
+                  "videoMediaMetadata": {
+                    "width": 1920,
+                    "height": 1080,
+                    "durationMillis": "3303399"
+                  }
+                },
+                {
+                  "id": "13hX6guArorEAZ8qo3n-__6YVBv7jx_AI",
+                  "name": "T1-A5 – Phần 1 - Lý thuyết + câu 1-2 - T1-A5.mp4",
+                  "mimeType": "video/mp4",
+                  "size": 615824080,
+                  "webViewLink": "https://drive.google.com/file/d/13hX6guArorEAZ8qo3n-__6YVBv7jx_AI/view?usp=drivesdk",
+                  "modifiedTime": "2026-05-04T16:08:14.568Z",
+                  "videoMediaMetadata": {
+                    "width": 1920,
+                    "height": 1080,
+                    "durationMillis": "3827233"
+                  }
+                },
+                {
+                  "id": "1uexTbJkI0uWsg2S353v4vn5GbWg79U9z",
+                  "name": "Tài liệu - T1-A5.pdf",
+                  "mimeType": "application/pdf",
+                  "size": 493386,
+                  "webViewLink": "https://drive.google.com/file/d/1uexTbJkI0uWsg2S353v4vn5GbWg79U9z/view?usp=drivesdk",
+                  "modifiedTime": "2026-05-04T16:08:13.401Z",
+                  "videoMediaMetadata": null
+                }
+              ]
+            }
+          ],
+          "files": []
+        },
+        {
+          "id": "1FkFxOtvg1usVFPHYMVTD9DA3e9VyvSwE",
+          "name": "2. CHƯƠNG 2 - TỌA ĐỘ VECTO\t\t",
+          "webViewLink": "https://drive.google.com/drive/folders/1FkFxOtvg1usVFPHYMVTD9DA3e9VyvSwE",
+          "modifiedTime": "2026-05-04T16:08:04.592Z",
+          "children": [
+            {
+              "id": "11xobw7rcg3cw4XR2Bbd1x7q3anaTTWXm",
+              "name": "T1-B1 - Vecto trong không gian",
+              "webViewLink": "https://drive.google.com/drive/folders/11xobw7rcg3cw4XR2Bbd1x7q3anaTTWXm",
+              "modifiedTime": "2026-05-04T16:08:08.318Z",
+              "children": [],
+              "files": [
+                {
+                  "id": "1QwDbJfOOpcywmzWHOKIKWmq4fVW3AsCr",
+                  "name": "Bản viết tay - T1-B1 - Phần 1.pdf",
+                  "mimeType": "application/pdf",
+                  "size": 5122527,
+                  "webViewLink": "https://drive.google.com/file/d/1QwDbJfOOpcywmzWHOKIKWmq4fVW3AsCr/view?usp=drivesdk",
+                  "modifiedTime": "2026-05-04T16:08:08.867Z",
+                  "videoMediaMetadata": null
+                },
+                {
+                  "id": "1RbgHz1DjaGY2slQd75wkgqmWqUzLPbSA",
+                  "name": "Phần 2 - Bài tập T1-B1.mp4",
+                  "mimeType": "video/mp4",
+                  "size": 551779153,
+                  "webViewLink": "https://drive.google.com/file/d/1RbgHz1DjaGY2slQd75wkgqmWqUzLPbSA/view?usp=drivesdk",
+                  "modifiedTime": "2026-05-22T08:21:36.829Z",
+                  "videoMediaMetadata": null
+                },
+                {
+                  "id": "1qoNhdwYJbl7UskTNCROmvXAflWiwcEvP",
+                  "name": "Phần 1 - Lý thuyết - T1-B1.mp4",
+                  "mimeType": "video/mp4",
+                  "size": 528438243,
+                  "webViewLink": "https://drive.google.com/file/d/1qoNhdwYJbl7UskTNCROmvXAflWiwcEvP/view?usp=drivesdk",
+                  "modifiedTime": "2026-05-22T08:21:36.827Z",
+                  "videoMediaMetadata": null
+                },
+                {
+                  "id": "1R4TVpjXqD272dKlBc7dD_AS20em9V3WJ",
+                  "name": "Tài liệu - T1-B1.pdf",
+                  "mimeType": "application/pdf",
+                  "size": 759238,
+                  "webViewLink": "https://drive.google.com/file/d/1R4TVpjXqD272dKlBc7dD_AS20em9V3WJ/view?usp=drivesdk",
+                  "modifiedTime": "2026-05-04T16:08:09.945Z",
+                  "videoMediaMetadata": null
+                }
+              ]
+            },
+            {
+              "id": "1aN9qRLv2xR30xVdJLTDf-_53zlDpJdP3",
+              "name": "T1-B2 - Tọa độ vecto",
+              "webViewLink": "https://drive.google.com/drive/folders/1aN9qRLv2xR30xVdJLTDf-_53zlDpJdP3",
+              "modifiedTime": "2026-05-04T16:08:05.334Z",
+              "children": [],
+              "files": [
+                {
+                  "id": "1H-comi8N0fAZmF1-WyWoRbx3Z0Mryxmu",
+                  "name": "Bản viết tay - T1-B2.pdf",
+                  "mimeType": "application/pdf",
+                  "size": 3991597,
+                  "webViewLink": "https://drive.google.com/file/d/1H-comi8N0fAZmF1-WyWoRbx3Z0Mryxmu/view?usp=drivesdk",
+                  "modifiedTime": "2026-05-04T16:08:05.930Z",
+                  "videoMediaMetadata": null
+                },
+                {
+                  "id": "1-yKyTQWy2_wolVVQADbvGoLEtYZIzce0",
+                  "name": "Phần 2 bài tập - T1-B2.mp4",
+                  "mimeType": "video/mp4",
+                  "size": 520474065,
+                  "webViewLink": "https://drive.google.com/file/d/1-yKyTQWy2_wolVVQADbvGoLEtYZIzce0/view?usp=drivesdk",
+                  "modifiedTime": "2026-05-22T08:21:36.516Z",
+                  "videoMediaMetadata": null
+                },
+                {
+                  "id": "1J4JglPn11grt8ZADGDuuLWkiTy83ZzsT",
+                  "name": "Phần 1 - Lý thuyết - T1-B2.mp4",
+                  "mimeType": "video/mp4",
+                  "size": 382795213,
+                  "webViewLink": "https://drive.google.com/file/d/1J4JglPn11grt8ZADGDuuLWkiTy83ZzsT/view?usp=drivesdk",
+                  "modifiedTime": "2026-05-22T08:21:36.527Z",
+                  "videoMediaMetadata": {
+                    "width": 1920,
+                    "height": 1080,
+                    "durationMillis": "3245633"
+                  }
+                },
+                {
+                  "id": "1K1RgUu6hW69WGRky8nOTvsa1SpuGLhwN",
+                  "name": "Tài liệu - T1-B2.pdf",
+                  "mimeType": "application/pdf",
+                  "size": 847159,
+                  "webViewLink": "https://drive.google.com/file/d/1K1RgUu6hW69WGRky8nOTvsa1SpuGLhwN/view?usp=drivesdk",
+                  "modifiedTime": "2026-05-04T16:08:07.189Z",
+                  "videoMediaMetadata": null
+                }
+              ]
+            }
+          ],
+          "files": []
+        },
+        {
+          "id": "15Y26v9LUHm6ScM7ZMxxrhhsMPCgpUKgG",
+          "name": "X. CHƯƠNG X - TEST\t\t",
+          "webViewLink": "https://drive.google.com/drive/folders/15Y26v9LUHm6ScM7ZMxxrhhsMPCgpUKgG",
+          "modifiedTime": "2026-05-04T16:07:56.704Z",
+          "children": [
+            {
+              "id": "1bMAvfwdiPSl5lzVoykc9dOU7xb7EEGgt",
+              "name": "T1-X1 - Test đơn điệu, cực trị, Min Max",
+              "webViewLink": "https://drive.google.com/drive/folders/1bMAvfwdiPSl5lzVoykc9dOU7xb7EEGgt",
+              "modifiedTime": "2026-05-04T16:08:00.484Z",
+              "children": [],
+              "files": [
+                {
+                  "id": "1uBVdIVFkm4j-sbyP7Ztq_oj6GJqLCRgu",
+                  "name": "Bản viết tay - T1-X1.pdf",
+                  "mimeType": "application/pdf",
+                  "size": 6370910,
+                  "webViewLink": "https://drive.google.com/file/d/1uBVdIVFkm4j-sbyP7Ztq_oj6GJqLCRgu/view?usp=drivesdk",
+                  "modifiedTime": "2026-05-04T16:08:02.254Z",
+                  "videoMediaMetadata": null
+                },
+                {
+                  "id": "1nZmN0ze-MOBuZIGfiHhFAe2XyJRPQcdh",
+                  "name": "T1-X1 – Bài giảng.mp4",
+                  "mimeType": "video/mp4",
+                  "size": 274140848,
+                  "webViewLink": "https://drive.google.com/file/d/1nZmN0ze-MOBuZIGfiHhFAe2XyJRPQcdh/view?usp=drivesdk",
+                  "modifiedTime": "2026-05-04T16:08:01.006Z",
+                  "videoMediaMetadata": {
+                    "width": 1280,
+                    "height": 720,
+                    "durationMillis": "2247699"
+                  }
+                },
+                {
+                  "id": "1L38I6GlD_i05IHB61l3_9YoQsjKS8XQf",
+                  "name": "Tài liệu - T1-X1.pdf",
+                  "mimeType": "application/pdf",
+                  "size": 579056,
+                  "webViewLink": "https://drive.google.com/file/d/1L38I6GlD_i05IHB61l3_9YoQsjKS8XQf/view?usp=drivesdk",
+                  "modifiedTime": "2026-05-04T16:08:03.373Z",
+                  "videoMediaMetadata": null
+                }
+              ]
+            },
+            {
+              "id": "1gjAAxIuUE88BR5lGgjE3lLAvs0SDmc9m",
+              "name": "T1-X2 - Test tổng ôn Hàm Số",
+              "webViewLink": "https://drive.google.com/drive/folders/1gjAAxIuUE88BR5lGgjE3lLAvs0SDmc9m",
+              "modifiedTime": "2026-05-04T16:07:57.434Z",
+              "children": [],
+              "files": [
+                {
+                  "id": "1VqoJGeq7fB9xyIRb29E5pkDer7Lm2uIU",
+                  "name": "Bài giảng - T1-X2.mp4",
+                  "mimeType": "video/mp4",
+                  "size": 701332587,
+                  "webViewLink": "https://drive.google.com/file/d/1VqoJGeq7fB9xyIRb29E5pkDer7Lm2uIU/view?usp=drivesdk",
+                  "modifiedTime": "2026-05-22T08:21:35.429Z",
+                  "videoMediaMetadata": null
+                },
+                {
+                  "id": "1dncW-pKPjjeKbbbP4IrDr8IG-Lg4vH1W",
+                  "name": "Bản viết tay - T1-X2.pdf",
+                  "mimeType": "application/pdf",
+                  "size": 8743763,
+                  "webViewLink": "https://drive.google.com/file/d/1dncW-pKPjjeKbbbP4IrDr8IG-Lg4vH1W/view?usp=drivesdk",
+                  "modifiedTime": "2026-05-04T16:07:58.136Z",
+                  "videoMediaMetadata": null
+                },
+                {
+                  "id": "1O1T299ZX5UvHN6e_oiQeOy9l2RjVjVfX",
+                  "name": "Tài liệu - T1-X2.pdf",
+                  "mimeType": "application/pdf",
+                  "size": 513610,
+                  "webViewLink": "https://drive.google.com/file/d/1O1T299ZX5UvHN6e_oiQeOy9l2RjVjVfX/view?usp=drivesdk",
+                  "modifiedTime": "2026-05-04T16:07:59.429Z",
+                  "videoMediaMetadata": null
+                }
+              ]
+            }
+          ],
+          "files": []
+        }
+      ],
+      "files": [],
+      "webViewLink": "https://drive.google.com/drive/folders/12Y8kNGIBBD1FTScfpd_vEUh49QKh3dHp",
+      "modifiedTime": "2026-04-17T16:25:01.543Z"
+    },
+    {
+      "id": "1f2b-s6FaD8TYgLxUkQk7Q09DQ59gJF5Q",
+      "name": "2. KHOÁ E CHUYÊN ĐỀ CHUYÊN SÂU",
+      "children": [
+        {
+          "id": "1-4GkT_xCXO5rRflQh730Qc66-HX5O0Yb",
+          "name": "8. CHƯƠNG B8 - GÓC VÀ KHOẢNG CÁCH\t\t",
+          "webViewLink": "https://drive.google.com/drive/folders/1-4GkT_xCXO5rRflQh730Qc66-HX5O0Yb",
+          "modifiedTime": "2026-05-04T16:07:10.389Z",
+          "children": [
+            {
+              "id": "1rTONXz2uE7T8LDLX1e2FJHhQk8mvNirs",
+              "name": "E1-B8-Buổi 1 - Kỹ năng tìm khoảng cách từ chân đường vuông góc tới mặt bên và kỹ năng đổi điểm",
+              "webViewLink": "https://drive.google.com/drive/folders/1rTONXz2uE7T8LDLX1e2FJHhQk8mvNirs",
+              "modifiedTime": "2026-05-04T16:07:26.044Z",
+              "children": [],
+              "files": [
+                {
+                  "id": "16H8RmtM8uzzQN4tY3clLZkaCYFhgSyGG",
+                  "name": "Bản viết tay - E1-B8-Buổi 1.pdf",
+                  "mimeType": "application/pdf",
+                  "size": 13466680,
+                  "webViewLink": "https://drive.google.com/file/d/16H8RmtM8uzzQN4tY3clLZkaCYFhgSyGG/view?usp=drivesdk",
+                  "modifiedTime": "2026-05-04T16:07:30.467Z",
+                  "videoMediaMetadata": null
+                },
+                {
+                  "id": "15JXAEDqUOoTG0V-JVTQGHOkuHvS9xXn1",
+                  "name": "E1-B8-Buổi 1 – Phần 1 - Lý thuyết.mp4",
+                  "mimeType": "video/mp4",
+                  "size": 408544868,
+                  "webViewLink": "https://drive.google.com/file/d/15JXAEDqUOoTG0V-JVTQGHOkuHvS9xXn1/view?usp=drivesdk",
+                  "modifiedTime": "2026-05-04T16:07:28.041Z",
+                  "videoMediaMetadata": null
+                },
+                {
+                  "id": "1w3Qv3zR50lMTN2kXBVgzVHxS5acpSqGT",
+                  "name": "E1-B8-Buổi 1 – Phần 2 - Câu 1-8.mp4",
+                  "mimeType": "video/mp4",
+                  "size": 249120304,
+                  "webViewLink": "https://drive.google.com/file/d/1w3Qv3zR50lMTN2kXBVgzVHxS5acpSqGT/view?usp=drivesdk",
+                  "modifiedTime": "2026-05-04T16:07:29.166Z",
+                  "videoMediaMetadata": {
+                    "width": 1280,
+                    "height": 720,
+                    "durationMillis": "2073499"
+                  }
+                },
+                {
+                  "id": "1U9i26-r4oi2-U4ULuWt5QdS8Y4ecdaMe",
+                  "name": "E1-B8-Buổi 1 – Phần 3 - Câu 9-20.mp4",
+                  "mimeType": "video/mp4",
+                  "size": 721637436,
+                  "webViewLink": "https://drive.google.com/file/d/1U9i26-r4oi2-U4ULuWt5QdS8Y4ecdaMe/view?usp=drivesdk",
+                  "modifiedTime": "2026-05-04T16:07:26.709Z",
+                  "videoMediaMetadata": null
+                },
+                {
+                  "id": "1rHYMw0j802u62SPtgrdQTOiWky9g_Lnt",
+                  "name": "Tài liệu - E1-B8-Buổi 1.pdf",
+                  "mimeType": "application/pdf",
+                  "size": 702178,
+                  "webViewLink": "https://drive.google.com/file/d/1rHYMw0j802u62SPtgrdQTOiWky9g_Lnt/view?usp=drivesdk",
+                  "modifiedTime": "2026-05-04T16:07:32.310Z",
+                  "videoMediaMetadata": null
+                }
+              ]
+            },
+            {
+              "id": "11Ccmh14AAdhtzAIf7OoNj7gbflnJwDqt",
+              "name": "E1-B8-Buổi 2 - Tạo mặt phẳng song song tìm khoảng cách giữa hai đường thẳng chéo nhau",
+              "webViewLink": "https://drive.google.com/drive/folders/11Ccmh14AAdhtzAIf7OoNj7gbflnJwDqt",
+              "modifiedTime": "2026-05-04T16:07:52.053Z",
+              "children": [],
+              "files": [
+                {
+                  "id": "1j3LP0Bha_ji9J9un4SaVHkKDcrIzd2uE",
+                  "name": "Bản viết tay - E1-B8-Buổi 2.pdf",
+                  "mimeType": "application/pdf",
+                  "size": 3934049,
+                  "webViewLink": "https://drive.google.com/file/d/1j3LP0Bha_ji9J9un4SaVHkKDcrIzd2uE/view?usp=drivesdk",
+                  "modifiedTime": "2026-05-04T16:07:53.804Z",
+                  "videoMediaMetadata": null
+                },
+                {
+                  "id": "16veeBkfeUqtobeK92CGkX_XVpyKhx9Jo",
+                  "name": "E1-B8-Buổi 2 – Bài giảng.mp4",
+                  "mimeType": "video/mp4",
+                  "size": 499533108,
+                  "webViewLink": "https://drive.google.com/file/d/16veeBkfeUqtobeK92CGkX_XVpyKhx9Jo/view?usp=drivesdk",
+                  "modifiedTime": "2026-05-04T16:07:52.738Z",
+                  "videoMediaMetadata": {
+                    "width": 1920,
+                    "height": 1080,
+                    "durationMillis": "3098699"
+                  }
+                },
+                {
+                  "id": "1nGhhUG-g2qJOd8JrRdRodBH6QhQjXo1J",
+                  "name": "Tài liệu - E1-B8-Buổi 2.pdf",
+                  "mimeType": "application/pdf",
+                  "size": 739944,
+                  "webViewLink": "https://drive.google.com/file/d/1nGhhUG-g2qJOd8JrRdRodBH6QhQjXo1J/view?usp=drivesdk",
+                  "modifiedTime": "2026-05-04T16:07:54.843Z",
+                  "videoMediaMetadata": null
+                }
+              ]
+            },
+            {
+              "id": "1yZrEy_eH0XuaV35WglAuPuBzQSUeUzsJ",
+              "name": "E1-B8-Buổi 3 - Bổ trợ 20 bài toán khoảng cách giữa 2 đường thẳng chéo nhau",
+              "webViewLink": "https://drive.google.com/drive/folders/1yZrEy_eH0XuaV35WglAuPuBzQSUeUzsJ",
+              "modifiedTime": "2026-05-04T16:07:20.425Z",
+              "children": [],
+              "files": [
+                {
+                  "id": "1QMTCVykFmotVQyu55zR-XrqWwVMNBS9n",
+                  "name": "Bản viết tay - Bổ trợ 1 - E1-B8-Buổi 3.pdf",
+                  "mimeType": "application/pdf",
+                  "size": 10263948,
+                  "webViewLink": "https://drive.google.com/file/d/1QMTCVykFmotVQyu55zR-XrqWwVMNBS9n/view?usp=drivesdk",
+                  "modifiedTime": "2026-05-04T16:07:23.822Z",
+                  "videoMediaMetadata": null
+                },
+                {
+                  "id": "1HtoRAPXO11SYxCxgOvx9Mg1HWJSN0WNj",
+                  "name": "Tài liệu - Bổ trợ 1 - E1-B8-Buổi 3.pdf",
+                  "mimeType": "application/pdf",
+                  "size": 973425,
+                  "webViewLink": "https://drive.google.com/file/d/1HtoRAPXO11SYxCxgOvx9Mg1HWJSN0WNj/view?usp=drivesdk",
+                  "modifiedTime": "2026-05-04T16:07:24.909Z",
+                  "videoMediaMetadata": null
+                }
+              ]
+            },
+            {
+              "id": "182GTuawt2aP45-UtwuyuxscmMMHU3h3u",
+              "name": "E1-B8-Buổi 3 - Sơ đồ ĐKH và công thức ĐKH",
+              "webViewLink": "https://drive.google.com/drive/folders/182GTuawt2aP45-UtwuyuxscmMMHU3h3u",
+              "modifiedTime": "2026-05-04T16:07:14.437Z",
+              "children": [],
+              "files": [
+                {
+                  "id": "100KMcPzNqv91Usv-n50-CUJ1iDgb7dsK",
+                  "name": "Bản viết tay - E1-B8-Buổi 3.pdf",
+                  "mimeType": "application/pdf",
+                  "size": 9120055,
+                  "webViewLink": "https://drive.google.com/file/d/100KMcPzNqv91Usv-n50-CUJ1iDgb7dsK/view?usp=drivesdk",
+                  "modifiedTime": "2026-05-04T16:07:15.345Z",
+                  "videoMediaMetadata": null
+                },
+                {
+                  "id": "12xVw9UkYtzfpbq0W0YEJ6Lr0QsYe11x0",
+                  "name": "E1-B8-Buổi 3 – Phần 1 - Lý thuyết + câu 1-9.mp4",
+                  "mimeType": "video/mp4",
+                  "size": 806574332,
+                  "webViewLink": "https://drive.google.com/file/d/12xVw9UkYtzfpbq0W0YEJ6Lr0QsYe11x0/view?usp=drivesdk",
+                  "modifiedTime": "2026-05-04T16:07:17.616Z",
+                  "videoMediaMetadata": {
+                    "width": 1920,
+                    "height": 1080,
+                    "durationMillis": "4992366"
+                  }
+                },
+                {
+                  "id": "1OglgYW8FRLT0IEmix02C4vCBNUv8FP95",
+                  "name": "Tài liệu - E1-B8-Buổi 3.pdf",
+                  "mimeType": "application/pdf",
+                  "size": 891358,
+                  "webViewLink": "https://drive.google.com/file/d/1OglgYW8FRLT0IEmix02C4vCBNUv8FP95/view?usp=drivesdk",
+                  "modifiedTime": "2026-05-04T16:07:16.436Z",
+                  "videoMediaMetadata": null
+                }
+              ]
+            },
+            {
+              "id": "1J5wUtIB0r9K8rFXRqIxABLTOMFAhF9Uy",
+              "name": "E1-B8-Buổi 4 - Kỹ năng tìm góc qua khoảng cách",
+              "webViewLink": "https://drive.google.com/drive/folders/1J5wUtIB0r9K8rFXRqIxABLTOMFAhF9Uy",
+              "modifiedTime": "2026-05-04T16:07:41.002Z",
+              "children": [],
+              "files": [
+                {
+                  "id": "1W8fD02N-PtHCnVhtwYyZYe-l8kZTxLT7",
+                  "name": "Bản viết tay - E1-B8-Buổi 4.pdf",
+                  "mimeType": "application/pdf",
+                  "size": 5963167,
+                  "webViewLink": "https://drive.google.com/file/d/1W8fD02N-PtHCnVhtwYyZYe-l8kZTxLT7/view?usp=drivesdk",
+                  "modifiedTime": "2026-05-04T16:07:41.802Z",
+                  "videoMediaMetadata": null
+                },
+                {
+                  "id": "1gkxG2Ikrda-MQdQgKtYn4IMgdSyzHUy7",
+                  "name": "E1-B8-Buổi 4 – Phần 1 - Lý thuyết + câu 1.mp4",
+                  "mimeType": "video/mp4",
+                  "size": 401885344,
+                  "webViewLink": "https://drive.google.com/file/d/1gkxG2Ikrda-MQdQgKtYn4IMgdSyzHUy7/view?usp=drivesdk",
+                  "modifiedTime": "2026-05-04T16:07:44.515Z",
+                  "videoMediaMetadata": {
+                    "width": 1280,
+                    "height": 720,
+                    "durationMillis": "3296499"
+                  }
+                },
+                {
+                  "id": "1av0wBNaX_KPalxfaPG8Bm_7Qd3LL7MZA",
+                  "name": "Tài liệu - E1-B8-Buổi 4.pdf",
+                  "mimeType": "application/pdf",
+                  "size": 591629,
+                  "webViewLink": "https://drive.google.com/file/d/1av0wBNaX_KPalxfaPG8Bm_7Qd3LL7MZA/view?usp=drivesdk",
+                  "modifiedTime": "2026-05-04T16:07:43.148Z",
+                  "videoMediaMetadata": null
+                }
+              ]
+            },
+            {
+              "id": "10kmp6A7LIehxsXdA4iVUVnadT2ue9x_0",
+              "name": "E1-B8-Buổi 5 - Bổ trợ 20 bài toán góc nhị diện",
+              "webViewLink": "https://drive.google.com/drive/folders/10kmp6A7LIehxsXdA4iVUVnadT2ue9x_0",
+              "modifiedTime": "2026-05-04T16:07:38.288Z",
+              "children": [],
+              "files": [
+                {
+                  "id": "1eSSTcIREyMBbs6nRcSrJUiLj76PqyuvE",
+                  "name": "Bản viết tay - E1-B8-Buổi 5 - Bổ trợ 20 bài góc nhị diện.pdf",
+                  "mimeType": "application/pdf",
+                  "size": 10434070,
+                  "webViewLink": "https://drive.google.com/file/d/1eSSTcIREyMBbs6nRcSrJUiLj76PqyuvE/view?usp=drivesdk",
+                  "modifiedTime": "2026-05-04T16:07:38.929Z",
+                  "videoMediaMetadata": null
+                },
+                {
+                  "id": "1pPy3wcV-Ig_L_aVyqb218iDb6QpF_cOk",
+                  "name": "Tài liệu - E1-B8-Buổi 5 - Bổ trợ 20 bài toán góc nhị diện.pdf",
+                  "mimeType": "application/pdf",
+                  "size": 939450,
+                  "webViewLink": "https://drive.google.com/file/d/1pPy3wcV-Ig_L_aVyqb218iDb6QpF_cOk/view?usp=drivesdk",
+                  "modifiedTime": "2026-05-04T16:07:40.009Z",
+                  "videoMediaMetadata": null
+                }
+              ]
+            },
+            {
+              "id": "1AFQydpsg6KUPnIl1r4FJaXK89XTWQ9D1",
+              "name": "E1-B8-Buổi 5 - Góc nhị diện và tính số đo góc nhị diện",
+              "webViewLink": "https://drive.google.com/drive/folders/1AFQydpsg6KUPnIl1r4FJaXK89XTWQ9D1",
+              "modifiedTime": "2026-05-04T16:07:33.427Z",
+              "children": [],
+              "files": [
+                {
+                  "id": "11Ni5etAyKz5Q3mi7I2895REOi6QI56RG",
+                  "name": "Bản viết tay - E1-B8-Buổi 5.pdf",
+                  "mimeType": "application/pdf",
+                  "size": 4020322,
+                  "webViewLink": "https://drive.google.com/file/d/11Ni5etAyKz5Q3mi7I2895REOi6QI56RG/view?usp=drivesdk",
+                  "modifiedTime": "2026-05-04T16:07:35.193Z",
+                  "videoMediaMetadata": null
+                },
+                {
+                  "id": "10eqa1NkiyVI7Q6AJoUrEdyFXISkx7rQR",
+                  "name": "E1-B8-Buổi 5 – Phần 1 - Lý thuyết + ví dụ.mp4",
+                  "mimeType": "video/mp4",
+                  "size": 523554808,
+                  "webViewLink": "https://drive.google.com/file/d/10eqa1NkiyVI7Q6AJoUrEdyFXISkx7rQR/view?usp=drivesdk",
+                  "modifiedTime": "2026-05-04T16:07:34.096Z",
+                  "videoMediaMetadata": null
+                },
+                {
+                  "id": "1e9sdGIXxlrAvfRS15cwUAz6ASTFvMjOU",
+                  "name": "Tài liệu - E1-B8-Buổi 5.pdf",
+                  "mimeType": "application/pdf",
+                  "size": 871311,
+                  "webViewLink": "https://drive.google.com/file/d/1e9sdGIXxlrAvfRS15cwUAz6ASTFvMjOU/view?usp=drivesdk",
+                  "modifiedTime": "2026-05-04T16:07:36.779Z",
+                  "videoMediaMetadata": null
+                }
+              ]
+            },
+            {
+              "id": "1AYsk5VGSiVlYRGdSxmvolTx4fkhDFstU",
+              "name": "E1-B8-Buổi 6 - Thể tích và tỉ lệ thể tích hình chóp đáy là tam giác",
+              "webViewLink": "https://drive.google.com/drive/folders/1AYsk5VGSiVlYRGdSxmvolTx4fkhDFstU",
+              "modifiedTime": "2026-05-04T16:07:49.248Z",
+              "children": [],
+              "files": [
+                {
+                  "id": "1_4VyCy8ijoAR0IsUzPUEucy21fwg7CYY",
+                  "name": "Bản viết tay - E1-B8-Buổi 6.pdf",
+                  "mimeType": "application/pdf",
+                  "size": 12056520,
+                  "webViewLink": "https://drive.google.com/file/d/1_4VyCy8ijoAR0IsUzPUEucy21fwg7CYY/view?usp=drivesdk",
+                  "modifiedTime": "2026-05-04T16:07:49.834Z",
+                  "videoMediaMetadata": null
+                },
+                {
+                  "id": "17-L_UrheryM5_DDsomZka2eETD6GCpFZ",
+                  "name": "Tài liệu - E1-B8-Buổi 6.pdf",
+                  "mimeType": "application/pdf",
+                  "size": 1311867,
+                  "webViewLink": "https://drive.google.com/file/d/17-L_UrheryM5_DDsomZka2eETD6GCpFZ/view?usp=drivesdk",
+                  "modifiedTime": "2026-05-04T16:07:51.051Z",
+                  "videoMediaMetadata": null
+                }
+              ]
+            },
+            {
+              "id": "1ll9TSKn-CNe_oUKF9V5sa804hTRRByEx",
+              "name": "E1-B8-Buổi 7 - Bổ trợ 20 bài toán thể tích, tỉ lệ thể tích",
+              "webViewLink": "https://drive.google.com/drive/folders/1ll9TSKn-CNe_oUKF9V5sa804hTRRByEx",
+              "modifiedTime": "2026-05-04T16:07:11.233Z",
+              "children": [],
+              "files": [
+                {
+                  "id": "1wAoJA7qQQZGVvTXpOvyQhk5LddN97Aht",
+                  "name": "Bản viết tay - E1-B8-Buổi 7 - Bổ trợ.pdf",
+                  "mimeType": "application/pdf",
+                  "size": 5850115,
+                  "webViewLink": "https://drive.google.com/file/d/1wAoJA7qQQZGVvTXpOvyQhk5LddN97Aht/view?usp=drivesdk",
+                  "modifiedTime": "2026-05-04T16:07:11.989Z",
+                  "videoMediaMetadata": null
+                },
+                {
+                  "id": "11BVUtzX3cRvIDkjKlftS0N6Hg-vgAXNY",
+                  "name": "Tài liệu - E1-B8-Buổi 7 - Bổ trợ.pdf",
+                  "mimeType": "application/pdf",
+                  "size": 1064122,
+                  "webViewLink": "https://drive.google.com/file/d/11BVUtzX3cRvIDkjKlftS0N6Hg-vgAXNY/view?usp=drivesdk",
+                  "modifiedTime": "2026-05-04T16:07:13.164Z",
+                  "videoMediaMetadata": null
+                }
+              ]
+            },
+            {
+              "id": "1sQJwINtD0BchCYPDvP1dDh3eRUpmucXI",
+              "name": "E1-B8-Buổi 7 - Ti lệ thể tích hình chóp đáy là hình bình hành",
+              "webViewLink": "https://drive.google.com/drive/folders/1sQJwINtD0BchCYPDvP1dDh3eRUpmucXI",
+              "modifiedTime": "2026-05-04T16:07:45.860Z",
+              "children": [],
+              "files": [
+                {
+                  "id": "1I4o18QqIUhjYBF1Wx-VgWe1S8gmS9TfZ",
+                  "name": "Bản viết tay - E1-B8-Buổi 7.pdf",
+                  "mimeType": "application/pdf",
+                  "size": 8412586,
+                  "webViewLink": "https://drive.google.com/file/d/1I4o18QqIUhjYBF1Wx-VgWe1S8gmS9TfZ/view?usp=drivesdk",
+                  "modifiedTime": "2026-05-04T16:07:46.618Z",
+                  "videoMediaMetadata": null
+                },
+                {
+                  "id": "1-R2YpFEtkHDqhkZTEsNKX9_iuyqanoOS",
+                  "name": "Lý thuyết - E1-B8-Buổi 7.pdf",
+                  "mimeType": "application/pdf",
+                  "size": 515695,
+                  "webViewLink": "https://drive.google.com/file/d/1-R2YpFEtkHDqhkZTEsNKX9_iuyqanoOS/view?usp=drivesdk",
+                  "modifiedTime": "2026-05-04T16:07:47.994Z",
+                  "videoMediaMetadata": null
+                }
+              ]
+            }
+          ],
+          "files": []
+        }
+      ],
+      "files": [],
+      "webViewLink": "https://drive.google.com/drive/folders/1f2b-s6FaD8TYgLxUkQk7Q09DQ59gJF5Q",
+      "modifiedTime": "2026-04-17T16:25:01.543Z"
+    },
+    {
+      "id": "1uwdj1GsejbCC9mBtRwI3YhpEVqriWXb_",
+      "name": "3. KHOÁ NS THỰC CHIẾN LUYỆN ĐỀ VÀ TỔNG ÔN TRỌNG ĐIỂM",
+      "children": [],
+      "files": [],
+      "webViewLink": "https://drive.google.com/drive/folders/1uwdj1GsejbCC9mBtRwI3YhpEVqriWXb_",
+      "modifiedTime": "2026-04-17T16:25:01.543Z"
+    },
+    {
+      "id": "1hGlmt-dvsIdj8J4FgasFrccUtIeXV96u",
+      "name": "Z. BONUS 2K8 KIẾN THỨC CỐT LÕI TOÁN 12 - LUYỆN THI TỐT NGHIỆP THPT 2026 TENS (T)",
+      "children": [],
+      "files": [],
+      "webViewLink": "https://drive.google.com/drive/folders/1hGlmt-dvsIdj8J4FgasFrccUtIeXV96u",
+      "modifiedTime": "2026-04-17T16:25:01.543Z"
+    },
+    {
+      "id": "1cDyNbqoPPKYN7J4KdawGPHhX-azU-3r1",
+      "name": "Z. BONUS 2K8 TOÁN 12 - CHINH PHỤC TỔ HỢP XÁC SUẤT",
+      "children": [],
+      "files": [],
+      "webViewLink": "https://drive.google.com/drive/folders/1cDyNbqoPPKYN7J4KdawGPHhX-azU-3r1",
+      "modifiedTime": "2026-04-17T16:25:01.543Z"
+    },
+    {
+      "id": "1Ia7J6RsTZsSYDnf3gGhjIBOnBfpfbJj6",
+      "name": "Z. EBOOK SÁCH KÈM KHOÁ HỌC",
+      "children": [],
+      "files": [],
+      "webViewLink": "https://drive.google.com/drive/folders/1Ia7J6RsTZsSYDnf3gGhjIBOnBfpfbJj6",
+      "modifiedTime": "2026-04-17T16:25:01.543Z"
+    }
+  ]
+}

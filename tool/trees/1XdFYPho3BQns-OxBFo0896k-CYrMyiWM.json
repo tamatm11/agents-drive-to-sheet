@@ -1,0 +1,2078 @@
+{
+  "crawledAt": "2026-05-30T02:12:46.394Z",
+  "teacher": {
+    "id": "1XdFYPho3BQns-OxBFo0896k-CYrMyiWM",
+    "name": "3. ANH CÔ PHẠM LIỄU TENS 2K9",
+    "modifiedTime": "2026-05-27T15:22:34.156Z",
+    "webViewLink": "https://drive.google.com/drive/folders/1XdFYPho3BQns-OxBFo0896k-CYrMyiWM"
+  },
+  "courses": [
+    {
+      "id": "1lYWwfY_mChkTlFSuWP2nCE7UO8pTXHW0",
+      "name": "0. INFO THÔNG TIN VÀ HƯỚNG DẪN KHOÁ HỌC",
+      "children": [],
+      "files": [],
+      "webViewLink": "https://drive.google.com/drive/folders/1lYWwfY_mChkTlFSuWP2nCE7UO8pTXHW0",
+      "modifiedTime": "2026-04-15T22:18:52.462Z"
+    },
+    {
+      "id": "1at442t-8UwnyTAi-VSu9Uw0iAuneHCt9",
+      "name": "1. KHOÁ T NỀN TẢNG TỪ VỰNG NGỮ PHÁP",
+      "children": [
+        {
+          "id": "1Nj5piNyWmevlxVahrt_9jMPrcn3OR171",
+          "name": "1. CHUYÊN ĐỀ NGỮ PHÁP\t\t",
+          "webViewLink": "https://drive.google.com/drive/folders/1Nj5piNyWmevlxVahrt_9jMPrcn3OR171",
+          "modifiedTime": "2026-04-17T14:00:26.277Z",
+          "children": [
+            {
+              "id": "1TSPUFqaO6BeRdcsZwEqmCUZ7QK4f4fEC",
+              "name": "1. Tenses\t\t",
+              "webViewLink": "https://drive.google.com/drive/folders/1TSPUFqaO6BeRdcsZwEqmCUZ7QK4f4fEC",
+              "modifiedTime": "2026-04-17T14:01:13.848Z",
+              "children": [
+                {
+                  "id": "1piPagKiw0eIUz8J6by97PDNKKg0rpxv6",
+                  "name": "1. Hiện tại",
+                  "webViewLink": "https://drive.google.com/drive/folders/1piPagKiw0eIUz8J6by97PDNKKg0rpxv6",
+                  "modifiedTime": "2026-04-17T14:01:33.031Z",
+                  "children": [],
+                  "files": [
+                    {
+                      "id": "1KuAcNQ_eDHxxaEtiWTK_Wb-UMTdbyBy7",
+                      "name": "Tenses – Hiện tại - File lý thuyết.pdf",
+                      "mimeType": "application/pdf",
+                      "size": 3967568,
+                      "webViewLink": "https://drive.google.com/file/d/1KuAcNQ_eDHxxaEtiWTK_Wb-UMTdbyBy7/view?usp=drivesdk",
+                      "modifiedTime": "2026-04-17T14:01:33.986Z",
+                      "videoMediaMetadata": null
+                    },
+                    {
+                      "id": "11oV4R33Tn4s69Gw_pWsHhoYHidCtcupg",
+                      "name": "Tenses – Hiện tại - File PDF - Test 1.pdf",
+                      "mimeType": "application/pdf",
+                      "size": 5807885,
+                      "webViewLink": "https://drive.google.com/file/d/11oV4R33Tn4s69Gw_pWsHhoYHidCtcupg/view?usp=drivesdk",
+                      "modifiedTime": "2026-04-17T14:01:35.662Z",
+                      "videoMediaMetadata": null
+                    },
+                    {
+                      "id": "1sQ_fqLQY9AFHAut8CO5Y7_wVdnv1QkV1",
+                      "name": "Tenses – Hiện tại - File PDF - Test 2.pdf",
+                      "mimeType": "application/pdf",
+                      "size": 4675330,
+                      "webViewLink": "https://drive.google.com/file/d/1sQ_fqLQY9AFHAut8CO5Y7_wVdnv1QkV1/view?usp=drivesdk",
+                      "modifiedTime": "2026-04-17T14:01:39.380Z",
+                      "videoMediaMetadata": null
+                    },
+                    {
+                      "id": "16q6XxmVRnHQD-wXjq3SNlyqMNNDZzXyC",
+                      "name": "Tenses – Hiện tại - Unit 1 - Tenses Thì- Thì hiện tại đơn.mp4",
+                      "mimeType": "video/mp4",
+                      "size": 276616808,
+                      "webViewLink": "https://drive.google.com/file/d/16q6XxmVRnHQD-wXjq3SNlyqMNNDZzXyC/view?usp=drivesdk",
+                      "modifiedTime": "2026-04-17T14:01:45.780Z",
+                      "videoMediaMetadata": {
+                        "width": 1280,
+                        "height": 720,
+                        "durationMillis": "985533"
+                      }
+                    },
+                    {
+                      "id": "1edoKkuXUoQbjK9c3kvZ1Zz3C0JMv_DSP",
+                      "name": "Tenses – Hiện tại - Unit 2 - Thì hiện tại tiếp diễn.mp4",
+                      "mimeType": "video/mp4",
+                      "size": 310108820,
+                      "webViewLink": "https://drive.google.com/file/d/1edoKkuXUoQbjK9c3kvZ1Zz3C0JMv_DSP/view?usp=drivesdk",
+                      "modifiedTime": "2026-04-17T14:01:44.468Z",
+                      "videoMediaMetadata": {
+                        "width": 1920,
+                        "height": 1080,
+                        "durationMillis": "569116"
+                      }
+                    },
+                    {
+                      "id": "1gXstLXTEbSYHStSLCFoTHkOTJDpAC5PA",
+                      "name": "Tenses – Hiện tại - Unit 3 - Thì hiện tại Hoàn thành.mp4",
+                      "mimeType": "video/mp4",
+                      "size": 270558320,
+                      "webViewLink": "https://drive.google.com/file/d/1gXstLXTEbSYHStSLCFoTHkOTJDpAC5PA/view?usp=drivesdk",
+                      "modifiedTime": "2026-04-17T14:01:42.500Z",
+                      "videoMediaMetadata": {
+                        "width": 1920,
+                        "height": 1080,
+                        "durationMillis": "496133"
+                      }
+                    },
+                    {
+                      "id": "1zx8rrRTXMbbbbMYDFoIzZFpm-MAlTmRL",
+                      "name": "Tenses – Hiện tại - Đề thi - Test 1.pdf",
+                      "mimeType": "application/pdf",
+                      "size": 16052002,
+                      "webViewLink": "https://drive.google.com/file/d/1zx8rrRTXMbbbbMYDFoIzZFpm-MAlTmRL/view?usp=drivesdk",
+                      "modifiedTime": "2026-04-17T14:01:37.373Z",
+                      "videoMediaMetadata": null
+                    },
+                    {
+                      "id": "1asbmpnHlLexC7RcvMIqjQsVtkJ9OonfC",
+                      "name": "THÌ HIỆN TẠI PART 2.mp4",
+                      "mimeType": "video/mp4",
+                      "size": 150578182,
+                      "webViewLink": "https://drive.google.com/file/d/1asbmpnHlLexC7RcvMIqjQsVtkJ9OonfC/view?usp=drivesdk",
+                      "modifiedTime": "2026-04-17T14:01:40.952Z",
+                      "videoMediaMetadata": {
+                        "width": 1920,
+                        "height": 1080,
+                        "durationMillis": "1829532"
+                      }
+                    }
+                  ]
+                },
+                {
+                  "id": "1C-y3FRuKi_INYKlJ4tY3-5C2HjNoN7Cm",
+                  "name": "2. Quá khứ",
+                  "webViewLink": "https://drive.google.com/drive/folders/1C-y3FRuKi_INYKlJ4tY3-5C2HjNoN7Cm",
+                  "modifiedTime": "2026-04-17T14:01:23.396Z",
+                  "children": [],
+                  "files": [
+                    {
+                      "id": "1ICN8RUXz04K275YoplGXDE3w02OzV5kW",
+                      "name": "Tenses – Quá khứ - File PDF - Các thì quá khứ.pdf",
+                      "mimeType": "application/pdf",
+                      "size": 6259267,
+                      "webViewLink": "https://drive.google.com/file/d/1ICN8RUXz04K275YoplGXDE3w02OzV5kW/view?usp=drivesdk",
+                      "modifiedTime": "2026-04-17T14:01:24.554Z",
+                      "videoMediaMetadata": null
+                    },
+                    {
+                      "id": "1sDd_irRyFTWaMfRWFHe8sKuiLD7-15LG",
+                      "name": "Tenses – Quá khứ - Live chữa.mp4",
+                      "mimeType": "video/mp4",
+                      "size": 107787732,
+                      "webViewLink": "https://drive.google.com/file/d/1sDd_irRyFTWaMfRWFHe8sKuiLD7-15LG/view?usp=drivesdk",
+                      "modifiedTime": "2026-04-17T14:01:26.019Z",
+                      "videoMediaMetadata": {
+                        "width": 1280,
+                        "height": 720,
+                        "durationMillis": "2367133"
+                      }
+                    },
+                    {
+                      "id": "1M7ZrQARMRUhNLJyohC5H37yPGF8V6Os2",
+                      "name": "Tenses – Quá khứ - Unit 4 - Thì quá khứ đơn.mp4",
+                      "mimeType": "video/mp4",
+                      "size": 115461892,
+                      "webViewLink": "https://drive.google.com/file/d/1M7ZrQARMRUhNLJyohC5H37yPGF8V6Os2/view?usp=drivesdk",
+                      "modifiedTime": "2026-04-17T14:01:30.763Z",
+                      "videoMediaMetadata": {
+                        "width": 1280,
+                        "height": 720,
+                        "durationMillis": "411250"
+                      }
+                    },
+                    {
+                      "id": "12tR447CrKAfrAPWQ8lLTZhpEM9qH86TE",
+                      "name": "Tenses – Quá khứ - Unit 5 - Thì quá khứ tiếp diễn.mp4",
+                      "mimeType": "video/mp4",
+                      "size": 101030072,
+                      "webViewLink": "https://drive.google.com/file/d/12tR447CrKAfrAPWQ8lLTZhpEM9qH86TE/view?usp=drivesdk",
+                      "modifiedTime": "2026-04-17T14:01:29.276Z",
+                      "videoMediaMetadata": null
+                    },
+                    {
+                      "id": "1jqCZ99PhNqoSZE9-jce8p494c9kqhqBd",
+                      "name": "Tenses – Quá khứ - Unit 6 - Thì quá khứ hoàn thành.mp4",
+                      "mimeType": "video/mp4",
+                      "size": 140084440,
+                      "webViewLink": "https://drive.google.com/file/d/1jqCZ99PhNqoSZE9-jce8p494c9kqhqBd/view?usp=drivesdk",
+                      "modifiedTime": "2026-04-17T14:01:27.746Z",
+                      "videoMediaMetadata": null
+                    }
+                  ]
+                },
+                {
+                  "id": "1zN885YU7FN0MgWBwoVELJS0aNm8gf3ns",
+                  "name": "3. Tương lai",
+                  "webViewLink": "https://drive.google.com/drive/folders/1zN885YU7FN0MgWBwoVELJS0aNm8gf3ns",
+                  "modifiedTime": "2026-04-17T14:01:14.754Z",
+                  "children": [],
+                  "files": [
+                    {
+                      "id": "1KXnNGBZYFcmgKjyEAhgd4k66RwKbBiLL",
+                      "name": "CÁC THÌ TƯƠNG LAI.mp4",
+                      "mimeType": "video/mp4",
+                      "size": 241256602,
+                      "webViewLink": "https://drive.google.com/file/d/1KXnNGBZYFcmgKjyEAhgd4k66RwKbBiLL/view?usp=drivesdk",
+                      "modifiedTime": "2026-04-17T14:01:17.242Z",
+                      "videoMediaMetadata": {
+                        "width": 1920,
+                        "height": 1080,
+                        "durationMillis": "2505867"
+                      }
+                    },
+                    {
+                      "id": "1twbz9hvPaSm4rPhMEoqDkblScB_H3Ja4",
+                      "name": "Tenses – Tương lai - File PDF - Các thì tương lai.pdf",
+                      "mimeType": "application/pdf",
+                      "size": 7299273,
+                      "webViewLink": "https://drive.google.com/file/d/1twbz9hvPaSm4rPhMEoqDkblScB_H3Ja4/view?usp=drivesdk",
+                      "modifiedTime": "2026-04-17T14:01:15.976Z",
+                      "videoMediaMetadata": null
+                    },
+                    {
+                      "id": "1dq7x4n_51ryVuYPdV5Ddtumts-kserqM",
+                      "name": "Tenses – Tương lai - Unit 7 - Thì tương lai đơn.mp4",
+                      "mimeType": "video/mp4",
+                      "size": 58309140,
+                      "webViewLink": "https://drive.google.com/file/d/1dq7x4n_51ryVuYPdV5Ddtumts-kserqM/view?usp=drivesdk",
+                      "modifiedTime": "2026-04-17T14:01:22.076Z",
+                      "videoMediaMetadata": {
+                        "width": 1280,
+                        "height": 720,
+                        "durationMillis": "207733"
+                      }
+                    },
+                    {
+                      "id": "1B1WZOQK9KVk9FgZ0pHgTAv4WBja7r336",
+                      "name": "Tenses – Tương lai - Unit 8 - Thì tương lai tiếp diễn.mp4",
+                      "mimeType": "video/mp4",
+                      "size": 62804784,
+                      "webViewLink": "https://drive.google.com/file/d/1B1WZOQK9KVk9FgZ0pHgTAv4WBja7r336/view?usp=drivesdk",
+                      "modifiedTime": "2026-04-17T14:01:20.735Z",
+                      "videoMediaMetadata": null
+                    },
+                    {
+                      "id": "1E4NrOcwq2peKxDn2lFY6VOlCm78lxI63",
+                      "name": "Tenses – Tương lai - Unit 9 - Thì tương lai hoàn thành.mp4",
+                      "mimeType": "video/mp4",
+                      "size": 55961020,
+                      "webViewLink": "https://drive.google.com/file/d/1E4NrOcwq2peKxDn2lFY6VOlCm78lxI63/view?usp=drivesdk",
+                      "modifiedTime": "2026-04-17T14:01:18.957Z",
+                      "videoMediaMetadata": null
+                    }
+                  ]
+                },
+                {
+                  "id": "1sgr93fx4pqeEfV3z3hg2wbgxjmHYsTSl",
+                  "name": "4. Review các thì",
+                  "webViewLink": "https://drive.google.com/drive/folders/1sgr93fx4pqeEfV3z3hg2wbgxjmHYsTSl",
+                  "modifiedTime": "2026-05-11T08:30:34.465Z",
+                  "children": [],
+                  "files": [
+                    {
+                      "id": "1qR2Er1wqSDdRXmllew16AlWx9C68SIai",
+                      "name": "Review các thì – File PDF - Review các thì.pdf",
+                      "mimeType": "application/pdf",
+                      "size": 1114087,
+                      "webViewLink": "https://drive.google.com/file/d/1qR2Er1wqSDdRXmllew16AlWx9C68SIai/view?usp=drivesdk",
+                      "modifiedTime": "2026-05-11T08:30:37.462Z",
+                      "videoMediaMetadata": null
+                    },
+                    {
+                      "id": "1okOk6eA7WFCIitFFncTZ0hwD-SoAv6bx",
+                      "name": "Review các thì – Đáp án.pdf",
+                      "mimeType": "application/pdf",
+                      "size": 4989169,
+                      "webViewLink": "https://drive.google.com/file/d/1okOk6eA7WFCIitFFncTZ0hwD-SoAv6bx/view?usp=drivesdk",
+                      "modifiedTime": "2026-05-11T08:30:37.398Z",
+                      "videoMediaMetadata": null
+                    }
+                  ]
+                }
+              ],
+              "files": []
+            },
+            {
+              "id": "1rD_GNp2Rm6BtMU-Dv3vGSWWtmrOkDZ36",
+              "name": "10. So sánh",
+              "webViewLink": "https://drive.google.com/drive/folders/1rD_GNp2Rm6BtMU-Dv3vGSWWtmrOkDZ36",
+              "modifiedTime": "2026-04-29T13:58:01.146Z",
+              "children": [],
+              "files": [
+                {
+                  "id": "1j5W4GtfWrPz8CKdhj2gWevCsa4jAeAOv",
+                  "name": "So sánh – PDF lý thuyết & bài tập.pdf",
+                  "mimeType": "application/pdf",
+                  "size": 13216862,
+                  "webViewLink": "https://drive.google.com/file/d/1j5W4GtfWrPz8CKdhj2gWevCsa4jAeAOv/view?usp=drivesdk",
+                  "modifiedTime": "2026-04-29T13:58:03.070Z",
+                  "videoMediaMetadata": null
+                },
+                {
+                  "id": "1FT51LULPnpmbtS6zipO8OWIYW3Mlviqz",
+                  "name": "So sánh – So sánh bằng.mp4",
+                  "mimeType": "video/mp4",
+                  "size": 126777988,
+                  "webViewLink": "https://drive.google.com/file/d/1FT51LULPnpmbtS6zipO8OWIYW3Mlviqz/view?usp=drivesdk",
+                  "modifiedTime": "2026-05-11T08:30:36.117Z",
+                  "videoMediaMetadata": null
+                },
+                {
+                  "id": "1YtzTRpkhK628tJ6cCpNx0a9Gd0Ps5cHO",
+                  "name": "So sánh – So sánh hơn.mp4",
+                  "mimeType": "video/mp4",
+                  "size": 144331172,
+                  "webViewLink": "https://drive.google.com/file/d/1YtzTRpkhK628tJ6cCpNx0a9Gd0Ps5cHO/view?usp=drivesdk",
+                  "modifiedTime": "2026-05-11T08:30:36.131Z",
+                  "videoMediaMetadata": null
+                },
+                {
+                  "id": "10qb4LNM2SUcs2IS7tPTTBrS_9hDh9Lf-",
+                  "name": "So sánh – So sánh kép và tăng tiến.mp4",
+                  "mimeType": "video/mp4",
+                  "size": 124572936,
+                  "webViewLink": "https://drive.google.com/file/d/10qb4LNM2SUcs2IS7tPTTBrS_9hDh9Lf-/view?usp=drivesdk",
+                  "modifiedTime": "2026-05-11T08:30:36.124Z",
+                  "videoMediaMetadata": null
+                },
+                {
+                  "id": "1q4J2KTC5Cem4QeFPHRzo4ybWe08lDOjY",
+                  "name": "So sánh – So sánh nhất.mp4",
+                  "mimeType": "video/mp4",
+                  "size": 170542884,
+                  "webViewLink": "https://drive.google.com/file/d/1q4J2KTC5Cem4QeFPHRzo4ybWe08lDOjY/view?usp=drivesdk",
+                  "modifiedTime": "2026-05-11T08:30:36.128Z",
+                  "videoMediaMetadata": null
+                },
+                {
+                  "id": "16nX82yV73OF_sJZYmjH-SpYb442jG5nL",
+                  "name": "So sánh – Đề thi.pdf",
+                  "mimeType": "application/pdf",
+                  "size": 7734263,
+                  "webViewLink": "https://drive.google.com/file/d/16nX82yV73OF_sJZYmjH-SpYb442jG5nL/view?usp=drivesdk",
+                  "modifiedTime": "2026-04-29T13:58:05.277Z",
+                  "videoMediaMetadata": null
+                }
+              ]
+            },
+            {
+              "id": "1GaoVaK0Yn6Vpqjrsj1Ch9lFG2cnMt5ra",
+              "name": "11. Câu tường thuật",
+              "webViewLink": "https://drive.google.com/drive/folders/1GaoVaK0Yn6Vpqjrsj1Ch9lFG2cnMt5ra",
+              "modifiedTime": "2026-05-11T08:30:26.279Z",
+              "children": [],
+              "files": [
+                {
+                  "id": "1r0xfu36tHh5ElQtVltFLdd73_AHokjA_",
+                  "name": "Câu tường thuật – PDF lý thuyết & bài tập.pdf",
+                  "mimeType": "application/pdf",
+                  "size": 5934517,
+                  "webViewLink": "https://drive.google.com/file/d/1r0xfu36tHh5ElQtVltFLdd73_AHokjA_/view?usp=drivesdk",
+                  "modifiedTime": "2026-05-11T08:30:35.632Z",
+                  "videoMediaMetadata": null
+                },
+                {
+                  "id": "1sfE5WFZF-TSQ7Brp8HbYuF_mD6d9EpRk",
+                  "name": "Câu tường thuật – Video bài giảng 1.mp4",
+                  "mimeType": "video/mp4",
+                  "size": 116808536,
+                  "webViewLink": "https://drive.google.com/file/d/1sfE5WFZF-TSQ7Brp8HbYuF_mD6d9EpRk/view?usp=drivesdk",
+                  "modifiedTime": "2026-05-11T08:30:35.848Z",
+                  "videoMediaMetadata": null
+                },
+                {
+                  "id": "12HqTQX7tcZ4p3G-Q6rg4RXLKRblVKX2X",
+                  "name": "Câu tường thuật – Video bài giảng 2.mp4",
+                  "mimeType": "video/mp4",
+                  "size": 101764776,
+                  "webViewLink": "https://drive.google.com/file/d/12HqTQX7tcZ4p3G-Q6rg4RXLKRblVKX2X/view?usp=drivesdk",
+                  "modifiedTime": "2026-05-11T08:30:35.660Z",
+                  "videoMediaMetadata": null
+                },
+                {
+                  "id": "1J3YNqNucVPJ17qYutP5n2LF0vMxL3L8-",
+                  "name": "Câu tường thuật – Đáp án.pdf",
+                  "mimeType": "application/pdf",
+                  "size": 3326709,
+                  "webViewLink": "https://drive.google.com/file/d/1J3YNqNucVPJ17qYutP5n2LF0vMxL3L8-/view?usp=drivesdk",
+                  "modifiedTime": "2026-05-11T08:30:35.441Z",
+                  "videoMediaMetadata": null
+                },
+                {
+                  "id": "1cHmSqv3YN35wqOh3eLVe0RiwcVVZGR5V",
+                  "name": "NGỮ PHÁP REPORTED SPEECH (CÂU TƯỜNG THUẬT).mp4",
+                  "mimeType": "video/mp4",
+                  "size": 237632296,
+                  "webViewLink": "https://drive.google.com/file/d/1cHmSqv3YN35wqOh3eLVe0RiwcVVZGR5V/view?usp=drivesdk",
+                  "modifiedTime": "2026-05-11T08:30:35.659Z",
+                  "videoMediaMetadata": null
+                }
+              ]
+            },
+            {
+              "id": "1tL-JHEREnT3SC_94Fs2ChBczTXjxR8N3",
+              "name": "12. Mệnh đề quan hệ",
+              "webViewLink": "https://drive.google.com/drive/folders/1tL-JHEREnT3SC_94Fs2ChBczTXjxR8N3",
+              "modifiedTime": "2026-05-18T01:27:54.164Z",
+              "children": [],
+              "files": [
+                {
+                  "id": "14OlX0o8GnD0f3zLqG6lD_0kfm_1uhakK",
+                  "name": "Mệnh đề quan hệ – [Live] Live chữa.mp4",
+                  "mimeType": "video/mp4",
+                  "size": 191834866,
+                  "webViewLink": "https://drive.google.com/file/d/14OlX0o8GnD0f3zLqG6lD_0kfm_1uhakK/view?usp=drivesdk",
+                  "modifiedTime": "2026-05-18T01:27:58.343Z",
+                  "videoMediaMetadata": null
+                },
+                {
+                  "id": "1GlCzgd2s7vMNcg94WNAj2PD1tv6b1REj",
+                  "name": "Mệnh đề quan hệ – [Video bài giảng] Mệnh đề quan hệ với giới từ.mp4",
+                  "mimeType": "video/mp4",
+                  "size": 110314452,
+                  "webViewLink": "https://drive.google.com/file/d/1GlCzgd2s7vMNcg94WNAj2PD1tv6b1REj/view?usp=drivesdk",
+                  "modifiedTime": "2026-05-18T01:28:02.985Z",
+                  "videoMediaMetadata": {
+                    "width": 1920,
+                    "height": 1080,
+                    "durationMillis": "190549"
+                  }
+                },
+                {
+                  "id": "1zmQKSbIy-9-mia49l7WrkahKEJUkK7rx",
+                  "name": "Mệnh đề quan hệ – [Video bài giảng] Mệnh đề quan hệ.mp4",
+                  "mimeType": "video/mp4",
+                  "size": 243767568,
+                  "webViewLink": "https://drive.google.com/file/d/1zmQKSbIy-9-mia49l7WrkahKEJUkK7rx/view?usp=drivesdk",
+                  "modifiedTime": "2026-05-18T01:28:00.396Z",
+                  "videoMediaMetadata": {
+                    "width": 1920,
+                    "height": 1080,
+                    "durationMillis": "429749"
+                  }
+                },
+                {
+                  "id": "1P4gAHyHwuSRUQCJIcJLKznECX5YAbLP5",
+                  "name": "Mệnh đề quan hệ – [Video bài giảng] Rút gọn mệnh đề quan hệ.mp4",
+                  "mimeType": "video/mp4",
+                  "size": 108697276,
+                  "webViewLink": "https://drive.google.com/file/d/1P4gAHyHwuSRUQCJIcJLKznECX5YAbLP5/view?usp=drivesdk",
+                  "modifiedTime": "2026-05-18T01:28:01.530Z",
+                  "videoMediaMetadata": null
+                },
+                {
+                  "id": "1J9a304Ozxx3YZkfIxYJaJCgbXRh9Qq8K",
+                  "name": "Mệnh đề quan hệ – File PDF.pdf",
+                  "mimeType": "application/pdf",
+                  "size": 2762879,
+                  "webViewLink": "https://drive.google.com/file/d/1J9a304Ozxx3YZkfIxYJaJCgbXRh9Qq8K/view?usp=drivesdk",
+                  "modifiedTime": "2026-05-18T01:27:55.752Z",
+                  "videoMediaMetadata": null
+                }
+              ]
+            },
+            {
+              "id": "1DqFYGvTemoV7Ys6PcX1I3rG0zfhlrgzZ",
+              "name": "13. Câu điều kiện",
+              "webViewLink": "https://drive.google.com/drive/folders/1DqFYGvTemoV7Ys6PcX1I3rG0zfhlrgzZ",
+              "modifiedTime": "2026-05-18T01:27:45.280Z",
+              "children": [],
+              "files": [
+                {
+                  "id": "1RSlCdWC-9xEb1FX7EUNlB7XBuZMRVyeH",
+                  "name": "Câu điều kiện – [Video bài giảng] Video lý thuyết 1.mp4",
+                  "mimeType": "video/mp4",
+                  "size": 358350372,
+                  "webViewLink": "https://drive.google.com/file/d/1RSlCdWC-9xEb1FX7EUNlB7XBuZMRVyeH/view?usp=drivesdk",
+                  "modifiedTime": "2026-05-18T01:27:51.376Z",
+                  "videoMediaMetadata": null
+                },
+                {
+                  "id": "13ll8F1C_N6Kr26wB4jufVy4dXGmA3iI8",
+                  "name": "Câu điều kiện – [Video bài giảng] Video lý thuyết 2.mp4",
+                  "mimeType": "video/mp4",
+                  "size": 74895252,
+                  "webViewLink": "https://drive.google.com/file/d/13ll8F1C_N6Kr26wB4jufVy4dXGmA3iI8/view?usp=drivesdk",
+                  "modifiedTime": "2026-05-18T01:27:50.081Z",
+                  "videoMediaMetadata": null
+                },
+                {
+                  "id": "1JglIue3Msicz4MTL0x9ixhjik0XXL-wE",
+                  "name": "Câu điều kiện – File PDF.pdf",
+                  "mimeType": "application/pdf",
+                  "size": 2127184,
+                  "webViewLink": "https://drive.google.com/file/d/1JglIue3Msicz4MTL0x9ixhjik0XXL-wE/view?usp=drivesdk",
+                  "modifiedTime": "2026-05-18T01:27:48.372Z",
+                  "videoMediaMetadata": null
+                },
+                {
+                  "id": "1_hjmErONgC2cRRs64H3zoE_HpqFPufFT",
+                  "name": "Câu điều kiện – Đáp án.pdf",
+                  "mimeType": "application/pdf",
+                  "size": 5675865,
+                  "webViewLink": "https://drive.google.com/file/d/1_hjmErONgC2cRRs64H3zoE_HpqFPufFT/view?usp=drivesdk",
+                  "modifiedTime": "2026-05-18T01:27:46.908Z",
+                  "videoMediaMetadata": null
+                }
+              ]
+            },
+            {
+              "id": "1B-V-8CfWx6f6UvZnJ2VXd81xzwGybI2U",
+              "name": "14. Mạo từ",
+              "webViewLink": "https://drive.google.com/drive/folders/1B-V-8CfWx6f6UvZnJ2VXd81xzwGybI2U",
+              "modifiedTime": "2026-05-24T07:47:23.691Z",
+              "children": [],
+              "files": [
+                {
+                  "id": "1LWyqHV_hclde59lcho_OH9P3ASdEjje-",
+                  "name": "Mạo từ – [Test 1] File PDF.pdf",
+                  "mimeType": "application/pdf",
+                  "size": 3086848,
+                  "webViewLink": "https://drive.google.com/file/d/1LWyqHV_hclde59lcho_OH9P3ASdEjje-/view?usp=drivesdk",
+                  "modifiedTime": "2026-05-24T07:47:25.313Z",
+                  "videoMediaMetadata": null
+                },
+                {
+                  "id": "1k5xjpg2V5AVTBqwHhTrW-hi8VxbrvKA8",
+                  "name": "Mạo từ – [Test 2] File PDF.pdf",
+                  "mimeType": "application/pdf",
+                  "size": 1145029,
+                  "webViewLink": "https://drive.google.com/file/d/1k5xjpg2V5AVTBqwHhTrW-hi8VxbrvKA8/view?usp=drivesdk",
+                  "modifiedTime": "2026-05-24T07:47:25.314Z",
+                  "videoMediaMetadata": null
+                },
+                {
+                  "id": "1jcqfXZwaG_7hDUUcz_m8niVLAIonIHb0",
+                  "name": "Mạo từ – [Test 2] Đáp án.pdf",
+                  "mimeType": "application/pdf",
+                  "size": 4955019,
+                  "webViewLink": "https://drive.google.com/file/d/1jcqfXZwaG_7hDUUcz_m8niVLAIonIHb0/view?usp=drivesdk",
+                  "modifiedTime": "2026-05-24T07:47:25.319Z",
+                  "videoMediaMetadata": null
+                },
+                {
+                  "id": "1htvkuWYAxKsTsXd745wA05p35L7Djpvq",
+                  "name": "Mạo từ – [Video bài giảng] Các trường hợp không sử dụng mạo từ.mp4",
+                  "mimeType": "video/mp4",
+                  "size": 100090448,
+                  "webViewLink": "https://drive.google.com/file/d/1htvkuWYAxKsTsXd745wA05p35L7Djpvq/view?usp=drivesdk",
+                  "modifiedTime": "2026-05-24T07:47:25.324Z",
+                  "videoMediaMetadata": {
+                    "width": 1920,
+                    "height": 1080,
+                    "durationMillis": "183449"
+                  }
+                },
+                {
+                  "id": "1g-VDJpKk47AckoSUBCz7Zuc6ZHv4J8t4",
+                  "name": "Mạo từ – [Video bài giảng] Mạo từ không xác định a-an.mp4",
+                  "mimeType": "video/mp4",
+                  "size": 121345352,
+                  "webViewLink": "https://drive.google.com/file/d/1g-VDJpKk47AckoSUBCz7Zuc6ZHv4J8t4/view?usp=drivesdk",
+                  "modifiedTime": "2026-05-24T07:47:25.332Z",
+                  "videoMediaMetadata": {
+                    "width": 1920,
+                    "height": 1080,
+                    "durationMillis": "223016"
+                  }
+                },
+                {
+                  "id": "1SxF5L6Lo3NHDdU6WZoedqWgZQsOCYuKR",
+                  "name": "Mạo từ – [Video bài giảng] Mạo từ xác định 'the'.mp4",
+                  "mimeType": "video/mp4",
+                  "size": 93276012,
+                  "webViewLink": "https://drive.google.com/file/d/1SxF5L6Lo3NHDdU6WZoedqWgZQsOCYuKR/view?usp=drivesdk",
+                  "modifiedTime": "2026-05-24T07:47:25.328Z",
+                  "videoMediaMetadata": {
+                    "width": 1920,
+                    "height": 1080,
+                    "durationMillis": "171016"
+                  }
+                },
+                {
+                  "id": "1ztIMqRCsvaf7eNDmfi5pIrrQB6JGRlgh",
+                  "name": "NGỮ PHÁP MẠO TỪ.mp4",
+                  "mimeType": "video/mp4",
+                  "size": 174707846,
+                  "webViewLink": "https://drive.google.com/file/d/1ztIMqRCsvaf7eNDmfi5pIrrQB6JGRlgh/view?usp=drivesdk",
+                  "modifiedTime": "2026-05-24T07:47:25.325Z",
+                  "videoMediaMetadata": {
+                    "width": 1920,
+                    "height": 1080,
+                    "durationMillis": "2175432"
+                  }
+                }
+              ]
+            },
+            {
+              "id": "12_jjR6Rr93WTKcY5PEzfqzbaOn6pcaP6",
+              "name": "2. Câu chẻ",
+              "webViewLink": "https://drive.google.com/drive/folders/12_jjR6Rr93WTKcY5PEzfqzbaOn6pcaP6",
+              "modifiedTime": "2026-04-17T14:01:03.875Z",
+              "children": [],
+              "files": [
+                {
+                  "id": "17hCMr5u2Yru_Mags4am9VPCOSLYu6ZLk",
+                  "name": "Câu chẻ - File PDF.pdf",
+                  "mimeType": "application/pdf",
+                  "size": 12945139,
+                  "webViewLink": "https://drive.google.com/file/d/17hCMr5u2Yru_Mags4am9VPCOSLYu6ZLk/view?usp=drivesdk",
+                  "modifiedTime": "2026-04-17T14:01:07.466Z",
+                  "videoMediaMetadata": null
+                },
+                {
+                  "id": "1NmT2G2loij_g6ZtJWne3Sqh5LVJBjh36",
+                  "name": "Câu chẻ - Lý thuyết.pdf",
+                  "mimeType": "application/pdf",
+                  "size": 2719922,
+                  "webViewLink": "https://drive.google.com/file/d/1NmT2G2loij_g6ZtJWne3Sqh5LVJBjh36/view?usp=drivesdk",
+                  "modifiedTime": "2026-04-17T14:01:05.198Z",
+                  "videoMediaMetadata": null
+                },
+                {
+                  "id": "1j3eHnTQv_fgi9yBL-SDKE-NuAwzEh4y9",
+                  "name": "Câu chẻ - Video lý thuyết.mp4",
+                  "mimeType": "video/mp4",
+                  "size": 163404336,
+                  "webViewLink": "https://drive.google.com/file/d/1j3eHnTQv_fgi9yBL-SDKE-NuAwzEh4y9/view?usp=drivesdk",
+                  "modifiedTime": "2026-04-17T14:01:12.566Z",
+                  "videoMediaMetadata": {
+                    "width": 1280,
+                    "height": 720,
+                    "durationMillis": "575466"
+                  }
+                },
+                {
+                  "id": "1EFH5wmiKCVervdoV8w61qZTs3a4NoOl2",
+                  "name": "Câu chẻ - Đề thi.pdf",
+                  "mimeType": "application/pdf",
+                  "size": 13455203,
+                  "webViewLink": "https://drive.google.com/file/d/1EFH5wmiKCVervdoV8w61qZTs3a4NoOl2/view?usp=drivesdk",
+                  "modifiedTime": "2026-04-17T14:01:10.996Z",
+                  "videoMediaMetadata": null
+                }
+              ]
+            },
+            {
+              "id": "1pe2gtbBacjA3cL-nGxV4yFLZg-iDhgPa",
+              "name": "3. Perfect Gerund & Perfect Participle",
+              "webViewLink": "https://drive.google.com/drive/folders/1pe2gtbBacjA3cL-nGxV4yFLZg-iDhgPa",
+              "modifiedTime": "2026-04-17T14:00:53.026Z",
+              "children": [],
+              "files": [
+                {
+                  "id": "1ICMOGKtml7JidNo5HtKEjjnhSHXtak92",
+                  "name": "Perfect Gerund & Perfect Participle - File PDF.pdf",
+                  "mimeType": "application/pdf",
+                  "size": 11273483,
+                  "webViewLink": "https://drive.google.com/file/d/1ICMOGKtml7JidNo5HtKEjjnhSHXtak92/view?usp=drivesdk",
+                  "modifiedTime": "2026-04-17T14:00:56.524Z",
+                  "videoMediaMetadata": null
+                },
+                {
+                  "id": "1kUAhGTR9VuklMNxYrXOEwMQImiOxpLSv",
+                  "name": "Perfect Gerund & Perfect Participle - Lý thuyết.pdf",
+                  "mimeType": "application/pdf",
+                  "size": 4298579,
+                  "webViewLink": "https://drive.google.com/file/d/1kUAhGTR9VuklMNxYrXOEwMQImiOxpLSv/view?usp=drivesdk",
+                  "modifiedTime": "2026-04-17T14:00:54.495Z",
+                  "videoMediaMetadata": null
+                },
+                {
+                  "id": "1Fc6VFeQFOgcwXCYB1UN8W9IaNwF5Jbr0",
+                  "name": "Perfect Gerund & Perfect Participle - Video lý thuyết.mp4",
+                  "mimeType": "video/mp4",
+                  "size": 121434276,
+                  "webViewLink": "https://drive.google.com/file/d/1Fc6VFeQFOgcwXCYB1UN8W9IaNwF5Jbr0/view?usp=drivesdk",
+                  "modifiedTime": "2026-04-17T14:00:59.925Z",
+                  "videoMediaMetadata": null
+                },
+                {
+                  "id": "1NDI1qD80SX582cHFyCZhIihUTe-WKKNR",
+                  "name": "Perfect Gerund & Perfect Participle - Đề thi.pdf",
+                  "mimeType": "application/pdf",
+                  "size": 14287628,
+                  "webViewLink": "https://drive.google.com/file/d/1NDI1qD80SX582cHFyCZhIihUTe-WKKNR/view?usp=drivesdk",
+                  "modifiedTime": "2026-04-17T14:00:58.274Z",
+                  "videoMediaMetadata": null
+                }
+              ]
+            },
+            {
+              "id": "1r7XHq-bwavfxrR9wTIbj7e9-wTMqN3oX",
+              "name": "4. Linking Words & Phrases",
+              "webViewLink": "https://drive.google.com/drive/folders/1r7XHq-bwavfxrR9wTIbj7e9-wTMqN3oX",
+              "modifiedTime": "2026-04-17T14:00:46.871Z",
+              "children": [],
+              "files": [
+                {
+                  "id": "1S9lBfElOoCvRSsDSrckWWL6Qb1tYXWJH",
+                  "name": "Linking Words & Phrases - PDF lý thuyết & bài tập.pdf",
+                  "mimeType": "application/pdf",
+                  "size": 14108877,
+                  "webViewLink": "https://drive.google.com/file/d/1S9lBfElOoCvRSsDSrckWWL6Qb1tYXWJH/view?usp=drivesdk",
+                  "modifiedTime": "2026-04-17T14:00:47.637Z",
+                  "videoMediaMetadata": null
+                },
+                {
+                  "id": "1M-J_sGsOIafDSZBrTfhfXgQxLOOmSbqj",
+                  "name": "Linking Words & Phrases - Video lý thuyết.mp4",
+                  "mimeType": "video/mp4",
+                  "size": 238307672,
+                  "webViewLink": "https://drive.google.com/file/d/1M-J_sGsOIafDSZBrTfhfXgQxLOOmSbqj/view?usp=drivesdk",
+                  "modifiedTime": "2026-04-17T14:00:51.269Z",
+                  "videoMediaMetadata": null
+                },
+                {
+                  "id": "1vydugmeFPjLCtFFFdnyN5YizbpUBNKF0",
+                  "name": "Linking Words & Phrases - Đề thi.pdf",
+                  "mimeType": "application/pdf",
+                  "size": 13709151,
+                  "webViewLink": "https://drive.google.com/file/d/1vydugmeFPjLCtFFFdnyN5YizbpUBNKF0/view?usp=drivesdk",
+                  "modifiedTime": "2026-04-17T14:00:49.699Z",
+                  "videoMediaMetadata": null
+                },
+                {
+                  "id": "1cVMyKanmVqCAbcEb2E9LaoCK6ZefOcUF",
+                  "name": "Linking Words & Phrases – [Review] File PDF.pdf",
+                  "mimeType": "application/pdf",
+                  "size": 1292263,
+                  "webViewLink": "https://drive.google.com/file/d/1cVMyKanmVqCAbcEb2E9LaoCK6ZefOcUF/view?usp=drivesdk",
+                  "modifiedTime": "2026-05-11T08:30:36.493Z",
+                  "videoMediaMetadata": null
+                },
+                {
+                  "id": "1iHQb2J9gHtW0DyIlQV-UYm8zoMZ4VDJe",
+                  "name": "Linking Words & Phrases – [Review] Đáp án.pdf",
+                  "mimeType": "application/pdf",
+                  "size": 4719430,
+                  "webViewLink": "https://drive.google.com/file/d/1iHQb2J9gHtW0DyIlQV-UYm8zoMZ4VDJe/view?usp=drivesdk",
+                  "modifiedTime": "2026-05-11T08:30:36.499Z",
+                  "videoMediaMetadata": null
+                }
+              ]
+            },
+            {
+              "id": "1ct7-LBVYbzW0oJ5Tl4Pu3zNOgI-pAG2P",
+              "name": "5. Câu bị động",
+              "webViewLink": "https://drive.google.com/drive/folders/1ct7-LBVYbzW0oJ5Tl4Pu3zNOgI-pAG2P",
+              "modifiedTime": "2026-04-17T14:00:40.642Z",
+              "children": [],
+              "files": [
+                {
+                  "id": "1kDNLK4W9d27rl193RvIDPdlWPFIpcZyC",
+                  "name": "Câu bị động - PDF lý thuyết & bài tập.pdf",
+                  "mimeType": "application/pdf",
+                  "size": 10590166,
+                  "webViewLink": "https://drive.google.com/file/d/1kDNLK4W9d27rl193RvIDPdlWPFIpcZyC/view?usp=drivesdk",
+                  "modifiedTime": "2026-04-17T14:00:41.387Z",
+                  "videoMediaMetadata": null
+                },
+                {
+                  "id": "1Pqq-iOgMwIJ6YIjbhwH3DV3CMD6DE270",
+                  "name": "Câu bị động - Video lý thuyết.mp4",
+                  "mimeType": "video/mp4",
+                  "size": 119442416,
+                  "webViewLink": "https://drive.google.com/file/d/1Pqq-iOgMwIJ6YIjbhwH3DV3CMD6DE270/view?usp=drivesdk",
+                  "modifiedTime": "2026-04-17T14:00:45.045Z",
+                  "videoMediaMetadata": {
+                    "width": 1280,
+                    "height": 720,
+                    "durationMillis": "425516"
+                  }
+                },
+                {
+                  "id": "1-6DA5W1zdyColc3fn8FDbWOPq19qlUfu",
+                  "name": "Câu bị động - Đề thi.pdf",
+                  "mimeType": "application/pdf",
+                  "size": 13511500,
+                  "webViewLink": "https://drive.google.com/file/d/1-6DA5W1zdyColc3fn8FDbWOPq19qlUfu/view?usp=drivesdk",
+                  "modifiedTime": "2026-04-17T14:00:43.210Z",
+                  "videoMediaMetadata": null
+                },
+                {
+                  "id": "1Gcx8_gJiLowzVJwU3P-E4PVttuuNLhD0",
+                  "name": "Câu bị động – [Review] File PDF.pdf",
+                  "mimeType": "application/pdf",
+                  "size": 1586600,
+                  "webViewLink": "https://drive.google.com/file/d/1Gcx8_gJiLowzVJwU3P-E4PVttuuNLhD0/view?usp=drivesdk",
+                  "modifiedTime": "2026-05-18T01:28:06.779Z",
+                  "videoMediaMetadata": null
+                },
+                {
+                  "id": "19DsDDyV87gHpDFye5RKWgYSiwxDk2S5k",
+                  "name": "Câu bị động – [Review] Đáp án.pdf",
+                  "mimeType": "application/pdf",
+                  "size": 9363895,
+                  "webViewLink": "https://drive.google.com/file/d/19DsDDyV87gHpDFye5RKWgYSiwxDk2S5k/view?usp=drivesdk",
+                  "modifiedTime": "2026-05-18T01:28:05.256Z",
+                  "videoMediaMetadata": null
+                }
+              ]
+            },
+            {
+              "id": "1wcwoND0xl93B4soXaKUtIDaF_GCwbRCY",
+              "name": "6. Stative Verbs",
+              "webViewLink": "https://drive.google.com/drive/folders/1wcwoND0xl93B4soXaKUtIDaF_GCwbRCY",
+              "modifiedTime": "2026-04-17T14:00:33.347Z",
+              "children": [],
+              "files": [
+                {
+                  "id": "1odJRQ_0xS2FDazhZhh2gcMuDpk1V5t3i",
+                  "name": "Stative Verbs - PDF lý thuyết & bài tập.pdf",
+                  "mimeType": "application/pdf",
+                  "size": 8376768,
+                  "webViewLink": "https://drive.google.com/file/d/1odJRQ_0xS2FDazhZhh2gcMuDpk1V5t3i/view?usp=drivesdk",
+                  "modifiedTime": "2026-04-17T14:00:34.285Z",
+                  "videoMediaMetadata": null
+                },
+                {
+                  "id": "1zWcs9z59fKU4-u-qRyDOUXgHolA6QFO2",
+                  "name": "Stative Verbs - Video bài giảng.mp4",
+                  "mimeType": "video/mp4",
+                  "size": 222679608,
+                  "webViewLink": "https://drive.google.com/file/d/1zWcs9z59fKU4-u-qRyDOUXgHolA6QFO2/view?usp=drivesdk",
+                  "modifiedTime": "2026-04-17T14:00:39.205Z",
+                  "videoMediaMetadata": null
+                },
+                {
+                  "id": "13NGLM8ywcJgyBgSKrFRJd_75tREPOsaA",
+                  "name": "Stative Verbs - Đề thi.pdf",
+                  "mimeType": "application/pdf",
+                  "size": 10355982,
+                  "webViewLink": "https://drive.google.com/file/d/13NGLM8ywcJgyBgSKrFRJd_75tREPOsaA/view?usp=drivesdk",
+                  "modifiedTime": "2026-04-17T14:00:36.112Z",
+                  "videoMediaMetadata": null
+                }
+              ]
+            },
+            {
+              "id": "1K2H2umcu8mPqwIIe-XHF0fgZ7F1itD1y",
+              "name": "7. Linking Verbs",
+              "webViewLink": "https://drive.google.com/drive/folders/1K2H2umcu8mPqwIIe-XHF0fgZ7F1itD1y",
+              "modifiedTime": "2026-04-17T14:00:27.200Z",
+              "children": [],
+              "files": [
+                {
+                  "id": "1-0lwSn8aPI7FsOnoNQmIVbBjIFWNNoWX",
+                  "name": "Linking Verbs - PDF lý thuyết & bài tập.pdf",
+                  "mimeType": "application/pdf",
+                  "size": 6388113,
+                  "webViewLink": "https://drive.google.com/file/d/1-0lwSn8aPI7FsOnoNQmIVbBjIFWNNoWX/view?usp=drivesdk",
+                  "modifiedTime": "2026-04-17T14:00:28.274Z",
+                  "videoMediaMetadata": null
+                },
+                {
+                  "id": "1YNT8kCeCRgqMEB3wtfBY_txCCMPUy1Zj",
+                  "name": "Linking Verbs - Video bài giảng.mp4",
+                  "mimeType": "video/mp4",
+                  "size": 96985628,
+                  "webViewLink": "https://drive.google.com/file/d/1YNT8kCeCRgqMEB3wtfBY_txCCMPUy1Zj/view?usp=drivesdk",
+                  "modifiedTime": "2026-04-17T14:00:31.556Z",
+                  "videoMediaMetadata": {
+                    "width": 1280,
+                    "height": 720,
+                    "durationMillis": "346616"
+                  }
+                },
+                {
+                  "id": "1rFwClYYrq4VSucI1viCLBF_JiAWIA09u",
+                  "name": "Linking Verbs - Đề thi.pdf",
+                  "mimeType": "application/pdf",
+                  "size": 10645234,
+                  "webViewLink": "https://drive.google.com/file/d/1rFwClYYrq4VSucI1viCLBF_JiAWIA09u/view?usp=drivesdk",
+                  "modifiedTime": "2026-04-17T14:00:30.061Z",
+                  "videoMediaMetadata": null
+                }
+              ]
+            },
+            {
+              "id": "15D6tXXP-VA4lRQdG1nZ3lGffBXU76F2n",
+              "name": "8. Sự hòa hợp thì",
+              "webViewLink": "https://drive.google.com/drive/folders/15D6tXXP-VA4lRQdG1nZ3lGffBXU76F2n",
+              "modifiedTime": "2026-04-29T13:58:14.075Z",
+              "children": [],
+              "files": [
+                {
+                  "id": "1WMRfGoBkTY_lz1joqbSekF38QBg7Qhx0",
+                  "name": "NGỮ PHÁP SỰ HÒA HỢP CÁC THÌ.mp4",
+                  "mimeType": "video/mp4",
+                  "size": 339014387,
+                  "webViewLink": "https://drive.google.com/file/d/1WMRfGoBkTY_lz1joqbSekF38QBg7Qhx0/view?usp=drivesdk",
+                  "modifiedTime": "2026-04-29T13:58:18.067Z",
+                  "videoMediaMetadata": null
+                },
+                {
+                  "id": "1RfOEYe1tNUupuZV_E2XIUQMFvONn71C1",
+                  "name": "Sự hòa hợp thì – File đề thi Online.pdf",
+                  "mimeType": "application/pdf",
+                  "size": 3482589,
+                  "webViewLink": "https://drive.google.com/file/d/1RfOEYe1tNUupuZV_E2XIUQMFvONn71C1/view?usp=drivesdk",
+                  "modifiedTime": "2026-04-29T13:58:15.752Z",
+                  "videoMediaMetadata": null
+                }
+              ]
+            },
+            {
+              "id": "1KzHuQORalONxZ1p-rP0_-lR1kky3WSe8",
+              "name": "9. Tag Questions",
+              "webViewLink": "https://drive.google.com/drive/folders/1KzHuQORalONxZ1p-rP0_-lR1kky3WSe8",
+              "modifiedTime": "2026-04-29T13:58:07.702Z",
+              "children": [],
+              "files": [
+                {
+                  "id": "13TNEm54hEIAMe0R9EopRFgfhSoB8RMKu",
+                  "name": "Tag Questions – [Video bài giảng] Video bài giảng.mp4",
+                  "mimeType": "video/mp4",
+                  "size": 124935212,
+                  "webViewLink": "https://drive.google.com/file/d/13TNEm54hEIAMe0R9EopRFgfhSoB8RMKu/view?usp=drivesdk",
+                  "modifiedTime": "2026-05-11T08:30:36.460Z",
+                  "videoMediaMetadata": null
+                },
+                {
+                  "id": "1pHNsRFuF-vXpX8RO4HqsKCQc0Pj_ol8w",
+                  "name": "Tag Questions – PDF lý thuyết & bài tập.pdf",
+                  "mimeType": "application/pdf",
+                  "size": 9245878,
+                  "webViewLink": "https://drive.google.com/file/d/1pHNsRFuF-vXpX8RO4HqsKCQc0Pj_ol8w/view?usp=drivesdk",
+                  "modifiedTime": "2026-04-29T13:58:09.465Z",
+                  "videoMediaMetadata": null
+                },
+                {
+                  "id": "1QWmBiirdxaJBhKj63X5pvPvaWmZN146B",
+                  "name": "Tag Questions – Đề thi.pdf",
+                  "mimeType": "application/pdf",
+                  "size": 8005326,
+                  "webViewLink": "https://drive.google.com/file/d/1QWmBiirdxaJBhKj63X5pvPvaWmZN146B/view?usp=drivesdk",
+                  "modifiedTime": "2026-04-29T13:58:11.612Z",
+                  "videoMediaMetadata": null
+                }
+              ]
+            }
+          ],
+          "files": []
+        },
+        {
+          "id": "1SXR3xuCnFPzw8gaKr0Ns8m0qa5lR6uiM",
+          "name": "2. CHUYÊN ĐỀ TỪ VỰNG\t\t",
+          "webViewLink": "https://drive.google.com/drive/folders/1SXR3xuCnFPzw8gaKr0Ns8m0qa5lR6uiM",
+          "modifiedTime": "2026-04-17T13:59:57.210Z",
+          "children": [
+            {
+              "id": "1ucIO29yCcZDM0tuZNCSHFlToeJgB6als",
+              "name": "1. Preserving Our Heritage",
+              "webViewLink": "https://drive.google.com/drive/folders/1ucIO29yCcZDM0tuZNCSHFlToeJgB6als",
+              "modifiedTime": "2026-04-17T14:00:20.506Z",
+              "children": [],
+              "files": [
+                {
+                  "id": "1o32sWK9llLNustnXf3Ncs8f7MGeg6ZNV",
+                  "name": "Preserving Our Heritage - Bảng từ vựng.pdf",
+                  "mimeType": "application/pdf",
+                  "size": 11337457,
+                  "webViewLink": "https://drive.google.com/file/d/1o32sWK9llLNustnXf3Ncs8f7MGeg6ZNV/view?usp=drivesdk",
+                  "modifiedTime": "2026-04-17T14:00:23.079Z",
+                  "videoMediaMetadata": null
+                },
+                {
+                  "id": "1Wr-uYVtJ3Rgz8K15p10A4lLYm9_zjBxa",
+                  "name": "Preserving Our Heritage - File PDF.pdf",
+                  "mimeType": "application/pdf",
+                  "size": 10074028,
+                  "webViewLink": "https://drive.google.com/file/d/1Wr-uYVtJ3Rgz8K15p10A4lLYm9_zjBxa/view?usp=drivesdk",
+                  "modifiedTime": "2026-04-17T14:00:21.563Z",
+                  "videoMediaMetadata": null
+                },
+                {
+                  "id": "1tq6D42Ywd_p1d4dfWi_zovGZjTPNiwT_",
+                  "name": "Preserving Our Heritage - Live chữa.mp4",
+                  "mimeType": "video/mp4",
+                  "size": 190339472,
+                  "webViewLink": "https://drive.google.com/file/d/1tq6D42Ywd_p1d4dfWi_zovGZjTPNiwT_/view?usp=drivesdk",
+                  "modifiedTime": "2026-04-17T14:00:24.640Z",
+                  "videoMediaMetadata": {
+                    "width": 1280,
+                    "height": 720,
+                    "durationMillis": "3313400"
+                  }
+                }
+              ]
+            },
+            {
+              "id": "18YQnpybNje0oewaZm4YcMKmxaBun5ETQ",
+              "name": "2. Education Options For School-Leavers",
+              "webViewLink": "https://drive.google.com/drive/folders/18YQnpybNje0oewaZm4YcMKmxaBun5ETQ",
+              "modifiedTime": "2026-04-17T14:00:14.068Z",
+              "children": [],
+              "files": [
+                {
+                  "id": "10AKGf0VrQE8saspyQVJ6NsfRuzXOGiWl",
+                  "name": "Education Options For School-Leavers - Bảng từ vựng.pdf",
+                  "mimeType": "application/pdf",
+                  "size": 13776436,
+                  "webViewLink": "https://drive.google.com/file/d/10AKGf0VrQE8saspyQVJ6NsfRuzXOGiWl/view?usp=drivesdk",
+                  "modifiedTime": "2026-04-17T14:00:17.185Z",
+                  "videoMediaMetadata": null
+                },
+                {
+                  "id": "1B98nvESLnrKAfBV7lLzWTd2ewC4yRr3u",
+                  "name": "Education Options For School-Leavers - File PDF.pdf",
+                  "mimeType": "application/pdf",
+                  "size": 9496531,
+                  "webViewLink": "https://drive.google.com/file/d/1B98nvESLnrKAfBV7lLzWTd2ewC4yRr3u/view?usp=drivesdk",
+                  "modifiedTime": "2026-04-17T14:00:14.834Z",
+                  "videoMediaMetadata": null
+                },
+                {
+                  "id": "1ezWY6sAtUONb0cTfBwe7ytti8bRsFwoA",
+                  "name": "TỪ VỰNG - EDUCATION OPTIONS FOR SCHOOL-LEAVERS.mp4",
+                  "mimeType": "video/mp4",
+                  "size": 379409101,
+                  "webViewLink": "https://drive.google.com/file/d/1ezWY6sAtUONb0cTfBwe7ytti8bRsFwoA/view?usp=drivesdk",
+                  "modifiedTime": "2026-04-17T14:00:19.071Z",
+                  "videoMediaMetadata": {
+                    "width": 1920,
+                    "height": 1080,
+                    "durationMillis": "3229766"
+                  }
+                }
+              ]
+            },
+            {
+              "id": "1m8fJ8d1NTFLoSShDHqw0IdAgUmTq6rdd",
+              "name": "3. Becoming Independent",
+              "webViewLink": "https://drive.google.com/drive/folders/1m8fJ8d1NTFLoSShDHqw0IdAgUmTq6rdd",
+              "modifiedTime": "2026-04-17T14:00:04.437Z",
+              "children": [],
+              "files": [
+                {
+                  "id": "1MOr74yfD1pEaz7osXOw-ikNKH6czAqwW",
+                  "name": "Becoming Independent - Bảng từ vựng.pdf",
+                  "mimeType": "application/pdf",
+                  "size": 16428466,
+                  "webViewLink": "https://drive.google.com/file/d/1MOr74yfD1pEaz7osXOw-ikNKH6czAqwW/view?usp=drivesdk",
+                  "modifiedTime": "2026-04-17T14:00:08.503Z",
+                  "videoMediaMetadata": null
+                },
+                {
+                  "id": "1WniqinREQx0fs8eh1LnZ2O-glJ0LFJ7v",
+                  "name": "Becoming Independent - File PDF.pdf",
+                  "mimeType": "application/pdf",
+                  "size": 9510057,
+                  "webViewLink": "https://drive.google.com/file/d/1WniqinREQx0fs8eh1LnZ2O-glJ0LFJ7v/view?usp=drivesdk",
+                  "modifiedTime": "2026-04-17T14:00:05.968Z",
+                  "videoMediaMetadata": null
+                },
+                {
+                  "id": "1VNxN_ioG8gw2TJKCUAKZtcr_hy1CHd1a",
+                  "name": "Becoming Independent - Live chữa.mp4",
+                  "mimeType": "video/mp4",
+                  "size": 185425904,
+                  "webViewLink": "https://drive.google.com/file/d/1VNxN_ioG8gw2TJKCUAKZtcr_hy1CHd1a/view?usp=drivesdk",
+                  "modifiedTime": "2026-04-17T14:00:09.754Z",
+                  "videoMediaMetadata": {
+                    "width": 1280,
+                    "height": 720,
+                    "durationMillis": "3557433"
+                  }
+                }
+              ]
+            },
+            {
+              "id": "1arqbRLddhEhOpnkhpSSezLYTRv1pDu96",
+              "name": "4. Social Issues",
+              "webViewLink": "https://drive.google.com/drive/folders/1arqbRLddhEhOpnkhpSSezLYTRv1pDu96",
+              "modifiedTime": "2026-04-17T13:59:58.111Z",
+              "children": [],
+              "files": [
+                {
+                  "id": "1Pt_pIuf3elEhi5CzGr-K23GSqQn2Jz8H",
+                  "name": "Social Issues - Bảng từ vựng.pdf",
+                  "mimeType": "application/pdf",
+                  "size": 12963176,
+                  "webViewLink": "https://drive.google.com/file/d/1Pt_pIuf3elEhi5CzGr-K23GSqQn2Jz8H/view?usp=drivesdk",
+                  "modifiedTime": "2026-04-17T14:00:00.660Z",
+                  "videoMediaMetadata": null
+                },
+                {
+                  "id": "1crB7ZwAfr8zn29jJ3TRm4Q25rt7stvS7",
+                  "name": "Social Issues - File PDF.pdf",
+                  "mimeType": "application/pdf",
+                  "size": 9373826,
+                  "webViewLink": "https://drive.google.com/file/d/1crB7ZwAfr8zn29jJ3TRm4Q25rt7stvS7/view?usp=drivesdk",
+                  "modifiedTime": "2026-04-17T13:59:59.024Z",
+                  "videoMediaMetadata": null
+                },
+                {
+                  "id": "1dE6S1th3dFGriFCrf5jq8O1wk3wUNvPk",
+                  "name": "TỪ VỰNG - SOCIAL ISSUES.mp4",
+                  "mimeType": "video/mp4",
+                  "size": 380342707,
+                  "webViewLink": "https://drive.google.com/file/d/1dE6S1th3dFGriFCrf5jq8O1wk3wUNvPk/view?usp=drivesdk",
+                  "modifiedTime": "2026-04-17T14:00:02.331Z",
+                  "videoMediaMetadata": {
+                    "width": 1920,
+                    "height": 1080,
+                    "durationMillis": "2895833"
+                  }
+                }
+              ]
+            },
+            {
+              "id": "1zuHIX_avPmXpJyNCipV8QPhborJyLZct",
+              "name": "5. The Ecosystems",
+              "webViewLink": "https://drive.google.com/drive/folders/1zuHIX_avPmXpJyNCipV8QPhborJyLZct",
+              "modifiedTime": "2026-04-29T13:57:46.379Z",
+              "children": [],
+              "files": [
+                {
+                  "id": "1kfMZFC_gPZ8jZhkpd7ltpZG7VWdexma3",
+                  "name": "The Ecosystems – PDF bài tập & bảng từ vựng.pdf",
+                  "mimeType": "application/pdf",
+                  "size": 17789734,
+                  "webViewLink": "https://drive.google.com/file/d/1kfMZFC_gPZ8jZhkpd7ltpZG7VWdexma3/view?usp=drivesdk",
+                  "modifiedTime": "2026-04-29T13:57:48.256Z",
+                  "videoMediaMetadata": null
+                },
+                {
+                  "id": "1HeuKvyEEPxr8zg68r0LLtK2bFMvI0xbI",
+                  "name": "TỪ VỰNG - THE ECOSYSTEMS.mp4",
+                  "mimeType": "video/mp4",
+                  "size": 379620348,
+                  "webViewLink": "https://drive.google.com/file/d/1HeuKvyEEPxr8zg68r0LLtK2bFMvI0xbI/view?usp=drivesdk",
+                  "modifiedTime": "2026-04-29T13:57:50.837Z",
+                  "videoMediaMetadata": null
+                }
+              ]
+            },
+            {
+              "id": "1js9N2HMq-Btp12keTbn4Vk4Nra63Jkb0",
+              "name": "6. TỔNG ÔN",
+              "webViewLink": "https://drive.google.com/drive/folders/1js9N2HMq-Btp12keTbn4Vk4Nra63Jkb0",
+              "modifiedTime": "2026-05-11T08:30:20.914Z",
+              "children": [],
+              "files": [
+                {
+                  "id": "15pccNfnFj18zrt_JX1BF_jIIo7YhFWqu",
+                  "name": "REVIEW TỪ VỰNG HERITAGE PRESERVATION & EDUCATION OPTIONS.mp4",
+                  "mimeType": "video/mp4",
+                  "size": 232139264,
+                  "webViewLink": "https://drive.google.com/file/d/15pccNfnFj18zrt_JX1BF_jIIo7YhFWqu/view?usp=drivesdk",
+                  "modifiedTime": "2026-05-11T08:30:34.245Z",
+                  "videoMediaMetadata": null
+                },
+                {
+                  "id": "1F6WCg0Ic7lJ4NzPAcwqSKCtHsY1vc7YO",
+                  "name": "TỔNG ÔN – [Số 1] - File PDF.pdf",
+                  "mimeType": "application/pdf",
+                  "size": 1312217,
+                  "webViewLink": "https://drive.google.com/file/d/1F6WCg0Ic7lJ4NzPAcwqSKCtHsY1vc7YO/view?usp=drivesdk",
+                  "modifiedTime": "2026-05-11T08:30:34.200Z",
+                  "videoMediaMetadata": null
+                }
+              ]
+            },
+            {
+              "id": "15K5J-ZivAxo_BgerIR6G41sUmlDkeYxa",
+              "name": "7. TỔNG ÔN số 2",
+              "webViewLink": "https://drive.google.com/drive/folders/15K5J-ZivAxo_BgerIR6G41sUmlDkeYxa",
+              "modifiedTime": "2026-05-18T01:27:37.750Z",
+              "children": [],
+              "files": [
+                {
+                  "id": "1hFYlqXxhKrd3SCOuWz1RektwAX_BgkZ2",
+                  "name": "Tổng ôn – [Số 2] File PDF.pdf",
+                  "mimeType": "application/pdf",
+                  "size": 1646733,
+                  "webViewLink": "https://drive.google.com/file/d/1hFYlqXxhKrd3SCOuWz1RektwAX_BgkZ2/view?usp=drivesdk",
+                  "modifiedTime": "2026-05-18T01:27:39.144Z",
+                  "videoMediaMetadata": null
+                },
+                {
+                  "id": "1pTfmIAWzHPlQjZPSdCKSPeKTn44SQgpr",
+                  "name": "Tổng ôn – [Số 2] Live chữa.mp4",
+                  "mimeType": "video/mp4",
+                  "size": 280924100,
+                  "webViewLink": "https://drive.google.com/file/d/1pTfmIAWzHPlQjZPSdCKSPeKTn44SQgpr/view?usp=drivesdk",
+                  "modifiedTime": "2026-05-18T01:27:40.695Z",
+                  "videoMediaMetadata": null
+                }
+              ]
+            },
+            {
+              "id": "1TbiGP_7blzNMMKuvpArqaIZ8-p_cd7Az",
+              "name": "8. Life Stories We Admire",
+              "webViewLink": "https://drive.google.com/drive/folders/1TbiGP_7blzNMMKuvpArqaIZ8-p_cd7Az",
+              "modifiedTime": "2026-05-24T07:47:16.846Z",
+              "children": [],
+              "files": [
+                {
+                  "id": "1mDVrcAzsVB8XA_b2PZy4LjCWo4zpgLDb",
+                  "name": "Life Stories We Admire – [Test 1] Bảng từ vựng.pdf",
+                  "mimeType": "application/pdf",
+                  "size": 7386553,
+                  "webViewLink": "https://drive.google.com/file/d/1mDVrcAzsVB8XA_b2PZy4LjCWo4zpgLDb/view?usp=drivesdk",
+                  "modifiedTime": "2026-05-24T07:47:18.559Z",
+                  "videoMediaMetadata": null
+                },
+                {
+                  "id": "1TNzXWJoTYD8xBpB-NaasWGK3a1WRO1u2",
+                  "name": "Life Stories We Admire – [Test 1] File PDF.pdf",
+                  "mimeType": "application/pdf",
+                  "size": 1793044,
+                  "webViewLink": "https://drive.google.com/file/d/1TNzXWJoTYD8xBpB-NaasWGK3a1WRO1u2/view?usp=drivesdk",
+                  "modifiedTime": "2026-05-24T07:47:18.549Z",
+                  "videoMediaMetadata": null
+                },
+                {
+                  "id": "1pNXqLzh83nk7EwQNBNGKGBd6KB3bs7ra",
+                  "name": "Life Stories We Admire – [Test 1] Đáp án.pdf",
+                  "mimeType": "application/pdf",
+                  "size": 8613489,
+                  "webViewLink": "https://drive.google.com/file/d/1pNXqLzh83nk7EwQNBNGKGBd6KB3bs7ra/view?usp=drivesdk",
+                  "modifiedTime": "2026-05-24T07:47:18.554Z",
+                  "videoMediaMetadata": null
+                },
+                {
+                  "id": "1y7pYF4JtLQG0fayd4hRO3Fm8a1L30nO6",
+                  "name": "Life Stories We Admire – [Test 2] Bảng từ vựng.pdf",
+                  "mimeType": "application/pdf",
+                  "size": 5818971,
+                  "webViewLink": "https://drive.google.com/file/d/1y7pYF4JtLQG0fayd4hRO3Fm8a1L30nO6/view?usp=drivesdk",
+                  "modifiedTime": "2026-05-24T07:47:18.553Z",
+                  "videoMediaMetadata": null
+                },
+                {
+                  "id": "1IQ9EpC82lGVJ74rPgJvSKnF7ThyaBOG6",
+                  "name": "Life Stories We Admire – [Test 2] File PDF.pdf",
+                  "mimeType": "application/pdf",
+                  "size": 2254599,
+                  "webViewLink": "https://drive.google.com/file/d/1IQ9EpC82lGVJ74rPgJvSKnF7ThyaBOG6/view?usp=drivesdk",
+                  "modifiedTime": "2026-05-24T07:47:18.565Z",
+                  "videoMediaMetadata": null
+                },
+                {
+                  "id": "1SN1fu9rAq14urK4uTwJohyAQgJyARWQi",
+                  "name": "TỪ VỰNG - LIFE STORIES WE ADMIRE - TEST 2.mp4",
+                  "mimeType": "video/mp4",
+                  "size": 367102062,
+                  "webViewLink": "https://drive.google.com/file/d/1SN1fu9rAq14urK4uTwJohyAQgJyARWQi/view?usp=drivesdk",
+                  "modifiedTime": "2026-05-24T07:47:18.563Z",
+                  "videoMediaMetadata": {
+                    "width": 1920,
+                    "height": 1080,
+                    "durationMillis": "3145632"
+                  }
+                }
+              ]
+            }
+          ],
+          "files": []
+        },
+        {
+          "id": "1R5Os1WAyE4tgfN5neXZVcbCFx_a6ug2Q",
+          "name": "3. BẢN TIN TỪ VỰNG\t\t",
+          "webViewLink": "https://drive.google.com/drive/folders/1R5Os1WAyE4tgfN5neXZVcbCFx_a6ug2Q",
+          "modifiedTime": "2026-04-17T13:59:42.534Z",
+          "children": [
+            {
+              "id": "1DPLPqVfkqegVxYkLBv8Hi74rt_Z9dVCi",
+              "name": "1. Số 1. Beauty Queens as Tourism Ambassadors Vietnam Showcases Its Cultural Gems to the World",
+              "webViewLink": "https://drive.google.com/drive/folders/1DPLPqVfkqegVxYkLBv8Hi74rt_Z9dVCi",
+              "modifiedTime": "2026-04-17T13:59:52.710Z",
+              "children": [],
+              "files": [
+                {
+                  "id": "1XwiqqpEEgUmE9INPZJyx6JL9NmurJmyy",
+                  "name": "Số 1. Beauty Queens as Tourism Ambassadors Vietnam Showcases Its Cultural Gems to the World - File PDF.pdf",
+                  "mimeType": "application/pdf",
+                  "size": 16770709,
+                  "webViewLink": "https://drive.google.com/file/d/1XwiqqpEEgUmE9INPZJyx6JL9NmurJmyy/view?usp=drivesdk",
+                  "modifiedTime": "2026-04-17T13:59:53.481Z",
+                  "videoMediaMetadata": null
+                },
+                {
+                  "id": "1MLZfHaLXsLc8dAwvqDbxW2T4q-emXCWf",
+                  "name": "Số 1. Beauty Queens as Tourism Ambassadors Vietnam Showcases Its Cultural Gems to the World - Đề thi.pdf",
+                  "mimeType": "application/pdf",
+                  "size": 7975029,
+                  "webViewLink": "https://drive.google.com/file/d/1MLZfHaLXsLc8dAwvqDbxW2T4q-emXCWf/view?usp=drivesdk",
+                  "modifiedTime": "2026-04-17T13:59:55.000Z",
+                  "videoMediaMetadata": null
+                }
+              ]
+            },
+            {
+              "id": "1Rtzepvr9Pj1l4B-fMYhP_1uO6JNo9vwh",
+              "name": "2. Số 2. Online Shopping In Vietnam A Market On The Rise",
+              "webViewLink": "https://drive.google.com/drive/folders/1Rtzepvr9Pj1l4B-fMYhP_1uO6JNo9vwh",
+              "modifiedTime": "2026-04-17T13:59:47.202Z",
+              "children": [],
+              "files": [
+                {
+                  "id": "1q7YGgrirChAkgJOdQrSKLCvs75IbLYTx",
+                  "name": "Số 2. Online Shopping In Vietnam A Market On The Rise - File PDF.pdf",
+                  "mimeType": "application/pdf",
+                  "size": 20311109,
+                  "webViewLink": "https://drive.google.com/file/d/1q7YGgrirChAkgJOdQrSKLCvs75IbLYTx/view?usp=drivesdk",
+                  "modifiedTime": "2026-04-17T13:59:47.991Z",
+                  "videoMediaMetadata": null
+                },
+                {
+                  "id": "1-tM7a2E-ZCUY9tXFv73a2ehzoBeUqu6-",
+                  "name": "Số 2. Online Shopping In Vietnam A Market On The Rise - Đề thi.pdf",
+                  "mimeType": "application/pdf",
+                  "size": 13685577,
+                  "webViewLink": "https://drive.google.com/file/d/1-tM7a2E-ZCUY9tXFv73a2ehzoBeUqu6-/view?usp=drivesdk",
+                  "modifiedTime": "2026-04-17T13:59:49.934Z",
+                  "videoMediaMetadata": null
+                }
+              ]
+            },
+            {
+              "id": "10GeospJcCDIW4Jk3AoPS-XHb5eIZ3I5h",
+              "name": "3. Số 3. The Sleep Crisis Why Rest is the New Challenge for the Modern World",
+              "webViewLink": "https://drive.google.com/drive/folders/10GeospJcCDIW4Jk3AoPS-XHb5eIZ3I5h",
+              "modifiedTime": "2026-04-17T13:59:43.599Z",
+              "children": [],
+              "files": [
+                {
+                  "id": "1TTHapLhQW_zKbK-tKFo3Sdsb554s34Kj",
+                  "name": "Số 3. The Sleep Crisis Why Rest is the New Challenge for the Modern World - File PDF.pdf",
+                  "mimeType": "application/pdf",
+                  "size": 21098041,
+                  "webViewLink": "https://drive.google.com/file/d/1TTHapLhQW_zKbK-tKFo3Sdsb554s34Kj/view?usp=drivesdk",
+                  "modifiedTime": "2026-04-17T13:59:44.400Z",
+                  "videoMediaMetadata": null
+                },
+                {
+                  "id": "1Bu-1S9aq-u6YHDHWbLQ6MGvVrRSCWETd",
+                  "name": "Số 3. The Sleep Crisis Why Rest is the New Challenge for the Modern World - Đề thi.pdf",
+                  "mimeType": "application/pdf",
+                  "size": 9403904,
+                  "webViewLink": "https://drive.google.com/file/d/1Bu-1S9aq-u6YHDHWbLQ6MGvVrRSCWETd/view?usp=drivesdk",
+                  "modifiedTime": "2026-04-17T13:59:45.746Z",
+                  "videoMediaMetadata": null
+                }
+              ]
+            },
+            {
+              "id": "1wEuG1DpCAjLHuPoyzbbTCDepyzAYkOtF",
+              "name": "4. Số 4. Artemis II Astronauts Safely Back on Earth After Historic Trip Around Moon",
+              "webViewLink": "https://drive.google.com/drive/folders/1wEuG1DpCAjLHuPoyzbbTCDepyzAYkOtF",
+              "modifiedTime": "2026-04-29T13:57:34.426Z",
+              "children": [],
+              "files": [
+                {
+                  "id": "1wJItoiAvyoV406cQe3pOnxbDuwa9ccBs",
+                  "name": "Số 4. Artemis II Astronauts Safely Back on Earth After Historic Trip Around Moon – File PDF.pdf",
+                  "mimeType": "application/pdf",
+                  "size": 14296164,
+                  "webViewLink": "https://drive.google.com/file/d/1wJItoiAvyoV406cQe3pOnxbDuwa9ccBs/view?usp=drivesdk",
+                  "modifiedTime": "2026-04-29T13:57:36.524Z",
+                  "videoMediaMetadata": null
+                },
+                {
+                  "id": "1WBzW7BOp2a7t3Rfc4UJrHCB5af7UoxkS",
+                  "name": "Số 4. Artemis II Astronauts Safely Back on Earth After Historic Trip Around Moon – Đề thi.pdf",
+                  "mimeType": "application/pdf",
+                  "size": 8323424,
+                  "webViewLink": "https://drive.google.com/file/d/1WBzW7BOp2a7t3Rfc4UJrHCB5af7UoxkS/view?usp=drivesdk",
+                  "modifiedTime": "2026-04-29T13:57:39.193Z",
+                  "videoMediaMetadata": null
+                }
+              ]
+            },
+            {
+              "id": "1ZqHPbl-ZAtqwQ0eNlgmQunYoDGVVpxb3",
+              "name": "5. Bản tin 30/04: The Legacy of a Diplomatic Icon: Madame Nguyễn Thị Bình",
+              "webViewLink": "https://drive.google.com/drive/folders/1ZqHPbl-ZAtqwQ0eNlgmQunYoDGVVpxb3",
+              "modifiedTime": "2026-05-11T08:30:16.121Z",
+              "children": [],
+              "files": [
+                {
+                  "id": "1s223BCBuWlSyVqUS3BiYbUHytjvf5ntN",
+                  "name": "Bản tin 30-04- The Legacy of a Diplomatic Icon- Madame Nguyễn Thị Bình – File PDF.pdf",
+                  "mimeType": "application/pdf",
+                  "size": 16592471,
+                  "webViewLink": "https://drive.google.com/file/d/1s223BCBuWlSyVqUS3BiYbUHytjvf5ntN/view?usp=drivesdk",
+                  "modifiedTime": "2026-05-11T08:30:23.306Z",
+                  "videoMediaMetadata": null
+                },
+                {
+                  "id": "1Lra83FJb2QcX70hTYjvwmm0FVxhSuR-y",
+                  "name": "Bản tin 30-04- The Legacy of a Diplomatic Icon- Madame Nguyễn Thị Bình – Giải chi tiết.pdf",
+                  "mimeType": "application/pdf",
+                  "size": 42016438,
+                  "webViewLink": "https://drive.google.com/file/d/1Lra83FJb2QcX70hTYjvwmm0FVxhSuR-y/view?usp=drivesdk",
+                  "modifiedTime": "2026-05-11T08:30:23.352Z",
+                  "videoMediaMetadata": null
+                }
+              ]
+            },
+            {
+              "id": "17LwqQAmVNmPIpwwPrwsFJ9li9US5dvw7",
+              "name": "6. Số 5. The Cost of Keeping Appearances: Why China’s Youth are Paying to Work \"Fake Jobs\"",
+              "webViewLink": "https://drive.google.com/drive/folders/17LwqQAmVNmPIpwwPrwsFJ9li9US5dvw7",
+              "modifiedTime": "2026-05-11T08:30:14.502Z",
+              "children": [],
+              "files": [
+                {
+                  "id": "1X0RmdvPtLDLXm0Hs05ZN3FYXabGauVdl",
+                  "name": "Số 5. The Cost of Keeping Appearances- Why China’s Youth are Paying to Work 'Fake Jobs' – File PDF.pdf",
+                  "mimeType": "application/pdf",
+                  "size": 10993067,
+                  "webViewLink": "https://drive.google.com/file/d/1X0RmdvPtLDLXm0Hs05ZN3FYXabGauVdl/view?usp=drivesdk",
+                  "modifiedTime": "2026-05-11T08:30:22.864Z",
+                  "videoMediaMetadata": null
+                },
+                {
+                  "id": "1YDEcDGAVaeX-ycXTHtEgzmU6c0agUMpb",
+                  "name": "Số 5. The Cost of Keeping Appearances- Why China’s Youth are Paying to Work 'Fake Jobs' – đáp án.pdf",
+                  "mimeType": "application/pdf",
+                  "size": 5679265,
+                  "webViewLink": "https://drive.google.com/file/d/1YDEcDGAVaeX-ycXTHtEgzmU6c0agUMpb/view?usp=drivesdk",
+                  "modifiedTime": "2026-05-11T08:30:22.886Z",
+                  "videoMediaMetadata": null
+                }
+              ]
+            },
+            {
+              "id": "1R6e15eJEzORO9YNvsl4EL9z123XMpZQg",
+              "name": "7. Số 6. Beyond The Stage – The Strategic Ecosystem Behind South Korea's Cultural Power",
+              "webViewLink": "https://drive.google.com/drive/folders/1R6e15eJEzORO9YNvsl4EL9z123XMpZQg",
+              "modifiedTime": "2026-05-18T01:27:28.840Z",
+              "children": [],
+              "files": [
+                {
+                  "id": "1VgZa-_fYa2qA8NX4xg3fPRoZ7BCk_XhF",
+                  "name": "Số 6. Beyond The Stage – The Strategic Ecosystem Behind South Korea's Cultural Power – File PDF.pdf",
+                  "mimeType": "application/pdf",
+                  "size": 4448833,
+                  "webViewLink": "https://drive.google.com/file/d/1VgZa-_fYa2qA8NX4xg3fPRoZ7BCk_XhF/view?usp=drivesdk",
+                  "modifiedTime": "2026-05-18T01:27:31.609Z",
+                  "videoMediaMetadata": null
+                },
+                {
+                  "id": "1y9BYRxUCVC2KgX8jvz_bQuPRmDU3NCDZ",
+                  "name": "Số 6. Beyond The Stage – The Strategic Ecosystem Behind South Korea's Cultural Power – Đáp án.pdf",
+                  "mimeType": "application/pdf",
+                  "size": 4882206,
+                  "webViewLink": "https://drive.google.com/file/d/1y9BYRxUCVC2KgX8jvz_bQuPRmDU3NCDZ/view?usp=drivesdk",
+                  "modifiedTime": "2026-05-18T01:27:30.235Z",
+                  "videoMediaMetadata": null
+                }
+              ]
+            },
+            {
+              "id": "143icRtkDp2UA1ojxWY0bJ8hDa3NiIUR1",
+              "name": "8. Số 7 – The Prince Of V-Pop – How Son Tung M-TP Redefined Vietnamese Music",
+              "webViewLink": "https://drive.google.com/drive/folders/143icRtkDp2UA1ojxWY0bJ8hDa3NiIUR1",
+              "modifiedTime": "2026-05-24T07:47:10.477Z",
+              "children": [],
+              "files": [
+                {
+                  "id": "1JQxf6gfGfQPuVII_1zm04HlqatugH5cA",
+                  "name": "Số 7 – The Prince Of V-Pop – How Son Tung M-TP Redefined Vietnamese Music – File PDF.pdf",
+                  "mimeType": "application/pdf",
+                  "size": 12071231,
+                  "webViewLink": "https://drive.google.com/file/d/1JQxf6gfGfQPuVII_1zm04HlqatugH5cA/view?usp=drivesdk",
+                  "modifiedTime": "2026-05-24T07:47:12.071Z",
+                  "videoMediaMetadata": null
+                },
+                {
+                  "id": "19mrBlzqqsr7AzM-x6NcHFvc1YCj0NDjh",
+                  "name": "Số 7 – The Prince Of V-Pop – How Son Tung M-TP Redefined Vietnamese Music – Đáp án.pdf",
+                  "mimeType": "application/pdf",
+                  "size": 7282565,
+                  "webViewLink": "https://drive.google.com/file/d/19mrBlzqqsr7AzM-x6NcHFvc1YCj0NDjh/view?usp=drivesdk",
+                  "modifiedTime": "2026-05-24T07:47:12.078Z",
+                  "videoMediaMetadata": null
+                }
+              ]
+            }
+          ],
+          "files": []
+        },
+        {
+          "id": "1_9tDg2CP87eX1fOiB4zAcEMBPeqyLYis",
+          "name": "4. ĐỀ THI\t\t",
+          "webViewLink": "https://drive.google.com/drive/folders/1_9tDg2CP87eX1fOiB4zAcEMBPeqyLYis",
+          "modifiedTime": "2026-04-17T13:59:31.903Z",
+          "children": [
+            {
+              "id": "1TFdPqSOo0leE33LHDyd9LhP6hQ-G1BCU",
+              "name": "0. Đề thi KSCL đầu vào",
+              "webViewLink": "https://drive.google.com/drive/folders/1TFdPqSOo0leE33LHDyd9LhP6hQ-G1BCU",
+              "modifiedTime": "2026-04-17T13:59:35.755Z",
+              "children": [],
+              "files": [
+                {
+                  "id": "1o2KuQQNcfPOmL1CbMr_RhZDBPVsM7HJY",
+                  "name": "Đề thi KSCL đầu vào - Bảng từ vựng.pdf",
+                  "mimeType": "application/pdf",
+                  "size": 16082512,
+                  "webViewLink": "https://drive.google.com/file/d/1o2KuQQNcfPOmL1CbMr_RhZDBPVsM7HJY/view?usp=drivesdk",
+                  "modifiedTime": "2026-04-17T13:59:38.829Z",
+                  "videoMediaMetadata": null
+                },
+                {
+                  "id": "1FGqpZ4XGyLEMMRfSkQHhVQ02iuiYIWAH",
+                  "name": "Đề thi KSCL đầu vào - File PDF.pdf",
+                  "mimeType": "application/pdf",
+                  "size": 9056641,
+                  "webViewLink": "https://drive.google.com/file/d/1FGqpZ4XGyLEMMRfSkQHhVQ02iuiYIWAH/view?usp=drivesdk",
+                  "modifiedTime": "2026-04-17T13:59:36.815Z",
+                  "videoMediaMetadata": null
+                },
+                {
+                  "id": "1P2p1fCiKJgV0Y0xrbpshr8DMgEMjbMDw",
+                  "name": "Đề thi KSCL đầu vào - Live chữa.mp4",
+                  "mimeType": "video/mp4",
+                  "size": 547832,
+                  "webViewLink": "https://drive.google.com/file/d/1P2p1fCiKJgV0Y0xrbpshr8DMgEMjbMDw/view?usp=drivesdk",
+                  "modifiedTime": "2026-04-17T13:59:40.850Z",
+                  "videoMediaMetadata": {
+                    "width": 1920,
+                    "height": 1080,
+                    "durationMillis": "8333"
+                  }
+                }
+              ]
+            },
+            {
+              "id": "1jNPB2r50SwKF0EHAqh1RwrrX5Iz7OPAd",
+              "name": "1. Đề thi KSCL lần 1",
+              "webViewLink": "https://drive.google.com/drive/folders/1jNPB2r50SwKF0EHAqh1RwrrX5Iz7OPAd",
+              "modifiedTime": "2026-04-17T13:59:32.796Z",
+              "children": [],
+              "files": [
+                {
+                  "id": "1owjxk-UDvRY2kyUPjRboQeUlFTMiZ4OY",
+                  "name": "Đề thi KSCL lần 1 - Đề thi.pdf",
+                  "mimeType": "application/pdf",
+                  "size": 5544563,
+                  "webViewLink": "https://drive.google.com/file/d/1owjxk-UDvRY2kyUPjRboQeUlFTMiZ4OY/view?usp=drivesdk",
+                  "modifiedTime": "2026-04-17T13:59:33.919Z",
+                  "videoMediaMetadata": null
+                },
+                {
+                  "id": "1H4oK5RGakI1JUYOH3ibhuZLOOpg0BdnW",
+                  "name": "Đề thi KSCL lần 1 – [Live] Live chữa.mp4",
+                  "mimeType": "video/mp4",
+                  "size": 509826458,
+                  "webViewLink": "https://drive.google.com/file/d/1H4oK5RGakI1JUYOH3ibhuZLOOpg0BdnW/view?usp=drivesdk",
+                  "modifiedTime": "2026-05-11T08:30:22.609Z",
+                  "videoMediaMetadata": null
+                },
+                {
+                  "id": "1uKxFqUEk41PELdKyEan40dB2qmBoNs7p",
+                  "name": "Đề thi KSCL lần 1 – Bảng từ vựng.pdf",
+                  "mimeType": "application/pdf",
+                  "size": 4307901,
+                  "webViewLink": "https://drive.google.com/file/d/1uKxFqUEk41PELdKyEan40dB2qmBoNs7p/view?usp=drivesdk",
+                  "modifiedTime": "2026-05-11T08:30:22.599Z",
+                  "videoMediaMetadata": null
+                }
+              ]
+            },
+            {
+              "id": "1OGCIR3AcO65aIszQdiFotoCBD2jTSmT5",
+              "name": "2. Đề thi KSCL lần 2",
+              "webViewLink": "https://drive.google.com/drive/folders/1OGCIR3AcO65aIszQdiFotoCBD2jTSmT5",
+              "modifiedTime": "2026-05-11T08:30:10.565Z",
+              "children": [],
+              "files": [
+                {
+                  "id": "18krECHOoNCm_dlxnGurJ5FKxq7jxw-7Z",
+                  "name": "Đề thi KSCL lần 2 – [Live] Live chữa.mp4",
+                  "mimeType": "video/mp4",
+                  "size": 418599980,
+                  "webViewLink": "https://drive.google.com/file/d/18krECHOoNCm_dlxnGurJ5FKxq7jxw-7Z/view?usp=drivesdk",
+                  "modifiedTime": "2026-05-11T08:30:21.818Z",
+                  "videoMediaMetadata": null
+                },
+                {
+                  "id": "1REXNvMDmkRqOjHgEHFFyKqsqYkZFXHzW",
+                  "name": "Đề thi KSCL lần 2 – Bảng từ vựng.pdf",
+                  "mimeType": "application/pdf",
+                  "size": 5668505,
+                  "webViewLink": "https://drive.google.com/file/d/1REXNvMDmkRqOjHgEHFFyKqsqYkZFXHzW/view?usp=drivesdk",
+                  "modifiedTime": "2026-05-11T08:30:21.683Z",
+                  "videoMediaMetadata": null
+                },
+                {
+                  "id": "1qSrtJQ6XhPjr9D8I4nHkMm8FcF9N5wUi",
+                  "name": "Đề thi KSCL lần 2 – File PDF.pdf",
+                  "mimeType": "application/pdf",
+                  "size": 6352003,
+                  "webViewLink": "https://drive.google.com/file/d/1qSrtJQ6XhPjr9D8I4nHkMm8FcF9N5wUi/view?usp=drivesdk",
+                  "modifiedTime": "2026-05-11T08:30:21.678Z",
+                  "videoMediaMetadata": null
+                }
+              ]
+            }
+          ],
+          "files": []
+        }
+      ],
+      "files": [],
+      "webViewLink": "https://drive.google.com/drive/folders/1at442t-8UwnyTAi-VSu9Uw0iAuneHCt9",
+      "modifiedTime": "2026-04-15T22:18:51.693Z"
+    },
+    {
+      "id": "1y36UbhKyHZJ_1WpQyWK-H81xcSoBqEkQ",
+      "name": "2. KHOÁ E TỪ VỰNG - ĐỌC HIỂU CHUYÊN SÂU",
+      "children": [],
+      "files": [],
+      "webViewLink": "https://drive.google.com/drive/folders/1y36UbhKyHZJ_1WpQyWK-H81xcSoBqEkQ",
+      "modifiedTime": "2026-04-15T22:18:50.880Z"
+    },
+    {
+      "id": "1AsTx6kOdQG33eiHlbJNfw7RfvLLTvoXq",
+      "name": "3. KHOÁ N TỔNG ÔN VÀ LUYỆN ĐỀ 8, 9+",
+      "children": [],
+      "files": [],
+      "webViewLink": "https://drive.google.com/drive/folders/1AsTx6kOdQG33eiHlbJNfw7RfvLLTvoXq",
+      "modifiedTime": "2026-04-15T22:18:50.178Z"
+    },
+    {
+      "id": "1yHdKK8M21lLVKiTb_p1jDd9S7pwxBwLa",
+      "name": "4. KHOÁ S TỔNG ÔN CẤP TỐC GIAI ĐOẠN CUỐI",
+      "children": [],
+      "files": [],
+      "webViewLink": "https://drive.google.com/drive/folders/1yHdKK8M21lLVKiTb_p1jDd9S7pwxBwLa",
+      "modifiedTime": "2026-04-15T22:18:48.445Z"
+    },
+    {
+      "id": "1RWFnyozsULmyJYdU3ih_vQuo7oWiasH9",
+      "name": "Z. BONUS 15 PHÚT MỖI NGÀY NÂNG CẤP TỪ VỰNG IELTS",
+      "children": [
+        {
+          "id": "1EFeCPimiHC_Oz_aX-ouxOUBSeZ-BHOw6",
+          "name": "1. Chương 1 – Animals",
+          "webViewLink": "https://drive.google.com/drive/folders/1EFeCPimiHC_Oz_aX-ouxOUBSeZ-BHOw6",
+          "modifiedTime": "2026-05-18T01:26:26.597Z",
+          "children": [],
+          "files": [
+            {
+              "id": "1g_qdL0T7Q10_8vFsEW1RB-d4KLmq6PQI",
+              "name": "Chương 1 – Animals – LỘ TRÌNH KHÓA TỪ VỰNG IELTS NÂNG CAO.pdf",
+              "mimeType": "application/pdf",
+              "size": 336158,
+              "webViewLink": "https://drive.google.com/file/d/1g_qdL0T7Q10_8vFsEW1RB-d4KLmq6PQI/view?usp=drivesdk",
+              "modifiedTime": "2026-05-18T01:26:40.919Z",
+              "videoMediaMetadata": null
+            },
+            {
+              "id": "18cDQtBR_Eu0cOEv5S5-fww8N5vEiwE2v",
+              "name": "Chương 1 – Animals – Unit 1 – Bringing Extinct Species Back to Life.pdf",
+              "mimeType": "application/pdf",
+              "size": 433736,
+              "webViewLink": "https://drive.google.com/file/d/18cDQtBR_Eu0cOEv5S5-fww8N5vEiwE2v/view?usp=drivesdk",
+              "modifiedTime": "2026-05-18T01:26:43.009Z",
+              "videoMediaMetadata": null
+            },
+            {
+              "id": "13jlGJSi0JHWvl_U23k3Nugopfp-xnFx6",
+              "name": "Chương 1 – Animals – Unit 1 – Đáp án.pdf",
+              "mimeType": "application/pdf",
+              "size": 893114,
+              "webViewLink": "https://drive.google.com/file/d/13jlGJSi0JHWvl_U23k3Nugopfp-xnFx6/view?usp=drivesdk",
+              "modifiedTime": "2026-05-18T01:26:39.614Z",
+              "videoMediaMetadata": null
+            },
+            {
+              "id": "1mWdeIXN_EkHHmmwsitKLlO149gJtCiyw",
+              "name": "Chương 1 – Animals – Unit 10 – Let's go Bats.pdf",
+              "mimeType": "application/pdf",
+              "size": 461652,
+              "webViewLink": "https://drive.google.com/file/d/1mWdeIXN_EkHHmmwsitKLlO149gJtCiyw/view?usp=drivesdk",
+              "modifiedTime": "2026-05-18T01:27:20.677Z",
+              "videoMediaMetadata": null
+            },
+            {
+              "id": "1hMo5pVjm4SeyeAmVZiAhQd6-bZ4lWm2C",
+              "name": "Chương 1 – Animals – Unit 10 – Đáp án.pdf",
+              "mimeType": "application/pdf",
+              "size": 1197650,
+              "webViewLink": "https://drive.google.com/file/d/1hMo5pVjm4SeyeAmVZiAhQd6-bZ4lWm2C/view?usp=drivesdk",
+              "modifiedTime": "2026-05-18T01:27:19.468Z",
+              "videoMediaMetadata": null
+            },
+            {
+              "id": "1-GIWg8ttxLO9C9G3rhqmJn3zXMf5zkau",
+              "name": "Chương 1 – Animals – Unit 2 – Saving Bugs to Find New Drugs.pdf",
+              "mimeType": "application/pdf",
+              "size": 503533,
+              "webViewLink": "https://drive.google.com/file/d/1-GIWg8ttxLO9C9G3rhqmJn3zXMf5zkau/view?usp=drivesdk",
+              "modifiedTime": "2026-05-18T01:27:06.040Z",
+              "videoMediaMetadata": null
+            },
+            {
+              "id": "1eVWUB-q4C9nPtsKscHMg-0mN9gf8CQqg",
+              "name": "Chương 1 – Animals – Unit 2 – Đáp án.pdf",
+              "mimeType": "application/pdf",
+              "size": 1097711,
+              "webViewLink": "https://drive.google.com/file/d/1eVWUB-q4C9nPtsKscHMg-0mN9gf8CQqg/view?usp=drivesdk",
+              "modifiedTime": "2026-05-18T01:26:47.378Z",
+              "videoMediaMetadata": null
+            },
+            {
+              "id": "15Oc8hW_l-ZnallXZkenhIZzlBIcr7WAg",
+              "name": "Chương 1 – Animals – Unit 3 – The Secret of Staying Young.pdf",
+              "mimeType": "application/pdf",
+              "size": 493906,
+              "webViewLink": "https://drive.google.com/file/d/15Oc8hW_l-ZnallXZkenhIZzlBIcr7WAg/view?usp=drivesdk",
+              "modifiedTime": "2026-05-18T01:26:36.970Z",
+              "videoMediaMetadata": null
+            },
+            {
+              "id": "1YVPoHMxU3TDPGc870tEr6rpQQ9WtQ9cP",
+              "name": "Chương 1 – Animals – Unit 3 – Đáp án.pdf",
+              "mimeType": "application/pdf",
+              "size": 1315281,
+              "webViewLink": "https://drive.google.com/file/d/1YVPoHMxU3TDPGc870tEr6rpQQ9WtQ9cP/view?usp=drivesdk",
+              "modifiedTime": "2026-05-18T01:27:17.897Z",
+              "videoMediaMetadata": null
+            },
+            {
+              "id": "1Ti7S7KZUWFVS5f4-r5E_d74xzo4z3I4N",
+              "name": "Chương 1 – Animals – Unit 4 – Why Zoos Are Good.pdf",
+              "mimeType": "application/pdf",
+              "size": 489451,
+              "webViewLink": "https://drive.google.com/file/d/1Ti7S7KZUWFVS5f4-r5E_d74xzo4z3I4N/view?usp=drivesdk",
+              "modifiedTime": "2026-05-18T01:26:35.601Z",
+              "videoMediaMetadata": null
+            },
+            {
+              "id": "1xh5hWhtVhFcTmdG-QL5fFYWawc22cQ8M",
+              "name": "Chương 1 – Animals – Unit 4 – Đáp án.pdf",
+              "mimeType": "application/pdf",
+              "size": 1224501,
+              "webViewLink": "https://drive.google.com/file/d/1xh5hWhtVhFcTmdG-QL5fFYWawc22cQ8M/view?usp=drivesdk",
+              "modifiedTime": "2026-05-18T01:27:07.628Z",
+              "videoMediaMetadata": null
+            },
+            {
+              "id": "1FBOwKZHrOg66uOlQOr9PFklOv-MP1woW",
+              "name": "Chương 1 – Animals – Unit 5 – Flying Tortoises.pdf",
+              "mimeType": "application/pdf",
+              "size": 445081,
+              "webViewLink": "https://drive.google.com/file/d/1FBOwKZHrOg66uOlQOr9PFklOv-MP1woW/view?usp=drivesdk",
+              "modifiedTime": "2026-05-18T01:26:28.570Z",
+              "videoMediaMetadata": null
+            },
+            {
+              "id": "1IWouRONJLKV02l-5fnbgbJV5MBcdHIjd",
+              "name": "Chương 1 – Animals – Unit 5 – Đáp án.pdf",
+              "mimeType": "application/pdf",
+              "size": 876927,
+              "webViewLink": "https://drive.google.com/file/d/1IWouRONJLKV02l-5fnbgbJV5MBcdHIjd/view?usp=drivesdk",
+              "modifiedTime": "2026-05-18T01:26:34.282Z",
+              "videoMediaMetadata": null
+            },
+            {
+              "id": "1iRrp-c6Mj2Sq7VZs49jyTokcyhFYpLYp",
+              "name": "Chương 1 – Animals – Unit 6 – Bring Back The Big Cats.pdf",
+              "mimeType": "application/pdf",
+              "size": 511172,
+              "webViewLink": "https://drive.google.com/file/d/1iRrp-c6Mj2Sq7VZs49jyTokcyhFYpLYp/view?usp=drivesdk",
+              "modifiedTime": "2026-05-18T01:26:45.877Z",
+              "videoMediaMetadata": null
+            },
+            {
+              "id": "1knJwNd3VKIM96cpdeqUi4Ug7YD5Ew-Oz",
+              "name": "Chương 1 – Animals – Unit 6 – Đáp án.pdf",
+              "mimeType": "application/pdf",
+              "size": 1421381,
+              "webViewLink": "https://drive.google.com/file/d/1knJwNd3VKIM96cpdeqUi4Ug7YD5Ew-Oz/view?usp=drivesdk",
+              "modifiedTime": "2026-05-18T01:26:31.998Z",
+              "videoMediaMetadata": null
+            },
+            {
+              "id": "1_fhjO0tj3ZHgjq2b4HygNcQtsPSSsbJe",
+              "name": "Chương 1 – Animals – Unit 7 – Great Migrations.pdf",
+              "mimeType": "application/pdf",
+              "size": 500485,
+              "webViewLink": "https://drive.google.com/file/d/1_fhjO0tj3ZHgjq2b4HygNcQtsPSSsbJe/view?usp=drivesdk",
+              "modifiedTime": "2026-05-18T01:26:38.263Z",
+              "videoMediaMetadata": null
+            },
+            {
+              "id": "1RYBYZ8BT5akivT12qa9qSxBaf3TdIKiH",
+              "name": "Chương 1 – Animals – Unit 7 – Đáp án.pdf",
+              "mimeType": "application/pdf",
+              "size": 977480,
+              "webViewLink": "https://drive.google.com/file/d/1RYBYZ8BT5akivT12qa9qSxBaf3TdIKiH/view?usp=drivesdk",
+              "modifiedTime": "2026-05-18T01:27:12.803Z",
+              "videoMediaMetadata": null
+            },
+            {
+              "id": "1qj5-3UxF_ie_02WgvPMASfL2aEkJNOB-",
+              "name": "Chương 1 – Animals – Unit 8 – The History of The Turtle.pdf",
+              "mimeType": "application/pdf",
+              "size": 454327,
+              "webViewLink": "https://drive.google.com/file/d/1qj5-3UxF_ie_02WgvPMASfL2aEkJNOB-/view?usp=drivesdk",
+              "modifiedTime": "2026-05-18T01:26:44.526Z",
+              "videoMediaMetadata": null
+            },
+            {
+              "id": "1N5H5QYyWnazfPonBBYDJdqvLkNA5hrKN",
+              "name": "Chương 1 – Animals – Unit 8 – Đáp án.pdf",
+              "mimeType": "application/pdf",
+              "size": 1066655,
+              "webViewLink": "https://drive.google.com/file/d/1N5H5QYyWnazfPonBBYDJdqvLkNA5hrKN/view?usp=drivesdk",
+              "modifiedTime": "2026-05-18T01:27:11.412Z",
+              "videoMediaMetadata": null
+            },
+            {
+              "id": "1FpWlaY0mRISMlBtqI8-CRtNOr-cBZuXa",
+              "name": "Chương 1 – Animals – Unit 9 – Collecting Ants Specimens.pdf",
+              "mimeType": "application/pdf",
+              "size": 466812,
+              "webViewLink": "https://drive.google.com/file/d/1FpWlaY0mRISMlBtqI8-CRtNOr-cBZuXa/view?usp=drivesdk",
+              "modifiedTime": "2026-05-18T01:27:14.124Z",
+              "videoMediaMetadata": null
+            },
+            {
+              "id": "1cXVnbtRWq4XrYF_AVSxz1xLsf9XALT2d",
+              "name": "Chương 1 – Animals – Unit 9 – Đáp án.pdf",
+              "mimeType": "application/pdf",
+              "size": 941202,
+              "webViewLink": "https://drive.google.com/file/d/1cXVnbtRWq4XrYF_AVSxz1xLsf9XALT2d/view?usp=drivesdk",
+              "modifiedTime": "2026-05-18T01:27:09.126Z",
+              "videoMediaMetadata": null
+            }
+          ]
+        },
+        {
+          "id": "1LJ2d6aoGHWUIEtShow_DijkcYhFutd1X",
+          "name": "2. Chương 2 – Environment",
+          "webViewLink": "https://drive.google.com/drive/folders/1LJ2d6aoGHWUIEtShow_DijkcYhFutd1X",
+          "modifiedTime": "2026-05-24T07:47:03.279Z",
+          "children": [],
+          "files": [
+            {
+              "id": "1H05231iEFL7qli9qKfTNLKzWa40aI2BP",
+              "name": "Chương 2 – Environment – Unit 1 – Nutmeg – a valuable spice.pdf",
+              "mimeType": "application/pdf",
+              "size": 483565,
+              "webViewLink": "https://drive.google.com/file/d/1H05231iEFL7qli9qKfTNLKzWa40aI2BP/view?usp=drivesdk",
+              "modifiedTime": "2026-05-24T07:47:05.127Z",
+              "videoMediaMetadata": null
+            },
+            {
+              "id": "1vg7QvjCVVfRQJjySqCs8PTDYP_nsAflF",
+              "name": "Chương 2 – Environment – Unit 1 – Đáp án.pdf",
+              "mimeType": "application/pdf",
+              "size": 1183196,
+              "webViewLink": "https://drive.google.com/file/d/1vg7QvjCVVfRQJjySqCs8PTDYP_nsAflF/view?usp=drivesdk",
+              "modifiedTime": "2026-05-24T07:47:05.154Z",
+              "videoMediaMetadata": null
+            },
+            {
+              "id": "1YMmp_zkHEGVftsJX5IlB79sdnkTh9XRF",
+              "name": "Chương 2 – Environment – Unit 10 – Reducing the effects of climate change.pdf.pdf",
+              "mimeType": "application/pdf",
+              "size": 530273,
+              "webViewLink": "https://drive.google.com/file/d/1YMmp_zkHEGVftsJX5IlB79sdnkTh9XRF/view?usp=drivesdk",
+              "modifiedTime": "2026-05-24T07:47:06.743Z",
+              "videoMediaMetadata": null
+            },
+            {
+              "id": "11TxetDz_Ut1S6ApSNV5ZQZJpc1uFfIai",
+              "name": "Chương 2 – Environment – Unit 10 – Đáp án.pdf.pdf",
+              "mimeType": "application/pdf",
+              "size": 967406,
+              "webViewLink": "https://drive.google.com/file/d/11TxetDz_Ut1S6ApSNV5ZQZJpc1uFfIai/view?usp=drivesdk",
+              "modifiedTime": "2026-05-24T07:47:06.746Z",
+              "videoMediaMetadata": null
+            },
+            {
+              "id": "1g-an7kczHJz0fZuNwgwDTW-xcN6ZRXTv",
+              "name": "Chương 2 – Environment – Unit 11 – Making every drop count.pdf",
+              "mimeType": "application/pdf",
+              "size": 469315,
+              "webViewLink": "https://drive.google.com/file/d/1g-an7kczHJz0fZuNwgwDTW-xcN6ZRXTv/view?usp=drivesdk",
+              "modifiedTime": "2026-05-24T07:47:06.723Z",
+              "videoMediaMetadata": null
+            },
+            {
+              "id": "1YdnCe2i-GluyZx270sJGTGsCTSCKGj3k",
+              "name": "Chương 2 – Environment – Unit 11 – Đáp án.pdf",
+              "mimeType": "application/pdf",
+              "size": 969893,
+              "webViewLink": "https://drive.google.com/file/d/1YdnCe2i-GluyZx270sJGTGsCTSCKGj3k/view?usp=drivesdk",
+              "modifiedTime": "2026-05-24T07:47:06.765Z",
+              "videoMediaMetadata": null
+            },
+            {
+              "id": "1DzM6e2jEAzSiItvWD68MsP06zA6LsddJ",
+              "name": "Chương 2 – Environment – Unit 12 – Biological control of pests.pdf",
+              "mimeType": "application/pdf",
+              "size": 455553,
+              "webViewLink": "https://drive.google.com/file/d/1DzM6e2jEAzSiItvWD68MsP06zA6LsddJ/view?usp=drivesdk",
+              "modifiedTime": "2026-05-24T07:47:06.694Z",
+              "videoMediaMetadata": null
+            },
+            {
+              "id": "1EY6HQfkwaMT-RIcFhGms7j_UsWtTBzGP",
+              "name": "Chương 2 – Environment – Unit 12 – Đáp án.pdf",
+              "mimeType": "application/pdf",
+              "size": 1027604,
+              "webViewLink": "https://drive.google.com/file/d/1EY6HQfkwaMT-RIcFhGms7j_UsWtTBzGP/view?usp=drivesdk",
+              "modifiedTime": "2026-05-24T07:47:07.277Z",
+              "videoMediaMetadata": null
+            },
+            {
+              "id": "1zwtxv3u3oq60lXuk1fFODOiiorgu4X_9",
+              "name": "Chương 2 – Environment – Unit 2 – The return of the huarango.pdf",
+              "mimeType": "application/pdf",
+              "size": 534654,
+              "webViewLink": "https://drive.google.com/file/d/1zwtxv3u3oq60lXuk1fFODOiiorgu4X_9/view?usp=drivesdk",
+              "modifiedTime": "2026-05-24T07:47:06.675Z",
+              "videoMediaMetadata": null
+            },
+            {
+              "id": "14SUWB67rolPj2Ny1v00yRDCi3kRtgGoO",
+              "name": "Chương 2 – Environment – Unit 2 – Đáp án.pdf",
+              "mimeType": "application/pdf",
+              "size": 1220847,
+              "webViewLink": "https://drive.google.com/file/d/14SUWB67rolPj2Ny1v00yRDCi3kRtgGoO/view?usp=drivesdk",
+              "modifiedTime": "2026-05-24T07:47:05.150Z",
+              "videoMediaMetadata": null
+            },
+            {
+              "id": "19HE6R5yKtY-tZ4hA_Y8IPDCa7ispUJ3E",
+              "name": "Chương 2 – Environment – Unit 3 – Bringing cinnamon to Europe.pdf",
+              "mimeType": "application/pdf",
+              "size": 470207,
+              "webViewLink": "https://drive.google.com/file/d/19HE6R5yKtY-tZ4hA_Y8IPDCa7ispUJ3E/view?usp=drivesdk",
+              "modifiedTime": "2026-05-24T07:47:06.670Z",
+              "videoMediaMetadata": null
+            },
+            {
+              "id": "1oRNAdh_rH7NkFze0q0pWP366Iahgn_31",
+              "name": "Chương 2 – Environment – Unit 3 – Đáp án.pdf",
+              "mimeType": "application/pdf",
+              "size": 1121100,
+              "webViewLink": "https://drive.google.com/file/d/1oRNAdh_rH7NkFze0q0pWP366Iahgn_31/view?usp=drivesdk",
+              "modifiedTime": "2026-05-24T07:47:05.154Z",
+              "videoMediaMetadata": null
+            },
+            {
+              "id": "1WSP3w0xA1OWANsYSKF0QKsjdDKWGH3Ea",
+              "name": "Chương 2 – Environment – Unit 4 – Autumn leaves.pdf",
+              "mimeType": "application/pdf",
+              "size": 447977,
+              "webViewLink": "https://drive.google.com/file/d/1WSP3w0xA1OWANsYSKF0QKsjdDKWGH3Ea/view?usp=drivesdk",
+              "modifiedTime": "2026-05-24T07:47:05.147Z",
+              "videoMediaMetadata": null
+            },
+            {
+              "id": "19s6339y-a9fCsD04EFO0RUQNkT5NoFLM",
+              "name": "Chương 2 – Environment – Unit 4 – Đáp án.pdf",
+              "mimeType": "application/pdf",
+              "size": 980038,
+              "webViewLink": "https://drive.google.com/file/d/19s6339y-a9fCsD04EFO0RUQNkT5NoFLM/view?usp=drivesdk",
+              "modifiedTime": "2026-05-24T07:47:05.135Z",
+              "videoMediaMetadata": null
+            },
+            {
+              "id": "1okuDkeeKwChi7eMoP6Dk6dP2wiUeoWUt",
+              "name": "Chương 2 – Environment – Unit 5 – Cork.pdf",
+              "mimeType": "application/pdf",
+              "size": 450159,
+              "webViewLink": "https://drive.google.com/file/d/1okuDkeeKwChi7eMoP6Dk6dP2wiUeoWUt/view?usp=drivesdk",
+              "modifiedTime": "2026-05-24T07:47:06.698Z",
+              "videoMediaMetadata": null
+            },
+            {
+              "id": "1FaPNCgUiTJgapueWCicGhn4hgrc6zQ-k",
+              "name": "Chương 2 – Environment – Unit 5 – Đáp án.pdf",
+              "mimeType": "application/pdf",
+              "size": 1027757,
+              "webViewLink": "https://drive.google.com/file/d/1FaPNCgUiTJgapueWCicGhn4hgrc6zQ-k/view?usp=drivesdk",
+              "modifiedTime": "2026-05-24T07:47:05.139Z",
+              "videoMediaMetadata": null
+            },
+            {
+              "id": "1d65WTGgppUsprWRCHh5-cYDmtCpKz8Jc",
+              "name": "Chương 2 – Environment – Unit 6 – Marine debris.pdf",
+              "mimeType": "application/pdf",
+              "size": 470642,
+              "webViewLink": "https://drive.google.com/file/d/1d65WTGgppUsprWRCHh5-cYDmtCpKz8Jc/view?usp=drivesdk",
+              "modifiedTime": "2026-05-24T07:47:06.664Z",
+              "videoMediaMetadata": null
+            },
+            {
+              "id": "1JZ5RM8jyqjoTW59bA9lusb8TR6Ltt6cq",
+              "name": "Chương 2 – Environment – Unit 6 – Đáp án.pdf",
+              "mimeType": "application/pdf",
+              "size": 1559543,
+              "webViewLink": "https://drive.google.com/file/d/1JZ5RM8jyqjoTW59bA9lusb8TR6Ltt6cq/view?usp=drivesdk",
+              "modifiedTime": "2026-05-24T07:47:05.148Z",
+              "videoMediaMetadata": null
+            },
+            {
+              "id": "12yA4OtuLnvxQpUi3YTO-YpaLQaX3e43f",
+              "name": "Chương 2 – Environment – Unit 7 – The Little Ice Age.pdf",
+              "mimeType": "application/pdf",
+              "size": 511296,
+              "webViewLink": "https://drive.google.com/file/d/12yA4OtuLnvxQpUi3YTO-YpaLQaX3e43f/view?usp=drivesdk",
+              "modifiedTime": "2026-05-24T07:47:05.162Z",
+              "videoMediaMetadata": null
+            },
+            {
+              "id": "1euGdQFFCpoeYZFi5Aw70NG5gtXd9hGYY",
+              "name": "Chương 2 – Environment – Unit 7 – Đáp án.pdf",
+              "mimeType": "application/pdf",
+              "size": 920955,
+              "webViewLink": "https://drive.google.com/file/d/1euGdQFFCpoeYZFi5Aw70NG5gtXd9hGYY/view?usp=drivesdk",
+              "modifiedTime": "2026-05-24T07:47:05.189Z",
+              "videoMediaMetadata": null
+            },
+            {
+              "id": "1NYG4GFGzlprtgV_KqEzf_Kah8Oy0Beaf",
+              "name": "Chương 2 – Environment – Unit 8 – Saving the soil.pdf",
+              "mimeType": "application/pdf",
+              "size": 475264,
+              "webViewLink": "https://drive.google.com/file/d/1NYG4GFGzlprtgV_KqEzf_Kah8Oy0Beaf/view?usp=drivesdk",
+              "modifiedTime": "2026-05-24T07:47:05.157Z",
+              "videoMediaMetadata": null
+            },
+            {
+              "id": "1OZ2ah4AaozVQ2jA5NeVpLgdiVnNrhGch",
+              "name": "Chương 2 – Environment – Unit 8 – Đáp án.pdf",
+              "mimeType": "application/pdf",
+              "size": 985480,
+              "webViewLink": "https://drive.google.com/file/d/1OZ2ah4AaozVQ2jA5NeVpLgdiVnNrhGch/view?usp=drivesdk",
+              "modifiedTime": "2026-05-24T07:47:05.142Z",
+              "videoMediaMetadata": null
+            },
+            {
+              "id": "1tAoSbqhTj87u5TB5t8PO91rulx3cA43o",
+              "name": "Chương 2 – Environment – Unit 9 – Environmental practices of big business.pdf",
+              "mimeType": "application/pdf",
+              "size": 504186,
+              "webViewLink": "https://drive.google.com/file/d/1tAoSbqhTj87u5TB5t8PO91rulx3cA43o/view?usp=drivesdk",
+              "modifiedTime": "2026-05-24T07:47:07.447Z",
+              "videoMediaMetadata": null
+            },
+            {
+              "id": "1xlXdHnMEIYMgn7gQhViQBLaxVfmagmAC",
+              "name": "Chương 2 – Environment – Unit 9 – Đáp án.pdf",
+              "mimeType": "application/pdf",
+              "size": 1089120,
+              "webViewLink": "https://drive.google.com/file/d/1xlXdHnMEIYMgn7gQhViQBLaxVfmagmAC/view?usp=drivesdk",
+              "modifiedTime": "2026-05-24T07:47:06.706Z",
+              "videoMediaMetadata": null
+            }
+          ]
+        }
+      ],
+      "files": [],
+      "webViewLink": "https://drive.google.com/drive/folders/1RWFnyozsULmyJYdU3ih_vQuo7oWiasH9",
+      "modifiedTime": "2026-04-15T22:18:47.696Z"
+    },
+    {
+      "id": "15qYL3gPrP9w7Jl7NSnmvD1lgIWdJ4owA",
+      "name": "Z. EBOOK SÁCH KÈM KHOÁ HỌC",
+      "children": [],
+      "files": [],
+      "webViewLink": "https://drive.google.com/drive/folders/15qYL3gPrP9w7Jl7NSnmvD1lgIWdJ4owA",
+      "modifiedTime": "2026-04-15T22:18:53.225Z"
+    }
+  ]
+}

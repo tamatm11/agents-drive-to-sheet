@@ -1,0 +1,591 @@
+{
+  "crawledAt": "2026-05-29T12:52:53.442Z",
+  "teacher": {
+    "id": "1h9rWkHHdg8rSHRf5LAMHDUYkqTEnqbZk",
+    "name": "6. TOÁN TỔ TOÁN MAPSTUDY 2K9",
+    "modifiedTime": "2026-05-27T15:32:06.905Z",
+    "webViewLink": "https://drive.google.com/drive/folders/1h9rWkHHdg8rSHRf5LAMHDUYkqTEnqbZk"
+  },
+  "courses": [
+    {
+      "id": "1ogJ3AJsdOOdHcrFMiZ1xDV1Sd9iOoEYl",
+      "name": "0. INFO THÔNG TIN VÀ HƯỚNG DẪN KHOÁ HỌC",
+      "children": [],
+      "files": [],
+      "webViewLink": "https://drive.google.com/drive/folders/1ogJ3AJsdOOdHcrFMiZ1xDV1Sd9iOoEYl",
+      "modifiedTime": "2026-04-17T16:23:48.591Z"
+    },
+    {
+      "id": "1TnT-Tiv9Z8wGt-lGCZNyZ-LrhR2Mf0QI",
+      "name": "1. LIVE I CHUYÊN ĐỀ CƠ BẢN",
+      "children": [
+        {
+          "id": "1lxibrjMChamdxQknDYm4EKxlrdVShjrK",
+          "name": "Chuyên đề 1: Ứng dụng đạo hàm khảo sát hàm số\t\t\t",
+          "webViewLink": "https://drive.google.com/drive/folders/1lxibrjMChamdxQknDYm4EKxlrdVShjrK",
+          "modifiedTime": "2026-04-21T21:49:21.790Z",
+          "children": [
+            {
+              "id": "1M4Zp6qzLyLE_EPYxfZr1XZBQgsat7lNJ",
+              "name": "#1. I101: Tính đơn điệu của hàm số",
+              "webViewLink": "https://drive.google.com/drive/folders/1M4Zp6qzLyLE_EPYxfZr1XZBQgsat7lNJ",
+              "modifiedTime": "2026-04-21T21:49:47.689Z",
+              "children": [],
+              "files": [
+                {
+                  "id": "1t03sE_GsH5lGT75knfXPVdEmNiUHIbOH",
+                  "name": "1. File test - I101- Tính đơn điệu của hàm số.pdf",
+                  "mimeType": "application/pdf",
+                  "size": 494773,
+                  "webViewLink": "https://drive.google.com/file/d/1t03sE_GsH5lGT75knfXPVdEmNiUHIbOH/view?usp=drivesdk",
+                  "modifiedTime": "2026-04-21T21:49:48.617Z",
+                  "videoMediaMetadata": null
+                },
+                {
+                  "id": "137hiPja8L8RT1S225PxCR62fcb3S2t1Y",
+                  "name": "1. Video lý thuyết- Tính đơn điệu của hàm số.MP4",
+                  "mimeType": "video/mp4",
+                  "size": 628337548,
+                  "webViewLink": "https://drive.google.com/file/d/137hiPja8L8RT1S225PxCR62fcb3S2t1Y/view?usp=drivesdk",
+                  "modifiedTime": "2026-04-21T21:49:50.438Z",
+                  "videoMediaMetadata": {
+                    "width": 1280,
+                    "height": 720,
+                    "durationMillis": "4294199"
+                  }
+                },
+                {
+                  "id": "1oCsqpBfvPJiF4o2Z-dt7vdhbf20RVmqu",
+                  "name": "2. Video chữa chi tiết- Bài test online.MP4",
+                  "mimeType": "video/mp4",
+                  "size": 369576792,
+                  "webViewLink": "https://drive.google.com/file/d/1oCsqpBfvPJiF4o2Z-dt7vdhbf20RVmqu/view?usp=drivesdk",
+                  "modifiedTime": "2026-04-21T21:49:54.415Z",
+                  "videoMediaMetadata": {
+                    "width": 1280,
+                    "height": 720,
+                    "durationMillis": "3482500"
+                  }
+                },
+                {
+                  "id": "1auzk3s7m6J0fjQm6L4U7Kx23jQNqkW_1",
+                  "name": "3. Video chữa chi tiết- Bài test online (tiếp).MP4",
+                  "mimeType": "video/mp4",
+                  "size": 365933728,
+                  "webViewLink": "https://drive.google.com/file/d/1auzk3s7m6J0fjQm6L4U7Kx23jQNqkW_1/view?usp=drivesdk",
+                  "modifiedTime": "2026-04-21T21:49:52.517Z",
+                  "videoMediaMetadata": {
+                    "width": 1280,
+                    "height": 720,
+                    "durationMillis": "3697300"
+                  }
+                }
+              ]
+            },
+            {
+              "id": "1OFPPD3vqZLUgHPBfl3AFsDdHe4siHXUt",
+              "name": "#2. I102: Cực trị của hàm số",
+              "webViewLink": "https://drive.google.com/drive/folders/1OFPPD3vqZLUgHPBfl3AFsDdHe4siHXUt",
+              "modifiedTime": "2026-04-21T21:49:40.473Z",
+              "children": [],
+              "files": [
+                {
+                  "id": "1CofqIZroRAiiXuj79aoxVa7FQ_082HGb",
+                  "name": "1. Tài liệu - I102 - Cực trị hàm số cơ bản.pdf",
+                  "mimeType": "application/pdf",
+                  "size": 473061,
+                  "webViewLink": "https://drive.google.com/file/d/1CofqIZroRAiiXuj79aoxVa7FQ_082HGb/view?usp=drivesdk",
+                  "modifiedTime": "2026-04-21T21:49:41.366Z",
+                  "videoMediaMetadata": null
+                },
+                {
+                  "id": "1Bz2kEokxN9lviMqE-9xUq-EFoW2dsF1L",
+                  "name": "1. Video lý thuyết- Cực trị của hàm số.MP4",
+                  "mimeType": "video/mp4",
+                  "size": 565616612,
+                  "webViewLink": "https://drive.google.com/file/d/1Bz2kEokxN9lviMqE-9xUq-EFoW2dsF1L/view?usp=drivesdk",
+                  "modifiedTime": "2026-04-21T21:49:43.103Z",
+                  "videoMediaMetadata": {
+                    "width": 1280,
+                    "height": 720,
+                    "durationMillis": "4485033"
+                  }
+                },
+                {
+                  "id": "1PpvML4stQ6GpR_QaZ7Kgz3iHLsxcra74",
+                  "name": "2. Video chữa chi tiết- Bài tập (câu 1-16).MP4",
+                  "mimeType": "video/mp4",
+                  "size": 354204972,
+                  "webViewLink": "https://drive.google.com/file/d/1PpvML4stQ6GpR_QaZ7Kgz3iHLsxcra74/view?usp=drivesdk",
+                  "modifiedTime": "2026-04-21T21:49:44.776Z",
+                  "videoMediaMetadata": {
+                    "width": 1280,
+                    "height": 720,
+                    "durationMillis": "3899233"
+                  }
+                },
+                {
+                  "id": "1NCxbn2XdHth5ww9hsINzwAGUZJGGqgt-",
+                  "name": "3. Video chữa chi tiết- Bài tập (câu 17-22).MP4",
+                  "mimeType": "video/mp4",
+                  "size": 115535212,
+                  "webViewLink": "https://drive.google.com/file/d/1NCxbn2XdHth5ww9hsINzwAGUZJGGqgt-/view?usp=drivesdk",
+                  "modifiedTime": "2026-04-21T21:49:46.268Z",
+                  "videoMediaMetadata": {
+                    "width": 1280,
+                    "height": 720,
+                    "durationMillis": "1107000"
+                  }
+                }
+              ]
+            },
+            {
+              "id": "1wlgE3CF5NwOym0iSAPEZGqNBuDsabt3Q",
+              "name": "#3. I103: Giá trị lớn nhất và giá trị nhỏ nhất của hàm số",
+              "webViewLink": "https://drive.google.com/drive/folders/1wlgE3CF5NwOym0iSAPEZGqNBuDsabt3Q",
+              "modifiedTime": "2026-04-21T21:49:32.900Z",
+              "children": [],
+              "files": [
+                {
+                  "id": "1ngcpUaTYOFxs9dfMqFhYYvRaTh2OqyIw",
+                  "name": "1. File bài tập - I103 - Giá trị lớn nhất và giá trị nhỏ nhất của hàm số.pdf",
+                  "mimeType": "application/pdf",
+                  "size": 920697,
+                  "webViewLink": "https://drive.google.com/file/d/1ngcpUaTYOFxs9dfMqFhYYvRaTh2OqyIw/view?usp=drivesdk",
+                  "modifiedTime": "2026-04-21T21:49:38.696Z",
+                  "videoMediaMetadata": null
+                },
+                {
+                  "id": "1ucGtnRpcemEBpwLxWfQ8PSlVhQp2NGH8",
+                  "name": "1. Video lý thuyết- Giá trị lớn nhất và giá trị nhỏ nhất của hàm số.mp4",
+                  "mimeType": "video/mp4",
+                  "size": 381022044,
+                  "webViewLink": "https://drive.google.com/file/d/1ucGtnRpcemEBpwLxWfQ8PSlVhQp2NGH8/view?usp=drivesdk",
+                  "modifiedTime": "2026-04-21T21:49:35.374Z",
+                  "videoMediaMetadata": {
+                    "width": 1280,
+                    "height": 720,
+                    "durationMillis": "2923533"
+                  }
+                },
+                {
+                  "id": "1uROj5nUkiSXJYo6N7MvzIsuCB-uSeVkU",
+                  "name": "2. Video chữa chi tiết- Bài tập (câu 1-12).mp4",
+                  "mimeType": "video/mp4",
+                  "size": 210669228,
+                  "webViewLink": "https://drive.google.com/file/d/1uROj5nUkiSXJYo6N7MvzIsuCB-uSeVkU/view?usp=drivesdk",
+                  "modifiedTime": "2026-04-21T21:49:37.006Z",
+                  "videoMediaMetadata": {
+                    "width": 1280,
+                    "height": 720,
+                    "durationMillis": "2252733"
+                  }
+                },
+                {
+                  "id": "1rvThvKDpkWauQ6kcbGJT-aT2nBPvJxWh",
+                  "name": "3. Video chữa chi tiết- Bài tập (câu 13-22).mp4",
+                  "mimeType": "video/mp4",
+                  "size": 334718960,
+                  "webViewLink": "https://drive.google.com/file/d/1rvThvKDpkWauQ6kcbGJT-aT2nBPvJxWh/view?usp=drivesdk",
+                  "modifiedTime": "2026-04-21T21:49:33.792Z",
+                  "videoMediaMetadata": {
+                    "width": 1280,
+                    "height": 720,
+                    "durationMillis": "3149099"
+                  }
+                }
+              ]
+            },
+            {
+              "id": "1hNMifC87UUDpawamQDg6C709si9nrrdr",
+              "name": "#4. I104: Ứng dụng đạo hàm giải bài toán tối ưu",
+              "webViewLink": "https://drive.google.com/drive/folders/1hNMifC87UUDpawamQDg6C709si9nrrdr",
+              "modifiedTime": "2026-04-21T21:49:22.693Z",
+              "children": [],
+              "files": [
+                {
+                  "id": "1BdvBJiKr9gWbB_qgEJ9GE-Ahr7BK3Z2X",
+                  "name": "1. File đề - I104 - Bài toán tối ưu hóa.pdf",
+                  "mimeType": "application/pdf",
+                  "size": 771140,
+                  "webViewLink": "https://drive.google.com/file/d/1BdvBJiKr9gWbB_qgEJ9GE-Ahr7BK3Z2X/view?usp=drivesdk",
+                  "modifiedTime": "2026-04-21T21:49:31.102Z",
+                  "videoMediaMetadata": null
+                },
+                {
+                  "id": "1iZd_bAoFOtzOqYsuxhYw2KvCjonxWhIg",
+                  "name": "1. Video bài giảng- Ứng dụng đạo hàm giải bài toán tối ưu.mp4",
+                  "mimeType": "video/mp4",
+                  "size": 635453912,
+                  "webViewLink": "https://drive.google.com/file/d/1iZd_bAoFOtzOqYsuxhYw2KvCjonxWhIg/view?usp=drivesdk",
+                  "modifiedTime": "2026-04-21T21:49:23.626Z",
+                  "videoMediaMetadata": {
+                    "width": 1280,
+                    "height": 720,
+                    "durationMillis": "4251466"
+                  }
+                },
+                {
+                  "id": "1F63YoVR_9kyanVLQlDphyECe53VxfE7w",
+                  "name": "2. Video chữa chi tiết- Bài tập (câu 1-5).mp4",
+                  "mimeType": "video/mp4",
+                  "size": 545560584,
+                  "webViewLink": "https://drive.google.com/file/d/1F63YoVR_9kyanVLQlDphyECe53VxfE7w/view?usp=drivesdk",
+                  "modifiedTime": "2026-04-21T21:49:27.194Z",
+                  "videoMediaMetadata": {
+                    "width": 1280,
+                    "height": 720,
+                    "durationMillis": "3813266"
+                  }
+                },
+                {
+                  "id": "1A0Y8747bhYZjpA2YgyWfFvvsb_3pwbuQ",
+                  "name": "3. Video chữa chi tiết- Bài tập (câu 6-14).mp4",
+                  "mimeType": "video/mp4",
+                  "size": 332386256,
+                  "webViewLink": "https://drive.google.com/file/d/1A0Y8747bhYZjpA2YgyWfFvvsb_3pwbuQ/view?usp=drivesdk",
+                  "modifiedTime": "2026-04-21T21:49:29.124Z",
+                  "videoMediaMetadata": {
+                    "width": 1280,
+                    "height": 720,
+                    "durationMillis": "3086500"
+                  }
+                },
+                {
+                  "id": "18EjNhhvkfGEL0qRMO60M3xHhxxKZ_aWz",
+                  "name": "4. Video chữa chi tiết- Bài tập (câu 15-22).mp4",
+                  "mimeType": "video/mp4",
+                  "size": 511443284,
+                  "webViewLink": "https://drive.google.com/file/d/18EjNhhvkfGEL0qRMO60M3xHhxxKZ_aWz/view?usp=drivesdk",
+                  "modifiedTime": "2026-04-21T21:49:25.365Z",
+                  "videoMediaMetadata": {
+                    "width": 1280,
+                    "height": 720,
+                    "durationMillis": "4481966"
+                  }
+                }
+              ]
+            },
+            {
+              "id": "1bU-Qh2Qe5y5-g-LUVjf1sqH_349G5zBe",
+              "name": "#5. Đề kiểm tra tính đơn điệu và Min Max của hàm số",
+              "webViewLink": "https://drive.google.com/drive/folders/1bU-Qh2Qe5y5-g-LUVjf1sqH_349G5zBe",
+              "modifiedTime": "2026-04-27T15:59:39.926Z",
+              "children": [],
+              "files": [
+                {
+                  "id": "1OoBxTR2ku0lp184o7Sa-RrhbUFKOiQbO",
+                  "name": "1. File đề - Kiểm tra tính đơn điệu và Min Max của hàm số.pdf",
+                  "mimeType": "application/pdf",
+                  "size": 857122,
+                  "webViewLink": "https://drive.google.com/file/d/1OoBxTR2ku0lp184o7Sa-RrhbUFKOiQbO/view?usp=drivesdk",
+                  "modifiedTime": "2026-04-27T15:59:42.378Z",
+                  "videoMediaMetadata": null
+                },
+                {
+                  "id": "15UEtLgSLAUiL-2nam93rBych85UcZM2F",
+                  "name": "Đề kiểm tra tính đơn điệu và Min Max của hàm số.MP4",
+                  "mimeType": "video/mp4",
+                  "size": 354094240,
+                  "webViewLink": "https://drive.google.com/file/d/15UEtLgSLAUiL-2nam93rBych85UcZM2F/view?usp=drivesdk",
+                  "modifiedTime": "2026-04-27T15:59:40.729Z",
+                  "videoMediaMetadata": null
+                }
+              ]
+            },
+            {
+              "id": "17t0E5EbpRKhGG4cj4e3_nrRBl2yTAVRX",
+              "name": "#6. I105: Tiệm cận ngang và đứng của đồ thị hàm số",
+              "webViewLink": "https://drive.google.com/drive/folders/17t0E5EbpRKhGG4cj4e3_nrRBl2yTAVRX",
+              "modifiedTime": "2026-05-05T10:27:08.645Z",
+              "children": [],
+              "files": [
+                {
+                  "id": "1uAZl5GZY1iE5q0otzDjsrTxtHM5TL62s",
+                  "name": "1. Video bài giảng- Tiệm cận ngang và đứng của đồ thị hàm số.MP4",
+                  "mimeType": "video/mp4",
+                  "size": 543903928,
+                  "webViewLink": "https://drive.google.com/file/d/1uAZl5GZY1iE5q0otzDjsrTxtHM5TL62s/view?usp=drivesdk",
+                  "modifiedTime": "2026-05-05T10:27:11.345Z",
+                  "videoMediaMetadata": null
+                },
+                {
+                  "id": "1_APIMW0OqkO1gH-5wRv1CIciDxteVUW8",
+                  "name": "2. Video chữa chi tiết- Bài tập (câu 1-15).MP4",
+                  "mimeType": "video/mp4",
+                  "size": 452752880,
+                  "webViewLink": "https://drive.google.com/file/d/1_APIMW0OqkO1gH-5wRv1CIciDxteVUW8/view?usp=drivesdk",
+                  "modifiedTime": "2026-05-05T10:27:09.658Z",
+                  "videoMediaMetadata": {
+                    "width": 1280,
+                    "height": 720,
+                    "durationMillis": "4607466"
+                  }
+                },
+                {
+                  "id": "1gOh7Q4COa3wg_EC-DAS5FGq-8-31RCbm",
+                  "name": "3. Video chữa chi tiết- Bài tập (câu 16-22).MP4",
+                  "mimeType": "video/mp4",
+                  "size": 157337764,
+                  "webViewLink": "https://drive.google.com/file/d/1gOh7Q4COa3wg_EC-DAS5FGq-8-31RCbm/view?usp=drivesdk",
+                  "modifiedTime": "2026-05-05T10:27:13.069Z",
+                  "videoMediaMetadata": null
+                }
+              ]
+            },
+            {
+              "id": "1PHca2yPVuRjrQFbeZr2bN4zaH860_Qmh",
+              "name": "#7. I106: Tiệm cận xiên của đồ thị hàm số",
+              "webViewLink": "https://drive.google.com/drive/folders/1PHca2yPVuRjrQFbeZr2bN4zaH860_Qmh",
+              "modifiedTime": "2026-05-14T10:54:16.101Z",
+              "children": [],
+              "files": [
+                {
+                  "id": "1vRWn6piuA_wEOmYgCU3xp2nRVAds_7z9",
+                  "name": "1. Video lý thuyết- Tiệm cận xiên của đồ thị hàm số.MP4",
+                  "mimeType": "video/mp4",
+                  "size": 415254964,
+                  "webViewLink": "https://drive.google.com/file/d/1vRWn6piuA_wEOmYgCU3xp2nRVAds_7z9/view?usp=drivesdk",
+                  "modifiedTime": "2026-05-14T10:54:19.329Z",
+                  "videoMediaMetadata": null
+                },
+                {
+                  "id": "1SECFWkv1eXjpV3dU59_7VZvoYs9JZv03",
+                  "name": "2. Video bài tập- Tiệm cận xiên của đồ thị hàm số (Câu 1-18).MP4",
+                  "mimeType": "video/mp4",
+                  "size": 261644300,
+                  "webViewLink": "https://drive.google.com/file/d/1SECFWkv1eXjpV3dU59_7VZvoYs9JZv03/view?usp=drivesdk",
+                  "modifiedTime": "2026-05-14T10:54:22.527Z",
+                  "videoMediaMetadata": null
+                },
+                {
+                  "id": "1P5j4OoXIe8fpBXHmrfOIXx5hhs9hU8O8",
+                  "name": "3. Video bài tập- Tiệm cận xiên của đồ thị hàm số (Câu 19-30).MP4",
+                  "mimeType": "video/mp4",
+                  "size": 270217852,
+                  "webViewLink": "https://drive.google.com/file/d/1P5j4OoXIe8fpBXHmrfOIXx5hhs9hU8O8/view?usp=drivesdk",
+                  "modifiedTime": "2026-05-14T10:54:20.889Z",
+                  "videoMediaMetadata": null
+                },
+                {
+                  "id": "13zJmbWiU0sJtqJfVQJpZ8GgViSQY_H5n",
+                  "name": "Bản viết tay - I107 - Khảo sát hàm số bậc ba.pdf",
+                  "mimeType": "application/pdf",
+                  "size": 6550817,
+                  "webViewLink": "https://drive.google.com/file/d/13zJmbWiU0sJtqJfVQJpZ8GgViSQY_H5n/view?usp=drivesdk",
+                  "modifiedTime": "2026-05-14T10:54:17.697Z",
+                  "videoMediaMetadata": null
+                },
+                {
+                  "id": "16QrBNue8CmSTQtXoghftT6oJU0wrmVe3",
+                  "name": "File đề - I107 - Khảo sát hàm số bậc ba.pdf",
+                  "mimeType": "application/pdf",
+                  "size": 511106,
+                  "webViewLink": "https://drive.google.com/file/d/16QrBNue8CmSTQtXoghftT6oJU0wrmVe3/view?usp=drivesdk",
+                  "modifiedTime": "2026-05-25T10:00:36.573Z",
+                  "videoMediaMetadata": null
+                }
+              ]
+            },
+            {
+              "id": "1GgR8UqH4jZj0rkoi3oJkQUEJ6fGg7nAr",
+              "name": "#8. I107: Khảo sát hàm số bậc ba",
+              "webViewLink": "https://drive.google.com/drive/folders/1GgR8UqH4jZj0rkoi3oJkQUEJ6fGg7nAr",
+              "modifiedTime": "2026-05-14T10:54:07.743Z",
+              "children": [],
+              "files": [
+                {
+                  "id": "1Zwg623IChIlx0ZERHvZAvapNUIuuWRcq",
+                  "name": "1. Video bài giảng- Khảo sát hàm số bậc ba.MP4",
+                  "mimeType": "video/mp4",
+                  "size": 579079480,
+                  "webViewLink": "https://drive.google.com/file/d/1Zwg623IChIlx0ZERHvZAvapNUIuuWRcq/view?usp=drivesdk",
+                  "modifiedTime": "2026-05-14T10:54:10.839Z",
+                  "videoMediaMetadata": null
+                },
+                {
+                  "id": "1eusl1brd1Phkb_exa5KWP1A-Ixp7XhHL",
+                  "name": "2. Video chữa chi tiết- Bài tập (câu 1-14).MP4",
+                  "mimeType": "video/mp4",
+                  "size": 385376124,
+                  "webViewLink": "https://drive.google.com/file/d/1eusl1brd1Phkb_exa5KWP1A-Ixp7XhHL/view?usp=drivesdk",
+                  "modifiedTime": "2026-05-14T10:54:12.455Z",
+                  "videoMediaMetadata": null
+                },
+                {
+                  "id": "19dvsKWJi9Se_UyHLckG66voMu5Z0OHqb",
+                  "name": "3. Video chữa chi tiết- Bài tập (câu 15-22).MP4",
+                  "mimeType": "video/mp4",
+                  "size": 206069996,
+                  "webViewLink": "https://drive.google.com/file/d/19dvsKWJi9Se_UyHLckG66voMu5Z0OHqb/view?usp=drivesdk",
+                  "modifiedTime": "2026-05-14T10:54:13.956Z",
+                  "videoMediaMetadata": null
+                },
+                {
+                  "id": "1KpnIcKk0kWoj4y9BcqCxzT-44-NcoSoD",
+                  "name": "File đề - I107 - Khảo sát hàm số bậc ba.pdf",
+                  "mimeType": "application/pdf",
+                  "size": 619920,
+                  "webViewLink": "https://drive.google.com/file/d/1KpnIcKk0kWoj4y9BcqCxzT-44-NcoSoD/view?usp=drivesdk",
+                  "modifiedTime": "2026-05-14T10:54:09.221Z",
+                  "videoMediaMetadata": null
+                }
+              ]
+            },
+            {
+              "id": "1wZUiZBTeGbS-UZcl9pzUtkzcJPNOEZE9",
+              "name": "#9. I108: Khảo sát hàm số phân thức bậc nhất",
+              "webViewLink": "https://drive.google.com/drive/folders/1wZUiZBTeGbS-UZcl9pzUtkzcJPNOEZE9",
+              "modifiedTime": "2026-05-14T10:53:58.628Z",
+              "children": [],
+              "files": [
+                {
+                  "id": "15OMT2nN8VOiknJXLURkeCYpEaxfCrk-T",
+                  "name": "1. Video bài giảng- Khảo sát hàm số phân thức bậc nhất.MP4",
+                  "mimeType": "video/mp4",
+                  "size": 755230780,
+                  "webViewLink": "https://drive.google.com/file/d/15OMT2nN8VOiknJXLURkeCYpEaxfCrk-T/view?usp=drivesdk",
+                  "modifiedTime": "2026-05-14T10:54:00.126Z",
+                  "videoMediaMetadata": {
+                    "width": 1280,
+                    "height": 720,
+                    "durationMillis": "5492633"
+                  }
+                },
+                {
+                  "id": "1aVfpR31uWOLp3rDJnbjHvszSZtxa-D4j",
+                  "name": "2. Video bài tập minh hoạ.MP4",
+                  "mimeType": "video/mp4",
+                  "size": 127900912,
+                  "webViewLink": "https://drive.google.com/file/d/1aVfpR31uWOLp3rDJnbjHvszSZtxa-D4j/view?usp=drivesdk",
+                  "modifiedTime": "2026-05-14T10:54:05.053Z",
+                  "videoMediaMetadata": {
+                    "width": 1280,
+                    "height": 720,
+                    "durationMillis": "1111366"
+                  }
+                },
+                {
+                  "id": "1zE3MSZ-dwSt1zivcIlkeEE-zg4XjUQCU",
+                  "name": "3. Video chữa chi tiết- Bài tập (câu 1-10).MP4",
+                  "mimeType": "video/mp4",
+                  "size": 127277316,
+                  "webViewLink": "https://drive.google.com/file/d/1zE3MSZ-dwSt1zivcIlkeEE-zg4XjUQCU/view?usp=drivesdk",
+                  "modifiedTime": "2026-05-14T10:54:03.265Z",
+                  "videoMediaMetadata": {
+                    "width": 1280,
+                    "height": 720,
+                    "durationMillis": "1441700"
+                  }
+                },
+                {
+                  "id": "1fFXWNtPAo3Sgqps3Z_2YFk6xwkdmKczK",
+                  "name": "4. Video bài giảng- Khảo sát và vẽ đồ thị hàm phân thức bậc hai trên bậc nhất.MP4",
+                  "mimeType": "video/mp4",
+                  "size": 299989532,
+                  "webViewLink": "https://drive.google.com/file/d/1fFXWNtPAo3Sgqps3Z_2YFk6xwkdmKczK/view?usp=drivesdk",
+                  "modifiedTime": "2026-05-25T10:00:35.526Z",
+                  "videoMediaMetadata": {
+                    "width": 1280,
+                    "height": 720,
+                    "durationMillis": "2982833"
+                  }
+                },
+                {
+                  "id": "1xrBuL7A9hb6Xa-9SJCajiFZMad9L28x_",
+                  "name": "5. Video chữa chi tiết- Bài tập khảo sát hàm số phân thức bậc hai trên bậc nhất (câu 1-12).MP4",
+                  "mimeType": "video/mp4",
+                  "size": 328273756,
+                  "webViewLink": "https://drive.google.com/file/d/1xrBuL7A9hb6Xa-9SJCajiFZMad9L28x_/view?usp=drivesdk",
+                  "modifiedTime": "2026-05-25T10:00:35.514Z",
+                  "videoMediaMetadata": null
+                },
+                {
+                  "id": "1GnGo342uzNTB6IqE0pNg6z8thpcYM11y",
+                  "name": "6. Video chữa chi tiết- Bài tập khảo sát hàm số phân thức bậc hai trên bậc nhất (câu 13-17).MP4",
+                  "mimeType": "video/mp4",
+                  "size": 274404988,
+                  "webViewLink": "https://drive.google.com/file/d/1GnGo342uzNTB6IqE0pNg6z8thpcYM11y/view?usp=drivesdk",
+                  "modifiedTime": "2026-05-25T10:00:35.514Z",
+                  "videoMediaMetadata": null
+                },
+                {
+                  "id": "18thNHZbsG4oz8Tvu8G0jFcFtZRji546p",
+                  "name": "Bản viết tay - I108 - Khảo sát hàm số phân thức bậc nhất.pdf",
+                  "mimeType": "application/pdf",
+                  "size": 2859360,
+                  "webViewLink": "https://drive.google.com/file/d/18thNHZbsG4oz8Tvu8G0jFcFtZRji546p/view?usp=drivesdk",
+                  "modifiedTime": "2026-05-14T10:54:01.725Z",
+                  "videoMediaMetadata": null
+                },
+                {
+                  "id": "1hLUaXDOldhg7mPyZLQD0VwAZlrCym3Pq",
+                  "name": "File bài tập - I108 - Khảo sát hàm số phân thức bậc hai trên bậc nhất.pdf",
+                  "mimeType": "application/pdf",
+                  "size": 666859,
+                  "webViewLink": "https://drive.google.com/file/d/1hLUaXDOldhg7mPyZLQD0VwAZlrCym3Pq/view?usp=drivesdk",
+                  "modifiedTime": "2026-05-25T10:00:35.510Z",
+                  "videoMediaMetadata": null
+                },
+                {
+                  "id": "18U2JJkoCoJ2LyZRuJ5Xj__8mGEz4BSdZ",
+                  "name": "File bài tập - I108 - Khảo sát hàm số phân thức bậc nhất.pdf",
+                  "mimeType": "application/pdf",
+                  "size": 496923,
+                  "webViewLink": "https://drive.google.com/file/d/18U2JJkoCoJ2LyZRuJ5Xj__8mGEz4BSdZ/view?usp=drivesdk",
+                  "modifiedTime": "2026-05-25T10:00:35.559Z",
+                  "videoMediaMetadata": null
+                },
+                {
+                  "id": "1-YcosfYyLQmvGeh_hX2zXXud58L0U0oq",
+                  "name": "File lí thuyết - I108 - Khảo sát hàm số phân thức bậc hai trên bậc nhất.pdf",
+                  "mimeType": "application/pdf",
+                  "size": 637255,
+                  "webViewLink": "https://drive.google.com/file/d/1-YcosfYyLQmvGeh_hX2zXXud58L0U0oq/view?usp=drivesdk",
+                  "modifiedTime": "2026-05-25T10:00:35.513Z",
+                  "videoMediaMetadata": null
+                }
+              ]
+            }
+          ],
+          "files": []
+        }
+      ],
+      "files": [],
+      "webViewLink": "https://drive.google.com/drive/folders/1TnT-Tiv9Z8wGt-lGCZNyZ-LrhR2Mf0QI",
+      "modifiedTime": "2026-04-17T16:23:48.591Z"
+    },
+    {
+      "id": "18lOkzLjsWears5jLwUBD12atuIWw3WOC",
+      "name": "2. LIVE M TOÁN THỰC TẾ NÂNG CAO VÀ TỔNG ÔN CHỦ ĐỀ TRỌNG TÂM TOÁN 10 11",
+      "children": [],
+      "files": [],
+      "webViewLink": "https://drive.google.com/drive/folders/18lOkzLjsWears5jLwUBD12atuIWw3WOC",
+      "modifiedTime": "2026-04-17T16:23:48.591Z"
+    },
+    {
+      "id": "1FLLF8-ANPzN-6uZcAYyeS2eBnDURx_95",
+      "name": "3. LIVE O THỰC CHIẾN LUYỆN ĐỀ THPT",
+      "children": [],
+      "files": [],
+      "webViewLink": "https://drive.google.com/drive/folders/1FLLF8-ANPzN-6uZcAYyeS2eBnDURx_95",
+      "modifiedTime": "2026-04-17T16:23:48.591Z"
+    },
+    {
+      "id": "1fMoLJiqrmrkEu-hG-pEVRC-0NgqbrFwr",
+      "name": "4. LIVE E TỔNG ÔN TRỌNG ĐIỂM",
+      "children": [],
+      "files": [],
+      "webViewLink": "https://drive.google.com/drive/folders/1fMoLJiqrmrkEu-hG-pEVRC-0NgqbrFwr",
+      "modifiedTime": "2026-04-17T16:23:48.591Z"
+    },
+    {
+      "id": "1CHM8D4BsmtYyx4kqSQs2xUb3jpi4GXEU",
+      "name": "Z. EBOOK SÁCH KÈM KHOÁ HỌC",
+      "children": [],
+      "files": [],
+      "webViewLink": "https://drive.google.com/drive/folders/1CHM8D4BsmtYyx4kqSQs2xUb3jpi4GXEU",
+      "modifiedTime": "2026-04-17T16:23:48.591Z"
+    }
+  ]
+}

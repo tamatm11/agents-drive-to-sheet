@@ -1,0 +1,1961 @@
+{
+  "crawledAt": "2026-05-30T02:13:50.935Z",
+  "teacher": {
+    "id": "1UwppV7DHqOBiDQYYBZhVful_NVhkAaf-",
+    "name": "3. CÁC KHOÁ V-ACT ĐÁNH GIÁ NĂNG LỰC TP.HCM 2027",
+    "modifiedTime": "2026-04-21T22:39:06.860Z",
+    "webViewLink": "https://drive.google.com/drive/folders/1UwppV7DHqOBiDQYYBZhVful_NVhkAaf-"
+  },
+  "courses": [
+    {
+      "id": "1lS6P2bcOV1LHI3R-evpbRknvwLqS7v8l",
+      "name": "1. V-ACT HOCMAI 2K9 LUYỆN THI ĐGNL TP.HCM 2027",
+      "children": [
+        {
+          "id": "1iaazA_AhzPYzxHnu28NMW3sZaBSOPfT6",
+          "name": "0. INFO THÔNG TIN VÀ HƯỚNG DẪN KHOÁ HỌC",
+          "webViewLink": "https://drive.google.com/drive/folders/1iaazA_AhzPYzxHnu28NMW3sZaBSOPfT6",
+          "modifiedTime": "2026-04-19T23:14:57.270Z",
+          "children": [],
+          "files": []
+        },
+        {
+          "id": "1dhiboiweB_KOsW7vSgZKJwdjAks0_7mX",
+          "name": "1. GIAI ĐOẠN 1: TOPUNI NỀN TẢNG",
+          "webViewLink": "https://drive.google.com/drive/folders/1dhiboiweB_KOsW7vSgZKJwdjAks0_7mX",
+          "modifiedTime": "2026-04-19T23:14:55.252Z",
+          "children": [],
+          "files": [
+            {
+              "id": "1wyRDTeDyO911IPjdN8LaCQfkiajx5BIX",
+              "name": "CHƯƠNG TRÌNH NỀN TẢNG LỚP 12 HOCMAI CÁC MÔN - DauTruongHocTap.io.vn 🔥",
+              "mimeType": "application/vnd.google-apps.shortcut",
+              "size": 0,
+              "webViewLink": "https://drive.google.com/file/d/1wyRDTeDyO911IPjdN8LaCQfkiajx5BIX/view?usp=drivesdk",
+              "modifiedTime": "2026-05-29T12:12:07.050Z",
+              "videoMediaMetadata": null
+            }
+          ]
+        },
+        {
+          "id": "1cSX0ztZkXAAoTA1-P2tvdtJdJhWiL_Bz",
+          "name": "2. GIAI ĐOẠN 2: TOPUNI TỔNG ÔN",
+          "webViewLink": "https://drive.google.com/drive/folders/1cSX0ztZkXAAoTA1-P2tvdtJdJhWiL_Bz",
+          "modifiedTime": "2026-04-19T23:14:54.647Z",
+          "children": [],
+          "files": []
+        },
+        {
+          "id": "105FTVclwqNxheFVHpOTq-WNoVF1WRVHI",
+          "name": "3. GIAI ĐOẠN 3: TOPUNI LUYỆN ĐỀ",
+          "webViewLink": "https://drive.google.com/drive/folders/105FTVclwqNxheFVHpOTq-WNoVF1WRVHI",
+          "modifiedTime": "2026-04-19T23:14:54.026Z",
+          "children": [],
+          "files": []
+        },
+        {
+          "id": "1nfT2Osy7APWluDgTiI5bHNuwCLD_I_yA",
+          "name": "Z. EBOOK SÁCH KÈM KHOÁ HỌC",
+          "webViewLink": "https://drive.google.com/drive/folders/1nfT2Osy7APWluDgTiI5bHNuwCLD_I_yA",
+          "modifiedTime": "2026-04-19T23:14:57.896Z",
+          "children": [],
+          "files": []
+        }
+      ],
+      "files": [
+        {
+          "id": "1KYOlMKkSu4Nn3rnUocerrmsGhIE0QjKe_iDbsf4A1ds",
+          "name": "V-ACT HOCMAI 2K9 LUYỆN THI ĐGNL TP.HCM 2027 - Giải pháp toàn diện V-ACT",
+          "mimeType": "application/vnd.google-apps.spreadsheet",
+          "size": 567866,
+          "webViewLink": "https://docs.google.com/spreadsheets/d/1KYOlMKkSu4Nn3rnUocerrmsGhIE0QjKe_iDbsf4A1ds/edit?usp=drivesdk",
+          "modifiedTime": "2026-05-29T12:11:36.152Z",
+          "videoMediaMetadata": null
+        }
+      ],
+      "webViewLink": "https://drive.google.com/drive/folders/1lS6P2bcOV1LHI3R-evpbRknvwLqS7v8l",
+      "modifiedTime": "2026-04-15T13:46:59.122Z"
+    },
+    {
+      "id": "1RXZShdTjMpn8NMY9JZbu0SWvHbibx0XE",
+      "name": "2. V-ACT 2K9 EMPIRE TEAM LUYỆN THI ĐGNL TP.HCM 2027",
+      "children": [
+        {
+          "id": "1rXV3V0MbrobSpD-A4rvhifQoGBiuKGfZ",
+          "name": "0. INFO THÔNG TIN VÀ HƯỚNG DẪN KHOÁ HỌC",
+          "webViewLink": "https://drive.google.com/drive/folders/1rXV3V0MbrobSpD-A4rvhifQoGBiuKGfZ",
+          "modifiedTime": "2026-04-19T23:14:52.295Z",
+          "children": [],
+          "files": []
+        },
+        {
+          "id": "19ED4PltrhVIUIY4yiayOtVIDVzbBz-sD",
+          "name": "Z. EBOOK SÁCH KÈM KHOÁ HỌC",
+          "webViewLink": "https://drive.google.com/drive/folders/19ED4PltrhVIUIY4yiayOtVIDVzbBz-sD",
+          "modifiedTime": "2026-04-19T23:14:52.934Z",
+          "children": [],
+          "files": []
+        },
+        {
+          "id": "1ONFZxeo7kUtB8EhiznhQKLalqyJF6gi0",
+          "name": "Z.BONUS HỖ TRỢ ÔN THI HK2 LỚP 11 2K9",
+          "webViewLink": "https://drive.google.com/drive/folders/1ONFZxeo7kUtB8EhiznhQKLalqyJF6gi0",
+          "modifiedTime": "2026-04-19T23:14:51.603Z",
+          "children": [
+            {
+              "id": "1Nlw7g797_IiF9W_qK0L0FJvuPNNu-nKV",
+              "name": "HỖ TRỢ ÔN THI HK2 11 2K9",
+              "webViewLink": "https://drive.google.com/drive/folders/1Nlw7g797_IiF9W_qK0L0FJvuPNNu-nKV",
+              "modifiedTime": "2026-04-27T15:59:05.569Z",
+              "children": [
+                {
+                  "id": "1MyDwIN_I5i4PGbujkaKlb4QaNXVGaUC5",
+                  "name": "0.TỔNG HỢP TÀI LIỆU",
+                  "webViewLink": "https://drive.google.com/drive/folders/1MyDwIN_I5i4PGbujkaKlb4QaNXVGaUC5",
+                  "modifiedTime": "2026-04-27T15:59:06.855Z",
+                  "children": [
+                    {
+                      "id": "1mbvRfcL-P980kgXkUyjhiYPQJqjEbv16",
+                      "name": "ÔN THI HKII",
+                      "webViewLink": "https://drive.google.com/drive/folders/1mbvRfcL-P980kgXkUyjhiYPQJqjEbv16",
+                      "modifiedTime": "2026-04-27T15:59:07.599Z",
+                      "children": [
+                        {
+                          "id": "1U0m6gsvOvTba4gQjAlJ5Df_PTB_9ozpO",
+                          "name": "HÓA HỌC",
+                          "webViewLink": "https://drive.google.com/drive/folders/1U0m6gsvOvTba4gQjAlJ5Df_PTB_9ozpO",
+                          "modifiedTime": "2026-04-27T15:59:12.849Z",
+                          "children": [],
+                          "files": [
+                            {
+                              "id": "1jm5f3J9rtYn-7hINmZQbyOAHT_uFlRZc",
+                              "name": "(12_4) HÓA ĐỀ 1 - ÔN THI HỌC KÌ II.pdf",
+                              "mimeType": "application/pdf",
+                              "size": 779141,
+                              "webViewLink": "https://drive.google.com/file/d/1jm5f3J9rtYn-7hINmZQbyOAHT_uFlRZc/view?usp=drivesdk",
+                              "modifiedTime": "2026-04-27T15:59:17.284Z",
+                              "videoMediaMetadata": null
+                            },
+                            {
+                              "id": "179YeIY2dW3ncdBuVXiJ5kVLUk3G2ORJj",
+                              "name": "(19_4) HÓA ĐỀ 2 - ÔN THI HỌC KÌ II.pdf",
+                              "mimeType": "application/pdf",
+                              "size": 1036192,
+                              "webViewLink": "https://drive.google.com/file/d/179YeIY2dW3ncdBuVXiJ5kVLUk3G2ORJj/view?usp=drivesdk",
+                              "modifiedTime": "2026-04-27T15:59:13.699Z",
+                              "videoMediaMetadata": null
+                            },
+                            {
+                              "id": "1jQzzwpX2sFVdECEiLMoSeCOEam0CV8vl",
+                              "name": "(25_4) ÔN THI HK2 -HÓA.pdf",
+                              "mimeType": "application/pdf",
+                              "size": 1134373,
+                              "webViewLink": "https://drive.google.com/file/d/1jQzzwpX2sFVdECEiLMoSeCOEam0CV8vl/view?usp=drivesdk",
+                              "modifiedTime": "2026-04-27T15:59:15.773Z",
+                              "videoMediaMetadata": null
+                            }
+                          ]
+                        },
+                        {
+                          "id": "1xCp07ebw_rMSEvJlMOcOtx_5ZFXK69c-",
+                          "name": "NGỮ VĂN",
+                          "webViewLink": "https://drive.google.com/drive/folders/1xCp07ebw_rMSEvJlMOcOtx_5ZFXK69c-",
+                          "modifiedTime": "2026-04-27T16:00:22.420Z",
+                          "children": [],
+                          "files": [
+                            {
+                              "id": "18hg18a4OkHv-bWrIu4aGcRZk_QCmi78O",
+                              "name": "(11_4) ĐỀ ÔN THI HỌC KÌ II LỚP 11 MÔN NGỮ VĂN - ĐỀ SỐ 1.pdf",
+                              "mimeType": "application/pdf",
+                              "size": 377435,
+                              "webViewLink": "https://drive.google.com/file/d/18hg18a4OkHv-bWrIu4aGcRZk_QCmi78O/view?usp=drivesdk",
+                              "modifiedTime": "2026-04-27T16:00:27.778Z",
+                              "videoMediaMetadata": null
+                            },
+                            {
+                              "id": "1TQprUVoc2apIVOeGqvA9ltvW42jap6-z",
+                              "name": "(12_4) ĐỀ ÔN THI HỌC KÌ II LỚP 11 MÔN NGỮ VĂN - ĐỀ SỐ 2.pdf",
+                              "mimeType": "application/pdf",
+                              "size": 351244,
+                              "webViewLink": "https://drive.google.com/file/d/1TQprUVoc2apIVOeGqvA9ltvW42jap6-z/view?usp=drivesdk",
+                              "modifiedTime": "2026-04-27T16:00:24.720Z",
+                              "videoMediaMetadata": null
+                            },
+                            {
+                              "id": "1cCHTA2gxPr1pR6UNcD-HVTwklRU8Gl4c",
+                              "name": "(18_4) ĐỀ ÔN THI HỌC KÌ II LỚP 11 MÔN NGỮ VĂN - ĐỀ SỐ 3.pdf",
+                              "mimeType": "application/pdf",
+                              "size": 450724,
+                              "webViewLink": "https://drive.google.com/file/d/1cCHTA2gxPr1pR6UNcD-HVTwklRU8Gl4c/view?usp=drivesdk",
+                              "modifiedTime": "2026-04-27T16:00:23.126Z",
+                              "videoMediaMetadata": null
+                            },
+                            {
+                              "id": "1lnX2kox3RkT43NGNYAXyveMCmjSLnSJL",
+                              "name": "(19_4) ĐỀ ÔN THI HỌC KÌ II LỚP 11 MÔN NGỮ VĂN - ĐỀ SỐ 4.pdf",
+                              "mimeType": "application/pdf",
+                              "size": 426732,
+                              "webViewLink": "https://drive.google.com/file/d/1lnX2kox3RkT43NGNYAXyveMCmjSLnSJL/view?usp=drivesdk",
+                              "modifiedTime": "2026-04-27T16:00:26.258Z",
+                              "videoMediaMetadata": null
+                            }
+                          ]
+                        },
+                        {
+                          "id": "11wf2APB3czbTBntiSwR7yCdr6e3nZkZX",
+                          "name": "SINH HỌC",
+                          "webViewLink": "https://drive.google.com/drive/folders/11wf2APB3czbTBntiSwR7yCdr6e3nZkZX",
+                          "modifiedTime": "2026-04-27T15:59:19.034Z",
+                          "children": [],
+                          "files": [
+                            {
+                              "id": "137XosM6hUYb5maqJFlxvEBjjdkGa7GRs",
+                              "name": "(10_4) ÔN THI HK2 - TRẮC NGHIỆM_(DE).pdf",
+                              "mimeType": "application/pdf",
+                              "size": 1016989,
+                              "webViewLink": "https://drive.google.com/file/d/137XosM6hUYb5maqJFlxvEBjjdkGa7GRs/view?usp=drivesdk",
+                              "modifiedTime": "2026-04-27T15:59:25.210Z",
+                              "videoMediaMetadata": null
+                            },
+                            {
+                              "id": "1vIHrm57nSsz5tCUWZYWP-PqEoK38UqOS",
+                              "name": "(17_4) ÔN THI HK2 - ĐÚNG SAI_(DE).pdf",
+                              "mimeType": "application/pdf",
+                              "size": 1226919,
+                              "webViewLink": "https://drive.google.com/file/d/1vIHrm57nSsz5tCUWZYWP-PqEoK38UqOS/view?usp=drivesdk",
+                              "modifiedTime": "2026-04-27T15:59:21.588Z",
+                              "videoMediaMetadata": null
+                            },
+                            {
+                              "id": "1m77U4knGbmaErh8hiTMl6DcUK_52gOKY",
+                              "name": "(23_4) ÔN THI HK2 - BUỔI 1.pdf",
+                              "mimeType": "application/pdf",
+                              "size": 1069439,
+                              "webViewLink": "https://drive.google.com/file/d/1m77U4knGbmaErh8hiTMl6DcUK_52gOKY/view?usp=drivesdk",
+                              "modifiedTime": "2026-04-27T15:59:23.334Z",
+                              "videoMediaMetadata": null
+                            },
+                            {
+                              "id": "1N1txfrTHM2fu-jqc6SNLg8gTeZ-IqbwQ",
+                              "name": "(24_4) ÔN THI HK2 - BUỔI 2.pdf",
+                              "mimeType": "application/pdf",
+                              "size": 954308,
+                              "webViewLink": "https://drive.google.com/file/d/1N1txfrTHM2fu-jqc6SNLg8gTeZ-IqbwQ/view?usp=drivesdk",
+                              "modifiedTime": "2026-04-27T15:59:19.763Z",
+                              "videoMediaMetadata": null
+                            }
+                          ]
+                        },
+                        {
+                          "id": "1fcVu4nJXI63UnEM-Mxcv4rhDJXiis4aq",
+                          "name": "TIẾNG ANH",
+                          "webViewLink": "https://drive.google.com/drive/folders/1fcVu4nJXI63UnEM-Mxcv4rhDJXiis4aq",
+                          "modifiedTime": "2026-04-27T15:59:30.462Z",
+                          "children": [],
+                          "files": [
+                            {
+                              "id": "14umslNmWCN9cB9DAqsPOhrM6PrPqGp6U",
+                              "name": "(14_4) ÔN TẬP HK 2 TIẾNG ANH 11 - BUỔI 3.pdf",
+                              "mimeType": "application/pdf",
+                              "size": 1081831,
+                              "webViewLink": "https://drive.google.com/file/d/14umslNmWCN9cB9DAqsPOhrM6PrPqGp6U/view?usp=drivesdk",
+                              "modifiedTime": "2026-04-27T15:59:42.308Z",
+                              "videoMediaMetadata": null
+                            },
+                            {
+                              "id": "1uwKbWRpyXqvgqDsnZg_y67oY2moeuVNc",
+                              "name": "(16_4) ĐỀ SỐ 1 - THPT TIẾNG ANH.pdf",
+                              "mimeType": "application/pdf",
+                              "size": 763592,
+                              "webViewLink": "https://drive.google.com/file/d/1uwKbWRpyXqvgqDsnZg_y67oY2moeuVNc/view?usp=drivesdk",
+                              "modifiedTime": "2026-04-27T15:59:39.321Z",
+                              "videoMediaMetadata": null
+                            },
+                            {
+                              "id": "1LzsdoAhGMlRLazP3OaIIwdeljjd_aVV_",
+                              "name": "(28_4) ĐỀ ÔN HK2 TA 11 FORM THPT - ĐỀ SỐ 2.pdf",
+                              "mimeType": "application/pdf",
+                              "size": 775991,
+                              "webViewLink": "https://drive.google.com/file/d/1LzsdoAhGMlRLazP3OaIIwdeljjd_aVV_/view?usp=drivesdk",
+                              "modifiedTime": "2026-04-27T15:59:40.772Z",
+                              "videoMediaMetadata": null
+                            },
+                            {
+                              "id": "1fnJXf0mxXZgi5zUxrg7P1Td9FP_mw0K1",
+                              "name": "(5_5) ĐỀ ÔN HK2 TA 11 FORM THPT - ĐỀ SỐ 3.pdf",
+                              "mimeType": "application/pdf",
+                              "size": 747744,
+                              "webViewLink": "https://drive.google.com/file/d/1fnJXf0mxXZgi5zUxrg7P1Td9FP_mw0K1/view?usp=drivesdk",
+                              "modifiedTime": "2026-04-27T15:59:32.866Z",
+                              "videoMediaMetadata": null
+                            },
+                            {
+                              "id": "10DvqU3W8K9yOGD3MDFRFnvFHRD6AkV3C",
+                              "name": "(7_4) ÔN TẬP HK 2 TIẾNG ANH 11 - BUỔI 1.pdf",
+                              "mimeType": "application/pdf",
+                              "size": 1091975,
+                              "webViewLink": "https://drive.google.com/file/d/10DvqU3W8K9yOGD3MDFRFnvFHRD6AkV3C/view?usp=drivesdk",
+                              "modifiedTime": "2026-04-27T15:59:34.686Z",
+                              "videoMediaMetadata": null
+                            },
+                            {
+                              "id": "1bUbKpG9a8Gz-tv5vTDEpjyDN8ROGnA4p",
+                              "name": "(9_4) ÔN TẬP HK 2 TIẾNG ANH 11 - BUỔI 2.pdf",
+                              "mimeType": "application/pdf",
+                              "size": 1450892,
+                              "webViewLink": "https://drive.google.com/file/d/1bUbKpG9a8Gz-tv5vTDEpjyDN8ROGnA4p/view?usp=drivesdk",
+                              "modifiedTime": "2026-04-27T15:59:36.386Z",
+                              "videoMediaMetadata": null
+                            },
+                            {
+                              "id": "1970gCZiLqno8UzyHygsG3WoIchLHiGaX",
+                              "name": "HANDOUT- ÔN TẬP HK 2 TIẾNG ANH 11 - BUỔI 1.pdf",
+                              "mimeType": "application/pdf",
+                              "size": 7568003,
+                              "webViewLink": "https://drive.google.com/file/d/1970gCZiLqno8UzyHygsG3WoIchLHiGaX/view?usp=drivesdk",
+                              "modifiedTime": "2026-04-27T15:59:31.509Z",
+                              "videoMediaMetadata": null
+                            },
+                            {
+                              "id": "1gPx6eeLxxqjJDn-MKEQEyW2bgpbpgq6n",
+                              "name": "HANDOUT- ÔN TẬP HK 2 TIẾNG ANH 11 - BUỔI 2.pdf",
+                              "mimeType": "application/pdf",
+                              "size": 16657594,
+                              "webViewLink": "https://drive.google.com/file/d/1gPx6eeLxxqjJDn-MKEQEyW2bgpbpgq6n/view?usp=drivesdk",
+                              "modifiedTime": "2026-04-27T15:59:37.963Z",
+                              "videoMediaMetadata": null
+                            }
+                          ]
+                        },
+                        {
+                          "id": "1sPG5bu9P21aOAU5xBlZTwwh3ZoLDXzCi",
+                          "name": "TOÁN HỌC",
+                          "webViewLink": "https://drive.google.com/drive/folders/1sPG5bu9P21aOAU5xBlZTwwh3ZoLDXzCi",
+                          "modifiedTime": "2026-04-27T15:59:43.763Z",
+                          "children": [],
+                          "files": [
+                            {
+                              "id": "1bHG8aQNMZhCqK58vQFfUBfPiwWYhsNIM",
+                              "name": "(13_4) ĐỀ SỐ 1 - HK2 - LỚP 11 - TOÁN HỌC.pdf",
+                              "mimeType": "application/pdf",
+                              "size": 770817,
+                              "webViewLink": "https://drive.google.com/file/d/1bHG8aQNMZhCqK58vQFfUBfPiwWYhsNIM/view?usp=drivesdk",
+                              "modifiedTime": "2026-04-27T16:00:18.518Z",
+                              "videoMediaMetadata": null
+                            },
+                            {
+                              "id": "1jNmrKNq2PfbK9O6QibKE7VsO4zFm914J",
+                              "name": "(14_4) ĐỀ SỐ 2 - HK2 - LỚP 11 - TOÁN HỌC.pdf",
+                              "mimeType": "application/pdf",
+                              "size": 761106,
+                              "webViewLink": "https://drive.google.com/file/d/1jNmrKNq2PfbK9O6QibKE7VsO4zFm914J/view?usp=drivesdk",
+                              "modifiedTime": "2026-04-27T16:00:13.503Z",
+                              "videoMediaMetadata": null
+                            },
+                            {
+                              "id": "1RgNw8lAdvG9eCRjp7TYlebDWSKn6JUTn",
+                              "name": "(15_4) ĐỀ SỐ 3 - HK2 - LỚP 11 - TOÁN HỌC.pdf",
+                              "mimeType": "application/pdf",
+                              "size": 695402,
+                              "webViewLink": "https://drive.google.com/file/d/1RgNw8lAdvG9eCRjp7TYlebDWSKn6JUTn/view?usp=drivesdk",
+                              "modifiedTime": "2026-04-27T16:00:17.097Z",
+                              "videoMediaMetadata": null
+                            },
+                            {
+                              "id": "16TJ-eRTNuOunVSx2gj10W21_sXnQNvgw",
+                              "name": "(16_4) ĐỀ SỐ 4 - HK2 - LỚP 11 - TOÁN HỌC.pdf",
+                              "mimeType": "application/pdf",
+                              "size": 683521,
+                              "webViewLink": "https://drive.google.com/file/d/16TJ-eRTNuOunVSx2gj10W21_sXnQNvgw/view?usp=drivesdk",
+                              "modifiedTime": "2026-04-27T16:00:15.117Z",
+                              "videoMediaMetadata": null
+                            },
+                            {
+                              "id": "1yi0_lj9-7AVDfWVvMAjhcVl2Ok86u3Qb",
+                              "name": "(22_4) TỔNG ÔN CHUYÊN ĐỀ GIỚI HẠN P1.pdf",
+                              "mimeType": "application/pdf",
+                              "size": 1149813,
+                              "webViewLink": "https://drive.google.com/file/d/1yi0_lj9-7AVDfWVvMAjhcVl2Ok86u3Qb/view?usp=drivesdk",
+                              "modifiedTime": "2026-04-27T16:00:20.161Z",
+                              "videoMediaMetadata": null
+                            },
+                            {
+                              "id": "1tkPKw5NkTFuXA0AxOHZPx8gZGq_Yvjm8",
+                              "name": "(25_4 & 26_4) CHỦ ĐỀ 1.2. GIỚI HẠN CỦA HÀM SỐ.pdf",
+                              "mimeType": "application/pdf",
+                              "size": 1120524,
+                              "webViewLink": "https://drive.google.com/file/d/1tkPKw5NkTFuXA0AxOHZPx8gZGq_Yvjm8/view?usp=drivesdk",
+                              "modifiedTime": "2026-04-27T16:00:11.866Z",
+                              "videoMediaMetadata": null
+                            },
+                            {
+                              "id": "1i-R34p4ysKlLLnX8BIV56yulmVbfdQlK",
+                              "name": "(27_4 & 28_4) CHỦ ĐỀ 1.3. HÀM SỐ LIÊN TỤC - HANDOUT.pdf",
+                              "mimeType": "application/pdf",
+                              "size": 1754031,
+                              "webViewLink": "https://drive.google.com/file/d/1i-R34p4ysKlLLnX8BIV56yulmVbfdQlK/view?usp=drivesdk",
+                              "modifiedTime": "2026-04-27T16:00:01.588Z",
+                              "videoMediaMetadata": null
+                            },
+                            {
+                              "id": "1PXWeAV4hDih5YACSS9pVnrSND57k4jOo",
+                              "name": "(27_4 & 28_4)CHỦ ĐỀ 2.1 HAI ĐƯỜNG THẲNG VUÔNG GÓC, GÓC GIỮA 2 ĐƯỜNG THẲNG - HANDOUT.pdf",
+                              "mimeType": "application/pdf",
+                              "size": 2159041,
+                              "webViewLink": "https://drive.google.com/file/d/1PXWeAV4hDih5YACSS9pVnrSND57k4jOo/view?usp=drivesdk",
+                              "modifiedTime": "2026-04-27T16:00:03.601Z",
+                              "videoMediaMetadata": null
+                            },
+                            {
+                              "id": "1k6MBtmMX591mYUzBEj69B5SLtX7-TQv7",
+                              "name": "(4_5 & 5_5) CHỦ ĐỀ 2.2 ĐƯỜNG THẲNG VUÔNG GÓC VỚI MẶT PHẲNG - HANDOUT.pdf",
+                              "mimeType": "application/pdf",
+                              "size": 1632802,
+                              "webViewLink": "https://drive.google.com/file/d/1k6MBtmMX591mYUzBEj69B5SLtX7-TQv7/view?usp=drivesdk",
+                              "modifiedTime": "2026-04-27T15:59:55.523Z",
+                              "videoMediaMetadata": null
+                            },
+                            {
+                              "id": "1KqS8OO6h04dX522I3WC-VsN2OUrqf6MQ",
+                              "name": "(4_5 & 6_5) CHỦ ĐỀ 2.1 HAI ĐƯỜNG THẲNG VUÔNG GÓC, GÓC GIỮA 2 ĐƯỜNG THẲNG - HANDOUT.pdf",
+                              "mimeType": "application/pdf",
+                              "size": 2160194,
+                              "webViewLink": "https://drive.google.com/file/d/1KqS8OO6h04dX522I3WC-VsN2OUrqf6MQ/view?usp=drivesdk",
+                              "modifiedTime": "2026-04-27T15:59:58.631Z",
+                              "videoMediaMetadata": null
+                            },
+                            {
+                              "id": "1koTocV1kr5vPg4-NQXdkfcIIVgADWMz5",
+                              "name": "(6-7-13_4) TỔNG ÔN HHKG LỚP 11 (B1+2+3).pdf",
+                              "mimeType": "application/pdf",
+                              "size": 932631,
+                              "webViewLink": "https://drive.google.com/file/d/1koTocV1kr5vPg4-NQXdkfcIIVgADWMz5/view?usp=drivesdk",
+                              "modifiedTime": "2026-04-27T16:00:08.087Z",
+                              "videoMediaMetadata": null
+                            },
+                            {
+                              "id": "1R9kePZG1Lj1kZrn4nWbLprnBGJW8VNsF",
+                              "name": "(8_4) ÔN TẬP HỌC KỲ II XÁC SUẤT 11 BUỔI 1.pdf",
+                              "mimeType": "application/pdf",
+                              "size": 6439252,
+                              "webViewLink": "https://drive.google.com/file/d/1R9kePZG1Lj1kZrn4nWbLprnBGJW8VNsF/view?usp=drivesdk",
+                              "modifiedTime": "2026-04-27T16:00:00.061Z",
+                              "videoMediaMetadata": null
+                            },
+                            {
+                              "id": "1Rx0J7PWJIfwBNtU55ysjPGqfBJA5ta4M",
+                              "name": "(9_4) DÃY SỐ - MŨ LOGA.pdf",
+                              "mimeType": "application/pdf",
+                              "size": 667799,
+                              "webViewLink": "https://drive.google.com/file/d/1Rx0J7PWJIfwBNtU55ysjPGqfBJA5ta4M/view?usp=drivesdk",
+                              "modifiedTime": "2026-04-27T15:59:56.897Z",
+                              "videoMediaMetadata": null
+                            },
+                            {
+                              "id": "1FlqYkBJ2ekeq6EICYwuS38Qx-PwQGBqu",
+                              "name": "HANDOUT TỔNG ÔN HHKG LỚP 11 BUỔI 1.pdf",
+                              "mimeType": "application/pdf",
+                              "size": 4196552,
+                              "webViewLink": "https://drive.google.com/file/d/1FlqYkBJ2ekeq6EICYwuS38Qx-PwQGBqu/view?usp=drivesdk",
+                              "modifiedTime": "2026-04-27T16:00:06.463Z",
+                              "videoMediaMetadata": null
+                            },
+                            {
+                              "id": "1je5_RdmkbhCGYvpsYdm4TDbkfNa2GrTi",
+                              "name": "HANDOUT TỔNG ÔN HHKG LỚP 11 BUỔI 2.pdf",
+                              "mimeType": "application/pdf",
+                              "size": 4496284,
+                              "webViewLink": "https://drive.google.com/file/d/1je5_RdmkbhCGYvpsYdm4TDbkfNa2GrTi/view?usp=drivesdk",
+                              "modifiedTime": "2026-04-27T16:00:09.834Z",
+                              "videoMediaMetadata": null
+                            },
+                            {
+                              "id": "1yHYsFlqrefZhIEaOz72Y2UPgQKEJ3ILK",
+                              "name": "HANDOUT TỔNG ÔN HHKG LỚP 11 BUỔI 3.pdf",
+                              "mimeType": "application/pdf",
+                              "size": 4062914,
+                              "webViewLink": "https://drive.google.com/file/d/1yHYsFlqrefZhIEaOz72Y2UPgQKEJ3ILK/view?usp=drivesdk",
+                              "modifiedTime": "2026-04-27T15:59:51.750Z",
+                              "videoMediaMetadata": null
+                            },
+                            {
+                              "id": "1HsUfnmFB6tdD8dCopoa1x8qlOd2HSRVG",
+                              "name": "HANDOUT ÔN TẬP HỌC KỲ II XÁC SUẤT 11.pdf",
+                              "mimeType": "application/pdf",
+                              "size": 1076372,
+                              "webViewLink": "https://drive.google.com/file/d/1HsUfnmFB6tdD8dCopoa1x8qlOd2HSRVG/view?usp=drivesdk",
+                              "modifiedTime": "2026-04-27T15:59:47.461Z",
+                              "videoMediaMetadata": null
+                            },
+                            {
+                              "id": "1ogEVaoxQkksTp6oP3bgC1QF6gc9M5Avt",
+                              "name": "HANDOUT ĐỀ SỐ 1.pdf",
+                              "mimeType": "application/pdf",
+                              "size": 4700742,
+                              "webViewLink": "https://drive.google.com/file/d/1ogEVaoxQkksTp6oP3bgC1QF6gc9M5Avt/view?usp=drivesdk",
+                              "modifiedTime": "2026-04-27T15:59:53.526Z",
+                              "videoMediaMetadata": null
+                            },
+                            {
+                              "id": "1iRkhur3UdfvfOgR3ykP-qc_lbaT1bbDs",
+                              "name": "HANDOUT ĐỀ SỐ 2 - HK2 - LỚP 11 - TOÁN HỌC_.pdf",
+                              "mimeType": "application/pdf",
+                              "size": 5536341,
+                              "webViewLink": "https://drive.google.com/file/d/1iRkhur3UdfvfOgR3ykP-qc_lbaT1bbDs/view?usp=drivesdk",
+                              "modifiedTime": "2026-04-27T15:59:49.136Z",
+                              "videoMediaMetadata": null
+                            },
+                            {
+                              "id": "1lCkDi3DuIV_KP7AkzG-Qd9Sl54Rf-1_g",
+                              "name": "HANDOUT ĐỀ SỐ 3 - HK2 - LỚP 11 - TOÁN HỌC .pdf",
+                              "mimeType": "application/pdf",
+                              "size": 6072668,
+                              "webViewLink": "https://drive.google.com/file/d/1lCkDi3DuIV_KP7AkzG-Qd9Sl54Rf-1_g/view?usp=drivesdk",
+                              "modifiedTime": "2026-04-27T15:59:45.858Z",
+                              "videoMediaMetadata": null
+                            },
+                            {
+                              "id": "1AshvAtNm68Y5zFxqzgzsaxnY4o2vGqAv",
+                              "name": "TỔNG ÔN GIỚI HẠN - ĐẠO HÀM - TIẾP TUYẾN CA 19H30.pdf",
+                              "mimeType": "application/pdf",
+                              "size": 764506,
+                              "webViewLink": "https://drive.google.com/file/d/1AshvAtNm68Y5zFxqzgzsaxnY4o2vGqAv/view?usp=drivesdk",
+                              "modifiedTime": "2026-04-27T15:59:44.456Z",
+                              "videoMediaMetadata": null
+                            }
+                          ]
+                        },
+                        {
+                          "id": "1AxwUkp05rquBk_Z9yccJZdcdQvnRgBaz",
+                          "name": "VẬT LÝ",
+                          "webViewLink": "https://drive.google.com/drive/folders/1AxwUkp05rquBk_Z9yccJZdcdQvnRgBaz",
+                          "modifiedTime": "2026-04-27T15:59:08.340Z",
+                          "children": [],
+                          "files": [
+                            {
+                              "id": "1QhDFgIoK9M-u60mX6MFt6sUhTvXoIQqb",
+                              "name": "(11_4 & 15_4 & 29.4) ÔN TẬP HỌC KỲ 2 LỚP 11 VẬT LÝ BUỔI 1+2.pdf",
+                              "mimeType": "application/pdf",
+                              "size": 1114562,
+                              "webViewLink": "https://drive.google.com/file/d/1QhDFgIoK9M-u60mX6MFt6sUhTvXoIQqb/view?usp=drivesdk",
+                              "modifiedTime": "2026-04-27T15:59:09.158Z",
+                              "videoMediaMetadata": null
+                            },
+                            {
+                              "id": "1xpgAGBXW-KolkEYHLrgn9V5uxJkaPLJr",
+                              "name": "(18_4) ÔN TẬP HỌC KÌ 2 LỚP 11 VẬT LÝ BUỔI 3.pdf",
+                              "mimeType": "application/pdf",
+                              "size": 769536,
+                              "webViewLink": "https://drive.google.com/file/d/1xpgAGBXW-KolkEYHLrgn9V5uxJkaPLJr/view?usp=drivesdk",
+                              "modifiedTime": "2026-04-27T15:59:11.219Z",
+                              "videoMediaMetadata": null
+                            }
+                          ]
+                        }
+                      ],
+                      "files": []
+                    }
+                  ],
+                  "files": []
+                },
+                {
+                  "id": "14NsNtAyLYzO29mg2kgjXCUP029kGPUl3",
+                  "name": "1.TOÁN HỌC \tTỔNG ÔN GIỚI HẠN -ĐẠO HÀM - TIẾP TUYẾN ",
+                  "webViewLink": "https://drive.google.com/drive/folders/14NsNtAyLYzO29mg2kgjXCUP029kGPUl3",
+                  "modifiedTime": "2026-04-27T16:01:30.714Z",
+                  "children": [],
+                  "files": [
+                    {
+                      "id": "1tf6mvER1TElV9Sgy_m1MffhVntAXGuJ-",
+                      "name": "1.Tổng ôn giới hạn - đạo hàm - tiếp tuyến.mp4",
+                      "mimeType": "video/mp4",
+                      "size": 134137213,
+                      "webViewLink": "https://drive.google.com/file/d/1tf6mvER1TElV9Sgy_m1MffhVntAXGuJ-/view?usp=drivesdk",
+                      "modifiedTime": "2026-05-11T13:18:14.450Z",
+                      "videoMediaMetadata": null
+                    }
+                  ]
+                },
+                {
+                  "id": "1PfSMsnoVsClqa6XfeQQpDb5KK66Kl2lm",
+                  "name": "10.    VẬT LÝ  \tGIẢI ĐỀ ÔN THI HK2 ",
+                  "webViewLink": "https://drive.google.com/drive/folders/1PfSMsnoVsClqa6XfeQQpDb5KK66Kl2lm",
+                  "modifiedTime": "2026-04-27T16:01:13.681Z",
+                  "children": [],
+                  "files": [
+                    {
+                      "id": "1i284QRp1lsZzSDQU2ls1e22-uIoLSFJS",
+                      "name": "10.GIẢI ĐỀ ÔN THI HK2 MÔN VẬT LÍ.mp4",
+                      "mimeType": "video/mp4",
+                      "size": 224791907,
+                      "webViewLink": "https://drive.google.com/file/d/1i284QRp1lsZzSDQU2ls1e22-uIoLSFJS/view?usp=drivesdk",
+                      "modifiedTime": "2026-05-11T12:47:13.207Z",
+                      "videoMediaMetadata": {
+                        "width": 1226,
+                        "height": 720,
+                        "durationMillis": "5454279"
+                      }
+                    }
+                  ]
+                },
+                {
+                  "id": "1b1MQofkI_iqpuSfFk7F4t0IVXw2oJbAm",
+                  "name": "11. NGỮ VĂN \tGIẢI ĐỀ ÔN THI HK2 ",
+                  "webViewLink": "https://drive.google.com/drive/folders/1b1MQofkI_iqpuSfFk7F4t0IVXw2oJbAm",
+                  "modifiedTime": "2026-04-27T16:01:11.803Z",
+                  "children": [],
+                  "files": [
+                    {
+                      "id": "16icVKvXxhOBdXd-OpO7h7kRJaKG3kE-D",
+                      "name": "11.GIẢI ĐỀ ÔN THI HK2  MÔN NGỮ VĂN.mp4",
+                      "mimeType": "video/mp4",
+                      "size": 316300975,
+                      "webViewLink": "https://drive.google.com/file/d/16icVKvXxhOBdXd-OpO7h7kRJaKG3kE-D/view?usp=drivesdk",
+                      "modifiedTime": "2026-05-11T12:43:38.472Z",
+                      "videoMediaMetadata": {
+                        "width": 1280,
+                        "height": 672,
+                        "durationMillis": "3916133"
+                      }
+                    }
+                  ]
+                },
+                {
+                  "id": "1ZBM-V9-sevqeO3Ubyz2agDeMxcv9R81t",
+                  "name": "12. HÓA HỌC \tGIẢI ĐỀ ÔN THI HK2 ",
+                  "webViewLink": "https://drive.google.com/drive/folders/1ZBM-V9-sevqeO3Ubyz2agDeMxcv9R81t",
+                  "modifiedTime": "2026-04-27T16:01:09.874Z",
+                  "children": [],
+                  "files": [
+                    {
+                      "id": "17XGqI8_miEEMzWcufGPdo0TvIZqLoCPs",
+                      "name": "12.GIẢI ĐỀ ÔN THI HK2 MÔN HÓA.mp4",
+                      "mimeType": "video/mp4",
+                      "size": 258529195,
+                      "webViewLink": "https://drive.google.com/file/d/17XGqI8_miEEMzWcufGPdo0TvIZqLoCPs/view?usp=drivesdk",
+                      "modifiedTime": "2026-05-11T12:28:14.295Z",
+                      "videoMediaMetadata": null
+                    }
+                  ]
+                },
+                {
+                  "id": "1GRneMREBTc3PIUsTxV5eMLjXbG4oEfAF",
+                  "name": "13. NGỮ VĂN \tGIẢI ĐỀ ÔN THI HK2 ",
+                  "webViewLink": "https://drive.google.com/drive/folders/1GRneMREBTc3PIUsTxV5eMLjXbG4oEfAF",
+                  "modifiedTime": "2026-04-27T16:01:08.092Z",
+                  "children": [],
+                  "files": [
+                    {
+                      "id": "1RpgEK6ySkCwX9TbDBzlE9u_7Nqp-xCIt",
+                      "name": "13.GIẢI ĐỀ ÔN THI HK2 MÔN NGỮ VĂN ĐỀ SỐ 2.mp4",
+                      "mimeType": "video/mp4",
+                      "size": 107719619,
+                      "webViewLink": "https://drive.google.com/file/d/1RpgEK6ySkCwX9TbDBzlE9u_7Nqp-xCIt/view?usp=drivesdk",
+                      "modifiedTime": "2026-05-11T12:17:50.316Z",
+                      "videoMediaMetadata": null
+                    }
+                  ]
+                },
+                {
+                  "id": "1Zc8xuW0IpG7hfQ-q2YbxzOY0K2iCN72w",
+                  "name": "14. TOÁN HỌC \tGIẢI ĐỀ ÔN THI HK2 ",
+                  "webViewLink": "https://drive.google.com/drive/folders/1Zc8xuW0IpG7hfQ-q2YbxzOY0K2iCN72w",
+                  "modifiedTime": "2026-04-27T16:01:05.637Z",
+                  "children": [],
+                  "files": [
+                    {
+                      "id": "1ozddpAslr2sxFCvzqCWOpFm1qTmHwC92",
+                      "name": "14.GIẢI ĐỀ ÔN THI HK2.mp4",
+                      "mimeType": "video/mp4",
+                      "size": 190340163,
+                      "webViewLink": "https://drive.google.com/file/d/1ozddpAslr2sxFCvzqCWOpFm1qTmHwC92/view?usp=drivesdk",
+                      "modifiedTime": "2026-05-11T12:09:33.809Z",
+                      "videoMediaMetadata": null
+                    }
+                  ]
+                },
+                {
+                  "id": "16DHwkK8jqKDu9viIWwmt0pTRO0TDOvgc",
+                  "name": "15. TOÁN HỌC \tTỔNG ÔN HHKG BUỔI 3",
+                  "webViewLink": "https://drive.google.com/drive/folders/16DHwkK8jqKDu9viIWwmt0pTRO0TDOvgc",
+                  "modifiedTime": "2026-04-27T16:01:03.469Z",
+                  "children": [],
+                  "files": [
+                    {
+                      "id": "1TmyDLfcbi58BQVDGWJdCfnV524ZONJtj",
+                      "name": "15.TỔNG ÔN HHKG LỚP 11 BUỔI 3.mp4",
+                      "mimeType": "video/mp4",
+                      "size": 203395410,
+                      "webViewLink": "https://drive.google.com/file/d/1TmyDLfcbi58BQVDGWJdCfnV524ZONJtj/view?usp=drivesdk",
+                      "modifiedTime": "2026-05-11T11:57:25.958Z",
+                      "videoMediaMetadata": null
+                    }
+                  ]
+                },
+                {
+                  "id": "1plKZ0-Tw2fdXu6jSx1vDhDZqilgwCsGQ",
+                  "name": "16.TIẾNG ANH \tTỔNG ÔN KIẾN THỨC HK2 BUỔI 3",
+                  "webViewLink": "https://drive.google.com/drive/folders/1plKZ0-Tw2fdXu6jSx1vDhDZqilgwCsGQ",
+                  "modifiedTime": "2026-04-27T16:01:01.685Z",
+                  "children": [],
+                  "files": [
+                    {
+                      "id": "1Kqx4oRv5Lmd43EZWGeY0-cOU1FHok4AC",
+                      "name": "16.TỔNG ÔN KIẾN THỨC HK2 BUỔI 3.mp4",
+                      "mimeType": "video/mp4",
+                      "size": 437511799,
+                      "webViewLink": "https://drive.google.com/file/d/1Kqx4oRv5Lmd43EZWGeY0-cOU1FHok4AC/view?usp=drivesdk",
+                      "modifiedTime": "2026-05-10T11:12:32.974Z",
+                      "videoMediaMetadata": null
+                    }
+                  ]
+                },
+                {
+                  "id": "1vG9XtZ3jQwloYXRPE4imxyNw8fUvhwy_",
+                  "name": "17. TOÁN HỌC \tGIẢI ĐỀ ÔN THI HK2 ",
+                  "webViewLink": "https://drive.google.com/drive/folders/1vG9XtZ3jQwloYXRPE4imxyNw8fUvhwy_",
+                  "modifiedTime": "2026-04-27T16:00:59.681Z",
+                  "children": [],
+                  "files": [
+                    {
+                      "id": "1sP9khQhlKZiI05AUFlFMutj3JJ4hvUna",
+                      "name": "17. GIẢI ĐỀ ÔN THI HK2.mp4",
+                      "mimeType": "video/mp4",
+                      "size": 222090480,
+                      "webViewLink": "https://drive.google.com/file/d/1sP9khQhlKZiI05AUFlFMutj3JJ4hvUna/view?usp=drivesdk",
+                      "modifiedTime": "2026-05-10T10:50:52.891Z",
+                      "videoMediaMetadata": null
+                    }
+                  ]
+                },
+                {
+                  "id": "1-6dPfQaTzrO-GsEmSAaV9L9iyzgaQd5D",
+                  "name": "18.      VẬT LÝ \tGIẢI ĐỀ ÔN THI HK2 ",
+                  "webViewLink": "https://drive.google.com/drive/folders/1-6dPfQaTzrO-GsEmSAaV9L9iyzgaQd5D",
+                  "modifiedTime": "2026-04-27T16:00:57.606Z",
+                  "children": [],
+                  "files": [
+                    {
+                      "id": "1MzagXuaG4YYgynuCB4sd4cB6EIsED0iN",
+                      "name": "18.GIẢI ĐỀ ÔN THI HK2.mp4",
+                      "mimeType": "video/mp4",
+                      "size": 308543236,
+                      "webViewLink": "https://drive.google.com/file/d/1MzagXuaG4YYgynuCB4sd4cB6EIsED0iN/view?usp=drivesdk",
+                      "modifiedTime": "2026-05-10T10:34:56.227Z",
+                      "videoMediaMetadata": null
+                    }
+                  ]
+                },
+                {
+                  "id": "1fDxWvd2pMpkRYzDZA73q6InaJj5s-4Fw",
+                  "name": "19. TOÁN HỌC \tGIẢI ĐỀ ÔN THI HK2 ",
+                  "webViewLink": "https://drive.google.com/drive/folders/1fDxWvd2pMpkRYzDZA73q6InaJj5s-4Fw",
+                  "modifiedTime": "2026-04-27T16:00:55.791Z",
+                  "children": [],
+                  "files": [
+                    {
+                      "id": "1IDGLaGia88rYQmfoG5JLSmBYI8esaAOB",
+                      "name": "19.ĐỀ SỐ 3 HK2 LỚP 11.mp4",
+                      "mimeType": "video/mp4",
+                      "size": 223006704,
+                      "webViewLink": "https://drive.google.com/file/d/1IDGLaGia88rYQmfoG5JLSmBYI8esaAOB/view?usp=drivesdk",
+                      "modifiedTime": "2026-05-10T10:20:23.476Z",
+                      "videoMediaMetadata": null
+                    }
+                  ]
+                },
+                {
+                  "id": "1Fqbk01ryFidpnFQvTORL2PRzAUMvBnYQ",
+                  "name": "2.TOÁN HỌC \tTỔNG ÔN HHKG BUỔI 1 ",
+                  "webViewLink": "https://drive.google.com/drive/folders/1Fqbk01ryFidpnFQvTORL2PRzAUMvBnYQ",
+                  "modifiedTime": "2026-04-27T16:01:28.721Z",
+                  "children": [],
+                  "files": [
+                    {
+                      "id": "1DDQoXrDSKdVBztuzktF1nbh5kABFOCKz",
+                      "name": "2.Tổng ôn hình học không gian buổi 1.mp4",
+                      "mimeType": "video/mp4",
+                      "size": 264895113,
+                      "webViewLink": "https://drive.google.com/file/d/1DDQoXrDSKdVBztuzktF1nbh5kABFOCKz/view?usp=drivesdk",
+                      "modifiedTime": "2026-05-11T13:18:03.406Z",
+                      "videoMediaMetadata": null
+                    }
+                  ]
+                },
+                {
+                  "id": "1xc_Q8J83qfyg_IJvh_Oom8VXp8nzgwiu",
+                  "name": "20. TIẾNG ANH \tGIẢI ĐỀ ÔN THI HK2 ",
+                  "webViewLink": "https://drive.google.com/drive/folders/1xc_Q8J83qfyg_IJvh_Oom8VXp8nzgwiu",
+                  "modifiedTime": "2026-04-27T16:00:53.766Z",
+                  "children": [],
+                  "files": [
+                    {
+                      "id": "1rcAo0hZeUkRwbC-orX-tkJY4jWW1C81R",
+                      "name": "20.GIẢI ĐỀ ÔN THI HK2.mp4",
+                      "mimeType": "video/mp4",
+                      "size": 462816925,
+                      "webViewLink": "https://drive.google.com/file/d/1rcAo0hZeUkRwbC-orX-tkJY4jWW1C81R/view?usp=drivesdk",
+                      "modifiedTime": "2026-05-10T10:07:34.518Z",
+                      "videoMediaMetadata": null
+                    }
+                  ]
+                },
+                {
+                  "id": "1cmbN5p2SvFX2zeLPkhtFlJWSk2R2CGRc",
+                  "name": "21. TOÁN HỌC \tGIẢI ĐỀ ÔN THI HK2 ",
+                  "webViewLink": "https://drive.google.com/drive/folders/1cmbN5p2SvFX2zeLPkhtFlJWSk2R2CGRc",
+                  "modifiedTime": "2026-04-27T16:00:51.858Z",
+                  "children": [],
+                  "files": [
+                    {
+                      "id": "1LPApecH8DSty28LcxCU7yawM7zpVQZ1c",
+                      "name": "21.GIẢI ĐỀ ÔN THI HK2.mp4",
+                      "mimeType": "video/mp4",
+                      "size": 137116052,
+                      "webViewLink": "https://drive.google.com/file/d/1LPApecH8DSty28LcxCU7yawM7zpVQZ1c/view?usp=drivesdk",
+                      "modifiedTime": "2026-05-10T09:52:49.746Z",
+                      "videoMediaMetadata": null
+                    }
+                  ]
+                },
+                {
+                  "id": "1HoZLwRakvRnSxjDFePolzQaDGkkym3Zo",
+                  "name": "22.SINH HỌC \tGIẢI ĐỀ ÔN THI HK2 ",
+                  "webViewLink": "https://drive.google.com/drive/folders/1HoZLwRakvRnSxjDFePolzQaDGkkym3Zo",
+                  "modifiedTime": "2026-04-27T16:00:49.379Z",
+                  "children": [],
+                  "files": [
+                    {
+                      "id": "1oSB4C7QP23FiTqe7QmbmAKk-hA5Re2Gy",
+                      "name": "22.Ôn tập thi học kì II sinh học phần 2.mp4",
+                      "mimeType": "video/mp4",
+                      "size": 217325648,
+                      "webViewLink": "https://drive.google.com/file/d/1oSB4C7QP23FiTqe7QmbmAKk-hA5Re2Gy/view?usp=drivesdk",
+                      "modifiedTime": "2026-05-10T09:40:18.767Z",
+                      "videoMediaMetadata": {
+                        "width": 1280,
+                        "height": 690,
+                        "durationMillis": "5156680"
+                      }
+                    }
+                  ]
+                },
+                {
+                  "id": "12Di5v8U1Dogx_PnPzglUtP3AtBYXKZse",
+                  "name": "23. HÓA HỌC \tGIẢI ĐỀ ÔN THI HK2 ",
+                  "webViewLink": "https://drive.google.com/drive/folders/12Di5v8U1Dogx_PnPzglUtP3AtBYXKZse",
+                  "modifiedTime": "2026-04-27T16:00:47.604Z",
+                  "children": [],
+                  "files": [
+                    {
+                      "id": "1zigpAcSqjEGPdUmf0kL2recti0xkKpHA",
+                      "name": "23.ÔN THI HKII - MÔN HÓA - ĐỀ 2.mp4",
+                      "mimeType": "video/mp4",
+                      "size": 211814218,
+                      "webViewLink": "https://drive.google.com/file/d/1zigpAcSqjEGPdUmf0kL2recti0xkKpHA/view?usp=drivesdk",
+                      "modifiedTime": "2026-05-10T09:25:08.954Z",
+                      "videoMediaMetadata": null
+                    }
+                  ]
+                },
+                {
+                  "id": "1S3feazt3erqQIFhaW7Mj1dmZ4sBmQvXR",
+                  "name": "24. NGỮ VĂN \tGIẢI ĐỀ ÔN THI HK2 ",
+                  "webViewLink": "https://drive.google.com/drive/folders/1S3feazt3erqQIFhaW7Mj1dmZ4sBmQvXR",
+                  "modifiedTime": "2026-04-27T16:00:45.304Z",
+                  "children": [],
+                  "files": [
+                    {
+                      "id": "1VGSBveDvtHChqqxejTHkWUtDvxvfnkl6",
+                      "name": "24.GIẢI ĐỀ ÔN THI HK2.mp4",
+                      "mimeType": "video/mp4",
+                      "size": 151865066,
+                      "webViewLink": "https://drive.google.com/file/d/1VGSBveDvtHChqqxejTHkWUtDvxvfnkl6/view?usp=drivesdk",
+                      "modifiedTime": "2026-05-10T08:35:39.544Z",
+                      "videoMediaMetadata": null
+                    }
+                  ]
+                },
+                {
+                  "id": "1nGnHavMWaW7Eo_C47eqHuhDJY5kLTIl9",
+                  "name": "25. NGỮ VĂN \tGIẢI ĐỀ ÔN THI HK2 ",
+                  "webViewLink": "https://drive.google.com/drive/folders/1nGnHavMWaW7Eo_C47eqHuhDJY5kLTIl9",
+                  "modifiedTime": "2026-04-27T16:00:43.454Z",
+                  "children": [],
+                  "files": [
+                    {
+                      "id": "126uf1rmEldPhVQUlX6tG_6YcN_qcQ6kv",
+                      "name": "25.GIẢI ĐỀ ÔN THI HK2.mp4",
+                      "mimeType": "video/mp4",
+                      "size": 139385892,
+                      "webViewLink": "https://drive.google.com/file/d/126uf1rmEldPhVQUlX6tG_6YcN_qcQ6kv/view?usp=drivesdk",
+                      "modifiedTime": "2026-05-10T08:31:37.684Z",
+                      "videoMediaMetadata": null
+                    }
+                  ]
+                },
+                {
+                  "id": "1rG-Azm18g9rZe6wCDElzU-Ax1BlL4o5n",
+                  "name": "26.TOÁN HỌC \tCHỦ ĐỀ 1.1 GIỚI HẠN CỦA DÃY SỐ P1",
+                  "webViewLink": "https://drive.google.com/drive/folders/1rG-Azm18g9rZe6wCDElzU-Ax1BlL4o5n",
+                  "modifiedTime": "2026-04-27T16:00:41.613Z",
+                  "children": [],
+                  "files": [
+                    {
+                      "id": "1wN1xjC25GDp6IYheS2rxsMrhk2Znq36P",
+                      "name": "26.CHỦ ĐỀ 1.1 GIỚI HẠN CỦA DÃY SỐ P1.mp4",
+                      "mimeType": "video/mp4",
+                      "size": 197008691,
+                      "webViewLink": "https://drive.google.com/file/d/1wN1xjC25GDp6IYheS2rxsMrhk2Znq36P/view?usp=drivesdk",
+                      "modifiedTime": "2026-05-10T08:24:24.738Z",
+                      "videoMediaMetadata": null
+                    }
+                  ]
+                },
+                {
+                  "id": "1rSUnnbbZAOEZ6VwwN_8WDgsLIWLtohue",
+                  "name": "27. SINH HỌC \tGIẢI ĐỀ ÔN THI HK2 ",
+                  "webViewLink": "https://drive.google.com/drive/folders/1rSUnnbbZAOEZ6VwwN_8WDgsLIWLtohue",
+                  "modifiedTime": "2026-04-27T16:00:39.467Z",
+                  "children": [],
+                  "files": [
+                    {
+                      "id": "1zx991flowxWxwxBaxSL6zJ9KWGMWQQPJ",
+                      "name": "27.GIẢI ĐỀ ÔN THI HK2 BUỔI 1.mp4",
+                      "mimeType": "video/mp4",
+                      "size": 285291244,
+                      "webViewLink": "https://drive.google.com/file/d/1zx991flowxWxwxBaxSL6zJ9KWGMWQQPJ/view?usp=drivesdk",
+                      "modifiedTime": "2026-05-10T08:16:11.427Z",
+                      "videoMediaMetadata": {
+                        "width": 1280,
+                        "height": 720,
+                        "durationMillis": "5926366"
+                      }
+                    }
+                  ]
+                },
+                {
+                  "id": "1qkAv9MeJAh6fvPH4WlUxj6-aEGUE8whw",
+                  "name": "28. SINH HỌC \tGIẢI ĐỀ ÔN THI HK2 ",
+                  "webViewLink": "https://drive.google.com/drive/folders/1qkAv9MeJAh6fvPH4WlUxj6-aEGUE8whw",
+                  "modifiedTime": "2026-04-27T16:00:37.404Z",
+                  "children": [],
+                  "files": [
+                    {
+                      "id": "1olsBmk_o17m9pRu8ArIK9Cmo9DTzMj6l",
+                      "name": "28.GIẢI ĐỀ ÔN THI HK2 BUỔI 2.mp4",
+                      "mimeType": "video/mp4",
+                      "size": 283066465,
+                      "webViewLink": "https://drive.google.com/file/d/1olsBmk_o17m9pRu8ArIK9Cmo9DTzMj6l/view?usp=drivesdk",
+                      "modifiedTime": "2026-05-10T07:57:22.354Z",
+                      "videoMediaMetadata": null
+                    }
+                  ]
+                },
+                {
+                  "id": "1pZcT-u8z_3QJgrOuuj81PE6eA6BzmIZL",
+                  "name": "29. TOÁN HỌC \tCHỦ ĐỀ 1.1 GIỚI HẠN CỦA DÃY SỐ P2",
+                  "webViewLink": "https://drive.google.com/drive/folders/1pZcT-u8z_3QJgrOuuj81PE6eA6BzmIZL",
+                  "modifiedTime": "2026-04-27T16:00:35.780Z",
+                  "children": [],
+                  "files": [
+                    {
+                      "id": "17BbNz83y5hNTAkyHL-QozlYGLv_EYH-r",
+                      "name": "29.CHỦ ĐỀ 1.1 GIỚI HẠN CỦA DÃY SỐ P2.mp4",
+                      "mimeType": "video/mp4",
+                      "size": 176187678,
+                      "webViewLink": "https://drive.google.com/file/d/17BbNz83y5hNTAkyHL-QozlYGLv_EYH-r/view?usp=drivesdk",
+                      "modifiedTime": "2026-05-10T07:43:54.717Z",
+                      "videoMediaMetadata": null
+                    }
+                  ]
+                },
+                {
+                  "id": "1yAhf66l_Ln_UNal-KYmtfgAi0_Bv8Rur",
+                  "name": "3.TIẾNG ANH \tTỔNG ÔN KIẾN THỨC HK2 BUỔI 1 ",
+                  "webViewLink": "https://drive.google.com/drive/folders/1yAhf66l_Ln_UNal-KYmtfgAi0_Bv8Rur",
+                  "modifiedTime": "2026-04-27T16:01:26.773Z",
+                  "children": [],
+                  "files": [
+                    {
+                      "id": "1k37Yq61IDd1Bz12P75QYiqLT8qLy4-Ij",
+                      "name": "3.TỔNG ÔN KIẾN THỨC TIẾNG ANH HK2 BUỔI 1.mp4",
+                      "mimeType": "video/mp4",
+                      "size": 316034547,
+                      "webViewLink": "https://drive.google.com/file/d/1k37Yq61IDd1Bz12P75QYiqLT8qLy4-Ij/view?usp=drivesdk",
+                      "modifiedTime": "2026-05-11T13:17:46.444Z",
+                      "videoMediaMetadata": null
+                    }
+                  ]
+                },
+                {
+                  "id": "1u5vPMbIJavIZArs-Sjst1TrKB3KT8NI9",
+                  "name": "30. TOÁN HỌC \tCHỦ ĐỀ 1.2 GIỚI HẠN CỦA HÀM SỐ P1",
+                  "webViewLink": "https://drive.google.com/drive/folders/1u5vPMbIJavIZArs-Sjst1TrKB3KT8NI9",
+                  "modifiedTime": "2026-04-27T16:00:33.408Z",
+                  "children": [],
+                  "files": [
+                    {
+                      "id": "1xWhHlHoNE5CDqyygfQBv_E7rzTVcfkis",
+                      "name": "30.CHỦ ĐỀ 1.2 GIỚI HẠN CỦA HÀM SỐ P1.mp4",
+                      "mimeType": "video/mp4",
+                      "size": 260684731,
+                      "webViewLink": "https://drive.google.com/file/d/1xWhHlHoNE5CDqyygfQBv_E7rzTVcfkis/view?usp=drivesdk",
+                      "modifiedTime": "2026-05-10T07:32:12.301Z",
+                      "videoMediaMetadata": null
+                    }
+                  ]
+                },
+                {
+                  "id": "1vDE_QOfY-gqDK1miLxNStvnhwEufw5Ep",
+                  "name": "31. HÓA HỌC \tGIẢI ĐỀ ÔN THI HK2 ",
+                  "webViewLink": "https://drive.google.com/drive/folders/1vDE_QOfY-gqDK1miLxNStvnhwEufw5Ep",
+                  "modifiedTime": "2026-04-27T16:00:31.115Z",
+                  "children": [],
+                  "files": [
+                    {
+                      "id": "1kVMEE_FfFx3PUlTV6wUPZaJoxrzFoRRt",
+                      "name": "31.GIẢI ĐỀ ÔN THI HK2.mp4",
+                      "mimeType": "video/mp4",
+                      "size": 286200550,
+                      "webViewLink": "https://drive.google.com/file/d/1kVMEE_FfFx3PUlTV6wUPZaJoxrzFoRRt/view?usp=drivesdk",
+                      "modifiedTime": "2026-05-10T06:31:09.173Z",
+                      "videoMediaMetadata": null
+                    }
+                  ]
+                },
+                {
+                  "id": "1RU0hv47-ZE9lOBYOjBAISQT5IjE2IpOK",
+                  "name": "32.TOÁN HỌC \tCHỦ ĐỀ 1.2 GIỚI HẠN CỦA HÀM SỐ P2",
+                  "webViewLink": "https://drive.google.com/drive/folders/1RU0hv47-ZE9lOBYOjBAISQT5IjE2IpOK",
+                  "modifiedTime": "2026-04-27T16:00:29.067Z",
+                  "children": [],
+                  "files": [
+                    {
+                      "id": "1_tCggTjmtpsmDhMCZ4lgF52gI9S7BEp4",
+                      "name": "32.CHỦ ĐỀ 1.2 GIỚI HẠN CỦA HÀM SỐ P2.mp4",
+                      "mimeType": "video/mp4",
+                      "size": 296351179,
+                      "webViewLink": "https://drive.google.com/file/d/1_tCggTjmtpsmDhMCZ4lgF52gI9S7BEp4/view?usp=drivesdk",
+                      "modifiedTime": "2026-05-10T06:09:18.968Z",
+                      "videoMediaMetadata": null
+                    }
+                  ]
+                },
+                {
+                  "id": "1DyiuLM22s--86BGuEGEb4x9YDjzokGSQ",
+                  "name": "33. TOÁN HỌC \tCHỦ ĐỀ 1.3 HÀM SỐ LIÊN TỤC P1",
+                  "webViewLink": "https://drive.google.com/drive/folders/1DyiuLM22s--86BGuEGEb4x9YDjzokGSQ",
+                  "modifiedTime": "2026-05-06T04:58:50.734Z",
+                  "children": [],
+                  "files": [
+                    {
+                      "id": "1abL6rkNex68sOfEP9c-b6PPQpcR9d2vL",
+                      "name": "CHỦ ĐỀ 1.3 HÀM SỐ LIÊN TỤC P1.mp4",
+                      "mimeType": "video/mp4",
+                      "size": 260841868,
+                      "webViewLink": "https://drive.google.com/file/d/1abL6rkNex68sOfEP9c-b6PPQpcR9d2vL/view?usp=drivesdk",
+                      "modifiedTime": "2026-05-06T04:58:51.858Z",
+                      "videoMediaMetadata": null
+                    }
+                  ]
+                },
+                {
+                  "id": "15VpNsP7rZTxsNeRnJWfx1sa67a-vryaR",
+                  "name": "34. TOÁN HỌC \tCHỦ ĐỀ 1.3 HÀM SỐ LIÊN TỤC P2",
+                  "webViewLink": "https://drive.google.com/drive/folders/15VpNsP7rZTxsNeRnJWfx1sa67a-vryaR",
+                  "modifiedTime": "2026-05-06T04:58:48.306Z",
+                  "children": [],
+                  "files": [
+                    {
+                      "id": "1vfipDh6bH_CeQvNqijfeK8ZV2BSUwoSs",
+                      "name": "CHỦ ĐỀ 1.3 HÀM SỐ LIÊN TỤC P2.mp4",
+                      "mimeType": "video/mp4",
+                      "size": 281893071,
+                      "webViewLink": "https://drive.google.com/file/d/1vfipDh6bH_CeQvNqijfeK8ZV2BSUwoSs/view?usp=drivesdk",
+                      "modifiedTime": "2026-05-06T04:58:49.457Z",
+                      "videoMediaMetadata": null
+                    }
+                  ]
+                },
+                {
+                  "id": "1YtwNY5xDr6xs-sT-cx-MvfyBqFXb8NOS",
+                  "name": "35. TIẾNG ANH\tTỔNG ÔN KIẾN THỨC HK2 ĐỀ 2",
+                  "webViewLink": "https://drive.google.com/drive/folders/1YtwNY5xDr6xs-sT-cx-MvfyBqFXb8NOS",
+                  "modifiedTime": "2026-05-06T04:58:45.876Z",
+                  "children": [],
+                  "files": [
+                    {
+                      "id": "1yi65ZdN5GUat_0dZcOAw3bJFyPVlIRsB",
+                      "name": "TỔNG ÔN KIẾN THỨC HK2 ĐỀ 2.mp4",
+                      "mimeType": "video/mp4",
+                      "size": 300918662,
+                      "webViewLink": "https://drive.google.com/file/d/1yi65ZdN5GUat_0dZcOAw3bJFyPVlIRsB/view?usp=drivesdk",
+                      "modifiedTime": "2026-05-06T04:58:46.867Z",
+                      "videoMediaMetadata": null
+                    }
+                  ]
+                },
+                {
+                  "id": "1dctH1UYdyhmOd0qjJVBl2m8KrbdDpeZN",
+                  "name": "36. VẬT LÝ  \t       GIẢI ĐỀ ÔN THI HK2 ",
+                  "webViewLink": "https://drive.google.com/drive/folders/1dctH1UYdyhmOd0qjJVBl2m8KrbdDpeZN",
+                  "modifiedTime": "2026-05-06T04:58:42.837Z",
+                  "children": [],
+                  "files": [
+                    {
+                      "id": "1kHQIA7jPWQ2m_RfkjAUIoJMGx3rcEytL",
+                      "name": "GIẢI ĐỀ ÔN THI HK2.mp4",
+                      "mimeType": "video/mp4",
+                      "size": 601659008,
+                      "webViewLink": "https://drive.google.com/file/d/1kHQIA7jPWQ2m_RfkjAUIoJMGx3rcEytL/view?usp=drivesdk",
+                      "modifiedTime": "2026-05-06T04:58:44.484Z",
+                      "videoMediaMetadata": {
+                        "width": 720,
+                        "height": 1280,
+                        "durationMillis": "5809481"
+                      }
+                    }
+                  ]
+                },
+                {
+                  "id": "1gIfsEF1RN_EVSvy9oLE8aE_a_tp0T7Gz",
+                  "name": "37. TOÁN HỌC \tCHỦ ĐỀ 2.1 HAI ĐƯỜNG THẲNG VUÔNG GÓC, GÓC GIỮA 2 ĐƯỜNG THẲNG P1",
+                  "webViewLink": "https://drive.google.com/drive/folders/1gIfsEF1RN_EVSvy9oLE8aE_a_tp0T7Gz",
+                  "modifiedTime": "2026-05-06T04:58:40.291Z",
+                  "children": [],
+                  "files": [
+                    {
+                      "id": "1ai7N7dhc-kv4jUAcLT0UlmAvr2joF5Vd",
+                      "name": "CHỦ ĐỀ 2.1 HAI ĐƯỜNG THẲNG VUÔNG GÓC, GÓC GIỮA 2 ĐƯỜNG THẲNG P1.mp4",
+                      "mimeType": "video/mp4",
+                      "size": 243475253,
+                      "webViewLink": "https://drive.google.com/file/d/1ai7N7dhc-kv4jUAcLT0UlmAvr2joF5Vd/view?usp=drivesdk",
+                      "modifiedTime": "2026-05-06T04:58:41.400Z",
+                      "videoMediaMetadata": {
+                        "width": 1280,
+                        "height": 720,
+                        "durationMillis": "6291599"
+                      }
+                    }
+                  ]
+                },
+                {
+                  "id": "1_oE4ks2DtikWOAILzEKfvigsspWmfW5B",
+                  "name": "38. TOÁN HỌC \tCHỦ ĐỀ 2.2 ĐƯỜNG THẲNG VUÔNG GÓC VỚI MẶT PHẲNG P1",
+                  "webViewLink": "https://drive.google.com/drive/folders/1_oE4ks2DtikWOAILzEKfvigsspWmfW5B",
+                  "modifiedTime": "2026-05-06T04:58:37.806Z",
+                  "children": [],
+                  "files": [
+                    {
+                      "id": "1nRlF0CzdUmsdaVyz1wEz_qy5Df2HxMoe",
+                      "name": "CHỦ ĐỀ 2.2 ĐƯỜNG THẲNG VUÔNG GÓC VỚI MẶT PHẲNG P1.mp4",
+                      "mimeType": "video/mp4",
+                      "size": 283726856,
+                      "webViewLink": "https://drive.google.com/file/d/1nRlF0CzdUmsdaVyz1wEz_qy5Df2HxMoe/view?usp=drivesdk",
+                      "modifiedTime": "2026-05-06T04:58:38.945Z",
+                      "videoMediaMetadata": {
+                        "width": 1280,
+                        "height": 720,
+                        "durationMillis": "6466666"
+                      }
+                    }
+                  ]
+                },
+                {
+                  "id": "1kJU0f1U0gVQrF7iXvpQ8GN8hFRmUgG27",
+                  "name": "39. TIẾNG ANH \tTỔNG ÔN KIẾN THỨC HK2 ĐỀ 3",
+                  "webViewLink": "https://drive.google.com/drive/folders/1kJU0f1U0gVQrF7iXvpQ8GN8hFRmUgG27",
+                  "modifiedTime": "2026-05-06T04:58:35.198Z",
+                  "children": [],
+                  "files": [
+                    {
+                      "id": "1X71YJI3EDdxKRiLijJPLDFdIFt6RVSBi",
+                      "name": "TỔNG ÔN KIẾN THỨC HK2 ĐỀ 3.mp4",
+                      "mimeType": "video/mp4",
+                      "size": 361862624,
+                      "webViewLink": "https://drive.google.com/file/d/1X71YJI3EDdxKRiLijJPLDFdIFt6RVSBi/view?usp=drivesdk",
+                      "modifiedTime": "2026-05-06T04:58:36.386Z",
+                      "videoMediaMetadata": null
+                    }
+                  ]
+                },
+                {
+                  "id": "18soPghSiYTJpi1ZTdtbZWguAYL1VqFeU",
+                  "name": "4.TOÁN HỌC \tTỔNG ÔN HHKG BUỔI 2",
+                  "webViewLink": "https://drive.google.com/drive/folders/18soPghSiYTJpi1ZTdtbZWguAYL1VqFeU",
+                  "modifiedTime": "2026-04-27T16:01:25.099Z",
+                  "children": [],
+                  "files": [
+                    {
+                      "id": "1qNhWDcQWrBb5Ji20-dxZC6U-dE4fYQTC",
+                      "name": "4.TỔNG ÔN HHKG LỚP 11 BUỔI 2.mp4",
+                      "mimeType": "video/mp4",
+                      "size": 235051272,
+                      "webViewLink": "https://drive.google.com/file/d/1qNhWDcQWrBb5Ji20-dxZC6U-dE4fYQTC/view?usp=drivesdk",
+                      "modifiedTime": "2026-05-11T13:17:26.055Z",
+                      "videoMediaMetadata": null
+                    }
+                  ]
+                },
+                {
+                  "id": "14zQL9x-cVvT62V3AYtTMYQoTTTZ4TDTK",
+                  "name": "40. TOÁN HỌC \tCHỦ ĐỀ 2.1 HAI ĐƯỜNG THẲNG VUÔNG GÓC, GÓC GIỮA 2 ĐƯỜNG THẲNG P2",
+                  "webViewLink": "https://drive.google.com/drive/folders/14zQL9x-cVvT62V3AYtTMYQoTTTZ4TDTK",
+                  "modifiedTime": "2026-05-22T08:18:50.941Z",
+                  "children": [],
+                  "files": [
+                    {
+                      "id": "1wCyrsscR8g8nEuVRRWot6RXgeITUHyNR",
+                      "name": "CHỦ ĐỀ 2.1 HAI ĐƯỜNG THẲNG VUÔNG GÓC, GÓC GIỮA 2 ĐƯỜNG THẲNG P2.mp4",
+                      "mimeType": "video/mp4",
+                      "size": 222597902,
+                      "webViewLink": "https://drive.google.com/file/d/1wCyrsscR8g8nEuVRRWot6RXgeITUHyNR/view?usp=drivesdk",
+                      "modifiedTime": "2026-05-22T08:18:52.183Z",
+                      "videoMediaMetadata": {
+                        "width": 1280,
+                        "height": 720,
+                        "durationMillis": "6000799"
+                      }
+                    }
+                  ]
+                },
+                {
+                  "id": "1k6j1LE5vE-d-D4QOJSotTVvy3p5KSTTC",
+                  "name": "41. TOÁN HỌC \tCHỦ ĐỀ 2.3 PHÉP CHIẾU VUÔNG GÓC, GÓC GIỮA ĐƯỜNG THẲNG VÀ MẶT PHẲNG P1",
+                  "webViewLink": "https://drive.google.com/drive/folders/1k6j1LE5vE-d-D4QOJSotTVvy3p5KSTTC",
+                  "modifiedTime": "2026-05-22T08:18:50.105Z",
+                  "children": [],
+                  "files": [
+                    {
+                      "id": "13ibtB5x2wsPN5YL_2IRoNS_9cU_o3MyA",
+                      "name": "CHỦ ĐỀ 2.3 PHÉP CHIẾU VUÔNG GÓC, GÓC GIỮA ĐƯỜNG THẲNG VÀ MẶT PHẲNG P1.mp4",
+                      "mimeType": "video/mp4",
+                      "size": 215961233,
+                      "webViewLink": "https://drive.google.com/file/d/13ibtB5x2wsPN5YL_2IRoNS_9cU_o3MyA/view?usp=drivesdk",
+                      "modifiedTime": "2026-05-22T08:18:51.066Z",
+                      "videoMediaMetadata": null
+                    }
+                  ]
+                },
+                {
+                  "id": "1VmAQCKoioat4E6GNxnccKjg0cvxTN9Ih",
+                  "name": "42. TOÁN HỌC \tCHỦ ĐỀ 2.3 PHÉP CHIẾU VUÔNG GÓC. GÓC GIỮA ĐƯỜNG THẲNG VÀ MẶT PHẲNG P2",
+                  "webViewLink": "https://drive.google.com/drive/folders/1VmAQCKoioat4E6GNxnccKjg0cvxTN9Ih",
+                  "modifiedTime": "2026-05-22T08:18:43.575Z",
+                  "children": [],
+                  "files": [
+                    {
+                      "id": "14OpeBIEXmrz0VSzBlDurym-rmLmB0C3w",
+                      "name": "CHỦ ĐỀ 2.3 PHÉP CHIẾU VUÔNG GÓC. GÓC GIỮA ĐƯỜNG THẲNG VÀ MẶT PHẲNG P2.mp4",
+                      "mimeType": "video/mp4",
+                      "size": 236019294,
+                      "webViewLink": "https://drive.google.com/file/d/14OpeBIEXmrz0VSzBlDurym-rmLmB0C3w/view?usp=drivesdk",
+                      "modifiedTime": "2026-05-22T08:18:50.275Z",
+                      "videoMediaMetadata": null
+                    }
+                  ]
+                },
+                {
+                  "id": "1oL-fuQJWYgoKPP6ida2wvkSyXjbrVeHL",
+                  "name": "43. TOÁN HỌC \tCHỦ ĐỀ 2.3 PHÉP CHIẾU VUÔNG GÓC. GÓC GIỮA ĐƯỜNG THẲNG VÀ MẶT PHẲNG P3",
+                  "webViewLink": "https://drive.google.com/drive/folders/1oL-fuQJWYgoKPP6ida2wvkSyXjbrVeHL",
+                  "modifiedTime": "2026-05-22T08:18:42.773Z",
+                  "children": [],
+                  "files": [
+                    {
+                      "id": "1Az3BbXmXx3nxm0BnyrjvPIAzCan_481g",
+                      "name": "CHỦ ĐỀ 2 3 PHÉP CHIẾU VUÔNG GÓC  GÓC GIỮA ĐƯỜNG THẲNG VÀ MẶT PHẲNG P3.mp4",
+                      "mimeType": "video/mp4",
+                      "size": 205824276,
+                      "webViewLink": "https://drive.google.com/file/d/1Az3BbXmXx3nxm0BnyrjvPIAzCan_481g/view?usp=drivesdk",
+                      "modifiedTime": "2026-05-22T08:18:43.716Z",
+                      "videoMediaMetadata": null
+                    }
+                  ]
+                },
+                {
+                  "id": "1ZNOy15Cix3agdlRWZEO18bzQ3_O4ho1P",
+                  "name": "44. TOÁN HỌC \tCHỦ ĐỀ 2.2 ĐƯỜNG THẲNG VUÔNG GÓC VỚI MẶT PHẲNG P2",
+                  "webViewLink": "https://drive.google.com/drive/folders/1ZNOy15Cix3agdlRWZEO18bzQ3_O4ho1P",
+                  "modifiedTime": "2026-05-22T08:18:41.684Z",
+                  "children": [],
+                  "files": [
+                    {
+                      "id": "1xypUUo4UrP6TCiq96pCtOuQQI7qPmW4M",
+                      "name": "CHỦ ĐỀ 2.2 ĐƯỜNG THẲNG VUÔNG GÓC VỚI MẶT PHẲNG P2.mp4",
+                      "mimeType": "video/mp4",
+                      "size": 58343810,
+                      "webViewLink": "https://drive.google.com/file/d/1xypUUo4UrP6TCiq96pCtOuQQI7qPmW4M/view?usp=drivesdk",
+                      "modifiedTime": "2026-05-22T08:18:43.037Z",
+                      "videoMediaMetadata": null
+                    }
+                  ]
+                },
+                {
+                  "id": "1Nybu4IGqVhNLuqnB0Nd2KK9qGw-sjLmp",
+                  "name": "45. TOÁN HỌC \tCHỦ ĐỀ 2.4 HAI MẶT PHẲNG VUÔNG GÓC (ĐÚNG SAI VÀ TRẢ LỜI NGẮN) P1",
+                  "webViewLink": "https://drive.google.com/drive/folders/1Nybu4IGqVhNLuqnB0Nd2KK9qGw-sjLmp",
+                  "modifiedTime": "2026-05-22T08:18:40.599Z",
+                  "children": [],
+                  "files": [
+                    {
+                      "id": "1r8yJrtv0Uq7smjEA-wxgdSI3GgG974fr",
+                      "name": "CHỦ ĐỀ 2 4 HAI MẶT PHẲNG VUÔNG GÓC ĐÚNG SAI VÀ TRẢ LỜI NGẮN P1.mp4",
+                      "mimeType": "video/mp4",
+                      "size": 199697126,
+                      "webViewLink": "https://drive.google.com/file/d/1r8yJrtv0Uq7smjEA-wxgdSI3GgG974fr/view?usp=drivesdk",
+                      "modifiedTime": "2026-05-22T08:18:41.751Z",
+                      "videoMediaMetadata": null
+                    }
+                  ]
+                },
+                {
+                  "id": "1MLwJfgK-Dhivzf4FwDmHwDtA8zwKTl7W",
+                  "name": "46. TOÁN HỌC \tCHỦ ĐỀ 2.4 HAI MẶT PHẲNG VUÔNG GÓC (ĐÚNG SAI VÀ TRẢ LỜI NGẮN) P2",
+                  "webViewLink": "https://drive.google.com/drive/folders/1MLwJfgK-Dhivzf4FwDmHwDtA8zwKTl7W",
+                  "modifiedTime": "2026-05-22T08:18:38.399Z",
+                  "children": [],
+                  "files": [
+                    {
+                      "id": "1lv0Rw38e-r9aAvQCDupVKkG13eFArcTs",
+                      "name": "CHỦ ĐỀ 2 4 HAI MẶT PHẲNG VUÔNG GÓC ĐÚNG SAI VÀ TRẢ LỜI NGẮN P2.mp4",
+                      "mimeType": "video/mp4",
+                      "size": 234193874,
+                      "webViewLink": "https://drive.google.com/file/d/1lv0Rw38e-r9aAvQCDupVKkG13eFArcTs/view?usp=drivesdk",
+                      "modifiedTime": "2026-05-22T08:18:40.742Z",
+                      "videoMediaMetadata": null
+                    }
+                  ]
+                },
+                {
+                  "id": "1yCjf7JVSSWgkKqcjiriSrRXKgtpQnQGH",
+                  "name": "5.TƯ VẤN HỌC VIÊN LỘ TRÌNH HỌC ",
+                  "webViewLink": "https://drive.google.com/drive/folders/1yCjf7JVSSWgkKqcjiriSrRXKgtpQnQGH",
+                  "modifiedTime": "2026-04-27T16:01:22.859Z",
+                  "children": [],
+                  "files": [
+                    {
+                      "id": "1jeermonjc6oKoWT72Msh27nn549vY67U",
+                      "name": "5.TƯ VẤN HỌC VIÊN 2K9 LỘ TRÌNH HỌC.mp4",
+                      "mimeType": "video/mp4",
+                      "size": 212986656,
+                      "webViewLink": "https://drive.google.com/file/d/1jeermonjc6oKoWT72Msh27nn549vY67U/view?usp=drivesdk",
+                      "modifiedTime": "2026-05-11T13:17:11.749Z",
+                      "videoMediaMetadata": {
+                        "width": 1280,
+                        "height": 720,
+                        "durationMillis": "3703519"
+                      }
+                    }
+                  ]
+                },
+                {
+                  "id": "1RyFk1IBNX5CgwaRhCWfjOC-rowQCswiC",
+                  "name": "6.TOÁN HỌC \tTỔNG ÔN XSTK ",
+                  "webViewLink": "https://drive.google.com/drive/folders/1RyFk1IBNX5CgwaRhCWfjOC-rowQCswiC",
+                  "modifiedTime": "2026-04-27T16:01:20.658Z",
+                  "children": [],
+                  "files": [
+                    {
+                      "id": "1eUvoJnCbfOtdBDw_TZvlg_bfb9BYyRCg",
+                      "name": "6.TỔNG ÔN XÁC SUẤT HỌC KỲ 2 LỚP 11 BUỔI 1.mp4",
+                      "mimeType": "video/mp4",
+                      "size": 234123125,
+                      "webViewLink": "https://drive.google.com/file/d/1eUvoJnCbfOtdBDw_TZvlg_bfb9BYyRCg/view?usp=drivesdk",
+                      "modifiedTime": "2026-05-11T13:16:57.645Z",
+                      "videoMediaMetadata": null
+                    }
+                  ]
+                },
+                {
+                  "id": "15i022ALHScR2zkFAPPF_S6IokbDFD_pd",
+                  "name": "7.TIẾNG ANH \tTỔNG ÔN KIẾN THỨC HK2 BUỔI 2",
+                  "webViewLink": "https://drive.google.com/drive/folders/15i022ALHScR2zkFAPPF_S6IokbDFD_pd",
+                  "modifiedTime": "2026-04-27T16:01:18.931Z",
+                  "children": [],
+                  "files": [
+                    {
+                      "id": "1aa2dMsAn_QkFNCgmZWFGcA0_Ew8V9IMo",
+                      "name": "7.TỔNG ÔN KIẾN THỨC HK2 BUỔI 2.mp4",
+                      "mimeType": "video/mp4",
+                      "size": 389215027,
+                      "webViewLink": "https://drive.google.com/file/d/1aa2dMsAn_QkFNCgmZWFGcA0_Ew8V9IMo/view?usp=drivesdk",
+                      "modifiedTime": "2026-05-11T13:16:41.567Z",
+                      "videoMediaMetadata": null
+                    }
+                  ]
+                },
+                {
+                  "id": "10ylik_YQ5Y6Op9s7Ni69ExzDmxZsA7LU",
+                  "name": "8.TOÁN HỌC \tTỔNG ÔN MŨ-LOGARIT ",
+                  "webViewLink": "https://drive.google.com/drive/folders/10ylik_YQ5Y6Op9s7Ni69ExzDmxZsA7LU",
+                  "modifiedTime": "2026-04-27T16:01:17.140Z",
+                  "children": [],
+                  "files": [
+                    {
+                      "id": "1a1RX7dVwEegJQxTa6w41EzQaDpXxdLK0",
+                      "name": "8.TỔNG ÔN MŨ-LOGARIT.mp4",
+                      "mimeType": "video/mp4",
+                      "size": 170553979,
+                      "webViewLink": "https://drive.google.com/file/d/1a1RX7dVwEegJQxTa6w41EzQaDpXxdLK0/view?usp=drivesdk",
+                      "modifiedTime": "2026-05-11T13:14:34.679Z",
+                      "videoMediaMetadata": null
+                    }
+                  ]
+                },
+                {
+                  "id": "1wnyt81QHZL0fHRKsPwj97F-qccG1kO_L",
+                  "name": "9. SINH HỌC \tGIẢI ĐỀ ÔN THI HK2 ",
+                  "webViewLink": "https://drive.google.com/drive/folders/1wnyt81QHZL0fHRKsPwj97F-qccG1kO_L",
+                  "modifiedTime": "2026-04-27T16:01:15.415Z",
+                  "children": [],
+                  "files": [
+                    {
+                      "id": "1_MY-1c_JST6I8NQ1dbW17atvbwSKH6MG",
+                      "name": "9.Ôn tập thi học kì II sinh học phần 1.mp4",
+                      "mimeType": "video/mp4",
+                      "size": 227407663,
+                      "webViewLink": "https://drive.google.com/file/d/1_MY-1c_JST6I8NQ1dbW17atvbwSKH6MG/view?usp=drivesdk",
+                      "modifiedTime": "2026-05-11T12:53:29.855Z",
+                      "videoMediaMetadata": {
+                        "width": 1280,
+                        "height": 690,
+                        "durationMillis": "5512840"
+                      }
+                    }
+                  ]
+                }
+              ],
+              "files": []
+            }
+          ],
+          "files": [
+            {
+              "id": "1JoEGmH72c3Y0IHv9KwPJUlZz8IA61_1w4rrNXxIfS4o",
+              "name": "HỖ TRỢ ÔN THI HK2 11 2K9 - EMPIRE TEAM - dautruonghoctap.io.vn",
+              "mimeType": "application/vnd.google-apps.spreadsheet",
+              "size": 3219,
+              "webViewLink": "https://docs.google.com/spreadsheets/d/1JoEGmH72c3Y0IHv9KwPJUlZz8IA61_1w4rrNXxIfS4o/edit?usp=drivesdk",
+              "modifiedTime": "2026-04-21T22:57:58.838Z",
+              "videoMediaMetadata": null
+            }
+          ]
+        }
+      ],
+      "files": [
+        {
+          "id": "1FMi3klXJJW5viiJCixBcfJ2a8pzp_fOXN16RZpA4Nnk",
+          "name": "V-ACT 2K9 EMPIRE TEAM LUYỆN THI ĐGNL TP.HCM 2027 - XPS 2K9 V-ACT 2027 (Khoá XPS) - dautruonghoctap.io.vn",
+          "mimeType": "application/vnd.google-apps.spreadsheet",
+          "size": 200738,
+          "webViewLink": "https://docs.google.com/spreadsheets/d/1FMi3klXJJW5viiJCixBcfJ2a8pzp_fOXN16RZpA4Nnk/edit?usp=drivesdk",
+          "modifiedTime": "2026-05-20T03:32:07.467Z",
+          "videoMediaMetadata": null
+        }
+      ],
+      "webViewLink": "https://drive.google.com/drive/folders/1RXZShdTjMpn8NMY9JZbu0SWvHbibx0XE",
+      "modifiedTime": "2026-04-15T13:46:58.276Z"
+    },
+    {
+      "id": "1MfUrpv1r1QAWehyhrL8jOtZfXWfaocEB",
+      "name": "3. V-ACT MAPSTUDY 2K9 LUYỆN THI ĐÁNH GIÁ NĂNG LỰC TP.HCM 2027",
+      "children": [
+        {
+          "id": "1C7KL7EhCPV-hOm1tlWAyF_1KMPdnCqnY",
+          "name": "0. INFO THÔNG TIN VÀ HƯỚNG DẪN KHOÁ HỌC",
+          "webViewLink": "https://drive.google.com/drive/folders/1C7KL7EhCPV-hOm1tlWAyF_1KMPdnCqnY",
+          "modifiedTime": "2026-04-15T22:18:56.421Z",
+          "children": [],
+          "files": []
+        },
+        {
+          "id": "1tzowWcSbxzjgyP2V2jgQ3RyucF-ocox6",
+          "name": "1. TOÁN HỌC CƠ SỞ",
+          "webViewLink": "https://drive.google.com/drive/folders/1tzowWcSbxzjgyP2V2jgQ3RyucF-ocox6",
+          "modifiedTime": "2026-04-15T22:18:55.656Z",
+          "children": [
+            {
+              "id": "1s1P9dLT4GlLZTWwOWS5eMmnVX4nhpybj",
+              "name": "#1. Buổi 1 - Cấu trúc bài thi và phạm vi kiến thức. Ôn tập Bài toán đếm",
+              "webViewLink": "https://drive.google.com/drive/folders/1s1P9dLT4GlLZTWwOWS5eMmnVX4nhpybj",
+              "modifiedTime": "2026-04-21T21:48:37.562Z",
+              "children": [],
+              "files": [
+                {
+                  "id": "1CxiohmWggmVtZPp1ztLTdf2ABI4cNB40",
+                  "name": "1. BTVN Buổi 1.pdf",
+                  "mimeType": "application/pdf",
+                  "size": 498647,
+                  "webViewLink": "https://drive.google.com/file/d/1CxiohmWggmVtZPp1ztLTdf2ABI4cNB40/view?usp=drivesdk",
+                  "modifiedTime": "2026-04-21T21:48:40.333Z",
+                  "videoMediaMetadata": null
+                },
+                {
+                  "id": "1mZxyKTC-3k3Coh7WJDPLnctzepXUMT96",
+                  "name": "2. Đáp án BTVN Buổi 1.pdf",
+                  "mimeType": "application/pdf",
+                  "size": 1252798,
+                  "webViewLink": "https://drive.google.com/file/d/1mZxyKTC-3k3Coh7WJDPLnctzepXUMT96/view?usp=drivesdk",
+                  "modifiedTime": "2026-04-21T21:48:38.409Z",
+                  "videoMediaMetadata": null
+                },
+                {
+                  "id": "1SpB-sU8cZwvrqVYWjXnOlcIT4FGMCR96",
+                  "name": "Buổi 1 - Cấu trúc bài thi và phạm vi kiến thức. Ôn tập Bài toán đếm.MP4",
+                  "mimeType": "video/mp4",
+                  "size": 734330820,
+                  "webViewLink": "https://drive.google.com/file/d/1SpB-sU8cZwvrqVYWjXnOlcIT4FGMCR96/view?usp=drivesdk",
+                  "modifiedTime": "2026-04-21T21:48:42.006Z",
+                  "videoMediaMetadata": {
+                    "width": 1280,
+                    "height": 720,
+                    "durationMillis": "5610199"
+                  }
+                }
+              ]
+            },
+            {
+              "id": "1jsLy4xd5tK0kcdnkJxbmTvLFCCzkw-Gz",
+              "name": "#2. Buổi 2 - Dãy số - Cấp số",
+              "webViewLink": "https://drive.google.com/drive/folders/1jsLy4xd5tK0kcdnkJxbmTvLFCCzkw-Gz",
+              "modifiedTime": "2026-04-21T21:48:29.671Z",
+              "children": [],
+              "files": [
+                {
+                  "id": "1KoMi8dryDJPv-P3OQ8mR6jXRZgIOge8r",
+                  "name": "1. BTVN Buổi 2.pdf",
+                  "mimeType": "application/pdf",
+                  "size": 403495,
+                  "webViewLink": "https://drive.google.com/file/d/1KoMi8dryDJPv-P3OQ8mR6jXRZgIOge8r/view?usp=drivesdk",
+                  "modifiedTime": "2026-04-21T21:48:35.414Z",
+                  "videoMediaMetadata": null
+                },
+                {
+                  "id": "1H4THmbgxOHLQrNBiVsXxBYdTqJNK8HoL",
+                  "name": "2. Đáp án BTVN Buổi 2.pdf",
+                  "mimeType": "application/pdf",
+                  "size": 479921,
+                  "webViewLink": "https://drive.google.com/file/d/1H4THmbgxOHLQrNBiVsXxBYdTqJNK8HoL/view?usp=drivesdk",
+                  "modifiedTime": "2026-04-21T21:48:32.662Z",
+                  "videoMediaMetadata": null
+                },
+                {
+                  "id": "1TfO0rE16B551aOZbxXbZU3PxpAkWjOZN",
+                  "name": "Buổi 2 - Dãy số - Cấp số.MP4",
+                  "mimeType": "video/mp4",
+                  "size": 619064072,
+                  "webViewLink": "https://drive.google.com/file/d/1TfO0rE16B551aOZbxXbZU3PxpAkWjOZN/view?usp=drivesdk",
+                  "modifiedTime": "2026-04-21T21:48:30.690Z",
+                  "videoMediaMetadata": null
+                }
+              ]
+            },
+            {
+              "id": "1gREGTt4KCczX7qcGKutZwwvFDoVLZKrl",
+              "name": "#3. Buổi 3- Dãy số - Cấp số (Phần 2)",
+              "webViewLink": "https://drive.google.com/drive/folders/1gREGTt4KCczX7qcGKutZwwvFDoVLZKrl",
+              "modifiedTime": "2026-05-05T10:27:08.035Z",
+              "children": [],
+              "files": [
+                {
+                  "id": "10-aF37OU1dx5UXQsxVglXnXq0v7t3hPO",
+                  "name": "1. Tài liệu bài giảng.PDF",
+                  "mimeType": "application/pdf",
+                  "size": 3129991,
+                  "webViewLink": "https://drive.google.com/file/d/10-aF37OU1dx5UXQsxVglXnXq0v7t3hPO/view?usp=drivesdk",
+                  "modifiedTime": "2026-05-05T10:27:10.657Z",
+                  "videoMediaMetadata": null
+                },
+                {
+                  "id": "1jRZII49bwTAh2FozEgVszINMiegkanB4",
+                  "name": "Buổi 3- Dãy số - Cấp số (Phần 2).MP4",
+                  "mimeType": "video/mp4",
+                  "size": 568639840,
+                  "webViewLink": "https://drive.google.com/file/d/1jRZII49bwTAh2FozEgVszINMiegkanB4/view?usp=drivesdk",
+                  "modifiedTime": "2026-05-05T10:27:09.014Z",
+                  "videoMediaMetadata": {
+                    "width": 1280,
+                    "height": 720,
+                    "durationMillis": "4325533"
+                  }
+                }
+              ]
+            }
+          ],
+          "files": []
+        },
+        {
+          "id": "1-aXOjnEaSFVSyaYvHYsbvkzd7CCNKS2h",
+          "name": "10. ĐỊA LÝ",
+          "webViewLink": "https://drive.google.com/drive/folders/1-aXOjnEaSFVSyaYvHYsbvkzd7CCNKS2h",
+          "modifiedTime": "2026-04-15T22:18:47.415Z",
+          "children": [],
+          "files": []
+        },
+        {
+          "id": "1xcrA6ZwYZ6O3Qf3O_x2X8CEfmFCUdtZa",
+          "name": "11. GIÁO DỤC KINH TẾ PHÁP LUẬT",
+          "webViewLink": "https://drive.google.com/drive/folders/1xcrA6ZwYZ6O3Qf3O_x2X8CEfmFCUdtZa",
+          "modifiedTime": "2026-04-15T22:18:46.478Z",
+          "children": [],
+          "files": []
+        },
+        {
+          "id": "1i0lnY_b5J5QJwTJ-F70lj5M820ZaOBwZ",
+          "name": "2. TOÁN TƯ DUY LOGIC",
+          "webViewLink": "https://drive.google.com/drive/folders/1i0lnY_b5J5QJwTJ-F70lj5M820ZaOBwZ",
+          "modifiedTime": "2026-04-15T22:18:54.798Z",
+          "children": [],
+          "files": []
+        },
+        {
+          "id": "1hRCo-Imk10PZpsXS-M99PYRcJ0ApC4CB",
+          "name": "3. TOÁN PHÂN TÍCH SỐ LIỆU",
+          "webViewLink": "https://drive.google.com/drive/folders/1hRCo-Imk10PZpsXS-M99PYRcJ0ApC4CB",
+          "modifiedTime": "2026-04-15T22:18:54.001Z",
+          "children": [],
+          "files": []
+        },
+        {
+          "id": "10w598RsmxkJQfQF7GvsOO20wuLCaJbtj",
+          "name": "4. TIẾNG VIỆT",
+          "webViewLink": "https://drive.google.com/drive/folders/10w598RsmxkJQfQF7GvsOO20wuLCaJbtj",
+          "modifiedTime": "2026-04-15T22:18:53.192Z",
+          "children": [
+            {
+              "id": "15VzM19qcOsl4XsbPJ5c5pfmvgL-rbW9i",
+              "name": "#1. Buổi 1 - Giới thiệu chung về phần Định Tính HSA, và Tiếng Việt V-ACT",
+              "webViewLink": "https://drive.google.com/drive/folders/15VzM19qcOsl4XsbPJ5c5pfmvgL-rbW9i",
+              "modifiedTime": "2026-04-21T21:48:25.420Z",
+              "children": [],
+              "files": [
+                {
+                  "id": "1oClJJJgWdBBHbaaFbS4t5o6wZbpuo2Uv",
+                  "name": "Buổi 1 - Giới thiệu chung về phần Định Tính HSA, và Tiếng Việt V-ACT.MP4",
+                  "mimeType": "video/mp4",
+                  "size": 546455088,
+                  "webViewLink": "https://drive.google.com/file/d/1oClJJJgWdBBHbaaFbS4t5o6wZbpuo2Uv/view?usp=drivesdk",
+                  "modifiedTime": "2026-04-21T21:48:26.365Z",
+                  "videoMediaMetadata": {
+                    "width": 1280,
+                    "height": 720,
+                    "durationMillis": "5333733"
+                  }
+                }
+              ]
+            },
+            {
+              "id": "1zey_L8m0HC9ajKNeTGfEY143VkL8QPoH",
+              "name": "#2. Buổi 2 - Từ và cấu tạo chung của từ",
+              "webViewLink": "https://drive.google.com/drive/folders/1zey_L8m0HC9ajKNeTGfEY143VkL8QPoH",
+              "modifiedTime": "2026-04-21T21:48:18.075Z",
+              "children": [],
+              "files": [
+                {
+                  "id": "1oDvMcAYZ31J5j_nNCv_ee1kSruaqv-0e",
+                  "name": " Tài liệu bài giảng.pdf",
+                  "mimeType": "application/pdf",
+                  "size": 1281092,
+                  "webViewLink": "https://drive.google.com/file/d/1oDvMcAYZ31J5j_nNCv_ee1kSruaqv-0e/view?usp=drivesdk",
+                  "modifiedTime": "2026-04-27T15:58:58.603Z",
+                  "videoMediaMetadata": null
+                },
+                {
+                  "id": "1PsS8l4DFrl4j9zVIkFxbg2AiAuoDLJ4C",
+                  "name": "1. BTVN Buổi 2 - Từ và cấu tạo chung của từ.pdf",
+                  "mimeType": "application/pdf",
+                  "size": 600848,
+                  "webViewLink": "https://drive.google.com/file/d/1PsS8l4DFrl4j9zVIkFxbg2AiAuoDLJ4C/view?usp=drivesdk",
+                  "modifiedTime": "2026-04-21T21:48:18.953Z",
+                  "videoMediaMetadata": null
+                },
+                {
+                  "id": "16peuh7H3esy8C2MlUawdN2Koddw9W_h1",
+                  "name": "2. Đáp án BTVN Buổi 2 - Từ và cấu tạo chung của từ.pdf",
+                  "mimeType": "application/pdf",
+                  "size": 642008,
+                  "webViewLink": "https://drive.google.com/file/d/16peuh7H3esy8C2MlUawdN2Koddw9W_h1/view?usp=drivesdk",
+                  "modifiedTime": "2026-04-21T21:48:21.186Z",
+                  "videoMediaMetadata": null
+                },
+                {
+                  "id": "19Nhlm4bCcfQTfXfn5sYuIeJbPN4wPQDn",
+                  "name": "Buổi 2 - Từ và cấu tạo chung của từ.MP4",
+                  "mimeType": "video/mp4",
+                  "size": 494158752,
+                  "webViewLink": "https://drive.google.com/file/d/19Nhlm4bCcfQTfXfn5sYuIeJbPN4wPQDn/view?usp=drivesdk",
+                  "modifiedTime": "2026-04-21T21:48:23.068Z",
+                  "videoMediaMetadata": {
+                    "width": 1280,
+                    "height": 720,
+                    "durationMillis": "5730199"
+                  }
+                }
+              ]
+            },
+            {
+              "id": "1ncWYDwJaSoNdWT0CUB0QsPLNtdaNqwEK",
+              "name": "#3. Buổi 3 - Nghĩa của từ",
+              "webViewLink": "https://drive.google.com/drive/folders/1ncWYDwJaSoNdWT0CUB0QsPLNtdaNqwEK",
+              "modifiedTime": "2026-04-21T21:48:11.601Z",
+              "children": [],
+              "files": [
+                {
+                  "id": "1GXrXP8X50jn5QXDCVIB6QDCtfY4vUwoJ",
+                  "name": "1. BTVN Buổi 3 - Nghĩa của từ.pdf",
+                  "mimeType": "application/pdf",
+                  "size": 591350,
+                  "webViewLink": "https://drive.google.com/file/d/1GXrXP8X50jn5QXDCVIB6QDCtfY4vUwoJ/view?usp=drivesdk",
+                  "modifiedTime": "2026-04-21T21:48:14.419Z",
+                  "videoMediaMetadata": null
+                },
+                {
+                  "id": "10uwi1lfXGi9WtSjFUjJ4u-hghT98I2LG",
+                  "name": "2. Đáp án BTVN Buổi 3 - Nghĩa của từ.pdf",
+                  "mimeType": "application/pdf",
+                  "size": 617916,
+                  "webViewLink": "https://drive.google.com/file/d/10uwi1lfXGi9WtSjFUjJ4u-hghT98I2LG/view?usp=drivesdk",
+                  "modifiedTime": "2026-04-21T21:48:12.610Z",
+                  "videoMediaMetadata": null
+                },
+                {
+                  "id": "1NatMi8K7YZl2EkoioHobqgAQu9HLGGAw",
+                  "name": "Buổi 3 - Nghĩa của từ.MP4",
+                  "mimeType": "video/mp4",
+                  "size": 450062036,
+                  "webViewLink": "https://drive.google.com/file/d/1NatMi8K7YZl2EkoioHobqgAQu9HLGGAw/view?usp=drivesdk",
+                  "modifiedTime": "2026-04-21T21:48:16.160Z",
+                  "videoMediaMetadata": {
+                    "width": 1280,
+                    "height": 720,
+                    "durationMillis": "5262066"
+                  }
+                },
+                {
+                  "id": "1vtCmP7v0jEM3zUwB7AvCiFNwE2tPV0rY",
+                  "name": "Tài liệu bài giảng.pdf",
+                  "mimeType": "application/pdf",
+                  "size": 1006056,
+                  "webViewLink": "https://drive.google.com/file/d/1vtCmP7v0jEM3zUwB7AvCiFNwE2tPV0rY/view?usp=drivesdk",
+                  "modifiedTime": "2026-04-27T15:58:55.627Z",
+                  "videoMediaMetadata": null
+                }
+              ]
+            },
+            {
+              "id": "12UtjRMl_Sd4mJrUztVNdcIvvKyfvW06l",
+              "name": "#4. Buổi 4 - Những lỗi sai thường gặp khi dùng từ",
+              "webViewLink": "https://drive.google.com/drive/folders/12UtjRMl_Sd4mJrUztVNdcIvvKyfvW06l",
+              "modifiedTime": "2026-05-05T10:26:57.031Z",
+              "children": [],
+              "files": [
+                {
+                  "id": "1C5wXCjhupjYxNsyfvcj47eIdy9Fqqe17",
+                  "name": "1.pdf",
+                  "mimeType": "application/pdf",
+                  "size": 620336,
+                  "webViewLink": "https://drive.google.com/file/d/1C5wXCjhupjYxNsyfvcj47eIdy9Fqqe17/view?usp=drivesdk",
+                  "modifiedTime": "2026-05-05T10:27:01.322Z",
+                  "videoMediaMetadata": null
+                },
+                {
+                  "id": "1LE4-VMCmWHyfw_GnWYEIuHMEDdtQn12D",
+                  "name": "2.pdf",
+                  "mimeType": "application/pdf",
+                  "size": 571961,
+                  "webViewLink": "https://drive.google.com/file/d/1LE4-VMCmWHyfw_GnWYEIuHMEDdtQn12D/view?usp=drivesdk",
+                  "modifiedTime": "2026-05-05T10:26:59.718Z",
+                  "videoMediaMetadata": null
+                },
+                {
+                  "id": "1Dg93ZCLZsxjMIh7dVJ5eUn8yG6FX3ygH",
+                  "name": "3.pdf",
+                  "mimeType": "application/pdf",
+                  "size": 815623,
+                  "webViewLink": "https://drive.google.com/file/d/1Dg93ZCLZsxjMIh7dVJ5eUn8yG6FX3ygH/view?usp=drivesdk",
+                  "modifiedTime": "2026-05-05T10:27:02.982Z",
+                  "videoMediaMetadata": null
+                },
+                {
+                  "id": "1jEsxYODSARG-2CppqPXGmHjGWeShkyX4",
+                  "name": "Buổi 4 - Những lỗi sai thường gặp khi dùng từ.MP4",
+                  "mimeType": "video/mp4",
+                  "size": 443634316,
+                  "webViewLink": "https://drive.google.com/file/d/1jEsxYODSARG-2CppqPXGmHjGWeShkyX4/view?usp=drivesdk",
+                  "modifiedTime": "2026-05-05T10:26:57.985Z",
+                  "videoMediaMetadata": null
+                }
+              ]
+            },
+            {
+              "id": "1qW4oAOBdREFpfd0vQJ5avgNage1MFw2B",
+              "name": "#5. Buổi 5 - Câu và các thành phần câu",
+              "webViewLink": "https://drive.google.com/drive/folders/1qW4oAOBdREFpfd0vQJ5avgNage1MFw2B",
+              "modifiedTime": "2026-05-14T10:53:48.820Z",
+              "children": [],
+              "files": [
+                {
+                  "id": "1Zt_OIG-USNTuiCS895snDfsxjuBlOO_5",
+                  "name": "1. BTVN Buổi 5 - Câu và các thành phần câu.pdf",
+                  "mimeType": "application/pdf",
+                  "size": 580183,
+                  "webViewLink": "https://drive.google.com/file/d/1Zt_OIG-USNTuiCS895snDfsxjuBlOO_5/view?usp=drivesdk",
+                  "modifiedTime": "2026-05-14T10:53:52.313Z",
+                  "videoMediaMetadata": null
+                },
+                {
+                  "id": "1NgnHu3nj0ILNCy2u_4hZ98OKHiDgUy7o",
+                  "name": "2. Đáp án BTVN Buổi 5 - Câu và các thành phần câu.pdf",
+                  "mimeType": "application/pdf",
+                  "size": 614057,
+                  "webViewLink": "https://drive.google.com/file/d/1NgnHu3nj0ILNCy2u_4hZ98OKHiDgUy7o/view?usp=drivesdk",
+                  "modifiedTime": "2026-05-14T10:53:50.496Z",
+                  "videoMediaMetadata": null
+                },
+                {
+                  "id": "1EuXo6hg07EEInQ9TU4nToRsryRXPNG5O",
+                  "name": "Buổi 5 - Câu và các thành phần câu.MP4",
+                  "mimeType": "video/mp4",
+                  "size": 526007456,
+                  "webViewLink": "https://drive.google.com/file/d/1EuXo6hg07EEInQ9TU4nToRsryRXPNG5O/view?usp=drivesdk",
+                  "modifiedTime": "2026-05-14T10:53:54.134Z",
+                  "videoMediaMetadata": null
+                }
+              ]
+            },
+            {
+              "id": "13pJ6Jw1kEoq3qs0iqNO_TfzjlVjdTYH5",
+              "name": "#6. Buổi 6 - Các thành phần biệt lập",
+              "webViewLink": "https://drive.google.com/drive/folders/13pJ6Jw1kEoq3qs0iqNO_TfzjlVjdTYH5",
+              "modifiedTime": "2026-05-14T10:53:56.751Z",
+              "children": [],
+              "files": [
+                {
+                  "id": "15i76Fekz9ucT3kG5dPvIeXXI_q7BsRrU",
+                  "name": "1. BTVN Buổi 6 - Các thành phần biệt lập.pdf",
+                  "mimeType": "application/pdf",
+                  "size": 640661,
+                  "webViewLink": "https://drive.google.com/file/d/15i76Fekz9ucT3kG5dPvIeXXI_q7BsRrU/view?usp=drivesdk",
+                  "modifiedTime": "2026-05-14T10:53:58.283Z",
+                  "videoMediaMetadata": null
+                },
+                {
+                  "id": "1B2N-jEvu_iWdGmCaKAN6Kev4qHrnJ5LZ",
+                  "name": "Buổi 6 - Các thành phần biệt lập.MP4",
+                  "mimeType": "video/mp4",
+                  "size": 528467624,
+                  "webViewLink": "https://drive.google.com/file/d/1B2N-jEvu_iWdGmCaKAN6Kev4qHrnJ5LZ/view?usp=drivesdk",
+                  "modifiedTime": "2026-05-14T10:53:59.870Z",
+                  "videoMediaMetadata": null
+                }
+              ]
+            },
+            {
+              "id": "10r3nstgkx1MOC1J_RtYycUN2yDNWCrkw",
+              "name": "#7. Buổi 7 - Câu theo cấu tạo ngữ pháp",
+              "webViewLink": "https://drive.google.com/drive/folders/10r3nstgkx1MOC1J_RtYycUN2yDNWCrkw",
+              "modifiedTime": "2026-05-25T09:59:44.513Z",
+              "children": [],
+              "files": [
+                {
+                  "id": "1vfKpp9nf8wFqNeZgXpfmdv-cQ3No9tnU",
+                  "name": "BTVN Buổi 7 - Câu theo cấu tạo ngữ pháp.pdf",
+                  "mimeType": "application/pdf",
+                  "size": 629861,
+                  "webViewLink": "https://drive.google.com/file/d/1vfKpp9nf8wFqNeZgXpfmdv-cQ3No9tnU/view?usp=drivesdk",
+                  "modifiedTime": "2026-05-25T09:59:45.564Z",
+                  "videoMediaMetadata": null
+                },
+                {
+                  "id": "1dOkOhbYfkmYkw5-31Uzav3ky1o4kVk5V",
+                  "name": "Buổi 7 - Câu theo cấu tạo ngữ pháp.MP4",
+                  "mimeType": "video/mp4",
+                  "size": 477492364,
+                  "webViewLink": "https://drive.google.com/file/d/1dOkOhbYfkmYkw5-31Uzav3ky1o4kVk5V/view?usp=drivesdk",
+                  "modifiedTime": "2026-05-25T09:59:45.568Z",
+                  "videoMediaMetadata": {
+                    "width": 1280,
+                    "height": 720,
+                    "durationMillis": "5279133"
+                  }
+                },
+                {
+                  "id": "1-SEqaYKmaY6HlKQeISFJ-Dd00xvgeSLB",
+                  "name": "Đáp án BTVN Buổi 7 - Câu theo cấu tạo ngữ pháp.pdf",
+                  "mimeType": "application/pdf",
+                  "size": 665573,
+                  "webViewLink": "https://drive.google.com/file/d/1-SEqaYKmaY6HlKQeISFJ-Dd00xvgeSLB/view?usp=drivesdk",
+                  "modifiedTime": "2026-05-25T09:59:45.563Z",
+                  "videoMediaMetadata": null
+                }
+              ]
+            }
+          ],
+          "files": []
+        },
+        {
+          "id": "1tUzez20jCxlMgfOUApFSBWNaVAbVV-ds",
+          "name": "5. TIẾNG ANH",
+          "webViewLink": "https://drive.google.com/drive/folders/1tUzez20jCxlMgfOUApFSBWNaVAbVV-ds",
+          "modifiedTime": "2026-04-15T22:18:51.881Z",
+          "children": [],
+          "files": []
+        },
+        {
+          "id": "1jgjpft6v-j7H7ddC-ORrWsDbcCLaTy92",
+          "name": "6. VẬT LÝ",
+          "webViewLink": "https://drive.google.com/drive/folders/1jgjpft6v-j7H7ddC-ORrWsDbcCLaTy92",
+          "modifiedTime": "2026-04-15T22:18:51.002Z",
+          "children": [],
+          "files": []
+        },
+        {
+          "id": "1hRi1kM1U-zm5ObqtuaLnBwhY-2cZePQv",
+          "name": "7. HOÁ HỌC",
+          "webViewLink": "https://drive.google.com/drive/folders/1hRi1kM1U-zm5ObqtuaLnBwhY-2cZePQv",
+          "modifiedTime": "2026-04-15T22:18:50.246Z",
+          "children": [],
+          "files": []
+        },
+        {
+          "id": "1v1ltaGrpybsKY-UvK_zunlEqT0nv2wbf",
+          "name": "8. SINH HỌC",
+          "webViewLink": "https://drive.google.com/drive/folders/1v1ltaGrpybsKY-UvK_zunlEqT0nv2wbf",
+          "modifiedTime": "2026-04-15T22:18:49.329Z",
+          "children": [],
+          "files": []
+        },
+        {
+          "id": "102UgL9RKeN315wgqv90zuhSe2lLDO9Qy",
+          "name": "9. LỊCH SỬ",
+          "webViewLink": "https://drive.google.com/drive/folders/102UgL9RKeN315wgqv90zuhSe2lLDO9Qy",
+          "modifiedTime": "2026-04-15T22:18:48.262Z",
+          "children": [],
+          "files": []
+        },
+        {
+          "id": "1UzT1_yoL887P_lviHY-K-f5f1HUfMRqM",
+          "name": "Z. EBOOK SÁCH KÈM KHOÁ HỌC",
+          "webViewLink": "https://drive.google.com/drive/folders/1UzT1_yoL887P_lviHY-K-f5f1HUfMRqM",
+          "modifiedTime": "2026-04-15T22:18:57.255Z",
+          "children": [],
+          "files": []
+        }
+      ],
+      "files": [
+        {
+          "id": "1k3kOvRI5kNY2450QrLH7XGsN-clnOVQv7pTZM58fiuo",
+          "name": "V-ACT MAPSTUDY 2K9 LUYỆN THI ĐÁNH GIÁ NĂNG LỰC TP.HCM 2027 - XPS 2K9 V-ACT 2027- dautruonghoctap.io.vn🔥",
+          "mimeType": "application/vnd.google-apps.spreadsheet",
+          "size": 4486,
+          "webViewLink": "https://docs.google.com/spreadsheets/d/1k3kOvRI5kNY2450QrLH7XGsN-clnOVQv7pTZM58fiuo/edit?usp=drivesdk",
+          "modifiedTime": "2026-05-20T11:49:02.492Z",
+          "videoMediaMetadata": null
+        }
+      ],
+      "webViewLink": "https://drive.google.com/drive/folders/1MfUrpv1r1QAWehyhrL8jOtZfXWfaocEB",
+      "modifiedTime": "2026-04-15T13:46:55.167Z"
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "teacherId": "1MOJZkoXKJ4FGp6cSneg3YbfBZw6EIqAR",
+  "tabs": {
+    "1EB0oo_5JG6QPx-k1RW_Xrk_sns4iwImt": {
+      "tabName": "ZOOM-H",
+      "renderedAt": "2026-05-31T04:03:08.631Z",
+      "checksum": "1EB0oo_5JG6QPx-k1RW_Xrk_sns4iwImt|2026-04-19T03:39:40.603Z|0",
+      "lessons": [],
+      "rendererVersion": "4.3.1",
+      "styleVersion": "2026-05-31-student-banner-no-meta-v2",
+      "runId": "no-meta-sync-2026-05-31-104541",
+      "spreadsheetId": "1kvOyeCUUaozB2L0nCldB4XXiIb97UWi6NCQhpyVGdmM",
+      "stats": {
+        "leafCount": 0,
+        "totalVideos": 0
+      }
+    },
+    "1R1a9R32p6ATuidOFmq2V95TyuieTtOk1": {
+      "tabName": "ZOOM-T",
+      "renderedAt": "2026-05-31T04:03:15.637Z",
+      "checksum": "1R1a9R32p6ATuidOFmq2V95TyuieTtOk1|2026-04-19T03:39:39.913Z|0",
+      "lessons": [],
+      "rendererVersion": "4.3.1",
+      "styleVersion": "2026-05-31-student-banner-no-meta-v2",
+      "runId": "no-meta-sync-2026-05-31-104541",
+      "spreadsheetId": "1kvOyeCUUaozB2L0nCldB4XXiIb97UWi6NCQhpyVGdmM",
+      "stats": {
+        "leafCount": 0,
+        "totalVideos": 0
+      }
+    }
+  },
+  "updatedAt": "2026-05-31T04:03:15.638Z",
+  "version": 2
+}

@@ -1,0 +1,598 @@
+{
+  "crawledAt": "2026-05-29T10:38:20.761Z",
+  "teacher": {
+    "id": "16Q7U3U2n8nHfKZBu1EgFsbXJp-LVvsLK",
+    "name": "3. LÝ THẦY THẮNG, THẦY TIẾN IPCLASS 2K9",
+    "modifiedTime": "2026-05-27T15:22:37.838Z",
+    "webViewLink": "https://drive.google.com/drive/folders/16Q7U3U2n8nHfKZBu1EgFsbXJp-LVvsLK"
+  },
+  "courses": [
+    {
+      "id": "1QX0QSa6PvJnwRS7gY1qTeiVGw1LMHzHL",
+      "name": "0. INFO THÔNG TIN VÀ HƯỚNG DẪN KHOÁ HỌC",
+      "children": [],
+      "files": [],
+      "webViewLink": "https://drive.google.com/drive/folders/1QX0QSa6PvJnwRS7gY1qTeiVGw1LMHzHL",
+      "modifiedTime": "2026-04-19T03:39:48.217Z"
+    },
+    {
+      "id": "1Lh1dMaoqt47jffJtkYHF6h7bkG1owJ4g",
+      "name": "1. KHOÁ IP01 CHUYÊN ĐỀ TOÀN DIỆN 12",
+      "children": [
+        {
+          "id": "1mseyM4bVUNCQKTiET_G8BYs4tbXqBjiE",
+          "name": "0. HƯỚNG DẪN HỌC",
+          "webViewLink": "https://drive.google.com/drive/folders/1mseyM4bVUNCQKTiET_G8BYs4tbXqBjiE",
+          "modifiedTime": "2026-04-30T23:20:36.249Z",
+          "children": [],
+          "files": [
+            {
+              "id": "1qGOxYNirGJobYZxPkppcNI8CkIVCGXd4",
+              "name": "Hướng dẫn cách học cho các bạn mới tham gia --  2k9 XPS lớp 12 -- IPclass.mp4",
+              "mimeType": "video/mp4",
+              "size": 30550941,
+              "webViewLink": "https://drive.google.com/file/d/1qGOxYNirGJobYZxPkppcNI8CkIVCGXd4/view?usp=drivesdk",
+              "modifiedTime": "2026-04-30T23:20:36.977Z",
+              "videoMediaMetadata": {
+                "width": 1920,
+                "height": 1080,
+                "durationMillis": "375433"
+              }
+            }
+          ]
+        },
+        {
+          "id": "1Z_kqV76Shwjz8ibFdcORpKVMMNsqBC97",
+          "name": "1. CHƯƠNG 1 - VẬT LÍ NHIỆT",
+          "webViewLink": "https://drive.google.com/drive/folders/1Z_kqV76Shwjz8ibFdcORpKVMMNsqBC97",
+          "modifiedTime": "2026-04-30T23:18:04.970Z",
+          "children": [
+            {
+              "id": "111Lr5m6QK8FdQ04bGesSVlArOjGi8oC-",
+              "name": "1. Chủ đề 1.1: Cấu trúc của chất",
+              "webViewLink": "https://drive.google.com/drive/folders/111Lr5m6QK8FdQ04bGesSVlArOjGi8oC-",
+              "modifiedTime": "2026-04-30T23:20:07.087Z",
+              "children": [
+                {
+                  "id": "1NA4oXF7jLwdF7gL4_Yl83tpBAFiupbMj",
+                  "name": "1. \"(1) Mô hình động học phân tử về cấu tạo chất (2) Cấu trúc của chất rắn, chất lỏng và chất khí\"",
+                  "webViewLink": "https://drive.google.com/drive/folders/1NA4oXF7jLwdF7gL4_Yl83tpBAFiupbMj",
+                  "modifiedTime": "2026-04-30T23:20:22.618Z",
+                  "children": [],
+                  "files": [
+                    {
+                      "id": "1tLza2x490M36LDChAY6e7gNO_iSWGVIG",
+                      "name": "[2K9-XPS IPclass] Chu de 1.1. CẤU TRÚC CỦA CHẤT.pdf",
+                      "mimeType": "application/pdf",
+                      "size": 8969970,
+                      "webViewLink": "https://drive.google.com/file/d/1tLza2x490M36LDChAY6e7gNO_iSWGVIG/view?usp=drivesdk",
+                      "modifiedTime": "2026-04-30T23:20:35.133Z",
+                      "videoMediaMetadata": null
+                    },
+                    {
+                      "id": "176Yybgeuo1_bO-7xozcrzzKpsraTZTPz",
+                      "name": "Chủ đề 1.1- Lí thuyết - 2K9 XPS - Khóa PT năng lực Vật Lí 12 - IPclass.mp4",
+                      "mimeType": "video/mp4",
+                      "size": 401238751,
+                      "webViewLink": "https://drive.google.com/file/d/176Yybgeuo1_bO-7xozcrzzKpsraTZTPz/view?usp=drivesdk",
+                      "modifiedTime": "2026-05-11T13:38:08.563Z",
+                      "videoMediaMetadata": {
+                        "width": 1920,
+                        "height": 1080,
+                        "durationMillis": "8304559"
+                      }
+                    }
+                  ]
+                },
+                {
+                  "id": "1dvLwmuh65Lj06_JrqpuxFnAgAAkotOnN",
+                  "name": "2. Luyện tập chủ đề 1.1",
+                  "webViewLink": "https://drive.google.com/drive/folders/1dvLwmuh65Lj06_JrqpuxFnAgAAkotOnN",
+                  "modifiedTime": "2026-04-30T23:20:07.793Z",
+                  "children": [],
+                  "files": [
+                    {
+                      "id": "1o-QK8rJOl33oDSwk803VEzZryM0mP6tN",
+                      "name": "[2K9-XPS IPclass] Chu de 1.1. CẤU TRÚC CỦA CHẤT.pdf",
+                      "mimeType": "application/pdf",
+                      "size": 8969970,
+                      "webViewLink": "https://drive.google.com/file/d/1o-QK8rJOl33oDSwk803VEzZryM0mP6tN/view?usp=drivesdk",
+                      "modifiedTime": "2026-04-30T23:20:21.499Z",
+                      "videoMediaMetadata": null
+                    },
+                    {
+                      "id": "1EbrfTWEcGTrb7FlQ1mJIwGgnZefTl-0P",
+                      "name": "Chủ đề 1.1- Bài tập - 2K9 XPS - Khóa PT năng lực Vật Lí 12 - IPclass.mp4",
+                      "mimeType": "video/mp4",
+                      "size": 234622359,
+                      "webViewLink": "https://drive.google.com/file/d/1EbrfTWEcGTrb7FlQ1mJIwGgnZefTl-0P/view?usp=drivesdk",
+                      "modifiedTime": "2026-05-11T13:35:35.892Z",
+                      "videoMediaMetadata": {
+                        "width": 1920,
+                        "height": 1080,
+                        "durationMillis": "3716039"
+                      }
+                    },
+                    {
+                      "id": "1T9oGrWpn-49CJ_h7PN0ah9jbnIZ8Jitr",
+                      "name": "Đáp án chủ đề 1.1.pdf",
+                      "mimeType": "application/pdf",
+                      "size": 5132117,
+                      "webViewLink": "https://drive.google.com/file/d/1T9oGrWpn-49CJ_h7PN0ah9jbnIZ8Jitr/view?usp=drivesdk",
+                      "modifiedTime": "2026-04-30T23:20:20.420Z",
+                      "videoMediaMetadata": null
+                    }
+                  ]
+                }
+              ],
+              "files": []
+            },
+            {
+              "id": "1ujju-78lbxzTVu8tqF4MrtMw30dypaMp",
+              "name": "2. Chủ đề 1.2: Sự chuyển thể",
+              "webViewLink": "https://drive.google.com/drive/folders/1ujju-78lbxzTVu8tqF4MrtMw30dypaMp",
+              "modifiedTime": "2026-04-30T23:19:37.470Z",
+              "children": [
+                {
+                  "id": "1sCWbktAIqGtwO0BaxhE_Og17sM3Eq42x",
+                  "name": "1. \"(1) Sự chuyển thể của chất (2) Sự nóng chảy (3) Sự hóa hơi\"",
+                  "webViewLink": "https://drive.google.com/drive/folders/1sCWbktAIqGtwO0BaxhE_Og17sM3Eq42x",
+                  "modifiedTime": "2026-04-30T23:19:53.401Z",
+                  "children": [],
+                  "files": [
+                    {
+                      "id": "1q1y39ZoyjphMFUcEOHgcBAGh3J-3izz5",
+                      "name": "[2K9-XPS IPclass] Chu de 1.2. SỰ CHUYỂN THỂ.pdf",
+                      "mimeType": "application/pdf",
+                      "size": 14304200,
+                      "webViewLink": "https://drive.google.com/file/d/1q1y39ZoyjphMFUcEOHgcBAGh3J-3izz5/view?usp=drivesdk",
+                      "modifiedTime": "2026-04-30T23:20:05.947Z",
+                      "videoMediaMetadata": null
+                    },
+                    {
+                      "id": "1Tp_KDF9HjXFROM2qj2ARwbn4JcRGe8OZ",
+                      "name": "Chủ đề 1.2- Lí thuyết - 2K9 XPS - Khóa PT năng lực Vật Lí 12 - IPclass.mp4",
+                      "mimeType": "video/mp4",
+                      "size": 451615092,
+                      "webViewLink": "https://drive.google.com/file/d/1Tp_KDF9HjXFROM2qj2ARwbn4JcRGe8OZ/view?usp=drivesdk",
+                      "modifiedTime": "2026-05-11T13:35:21.341Z",
+                      "videoMediaMetadata": {
+                        "width": 0,
+                        "height": 0,
+                        "durationMillis": "0"
+                      }
+                    }
+                  ]
+                },
+                {
+                  "id": "1dnXdWbDNj_ttQeYcLAepiJCCbiD0tS7A",
+                  "name": "2. Luyện tập chủ đề 1.2",
+                  "webViewLink": "https://drive.google.com/drive/folders/1dnXdWbDNj_ttQeYcLAepiJCCbiD0tS7A",
+                  "modifiedTime": "2026-04-30T23:19:38.217Z",
+                  "children": [],
+                  "files": [
+                    {
+                      "id": "1Dmer0IQHRVGV9TfNh0UsNo_8WS2ZZdIs",
+                      "name": "[2K9-XPS IPclass] Chu de 1.2. SỰ CHUYỂN THỂ.pdf",
+                      "mimeType": "application/pdf",
+                      "size": 14304200,
+                      "webViewLink": "https://drive.google.com/file/d/1Dmer0IQHRVGV9TfNh0UsNo_8WS2ZZdIs/view?usp=drivesdk",
+                      "modifiedTime": "2026-04-30T23:19:52.232Z",
+                      "videoMediaMetadata": null
+                    },
+                    {
+                      "id": "1NLrnFQFO-ZOUbaY2iMAdNpP-cArXrxsL",
+                      "name": "Chủ đề 1.2- Bài tập - 2K9 XPS - Khóa PT năng lực Vật Lí 12 - IPclass.mp4",
+                      "mimeType": "video/mp4",
+                      "size": 358708738,
+                      "webViewLink": "https://drive.google.com/file/d/1NLrnFQFO-ZOUbaY2iMAdNpP-cArXrxsL/view?usp=drivesdk",
+                      "modifiedTime": "2026-05-11T13:32:51.627Z",
+                      "videoMediaMetadata": null
+                    },
+                    {
+                      "id": "19s7ltD2dLfPXmHniojVtnAgaFdLM_Fzk",
+                      "name": "Đáp án chủ đề 1.2.pdf",
+                      "mimeType": "application/pdf",
+                      "size": 5141163,
+                      "webViewLink": "https://drive.google.com/file/d/19s7ltD2dLfPXmHniojVtnAgaFdLM_Fzk/view?usp=drivesdk",
+                      "modifiedTime": "2026-04-30T23:19:51.009Z",
+                      "videoMediaMetadata": null
+                    }
+                  ]
+                }
+              ],
+              "files": []
+            },
+            {
+              "id": "1C33rX5xk0qodNkVsAJhTlROO1EsuN1OP",
+              "name": "3. Chủ đề 1.3: Nội năng. Định luật I của nhiệt động lực học",
+              "webViewLink": "https://drive.google.com/drive/folders/1C33rX5xk0qodNkVsAJhTlROO1EsuN1OP",
+              "modifiedTime": "2026-04-30T23:19:07.322Z",
+              "children": [
+                {
+                  "id": "1VFrlk_vY3BzDXKCrBFdKZ8rax975m2LZ",
+                  "name": "1. \"(1) Nội năng (2) Các cách làm thay đổi nội năng (3) Định luật I của nhiệt động lực học (4) Động cơ nhiệt\"",
+                  "webViewLink": "https://drive.google.com/drive/folders/1VFrlk_vY3BzDXKCrBFdKZ8rax975m2LZ",
+                  "modifiedTime": "2026-04-30T23:19:23.674Z",
+                  "children": [],
+                  "files": [
+                    {
+                      "id": "1a4YlMs_ZXIWqw6wFeRXT22ENsCvDbhVb",
+                      "name": "[2K9-XPS IPclass] Chu de 1.3. NỘI NĂNG. ĐỊNH LUẬT I CỦA NHIỆT ĐỘNG LỰC HỌC.pdf",
+                      "mimeType": "application/pdf",
+                      "size": 12220807,
+                      "webViewLink": "https://drive.google.com/file/d/1a4YlMs_ZXIWqw6wFeRXT22ENsCvDbhVb/view?usp=drivesdk",
+                      "modifiedTime": "2026-04-30T23:19:36.296Z",
+                      "videoMediaMetadata": null
+                    },
+                    {
+                      "id": "1LE548ks3oYmVCRr4t9o2RU5l0BFJW5_s",
+                      "name": "Chủ đề 1.3- Lí thuyết - 2K9 XPS - Khóa PT năng lực Vật Lí 12 - IPclass.mp4",
+                      "mimeType": "video/mp4",
+                      "size": 437398623,
+                      "webViewLink": "https://drive.google.com/file/d/1LE548ks3oYmVCRr4t9o2RU5l0BFJW5_s/view?usp=drivesdk",
+                      "modifiedTime": "2026-05-11T13:32:29.156Z",
+                      "videoMediaMetadata": {
+                        "width": 1920,
+                        "height": 1080,
+                        "durationMillis": "7130119"
+                      }
+                    }
+                  ]
+                },
+                {
+                  "id": "1XNIPzXlzDlBt1tA313T7x6kb2Es2G60I",
+                  "name": "2. Luyện tập chủ đề 1.3",
+                  "webViewLink": "https://drive.google.com/drive/folders/1XNIPzXlzDlBt1tA313T7x6kb2Es2G60I",
+                  "modifiedTime": "2026-04-30T23:19:08.092Z",
+                  "children": [],
+                  "files": [
+                    {
+                      "id": "1esJkhmHD7P6UfxTmYSxHyfQbi__lLS6p",
+                      "name": "[2K9-XPS IPclass] Chu de 1.3. NỘI NĂNG. ĐỊNH LUẬT I CỦA NHIỆT ĐỘNG LỰC HỌC.pdf",
+                      "mimeType": "application/pdf",
+                      "size": 12220807,
+                      "webViewLink": "https://drive.google.com/file/d/1esJkhmHD7P6UfxTmYSxHyfQbi__lLS6p/view?usp=drivesdk",
+                      "modifiedTime": "2026-04-30T23:19:22.501Z",
+                      "videoMediaMetadata": null
+                    },
+                    {
+                      "id": "1ReuBgqdwDHF1m7DHxLvabZDhfKYNqRI2",
+                      "name": "Chủ đề 1.3- Bài tập - 2K9 XPS - Khóa PT năng lực Vật Lí 12 - IPclass.mp4",
+                      "mimeType": "video/mp4",
+                      "size": 344665731,
+                      "webViewLink": "https://drive.google.com/file/d/1ReuBgqdwDHF1m7DHxLvabZDhfKYNqRI2/view?usp=drivesdk",
+                      "modifiedTime": "2026-05-11T13:30:16.425Z",
+                      "videoMediaMetadata": {
+                        "width": 1920,
+                        "height": 1080,
+                        "durationMillis": "5966880"
+                      }
+                    },
+                    {
+                      "id": "1sjrOVELy2ej65Ov2GhC426WXe_CNaVFr",
+                      "name": "Đáp án chủ đề 1.3.pdf",
+                      "mimeType": "application/pdf",
+                      "size": 5290142,
+                      "webViewLink": "https://drive.google.com/file/d/1sjrOVELy2ej65Ov2GhC426WXe_CNaVFr/view?usp=drivesdk",
+                      "modifiedTime": "2026-04-30T23:19:20.683Z",
+                      "videoMediaMetadata": null
+                    }
+                  ]
+                }
+              ],
+              "files": []
+            },
+            {
+              "id": "1ElxcRDHNbHMaCSVbwf-UovqgQAwb9nrm",
+              "name": "4. Chủ đề 1.4: Nhiệt độ. Thang nhiệt độ - Nhiệt kế",
+              "webViewLink": "https://drive.google.com/drive/folders/1ElxcRDHNbHMaCSVbwf-UovqgQAwb9nrm",
+              "modifiedTime": "2026-04-30T23:18:38.550Z",
+              "children": [
+                {
+                  "id": "1g8GQrzjhgT6rTdrR9G24ocUOuv8E60ss",
+                  "name": "1. \"(1) Sự truyền năng lượng nhiệt (2) Thang nhiệt độ (3) Nhiệt kế\"",
+                  "webViewLink": "https://drive.google.com/drive/folders/1g8GQrzjhgT6rTdrR9G24ocUOuv8E60ss",
+                  "modifiedTime": "2026-04-30T23:18:53.427Z",
+                  "children": [],
+                  "files": [
+                    {
+                      "id": "140iLZIpKH_IR6TGAD6gq_0uNK3yhqOnn",
+                      "name": "[2K9-XPS IPclass] Chu de 1.4. NHIỆT ĐỘ. THANG NHIỆT ĐỘ - NHIỆT KẾ.pdf",
+                      "mimeType": "application/pdf",
+                      "size": 13765948,
+                      "webViewLink": "https://drive.google.com/file/d/140iLZIpKH_IR6TGAD6gq_0uNK3yhqOnn/view?usp=drivesdk",
+                      "modifiedTime": "2026-04-30T23:19:06.181Z",
+                      "videoMediaMetadata": null
+                    },
+                    {
+                      "id": "155UrShnz64STAVjGHZ5ig5C-RfqD2dhy",
+                      "name": "Chủ đề 1.4- Lí thuyết - 2K9 XPS - Khóa PT năng lực Vật Lí 12 - IPclass.mp4",
+                      "mimeType": "video/mp4",
+                      "size": 335110702,
+                      "webViewLink": "https://drive.google.com/file/d/155UrShnz64STAVjGHZ5ig5C-RfqD2dhy/view?usp=drivesdk",
+                      "modifiedTime": "2026-05-11T13:29:55.023Z",
+                      "videoMediaMetadata": null
+                    }
+                  ]
+                },
+                {
+                  "id": "1lmMuZAzTrWbsyMFFhcitIJBQv4Fqov0c",
+                  "name": "2. Luyện tập chủ đề 1.4",
+                  "webViewLink": "https://drive.google.com/drive/folders/1lmMuZAzTrWbsyMFFhcitIJBQv4Fqov0c",
+                  "modifiedTime": "2026-04-30T23:18:39.285Z",
+                  "children": [],
+                  "files": [
+                    {
+                      "id": "19-87wquGbcvy0_xnB9nap-3T5iEPIYwZ",
+                      "name": "[2K9-XPS IPclass] Chu de 1.4. NHIỆT ĐỘ. THANG NHIỆT ĐỘ - NHIỆT KẾ.pdf",
+                      "mimeType": "application/pdf",
+                      "size": 13765948,
+                      "webViewLink": "https://drive.google.com/file/d/19-87wquGbcvy0_xnB9nap-3T5iEPIYwZ/view?usp=drivesdk",
+                      "modifiedTime": "2026-04-30T23:18:52.248Z",
+                      "videoMediaMetadata": null
+                    },
+                    {
+                      "id": "1kPcZZi_CueNE1j5c52fnSiN_nZIzkoFd",
+                      "name": "Chủ đề 1.4- Bài tập - 2K9 XPS - Khóa PT năng lực Vật Lí 12 - IPclass.mp4",
+                      "mimeType": "video/mp4",
+                      "size": 399263796,
+                      "webViewLink": "https://drive.google.com/file/d/1kPcZZi_CueNE1j5c52fnSiN_nZIzkoFd/view?usp=drivesdk",
+                      "modifiedTime": "2026-05-11T13:29:39.398Z",
+                      "videoMediaMetadata": {
+                        "width": 1920,
+                        "height": 1080,
+                        "durationMillis": "6469760"
+                      }
+                    }
+                  ]
+                }
+              ],
+              "files": []
+            },
+            {
+              "id": "1ADaV0l6--QHps6l_32npUgQYmZ_RsVqO",
+              "name": "5. Luyện tập",
+              "webViewLink": "https://drive.google.com/drive/folders/1ADaV0l6--QHps6l_32npUgQYmZ_RsVqO",
+              "modifiedTime": "2026-04-30T23:18:07.574Z",
+              "children": [
+                {
+                  "id": "18yDDeabe6qJ2K8EVSFl4GvS2y2IWXh1J",
+                  "name": "1. ÔN TẬP CÁC CHỦ ĐỀ ĐÃ HỌC (1.1 đến 1.4)",
+                  "webViewLink": "https://drive.google.com/drive/folders/18yDDeabe6qJ2K8EVSFl4GvS2y2IWXh1J",
+                  "modifiedTime": "2026-04-30T23:18:23.372Z",
+                  "children": [],
+                  "files": [
+                    {
+                      "id": "19-4mx0S7aQ0hdgqppxVQYLLVNp2o8qAt",
+                      "name": "[IPclass] 2K9 - ĐỀ CƯƠNG ÔN TẬP CHỦ ĐỀ 1.1,1.2,1.3,1.4.pdf",
+                      "mimeType": "application/pdf",
+                      "size": 5945174,
+                      "webViewLink": "https://drive.google.com/file/d/19-4mx0S7aQ0hdgqppxVQYLLVNp2o8qAt/view?usp=drivesdk",
+                      "modifiedTime": "2026-04-30T23:18:37.334Z",
+                      "videoMediaMetadata": null
+                    },
+                    {
+                      "id": "18pCxp27CoK_XXacRwZx_qx9m2A3exWss",
+                      "name": "Ôn tập 4 chủ đề đầu tiên.pdf",
+                      "mimeType": "application/pdf",
+                      "size": 35967912,
+                      "webViewLink": "https://drive.google.com/file/d/18pCxp27CoK_XXacRwZx_qx9m2A3exWss/view?usp=drivesdk",
+                      "modifiedTime": "2026-04-30T23:18:35.996Z",
+                      "videoMediaMetadata": null
+                    },
+                    {
+                      "id": "18LgzGafxWSigdfD_GnmQTCfeFpstdywh",
+                      "name": "Ôn tập chủ đề 1.1, 1.2, 1.3, 1.4 - 2K9 XPS - IP01. Khóa PT năng lực Vật Lí 12 - IPclass.mp4",
+                      "mimeType": "video/mp4",
+                      "size": 318668694,
+                      "webViewLink": "https://drive.google.com/file/d/18LgzGafxWSigdfD_GnmQTCfeFpstdywh/view?usp=drivesdk",
+                      "modifiedTime": "2026-05-11T13:27:39.952Z",
+                      "videoMediaMetadata": null
+                    }
+                  ]
+                },
+                {
+                  "id": "1sjZjzjJRaiCLEDNEXZSKVCHAiaciqw2S",
+                  "name": "2. ĐỀ ĐÁNH GIÁ NĂNG LỰC LẦN 1 (1.1 đến 1.4)",
+                  "webViewLink": "https://drive.google.com/drive/folders/1sjZjzjJRaiCLEDNEXZSKVCHAiaciqw2S",
+                  "modifiedTime": "2026-04-30T23:18:08.362Z",
+                  "children": [],
+                  "files": [
+                    {
+                      "id": "1B1q57G6Bs-JZq_BdqzEHBdavEWD0yrU3",
+                      "name": "[IPCLASS] 2K9 XPS - ĐỀ ĐGNL LẦN 1 (1.1 đến 1.4) Bản viết tay đáp án.pdf",
+                      "mimeType": "application/pdf",
+                      "size": 24317241,
+                      "webViewLink": "https://drive.google.com/file/d/1B1q57G6Bs-JZq_BdqzEHBdavEWD0yrU3/view?usp=drivesdk",
+                      "modifiedTime": "2026-04-30T23:18:21.101Z",
+                      "videoMediaMetadata": null
+                    },
+                    {
+                      "id": "1sC_cV5i4r6p6RngSd-5gyrWRKrrM7Dk3",
+                      "name": "[IPCLASS] 2K9 XPS - ĐỀ ĐGNL LẦN 1 (1.1 đến 1.4).pdf",
+                      "mimeType": "application/pdf",
+                      "size": 8435889,
+                      "webViewLink": "https://drive.google.com/file/d/1sC_cV5i4r6p6RngSd-5gyrWRKrrM7Dk3/view?usp=drivesdk",
+                      "modifiedTime": "2026-04-30T23:18:22.178Z",
+                      "videoMediaMetadata": null
+                    },
+                    {
+                      "id": "1oWyKODXO4Ju4EGITIB9IMajJsmm51WL5",
+                      "name": "ĐỀ ĐÁNH GIÁ NĂNG LỰC LẦN 1  - 2K9 XPS - IP01. Khóa PT năng lực Vật Lí 12 - IPclass.mp4",
+                      "mimeType": "video/mp4",
+                      "size": 213842266,
+                      "webViewLink": "https://drive.google.com/file/d/1oWyKODXO4Ju4EGITIB9IMajJsmm51WL5/view?usp=drivesdk",
+                      "modifiedTime": "2026-05-11T13:27:20.460Z",
+                      "videoMediaMetadata": {
+                        "width": 0,
+                        "height": 0,
+                        "durationMillis": "0"
+                      }
+                    }
+                  ]
+                }
+              ],
+              "files": []
+            },
+            {
+              "id": "1i184FFHEoPDSyO9Mn2MNofNxr6aEIdAz",
+              "name": "6. Chủ đề 1.5: Nhiệt dung riêng. Nhiệt nóng chảy riêng. Nhiệt hóa hơi riêng",
+              "webViewLink": "https://drive.google.com/drive/folders/1i184FFHEoPDSyO9Mn2MNofNxr6aEIdAz",
+              "modifiedTime": "2026-04-30T23:18:06.687Z",
+              "children": [
+                {
+                  "id": "1qkaaPUd3CBQpu2lVhQLg_xmXduiVpWWU",
+                  "name": "1. \"(1) Nhiệt dung riêng (2) Nhiệt nóng chảy riêng (3) Nhiệt hóa hơi riêng\"",
+                  "webViewLink": "https://drive.google.com/drive/folders/1qkaaPUd3CBQpu2lVhQLg_xmXduiVpWWU",
+                  "modifiedTime": "2026-05-10T03:16:59.984Z",
+                  "children": [],
+                  "files": [
+                    {
+                      "id": "1uGRWZED4wpkuQfcTbMGmKW4y-7_W5es2",
+                      "name": "Chủ đề 1.5- Lí thuyết - 2K9 XPS - Khóa PT năng lực Vật Lí 12 - IPclass.mp4",
+                      "mimeType": "video/mp4",
+                      "size": 339454700,
+                      "webViewLink": "https://drive.google.com/file/d/1uGRWZED4wpkuQfcTbMGmKW4y-7_W5es2/view?usp=drivesdk",
+                      "modifiedTime": "2026-05-11T13:27:05.984Z",
+                      "videoMediaMetadata": {
+                        "width": 1920,
+                        "height": 1080,
+                        "durationMillis": "6825840"
+                      }
+                    }
+                  ]
+                },
+                {
+                  "id": "1cj56y78vayreI6hYUlFWMsEIBcaR1HxE",
+                  "name": "2. Luyện tập chủ đề 1.5",
+                  "webViewLink": "https://drive.google.com/drive/folders/1cj56y78vayreI6hYUlFWMsEIBcaR1HxE",
+                  "modifiedTime": "2026-05-21T16:35:19.866Z",
+                  "children": [],
+                  "files": [
+                    {
+                      "id": "1TZrsHqDeaf6R2QFzXeDhmvANxL2_YzRZ",
+                      "name": "Chủ đề 1.5 - Buổi 3- Chữa BTVN - 2K9 XPS - Khóa PT năng lực Vật Lí 12 - IPclass.mp4",
+                      "mimeType": "video/mp4",
+                      "size": 413997115,
+                      "webViewLink": "https://drive.google.com/file/d/1TZrsHqDeaf6R2QFzXeDhmvANxL2_YzRZ/view?usp=drivesdk",
+                      "modifiedTime": "2026-05-22T08:40:09.187Z",
+                      "videoMediaMetadata": null
+                    },
+                    {
+                      "id": "1QppiOOFppagsxq4ze77zlI_qlCQCrILo",
+                      "name": "Chủ đề 1.5 - Buổi 4- Chữa BTVN - 2K9 XPS - Khóa PT năng lực Vật Lí 12 - IPclass.mp4",
+                      "mimeType": "video/mp4",
+                      "size": 681907074,
+                      "webViewLink": "https://drive.google.com/file/d/1QppiOOFppagsxq4ze77zlI_qlCQCrILo/view?usp=drivesdk",
+                      "modifiedTime": "2026-05-22T08:38:07.877Z",
+                      "videoMediaMetadata": null
+                    }
+                  ]
+                }
+              ],
+              "files": []
+            },
+            {
+              "id": "1D1cZ_T888Nu0NuvQaZOXWuFL_4d3zRTW",
+              "name": "7. Ôn tập cuối chương",
+              "webViewLink": "https://drive.google.com/drive/folders/1D1cZ_T888Nu0NuvQaZOXWuFL_4d3zRTW",
+              "modifiedTime": "2026-04-30T23:18:05.724Z",
+              "children": [],
+              "files": []
+            }
+          ],
+          "files": []
+        },
+        {
+          "id": "1jDxQMN92aquzHzZc4GHgdnPs8x-TG6oA",
+          "name": "2. CHƯƠNG 2 - KHÍ LÍ TƯỞNG",
+          "webViewLink": "https://drive.google.com/drive/folders/1jDxQMN92aquzHzZc4GHgdnPs8x-TG6oA",
+          "modifiedTime": "2026-04-30T23:18:04.174Z",
+          "children": [],
+          "files": []
+        }
+      ],
+      "files": [],
+      "webViewLink": "https://drive.google.com/drive/folders/1Lh1dMaoqt47jffJtkYHF6h7bkG1owJ4g",
+      "modifiedTime": "2026-04-19T03:39:47.484Z"
+    },
+    {
+      "id": "1BVQdLAPDZ41BPKa9TuDSNDqmavtPNgMz",
+      "name": "2. KHOÁ IP02 VDC - THỰC TẾ",
+      "children": [],
+      "files": [],
+      "webViewLink": "https://drive.google.com/drive/folders/1BVQdLAPDZ41BPKa9TuDSNDqmavtPNgMz",
+      "modifiedTime": "2026-04-19T03:39:46.708Z"
+    },
+    {
+      "id": "1VaXfcfSSfq5Q7JRwo5bBG8uokwIPsTyr",
+      "name": "3. KHOÁ IP03 TỔNG ÔN",
+      "children": [],
+      "files": [],
+      "webViewLink": "https://drive.google.com/drive/folders/1VaXfcfSSfq5Q7JRwo5bBG8uokwIPsTyr",
+      "modifiedTime": "2026-04-19T03:39:46.027Z"
+    },
+    {
+      "id": "1gJRfwZy85IcxDehyXEsl6ow1G72gpSnb",
+      "name": "4. KHOÁ IP04 LUYỆN ĐỀ TINH HOA",
+      "children": [],
+      "files": [],
+      "webViewLink": "https://drive.google.com/drive/folders/1gJRfwZy85IcxDehyXEsl6ow1G72gpSnb",
+      "modifiedTime": "2026-04-19T03:39:45.302Z"
+    },
+    {
+      "id": "1LzkUALt0YCqfx6i-8XPflOCh1-hNKdnB",
+      "name": "IPTEST KIỂM TRA ĐỊNH KÌ",
+      "children": [
+        {
+          "id": "1y7N3t2Xfeb6G4q7965H8PLVvKo7Oypft",
+          "name": "1. Đề kiểm tra định kì hằng tuần IPtest 01",
+          "webViewLink": "https://drive.google.com/drive/folders/1y7N3t2Xfeb6G4q7965H8PLVvKo7Oypft",
+          "modifiedTime": "2026-05-21T16:35:16.058Z",
+          "children": [],
+          "files": [
+            {
+              "id": "18W6YLgK0H8j2EDMNchXztjFEA1JS5pc2",
+              "name": "[IPtest_2k9xps] Đề kiểm tra định kì hằng tuần IPtest_01.pdf",
+              "mimeType": "application/pdf",
+              "size": 8316323,
+              "webViewLink": "https://drive.google.com/file/d/18W6YLgK0H8j2EDMNchXztjFEA1JS5pc2/view?usp=drivesdk",
+              "modifiedTime": "2026-05-21T16:35:16.872Z",
+              "videoMediaMetadata": null
+            },
+            {
+              "id": "1livslCDdZrAXDcQ5iXcbgKg_tnB2EDcn",
+              "name": "Chữa đề kiểm tra định kì IPtest số 01 __ Chương 1 - Vật lí nhiệt __ 2K9 XPS 12 - KHÓA IP01.mp4",
+              "mimeType": "video/mp4",
+              "size": 394525569,
+              "webViewLink": "https://drive.google.com/file/d/1livslCDdZrAXDcQ5iXcbgKg_tnB2EDcn/view?usp=drivesdk",
+              "modifiedTime": "2026-05-22T08:35:21.306Z",
+              "videoMediaMetadata": null
+            },
+            {
+              "id": "1L6iaq8FOxniYvtFihewWLAfX1EgNB0Ly",
+              "name": "IPTEST 01 - BẢN VIẾT TAY ĐÁP ÁN.pdf",
+              "mimeType": "application/pdf",
+              "size": 25491576,
+              "webViewLink": "https://drive.google.com/file/d/1L6iaq8FOxniYvtFihewWLAfX1EgNB0Ly/view?usp=drivesdk",
+              "modifiedTime": "2026-05-21T16:35:16.869Z",
+              "videoMediaMetadata": null
+            }
+          ]
+        }
+      ],
+      "files": [],
+      "webViewLink": "https://drive.google.com/drive/folders/1LzkUALt0YCqfx6i-8XPflOCh1-hNKdnB",
+      "modifiedTime": "2026-04-19T03:39:44.617Z"
+    },
+    {
+      "id": "10peGDEtVbjNYB_JJd98tyHkEFnjdnG5S",
+      "name": "Z. EBOOK SÁCH KÈM KHOÁ HỌC",
+      "children": [],
+      "files": [],
+      "webViewLink": "https://drive.google.com/drive/folders/10peGDEtVbjNYB_JJd98tyHkEFnjdnG5S",
+      "modifiedTime": "2026-04-19T03:39:48.978Z"
+    }
+  ]
+}

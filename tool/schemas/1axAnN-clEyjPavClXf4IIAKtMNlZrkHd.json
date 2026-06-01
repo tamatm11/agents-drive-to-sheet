@@ -1,0 +1,44 @@
+{
+  "updatedAt": "2026-05-30T00:00:00.000Z",
+  "teacher": {
+    "id": "1axAnN-clEyjPavClXf4IIAKtMNlZrkHd",
+    "name": "SPT HN1 2K9 PEDA EDU LUYỆN THI ĐGNL SƯ PHẠM HÀ NỘI 1 2027"
+  },
+  "schema": {
+    "levels": [
+      {
+        "depth": 0,
+        "label": "Giai đoạn",
+        "icon": "📖",
+        "bold": true,
+        "bg": "#FCE5C0",
+        "namePatternHint": "Cấp 1: 'GIAI ĐOẠN 1: HỌC NỀN TẢNG LÝ THUYẾT THEO CÁC CHUYÊN ĐỀ', 'GIAI ĐOẠN 2: LUYỆN ĐỀ TỔNG HỢP - TOÀN DIỆN'"
+      }
+    ],
+    "leafFallback": {
+      "label": "Bài",
+      "icon": "📂",
+      "bold": true,
+      "bg": "#FCF1D4",
+      "note": "Bài học trực tiếp trong giai đoạn (flat)."
+    },
+    "courseRow": {
+      "icon": "📚",
+      "bold": true,
+      "fontSize": 12,
+      "bg": "#D4E5FA"
+    },
+    "videoRow": {
+      "icon": "▸",
+      "indent": "extra-from-leaf"
+    },
+    "notes": "ĐGNL Sư Phạm HN1. Cấu trúc: Khóa → Giai đoạn → Bài học (flat trong mỗi giai đoạn)."
+  },
+  "_meta": {
+    "source": "manual",
+    "version": 1,
+    "generated_at": "2026-05-30T00:00:00.000Z",
+    "dominant_depth": 1,
+    "patterns_observed": ["flat"]
+  }
+}

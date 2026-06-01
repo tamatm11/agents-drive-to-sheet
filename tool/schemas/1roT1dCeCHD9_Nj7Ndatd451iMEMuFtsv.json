@@ -1,0 +1,96 @@
+{
+  "updatedAt": "2026-05-28T12:18:35.714Z",
+  "teacher": {
+    "id": "1roT1dCeCHD9_Nj7Ndatd451iMEMuFtsv",
+    "name": "CHƯƠNG TRÌNH NỀN TẢNG LỚP 12 HOCMAI CÁC MÔN"
+  },
+  "schema": {
+    "levels": [
+      {
+        "depth": 0,
+        "label": "Chương / Chuyên đề",
+        "icon": "📖",
+        "bold": true,
+        "bg": "#FCE5C0",
+        "namePatternHint": "Cấp 1: vd '0. INFO THÔNG TIN VÀ HƯỚNG DẪN KHOÁ HỌC', '1. NỀN TẢNG 12 MÔN TOÁN 2026 HOCMAI', '2. NỀN TẢNG 12 MÔN NGỮ VĂN HOCMAI', '3. NỀN TẢNG 12 MÔN TIẾNG ANH 2026 HOCMAI', '4. NỀN TẢNG 12 MÔN VẬT LÝ 2026 HOCMAI'"
+      }
+    ],
+    "leafFallback": {
+      "label": "Bài",
+      "icon": "📂",
+      "bold": true,
+      "bg": "#FCF1D4",
+      "note": "Một số khóa file nằm cấp nông hơn — render thẳng như leaf bài học."
+    },
+    "courseRow": {
+      "icon": "📚",
+      "bold": true,
+      "fontSize": 12,
+      "bg": "#D4E5FA"
+    },
+    "videoRow": {
+      "icon": "▸",
+      "indent": "extra-from-leaf"
+    },
+    "notes": "Auto-detect (1 cấp). 2/7 khóa có cấu trúc. Pattern: flat. Skip 1 folder meta. 2 file đã upload."
+  },
+  "_meta": {
+    "source": "auto-detect",
+    "version": 1,
+    "generated_at": "2026-05-28T12:18:35.714Z",
+    "confidence": "high",
+    "dominant_depth": 1,
+    "dominant_share": 1,
+    "patterns_observed": [
+      "flat"
+    ],
+    "meta_courses_skipped": [
+      "0. INFO THÔNG TIN VÀ HƯỚNG DẪN KHOÁ HỌC"
+    ],
+    "course_breakdown": [
+      {
+        "name": "1. GIAI ĐOẠN 1: XÂY DỰNG NỀN TẢNG KIẾN THỨC THPT",
+        "structure_depth": 1,
+        "pattern": "flat",
+        "files": 2
+      },
+      {
+        "name": "1. NỀN TẢNG 12 MÔN TOÁN 2027 HOCMAI",
+        "structure_depth": 1,
+        "pattern": "flat",
+        "files": 0
+      },
+      {
+        "name": "2. NỀN TẢNG 12 MÔN NGỮ VĂN 2027 HOCMAI",
+        "structure_depth": 0,
+        "pattern": "empty",
+        "files": 0
+      },
+      {
+        "name": "3. NỀN TẢNG 12 MÔN TIẾNG ANH 2027 HOCMAI",
+        "structure_depth": 0,
+        "pattern": "empty",
+        "files": 0
+      },
+      {
+        "name": "4. NỀN TẢNG 12 MÔN VẬT LÝ 2027 HOCMAI",
+        "structure_depth": 0,
+        "pattern": "empty",
+        "files": 0
+      },
+      {
+        "name": "5. NỀN TẢNG 12 MÔN HÓA HỌC 2027 HOCMAI",
+        "structure_depth": 0,
+        "pattern": "empty",
+        "files": 0
+      },
+      {
+        "name": "6. NỀN TẢNG 12 MÔN SINH HỌC 2027 HOCMAI",
+        "structure_depth": 0,
+        "pattern": "empty",
+        "files": 0
+      }
+    ],
+    "no_files_yet": false
+  }
+}

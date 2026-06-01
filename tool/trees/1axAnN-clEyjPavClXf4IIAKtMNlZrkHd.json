@@ -1,0 +1,43 @@
+{
+  "crawledAt": "2026-05-30T02:14:43.859Z",
+  "teacher": {
+    "id": "1axAnN-clEyjPavClXf4IIAKtMNlZrkHd",
+    "name": "SPT HN1 2K9 PEDA EDU LUYỆN THI ĐGNL SƯ PHẠM HÀ NỘI 1 2027",
+    "modifiedTime": "2026-05-27T15:23:07.092Z",
+    "webViewLink": "https://drive.google.com/drive/folders/1axAnN-clEyjPavClXf4IIAKtMNlZrkHd"
+  },
+  "courses": [
+    {
+      "id": "1ahjfb3K1uFNtjVae1PgvhuscERhNfY2J",
+      "name": "0. INFO THÔNG TIN VÀ HƯỚNG DẪN KHOÁ HỌC",
+      "children": [],
+      "files": [],
+      "webViewLink": "https://drive.google.com/drive/folders/1ahjfb3K1uFNtjVae1PgvhuscERhNfY2J",
+      "modifiedTime": "2026-04-19T23:14:45.513Z"
+    },
+    {
+      "id": "1ogkcxG8wIpjn5XhuJVnAQXmsrTWEJMXV",
+      "name": "1. GIAI ĐOẠN 1: HỌC NỀN TẢNG LÝ THUYẾT THEO CÁC CHUYÊN ĐỀ",
+      "children": [],
+      "files": [],
+      "webViewLink": "https://drive.google.com/drive/folders/1ogkcxG8wIpjn5XhuJVnAQXmsrTWEJMXV",
+      "modifiedTime": "2026-04-19T23:14:44.835Z"
+    },
+    {
+      "id": "12K8kMRZ0W42fXkIHUmebbD-Vt5TSDOY-",
+      "name": "2. GIAI ĐOẠN 2: LUYỆN ĐỀ TỔNG HỢP - TOÀN DIỆN",
+      "children": [],
+      "files": [],
+      "webViewLink": "https://drive.google.com/drive/folders/12K8kMRZ0W42fXkIHUmebbD-Vt5TSDOY-",
+      "modifiedTime": "2026-04-19T23:14:44.161Z"
+    },
+    {
+      "id": "1azy8P3EROnQ6baraICWyaE0LZQyiZLRC",
+      "name": "Z. EBOOK SÁCH KÈM KHOÁ HỌC",
+      "children": [],
+      "files": [],
+      "webViewLink": "https://drive.google.com/drive/folders/1azy8P3EROnQ6baraICWyaE0LZQyiZLRC",
+      "modifiedTime": "2026-04-19T23:14:46.088Z"
+    }
+  ]
+}

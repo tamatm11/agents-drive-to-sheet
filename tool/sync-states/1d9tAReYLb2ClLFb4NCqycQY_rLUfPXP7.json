@@ -1,0 +1,988 @@
+{
+  "teacherId": "1d9tAReYLb2ClLFb4NCqycQY_rLUfPXP7",
+  "tabs": {
+    "15nTIu3KrHVG8PpmlJNuYzIeZEm0yDUHh": {
+      "tabName": "Khóa Chuyên Đề",
+      "renderedAt": "2026-05-31T04:04:41.166Z",
+      "checksum": "15nTIu3KrHVG8PpmlJNuYzIeZEm0yDUHh|2026-05-24T14:40:26.023Z|268",
+      "lessons": [
+        {
+          "id": "1_xIonaVQiPlZetf2_rZcm1QH9kjGtrN-::file:17Pt3mcU35mDUQdZObDe5NhtZpgdzmgat",
+          "name": "Phiếu Bài Tập Tự Luyện (Đáp Án Chi Tiết)-1776701736806",
+          "parentName": "1. Chủ Đề 1: Nhiệt Độ Và Thang Đo Nhiệt Độ",
+          "checksum": "2026-04-20T16:52:26.327Z|1|3372169fa5d7",
+          "virtual": true
+        },
+        {
+          "id": "1_xIonaVQiPlZetf2_rZcm1QH9kjGtrN-::file:1A9-HCh6RKovjNqdFwkE1YOrf5PIxpQ_r",
+          "name": "Chủ Đề 1_ Bài Tập Củng Cố Nhiệt Độ Và Thang Đo Nhiệt Độ",
+          "parentName": "1. Chủ Đề 1: Nhiệt Độ Và Thang Đo Nhiệt Độ",
+          "checksum": "2026-04-20T16:52:21.908Z|1|f567dcbbe7fb",
+          "virtual": true
+        },
+        {
+          "id": "1_xIonaVQiPlZetf2_rZcm1QH9kjGtrN-::file:1E-bZgHEh6dPVgOcpp6ea8vhz6YZHQz_y",
+          "name": "Bài Tập Củng Cố Chủ Đề 1-1776701735596",
+          "parentName": "1. Chủ Đề 1: Nhiệt Độ Và Thang Đo Nhiệt Độ",
+          "checksum": "2026-04-20T16:52:23.794Z|1|4800f8f25812",
+          "virtual": true
+        },
+        {
+          "id": "1_xIonaVQiPlZetf2_rZcm1QH9kjGtrN-::file:1NMQDFg5gFZ745e5nli9cgvEPA5XeNOM-",
+          "name": "Phiếu Bài Tập Tự Luyện (Đáp Án Chi Tiết)[Lời giải + Đáp án]-1776701738019",
+          "parentName": "1. Chủ Đề 1: Nhiệt Độ Và Thang Đo Nhiệt Độ",
+          "checksum": "2026-04-20T16:52:28.078Z|1|5d2896ab0bf1",
+          "virtual": true
+        },
+        {
+          "id": "1d0ao5bHjngE5c5rWEZdtrhRVF04i6lVH",
+          "name": "1. Lý Thuyết Chủ Đề 1: Nhiệt Độ Và Thang Đo Nhiệt Độ",
+          "parentName": "1. Chủ Đề 1: Nhiệt Độ Và Thang Đo Nhiệt Độ",
+          "checksum": "2026-04-21T21:48:12.187Z|3",
+          "virtual": false
+        },
+        {
+          "id": "19r1TNXGYVQwLvzv7Ytom5UDmdCnkKvyK::file:11k8gGobD4INDBPcX4WgW-PjPHm-p2rRA",
+          "name": "Phiếu Bài Tập Tự Luyện (Đáp Án Chi Tiết)",
+          "parentName": "1. CHỦ ĐỀ 1: NHIỆT ĐỘ VÀ THANG ĐO NHIỆT ĐỘ\t\t\t\t",
+          "checksum": "2026-04-27T15:59:26.366Z|1|7490ff4f533c",
+          "virtual": true
+        },
+        {
+          "id": "19r1TNXGYVQwLvzv7Ytom5UDmdCnkKvyK::file:1uV9M2xNj5LD4rNO0IKOXmxwXP1p_D8Oo",
+          "name": "Chủ Đề 1_ Bài Tập Củng Cố Nhiệt Độ Và Thang Đo Nhiệt Độ",
+          "parentName": "1. CHỦ ĐỀ 1: NHIỆT ĐỘ VÀ THANG ĐO NHIỆT ĐỘ\t\t\t\t",
+          "checksum": "2026-04-27T15:59:22.556Z|1|91a5a925b9e7",
+          "virtual": true
+        },
+        {
+          "id": "19r1TNXGYVQwLvzv7Ytom5UDmdCnkKvyK::file:1XIifsTDYJqctVL8Jl-9HrVFhMrtxwXz7",
+          "name": "Bài Tập Củng Cố Chủ Đề 1",
+          "parentName": "1. CHỦ ĐỀ 1: NHIỆT ĐỘ VÀ THANG ĐO NHIỆT ĐỘ\t\t\t\t",
+          "checksum": "2026-04-27T15:59:20.911Z|1|c319b3390161",
+          "virtual": true
+        },
+        {
+          "id": "19r1TNXGYVQwLvzv7Ytom5UDmdCnkKvyK::file:1XZ2si_RkMMIixPCqUNC3aKS3AsQRY3uv",
+          "name": "Phiếu Bài Tập Tự Luyện (Đáp Án Chi Tiết)[Lời giải + Đáp án]",
+          "parentName": "1. CHỦ ĐỀ 1: NHIỆT ĐỘ VÀ THANG ĐO NHIỆT ĐỘ\t\t\t\t",
+          "checksum": "2026-04-27T15:59:25.030Z|1|57af5cfd8b0b",
+          "virtual": true
+        },
+        {
+          "id": "11aidPSpMGVsL2l1jUAu56uS7oYy_0thl",
+          "name": "1. Lý Thuyết Chủ Đề 1: Nhiệt Độ Và Thang Đo Nhiệt Độ",
+          "parentName": "1. CHỦ ĐỀ 1: NHIỆT ĐỘ VÀ THANG ĐO NHIỆT ĐỘ\t\t\t\t",
+          "checksum": "2026-04-27T15:59:18.831Z|2",
+          "virtual": false
+        },
+        {
+          "id": "1kFzCNDPaKe6cJmvubYqPhqecp5K0PE8f::file:1cbqWSh56LNnSM9yKbxAb97o4T7ckuACU",
+          "name": "Bài Tập Củng Cố Chủ Đề 2",
+          "parentName": "2. CHỦ ĐỀ 2: CẤU TẠO CHẤT VÀ SỰ CHUYỂN THỂ\t\t\t\t",
+          "checksum": "2026-05-10T15:46:24.211Z|1|19091d1cc60f",
+          "virtual": true
+        },
+        {
+          "id": "1kFzCNDPaKe6cJmvubYqPhqecp5K0PE8f::file:1HNMkylHBYhTOvsYh1sWw1uCPd7d5zgj_",
+          "name": "Chủ Đề 2- Bài Tập Củng Cố Lý Thuyết",
+          "parentName": "2. CHỦ ĐỀ 2: CẤU TẠO CHẤT VÀ SỰ CHUYỂN THỂ\t\t\t\t",
+          "checksum": "2026-05-11T13:26:08.922Z|1|c065d7dc3530",
+          "virtual": true
+        },
+        {
+          "id": "1kFzCNDPaKe6cJmvubYqPhqecp5K0PE8f::file:1OZS8rWa2tyxHvqkpRw_CffPc2qRAAcOf",
+          "name": "Phiếu Bài Tập Tự Luyện (Đáp Án Chi Tiết)",
+          "parentName": "2. CHỦ ĐỀ 2: CẤU TẠO CHẤT VÀ SỰ CHUYỂN THỂ\t\t\t\t",
+          "checksum": "2026-04-28T13:28:02.305Z|1|66702fcf34b6",
+          "virtual": true
+        },
+        {
+          "id": "1kFzCNDPaKe6cJmvubYqPhqecp5K0PE8f::file:1XDn14P19BhjfQSm9iNnijU4dsovdO5GA",
+          "name": "Bài Tập Củng Cố Chủ Đề 1",
+          "parentName": "2. CHỦ ĐỀ 2: CẤU TẠO CHẤT VÀ SỰ CHUYỂN THỂ\t\t\t\t",
+          "checksum": "2026-04-27T15:59:10.747Z|1|4b902ecb87e9",
+          "virtual": true
+        },
+        {
+          "id": "1XvNii475oFYxmTnkxpsAcyGHlHjceprS",
+          "name": "1. Lý Thuyết Cấu Tạo Chất Và Sự Chuyển Thể",
+          "parentName": "2. CHỦ ĐỀ 2: CẤU TẠO CHẤT VÀ SỰ CHUYỂN THỂ\t\t\t\t",
+          "checksum": "2026-05-11T13:26:30.111Z|2",
+          "virtual": false
+        },
+        {
+          "id": "1TViasj0nzrD7aP4C6LkB9zx9mLxLFokM::file:1GvaSKWEBGMQNWUFu4UEgWdkHNqEhNqY5",
+          "name": "Dạng 4_Kiểu 2- Tính Độ Biến Thiên Nội Năng Bằng Định Luật Bảo Toàn Và Chuyển Hoá Năng Lượng",
+          "parentName": "3. CHỦ ĐỀ 3_ NỘI NĂNG - ĐỊNH LUẬT I NHIỆT ĐỘNG LỰC HỌC",
+          "checksum": "2026-05-03T14:35:19.867Z|1|64132026d6c4",
+          "virtual": true
+        },
+        {
+          "id": "1TViasj0nzrD7aP4C6LkB9zx9mLxLFokM::file:1Jp19CISI3XHV_nAic0W4ycfA7jbXfY1M",
+          "name": "Dạng 4 Kiểu 1 Tính Độ Biến Thiên Nội Năng Bằng Định Luật 1",
+          "parentName": "3. CHỦ ĐỀ 3_ NỘI NĂNG - ĐỊNH LUẬT I NHIỆT ĐỘNG LỰC HỌC",
+          "checksum": "2026-05-03T14:31:04.468Z|1|0368c069ea5b",
+          "virtual": true
+        },
+        {
+          "id": "1TViasj0nzrD7aP4C6LkB9zx9mLxLFokM::file:1USov0oTOhlzbx1qvaDN_YkuvCwSxQKGA",
+          "name": "Dạng 4_ Bài Tập Về Định Luật 1 Nhiệt Động Lực Học",
+          "parentName": "3. CHỦ ĐỀ 3_ NỘI NĂNG - ĐỊNH LUẬT I NHIỆT ĐỘNG LỰC HỌC",
+          "checksum": "2026-05-03T14:29:38.822Z|1|ee699ea6dbb0",
+          "virtual": true
+        },
+        {
+          "id": "1M_yName4iUaZGyDwz0Qv1mbueBFjyEBv",
+          "name": "1. Lý Thuyết Nội Năng Và Định Luật I Nhiệt Động Lực Học",
+          "parentName": "3. CHỦ ĐỀ 3_ NỘI NĂNG - ĐỊNH LUẬT I NHIỆT ĐỘNG LỰC HỌC",
+          "checksum": "2026-05-03T14:12:34.921Z|0",
+          "virtual": false
+        },
+        {
+          "id": "18D1wpMAzH9kqYY2EtECaeazx0aFdKfBu",
+          "name": "2. Dạng 1_ Điều Kiện Cân Bằng Nhiệt",
+          "parentName": "3. CHỦ ĐỀ 3_ NỘI NĂNG - ĐỊNH LUẬT I NHIỆT ĐỘNG LỰC HỌC",
+          "checksum": "2026-05-03T14:12:34.912Z|0",
+          "virtual": false
+        },
+        {
+          "id": "1iRvj-yJbo4Nemim8YqestTC9ZVbNzqHn",
+          "name": "3. Dạng 2_ Điều Kiện Cân Bằng Nhiệt Khi Có Sự Toả Nhiệt Ra Ngoài Môi Trường",
+          "parentName": "3. CHỦ ĐỀ 3_ NỘI NĂNG - ĐỊNH LUẬT I NHIỆT ĐỘNG LỰC HỌC",
+          "checksum": "2026-05-03T14:12:34.904Z|0",
+          "virtual": false
+        },
+        {
+          "id": "1PW3z3S25jmdVxfUeLr4HK7oJfgr-lqCd",
+          "name": "4. Dạng 3_ Vận Dụng Cao Bài Toán Rót Nhiều Lần",
+          "parentName": "3. CHỦ ĐỀ 3_ NỘI NĂNG - ĐỊNH LUẬT I NHIỆT ĐỘNG LỰC HỌC",
+          "checksum": "2026-05-03T14:12:34.897Z|0",
+          "virtual": false
+        },
+        {
+          "id": "1PbQkHm_y8Euew1dpBXZIgG7es1h-W7SD",
+          "name": "6. Dạng 5 - Động Cơ Nhiệt",
+          "parentName": "3. CHỦ ĐỀ 3_ NỘI NĂNG - ĐỊNH LUẬT I NHIỆT ĐỘNG LỰC HỌC",
+          "checksum": "2026-05-03T14:29:31.275Z|2",
+          "virtual": false
+        },
+        {
+          "id": "1HrIBG9YOW2rwRQxg2sUfr-ayFeZl_onB::file:1HvLQo4g3d40NbbRjcrv-OXanvEUTqe5F",
+          "name": "Đáp Án Sách Chuyên Đề + Video Chữa",
+          "parentName": "7. Đáp Án Sách Chuyên Đề + Video Chữa",
+          "checksum": "2026-05-03T14:28:03.089Z|1|556d1098f4ab",
+          "virtual": true
+        },
+        {
+          "id": "1HrIBG9YOW2rwRQxg2sUfr-ayFeZl_onB::file:1oDjVEcuBO74sH0Ud2ov6p2TYS8ZPXY2c",
+          "name": "Đáp Án Sách Chuyên Đề + Video Chữa[Lời giải + Đáp án]",
+          "parentName": "7. Đáp Án Sách Chuyên Đề + Video Chữa",
+          "checksum": "2026-05-03T14:28:39.818Z|1|0e5625465ddc",
+          "virtual": true
+        },
+        {
+          "id": "1OhKIhRgJ138WN6SjZ8eNvOeX47nvVZju",
+          "name": "Video chữa bài",
+          "parentName": "7. Đáp Án Sách Chuyên Đề + Video Chữa",
+          "checksum": "2026-05-03T14:27:52.767Z|50",
+          "virtual": false
+        },
+        {
+          "id": "1bJDtyHr9uWJvVVO4OXVZSOsgsxzmz6Cw",
+          "name": "8. Đề ôn tập Chủ đề 3 - Đề số 1",
+          "parentName": "3. CHỦ ĐỀ 3_ NỘI NĂNG - ĐỊNH LUẬT I NHIỆT ĐỘNG LỰC HỌC",
+          "checksum": "2026-05-03T14:18:12.885Z|1",
+          "virtual": false
+        },
+        {
+          "id": "1GYYFFDwLgMWxcAE8cJ4xt_FomUFMjgme",
+          "name": "9. Chữa Đề 1",
+          "parentName": "3. CHỦ ĐỀ 3_ NỘI NĂNG - ĐỊNH LUẬT I NHIỆT ĐỘNG LỰC HỌC",
+          "checksum": "2026-05-03T14:18:08.199Z|1",
+          "virtual": false
+        },
+        {
+          "id": "1s9s29tHhB5mPXiZ1LVS9AZMpJ5dAfGlx::file:1_cNbK36hVP3Ayhx6_WsPyf1mS1bOTcgM",
+          "name": "Dạng 4 Kiểu 1 Tính Độ Biến Thiên Nội Năng Bằng Định Luật 1",
+          "parentName": "3. CHỦ ĐỀ 3: NỘI NĂNG - ĐỊNH LUẬT I NHIỆT ĐỘNG LỰC HỌC \t\t\t\t",
+          "checksum": "2026-05-11T13:24:52.051Z|1|82203eb00f14",
+          "virtual": true
+        },
+        {
+          "id": "1s9s29tHhB5mPXiZ1LVS9AZMpJ5dAfGlx::file:13WfbCxMx3Snz1ved1mU7lSTgBf3DaPN1",
+          "name": "Dạng 4_ Bài Tập Về Định Luật 1 Nhiệt Động Lực Học",
+          "parentName": "3. CHỦ ĐỀ 3: NỘI NĂNG - ĐỊNH LUẬT I NHIỆT ĐỘNG LỰC HỌC \t\t\t\t",
+          "checksum": "2026-04-28T13:26:46.317Z|1|45a91aa9942d",
+          "virtual": true
+        },
+        {
+          "id": "1s9s29tHhB5mPXiZ1LVS9AZMpJ5dAfGlx::file:15p9vskr6XxNpuEGCaAI4V7Ldar_krmBp",
+          "name": "Dạng 4_Kiểu 2- Tính Độ Biến Thiên Nội Năng Bằng Định Luật Bảo Toàn Và Chuyển Hoá Năng Lượng",
+          "parentName": "3. CHỦ ĐỀ 3: NỘI NĂNG - ĐỊNH LUẬT I NHIỆT ĐỘNG LỰC HỌC \t\t\t\t",
+          "checksum": "2026-05-11T13:24:38.026Z|1|f4a7bfd50b32",
+          "virtual": true
+        },
+        {
+          "id": "1_7gKYKA_E4_o26D51R8RdSze-LxG3mrV",
+          "name": "1. Lý Thuyết Nội Năng Và Định Luật I Nhiệt Động Lực Học",
+          "parentName": "3. CHỦ ĐỀ 3: NỘI NĂNG - ĐỊNH LUẬT I NHIỆT ĐỘNG LỰC HỌC \t\t\t\t",
+          "checksum": "2026-05-11T13:25:56.048Z|1",
+          "virtual": false
+        },
+        {
+          "id": "1a2v6VTD3yD1mp0z9MSaVJ8hqaBeXkJoL",
+          "name": "2. Dạng 1: Điều Kiện Cân Bằng Nhiệt",
+          "parentName": "3. CHỦ ĐỀ 3: NỘI NĂNG - ĐỊNH LUẬT I NHIỆT ĐỘNG LỰC HỌC \t\t\t\t",
+          "checksum": "2026-05-11T13:25:41.452Z|2",
+          "virtual": false
+        },
+        {
+          "id": "10bHfKpiMLpMfCeggkJvIUO1aR4I6625a",
+          "name": "3. Dạng 2: Điều Kiện Cân Bằng Nhiệt Khi Có Sự Toả Nhiệt Ra Ngoài Môi Trường",
+          "parentName": "3. CHỦ ĐỀ 3: NỘI NĂNG - ĐỊNH LUẬT I NHIỆT ĐỘNG LỰC HỌC \t\t\t\t",
+          "checksum": "2026-05-11T13:25:23.869Z|4",
+          "virtual": false
+        },
+        {
+          "id": "1IrzlojlmsVW2lufM-L92vttK6XpfDuga",
+          "name": "4. Dạng 3: Vận Dụng Cao Bài Toán Rót Nhiều Lần",
+          "parentName": "3. CHỦ ĐỀ 3: NỘI NĂNG - ĐỊNH LUẬT I NHIỆT ĐỘNG LỰC HỌC \t\t\t\t",
+          "checksum": "2026-05-11T13:25:09.741Z|2",
+          "virtual": false
+        },
+        {
+          "id": "1YU8zd4_dW8fBUuH7Om2B8AdSn2fDC3Mv",
+          "name": "6. Dạng 5 - Động Cơ Nhiệt",
+          "parentName": "3. CHỦ ĐỀ 3: NỘI NĂNG - ĐỊNH LUẬT I NHIỆT ĐỘNG LỰC HỌC \t\t\t\t",
+          "checksum": "2026-05-11T13:22:07.749Z|2",
+          "virtual": false
+        },
+        {
+          "id": "14QxgDdX7xJDq5tCxvHvu34x8guiJGlYo::file:1bDdIls1eY6EEcV1JT7zfL-3IUgV4jqQS",
+          "name": "Đáp Án Sách Chuyên Đề + Video Chữa",
+          "parentName": "7. Đáp Án Sách Chuyên Đề + Video Chữa",
+          "checksum": "2026-04-30T23:15:45.508Z|1|786f00194319",
+          "virtual": true
+        },
+        {
+          "id": "14QxgDdX7xJDq5tCxvHvu34x8guiJGlYo::file:1yNz73NJ6OS-_ex2phWIBeNH2KSEAEHjM",
+          "name": "Đáp Án Sách Chuyên Đề + Video Chữa[Lời giải + Đáp án]",
+          "parentName": "7. Đáp Án Sách Chuyên Đề + Video Chữa",
+          "checksum": "2026-04-30T23:15:47.064Z|1|1cd036ac34d0",
+          "virtual": true
+        },
+        {
+          "id": "1T2kAra5khJt-GpeOId17CnOjV3y35buo",
+          "name": "Video chữa bài ",
+          "parentName": "7. Đáp Án Sách Chuyên Đề + Video Chữa",
+          "checksum": "2026-05-11T13:21:53.436Z|57",
+          "virtual": false
+        },
+        {
+          "id": "1xZ3sGPvaNNFjl4PgtDg61SusRcamFpqg",
+          "name": "8. Đề ôn tập Chủ đề 3 - Đề số 1",
+          "parentName": "3. CHỦ ĐỀ 3: NỘI NĂNG - ĐỊNH LUẬT I NHIỆT ĐỘNG LỰC HỌC \t\t\t\t",
+          "checksum": "2026-05-01T23:09:35.050Z|1",
+          "virtual": false
+        },
+        {
+          "id": "1dSfy_-hRlA_l0n7bgZ7PHjrL8adl8SPE",
+          "name": "9. Chữa Đề 1",
+          "parentName": "3. CHỦ ĐỀ 3: NỘI NĂNG - ĐỊNH LUẬT I NHIỆT ĐỘNG LỰC HỌC \t\t\t\t",
+          "checksum": "2026-05-10T07:27:13.855Z|1",
+          "virtual": false
+        },
+        {
+          "id": "1aMUkQLCcPS0V2tErN6CHM_galpk5reWh",
+          "name": "1. Lý Thuyết Nhiệt Nóng Chảy Riêng Và Nhiệt Hoá Hơi Riêng",
+          "parentName": "4. CHỦ ĐỀ 4: NHIỆT NÓNG CHẢY RIÊNG VÀ NHIỆT HOÁ HƠI RIÊNG",
+          "checksum": "2026-05-02T16:36:27.929Z|1",
+          "virtual": false
+        },
+        {
+          "id": "1Z9Y5tkPF3R6dXGZdQNQMvczAscmcWCRG",
+          "name": "2. Dạng 1 - Nhiệt Nóng Chảy Riêng",
+          "parentName": "4. CHỦ ĐỀ 4: NHIỆT NÓNG CHẢY RIÊNG VÀ NHIỆT HOÁ HƠI RIÊNG",
+          "checksum": "2026-05-07T01:25:08.364Z|5",
+          "virtual": false
+        },
+        {
+          "id": "1Q65cN8Pr5U2gdSAx8Z4jD_ivgXxVjUuN",
+          "name": "3. Dạng 2 - Nhiệt Hoá Hơi Riêng",
+          "parentName": "4. CHỦ ĐỀ 4: NHIỆT NÓNG CHẢY RIÊNG VÀ NHIỆT HOÁ HƠI RIÊNG",
+          "checksum": "2026-05-02T17:37:23.988Z|4",
+          "virtual": false
+        },
+        {
+          "id": "17hPwKhlGuOHyr_SqgUhN4PyEoZYn7oM-",
+          "name": "4.  Dạng 3 - Sự Chuyển Thể Không Hoàn Toàn",
+          "parentName": "4. CHỦ ĐỀ 4: NHIỆT NÓNG CHẢY RIÊNG VÀ NHIỆT HOÁ HƠI RIÊNG",
+          "checksum": "2026-05-02T17:37:17.098Z|3",
+          "virtual": false
+        },
+        {
+          "id": "1Xr3JTySs3oO8EuKINH2UbQuAP-m-Da__",
+          "name": "5. Dạng 4 - Năng Suất Toả Nhiệt Của Nhiên Liệu",
+          "parentName": "4. CHỦ ĐỀ 4: NHIỆT NÓNG CHẢY RIÊNG VÀ NHIỆT HOÁ HƠI RIÊNG",
+          "checksum": "2026-05-10T06:41:07.952Z|3",
+          "virtual": false
+        },
+        {
+          "id": "1286ut5GoKmYMDhT5X9ehZUzjICaG-w_Z",
+          "name": "6. Dạng 5: Đồ Thị Sự Chuyển Thể",
+          "parentName": "4. CHỦ ĐỀ 4: NHIỆT NÓNG CHẢY RIÊNG VÀ NHIỆT HOÁ HƠI RIÊNG",
+          "checksum": "2026-05-02T17:37:08.047Z|4",
+          "virtual": false
+        },
+        {
+          "id": "1xpAjoVg31THIU50bXG2Fk3lYtxKXmBtX::file:1_qY16-7Elv0QBCHfq2A4MAsStE8Q08fN",
+          "name": "2k7 L12 C1 CD4 38",
+          "parentName": "7. Đáp Án Sách Chuyên Đề + Video Chữa",
+          "checksum": "2026-05-11T13:15:15.336Z|1|8bed472b2574",
+          "virtual": true
+        },
+        {
+          "id": "1xpAjoVg31THIU50bXG2Fk3lYtxKXmBtX::file:1_r2iiHn3FcRqjhUXx6Cpio2dDd-BCplf",
+          "name": "2k7 L12 C1 CD4 54",
+          "parentName": "7. Đáp Án Sách Chuyên Đề + Video Chữa",
+          "checksum": "2026-05-11T13:17:04.469Z|1|11e467a9070d",
+          "virtual": true
+        },
+        {
+          "id": "1xpAjoVg31THIU50bXG2Fk3lYtxKXmBtX::file:1-bVd4UuXJamhA7dGMW7BqSUvxoBcymhq",
+          "name": "2k7 L12 C1 CD4 21",
+          "parentName": "7. Đáp Án Sách Chuyên Đề + Video Chữa",
+          "checksum": "2026-05-11T13:14:37.832Z|1|01d3dcd9ddc5",
+          "virtual": true
+        },
+        {
+          "id": "1xpAjoVg31THIU50bXG2Fk3lYtxKXmBtX::file:1-jPSLLMGGYzrOr4wIrsNE8rQKLZmB9J4",
+          "name": "2k7 L12 C1 CD4 53",
+          "parentName": "7. Đáp Án Sách Chuyên Đề + Video Chữa",
+          "checksum": "2026-05-11T12:40:53.424Z|1|0826e893dd35",
+          "virtual": true
+        },
+        {
+          "id": "1xpAjoVg31THIU50bXG2Fk3lYtxKXmBtX::file:11Lcxdaot1MYzeD5Nkv40i1mrunyuKPDW",
+          "name": "2k7 L12 C1 CD4 41",
+          "parentName": "7. Đáp Án Sách Chuyên Đề + Video Chữa",
+          "checksum": "2026-05-11T13:14:02.269Z|1|07d94dc8df69",
+          "virtual": true
+        },
+        {
+          "id": "1xpAjoVg31THIU50bXG2Fk3lYtxKXmBtX::file:11zgcujo9tM_DMA6TheuNe6t2r0wmqps5",
+          "name": "2k7 L12 C1 CD4 50",
+          "parentName": "7. Đáp Án Sách Chuyên Đề + Video Chữa",
+          "checksum": "2026-05-11T13:17:10.595Z|1|723b6d5a8d88",
+          "virtual": true
+        },
+        {
+          "id": "1xpAjoVg31THIU50bXG2Fk3lYtxKXmBtX::file:15eTRLXwCXdXBPPXWX1oNfc1ewYdMvFip",
+          "name": "2k7 L12 C1 CD4 52",
+          "parentName": "7. Đáp Án Sách Chuyên Đề + Video Chữa",
+          "checksum": "2026-05-11T13:13:53.602Z|1|07d506cdc85f",
+          "virtual": true
+        },
+        {
+          "id": "1xpAjoVg31THIU50bXG2Fk3lYtxKXmBtX::file:15xZpNktkJC8F4LG-9mFm_gXQkki8Of7n",
+          "name": "2k7 L12 C1 CD4 62",
+          "parentName": "7. Đáp Án Sách Chuyên Đề + Video Chữa",
+          "checksum": "2026-05-11T13:16:01.036Z|1|a75a68dc51d9",
+          "virtual": true
+        },
+        {
+          "id": "1xpAjoVg31THIU50bXG2Fk3lYtxKXmBtX::file:164dIrFQTJxzn7Pz1Nz3tIg_t2oqM9q82",
+          "name": "2k7 L12 C1 CD4 26",
+          "parentName": "7. Đáp Án Sách Chuyên Đề + Video Chữa",
+          "checksum": "2026-05-11T13:08:07.601Z|1|98c73b324a88",
+          "virtual": true
+        },
+        {
+          "id": "1xpAjoVg31THIU50bXG2Fk3lYtxKXmBtX::file:16m7E4fU-SM7mi1uFMye0arR8C_i4YXU3",
+          "name": "2k7 L12 C1 CD4 11",
+          "parentName": "7. Đáp Án Sách Chuyên Đề + Video Chữa",
+          "checksum": "2026-05-11T12:28:58.683Z|1|6d0e8e1fa392",
+          "virtual": true
+        },
+        {
+          "id": "1xpAjoVg31THIU50bXG2Fk3lYtxKXmBtX::file:1886OPie08Nii7bgSG1YV8-8lRTH7xGhU",
+          "name": "2k7 L12 C1 CD4 6 10",
+          "parentName": "7. Đáp Án Sách Chuyên Đề + Video Chữa",
+          "checksum": "2026-05-11T13:16:58.179Z|1|dd04a0f5b73d",
+          "virtual": true
+        },
+        {
+          "id": "1xpAjoVg31THIU50bXG2Fk3lYtxKXmBtX::file:18DgqT-IF4-vDBQKiJ2CIhipgDtVH_gbL",
+          "name": "2k7 L12 C1 CD4 48",
+          "parentName": "7. Đáp Án Sách Chuyên Đề + Video Chữa",
+          "checksum": "2026-05-11T13:16:16.431Z|1|be144e7c4ef6",
+          "virtual": true
+        },
+        {
+          "id": "1xpAjoVg31THIU50bXG2Fk3lYtxKXmBtX::file:19LbcNo41LpnjFoZsjMQ3Nh0QfY7H7hx0",
+          "name": "Đáp Án Sách Chuyên Đề + Video Chữa[Lời giải + Đáp án]",
+          "parentName": "7. Đáp Án Sách Chuyên Đề + Video Chữa",
+          "checksum": "2026-05-11T08:30:22.139Z|1|528a4b969317",
+          "virtual": true
+        },
+        {
+          "id": "1xpAjoVg31THIU50bXG2Fk3lYtxKXmBtX::file:1A2OHFiIS5ksZBjrNAR5O7BwIzMOXVw4D",
+          "name": "2k7 L12 C1 CD4 15",
+          "parentName": "7. Đáp Án Sách Chuyên Đề + Video Chữa",
+          "checksum": "2026-05-11T13:16:36.153Z|1|d56fe8679997",
+          "virtual": true
+        },
+        {
+          "id": "1xpAjoVg31THIU50bXG2Fk3lYtxKXmBtX::file:1AmWM0A6leUA8cqUNQDYn5KWFjCapGJ3x",
+          "name": "2k7 L12 C1 CD4 22",
+          "parentName": "7. Đáp Án Sách Chuyên Đề + Video Chữa",
+          "checksum": "2026-05-11T12:43:44.781Z|1|988770af3be7",
+          "virtual": true
+        },
+        {
+          "id": "1xpAjoVg31THIU50bXG2Fk3lYtxKXmBtX::file:1b4ufCLo905C38VrvWjxqSTx2PUwu3q9t",
+          "name": "2k7 L12 C1 CD4 40",
+          "parentName": "7. Đáp Án Sách Chuyên Đề + Video Chữa",
+          "checksum": "2026-05-11T12:56:47.121Z|1|776eaffd5e89",
+          "virtual": true
+        },
+        {
+          "id": "1xpAjoVg31THIU50bXG2Fk3lYtxKXmBtX::file:1cNd0Bgr8QqqtTnCPoltV-AmSSK0xVRtU",
+          "name": "2k7 L12 C1 CD4 32",
+          "parentName": "7. Đáp Án Sách Chuyên Đề + Video Chữa",
+          "checksum": "2026-05-11T13:14:20.245Z|1|207fdff71256",
+          "virtual": true
+        },
+        {
+          "id": "1xpAjoVg31THIU50bXG2Fk3lYtxKXmBtX::file:1CWKWViPYtzCjZc0qjFUzlDXGzPUWlbZe",
+          "name": "2k7 L12 C1 CD4 51",
+          "parentName": "7. Đáp Án Sách Chuyên Đề + Video Chữa",
+          "checksum": "2026-05-11T12:41:23.420Z|1|c5b401b46d4d",
+          "virtual": true
+        },
+        {
+          "id": "1xpAjoVg31THIU50bXG2Fk3lYtxKXmBtX::file:1dHOPY8FkpoCoZsDWlHOKIi9jPJcYdALB",
+          "name": "2k7 L12 C1 CD4 12",
+          "parentName": "7. Đáp Án Sách Chuyên Đề + Video Chữa",
+          "checksum": "2026-05-11T13:16:09.032Z|1|6a4f85a1aea9",
+          "virtual": true
+        },
+        {
+          "id": "1xpAjoVg31THIU50bXG2Fk3lYtxKXmBtX::file:1DnLwJ7HTKKZIZ3R2QTM_v9a9SipXgcOl",
+          "name": "2k7 L12 C1 CD4 58",
+          "parentName": "7. Đáp Án Sách Chuyên Đề + Video Chữa",
+          "checksum": "2026-05-11T11:49:13.641Z|1|d44e88b6b906",
+          "virtual": true
+        },
+        {
+          "id": "1xpAjoVg31THIU50bXG2Fk3lYtxKXmBtX::file:1DRZelUiL94hiY-ltDSlAGjp84fQ_UoER",
+          "name": "2k7 L12 C1 CD4 23",
+          "parentName": "7. Đáp Án Sách Chuyên Đề + Video Chữa",
+          "checksum": "2026-05-11T12:58:24.753Z|1|d6af3f7098cc",
+          "virtual": true
+        },
+        {
+          "id": "1xpAjoVg31THIU50bXG2Fk3lYtxKXmBtX::file:1ErRkNw4sMpAEU5tXo31ieN7jp0iyz8uq",
+          "name": "2k7 L12 C1 CD4 1 5",
+          "parentName": "7. Đáp Án Sách Chuyên Đề + Video Chữa",
+          "checksum": "2026-05-11T13:16:29.523Z|1|799c4999b04d",
+          "virtual": true
+        },
+        {
+          "id": "1xpAjoVg31THIU50bXG2Fk3lYtxKXmBtX::file:1FAIsAbt9DZTnLNmEmVUgQQL3vMWHBtG-",
+          "name": "2k7 L12 C1 CD4 47",
+          "parentName": "7. Đáp Án Sách Chuyên Đề + Video Chữa",
+          "checksum": "2026-05-11T13:14:45.970Z|1|cbedfd27fccd",
+          "virtual": true
+        },
+        {
+          "id": "1xpAjoVg31THIU50bXG2Fk3lYtxKXmBtX::file:1Fit30dsFkkADT2DCKSCmKttYz9TlFc-6",
+          "name": "2k7 L12 C1 CD4 57",
+          "parentName": "7. Đáp Án Sách Chuyên Đề + Video Chữa",
+          "checksum": "2026-05-11T13:15:28.007Z|1|9dc1d9010d98",
+          "virtual": true
+        },
+        {
+          "id": "1xpAjoVg31THIU50bXG2Fk3lYtxKXmBtX::file:1fVHq08Jdud5UTf_QmWGqFJG4a-gZaSx6",
+          "name": "Đáp Án Sách Chuyên Đề + Video Chữa",
+          "parentName": "7. Đáp Án Sách Chuyên Đề + Video Chữa",
+          "checksum": "2026-05-11T08:30:22.174Z|1|e9e8e5e5c08b",
+          "virtual": true
+        },
+        {
+          "id": "1xpAjoVg31THIU50bXG2Fk3lYtxKXmBtX::file:1GGVAh8en9uZWtR-7ZGRFwlJKEztRzQbX",
+          "name": "2k7 L12 C1 CD4 49",
+          "parentName": "7. Đáp Án Sách Chuyên Đề + Video Chữa",
+          "checksum": "2026-05-11T13:15:39.418Z|1|4e84a09f3ffc",
+          "virtual": true
+        },
+        {
+          "id": "1xpAjoVg31THIU50bXG2Fk3lYtxKXmBtX::file:1glKvNXaMFoYtnBcyGlXr1Ly6Pamyx0Ke",
+          "name": "2k7 L12 C1 CD4 44",
+          "parentName": "7. Đáp Án Sách Chuyên Đề + Video Chữa",
+          "checksum": "2026-05-11T12:12:59.624Z|1|cc6997a18f82",
+          "virtual": true
+        },
+        {
+          "id": "1xpAjoVg31THIU50bXG2Fk3lYtxKXmBtX::file:1GydmF0dS3wvbv-VwuKls0OIqhBQfJBU8",
+          "name": "2k7 L12 C1 CD4 30",
+          "parentName": "7. Đáp Án Sách Chuyên Đề + Video Chữa",
+          "checksum": "2026-05-11T13:14:29.689Z|1|90f83860ebd9",
+          "virtual": true
+        },
+        {
+          "id": "1xpAjoVg31THIU50bXG2Fk3lYtxKXmBtX::file:1hIrcDFC_5s2tSm6xUXJ2PFjIi-74aMXD",
+          "name": "2k7 L12 C1 CD4 25",
+          "parentName": "7. Đáp Án Sách Chuyên Đề + Video Chữa",
+          "checksum": "2026-05-11T13:04:34.808Z|1|40102d432e81",
+          "virtual": true
+        },
+        {
+          "id": "1xpAjoVg31THIU50bXG2Fk3lYtxKXmBtX::file:1Hkwx_pdFxUEJOyyW9vr9sIbMw4Rtl4Fw",
+          "name": "2k7 L12 C1 CD4 42",
+          "parentName": "7. Đáp Án Sách Chuyên Đề + Video Chữa",
+          "checksum": "2026-05-11T13:14:14.501Z|1|0773a4aabc38",
+          "virtual": true
+        },
+        {
+          "id": "1xpAjoVg31THIU50bXG2Fk3lYtxKXmBtX::file:1hVlaiX_UL0_BDFCX4lPwyqekSZXFjAq_",
+          "name": "2k7 L12 C1 CD4 36",
+          "parentName": "7. Đáp Án Sách Chuyên Đề + Video Chữa",
+          "checksum": "2026-05-11T13:17:33.524Z|1|0c6a7fdf7dde",
+          "virtual": true
+        },
+        {
+          "id": "1xpAjoVg31THIU50bXG2Fk3lYtxKXmBtX::file:1jTIQjCt6cFcWuNWTsoRlMHuk5eHMOBqO",
+          "name": "2k7 L12 C1 CD4 34",
+          "parentName": "7. Đáp Án Sách Chuyên Đề + Video Chữa",
+          "checksum": "2026-05-11T13:04:48.895Z|1|7686af5dab86",
+          "virtual": true
+        },
+        {
+          "id": "1xpAjoVg31THIU50bXG2Fk3lYtxKXmBtX::file:1kbaUbkmk40MKHpcjwy9xcTq9LpeumnnQ",
+          "name": "2k7 L12 C1 CD4 31",
+          "parentName": "7. Đáp Án Sách Chuyên Đề + Video Chữa",
+          "checksum": "2026-05-11T12:03:12.722Z|1|0149e94902d1",
+          "virtual": true
+        },
+        {
+          "id": "1xpAjoVg31THIU50bXG2Fk3lYtxKXmBtX::file:1KE8-_0S-HyWBZ3mPLcyVfjdngs_dMcOl",
+          "name": "2k7 L12 C1 CD4 55",
+          "parentName": "7. Đáp Án Sách Chuyên Đề + Video Chữa",
+          "checksum": "2026-05-11T12:52:21.789Z|1|ee926852116d",
+          "virtual": true
+        },
+        {
+          "id": "1xpAjoVg31THIU50bXG2Fk3lYtxKXmBtX::file:1mcSiVFNNlYsqB-9Vb-M6nipKgHs5Wj_f",
+          "name": "2k7 L12 C1 CD4 37",
+          "parentName": "7. Đáp Án Sách Chuyên Đề + Video Chữa",
+          "checksum": "2026-05-11T13:15:08.777Z|1|a4f004ff001c",
+          "virtual": true
+        },
+        {
+          "id": "1xpAjoVg31THIU50bXG2Fk3lYtxKXmBtX::file:1mGGlRr5XGi8QVM58Fp4bFRClVwXyptFy",
+          "name": "2k7 L12 C1 CD4 13",
+          "parentName": "7. Đáp Án Sách Chuyên Đề + Video Chữa",
+          "checksum": "2026-05-11T13:15:54.967Z|1|486c2365b9c8",
+          "virtual": true
+        },
+        {
+          "id": "1xpAjoVg31THIU50bXG2Fk3lYtxKXmBtX::file:1MYNPWbaJn0OqCvCdykRvcnPE7Xsvjqen",
+          "name": "2k7 L12 C1 CD4 17",
+          "parentName": "7. Đáp Án Sách Chuyên Đề + Video Chữa",
+          "checksum": "2026-05-11T13:11:27.266Z|1|2cc29084b2e6",
+          "virtual": true
+        },
+        {
+          "id": "1xpAjoVg31THIU50bXG2Fk3lYtxKXmBtX::file:1NZSGuYo12eYkbz84kv8C9cd8xuHd-Ucw",
+          "name": "2k7 L12 C1 CD4 35",
+          "parentName": "7. Đáp Án Sách Chuyên Đề + Video Chữa",
+          "checksum": "2026-05-11T12:58:18.420Z|1|cb25d0705e7e",
+          "virtual": true
+        },
+        {
+          "id": "1xpAjoVg31THIU50bXG2Fk3lYtxKXmBtX::file:1q6YE9mSfgy8MLmO4nMRsUXOLcQeTrFEk",
+          "name": "2k7 L12 C1 CD4 63",
+          "parentName": "7. Đáp Án Sách Chuyên Đề + Video Chữa",
+          "checksum": "2026-05-11T13:16:22.816Z|1|b87ab7a36b8b",
+          "virtual": true
+        },
+        {
+          "id": "1xpAjoVg31THIU50bXG2Fk3lYtxKXmBtX::file:1qstzly2mcZjpHGBp6Xe0XKL_GqdP7ydF",
+          "name": "2k7 L12 C1 CD4 19",
+          "parentName": "7. Đáp Án Sách Chuyên Đề + Video Chữa",
+          "checksum": "2026-05-11T13:15:47.682Z|1|a3680ae76d1a",
+          "virtual": true
+        },
+        {
+          "id": "1xpAjoVg31THIU50bXG2Fk3lYtxKXmBtX::file:1RlvPvrrgr0L60M-D16TZRBHQLmhBU61w",
+          "name": "2k7 L12 C1 CD4 46",
+          "parentName": "7. Đáp Án Sách Chuyên Đề + Video Chữa",
+          "checksum": "2026-05-11T12:41:05.248Z|1|599c73b7c906",
+          "virtual": true
+        },
+        {
+          "id": "1xpAjoVg31THIU50bXG2Fk3lYtxKXmBtX::file:1rw5fzUZLJLIL2_cSbAVh7kDXQ8LdTsFW",
+          "name": "2k7 L12 C1 CD4 20",
+          "parentName": "7. Đáp Án Sách Chuyên Đề + Video Chữa",
+          "checksum": "2026-05-11T13:04:41.460Z|1|34bf93be229d",
+          "virtual": true
+        },
+        {
+          "id": "1xpAjoVg31THIU50bXG2Fk3lYtxKXmBtX::file:1RwgOq4gmFCqpIJs1lsPmWvMGtQkAkpB1",
+          "name": "2k7 L12 C1 CD4 18",
+          "parentName": "7. Đáp Án Sách Chuyên Đề + Video Chữa",
+          "checksum": "2026-05-11T13:14:54.325Z|1|b223b99ea6eb",
+          "virtual": true
+        },
+        {
+          "id": "1xpAjoVg31THIU50bXG2Fk3lYtxKXmBtX::file:1S99MHqKYqIBuahYczJ-PsgoG3ZZqGjBN",
+          "name": "2k7 L12 C1 CD4 64",
+          "parentName": "7. Đáp Án Sách Chuyên Đề + Video Chữa",
+          "checksum": "2026-05-11T13:16:43.616Z|1|0c3a909393e1",
+          "virtual": true
+        },
+        {
+          "id": "1xpAjoVg31THIU50bXG2Fk3lYtxKXmBtX::file:1sjZ8awuBtI0YwhYuoaqp3lkJtIzoIatZ",
+          "name": "2k7 L12 C1 CD4 59",
+          "parentName": "7. Đáp Án Sách Chuyên Đề + Video Chữa",
+          "checksum": "2026-05-11T12:18:21.318Z|1|22e8a7e45472",
+          "virtual": true
+        },
+        {
+          "id": "1xpAjoVg31THIU50bXG2Fk3lYtxKXmBtX::file:1u5YeuWW8vJ5S5U6q5oS6J9lV7P_-zz2L",
+          "name": "2k7 L12 C1 CD4 14",
+          "parentName": "7. Đáp Án Sách Chuyên Đề + Video Chữa",
+          "checksum": "2026-05-11T13:17:25.368Z|1|916d4972bcf2",
+          "virtual": true
+        },
+        {
+          "id": "1xpAjoVg31THIU50bXG2Fk3lYtxKXmBtX::file:1u9RiiQ1heiHL9R_H0P2VCgiQTFUn_Lkg",
+          "name": "2k7 L12 C1 CD4 43",
+          "parentName": "7. Đáp Án Sách Chuyên Đề + Video Chữa",
+          "checksum": "2026-05-11T12:41:51.641Z|1|d82c2f9f40be",
+          "virtual": true
+        },
+        {
+          "id": "1xpAjoVg31THIU50bXG2Fk3lYtxKXmBtX::file:1UqWradK3pJ6yJ8Qw5qvKUgE75WfELNaq",
+          "name": "2k7 L12 C1 CD4 56",
+          "parentName": "7. Đáp Án Sách Chuyên Đề + Video Chữa",
+          "checksum": "2026-05-11T11:51:59.901Z|1|0fa0bf3bbf42",
+          "virtual": true
+        },
+        {
+          "id": "1xpAjoVg31THIU50bXG2Fk3lYtxKXmBtX::file:1v2k99OlpaQLTz1IoS3jJ0R8iL-BvX5SQ",
+          "name": "2k7 L12 C1 CD4 61",
+          "parentName": "7. Đáp Án Sách Chuyên Đề + Video Chữa",
+          "checksum": "2026-05-11T13:17:40.174Z|1|155f2d0e750c",
+          "virtual": true
+        },
+        {
+          "id": "1xpAjoVg31THIU50bXG2Fk3lYtxKXmBtX::file:1VM14H7iahRQZLh9J5uhnqturBkdFhCbt",
+          "name": "2k7 L12 C1 CD4 28",
+          "parentName": "7. Đáp Án Sách Chuyên Đề + Video Chữa",
+          "checksum": "2026-05-11T13:15:33.807Z|1|6f0b9dea2e59",
+          "virtual": true
+        },
+        {
+          "id": "1xpAjoVg31THIU50bXG2Fk3lYtxKXmBtX::file:1vrUJKyEZevD09x27ttSAT67Sep9hUxEq",
+          "name": "2k7 L12 C1 CD4 39",
+          "parentName": "7. Đáp Án Sách Chuyên Đề + Video Chữa",
+          "checksum": "2026-05-11T13:03:17.590Z|1|577f0948a4b9",
+          "virtual": true
+        },
+        {
+          "id": "1xpAjoVg31THIU50bXG2Fk3lYtxKXmBtX::file:1W9bm0LJzHsqGKHbOIA7iGA1SwKDvIYti",
+          "name": "2k7 L12 C1 CD4 29",
+          "parentName": "7. Đáp Án Sách Chuyên Đề + Video Chữa",
+          "checksum": "2026-05-11T12:46:59.916Z|1|8a1ba6d23974",
+          "virtual": true
+        },
+        {
+          "id": "1xpAjoVg31THIU50bXG2Fk3lYtxKXmBtX::file:1wDihZFXkfOdCg5EPg9rL_M_5IHzjPWbI",
+          "name": "2k7 L12 C1 CD4 24",
+          "parentName": "7. Đáp Án Sách Chuyên Đề + Video Chữa",
+          "checksum": "2026-05-11T13:15:22.322Z|1|b860eb6330be",
+          "virtual": true
+        },
+        {
+          "id": "1xpAjoVg31THIU50bXG2Fk3lYtxKXmBtX::file:1WnKbFmzyqkYa0G5_b4U6Gs2mTkOG2eyH",
+          "name": "2k7 L12 C1 CD4 33",
+          "parentName": "7. Đáp Án Sách Chuyên Đề + Video Chữa",
+          "checksum": "2026-05-11T13:17:17.305Z|1|05957796a828",
+          "virtual": true
+        },
+        {
+          "id": "1xpAjoVg31THIU50bXG2Fk3lYtxKXmBtX::file:1XXzSxIY1fETJxcKD1VA56dhvGWyYDGX1",
+          "name": "2k7 L12 C1 CD4 16",
+          "parentName": "7. Đáp Án Sách Chuyên Đề + Video Chữa",
+          "checksum": "2026-05-11T13:16:51.923Z|1|6b7c942d0f72",
+          "virtual": true
+        },
+        {
+          "id": "1xpAjoVg31THIU50bXG2Fk3lYtxKXmBtX::file:1XZp-G_sFtVn8U_yoUEq3Hsnwu3JbV6zY",
+          "name": "2k7 L12 C1 CD4 27",
+          "parentName": "7. Đáp Án Sách Chuyên Đề + Video Chữa",
+          "checksum": "2026-05-11T12:41:15.085Z|1|5b7c7fe6b970",
+          "virtual": true
+        },
+        {
+          "id": "1xpAjoVg31THIU50bXG2Fk3lYtxKXmBtX::file:1Y1LD8JvsfnGjPbz--BBYKjm5Qa3AY8yB",
+          "name": "2k7 L12 C1 CD4 60",
+          "parentName": "7. Đáp Án Sách Chuyên Đề + Video Chữa",
+          "checksum": "2026-05-11T11:49:31.585Z|1|002b76143cd5",
+          "virtual": true
+        },
+        {
+          "id": "1xpAjoVg31THIU50bXG2Fk3lYtxKXmBtX::file:1YoDc44UhdYWM_Tr18OQeRvsrrBvGUycg",
+          "name": "2k7 L12 C1 CD4 45",
+          "parentName": "7. Đáp Án Sách Chuyên Đề + Video Chữa",
+          "checksum": "2026-05-11T13:15:02.295Z|1|69dca3115064",
+          "virtual": true
+        },
+        {
+          "id": "1yPSR34TgpQlzzKsn_ciNj9H9NE3flLzB::file:1cPFvfttOFXDNfZYXNrFECBX_553UOXjN",
+          "name": "Tài liệu tham khảo Mô Hình và Thí Nghiệm Vật Lí Nhiệt",
+          "parentName": "5. MÔ HÌNH THỰC TẾ",
+          "checksum": "2026-05-18T01:34:24.764Z|1|eba11d894cd9",
+          "virtual": true
+        },
+        {
+          "id": "1yPSR34TgpQlzzKsn_ciNj9H9NE3flLzB::file:1kEGbA4agXnboR3jm51ErQQgAqri9oTfD",
+          "name": "Tài liệu tham khảo Mô Hình và Thí Nghiệm Vật Lí Nhiệt[Lời giải + Đáp án]",
+          "parentName": "5. MÔ HÌNH THỰC TẾ",
+          "checksum": "2026-05-18T01:34:26.480Z|1|040089e87ff0",
+          "virtual": true
+        },
+        {
+          "id": "1yPSR34TgpQlzzKsn_ciNj9H9NE3flLzB::file:1rboo3Drb369VDGFN4jOMjT3WQEuXHMz2",
+          "name": "File Mô Hình Thực Tế - Chương 1 Vật Lí Nhiệt",
+          "parentName": "5. MÔ HÌNH THỰC TẾ",
+          "checksum": "2026-05-18T01:34:04.285Z|1|a48705ab08fc",
+          "virtual": true
+        },
+        {
+          "id": "1NEfV47AP-K8z-sLtRLRDYl6R7y_59biP",
+          "name": "2. Mô Hình Quạt Hơi Nước",
+          "parentName": "5. MÔ HÌNH THỰC TẾ",
+          "checksum": "2026-05-18T01:36:39.937Z|1",
+          "virtual": false
+        },
+        {
+          "id": "1Cl64EE-C0UrGN6HEuyjPubQcItzMmn0L",
+          "name": "3. Mô Hình Bình Nước Nóng Năng Lượng Mặt Trời",
+          "parentName": "5. MÔ HÌNH THỰC TẾ",
+          "checksum": "2026-05-18T01:36:27.683Z|1",
+          "virtual": false
+        },
+        {
+          "id": "11c0D4Hocbv2i--Zy6-xv4CcuYEFTwI3z",
+          "name": "4. Mô Hình Máy Làm Nóng Nước",
+          "parentName": "5. MÔ HÌNH THỰC TẾ",
+          "checksum": "2026-05-18T01:36:12.214Z|1",
+          "virtual": false
+        },
+        {
+          "id": "1d1AGRTAWVqCkBYg1f7xmLgedH4jqhow2",
+          "name": "5. Mô Hình Máy Điều Hoà Không Khí",
+          "parentName": "5. MÔ HÌNH THỰC TẾ",
+          "checksum": "2026-05-18T01:34:43.141Z|2",
+          "virtual": false
+        },
+        {
+          "id": "1VsIWMB_x_gLp6LAk8XkLuhKkF4N3AISn",
+          "name": "6. Mô Hình Máy Tản Nhiệt",
+          "parentName": "5. MÔ HÌNH THỰC TẾ",
+          "checksum": "2026-05-18T01:34:20.743Z|2",
+          "virtual": false
+        },
+        {
+          "id": "1DVHkN9HxTQvhoFGsW5dV2maX5wsvNgUu",
+          "name": "6. THÍ NGHIỆM NHIỆT NÓNG CHẢY RIÊNG",
+          "parentName": "1. Chương 1: Vật Lý Nhiệt",
+          "checksum": "2026-05-18T01:39:37.833Z|2",
+          "virtual": false
+        },
+        {
+          "id": "1f1FoX_8gFl3ay2tVaDSX8yWrlUmXCddM",
+          "name": "7. ÔN TẬP LÝ THUYẾT CHƯƠNG 1",
+          "parentName": "1. Chương 1: Vật Lý Nhiệt",
+          "checksum": "2026-05-18T01:33:55.404Z|4",
+          "virtual": false
+        },
+        {
+          "id": "1cs-_7pCcPMAooMmpFH70cSyBF0UJKtv3",
+          "name": "1. Đề khảo sát Chương 1 - Số 6 (Chữa Live 21h30 Thứ 4 ngày 10/9)",
+          "parentName": "8. ĐỀ ÔN TẬP CHƯƠNG 1",
+          "checksum": "2026-05-18T01:31:16.770Z|1",
+          "virtual": false
+        },
+        {
+          "id": "1BgWZyUA0FIZEqshlLEu8Qy0iYTYmYKYX",
+          "name": "2. Đề khảo sát Chương 1 - Số 5",
+          "parentName": "8. ĐỀ ÔN TẬP CHƯƠNG 1",
+          "checksum": "2026-05-18T01:26:58.144Z|1",
+          "virtual": false
+        },
+        {
+          "id": "1cWn2qy5CO6NREw52l18AxpM_-PghiJcP",
+          "name": "3. Đề khảo sát Chương 1 - Số 4",
+          "parentName": "8. ĐỀ ÔN TẬP CHƯƠNG 1",
+          "checksum": "2026-05-18T01:31:12.968Z|1",
+          "virtual": false
+        },
+        {
+          "id": "1UHAm_utq9Q6DjWaaRm3LCUjCpX3rZ6EF",
+          "name": "4. Đề khảo sát Chương 1 - Số 3",
+          "parentName": "8. ĐỀ ÔN TẬP CHƯƠNG 1",
+          "checksum": "2026-05-18T01:31:08.320Z|1",
+          "virtual": false
+        },
+        {
+          "id": "1vjEF7ZmVYS5kOzy0DP4pZNL7U4pzQ4nt",
+          "name": "5. Đề khảo sát Chương 1 - Số 2",
+          "parentName": "8. ĐỀ ÔN TẬP CHƯƠNG 1",
+          "checksum": "2026-05-18T01:31:03.507Z|2",
+          "virtual": false
+        },
+        {
+          "id": "10Q2c23DZHu4usjbmK8O7o1cI66sRoVp_",
+          "name": "6. Đề khảo sát Chương 1 - Số 1",
+          "parentName": "8. ĐỀ ÔN TẬP CHƯƠNG 1",
+          "checksum": "2026-05-18T01:29:12.142Z|2",
+          "virtual": false
+        },
+        {
+          "id": "17i7WoZa0U0StCXq8haQyvshAMDPKrYyh",
+          "name": "7. Đề 3",
+          "parentName": "8. ĐỀ ÔN TẬP CHƯƠNG 1",
+          "checksum": "2026-05-24T14:40:26.023Z|3",
+          "virtual": false
+        },
+        {
+          "id": "1wjfSy7t3jKNDrMIgCY1EiFxFFNR0ldeq",
+          "name": "8. Đề ôn tập Đúng/Sai",
+          "parentName": "8. ĐỀ ÔN TẬP CHƯƠNG 1",
+          "checksum": "2026-05-24T14:37:30.676Z|2",
+          "virtual": false
+        },
+        {
+          "id": "1rGubWiPDW-pxzk-dBScQ-qORpfIynzHx",
+          "name": "9. Đề kiểm tra khảo sát Chương 1",
+          "parentName": "8. ĐỀ ÔN TẬP CHƯƠNG 1",
+          "checksum": "2026-05-24T14:35:48.482Z|3",
+          "virtual": false
+        },
+        {
+          "id": "1KrNOnQkbWacAJHi9sFlPG4O5ksj_lrlN",
+          "name": "10. Đề 1",
+          "parentName": "8. ĐỀ ÔN TẬP CHƯƠNG 1",
+          "checksum": "2026-05-24T14:33:01.677Z|2",
+          "virtual": false
+        },
+        {
+          "id": "1XrT177RqfLTXO6Kh5bAi_sew5Hr_ZQ2p",
+          "name": "11. Đề 2",
+          "parentName": "8. ĐỀ ÔN TẬP CHƯƠNG 1",
+          "checksum": "2026-05-24T14:29:26.799Z|2",
+          "virtual": false
+        },
+        {
+          "id": "18EYQDIbdIcHf8jgTbNt4xcsNw39y9XjH::file:1F2V98ilidgLRWUVxwc4JRL--4OPhKKOa",
+          "name": "File Tài Liệu Ghi Chép Chương 2",
+          "parentName": "2. CHƯƠNG 2: KHÍ LÝ TƯỞNG ",
+          "checksum": "2026-05-22T16:14:59.836Z|1|28e3009e0ca9",
+          "virtual": true
+        },
+        {
+          "id": "1_QXF6dMIIDZqE-Y-ITLfvDU8ngxlt2pD",
+          "name": "1. Lý Thuyết Chủ Đề 1: Mô Hình Động Học Phân Tử Chất Khí",
+          "parentName": "CHỦ ĐỀ 1: MÔ HÌNH ĐỘNG HỌC PHÂN TỬ CHẤT KHÍ",
+          "checksum": "2026-05-22T16:14:58.480Z|0",
+          "virtual": false
+        },
+        {
+          "id": "15M0MJfThoBzRLjQaGefUQRNPLF7aMvJS",
+          "name": "2. Bài tập cùng cố chủ đề 1",
+          "parentName": "CHỦ ĐỀ 1: MÔ HÌNH ĐỘNG HỌC PHÂN TỬ CHẤT KHÍ",
+          "checksum": "2026-05-22T16:14:56.702Z|0",
+          "virtual": false
+        },
+        {
+          "id": "1CoZaNq9QcaJxj8ipKpHVm1U0mN4Eiwxq",
+          "name": "3. Đáp án sách chuyên đề",
+          "parentName": "CHỦ ĐỀ 1: MÔ HÌNH ĐỘNG HỌC PHÂN TỬ CHẤT KHÍ",
+          "checksum": "2026-05-22T16:14:55.292Z|0",
+          "virtual": false
+        },
+        {
+          "id": "1iCt-vTAK1HwPjmKpd4hyK4x-O4Qf9NTg",
+          "name": "4. Đề ôn tập số 1",
+          "parentName": "CHỦ ĐỀ 1: MÔ HÌNH ĐỘNG HỌC PHÂN TỬ CHẤT KHÍ",
+          "checksum": "2026-05-22T16:14:53.855Z|0",
+          "virtual": false
+        },
+        {
+          "id": "1_I_ekPDjqJEWjKQkk-s-VEeBd0zUy0Xd",
+          "name": "5. Đề ôn tập số 2",
+          "parentName": "CHỦ ĐỀ 1: MÔ HÌNH ĐỘNG HỌC PHÂN TỬ CHẤT KHÍ",
+          "checksum": "2026-05-22T16:14:51.663Z|0",
+          "virtual": false
+        }
+      ],
+      "rendererVersion": "4.3.1",
+      "styleVersion": "2026-05-31-student-banner-no-meta-v2",
+      "runId": "no-meta-sync-2026-05-31-104541",
+      "spreadsheetId": "101OxmpPzXXUjNUsdl_ql8Imd0-SMvowIxlO5uxZaMEg",
+      "stats": {
+        "leafCount": 132,
+        "totalVideos": 209
+      }
+    },
+    "1dc11PTYsGMlhsq5MbmSUW-vXMCiq_-Q9": {
+      "tabName": "Khóa Tổng Ôn",
+      "renderedAt": "2026-05-31T04:04:48.491Z",
+      "checksum": "1dc11PTYsGMlhsq5MbmSUW-vXMCiq_-Q9|2026-04-19T04:06:22.768Z|0",
+      "lessons": [],
+      "rendererVersion": "4.3.1",
+      "styleVersion": "2026-05-31-student-banner-no-meta-v2",
+      "runId": "no-meta-sync-2026-05-31-104541",
+      "spreadsheetId": "101OxmpPzXXUjNUsdl_ql8Imd0-SMvowIxlO5uxZaMEg",
+      "stats": {
+        "leafCount": 0,
+        "totalVideos": 0
+      }
+    },
+    "11Xlr42529tAJtm36nQhhcepkl1GzsVtc": {
+      "tabName": "Khóa Luyện Đề",
+      "renderedAt": "2026-05-31T04:04:55.376Z",
+      "checksum": "11Xlr42529tAJtm36nQhhcepkl1GzsVtc|2026-04-19T04:06:22.055Z|0",
+      "lessons": [],
+      "rendererVersion": "4.3.1",
+      "styleVersion": "2026-05-31-student-banner-no-meta-v2",
+      "runId": "no-meta-sync-2026-05-31-104541",
+      "spreadsheetId": "101OxmpPzXXUjNUsdl_ql8Imd0-SMvowIxlO5uxZaMEg",
+      "stats": {
+        "leafCount": 0,
+        "totalVideos": 0
+      }
+    },
+    "1SdrFtRTeg7kNah_6u5wJSLZd190td-70": {
+      "tabName": "Khóa Thực Chiến",
+      "renderedAt": "2026-05-31T04:05:02.250Z",
+      "checksum": "1SdrFtRTeg7kNah_6u5wJSLZd190td-70|2026-04-19T04:06:21.176Z|0",
+      "lessons": [],
+      "rendererVersion": "4.3.1",
+      "styleVersion": "2026-05-31-student-banner-no-meta-v2",
+      "runId": "no-meta-sync-2026-05-31-104541",
+      "spreadsheetId": "101OxmpPzXXUjNUsdl_ql8Imd0-SMvowIxlO5uxZaMEg",
+      "stats": {
+        "leafCount": 0,
+        "totalVideos": 0
+      }
+    }
+  },
+  "updatedAt": "2026-05-31T04:05:02.250Z",
+  "version": 2
+}

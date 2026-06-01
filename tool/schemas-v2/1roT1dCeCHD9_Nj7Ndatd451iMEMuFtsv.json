@@ -1,0 +1,107 @@
+{
+  "teacherId": "1roT1dCeCHD9_Nj7Ndatd451iMEMuFtsv",
+  "teacherName": "CHƯƠNG TRÌNH NỀN TẢNG LỚP 12 HOCMAI CÁC MÔN",
+  "generatedAt": "2026-05-29T12:30:00.000Z",
+  "generatedBy": "manual-mapping",
+  "defaults": {
+    "levels": [
+      {
+        "depth": 0,
+        "label": "Chương",
+        "icon": "📖",
+        "bold": true,
+        "bg": "#FCE5C0"
+      },
+      {
+        "depth": 1,
+        "label": "Bài",
+        "icon": "📂",
+        "bold": true,
+        "bg": "#FCF1D4"
+      }
+    ],
+    "leafFallback": {
+      "label": "Bài",
+      "icon": "📂",
+      "bold": true,
+      "bg": "#FCF1D4"
+    },
+    "courseRow": {
+      "icon": "📚",
+      "bold": true,
+      "fontSize": 12,
+      "bg": "#D4E5FA"
+    },
+    "videoRow": {
+      "icon": "▸",
+      "indent": "extra-from-leaf"
+    }
+  },
+  "courses": [
+    {
+      "courseId": "1vQP1bvsK6_yoTC2xYnHwXAI0AjvL7HMd",
+      "courseName": "1. NỀN TẢNG 12 MÔN TOÁN 2027 HOCMAI",
+      "tabName": "TOÁN",
+      "structure": "chap_then_lesson",
+      "depth": 2,
+      "pattern": "chap_then_lesson",
+      "notes": "2 chapters: KIẾN THỨC TRỌNG TÂM LỚP 11 (11 lessons), HÀM SỐ (4 lessons). Total 181 files."
+    },
+    {
+      "courseId": "11f3UfP1_oUPR5kgZqbPD53LyW7C4M5LH",
+      "courseName": "2. NỀN TẢNG 12 MÔN NGỮ VĂN 2027 HOCMAI",
+      "tabName": "VĂN",
+      "structure": "empty",
+      "depth": 0,
+      "pattern": "empty",
+      "notes": "Empty course — will render placeholder tab."
+    },
+    {
+      "courseId": "1-yzHvf9oiIN_1wKiecBoX8uC78MZvMM8",
+      "courseName": "3. NỀN TẢNG 12 MÔN TIẾNG ANH 2027 HOCMAI",
+      "tabName": "ANH",
+      "structure": "empty",
+      "depth": 0,
+      "pattern": "empty",
+      "notes": "Empty course — will render placeholder tab."
+    },
+    {
+      "courseId": "12ZiDRDLfkWipt-gEnigol0gd5bcY-E2N",
+      "courseName": "4. NỀN TẢNG 12 MÔN VẬT LÝ 2027 HOCMAI",
+      "tabName": "LÝ",
+      "structure": "empty",
+      "depth": 0,
+      "pattern": "empty",
+      "notes": "Empty course — will render placeholder tab."
+    },
+    {
+      "courseId": "165d51ra9uYXHGwFmc9uXql6zgvqaZitd",
+      "courseName": "5. NỀN TẢNG 12 MÔN HÓA HỌC 2027 HOCMAI",
+      "tabName": "HÓA",
+      "structure": "empty",
+      "depth": 0,
+      "pattern": "empty",
+      "notes": "Empty course — will render placeholder tab."
+    },
+    {
+      "courseId": "1L2fw6c-Cu1vo-POEI89DIOcQP29yFvul",
+      "courseName": "6. NỀN TẢNG 12 MÔN SINH HỌC 2027 HOCMAI",
+      "tabName": "SINH",
+      "structure": "empty",
+      "depth": 0,
+      "pattern": "empty",
+      "notes": "Empty course — will render placeholder tab."
+    }
+  ],
+  "_meta": {
+    "version": 1,
+    "source": "manual-mapping",
+    "total_courses": 8,
+    "renderable": 6,
+    "meta_skipped": [
+      "0. INFO THÔNG TIN VÀ HƯỚNG DẪN KHOÁ HỌC (auto-skipped by isMetaCourse)",
+      "1. GIAI ĐOẠN 1: XÂY DỰNG NỀN TẢNG KIẾN THỨC THPT (duplicate grouping folder, not in schema-v2 courses list)"
+    ],
+    "notes": "Special case: multi-subject combo. Each subject folder maps to a pre-created tab. Folder 0 (INFO) auto-skipped. Folder 1 (GIAI ĐOẠN) excluded from courses list to skip rendering."
+  }
+}

@@ -1,0 +1,577 @@
+{
+  "crawledAt": "2026-05-30T02:13:41.918Z",
+  "teacher": {
+    "id": "1gksaKpOJ3Nkts5cjD4iPIP7ZkQuOC3mW",
+    "name": "3. SINH THẦY TRƯƠNG CÔNG KIÊN QANDA 2K9",
+    "modifiedTime": "2026-05-27T15:22:56.994Z",
+    "webViewLink": "https://drive.google.com/drive/folders/1gksaKpOJ3Nkts5cjD4iPIP7ZkQuOC3mW"
+  },
+  "courses": [
+    {
+      "id": "1zpAEJp3XWhjY5-Vc-Cm5lKG7Uu-mxOst",
+      "name": "0. INFO THÔNG TIN VÀ HƯỚNG DẪN KHOÁ HỌC",
+      "children": [],
+      "files": [],
+      "webViewLink": "https://drive.google.com/drive/folders/1zpAEJp3XWhjY5-Vc-Cm5lKG7Uu-mxOst",
+      "modifiedTime": "2026-04-19T23:14:44.763Z"
+    },
+    {
+      "id": "1jaW9rXifea2KHKv2ErusHnFaFOdqO7HP",
+      "name": "1. GIAI ĐOẠN 1: XUẤT PHÁT SỚM",
+      "children": [
+        {
+          "id": "1TEplg1Ev-eUY4DR0gpaojbRqzFUfZAeP",
+          "name": "CHUYÊN ĐỀ I DI TRUYỀN HỌC PHÂN TỬ",
+          "webViewLink": "https://drive.google.com/drive/folders/1TEplg1Ev-eUY4DR0gpaojbRqzFUfZAeP",
+          "modifiedTime": "2026-04-24T01:30:59.652Z",
+          "children": [],
+          "files": [
+            {
+              "id": "14Yg45Okg0ONlZnhstHq-wr6u-GsqyJTd",
+              "name": "Bài 1 DNA & Nhân đôi DNA (Cơ sở lý thuyết).mp4",
+              "mimeType": "video/mp4",
+              "size": 137732184,
+              "webViewLink": "https://drive.google.com/file/d/14Yg45Okg0ONlZnhstHq-wr6u-GsqyJTd/view?usp=drivesdk",
+              "modifiedTime": "2026-04-24T01:31:21.662Z",
+              "videoMediaMetadata": {
+                "width": 1280,
+                "height": 720,
+                "durationMillis": "3128333"
+              }
+            },
+            {
+              "id": "1Xj9A39hbNQX79L4Ha6B-NOV5hDZW845A",
+              "name": "Bài 2 Gene - Phiên mã - Dịch mã - Phiên mã ngược (Cơ sở lý thuyết).mp4",
+              "mimeType": "video/mp4",
+              "size": 119132780,
+              "webViewLink": "https://drive.google.com/file/d/1Xj9A39hbNQX79L4Ha6B-NOV5hDZW845A/view?usp=drivesdk",
+              "modifiedTime": "2026-04-24T01:31:20.161Z",
+              "videoMediaMetadata": {
+                "width": 1280,
+                "height": 720,
+                "durationMillis": "2737733"
+              }
+            },
+            {
+              "id": "1dTnQrJU8fv3INl1NL4yk2rYolP1rrAB3",
+              "name": "Bài 2 Gene - Phiên mã - Dịch mã - Phiên mã ngược (Luyện đề).mp4",
+              "mimeType": "video/mp4",
+              "size": 95696888,
+              "webViewLink": "https://drive.google.com/file/d/1dTnQrJU8fv3INl1NL4yk2rYolP1rrAB3/view?usp=drivesdk",
+              "modifiedTime": "2026-04-24T01:31:18.667Z",
+              "videoMediaMetadata": {
+                "width": 1280,
+                "height": 720,
+                "durationMillis": "2019033"
+              }
+            },
+            {
+              "id": "1wokKUnBsDHWtHDHSZCjCLXZGcAhEtoBj",
+              "name": "Bài 3 Điều hòa biểu hiện của Gene (Cơ sở lý thuyết).mp4",
+              "mimeType": "video/mp4",
+              "size": 221138008,
+              "webViewLink": "https://drive.google.com/file/d/1wokKUnBsDHWtHDHSZCjCLXZGcAhEtoBj/view?usp=drivesdk",
+              "modifiedTime": "2026-04-24T01:31:17.180Z",
+              "videoMediaMetadata": {
+                "width": 1280,
+                "height": 720,
+                "durationMillis": "2072633"
+              }
+            },
+            {
+              "id": "15X5DEayNJ37n7BJsl5rQltV08o9PhLqG",
+              "name": "Bài 4 Đột biến Gene (Cơ sở lý thuyết).mp4",
+              "mimeType": "video/mp4",
+              "size": 416895076,
+              "webViewLink": "https://drive.google.com/file/d/15X5DEayNJ37n7BJsl5rQltV08o9PhLqG/view?usp=drivesdk",
+              "modifiedTime": "2026-04-24T01:31:15.466Z",
+              "videoMediaMetadata": {
+                "width": 1280,
+                "height": 720,
+                "durationMillis": "3356766"
+              }
+            },
+            {
+              "id": "1L36hZf2bSL2z8Tfiu_jqT91YtigNg9Fc",
+              "name": "Bài 4 Đột biến Gene (Luyện đề).mp4",
+              "mimeType": "video/mp4",
+              "size": 112704308,
+              "webViewLink": "https://drive.google.com/file/d/1L36hZf2bSL2z8Tfiu_jqT91YtigNg9Fc/view?usp=drivesdk",
+              "modifiedTime": "2026-04-24T01:31:13.849Z",
+              "videoMediaMetadata": {
+                "width": 1280,
+                "height": 720,
+                "durationMillis": "2843966"
+              }
+            },
+            {
+              "id": "1om0sC-IZ5ZqloxthKEk1BFyCPsvQV_50",
+              "name": "Bài 5 Phương pháp giải bài tập ADN (Di truyền học phân tử) (Cơ sở lý thuyết).mp4",
+              "mimeType": "video/mp4",
+              "size": 155207912,
+              "webViewLink": "https://drive.google.com/file/d/1om0sC-IZ5ZqloxthKEk1BFyCPsvQV_50/view?usp=drivesdk",
+              "modifiedTime": "2026-04-24T01:31:12.096Z",
+              "videoMediaMetadata": {
+                "width": 1280,
+                "height": 720,
+                "durationMillis": "3292199"
+              }
+            },
+            {
+              "id": "1W9LdLpeXySZVlYlSAtsczDkcTRQKP3P_",
+              "name": "Bài 5.1 LUYỆN TẬP DNA (1) (SÁCH PHÁC ĐỒ SINH TẬP 1).mp4",
+              "mimeType": "video/mp4",
+              "size": 677795836,
+              "webViewLink": "https://drive.google.com/file/d/1W9LdLpeXySZVlYlSAtsczDkcTRQKP3P_/view?usp=drivesdk",
+              "modifiedTime": "2026-04-24T01:31:04.975Z",
+              "videoMediaMetadata": {
+                "width": 1280,
+                "height": 720,
+                "durationMillis": "4679033"
+              }
+            },
+            {
+              "id": "1MCZZzKpMVy_-3ujAMjmL4HZI7cWDOlCJ",
+              "name": "Bài 5.2 LUYỆN TẬP DNA (2) (SÁCH PHÁC ĐỒ SINH TẬP 1).mp4",
+              "mimeType": "video/mp4",
+              "size": 353055728,
+              "webViewLink": "https://drive.google.com/file/d/1MCZZzKpMVy_-3ujAMjmL4HZI7cWDOlCJ/view?usp=drivesdk",
+              "modifiedTime": "2026-04-24T01:31:10.440Z",
+              "videoMediaMetadata": null
+            },
+            {
+              "id": "1OPNJvbfuK45sf0vHDKDpuUkB4y5Zm7Rt",
+              "name": "TỔNG ÔN LÝ THUYẾT (1).mp4",
+              "mimeType": "video/mp4",
+              "size": 148566624,
+              "webViewLink": "https://drive.google.com/file/d/1OPNJvbfuK45sf0vHDKDpuUkB4y5Zm7Rt/view?usp=drivesdk",
+              "modifiedTime": "2026-04-24T01:31:02.971Z",
+              "videoMediaMetadata": null
+            },
+            {
+              "id": "18u70TEytus0MvCAMSqjYcelfNWikJrsN",
+              "name": "TỔNG ÔN LÝ THUYẾT (2).mp4",
+              "mimeType": "video/mp4",
+              "size": 129181944,
+              "webViewLink": "https://drive.google.com/file/d/18u70TEytus0MvCAMSqjYcelfNWikJrsN/view?usp=drivesdk",
+              "modifiedTime": "2026-04-24T01:31:01.053Z",
+              "videoMediaMetadata": null
+            },
+            {
+              "id": "1Nxl-J158P9MQkxbuXRNKBoIl4qJTMaXs",
+              "name": "Vận Dụng Cao DNA (1) (SÁCH PHÁC ĐỒ SINH TẬP 1).mp4",
+              "mimeType": "video/mp4",
+              "size": 248434856,
+              "webViewLink": "https://drive.google.com/file/d/1Nxl-J158P9MQkxbuXRNKBoIl4qJTMaXs/view?usp=drivesdk",
+              "modifiedTime": "2026-04-24T01:31:08.466Z",
+              "videoMediaMetadata": null
+            },
+            {
+              "id": "1J8-XfeJ7tSa7Ho6TGum2EiH2b78LS_PP",
+              "name": "Vận Dụng Cao DNA (2) (SÁCH PHÁC ĐỒ SINH TẬP 1).mp4",
+              "mimeType": "video/mp4",
+              "size": 261076728,
+              "webViewLink": "https://drive.google.com/file/d/1J8-XfeJ7tSa7Ho6TGum2EiH2b78LS_PP/view?usp=drivesdk",
+              "modifiedTime": "2026-04-24T01:31:06.700Z",
+              "videoMediaMetadata": null
+            }
+          ]
+        },
+        {
+          "id": "1VAcJeDMIQcitlNj0GOV9mNpzkuKg1bxV",
+          "name": "CHUYÊN ĐỀ II: DI TRUYỀN HỌC TẾ BÀO",
+          "webViewLink": "https://drive.google.com/drive/folders/1VAcJeDMIQcitlNj0GOV9mNpzkuKg1bxV",
+          "modifiedTime": "2026-04-28T13:26:23.160Z",
+          "children": [],
+          "files": [
+            {
+              "id": "1JAnH-Bu24D4axuGgMeIA2jzvEwCkBBXF",
+              "name": "BUỔI 1 - LẤY GỐC DNA - NHÂN ĐÔI DNA.mp4",
+              "mimeType": "video/mp4",
+              "size": 129051660,
+              "webViewLink": "https://drive.google.com/file/d/1JAnH-Bu24D4axuGgMeIA2jzvEwCkBBXF/view?usp=drivesdk",
+              "modifiedTime": "2026-05-17T09:26:38.096Z",
+              "videoMediaMetadata": null
+            },
+            {
+              "id": "1f-vdzYfB5yIvJXGfgvziLGN8H_DOViC2",
+              "name": "Buổi 3 - Phiên mã.mp4",
+              "mimeType": "video/mp4",
+              "size": 145615400,
+              "webViewLink": "https://drive.google.com/file/d/1f-vdzYfB5yIvJXGfgvziLGN8H_DOViC2/view?usp=drivesdk",
+              "modifiedTime": "2026-05-17T09:27:16.284Z",
+              "videoMediaMetadata": null
+            },
+            {
+              "id": "1igk5F2mt6GKIfBE78ePoNDqQqvKpshbX",
+              "name": "Buổi 4 - dịch mã.mp4",
+              "mimeType": "video/mp4",
+              "size": 140122228,
+              "webViewLink": "https://drive.google.com/file/d/1igk5F2mt6GKIfBE78ePoNDqQqvKpshbX/view?usp=drivesdk",
+              "modifiedTime": "2026-05-17T09:27:08.975Z",
+              "videoMediaMetadata": null
+            },
+            {
+              "id": "1jg3-vLHhtnm9wE1YOyeTPMxBQgXvDxgu",
+              "name": "BÀI TẬP RÈN LUYỆN NST - TEAM TRỢ GIẢNG (ĐỀ 1 SÁCH PDS TẬP 1).mp4",
+              "mimeType": "video/mp4",
+              "size": 80805408,
+              "webViewLink": "https://drive.google.com/file/d/1jg3-vLHhtnm9wE1YOyeTPMxBQgXvDxgu/view?usp=drivesdk",
+              "modifiedTime": "2026-05-17T09:27:53.340Z",
+              "videoMediaMetadata": null
+            },
+            {
+              "id": "1CDAlDQ1r3smkOghPgslm7dDT0tEIZ6rE",
+              "name": "BÀI TẬP RÈN LUYỆN NST - TEAM TRỢ GIẢNG (ĐỀ 2 SÁCH PDS TẬP 1).mp4",
+              "mimeType": "video/mp4",
+              "size": 80455540,
+              "webViewLink": "https://drive.google.com/file/d/1CDAlDQ1r3smkOghPgslm7dDT0tEIZ6rE/view?usp=drivesdk",
+              "modifiedTime": "2026-05-17T09:28:00.118Z",
+              "videoMediaMetadata": null
+            },
+            {
+              "id": "12rHT_Iz4ODKudvWV7al_R0Imcm4v8tJP",
+              "name": "BÀI TẬP RÈN LUYỆN NST - TEAM TRỢ GIẢNG (ĐỀ 3 SÁCH PDS TẬP 1).mp4",
+              "mimeType": "video/mp4",
+              "size": 78545460,
+              "webViewLink": "https://drive.google.com/file/d/12rHT_Iz4ODKudvWV7al_R0Imcm4v8tJP/view?usp=drivesdk",
+              "modifiedTime": "2026-05-17T09:27:46.667Z",
+              "videoMediaMetadata": null
+            },
+            {
+              "id": "156GIH0nItgxQajScv0sNRE9ZE7AlvAP9",
+              "name": "BÀI TẬP RÈN LUYỆN NST - TEAM TRỢ GIẢNG (ĐỀ 4 SÁCH PDS TẬP 1).mp4",
+              "mimeType": "video/mp4",
+              "size": 130663008,
+              "webViewLink": "https://drive.google.com/file/d/156GIH0nItgxQajScv0sNRE9ZE7AlvAP9/view?usp=drivesdk",
+              "modifiedTime": "2026-05-17T09:27:40.815Z",
+              "videoMediaMetadata": {
+                "width": 0,
+                "height": 0,
+                "durationMillis": "0"
+              }
+            },
+            {
+              "id": "1Fy1oe63Gv6hwW8yyFLJXCKc2-CDrgxBl",
+              "name": "BÀI TẬP RÈN LUYỆN NST - TEAM TRỢ GIẢNG (ĐỀ 5 SÁCH PDS TẬP 1).mp4",
+              "mimeType": "video/mp4",
+              "size": 89248112,
+              "webViewLink": "https://drive.google.com/file/d/1Fy1oe63Gv6hwW8yyFLJXCKc2-CDrgxBl/view?usp=drivesdk",
+              "modifiedTime": "2026-05-17T09:27:34.556Z",
+              "videoMediaMetadata": null
+            },
+            {
+              "id": "1XflfaQE8dUNp2iEy8wROcJq8hj_esauk",
+              "name": "BÀI TẬP RÈN LUYỆN NST - TEAM TRỢ GIẢNG (ĐỀ 6 SÁCH PDS TẬP 1).mp4",
+              "mimeType": "video/mp4",
+              "size": 403248344,
+              "webViewLink": "https://drive.google.com/file/d/1XflfaQE8dUNp2iEy8wROcJq8hj_esauk/view?usp=drivesdk",
+              "modifiedTime": "2026-05-17T09:27:26.276Z",
+              "videoMediaMetadata": null
+            },
+            {
+              "id": "1e2-kxfTl5L3YELkmSiO-R4_PXOxuh37O",
+              "name": "Bài 6 NHIỄM SẮC THỂ VÀ ĐỘT BIẾN NHIỄM SẮC THỂ (CƠ SỞ LÝ THUYẾT).mp4",
+              "mimeType": "video/mp4",
+              "size": 289387754,
+              "webViewLink": "https://drive.google.com/file/d/1e2-kxfTl5L3YELkmSiO-R4_PXOxuh37O/view?usp=drivesdk",
+              "modifiedTime": "2026-05-03T17:46:48.834Z",
+              "videoMediaMetadata": {
+                "width": 1280,
+                "height": 720,
+                "durationMillis": "1162791"
+              }
+            },
+            {
+              "id": "1AvUQAkBdOf_kDfeF_CPR_C8cDy5tG4JJ",
+              "name": "Bài 6.2 NHIỄM SẮC THỂ VÀ ĐỘT BIẾN NHIỄM SẮC THỂ (LUYỆN ĐỀ BÀI TẬP) (ĐỀ 2 SÁCH PDS TẬP 1).mp4",
+              "mimeType": "video/mp4",
+              "size": 415194052,
+              "webViewLink": "https://drive.google.com/file/d/1AvUQAkBdOf_kDfeF_CPR_C8cDy5tG4JJ/view?usp=drivesdk",
+              "modifiedTime": "2026-05-03T17:46:50.650Z",
+              "videoMediaMetadata": null
+            },
+            {
+              "id": "15xpNPM127PzgDa9J8hAswUGhG9-QOnIo",
+              "name": "Bài 6.3 NHIỄM SẮC THỂ VÀ ĐỘT BIẾN NHIỄM SẮC THỂ (LUYỆN ĐỀ BÀI TẬP) (GIẢM PHÂN ĐỘT BIẾN).mp4",
+              "mimeType": "video/mp4",
+              "size": 299367628,
+              "webViewLink": "https://drive.google.com/file/d/15xpNPM127PzgDa9J8hAswUGhG9-QOnIo/view?usp=drivesdk",
+              "modifiedTime": "2026-05-03T17:46:52.258Z",
+              "videoMediaMetadata": {
+                "width": 1280,
+                "height": 720,
+                "durationMillis": "1162791"
+              }
+            },
+            {
+              "id": "1G62ImAAUneiQLsac2kkyU6Q5ZYAvVDCy",
+              "name": "Bài 7 ỨNG DỤNG DI TRUYỀN HỌC (CÔNG NGHỆ GENE + CÔNG NGHỆ TẾ BÀO).mp4",
+              "mimeType": "video/mp4",
+              "size": 142071412,
+              "webViewLink": "https://drive.google.com/file/d/1G62ImAAUneiQLsac2kkyU6Q5ZYAvVDCy/view?usp=drivesdk",
+              "modifiedTime": "2026-05-03T17:46:47.188Z",
+              "videoMediaMetadata": {
+                "width": 1280,
+                "height": 720,
+                "durationMillis": "3246400"
+              }
+            },
+            {
+              "id": "1SctlRWUBiFi_9UgkFw1X1trnUEZ3OY_P",
+              "name": "TỔNG ÔN LÝ THUYẾT NST.mp4",
+              "mimeType": "video/mp4",
+              "size": 536706160,
+              "webViewLink": "https://drive.google.com/file/d/1SctlRWUBiFi_9UgkFw1X1trnUEZ3OY_P/view?usp=drivesdk",
+              "modifiedTime": "2026-05-17T09:26:47.941Z",
+              "videoMediaMetadata": {
+                "width": 1280,
+                "height": 720,
+                "durationMillis": "5303466"
+              }
+            },
+            {
+              "id": "196tuch3JzUS-bKMmZW-3lqnPkcae0E47",
+              "name": "Điều hòa biểu hiện gene.mp4",
+              "mimeType": "video/mp4",
+              "size": 102139648,
+              "webViewLink": "https://drive.google.com/file/d/196tuch3JzUS-bKMmZW-3lqnPkcae0E47/view?usp=drivesdk",
+              "modifiedTime": "2026-05-17T09:26:54.699Z",
+              "videoMediaMetadata": null
+            },
+            {
+              "id": "1kxNVSuKofXBsKw_pF31vuAQk2UbzzUWP",
+              "name": "ĐỊA LÝ THẦY TÀIBÀI TẬP RÈN LUYỆN NST - TEAM TRỢ GIẢNG (ĐỀ 1 SÁCH PDS TẬP 1).mp4",
+              "mimeType": "video/mp4",
+              "size": 80805408,
+              "webViewLink": "https://drive.google.com/file/d/1kxNVSuKofXBsKw_pF31vuAQk2UbzzUWP/view?usp=drivesdk",
+              "modifiedTime": "2026-05-21T05:51:04.464Z",
+              "videoMediaMetadata": {
+                "width": 1280,
+                "height": 720,
+                "durationMillis": "1976400"
+              }
+            },
+            {
+              "id": "1zbeKnKXrsGmWZczG3xUK9ChrctN1SQYv",
+              "name": "ĐỊA LÝ THẦY TÀIBÀI TẬP RÈN LUYỆN NST - TEAM TRỢ GIẢNG (ĐỀ 2 SÁCH PDS TẬP 1).mp4",
+              "mimeType": "video/mp4",
+              "size": 80455540,
+              "webViewLink": "https://drive.google.com/file/d/1zbeKnKXrsGmWZczG3xUK9ChrctN1SQYv/view?usp=drivesdk",
+              "modifiedTime": "2026-05-21T05:51:04.632Z",
+              "videoMediaMetadata": null
+            },
+            {
+              "id": "1piVrUETYl3xIG1faYtLBm8mh7mfFV87W",
+              "name": "ĐỊA LÝ THẦY TÀIBÀI TẬP RÈN LUYỆN NST - TEAM TRỢ GIẢNG (ĐỀ 3 SÁCH PDS TẬP 1).mp4",
+              "mimeType": "video/mp4",
+              "size": 78545460,
+              "webViewLink": "https://drive.google.com/file/d/1piVrUETYl3xIG1faYtLBm8mh7mfFV87W/view?usp=drivesdk",
+              "modifiedTime": "2026-05-21T05:51:04.630Z",
+              "videoMediaMetadata": {
+                "width": 1280,
+                "height": 720,
+                "durationMillis": "1921900"
+              }
+            },
+            {
+              "id": "1p90q15YByTV-Qpwje9XmGiiSRF6vZVj2",
+              "name": "ĐỊA LÝ THẦY TÀIBÀI TẬP RÈN LUYỆN NST - TEAM TRỢ GIẢNG (ĐỀ 4 SÁCH PDS TẬP 1).mp4",
+              "mimeType": "video/mp4",
+              "size": 130663008,
+              "webViewLink": "https://drive.google.com/file/d/1p90q15YByTV-Qpwje9XmGiiSRF6vZVj2/view?usp=drivesdk",
+              "modifiedTime": "2026-05-21T05:51:04.588Z",
+              "videoMediaMetadata": {
+                "width": 1280,
+                "height": 720,
+                "durationMillis": "3073500"
+              }
+            },
+            {
+              "id": "1_Sg_SVm3ALqG6RYmehN2WSEMFH2Cc1ve",
+              "name": "ĐỊA LÝ THẦY TÀIBÀI TẬP RÈN LUYỆN NST - TEAM TRỢ GIẢNG (ĐỀ 5 SÁCH PDS TẬP 1).mp4",
+              "mimeType": "video/mp4",
+              "size": 89248112,
+              "webViewLink": "https://drive.google.com/file/d/1_Sg_SVm3ALqG6RYmehN2WSEMFH2Cc1ve/view?usp=drivesdk",
+              "modifiedTime": "2026-05-21T05:51:04.544Z",
+              "videoMediaMetadata": null
+            },
+            {
+              "id": "1cdjnIcTct52vRr0BOeaerG2IZ-0lGeBl",
+              "name": "ĐỊA LÝ THẦY TÀIBÀI TẬP RÈN LUYỆN NST - TEAM TRỢ GIẢNG (ĐỀ 6 SÁCH PDS TẬP 1).mp4",
+              "mimeType": "video/mp4",
+              "size": 403248344,
+              "webViewLink": "https://drive.google.com/file/d/1cdjnIcTct52vRr0BOeaerG2IZ-0lGeBl/view?usp=drivesdk",
+              "modifiedTime": "2026-05-21T05:51:04.614Z",
+              "videoMediaMetadata": {
+                "width": 1280,
+                "height": 720,
+                "durationMillis": "1450816"
+              }
+            },
+            {
+              "id": "1BPpqlUpsOj_xmi3SV0XI8rjM7Kh7e_XX",
+              "name": "ĐỊA LÝ THẦY TÀITỔNG ÔN LÝ THUYẾT NST.mp4",
+              "mimeType": "video/mp4",
+              "size": 536706160,
+              "webViewLink": "https://drive.google.com/file/d/1BPpqlUpsOj_xmi3SV0XI8rjM7Kh7e_XX/view?usp=drivesdk",
+              "modifiedTime": "2026-05-21T05:51:04.448Z",
+              "videoMediaMetadata": null
+            },
+            {
+              "id": "15juXro2LhW3gkcAXNuys9Xp3Tj2avX8u",
+              "name": "ĐỊA LÝ THẦY TÀIĐiều hòa biểu hiện gene.mp4",
+              "mimeType": "video/mp4",
+              "size": 102139648,
+              "webViewLink": "https://drive.google.com/file/d/15juXro2LhW3gkcAXNuys9Xp3Tj2avX8u/view?usp=drivesdk",
+              "modifiedTime": "2026-05-21T05:51:04.593Z",
+              "videoMediaMetadata": null
+            }
+          ]
+        },
+        {
+          "id": "1HypQ8ACZkTy0eqBYqknuWTPz_l29K77L",
+          "name": "KHỞI ĐỘNG",
+          "webViewLink": "https://drive.google.com/drive/folders/1HypQ8ACZkTy0eqBYqknuWTPz_l29K77L",
+          "modifiedTime": "2026-05-03T17:46:34.390Z",
+          "children": [],
+          "files": [
+            {
+              "id": "1TR_FS8GkuXxz1YjVqR6N812Wp6jUgHr9",
+              "name": "BUỔI 1 - LẤY GỐC DNA - NHÂN ĐÔI DNA.MP4",
+              "mimeType": "video/mp4",
+              "size": 129051660,
+              "webViewLink": "https://drive.google.com/file/d/1TR_FS8GkuXxz1YjVqR6N812Wp6jUgHr9/view?usp=drivesdk",
+              "modifiedTime": "2026-05-03T17:46:44.514Z",
+              "videoMediaMetadata": null
+            },
+            {
+              "id": "1SI-hNQ22bblEfxoAqXt9gvvSoykFG8h0",
+              "name": "BUỔI 2  ÔN TẬP LẠI NHÂN ĐÔI DNA.MP4",
+              "mimeType": "video/mp4",
+              "size": 94034592,
+              "webViewLink": "https://drive.google.com/file/d/1SI-hNQ22bblEfxoAqXt9gvvSoykFG8h0/view?usp=drivesdk",
+              "modifiedTime": "2026-05-03T17:46:42.676Z",
+              "videoMediaMetadata": null
+            },
+            {
+              "id": "1lT4Sa_3jfCx2z6kzPKpsL8OAeScdL_uE",
+              "name": "buổi 3 - Phiên mã.MP4",
+              "mimeType": "video/mp4",
+              "size": 140122228,
+              "webViewLink": "https://drive.google.com/file/d/1lT4Sa_3jfCx2z6kzPKpsL8OAeScdL_uE/view?usp=drivesdk",
+              "modifiedTime": "2026-05-03T17:46:35.519Z",
+              "videoMediaMetadata": null
+            },
+            {
+              "id": "14zRhyUvcLYIYS1g3Tsl9bekVRM9f6FuN",
+              "name": "Buổi 4 - dịch mã.mp4",
+              "mimeType": "video/mp4",
+              "size": 140122228,
+              "webViewLink": "https://drive.google.com/file/d/14zRhyUvcLYIYS1g3Tsl9bekVRM9f6FuN/view?usp=drivesdk",
+              "modifiedTime": "2026-05-17T09:28:26.732Z",
+              "videoMediaMetadata": {
+                "width": 1280,
+                "height": 720,
+                "durationMillis": "3487933"
+              }
+            },
+            {
+              "id": "1a6mTpt3BgVg0_CvjAg-wvstTN9EPBbC7",
+              "name": "Buổi 5  Chữa Đề - Gene - Mã Di Truyền - Nhân Đôi DNA.mp4",
+              "mimeType": "video/mp4",
+              "size": 157735196,
+              "webViewLink": "https://drive.google.com/file/d/1a6mTpt3BgVg0_CvjAg-wvstTN9EPBbC7/view?usp=drivesdk",
+              "modifiedTime": "2026-05-03T17:46:40.621Z",
+              "videoMediaMetadata": null
+            },
+            {
+              "id": "1n1LlI4VmQERfzKjogz72EQ6tdEOjqIQk",
+              "name": "Buổi 6  chữa đề Phiên mã - Dịch mã.mp4",
+              "mimeType": "video/mp4",
+              "size": 367915248,
+              "webViewLink": "https://drive.google.com/file/d/1n1LlI4VmQERfzKjogz72EQ6tdEOjqIQk/view?usp=drivesdk",
+              "modifiedTime": "2026-05-03T17:46:37.383Z",
+              "videoMediaMetadata": null
+            },
+            {
+              "id": "1qocF0y_9fbDejCPcP2bBt6bYY0Ed6EH-",
+              "name": "Chữa Đề KSCL đầu năm.MP4",
+              "mimeType": "video/mp4",
+              "size": 195286128,
+              "webViewLink": "https://drive.google.com/file/d/1qocF0y_9fbDejCPcP2bBt6bYY0Ed6EH-/view?usp=drivesdk",
+              "modifiedTime": "2026-05-26T08:27:24.560Z",
+              "videoMediaMetadata": null
+            },
+            {
+              "id": "1AmglqNkwlPUjpY7Xdephawj4SGRq3oq6",
+              "name": "dạy lại Phiên Mã - Dịch Mã .MP4",
+              "mimeType": "video/mp4",
+              "size": 145433228,
+              "webViewLink": "https://drive.google.com/file/d/1AmglqNkwlPUjpY7Xdephawj4SGRq3oq6/view?usp=drivesdk",
+              "modifiedTime": "2026-05-18T01:26:35.537Z",
+              "videoMediaMetadata": {
+                "width": 1280,
+                "height": 720,
+                "durationMillis": "3100300"
+              }
+            },
+            {
+              "id": "1yuXLDZQmhoqQvVac4IlAirqutOffCnIR",
+              "name": "MỞ RỘNG DNA.mp4",
+              "mimeType": "video/mp4",
+              "size": 95395524,
+              "webViewLink": "https://drive.google.com/file/d/1yuXLDZQmhoqQvVac4IlAirqutOffCnIR/view?usp=drivesdk",
+              "modifiedTime": "2026-05-03T17:46:39.031Z",
+              "videoMediaMetadata": null
+            },
+            {
+              "id": "1eWwE8PdjviCXTGOfmNDQjnKO77YvaH4a",
+              "name": "ĐỊA LÝ THẦY TÀIbuổi 4 - dịch mã.mp4",
+              "mimeType": "video/mp4",
+              "size": 140122228,
+              "webViewLink": "https://drive.google.com/file/d/1eWwE8PdjviCXTGOfmNDQjnKO77YvaH4a/view?usp=drivesdk",
+              "modifiedTime": "2026-05-21T05:51:03.786Z",
+              "videoMediaMetadata": null
+            }
+          ]
+        }
+      ],
+      "files": [],
+      "webViewLink": "https://drive.google.com/drive/folders/1jaW9rXifea2KHKv2ErusHnFaFOdqO7HP",
+      "modifiedTime": "2026-04-19T23:14:44.084Z"
+    },
+    {
+      "id": "1WnqmlGqQYu3bLhoemp8-LcjAkTlPx9-e",
+      "name": "2. GIAI ĐOẠN 2: CHUYÊN ĐỀ  SINH HỌC 12",
+      "children": [],
+      "files": [],
+      "webViewLink": "https://drive.google.com/drive/folders/1WnqmlGqQYu3bLhoemp8-LcjAkTlPx9-e",
+      "modifiedTime": "2026-04-19T23:14:43.338Z"
+    },
+    {
+      "id": "1tTHLSrAQAUOz18O11eH39Vz9pniejXD9",
+      "name": "3. LUYỆN ĐỀ THỰC CHIẾN",
+      "children": [],
+      "files": [],
+      "webViewLink": "https://drive.google.com/drive/folders/1tTHLSrAQAUOz18O11eH39Vz9pniejXD9",
+      "modifiedTime": "2026-04-19T23:14:42.673Z"
+    },
+    {
+      "id": "1ihiwLvjcMmf4itGN7U-8tEHFPvVmM74z",
+      "name": "4. TỔNG ÔN VỀ ĐÍCH",
+      "children": [],
+      "files": [],
+      "webViewLink": "https://drive.google.com/drive/folders/1ihiwLvjcMmf4itGN7U-8tEHFPvVmM74z",
+      "modifiedTime": "2026-04-19T23:14:41.961Z"
+    },
+    {
+      "id": "1Y1wjLBcezp6e1dJWnRTJdxF3X_PKGeFw",
+      "name": "Z. EBOOK SÁCH KÈM KHOÁ HỌC",
+      "children": [],
+      "files": [],
+      "webViewLink": "https://drive.google.com/drive/folders/1Y1wjLBcezp6e1dJWnRTJdxF3X_PKGeFw",
+      "modifiedTime": "2026-04-19T23:14:45.403Z"
+    }
+  ]
+}

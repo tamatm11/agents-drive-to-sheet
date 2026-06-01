@@ -1,0 +1,91 @@
+{
+  "updatedAt": "2026-05-28T12:18:35.698Z",
+  "teacher": {
+    "id": "1vz5GwySYJX7XYPH86EM8prQK3knoyTVn",
+    "name": "1. ANH CÔ VŨ MAI PHƯƠNG NGOAINGU24H 2027"
+  },
+  "schema": {
+    "levels": [
+      {
+        "depth": 0,
+        "label": "Chương / Chuyên đề",
+        "icon": "📖",
+        "bold": true,
+        "bg": "#FCE5C0",
+        "namePatternHint": "Cấp 1: vd '1. NGỮ PHÁP ỨNG DỤNG (2027)', '2. NỀN TẢNG TỪ VỰNG - ĐỌC HIỂU (2027)', '3. ÔN LUYỆN CÁC DẠNG CÂU HỎI TRONG ĐỀ THI (20', '4. LUYỆN GIẢI ĐỀ THI THPT 2027 (MỨC ĐỘ 8+)', '5. VIP 90 ÔN LÀ TRÚNG TỦ (2027) - Livestream '"
+      }
+    ],
+    "leafFallback": {
+      "label": "Bài",
+      "icon": "📂",
+      "bold": true,
+      "bg": "#FCF1D4",
+      "note": "Một số khóa file nằm cấp nông hơn — render thẳng như leaf bài học."
+    },
+    "courseRow": {
+      "icon": "📚",
+      "bold": true,
+      "fontSize": 12,
+      "bg": "#D4E5FA"
+    },
+    "videoRow": {
+      "icon": "▸",
+      "indent": "extra-from-leaf"
+    },
+    "notes": "Auto-detect (1 cấp). 2/6 khóa có cấu trúc. Pattern: flat. Skip 2 folder meta. Chưa có file (chỉ folder rỗng) — schema dựa trên depth folder."
+  },
+  "_meta": {
+    "source": "auto-detect",
+    "version": 1,
+    "generated_at": "2026-05-28T12:18:35.698Z",
+    "confidence": "high",
+    "dominant_depth": 1,
+    "dominant_share": 1,
+    "patterns_observed": [
+      "flat"
+    ],
+    "meta_courses_skipped": [
+      "0. INFO THÔNG TIN VÀ HƯỚNG DẪN KHOÁ HỌC",
+      "Z. EBOOK SÁCH KÈM KHOÁ HỌC"
+    ],
+    "course_breakdown": [
+      {
+        "name": "1. COMBO PRO3M 2027 CƠ BẢN MỤC TIÊU 7-8+",
+        "structure_depth": 1,
+        "pattern": "flat",
+        "files": 0
+      },
+      {
+        "name": "2. COMBO PRO3M PLUS 2027 NÂNG CAO MỤC TIÊU 9+",
+        "structure_depth": 1,
+        "pattern": "flat",
+        "files": 0
+      },
+      {
+        "name": "COMBO CẤP TỐC 2027",
+        "structure_depth": 0,
+        "pattern": "empty",
+        "files": 0
+      },
+      {
+        "name": "EZVOCAB ĐỘC QUYỀN: HỌC VÀ GHI NHỚ TỪ VỰNG TRỌNG ĐIỂM CHỦ ĐỘNG (2027) KHOÁ FLASHCARD",
+        "structure_depth": 0,
+        "pattern": "empty",
+        "files": 0
+      },
+      {
+        "name": "LUYỆN THI ĐÁNH GIÁ NĂNG LỰC MÔN TIẾNG ANH (2027)",
+        "structure_depth": 0,
+        "pattern": "empty",
+        "files": 0
+      },
+      {
+        "name": "NGÂN HÀNG ĐỀ THI TỐT NGHIỆP THPT 2027",
+        "structure_depth": 0,
+        "pattern": "empty",
+        "files": 0
+      }
+    ],
+    "no_files_yet": true
+  }
+}

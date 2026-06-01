@@ -1,0 +1,79 @@
+{
+  "updatedAt": "2026-05-28T12:18:35.696Z",
+  "teacher": {
+    "id": "14bk4uGIKw23-DtRvXNn13sWQU2uBqqAD",
+    "name": "3. VĂN CÔ TRẦN THUỲ DƯƠNG QANDA 2K9"
+  },
+  "schema": {
+    "levels": [
+      {
+        "depth": 0,
+        "label": "Chương / Chuyên đề",
+        "icon": "📖",
+        "bold": true,
+        "bg": "#FCE5C0",
+        "namePatternHint": "Cấp 1: vd 'Buổi 1 Cách viết đoạn văn Nghị luận văn học', 'Buổi 10 Cách viết đoạn văn Nghị luận xã hội -', 'Buổi 11 Nghị luận về một tác phẩm kịch', 'Buổi 12 Nghị luận về một vấn đề đời sống', 'Buổi 2 Cách viết bài văn Nghị luận xã hội - T'"
+      }
+    ],
+    "leafFallback": {
+      "label": "Bài",
+      "icon": "📂",
+      "bold": true,
+      "bg": "#FCF1D4",
+      "note": "Một số khóa file nằm cấp nông hơn — render thẳng như leaf bài học."
+    },
+    "courseRow": {
+      "icon": "📚",
+      "bold": true,
+      "fontSize": 12,
+      "bg": "#D4E5FA"
+    },
+    "videoRow": {
+      "icon": "▸",
+      "indent": "extra-from-leaf"
+    },
+    "notes": "Auto-detect (1 cấp). 2/4 khóa có cấu trúc. Pattern: flat. Skip 2 folder meta. 29 file đã upload."
+  },
+  "_meta": {
+    "source": "auto-detect",
+    "version": 1,
+    "generated_at": "2026-05-28T12:18:35.697Z",
+    "confidence": "high",
+    "dominant_depth": 1,
+    "dominant_share": 1,
+    "patterns_observed": [
+      "flat"
+    ],
+    "meta_courses_skipped": [
+      "0. INFO THÔNG TIN VÀ HƯỚNG DẪN KHOÁ HỌC",
+      "Z. EBOOK SÁCH KÈM KHOÁ HỌC"
+    ],
+    "course_breakdown": [
+      {
+        "name": "0. PHẦN 0 BỔ TRỢ (Dành cho khoá Plus) - Video",
+        "structure_depth": 1,
+        "pattern": "flat",
+        "files": 14
+      },
+      {
+        "name": "1. PHẦN 1 NỀN TẢNG - Live",
+        "structure_depth": 1,
+        "pattern": "flat",
+        "files": 15
+      },
+      {
+        "name": "2. PHẦN 2 VĂN PHONG - Live",
+        "structure_depth": 0,
+        "pattern": "empty",
+        "files": 0
+      },
+      {
+        "name": "3. PHẦN 3 TỔNG ÔN LUYỆN ĐỀ - Live",
+        "structure_depth": 0,
+        "pattern": "empty",
+        "files": 0
+      }
+    ],
+    "no_files_yet": false
+  }
+}

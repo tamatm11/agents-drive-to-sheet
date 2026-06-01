@@ -1,0 +1,296 @@
+{
+  "teacherId": "1BqezDqTr5Sl24jCXuCR-TkiDrGJp3wij",
+  "tabs": {
+    "1MfECW0oMR9JFC_0PwHNJA-d3BuMT6SFh": {
+      "tabName": "Khóa S",
+      "renderedAt": "2026-05-31T03:50:18.891Z",
+      "checksum": "1MfECW0oMR9JFC_0PwHNJA-d3BuMT6SFh|2026-05-18T01:48:18.408Z|82",
+      "lessons": [
+        {
+          "id": "1JS7LBPl4uKJf10sLmLx2861l6aDO-Gw4",
+          "name": "1,. Bài 1.1 Tính Đơn Điệu Của Hàm Số",
+          "parentName": "1.  Chương 1. Hàm Số và Ứng Dụng Đạo Hàm\t\t\t",
+          "checksum": "2026-05-11T13:17:07.712Z|4",
+          "virtual": false
+        },
+        {
+          "id": "1e0EknZm5pWMvSZ3kNaGBivWB_Sbt67Df",
+          "name": "2.Bài 1.2 Cực Trị Hàm Số",
+          "parentName": "1.  Chương 1. Hàm Số và Ứng Dụng Đạo Hàm\t\t\t",
+          "checksum": "2026-05-11T13:16:41.026Z|5",
+          "virtual": false
+        },
+        {
+          "id": "1Tv5UfZDwP73sme3O7eUMa5nIZ_2rNNWH",
+          "name": "3. Bài 2. Giá Trị Lớn Nhất - Giá Trị Nhỏ Nhất",
+          "parentName": "1.  Chương 1. Hàm Số và Ứng Dụng Đạo Hàm\t\t\t",
+          "checksum": "2026-05-11T13:15:59.238Z|4",
+          "virtual": false
+        },
+        {
+          "id": "1L5z3ulSdrRkzHiebV5IPPZbwlyuu-i47",
+          "name": "4. Bài 3.1 Đường Tiệm Cận Của ĐTHS - TCĐ,TCN",
+          "parentName": "1.  Chương 1. Hàm Số và Ứng Dụng Đạo Hàm\t\t\t",
+          "checksum": "2026-05-11T13:14:22.763Z|4",
+          "virtual": false
+        },
+        {
+          "id": "1Hd1lT5tE6bCDaNHJ2qdOKQT_y0cV9Q3O",
+          "name": "5. Bài 3.2 Đường Tiệm Cận Của ĐTHS - Tiệm Cận Xiên",
+          "parentName": "1.  Chương 1. Hàm Số và Ứng Dụng Đạo Hàm\t\t\t",
+          "checksum": "2026-05-11T12:46:53.421Z|3",
+          "virtual": false
+        },
+        {
+          "id": "1n8xMvX1zs5ZQhp8Fc6oCp3wnWnrmWGnv",
+          "name": "6. Bài 4.1. Khảo Sát Đồ Thị Hàm Số: Hàm Bậc Ba và Phân Thức Bậc Nhất",
+          "parentName": "1.  Chương 1. Hàm Số và Ứng Dụng Đạo Hàm\t\t\t",
+          "checksum": "2026-05-11T12:18:09.978Z|5",
+          "virtual": false
+        },
+        {
+          "id": "1tDOvtyhTJ7rPlopVv42u94_jWcxZ840F",
+          "name": "7. Bài 4.2. Khảo Sát Đồ Thị Hàm Số: Hàm Phân Thức Bậc Hai",
+          "parentName": "1.  Chương 1. Hàm Số và Ứng Dụng Đạo Hàm\t\t\t",
+          "checksum": "2026-05-10T11:02:54.978Z|4",
+          "virtual": false
+        },
+        {
+          "id": "1tn0a-sqBsTVSGsFhqlyj39tYvWpYwqCY",
+          "name": "1. *ĐƠN ĐIỆU CHỨA THAM SỐ M",
+          "parentName": "2.  *Hàm Số chứa m, hàm hợp (dành cho TSA, HSA..)\t\t\t",
+          "checksum": "2026-05-10T10:22:35.982Z|6",
+          "virtual": false
+        },
+        {
+          "id": "17Q3_eDAp8n_cXRHeph_BHR3ABfl8n5I6",
+          "name": "2. * CỰC TRỊ CHỨA THAM SỐ M",
+          "parentName": "2.  *Hàm Số chứa m, hàm hợp (dành cho TSA, HSA..)\t\t\t",
+          "checksum": "2026-05-10T08:09:08.430Z|2",
+          "virtual": false
+        },
+        {
+          "id": "1yx3RneaAX9grG2Fz-_8vDgqXfhpE-iAp",
+          "name": "3. BÀI 2.1 HÀM HỢP, HÀM TỔNG",
+          "parentName": "2.  *Hàm Số chứa m, hàm hợp (dành cho TSA, HSA..)\t\t\t",
+          "checksum": "2026-05-12T08:30:57.881Z|2",
+          "virtual": false
+        },
+        {
+          "id": "18-dWYYnhIviZXu6U2DLeQoIilpZVCTO9",
+          "name": "1. Bài 1. Khoảng Biến Thiên Và Khoảng Tứ Phân Vị",
+          "parentName": "3.  Chương 2. Mẫu Số Liệu Ghép Nhóm\t\t\t",
+          "checksum": "2026-05-12T08:29:55.847Z|4",
+          "virtual": false
+        },
+        {
+          "id": "1ResYWZogswPYsiiWhxkLU8KsY-9SgFt0",
+          "name": "2. Bài 2. Phương Sai Và Độ Lệch Chuẩn",
+          "parentName": "3.  Chương 2. Mẫu Số Liệu Ghép Nhóm\t\t\t",
+          "checksum": "2026-05-12T08:26:08.895Z|4",
+          "virtual": false
+        },
+        {
+          "id": "1cCAmbUtZ-poyWGe6PiG73_CK_6lAYKw8",
+          "name": "3. Đề Ôn Tập Chương - Đề Số 1",
+          "parentName": "3.  Chương 2. Mẫu Số Liệu Ghép Nhóm\t\t\t",
+          "checksum": "2026-05-12T08:22:59.813Z|3",
+          "virtual": false
+        },
+        {
+          "id": "1NdMxbzDrrnOIx_64r-OUnI9HYhD6WHe7",
+          "name": "4. Đề Ôn Tập Chương - Đề Số 2",
+          "parentName": "3.  Chương 2. Mẫu Số Liệu Ghép Nhóm\t\t\t",
+          "checksum": "2026-05-12T08:22:39.537Z|3",
+          "virtual": false
+        },
+        {
+          "id": "1fiS7g-t_fUzoCzuqNhz_UymLOxl5J9tV",
+          "name": "5. Đề Ôn Tập Chương - Đề Số 3",
+          "parentName": "3.  Chương 2. Mẫu Số Liệu Ghép Nhóm\t\t\t",
+          "checksum": "2026-05-12T08:22:16.170Z|3",
+          "virtual": false
+        },
+        {
+          "id": "13wzPlcVQGmuEs-KnbU1dubh99kNvv-LU",
+          "name": "1. Bài 1.1 Vecto Trong Không Gian",
+          "parentName": "4.  Chương 3. Vecto và Hệ trục tọa độ Oxyz\t\t\t",
+          "checksum": "2026-05-18T01:48:18.408Z|5",
+          "virtual": false
+        },
+        {
+          "id": "1Ud3zB-jIJsuKhrsL3FcHAml64bwHTByn",
+          "name": "2. Bài 1.2 Góc Và Tích Vô Hướng Giữa 2 Vecto",
+          "parentName": "4.  Chương 3. Vecto và Hệ trục tọa độ Oxyz\t\t\t",
+          "checksum": "2026-05-18T01:40:48.760Z|7",
+          "virtual": false
+        },
+        {
+          "id": "1MyHWzEIVl3PIDzm5aD2RgS06jmRDl9Lq",
+          "name": "3. Bài 2. Hệ Trục Tọa Độ Oxyz",
+          "parentName": "4.  Chương 3. Vecto và Hệ trục tọa độ Oxyz\t\t\t",
+          "checksum": "2026-05-18T01:34:48.376Z|5",
+          "virtual": false
+        },
+        {
+          "id": "1LvHSlP9EkFK4cajKTVDOCfHp1XrtrOiF",
+          "name": "4. Bài 3.1 Các Phép Toán Trong Hệ Tọa Độ Oxyz",
+          "parentName": "4.  Chương 3. Vecto và Hệ trục tọa độ Oxyz\t\t\t",
+          "checksum": "2026-05-18T01:32:50.669Z|6",
+          "virtual": false
+        },
+        {
+          "id": "1ek5vzmUa7_s7SZ6ODQQyiqRyl3v79Nfq",
+          "name": "5. Bài 3.2 Bài Toán Tâm Tỉ Cự",
+          "parentName": "4.  Chương 3. Vecto và Hệ trục tọa độ Oxyz\t\t\t",
+          "checksum": "2026-05-18T01:27:55.448Z|3",
+          "virtual": false
+        }
+      ],
+      "rendererVersion": "4.3.1",
+      "styleVersion": "2026-05-31-student-banner-no-meta-v2",
+      "runId": "no-meta-sync-2026-05-31-104541",
+      "spreadsheetId": "11gqyic7FidVfOuQMAgEjkgL2swJ4RAkg5bj5ZlKS4ZU",
+      "stats": {
+        "leafCount": 20,
+        "totalVideos": 46
+      }
+    },
+    "17fYu2ZvcamPAtyq81JNeAYB8790rEY1n": {
+      "tabName": "Khóa M",
+      "renderedAt": "2026-05-31T03:50:28.941Z",
+      "checksum": "17fYu2ZvcamPAtyq81JNeAYB8790rEY1n|2026-05-24T14:36:57.254Z|27",
+      "lessons": [
+        {
+          "id": "10zII8kbydhBCxPyJ2E_-6cjj47mjah81",
+          "name": "1. Chủ Đề 1. Hàm Số & Phương Trình Lượng Giác",
+          "parentName": "1.  Chuyên Đề: Toán Thực Tế\t\t\t",
+          "checksum": "2026-05-21T16:35:28.038Z|1",
+          "virtual": false
+        },
+        {
+          "id": "17y3HbWQ21GgQFZ_CIZnFrm6EZvNObkUy",
+          "name": "2. Chủ Đề 2. Toán Thực Tế CSC - CSN",
+          "parentName": "1.  Chuyên Đề: Toán Thực Tế\t\t\t",
+          "checksum": "2026-05-21T16:35:26.862Z|1",
+          "virtual": false
+        },
+        {
+          "id": "13dWSUKO11OESmsZNwRDLvaS_BSgt3bLj",
+          "name": "3. Chủ Đề 3.1. Toán Thực Tế Giới Hạn",
+          "parentName": "1.  Chuyên Đề: Toán Thực Tế\t\t\t",
+          "checksum": "2026-05-21T16:35:26.220Z|1",
+          "virtual": false
+        },
+        {
+          "id": "1fZCTvHNGHLbWHpgt8bvsfN8QDVwEql-R",
+          "name": "4. Chủ Đề 3.2 Toán Thực Tế Hàm Số Liên Tục",
+          "parentName": "1.  Chuyên Đề: Toán Thực Tế\t\t\t",
+          "checksum": "2026-05-21T16:35:25.669Z|1",
+          "virtual": false
+        },
+        {
+          "id": "1oq1SF6Uce9yLuOAmOhlSBupCnA4MqLTe",
+          "name": "5. Chủ Đề 4. Hàm Số Mũ & Logarit",
+          "parentName": "1.  Chuyên Đề: Toán Thực Tế\t\t\t",
+          "checksum": "2026-05-22T08:36:14.079Z|2",
+          "virtual": false
+        },
+        {
+          "id": "1PSp6tXmU03u5aKyC6BQbqYznmOajC-jj",
+          "name": "6. Chủ Đề 5. Phương Pháp Trải Phẳng",
+          "parentName": "1.  Chuyên Đề: Toán Thực Tế\t\t\t",
+          "checksum": "2026-05-22T08:35:57.597Z|2",
+          "virtual": false
+        },
+        {
+          "id": "1_-oEGSxiEzcgQ6DXD9z7e-pGh1IYXJLM",
+          "name": "7. Chủ Đề 6. Quy Hoạch Tuyến Tính - Vẽ Miền Nghiệm",
+          "parentName": "1.  Chuyên Đề: Toán Thực Tế\t\t\t",
+          "checksum": "2026-05-22T08:35:37.717Z|4",
+          "virtual": false
+        },
+        {
+          "id": "1W9J1Sh6WYDbklA2DxibgPbDEV3ZkD4JA",
+          "name": "8. Chủ Đề 7. Tìm Đường Đi Ngắn Nhất",
+          "parentName": "1.  Chuyên Đề: Toán Thực Tế\t\t\t",
+          "checksum": "2026-05-24T14:36:57.254Z|2",
+          "virtual": false
+        },
+        {
+          "id": "1A0St6WE7lUsPeZl1qTlXru8imsrOP7Dx",
+          "name": "9. Chủ Đề 8.1 Ứng Dụng Đạo Hàm - Tốc Độ Thay Đổi Của 1 Đại Lượng",
+          "parentName": "1.  Chuyên Đề: Toán Thực Tế\t\t\t",
+          "checksum": "2026-05-24T14:35:21.296Z|4",
+          "virtual": false
+        },
+        {
+          "id": "1Qw79p6GLLdycebUvwYHwEtX-uSrHkmhh",
+          "name": "10. Chủ Đề 8.2 Ứng Dụng Đạo Hàm - Quãng Đường - Vận Tốc",
+          "parentName": "1.  Chuyên Đề: Toán Thực Tế\t\t\t",
+          "checksum": "2026-05-24T14:33:34.615Z|4",
+          "virtual": false
+        },
+        {
+          "id": "1joRTYJnizsiA_c7ES0kzrIvlkM-GrU4u",
+          "name": "11. Chủ Đề 8.3 Ứng Dụng Đạo Hàm - Bài Toán Kinh Tế",
+          "parentName": "1.  Chuyên Đề: Toán Thực Tế\t\t\t",
+          "checksum": "2026-05-24T14:32:24.780Z|5",
+          "virtual": false
+        }
+      ],
+      "rendererVersion": "4.3.1",
+      "styleVersion": "2026-05-31-student-banner-no-meta-v2",
+      "runId": "no-meta-sync-2026-05-31-104541",
+      "spreadsheetId": "11gqyic7FidVfOuQMAgEjkgL2swJ4RAkg5bj5ZlKS4ZU",
+      "stats": {
+        "leafCount": 11,
+        "totalVideos": 16
+      }
+    },
+    "1zbG0AHf9tBgsZvlXxV7ZHZIiBsCQpw7m": {
+      "tabName": "Khóa A",
+      "renderedAt": "2026-05-31T03:50:36.267Z",
+      "checksum": "1zbG0AHf9tBgsZvlXxV7ZHZIiBsCQpw7m|2026-04-18T14:17:58.466Z|0",
+      "lessons": [],
+      "rendererVersion": "4.3.1",
+      "styleVersion": "2026-05-31-student-banner-no-meta-v2",
+      "runId": "no-meta-sync-2026-05-31-104541",
+      "spreadsheetId": "11gqyic7FidVfOuQMAgEjkgL2swJ4RAkg5bj5ZlKS4ZU",
+      "stats": {
+        "leafCount": 0,
+        "totalVideos": 0
+      }
+    },
+    "1PShDnWi0ojz3K3MQB5bdcVvsGL1Xb1F3": {
+      "tabName": "Khóa R",
+      "renderedAt": "2026-05-31T03:50:43.899Z",
+      "checksum": "1PShDnWi0ojz3K3MQB5bdcVvsGL1Xb1F3|2026-04-18T14:17:57.479Z|0",
+      "lessons": [],
+      "rendererVersion": "4.3.1",
+      "styleVersion": "2026-05-31-student-banner-no-meta-v2",
+      "runId": "no-meta-sync-2026-05-31-104541",
+      "spreadsheetId": "11gqyic7FidVfOuQMAgEjkgL2swJ4RAkg5bj5ZlKS4ZU",
+      "stats": {
+        "leafCount": 0,
+        "totalVideos": 0
+      }
+    },
+    "1D47KAF0zH6gSIXcHH5BC8e0PLZt7HOz6": {
+      "tabName": "Khóa T",
+      "renderedAt": "2026-05-31T03:50:51.248Z",
+      "checksum": "1D47KAF0zH6gSIXcHH5BC8e0PLZt7HOz6|2026-04-18T14:17:56.445Z|0",
+      "lessons": [],
+      "rendererVersion": "4.3.1",
+      "styleVersion": "2026-05-31-student-banner-no-meta-v2",
+      "runId": "no-meta-sync-2026-05-31-104541",
+      "spreadsheetId": "11gqyic7FidVfOuQMAgEjkgL2swJ4RAkg5bj5ZlKS4ZU",
+      "stats": {
+        "leafCount": 0,
+        "totalVideos": 0
+      }
+    }
+  },
+  "updatedAt": "2026-05-31T03:50:51.248Z",
+  "version": 2
+}

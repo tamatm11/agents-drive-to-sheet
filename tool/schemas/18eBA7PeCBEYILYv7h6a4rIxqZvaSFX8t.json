@@ -1,0 +1,53 @@
+{
+  "updatedAt": "2026-05-28T00:00:00.000Z",
+  "teacher": {
+    "id": "18eBA7PeCBEYILYv7h6a4rIxqZvaSFX8t",
+    "name": "4. TOÁN THẦY NGUYỄN ĐĂNG ÁI TDM 2K9"
+  },
+  "schema": {
+    "levels": [
+      {
+        "depth": 0,
+        "label": "Chuyên đề",
+        "icon": "📖",
+        "bold": true,
+        "bg": "#FCE5C0",
+        "namePatternHint": "Mã 'x.y TDMXX...' hoặc tên 'TDMXR2027 - ...'. Là nhánh con trong mỗi khóa lớn."
+      },
+      {
+        "depth": 1,
+        "label": "Bài",
+        "icon": "📂",
+        "bold": true,
+        "bg": "#FCF1D4",
+        "namePatternHint": "Mã 'TDMXX01_...', 'TDMYY002_...', đầu là 2 chữ cái khóa + 2 chữ cái chuyên đề + số thứ tự."
+      },
+      {
+        "depth": 2,
+        "label": "Phần",
+        "icon": "📁",
+        "bold": false,
+        "bg": "#F2FAEA",
+        "namePatternHint": "Tên cố định: 'Bài giảng', 'Phần A', 'Phần B', 'Đề A', 'Đề B'."
+      }
+    ],
+    "leafFallback": {
+      "label": "Bài",
+      "icon": "📂",
+      "bold": true,
+      "bg": "#FCF1D4",
+      "note": "Nhiều bài cấp 1 không có Phần con mà chứa video/pdf trực tiếp; render như leaf bài học."
+    },
+    "courseRow": {
+      "icon": "📚",
+      "bold": true,
+      "fontSize": 12,
+      "bg": "#D4E5FA"
+    },
+    "videoRow": {
+      "icon": "▸",
+      "indent": "extra-from-leaf"
+    },
+    "notes": "Cấu trúc thầy Ái 3 tầng dưới Khóa: Chuyên đề (vd '1.1 TDMXX2027 - Nền tảng...') → Bài (vd 'TDMXX01_Khoảng cách số 01') → Phần ('Bài giảng' / 'Phần A' / 'Phần B' / 'Đề A' / 'Đề B'). Có nhiều khóa rỗng (chưa có nội dung). Một số bài leaf trực tiếp không có Phần con. Mỗi Phần chứa hỗn hợp video (.mp4) + pdf đề/key. Có thêm folder Z. EBOOK riêng — đối xử như 1 'Khóa' bình thường (nhánh con là sách)."
+  }
+}

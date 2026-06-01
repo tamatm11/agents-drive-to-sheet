@@ -1,0 +1,51 @@
+{
+  "crawledAt": "2026-05-29T17:31:29.946Z",
+  "teacher": {
+    "id": "1ALpgoWCiCVSUnNdklL-zHnaKegwp6s2S",
+    "name": "4. HOÁ CÔ THÂN THỊ LIÊN 2K9",
+    "modifiedTime": "2026-05-27T15:22:52.318Z",
+    "webViewLink": "https://drive.google.com/drive/folders/1ALpgoWCiCVSUnNdklL-zHnaKegwp6s2S"
+  },
+  "courses": [
+    {
+      "id": "1zBtOxDzxBYiq1gE54WIWwg624yxQqlEu",
+      "name": "0. INFO THÔNG TIN VÀ HƯỚNG DẪN KHOÁ HỌC",
+      "children": [],
+      "files": [],
+      "webViewLink": "https://drive.google.com/drive/folders/1zBtOxDzxBYiq1gE54WIWwg624yxQqlEu",
+      "modifiedTime": "2026-04-19T23:14:44.312Z"
+    },
+    {
+      "id": "1dJ5tjp2i6jjsRMB90MxuvoCAHG6Fmoxp",
+      "name": "1. KHÓA LIVE NỀN TẢNG HOÁ 12",
+      "children": [],
+      "files": [],
+      "webViewLink": "https://drive.google.com/drive/folders/1dJ5tjp2i6jjsRMB90MxuvoCAHG6Fmoxp",
+      "modifiedTime": "2026-04-19T23:14:43.542Z"
+    },
+    {
+      "id": "19Lu4cIccvSx00mciBi0ZdwoSh504dJFX",
+      "name": "2. KHOÁ LIVE NÂNG CAO 9+",
+      "children": [],
+      "files": [],
+      "webViewLink": "https://drive.google.com/drive/folders/19Lu4cIccvSx00mciBi0ZdwoSh504dJFX",
+      "modifiedTime": "2026-04-19T23:14:42.893Z"
+    },
+    {
+      "id": "1FBHRNly38GweplKvG7NGEw_263GTF9Nu",
+      "name": "3. KHOÁ THỰC CHIẾN VỀ ĐÍCH (TỔNG ÔN LUYỆN ĐỀ) CỦNG CỐ 9+, 10",
+      "children": [],
+      "files": [],
+      "webViewLink": "https://drive.google.com/drive/folders/1FBHRNly38GweplKvG7NGEw_263GTF9Nu",
+      "modifiedTime": "2026-04-19T23:14:41.871Z"
+    },
+    {
+      "id": "1HzNFsIPr29bvN6pGiMSaKAeNjnIR20B9",
+      "name": "Z. EBOOK SÁCH KÈM KHOÁ HỌC",
+      "children": [],
+      "files": [],
+      "webViewLink": "https://drive.google.com/drive/folders/1HzNFsIPr29bvN6pGiMSaKAeNjnIR20B9",
+      "modifiedTime": "2026-04-19T23:14:44.980Z"
+    }
+  ]
+}

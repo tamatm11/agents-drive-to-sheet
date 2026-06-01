@@ -1,0 +1,4 @@
+no-meta-sync-2026-05-31-104541
+22452
+C:\Users\giaos\.claude\agents\tool\run-logs\no-meta-sync-2026-05-31-104541.stdout.log
+C:\Users\giaos\.claude\agents\tool\run-logs\no-meta-sync-2026-05-31-104541.stderr.log

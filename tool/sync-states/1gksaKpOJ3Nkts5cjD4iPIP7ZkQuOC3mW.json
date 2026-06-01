@@ -1,0 +1,63 @@
+{
+  "teacherId": "1gksaKpOJ3Nkts5cjD4iPIP7ZkQuOC3mW",
+  "tabs": {
+    "1WnqmlGqQYu3bLhoemp8-LcjAkTlPx9-e": {
+      "tabName": "GIAI ĐOẠN 2",
+      "renderedAt": "2026-05-31T04:12:17.018Z",
+      "checksum": "1WnqmlGqQYu3bLhoemp8-LcjAkTlPx9-e|2026-04-19T23:14:43.338Z|0",
+      "lessons": [],
+      "rendererVersion": "4.3.1",
+      "styleVersion": "2026-05-31-student-banner-no-meta-v2",
+      "runId": "no-meta-sync-2026-05-31-104541",
+      "spreadsheetId": "1YhomhhRhjc2fjOcQcpNt2AZbcIn24Jh7Nce_UZ1QDcY",
+      "stats": {
+        "leafCount": 0,
+        "totalVideos": 0
+      }
+    },
+    "1tTHLSrAQAUOz18O11eH39Vz9pniejXD9": {
+      "tabName": "LUYỆN ĐỀ THỰC",
+      "renderedAt": "2026-05-31T04:12:24.186Z",
+      "checksum": "1tTHLSrAQAUOz18O11eH39Vz9pniejXD9|2026-04-19T23:14:42.673Z|0",
+      "lessons": [],
+      "rendererVersion": "4.3.1",
+      "styleVersion": "2026-05-31-student-banner-no-meta-v2",
+      "runId": "no-meta-sync-2026-05-31-104541",
+      "spreadsheetId": "1YhomhhRhjc2fjOcQcpNt2AZbcIn24Jh7Nce_UZ1QDcY",
+      "stats": {
+        "leafCount": 0,
+        "totalVideos": 0
+      }
+    },
+    "1ihiwLvjcMmf4itGN7U-8tEHFPvVmM74z": {
+      "tabName": "TỔNG ÔN VỀ",
+      "renderedAt": "2026-05-31T04:12:31.369Z",
+      "checksum": "1ihiwLvjcMmf4itGN7U-8tEHFPvVmM74z|2026-04-19T23:14:41.961Z|0",
+      "lessons": [],
+      "rendererVersion": "4.3.1",
+      "styleVersion": "2026-05-31-student-banner-no-meta-v2",
+      "runId": "no-meta-sync-2026-05-31-104541",
+      "spreadsheetId": "1YhomhhRhjc2fjOcQcpNt2AZbcIn24Jh7Nce_UZ1QDcY",
+      "stats": {
+        "leafCount": 0,
+        "totalVideos": 0
+      }
+    },
+    "1jaW9rXifea2KHKv2ErusHnFaFOdqO7HP": {
+      "tabName": "GIAI ĐOẠN 1",
+      "renderedAt": "2026-05-31T04:12:09.206Z",
+      "checksum": "1jaW9rXifea2KHKv2ErusHnFaFOdqO7HP|2026-05-26T08:27:24.560Z|46",
+      "lessons": [],
+      "rendererVersion": "4.3.1",
+      "styleVersion": "2026-05-31-student-banner-no-meta-v2",
+      "runId": "no-meta-sync-2026-05-31-104541",
+      "spreadsheetId": "1YhomhhRhjc2fjOcQcpNt2AZbcIn24Jh7Nce_UZ1QDcY",
+      "stats": {
+        "leafCount": 3,
+        "totalVideos": 46
+      }
+    }
+  },
+  "updatedAt": "2026-05-31T04:12:31.370Z",
+  "version": 2
+}

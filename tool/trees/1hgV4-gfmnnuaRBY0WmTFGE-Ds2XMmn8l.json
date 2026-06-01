@@ -1,0 +1,1881 @@
+{
+  "crawledAt": "2026-05-29T17:31:23.290Z",
+  "teacher": {
+    "id": "1hgV4-gfmnnuaRBY0WmTFGE-Ds2XMmn8l",
+    "name": "3. HOÁ THẦY PHẠM THẮNG TYHH 2K9",
+    "modifiedTime": "2026-05-27T15:22:51.256Z",
+    "webViewLink": "https://drive.google.com/drive/folders/1hgV4-gfmnnuaRBY0WmTFGE-Ds2XMmn8l"
+  },
+  "courses": [
+    {
+      "id": "1PH1lAkRxsbVI07r42o0hAfiLFQjB19i3",
+      "name": "0. INFO THÔNG TIN VÀ HƯỚNG DẪN KHOÁ HỌC",
+      "children": [],
+      "files": [],
+      "webViewLink": "https://drive.google.com/drive/folders/1PH1lAkRxsbVI07r42o0hAfiLFQjB19i3",
+      "modifiedTime": "2026-04-19T23:15:04.438Z"
+    },
+    {
+      "id": "13p-uHV0kleMpFLqetzVSI8jNPPVZHfq-",
+      "name": "0. KHOÁ XPS 2K9 - XUẤT PHÁT SỚM HỌC TRƯỚC HÓA 12 2027",
+      "children": [
+        {
+          "id": "1BvNW7wXfTuUWueWhf_n-l-PflIuEiyUD",
+          "name": "1. TỔNG ÔN TOÀN DIỆN HỮU CƠ 11 | 2027",
+          "webViewLink": "https://drive.google.com/drive/folders/1BvNW7wXfTuUWueWhf_n-l-PflIuEiyUD",
+          "modifiedTime": "2026-05-10T06:35:34.588Z",
+          "children": [
+            {
+              "id": "1_mDa8Z8MyumQ2OFn_S75cRWEy6IEfIO3",
+              "name": "1. TỔNG ÔN ĐẠI CƯƠNG HÓA HỌC HỮU CƠ | VIP1",
+              "webViewLink": "https://drive.google.com/drive/folders/1_mDa8Z8MyumQ2OFn_S75cRWEy6IEfIO3",
+              "modifiedTime": "2026-05-10T10:08:34.134Z",
+              "children": [],
+              "files": [
+                {
+                  "id": "1u2cwEupGgUVyTwB-jV7eXXkmrgime8Zc",
+                  "name": "giãn TỔNG ÔN ĐẠI CƯƠNG HÓA HỌC HỮU CƠ  VIP1.pdf",
+                  "mimeType": "application/pdf",
+                  "size": 1023560,
+                  "webViewLink": "https://drive.google.com/file/d/1u2cwEupGgUVyTwB-jV7eXXkmrgime8Zc/view?usp=drivesdk",
+                  "modifiedTime": "2026-05-11T13:17:50.780Z",
+                  "videoMediaMetadata": null
+                },
+                {
+                  "id": "1drHBolJCdcSyD7rRk6QdPjQZWskjEfn6",
+                  "name": "TỔNG ÔN ĐẠI CƯƠNG HÓA HỌC HỮU CƠ  VIP1.pdf",
+                  "mimeType": "application/pdf",
+                  "size": 1000663,
+                  "webViewLink": "https://drive.google.com/file/d/1drHBolJCdcSyD7rRk6QdPjQZWskjEfn6/view?usp=drivesdk",
+                  "modifiedTime": "2026-05-11T13:17:49.593Z",
+                  "videoMediaMetadata": null
+                },
+                {
+                  "id": "1UgyIsUckrqU-vUjMlgs49zzEC5Ws_lUf",
+                  "name": "TỔNG ÔN ĐẠI CƯƠNG HÓA HỌC HỮU CƠ - VIP1.mp4",
+                  "mimeType": "video/mp4",
+                  "size": 432966416,
+                  "webViewLink": "https://drive.google.com/file/d/1UgyIsUckrqU-vUjMlgs49zzEC5Ws_lUf/view?usp=drivesdk",
+                  "modifiedTime": "2026-05-11T13:17:46.937Z",
+                  "videoMediaMetadata": {
+                    "width": 1280,
+                    "height": 720,
+                    "durationMillis": "7119866"
+                  }
+                },
+                {
+                  "id": "1nQlXCV-AcTvToCXRRGFfPzbpornKzZu3",
+                  "name": "vt TỔNG ÔN ĐẠI CƯƠNG HÓA HỌC HỮU CƠ  VIP1.pdf",
+                  "mimeType": "application/pdf",
+                  "size": 17975629,
+                  "webViewLink": "https://drive.google.com/file/d/1nQlXCV-AcTvToCXRRGFfPzbpornKzZu3/view?usp=drivesdk",
+                  "modifiedTime": "2026-05-11T13:17:47.761Z",
+                  "videoMediaMetadata": null
+                }
+              ]
+            },
+            {
+              "id": "1lz1Z36fER21dk3QPEe7hwIcwBjEie8yv",
+              "name": "10. TỔNG ÔN CARBONYL – CARBOXYLIC ACID | VIP3",
+              "webViewLink": "https://drive.google.com/drive/folders/1lz1Z36fER21dk3QPEe7hwIcwBjEie8yv",
+              "modifiedTime": "2026-05-10T10:08:28.362Z",
+              "children": [],
+              "files": [
+                {
+                  "id": "1IHvqIwqTyi8iJpQSuwkLvObIfOqMB4o_",
+                  "name": "giãn TỔNG ÔN CARBONYL – CARBOXYLIC ACID  VIP3.pdf",
+                  "mimeType": "application/pdf",
+                  "size": 465557,
+                  "webViewLink": "https://drive.google.com/file/d/1IHvqIwqTyi8iJpQSuwkLvObIfOqMB4o_/view?usp=drivesdk",
+                  "modifiedTime": "2026-05-11T11:56:42.673Z",
+                  "videoMediaMetadata": null
+                },
+                {
+                  "id": "1EojevLWusHAO8pDahY2GnZ6NkYUoD0aw",
+                  "name": "TỔNG ÔN CARBONYL – CARBOXYLIC ACID  VIP3.pdf",
+                  "mimeType": "application/pdf",
+                  "size": 458848,
+                  "webViewLink": "https://drive.google.com/file/d/1EojevLWusHAO8pDahY2GnZ6NkYUoD0aw/view?usp=drivesdk",
+                  "modifiedTime": "2026-05-11T11:56:43.845Z",
+                  "videoMediaMetadata": null
+                },
+                {
+                  "id": "1FnZ0IcW9ewo6WhT1e6LnAQz7U6KAf3tf",
+                  "name": "TỔNG ÔN CARBONYL – CARBOXYLIC ACID - VIP3.mp4",
+                  "mimeType": "video/mp4",
+                  "size": 286051557,
+                  "webViewLink": "https://drive.google.com/file/d/1FnZ0IcW9ewo6WhT1e6LnAQz7U6KAf3tf/view?usp=drivesdk",
+                  "modifiedTime": "2026-05-11T11:56:40.355Z",
+                  "videoMediaMetadata": {
+                    "width": 1280,
+                    "height": 720,
+                    "durationMillis": "4388533"
+                  }
+                },
+                {
+                  "id": "1hy9nNMmu0cX6b2FMZzMbpm1n9vEhkpAK",
+                  "name": "vt TỔNG ÔN CARBONYL – CARBOXYLIC ACID  VIP3.pdf",
+                  "mimeType": "application/pdf",
+                  "size": 8281932,
+                  "webViewLink": "https://drive.google.com/file/d/1hy9nNMmu0cX6b2FMZzMbpm1n9vEhkpAK/view?usp=drivesdk",
+                  "modifiedTime": "2026-05-11T11:56:41.252Z",
+                  "videoMediaMetadata": null
+                }
+              ]
+            },
+            {
+              "id": "1TTrH4AD1M1iNS5x9RBUEAgbuTMAURhmt",
+              "name": "2. TỔNG ÔN ĐẠI CƯƠNG HÓA HỌC HỮU CƠ | VIP2",
+              "webViewLink": "https://drive.google.com/drive/folders/1TTrH4AD1M1iNS5x9RBUEAgbuTMAURhmt",
+              "modifiedTime": "2026-05-10T10:08:33.116Z",
+              "children": [],
+              "files": [
+                {
+                  "id": "1ZUXSZdGRlAGkNJloOhJQTioIh5G-Wr22",
+                  "name": "giãn TỔNG ÔN ĐẠI CƯƠNG HÓA HỌC HỮU CƠ  VIP2.pdf",
+                  "mimeType": "application/pdf",
+                  "size": 3178574,
+                  "webViewLink": "https://drive.google.com/file/d/1ZUXSZdGRlAGkNJloOhJQTioIh5G-Wr22/view?usp=drivesdk",
+                  "modifiedTime": "2026-05-11T13:15:36.227Z",
+                  "videoMediaMetadata": null
+                },
+                {
+                  "id": "1n46nrSpJWqf7JCXyWUUgty5w68KsssNT",
+                  "name": "TỔNG ÔN ĐẠI CƯƠNG HÓA HỌC HỮU CƠ  VIP2.pdf",
+                  "mimeType": "application/pdf",
+                  "size": 3175646,
+                  "webViewLink": "https://drive.google.com/file/d/1n46nrSpJWqf7JCXyWUUgty5w68KsssNT/view?usp=drivesdk",
+                  "modifiedTime": "2026-05-11T13:15:35.092Z",
+                  "videoMediaMetadata": null
+                },
+                {
+                  "id": "1D8I3hfOMIdQ0QSQVWevFc4S0i_qFLLy1",
+                  "name": "TỔNG ÔN ĐẠI CƯƠNG HÓA HỌC HỮU CƠ - VIP2.mp4",
+                  "mimeType": "video/mp4",
+                  "size": 284719865,
+                  "webViewLink": "https://drive.google.com/file/d/1D8I3hfOMIdQ0QSQVWevFc4S0i_qFLLy1/view?usp=drivesdk",
+                  "modifiedTime": "2026-05-11T13:15:16.096Z",
+                  "videoMediaMetadata": {
+                    "width": 1920,
+                    "height": 1080,
+                    "durationMillis": "3537966"
+                  }
+                },
+                {
+                  "id": "1-_zkf0455h2-JIyR14KMtCyKkLVKWCRN",
+                  "name": "TỔNG ÔN ĐẠI CƯƠNG HÓA HỌC HỮU CƠ - VIP2_2.mp4",
+                  "mimeType": "video/mp4",
+                  "size": 321485827,
+                  "webViewLink": "https://drive.google.com/file/d/1-_zkf0455h2-JIyR14KMtCyKkLVKWCRN/view?usp=drivesdk",
+                  "modifiedTime": "2026-05-11T13:15:33.079Z",
+                  "videoMediaMetadata": null
+                },
+                {
+                  "id": "13PQhgpoHEbYvxrOF0w6V71_zG2BS6shr",
+                  "name": "vt TỔNG ÔN ĐẠI CƯƠNG HÓA HỌC HỮU CƠ  VIP2.pdf",
+                  "mimeType": "application/pdf",
+                  "size": 10630230,
+                  "webViewLink": "https://drive.google.com/file/d/13PQhgpoHEbYvxrOF0w6V71_zG2BS6shr/view?usp=drivesdk",
+                  "modifiedTime": "2026-05-11T13:15:33.881Z",
+                  "videoMediaMetadata": null
+                }
+              ]
+            },
+            {
+              "id": "1E9Tm8idHKU-D1xj6zkpPoQRgfx2P1KIo",
+              "name": "3. TỔNG ÔN TOÀN DIỆN HYDROCARBON | VIP1",
+              "webViewLink": "https://drive.google.com/drive/folders/1E9Tm8idHKU-D1xj6zkpPoQRgfx2P1KIo",
+              "modifiedTime": "2026-05-10T10:08:32.562Z",
+              "children": [],
+              "files": [
+                {
+                  "id": "1JhvqQbtGkK-rFcBvm543E9BeTlhLQjZ0",
+                  "name": "giãn TỔNG ÔN TOÀN DIỆN HYDROCARBON  VIP1.pdf",
+                  "mimeType": "application/pdf",
+                  "size": 627968,
+                  "webViewLink": "https://drive.google.com/file/d/1JhvqQbtGkK-rFcBvm543E9BeTlhLQjZ0/view?usp=drivesdk",
+                  "modifiedTime": "2026-05-11T13:14:59.361Z",
+                  "videoMediaMetadata": null
+                },
+                {
+                  "id": "1gTncy9imgEocfBec3qD2i5-QIIT9lBwp",
+                  "name": "TỔNG ÔN TOÀN DIỆN HYDROCARBON  VIP1.pdf",
+                  "mimeType": "application/pdf",
+                  "size": 597976,
+                  "webViewLink": "https://drive.google.com/file/d/1gTncy9imgEocfBec3qD2i5-QIIT9lBwp/view?usp=drivesdk",
+                  "modifiedTime": "2026-05-11T13:14:57.980Z",
+                  "videoMediaMetadata": null
+                },
+                {
+                  "id": "1vs8-jkV3G9p2dB_pcVmxzRr_VIR5KrjR",
+                  "name": "TỔNG ÔN TOÀN DIỆN HYDROCARBON - VIP1.mp4",
+                  "mimeType": "video/mp4",
+                  "size": 162842898,
+                  "webViewLink": "https://drive.google.com/file/d/1vs8-jkV3G9p2dB_pcVmxzRr_VIR5KrjR/view?usp=drivesdk",
+                  "modifiedTime": "2026-05-11T13:14:38.913Z",
+                  "videoMediaMetadata": null
+                },
+                {
+                  "id": "1Z2Lhiit277i9Aa5VZW8C3SDe6LeyPmoB",
+                  "name": "TỔNG ÔN TOÀN DIỆN HYDROCARBON - VIP1_2.mp4",
+                  "mimeType": "video/mp4",
+                  "size": 292369527,
+                  "webViewLink": "https://drive.google.com/file/d/1Z2Lhiit277i9Aa5VZW8C3SDe6LeyPmoB/view?usp=drivesdk",
+                  "modifiedTime": "2026-05-11T13:14:56.000Z",
+                  "videoMediaMetadata": null
+                },
+                {
+                  "id": "10jDBImV20sknYMA8rpmZAfMKuWPD3fKJ",
+                  "name": "vt TỔNG ÔN TOÀN DIỆN HYDROCARBON  VIP1.pdf",
+                  "mimeType": "application/pdf",
+                  "size": 7883829,
+                  "webViewLink": "https://drive.google.com/file/d/10jDBImV20sknYMA8rpmZAfMKuWPD3fKJ/view?usp=drivesdk",
+                  "modifiedTime": "2026-05-11T13:14:56.849Z",
+                  "videoMediaMetadata": null
+                }
+              ]
+            },
+            {
+              "id": "1imlszAHYZg7rIAucO3dv4KS84dNyENPy",
+              "name": "4. TỔNG ÔN TOÀN DIỆN HYDROCARBON | VIP2",
+              "webViewLink": "https://drive.google.com/drive/folders/1imlszAHYZg7rIAucO3dv4KS84dNyENPy",
+              "modifiedTime": "2026-05-10T10:08:32.030Z",
+              "children": [],
+              "files": [
+                {
+                  "id": "1_p6ayGcV4q7xITfEXh7RV4VqwrtznOz-",
+                  "name": "giãn TỔNG ÔN TOÀN DIỆN HYDROCARBON  VIP2.pdf",
+                  "mimeType": "application/pdf",
+                  "size": 610352,
+                  "webViewLink": "https://drive.google.com/file/d/1_p6ayGcV4q7xITfEXh7RV4VqwrtznOz-/view?usp=drivesdk",
+                  "modifiedTime": "2026-05-11T13:14:24.539Z",
+                  "videoMediaMetadata": null
+                },
+                {
+                  "id": "1RZdD1R1biR0ciLd5lmWY2myY4kvgKHa4",
+                  "name": "TỔNG ÔN TOÀN DIỆN HYDROCARBON  VIP2.pdf",
+                  "mimeType": "application/pdf",
+                  "size": 597904,
+                  "webViewLink": "https://drive.google.com/file/d/1RZdD1R1biR0ciLd5lmWY2myY4kvgKHa4/view?usp=drivesdk",
+                  "modifiedTime": "2026-05-11T13:14:23.385Z",
+                  "videoMediaMetadata": null
+                },
+                {
+                  "id": "19bYeieG-DrW9LYldq63tR_BnxZjfr1ub",
+                  "name": "TỔNG ÔN TOÀN DIỆN HYDROCARBON - VIP2.mp4",
+                  "mimeType": "video/mp4",
+                  "size": 250406597,
+                  "webViewLink": "https://drive.google.com/file/d/19bYeieG-DrW9LYldq63tR_BnxZjfr1ub/view?usp=drivesdk",
+                  "modifiedTime": "2026-05-11T13:14:04.734Z",
+                  "videoMediaMetadata": null
+                },
+                {
+                  "id": "1QnPthUjrgoRHv1-k_O6cMxZKkbWo7oc1",
+                  "name": "TỔNG ÔN TOÀN DIỆN HYDROCARBON - VIP2_2.mp4",
+                  "mimeType": "video/mp4",
+                  "size": 250849740,
+                  "webViewLink": "https://drive.google.com/file/d/1QnPthUjrgoRHv1-k_O6cMxZKkbWo7oc1/view?usp=drivesdk",
+                  "modifiedTime": "2026-05-11T13:14:21.367Z",
+                  "videoMediaMetadata": null
+                },
+                {
+                  "id": "1_hzmRowmxQy5GPnpCt8aUvoxFcJEddzC",
+                  "name": "vt TỔNG ÔN TOÀN DIỆN HYDROCARBON  VIP2.pdf",
+                  "mimeType": "application/pdf",
+                  "size": 6690221,
+                  "webViewLink": "https://drive.google.com/file/d/1_hzmRowmxQy5GPnpCt8aUvoxFcJEddzC/view?usp=drivesdk",
+                  "modifiedTime": "2026-05-11T13:14:22.171Z",
+                  "videoMediaMetadata": null
+                }
+              ]
+            },
+            {
+              "id": "1NMWcbhkzgWE2sobjIQ96DIx2aVjy5Cy7",
+              "name": "5. TỔNG ÔN HALOGEN – ALCOHOL – PHENOL | VIP1",
+              "webViewLink": "https://drive.google.com/drive/folders/1NMWcbhkzgWE2sobjIQ96DIx2aVjy5Cy7",
+              "modifiedTime": "2026-05-10T10:08:31.489Z",
+              "children": [],
+              "files": [
+                {
+                  "id": "1AeQSxUw1PP9ZgoraQ4d7St7X06v6FH5o",
+                  "name": "giãn TỔNG ÔN HALOGEN – ALCOHOL – PHENOL  VIP1.pdf",
+                  "mimeType": "application/pdf",
+                  "size": 690347,
+                  "webViewLink": "https://drive.google.com/file/d/1AeQSxUw1PP9ZgoraQ4d7St7X06v6FH5o/view?usp=drivesdk",
+                  "modifiedTime": "2026-05-11T12:56:37.837Z",
+                  "videoMediaMetadata": null
+                },
+                {
+                  "id": "1Wd3wRi9Cx8-_JJZQbGElwhUu62XF4Xw1",
+                  "name": "TỔNG ÔN HALOGEN – ALCOHOL – PHENOL  VIP1.pdf",
+                  "mimeType": "application/pdf",
+                  "size": 659317,
+                  "webViewLink": "https://drive.google.com/file/d/1Wd3wRi9Cx8-_JJZQbGElwhUu62XF4Xw1/view?usp=drivesdk",
+                  "modifiedTime": "2026-05-11T12:56:36.542Z",
+                  "videoMediaMetadata": null
+                },
+                {
+                  "id": "1K_bvAB1vwBa_fDTbRLAPZ4jimUJPIOzB",
+                  "name": "TỔNG ÔN HALOGEN – ALCOHOL – PHENOL - VIP1.mp4",
+                  "mimeType": "video/mp4",
+                  "size": 463594437,
+                  "webViewLink": "https://drive.google.com/file/d/1K_bvAB1vwBa_fDTbRLAPZ4jimUJPIOzB/view?usp=drivesdk",
+                  "modifiedTime": "2026-05-11T12:56:32.796Z",
+                  "videoMediaMetadata": {
+                    "width": 1920,
+                    "height": 1080,
+                    "durationMillis": "6021466"
+                  }
+                },
+                {
+                  "id": "1c4JLACdTDeNNggJgr4PwEu2b4LQ7hegc",
+                  "name": "vt TỔNG ÔN HALOGEN – ALCOHOL – PHENOL  VIP1.pdf",
+                  "mimeType": "application/pdf",
+                  "size": 17069468,
+                  "webViewLink": "https://drive.google.com/file/d/1c4JLACdTDeNNggJgr4PwEu2b4LQ7hegc/view?usp=drivesdk",
+                  "modifiedTime": "2026-05-11T12:56:34.432Z",
+                  "videoMediaMetadata": null
+                }
+              ]
+            },
+            {
+              "id": "1toPjSntqjeoTBzvFJCCVtA1CfZQChlPo",
+              "name": "6. TỔNG ÔN HALOGEN – ALCOHOL – PHENOL | VIP2",
+              "webViewLink": "https://drive.google.com/drive/folders/1toPjSntqjeoTBzvFJCCVtA1CfZQChlPo",
+              "modifiedTime": "2026-05-10T10:08:30.812Z",
+              "children": [],
+              "files": [
+                {
+                  "id": "1Lt0rk3fJjeV9MjBqpN6VRLJEZ4PdQYxn",
+                  "name": "giãn TỔNG ÔN HALOGEN – ALCOHOL – PHENOL  VIP2.pdf",
+                  "mimeType": "application/pdf",
+                  "size": 604315,
+                  "webViewLink": "https://drive.google.com/file/d/1Lt0rk3fJjeV9MjBqpN6VRLJEZ4PdQYxn/view?usp=drivesdk",
+                  "modifiedTime": "2026-05-11T12:48:24.196Z",
+                  "videoMediaMetadata": null
+                },
+                {
+                  "id": "1i1I1Zb02GBYhZvYuLapcUlDdv3xyex2W",
+                  "name": "TỔNG ÔN HALOGEN – ALCOHOL – PHENOL  VIP2.pdf",
+                  "mimeType": "application/pdf",
+                  "size": 589857,
+                  "webViewLink": "https://drive.google.com/file/d/1i1I1Zb02GBYhZvYuLapcUlDdv3xyex2W/view?usp=drivesdk",
+                  "modifiedTime": "2026-05-11T12:48:22.675Z",
+                  "videoMediaMetadata": null
+                },
+                {
+                  "id": "1AGQTM16_sUJccdipshB42ZOoGY3MDqKN",
+                  "name": "TỔNG ÔN HALOGEN – ALCOHOL – PHENOL - VIP2.mp4",
+                  "mimeType": "video/mp4",
+                  "size": 257076256,
+                  "webViewLink": "https://drive.google.com/file/d/1AGQTM16_sUJccdipshB42ZOoGY3MDqKN/view?usp=drivesdk",
+                  "modifiedTime": "2026-05-11T12:45:08.014Z",
+                  "videoMediaMetadata": null
+                },
+                {
+                  "id": "1t9LsTRVbHERuVhP1heqMfx9upmEdEmvc",
+                  "name": "TỔNG ÔN HALOGEN – ALCOHOL – PHENOL - VIP2_2.mp4",
+                  "mimeType": "video/mp4",
+                  "size": 268794856,
+                  "webViewLink": "https://drive.google.com/file/d/1t9LsTRVbHERuVhP1heqMfx9upmEdEmvc/view?usp=drivesdk",
+                  "modifiedTime": "2026-05-11T12:48:20.120Z",
+                  "videoMediaMetadata": null
+                },
+                {
+                  "id": "1bOJ5jGCbrAUOMyCntVO8YLykkY41L4mW",
+                  "name": "vt TỔNG ÔN HALOGEN – ALCOHOL – PHENOL  VIP2.pdf",
+                  "mimeType": "application/pdf",
+                  "size": 11519741,
+                  "webViewLink": "https://drive.google.com/file/d/1bOJ5jGCbrAUOMyCntVO8YLykkY41L4mW/view?usp=drivesdk",
+                  "modifiedTime": "2026-05-11T12:48:20.908Z",
+                  "videoMediaMetadata": null
+                }
+              ]
+            },
+            {
+              "id": "1_9doNYTN42p9Wu8y9kunCipor1O1xD0n",
+              "name": "7. TỔNG ÔN HALOGEN – ALCOHOL – PHENOL | VIP3",
+              "webViewLink": "https://drive.google.com/drive/folders/1_9doNYTN42p9Wu8y9kunCipor1O1xD0n",
+              "modifiedTime": "2026-05-10T10:08:30.258Z",
+              "children": [],
+              "files": [
+                {
+                  "id": "148OkwQv438UyPXMPA9Tr5udwb0rdukF6",
+                  "name": "giãn TỔNG ÔN HALOGEN – ALCOHOL – PHENOL  VIP3.pdf",
+                  "mimeType": "application/pdf",
+                  "size": 606524,
+                  "webViewLink": "https://drive.google.com/file/d/148OkwQv438UyPXMPA9Tr5udwb0rdukF6/view?usp=drivesdk",
+                  "modifiedTime": "2026-05-11T12:43:02.009Z",
+                  "videoMediaMetadata": null
+                },
+                {
+                  "id": "13LL8PZZCbZZ93CqkIPzS7__2rX7I_qmS",
+                  "name": "TỔNG ÔN HALOGEN – ALCOHOL – PHENOL  VIP3.pdf",
+                  "mimeType": "application/pdf",
+                  "size": 599840,
+                  "webViewLink": "https://drive.google.com/file/d/13LL8PZZCbZZ93CqkIPzS7__2rX7I_qmS/view?usp=drivesdk",
+                  "modifiedTime": "2026-05-11T12:43:00.745Z",
+                  "videoMediaMetadata": null
+                },
+                {
+                  "id": "1I__cSLyIncqnr4dGzC9WF2oYBoI2XEvb",
+                  "name": "TỔNG ÔN HALOGEN – ALCOHOL – PHENOL - VIP3.mp4",
+                  "mimeType": "video/mp4",
+                  "size": 283325220,
+                  "webViewLink": "https://drive.google.com/file/d/1I__cSLyIncqnr4dGzC9WF2oYBoI2XEvb/view?usp=drivesdk",
+                  "modifiedTime": "2026-05-11T12:42:58.476Z",
+                  "videoMediaMetadata": null
+                },
+                {
+                  "id": "1YxVN7CXbyMKTpf17wYk2e5C2wLBOyKgj",
+                  "name": "vt TỔNG ÔN HALOGEN – ALCOHOL – PHENOL  VIP3.pdf",
+                  "mimeType": "application/pdf",
+                  "size": 9764112,
+                  "webViewLink": "https://drive.google.com/file/d/1YxVN7CXbyMKTpf17wYk2e5C2wLBOyKgj/view?usp=drivesdk",
+                  "modifiedTime": "2026-05-11T12:42:59.405Z",
+                  "videoMediaMetadata": null
+                }
+              ]
+            },
+            {
+              "id": "1QWmXnVf6BwK1oYwadpawH59dRVfI-1HC",
+              "name": "8. TỔNG ÔN CARBONYL – CARBOXYLIC ACID | VIP1",
+              "webViewLink": "https://drive.google.com/drive/folders/1QWmXnVf6BwK1oYwadpawH59dRVfI-1HC",
+              "modifiedTime": "2026-05-10T10:08:29.676Z",
+              "children": [],
+              "files": [
+                {
+                  "id": "1j_bIvzbh-1VPDq_sExGHkCCk3tKriFgV",
+                  "name": "giãn TỔNG ÔN CARBONYL – CARBOXYLIC ACID  VIP1.pdf",
+                  "mimeType": "application/pdf",
+                  "size": 637387,
+                  "webViewLink": "https://drive.google.com/file/d/1j_bIvzbh-1VPDq_sExGHkCCk3tKriFgV/view?usp=drivesdk",
+                  "modifiedTime": "2026-05-11T12:28:54.151Z",
+                  "videoMediaMetadata": null
+                },
+                {
+                  "id": "134CEUCsgr1YXEKDnSmJWguG85yItH9Fa",
+                  "name": "TỔNG ÔN CARBONYL – CARBOXYLIC ACID  VIP1.pdf",
+                  "mimeType": "application/pdf",
+                  "size": 609518,
+                  "webViewLink": "https://drive.google.com/file/d/134CEUCsgr1YXEKDnSmJWguG85yItH9Fa/view?usp=drivesdk",
+                  "modifiedTime": "2026-05-11T12:28:52.992Z",
+                  "videoMediaMetadata": null
+                },
+                {
+                  "id": "1O-jb4XkofQ8KR2pAnJC-vWO0sj060hDn",
+                  "name": "TỔNG ÔN CARBONYL – CARBOXYLIC ACID - VIP1.mp4",
+                  "mimeType": "video/mp4",
+                  "size": 369479677,
+                  "webViewLink": "https://drive.google.com/file/d/1O-jb4XkofQ8KR2pAnJC-vWO0sj060hDn/view?usp=drivesdk",
+                  "modifiedTime": "2026-05-11T12:28:50.665Z",
+                  "videoMediaMetadata": {
+                    "width": 1920,
+                    "height": 1080,
+                    "durationMillis": "4916399"
+                  }
+                },
+                {
+                  "id": "1MmZ40MvyHDtHh-MKYi3S2ydQPNZzVN8x",
+                  "name": "vt TỔNG ÔN CARBONYL – CARBOXYLIC ACID  VIP1.pdf",
+                  "mimeType": "application/pdf",
+                  "size": 16599393,
+                  "webViewLink": "https://drive.google.com/file/d/1MmZ40MvyHDtHh-MKYi3S2ydQPNZzVN8x/view?usp=drivesdk",
+                  "modifiedTime": "2026-05-11T12:28:51.551Z",
+                  "videoMediaMetadata": null
+                }
+              ]
+            },
+            {
+              "id": "1SuYgPzGCUtENOiT4Rm0mYW9kqN-c9771",
+              "name": "9. TỔNG ÔN CARBONYL – CARBOXYLIC ACID | VIP2",
+              "webViewLink": "https://drive.google.com/drive/folders/1SuYgPzGCUtENOiT4Rm0mYW9kqN-c9771",
+              "modifiedTime": "2026-05-10T10:08:29.008Z",
+              "children": [],
+              "files": [
+                {
+                  "id": "1dc-bGuONT-zauFs5FNucGXXYQGRKjwlP",
+                  "name": "giãn TỔNG ÔN CARBONYL – CARBOXYLIC ACID  VIP2.pdf",
+                  "mimeType": "application/pdf",
+                  "size": 582308,
+                  "webViewLink": "https://drive.google.com/file/d/1dc-bGuONT-zauFs5FNucGXXYQGRKjwlP/view?usp=drivesdk",
+                  "modifiedTime": "2026-05-11T12:14:04.773Z",
+                  "videoMediaMetadata": null
+                },
+                {
+                  "id": "16vNVjmjZEFBESkNX5DDCL583fE9rs1m8",
+                  "name": "TỔNG ÔN CARBONYL – CARBOXYLIC ACID  VIP2.pdf",
+                  "mimeType": "application/pdf",
+                  "size": 574246,
+                  "webViewLink": "https://drive.google.com/file/d/16vNVjmjZEFBESkNX5DDCL583fE9rs1m8/view?usp=drivesdk",
+                  "modifiedTime": "2026-05-11T12:14:03.535Z",
+                  "videoMediaMetadata": null
+                },
+                {
+                  "id": "1TUPmHnlPWtlAXmmYDQC01uVMQjHxnJtE",
+                  "name": "TỔNG ÔN CARBONYL – CARBOXYLIC ACID - VIP2.mp4",
+                  "mimeType": "video/mp4",
+                  "size": 374570721,
+                  "webViewLink": "https://drive.google.com/file/d/1TUPmHnlPWtlAXmmYDQC01uVMQjHxnJtE/view?usp=drivesdk",
+                  "modifiedTime": "2026-05-11T12:14:01.347Z",
+                  "videoMediaMetadata": null
+                },
+                {
+                  "id": "1qc4fHFyzUXYxZ1vD_uSYupa_A9SZNnpa",
+                  "name": "vt TỔNG ÔN CARBONYL – CARBOXYLIC ACID  VIP2.pdf",
+                  "mimeType": "application/pdf",
+                  "size": 10601439,
+                  "webViewLink": "https://drive.google.com/file/d/1qc4fHFyzUXYxZ1vD_uSYupa_A9SZNnpa/view?usp=drivesdk",
+                  "modifiedTime": "2026-05-11T12:14:02.278Z",
+                  "videoMediaMetadata": null
+                }
+              ]
+            }
+          ],
+          "files": []
+        },
+        {
+          "id": "1WZRH_IQekVUPW6d0QetuDH3VrFA3D2kb",
+          "name": "2. CHUYÊN ĐỀ 1 - TRỌNG TÂM (ESTER & LIPID)\t\t\t",
+          "webViewLink": "https://drive.google.com/drive/folders/1WZRH_IQekVUPW6d0QetuDH3VrFA3D2kb",
+          "modifiedTime": "2026-05-01T13:59:09.377Z",
+          "children": [
+            {
+              "id": "1CRgWiEI8HPezwyyjDPxqdT7HDAakxsLy",
+              "name": "1. LIVE 1 - LÝ THUYẾT TRỌNG TÂM ESTER | VIP1",
+              "webViewLink": "https://drive.google.com/drive/folders/1CRgWiEI8HPezwyyjDPxqdT7HDAakxsLy",
+              "modifiedTime": "2026-05-10T03:15:54.081Z",
+              "children": [],
+              "files": [
+                {
+                  "id": "1DBstl5KrHkpbvY7Py4plxedN7f8Gj0PE",
+                  "name": "CÁCH XÁC ĐỊNH ĐỘ BẤT BÃO HÒA CỦA ESTER CHI TIẾT.mp4",
+                  "mimeType": "video/mp4",
+                  "size": 128882268,
+                  "webViewLink": "https://drive.google.com/file/d/1DBstl5KrHkpbvY7Py4plxedN7f8Gj0PE/view?usp=drivesdk",
+                  "modifiedTime": "2026-05-10T10:01:29.180Z",
+                  "videoMediaMetadata": {
+                    "width": 1920,
+                    "height": 1080,
+                    "durationMillis": "1964028"
+                  }
+                },
+                {
+                  "id": "1p1ExLOeFoagQcyDqGON4S6qSQo6bG_ZQ",
+                  "name": "CÔNG THỨC TỔNG QUÁT VÀ PHÂN LOẠI ESTER CHI TIẾT.mp4",
+                  "mimeType": "video/mp4",
+                  "size": 200196425,
+                  "webViewLink": "https://drive.google.com/file/d/1p1ExLOeFoagQcyDqGON4S6qSQo6bG_ZQ/view?usp=drivesdk",
+                  "modifiedTime": "2026-05-10T09:52:32.608Z",
+                  "videoMediaMetadata": null
+                },
+                {
+                  "id": "1UAXkxnn_IgK1fCXyBJ0dc3ZTjFs4TUGq",
+                  "name": "giãn LIVE 1 - LÝ THUYẾT TRỌNG TÂM ESTER  VIP1.pdf",
+                  "mimeType": "application/pdf",
+                  "size": 764868,
+                  "webViewLink": "https://drive.google.com/file/d/1UAXkxnn_IgK1fCXyBJ0dc3ZTjFs4TUGq/view?usp=drivesdk",
+                  "modifiedTime": "2026-05-10T03:15:57.971Z",
+                  "videoMediaMetadata": null
+                },
+                {
+                  "id": "1VknOTDBDC2GkC0MPh2dcthCjgMBmm2Lq",
+                  "name": "KHÁI NIỆM VÀ CẤU TẠO CỦA ESTER CHI TIẾT VÀ ĐẦY ĐỦ.mp4",
+                  "mimeType": "video/mp4",
+                  "size": 182221584,
+                  "webViewLink": "https://drive.google.com/file/d/1VknOTDBDC2GkC0MPh2dcthCjgMBmm2Lq/view?usp=drivesdk",
+                  "modifiedTime": "2026-05-10T09:34:49.257Z",
+                  "videoMediaMetadata": null
+                },
+                {
+                  "id": "1oqikboo4jG9E6cvomM1WkxCMt_etCJ5Q",
+                  "name": "LIVE 1 - LÝ THUYẾT TRỌNG TÂM ESTER  VIP1.pdf",
+                  "mimeType": "application/pdf",
+                  "size": 696201,
+                  "webViewLink": "https://drive.google.com/file/d/1oqikboo4jG9E6cvomM1WkxCMt_etCJ5Q/view?usp=drivesdk",
+                  "modifiedTime": "2026-05-10T03:15:57.128Z",
+                  "videoMediaMetadata": null
+                },
+                {
+                  "id": "15hI8-YghR0w76vsCsig1fNjRBCyutLPz",
+                  "name": "vt LIVE 1 - LÝ THUYẾT TRỌNG TÂM ESTER  VIP1.pdf",
+                  "mimeType": "application/pdf",
+                  "size": 8216272,
+                  "webViewLink": "https://drive.google.com/file/d/15hI8-YghR0w76vsCsig1fNjRBCyutLPz/view?usp=drivesdk",
+                  "modifiedTime": "2026-05-10T03:15:56.344Z",
+                  "videoMediaMetadata": null
+                }
+              ]
+            },
+            {
+              "id": "14lyyyF66vscRmGD-YJS2VGkfaEvIXzqm",
+              "name": "10. LIVE 10 - BÀI TẬP XÀ PHÒNG HÓA CHẤT BÉO",
+              "webViewLink": "https://drive.google.com/drive/folders/14lyyyF66vscRmGD-YJS2VGkfaEvIXzqm",
+              "modifiedTime": "2026-05-18T01:28:25.732Z",
+              "children": [],
+              "files": [
+                {
+                  "id": "1gQYrD8bT3OmgUQBMZVFIhs9bN0e_AFW3",
+                  "name": "giãn LIVE 10 - BÀI TẬP XÀ PHÒNG HÓA CHẤT BÉO.pdf",
+                  "mimeType": "application/pdf",
+                  "size": 371593,
+                  "webViewLink": "https://drive.google.com/file/d/1gQYrD8bT3OmgUQBMZVFIhs9bN0e_AFW3/view?usp=drivesdk",
+                  "modifiedTime": "2026-05-18T01:31:59.135Z",
+                  "videoMediaMetadata": null
+                },
+                {
+                  "id": "1ZDmr8KfTxZvgWJhVZmNbOd8a3iizrr0c",
+                  "name": "LIVE 10 - BÀI TẬP XÀ PHÒNG HÓA CHẤT BÉO.mp4",
+                  "mimeType": "video/mp4",
+                  "size": 390235801,
+                  "webViewLink": "https://drive.google.com/file/d/1ZDmr8KfTxZvgWJhVZmNbOd8a3iizrr0c/view?usp=drivesdk",
+                  "modifiedTime": "2026-05-18T01:31:55.076Z",
+                  "videoMediaMetadata": null
+                },
+                {
+                  "id": "1qSNQV9SLQBWQxXTJVph2W54MgLmFXtV4",
+                  "name": "LIVE 10 - BÀI TẬP XÀ PHÒNG HÓA CHẤT BÉO.pdf",
+                  "mimeType": "application/pdf",
+                  "size": 330370,
+                  "webViewLink": "https://drive.google.com/file/d/1qSNQV9SLQBWQxXTJVph2W54MgLmFXtV4/view?usp=drivesdk",
+                  "modifiedTime": "2026-05-18T01:31:55.863Z",
+                  "videoMediaMetadata": null
+                },
+                {
+                  "id": "1zGEpAEjW8sGbjFSiMMmpncg2c8WnT-b9",
+                  "name": "LIVE 10 - BÀI TẬP XÀ PHÒNG HÓA CHẤT BÉO_2.mp4",
+                  "mimeType": "video/mp4",
+                  "size": 445861237,
+                  "webViewLink": "https://drive.google.com/file/d/1zGEpAEjW8sGbjFSiMMmpncg2c8WnT-b9/view?usp=drivesdk",
+                  "modifiedTime": "2026-05-18T01:30:10.278Z",
+                  "videoMediaMetadata": null
+                },
+                {
+                  "id": "1Z_2zy1xsOMpClhXzUCcDhbnkXljcNCAg",
+                  "name": "vt LIVE 10 - BÀI TẬP XÀ PHÒNG HÓA CHẤT BÉO.pdf",
+                  "mimeType": "application/pdf",
+                  "size": 5744423,
+                  "webViewLink": "https://drive.google.com/file/d/1Z_2zy1xsOMpClhXzUCcDhbnkXljcNCAg/view?usp=drivesdk",
+                  "modifiedTime": "2026-05-18T01:31:57.383Z",
+                  "videoMediaMetadata": null
+                }
+              ]
+            },
+            {
+              "id": "1W86LTDvIqJs5yq00mzhMgcS-ZbdIxlFH",
+              "name": "11. LIVE 11 - TỔNG ÔN TRỌNG TÂM ESTER (VIP1 + VIP2)",
+              "webViewLink": "https://drive.google.com/drive/folders/1W86LTDvIqJs5yq00mzhMgcS-ZbdIxlFH",
+              "modifiedTime": "2026-05-18T01:27:48.391Z",
+              "children": [],
+              "files": [
+                {
+                  "id": "188fS5iGo36nVCN0PUtIF9r4fN9EGLRhc",
+                  "name": "giãn LIVE 11 - TỔNG ÔN TRỌNG TÂM ESTER (VIP1 + VIP2).pdf",
+                  "mimeType": "application/pdf",
+                  "size": 810415,
+                  "webViewLink": "https://drive.google.com/file/d/188fS5iGo36nVCN0PUtIF9r4fN9EGLRhc/view?usp=drivesdk",
+                  "modifiedTime": "2026-05-18T01:28:23.563Z",
+                  "videoMediaMetadata": null
+                },
+                {
+                  "id": "1Yh3aJYz_D8LwRK4JaCzQ0qKxwDq9562P",
+                  "name": "LIVE 11 - TỔNG ÔN TRỌNG TÂM ESTER (VIP1 + VIP2).mp4",
+                  "mimeType": "video/mp4",
+                  "size": 315101309,
+                  "webViewLink": "https://drive.google.com/file/d/1Yh3aJYz_D8LwRK4JaCzQ0qKxwDq9562P/view?usp=drivesdk",
+                  "modifiedTime": "2026-05-18T01:28:05.595Z",
+                  "videoMediaMetadata": {
+                    "width": 1280,
+                    "height": 720,
+                    "durationMillis": "4771233"
+                  }
+                },
+                {
+                  "id": "1c-6ImMtWrGOzjjiTVho7ktnA7nCW3Bd_",
+                  "name": "LIVE 11 - TỔNG ÔN TRỌNG TÂM ESTER (VIP1 + VIP2).pdf",
+                  "mimeType": "application/pdf",
+                  "size": 784181,
+                  "webViewLink": "https://drive.google.com/file/d/1c-6ImMtWrGOzjjiTVho7ktnA7nCW3Bd_/view?usp=drivesdk",
+                  "modifiedTime": "2026-05-18T01:28:21.692Z",
+                  "videoMediaMetadata": null
+                },
+                {
+                  "id": "1a9g1RZU-Ak1YVIGIK4AsOfOdmuup1HoH",
+                  "name": "LIVE 11 - TỔNG ÔN TRỌNG TÂM ESTER (VIP1 + VIP2)_2.mp4",
+                  "mimeType": "video/mp4",
+                  "size": 269235714,
+                  "webViewLink": "https://drive.google.com/file/d/1a9g1RZU-Ak1YVIGIK4AsOfOdmuup1HoH/view?usp=drivesdk",
+                  "modifiedTime": "2026-05-18T01:28:19.210Z",
+                  "videoMediaMetadata": null
+                },
+                {
+                  "id": "1seykYUUK9ni2ypJTxUkb3Y8kO_l9tzwK",
+                  "name": "vt LIVE 11 - TỔNG ÔN TRỌNG TÂM ESTER (VIP1 + VIP2).pdf",
+                  "mimeType": "application/pdf",
+                  "size": 5426596,
+                  "webViewLink": "https://drive.google.com/file/d/1seykYUUK9ni2ypJTxUkb3Y8kO_l9tzwK/view?usp=drivesdk",
+                  "modifiedTime": "2026-05-18T01:28:20.167Z",
+                  "videoMediaMetadata": null
+                }
+              ]
+            },
+            {
+              "id": "1487p5h9D4L2PAq_sViiy8upLmvF9K1p5",
+              "name": "12. LIVE 12 - TỔNG ÔN TRỌNG TÂM CHẤT BÉO",
+              "webViewLink": "https://drive.google.com/drive/folders/1487p5h9D4L2PAq_sViiy8upLmvF9K1p5",
+              "modifiedTime": "2026-05-18T01:27:26.165Z",
+              "children": [],
+              "files": [
+                {
+                  "id": "134bi89VGDLjP91h1fGmfuAgDyHACjwwl",
+                  "name": "giãn LIVE 12 - TỔNG ÔN TRỌNG TÂM CHẤT BÉO.pdf",
+                  "mimeType": "application/pdf",
+                  "size": 525439,
+                  "webViewLink": "https://drive.google.com/file/d/134bi89VGDLjP91h1fGmfuAgDyHACjwwl/view?usp=drivesdk",
+                  "modifiedTime": "2026-05-18T01:27:45.923Z",
+                  "videoMediaMetadata": null
+                },
+                {
+                  "id": "1P1dAoHQ_taOcB_6dzKGL3L_bKgNZ2Q1P",
+                  "name": "LIVE 12 - TỔNG ÔN TRỌNG TÂM CHẤT BÉO.mp4",
+                  "mimeType": "video/mp4",
+                  "size": 295411381,
+                  "webViewLink": "https://drive.google.com/file/d/1P1dAoHQ_taOcB_6dzKGL3L_bKgNZ2Q1P/view?usp=drivesdk",
+                  "modifiedTime": "2026-05-18T01:27:42.225Z",
+                  "videoMediaMetadata": null
+                },
+                {
+                  "id": "1V28z1CZNumUkXII0xK4Zr7dVAL2EO4h2",
+                  "name": "LIVE 12 - TỔNG ÔN TRỌNG TÂM CHẤT BÉO.pdf",
+                  "mimeType": "application/pdf",
+                  "size": 507911,
+                  "webViewLink": "https://drive.google.com/file/d/1V28z1CZNumUkXII0xK4Zr7dVAL2EO4h2/view?usp=drivesdk",
+                  "modifiedTime": "2026-05-18T01:27:44.599Z",
+                  "videoMediaMetadata": null
+                },
+                {
+                  "id": "1j89yWTlKFUjQFiReDRMi2W0PG39qlq9v",
+                  "name": "vt LIVE 12 - TỔNG ÔN TRỌNG TÂM CHẤT BÉO.pdf",
+                  "mimeType": "application/pdf",
+                  "size": 2116105,
+                  "webViewLink": "https://drive.google.com/file/d/1j89yWTlKFUjQFiReDRMi2W0PG39qlq9v/view?usp=drivesdk",
+                  "modifiedTime": "2026-05-18T01:27:43.048Z",
+                  "videoMediaMetadata": null
+                }
+              ]
+            },
+            {
+              "id": "1DsJlNQ-uSfKAuwfp4FpgNx6Qo5lPl3rS",
+              "name": "13. LIVE 13 - TỔNG ÔN TRỌNG TÂM XÀ PHÒNG & CHẤT GIẶT RỬA",
+              "webViewLink": "https://drive.google.com/drive/folders/1DsJlNQ-uSfKAuwfp4FpgNx6Qo5lPl3rS",
+              "modifiedTime": "2026-05-21T13:54:56.444Z",
+              "children": [],
+              "files": [
+                {
+                  "id": "17ihzAI5OC-aY7TnHcA9wKleSOukJ9KWC",
+                  "name": "giãn LIVE 13 - TỔNG ÔN TRỌNG TÂM XÀ PHÒNG & CHẤT GIẶT RỬA.pdf",
+                  "mimeType": "application/pdf",
+                  "size": 386947,
+                  "webViewLink": "https://drive.google.com/file/d/17ihzAI5OC-aY7TnHcA9wKleSOukJ9KWC/view?usp=drivesdk",
+                  "modifiedTime": "2026-05-21T16:34:31.523Z",
+                  "videoMediaMetadata": null
+                },
+                {
+                  "id": "1_1GqXz5CFYFINRVa26pfaxPnnnSm4n4T",
+                  "name": "LIVE 13 - TỔNG ÔN TRỌNG TÂM XÀ PHÒNG & CHẤT GIẶT RỬA.mp4",
+                  "mimeType": "video/mp4",
+                  "size": 300175463,
+                  "webViewLink": "https://drive.google.com/file/d/1_1GqXz5CFYFINRVa26pfaxPnnnSm4n4T/view?usp=drivesdk",
+                  "modifiedTime": "2026-05-22T08:39:57.320Z",
+                  "videoMediaMetadata": null
+                },
+                {
+                  "id": "1jDKjqV_Y5QdsxdNmwSoORQ8P2KZF_vZc",
+                  "name": "LIVE 13 - TỔNG ÔN TRỌNG TÂM XÀ PHÒNG & CHẤT GIẶT RỬA.pdf",
+                  "mimeType": "application/pdf",
+                  "size": 373607,
+                  "webViewLink": "https://drive.google.com/file/d/1jDKjqV_Y5QdsxdNmwSoORQ8P2KZF_vZc/view?usp=drivesdk",
+                  "modifiedTime": "2026-05-21T16:34:31.423Z",
+                  "videoMediaMetadata": null
+                },
+                {
+                  "id": "1-ADyn_z8w099XJSl4bsA9iwjkYf1RLVf",
+                  "name": "vt LIVE 13 - TỔNG ÔN TRỌNG TÂM XÀ PHÒNG & CHẤT GIẶT RỬA.pdf",
+                  "mimeType": "application/pdf",
+                  "size": 1694452,
+                  "webViewLink": "https://drive.google.com/file/d/1-ADyn_z8w099XJSl4bsA9iwjkYf1RLVf/view?usp=drivesdk",
+                  "modifiedTime": "2026-05-21T16:34:31.286Z",
+                  "videoMediaMetadata": null
+                }
+              ]
+            },
+            {
+              "id": "1Tyt25TIalNvQ0ubwzM-TAHzdWzOkLAO_",
+              "name": "14. LIVE 14 - TỔNG ÔN TOÀN DIỆN CHUYÊN ĐỀ 1 | LẦN 1",
+              "webViewLink": "https://drive.google.com/drive/folders/1Tyt25TIalNvQ0ubwzM-TAHzdWzOkLAO_",
+              "modifiedTime": "2026-05-21T13:54:54.797Z",
+              "children": [],
+              "files": [
+                {
+                  "id": "1ep0ZpaoCQQDJ7yJZOsud2GI0weTPQgtf",
+                  "name": "giãn LIVE 14 - TỔNG ÔN TOÀN DIỆN CHUYÊN ĐỀ 1  LẦN 1.pdf",
+                  "mimeType": "application/pdf",
+                  "size": 411017,
+                  "webViewLink": "https://drive.google.com/file/d/1ep0ZpaoCQQDJ7yJZOsud2GI0weTPQgtf/view?usp=drivesdk",
+                  "modifiedTime": "2026-05-21T16:34:31.073Z",
+                  "videoMediaMetadata": null
+                },
+                {
+                  "id": "1O9_qS1GQJ-Dww8ul2wYdZoAnF_gX1cQi",
+                  "name": "LIVE 14 - TỔNG ÔN TOÀN DIỆN CHUYÊN ĐỀ 1  LẦN 1.pdf",
+                  "mimeType": "application/pdf",
+                  "size": 373891,
+                  "webViewLink": "https://drive.google.com/file/d/1O9_qS1GQJ-Dww8ul2wYdZoAnF_gX1cQi/view?usp=drivesdk",
+                  "modifiedTime": "2026-05-21T16:34:31.065Z",
+                  "videoMediaMetadata": null
+                },
+                {
+                  "id": "1273vRf3hqRBuc9uN9H2Q2FOrJDSs-ZUG",
+                  "name": "LIVE 14 - TỔNG ÔN TOÀN DIỆN CHUYÊN ĐỀ 1 - LẦN 1.mp4",
+                  "mimeType": "video/mp4",
+                  "size": 403512226,
+                  "webViewLink": "https://drive.google.com/file/d/1273vRf3hqRBuc9uN9H2Q2FOrJDSs-ZUG/view?usp=drivesdk",
+                  "modifiedTime": "2026-05-22T08:39:38.815Z",
+                  "videoMediaMetadata": null
+                },
+                {
+                  "id": "1PHJ-0rtr4unrAvjm6OAg94sC-fEuz6TR",
+                  "name": "vt LIVE 14 - TỔNG ÔN TOÀN DIỆN CHUYÊN ĐỀ 1  LẦN 1.pdf",
+                  "mimeType": "application/pdf",
+                  "size": 2940741,
+                  "webViewLink": "https://drive.google.com/file/d/1PHJ-0rtr4unrAvjm6OAg94sC-fEuz6TR/view?usp=drivesdk",
+                  "modifiedTime": "2026-05-21T16:34:31.064Z",
+                  "videoMediaMetadata": null
+                }
+              ]
+            },
+            {
+              "id": "1I9oGLtANH4IWDq6C8LamdueXsWAlwzId",
+              "name": "15. LIVE 15 - TỔNG ÔN TOÀN DIỆN CHUYÊN ĐỀ 1 | LẦN 2 (MEGALIVE)",
+              "webViewLink": "https://drive.google.com/drive/folders/1I9oGLtANH4IWDq6C8LamdueXsWAlwzId",
+              "modifiedTime": "2026-05-21T13:54:53.118Z",
+              "children": [],
+              "files": [
+                {
+                  "id": "1IfY5DTOqbbBFZ1yyt-YaV-kxXIm5gEf1",
+                  "name": "giãn LIVE 15 - TỔNG ÔN TOÀN DIỆN CHUYÊN ĐỀ 1  LẦN 2 (MEGALIVE).pdf",
+                  "mimeType": "application/pdf",
+                  "size": 1270758,
+                  "webViewLink": "https://drive.google.com/file/d/1IfY5DTOqbbBFZ1yyt-YaV-kxXIm5gEf1/view?usp=drivesdk",
+                  "modifiedTime": "2026-05-21T16:34:30.631Z",
+                  "videoMediaMetadata": null
+                },
+                {
+                  "id": "1M6Sm5515x8KmW7e-QAkf4NPVRm_7yHXG",
+                  "name": "LIVE 15 - TỔNG ÔN TOÀN DIỆN CHUYÊN ĐỀ 1  LẦN 2 (MEGALIVE).pdf",
+                  "mimeType": "application/pdf",
+                  "size": 1237234,
+                  "webViewLink": "https://drive.google.com/file/d/1M6Sm5515x8KmW7e-QAkf4NPVRm_7yHXG/view?usp=drivesdk",
+                  "modifiedTime": "2026-05-21T16:34:30.581Z",
+                  "videoMediaMetadata": null
+                },
+                {
+                  "id": "1ViSvqgf5HWH3YDqk7LVumqf4gUOIJ-6H",
+                  "name": "LIVE 15 - TỔNG ÔN TOÀN DIỆN CHUYÊN ĐỀ 1 - LẦN 2 (MEGALIVE).mp4",
+                  "mimeType": "video/mp4",
+                  "size": 353723980,
+                  "webViewLink": "https://drive.google.com/file/d/1ViSvqgf5HWH3YDqk7LVumqf4gUOIJ-6H/view?usp=drivesdk",
+                  "modifiedTime": "2026-05-22T08:37:53.450Z",
+                  "videoMediaMetadata": null
+                },
+                {
+                  "id": "1d-AD0qETM9veQA0jfu-5IS8EuX7uNYV4",
+                  "name": "LIVE 15 - TỔNG ÔN TOÀN DIỆN CHUYÊN ĐỀ 1 - LẦN 2 (MEGALIVE)_2.mp4",
+                  "mimeType": "video/mp4",
+                  "size": 511894801,
+                  "webViewLink": "https://drive.google.com/file/d/1d-AD0qETM9veQA0jfu-5IS8EuX7uNYV4/view?usp=drivesdk",
+                  "modifiedTime": "2026-05-22T08:37:24.424Z",
+                  "videoMediaMetadata": null
+                },
+                {
+                  "id": "1FdRXRD9KDt56HbzEkNvY3ND0lFBpRxFl",
+                  "name": "LIVE 15 - TỔNG ÔN TOÀN DIỆN CHUYÊN ĐỀ 1 - LẦN 2 (MEGALIVE)_3.mp4",
+                  "mimeType": "video/mp4",
+                  "size": 261514276,
+                  "webViewLink": "https://drive.google.com/file/d/1FdRXRD9KDt56HbzEkNvY3ND0lFBpRxFl/view?usp=drivesdk",
+                  "modifiedTime": "2026-05-22T08:37:37.742Z",
+                  "videoMediaMetadata": {
+                    "width": 1920,
+                    "height": 1080,
+                    "durationMillis": "3190186"
+                  }
+                },
+                {
+                  "id": "1Wt4-r2pbXJZdePCoavBknEcMY8TI5Ncr",
+                  "name": "vt LIVE 15 - TỔNG ÔN TOÀN DIỆN CHUYÊN ĐỀ 1  LẦN 2 (MEGALIVE).pdf",
+                  "mimeType": "application/pdf",
+                  "size": 8427962,
+                  "webViewLink": "https://drive.google.com/file/d/1Wt4-r2pbXJZdePCoavBknEcMY8TI5Ncr/view?usp=drivesdk",
+                  "modifiedTime": "2026-05-21T16:34:30.578Z",
+                  "videoMediaMetadata": null
+                }
+              ]
+            },
+            {
+              "id": "1UAYxJTgNGO2nyeTYP_nI-yk6voyf1U3x",
+              "name": "2. LIVE 2 - LÝ THUYẾT TRỌNG TÂM ESTER | VIP2",
+              "webViewLink": "https://drive.google.com/drive/folders/1UAYxJTgNGO2nyeTYP_nI-yk6voyf1U3x",
+              "modifiedTime": "2026-05-10T03:15:49.558Z",
+              "children": [],
+              "files": [
+                {
+                  "id": "1xa1zJDS9VzU9b8gQTdRLvWzWsmb7i3wX",
+                  "name": "giãn LIVE 2 - LÝ THUYẾT TRỌNG TÂM ESTER  VIP2.pdf",
+                  "mimeType": "application/pdf",
+                  "size": 568408,
+                  "webViewLink": "https://drive.google.com/file/d/1xa1zJDS9VzU9b8gQTdRLvWzWsmb7i3wX/view?usp=drivesdk",
+                  "modifiedTime": "2026-05-10T03:15:52.208Z",
+                  "videoMediaMetadata": null
+                },
+                {
+                  "id": "1Bpif7-v-Z6zOQ9R-PBk4L71DfygpJxM7",
+                  "name": "LIVE 2 - LÝ THUYẾT TRỌNG TÂM ESTER  VIP2.pdf",
+                  "mimeType": "application/pdf",
+                  "size": 539768,
+                  "webViewLink": "https://drive.google.com/file/d/1Bpif7-v-Z6zOQ9R-PBk4L71DfygpJxM7/view?usp=drivesdk",
+                  "modifiedTime": "2026-05-10T03:15:53.054Z",
+                  "videoMediaMetadata": null
+                },
+                {
+                  "id": "1DjmdebcJGpHP18D2EZuzo7QnBhPAx3vT",
+                  "name": "LIVE 2 - LÝ THUYẾT TRỌNG TÂM ESTER - VIP2.mp4",
+                  "mimeType": "video/mp4",
+                  "size": 186018649,
+                  "webViewLink": "https://drive.google.com/file/d/1DjmdebcJGpHP18D2EZuzo7QnBhPAx3vT/view?usp=drivesdk",
+                  "modifiedTime": "2026-05-10T09:21:57.038Z",
+                  "videoMediaMetadata": null
+                },
+                {
+                  "id": "1nn-HCynSWc3q09jm_TMO3WXalLinThh0",
+                  "name": "LIVE 2 - LÝ THUYẾT TRỌNG TÂM ESTER - VIP2_2.mp4",
+                  "mimeType": "video/mp4",
+                  "size": 258832273,
+                  "webViewLink": "https://drive.google.com/file/d/1nn-HCynSWc3q09jm_TMO3WXalLinThh0/view?usp=drivesdk",
+                  "modifiedTime": "2026-05-10T08:36:42.151Z",
+                  "videoMediaMetadata": null
+                },
+                {
+                  "id": "1KUvY9esspu1FuyAOCNtx8LCh4g3JSPkp",
+                  "name": "vt LIVE 2 - LÝ THUYẾT TRỌNG TÂM ESTER  VIP2.pdf",
+                  "mimeType": "application/pdf",
+                  "size": 7279509,
+                  "webViewLink": "https://drive.google.com/file/d/1KUvY9esspu1FuyAOCNtx8LCh4g3JSPkp/view?usp=drivesdk",
+                  "modifiedTime": "2026-05-10T03:15:51.181Z",
+                  "videoMediaMetadata": null
+                }
+              ]
+            },
+            {
+              "id": "1B9T2gcJ9nHwiQblaRKqYqoTxprX9J7bO",
+              "name": "3. LIVE 3 - LÝ THUYẾT TRỌNG TÂM ESTER | VIP3",
+              "webViewLink": "https://drive.google.com/drive/folders/1B9T2gcJ9nHwiQblaRKqYqoTxprX9J7bO",
+              "modifiedTime": "2026-05-10T03:15:45.071Z",
+              "children": [],
+              "files": [
+                {
+                  "id": "1PNogk2T5-FRHDCatjlRRm7fOKSmjZVfF",
+                  "name": "giãn LIVE 3 - LÝ THUYẾT TRỌNG TÂM ESTER  VIP3.pdf",
+                  "mimeType": "application/pdf",
+                  "size": 663082,
+                  "webViewLink": "https://drive.google.com/file/d/1PNogk2T5-FRHDCatjlRRm7fOKSmjZVfF/view?usp=drivesdk",
+                  "modifiedTime": "2026-05-10T03:15:48.477Z",
+                  "videoMediaMetadata": null
+                },
+                {
+                  "id": "1MADlnptLrOlZOqC7-UGZ3E0TcaPak_Bj",
+                  "name": "LIVE 3 - LÝ THUYẾT TRỌNG TÂM ESTER  VIP3.pdf",
+                  "mimeType": "application/pdf",
+                  "size": 647412,
+                  "webViewLink": "https://drive.google.com/file/d/1MADlnptLrOlZOqC7-UGZ3E0TcaPak_Bj/view?usp=drivesdk",
+                  "modifiedTime": "2026-05-10T03:15:47.626Z",
+                  "videoMediaMetadata": null
+                },
+                {
+                  "id": "1w6JBE9p0fKcO_9YdplKuQHxmJlUURi-Y",
+                  "name": "LIVE 3 - LÝ THUYẾT TRỌNG TÂM ESTER - VIP3.mp4",
+                  "mimeType": "video/mp4",
+                  "size": 218206688,
+                  "webViewLink": "https://drive.google.com/file/d/1w6JBE9p0fKcO_9YdplKuQHxmJlUURi-Y/view?usp=drivesdk",
+                  "modifiedTime": "2026-05-10T08:29:21.008Z",
+                  "videoMediaMetadata": null
+                },
+                {
+                  "id": "13nsXktQQXQ-smnF34ht041YJ_RHmTmJl",
+                  "name": "LIVE 3 - LÝ THUYẾT TRỌNG TÂM ESTER - VIP3_2.mp4",
+                  "mimeType": "video/mp4",
+                  "size": 218504368,
+                  "webViewLink": "https://drive.google.com/file/d/13nsXktQQXQ-smnF34ht041YJ_RHmTmJl/view?usp=drivesdk",
+                  "modifiedTime": "2026-05-10T08:20:07.542Z",
+                  "videoMediaMetadata": null
+                },
+                {
+                  "id": "1i2vKi0hlAcD9SQrahmeLa3-Zkm-f-x4K",
+                  "name": "vt LIVE 3 - LÝ THUYẾT TRỌNG TÂM ESTER  VIP3.pdf",
+                  "mimeType": "application/pdf",
+                  "size": 7003074,
+                  "webViewLink": "https://drive.google.com/file/d/1i2vKi0hlAcD9SQrahmeLa3-Zkm-f-x4K/view?usp=drivesdk",
+                  "modifiedTime": "2026-05-10T03:15:46.714Z",
+                  "videoMediaMetadata": null
+                }
+              ]
+            },
+            {
+              "id": "1eUziApHQ5Ikj5euOI5U9URYATJK6OGb6",
+              "name": "4. LIVE 4 - LÝ THUYẾT TRỌNG TÂM ESTER | VIP4",
+              "webViewLink": "https://drive.google.com/drive/folders/1eUziApHQ5Ikj5euOI5U9URYATJK6OGb6",
+              "modifiedTime": "2026-05-10T03:15:40.025Z",
+              "children": [],
+              "files": [
+                {
+                  "id": "1H16eWsIkLuQ_bBO8h1I6zu05_X99G48O",
+                  "name": "giãn LIVE 4 - LÝ THUYẾT TRỌNG TÂM ESTER  VIP4.pdf",
+                  "mimeType": "application/pdf",
+                  "size": 1311170,
+                  "webViewLink": "https://drive.google.com/file/d/1H16eWsIkLuQ_bBO8h1I6zu05_X99G48O/view?usp=drivesdk",
+                  "modifiedTime": "2026-05-10T03:15:44.062Z",
+                  "videoMediaMetadata": null
+                },
+                {
+                  "id": "1Btc9JzxAkUgR6zUIx1VXJXQlQMIRN9Bq",
+                  "name": "LIVE 4 - LÝ THUYẾT TRỌNG TÂM ESTER  VIP4.pdf",
+                  "mimeType": "application/pdf",
+                  "size": 1303116,
+                  "webViewLink": "https://drive.google.com/file/d/1Btc9JzxAkUgR6zUIx1VXJXQlQMIRN9Bq/view?usp=drivesdk",
+                  "modifiedTime": "2026-05-10T03:15:43.131Z",
+                  "videoMediaMetadata": null
+                },
+                {
+                  "id": "1-voaFWikj3KiK7Jmc1OVUDJQZklhwHGZ",
+                  "name": "LIVE 4 - LÝ THUYẾT TRỌNG TÂM ESTER - VIP4.mp4",
+                  "mimeType": "video/mp4",
+                  "size": 284018947,
+                  "webViewLink": "https://drive.google.com/file/d/1-voaFWikj3KiK7Jmc1OVUDJQZklhwHGZ/view?usp=drivesdk",
+                  "modifiedTime": "2026-05-10T07:51:55.123Z",
+                  "videoMediaMetadata": null
+                },
+                {
+                  "id": "1lq9qEl2ZAu8VoVSjs1_IOH2XHf24Rnnc",
+                  "name": "LIVE 4 - LÝ THUYẾT TRỌNG TÂM ESTER - VIP4_2.mp4",
+                  "mimeType": "video/mp4",
+                  "size": 466510283,
+                  "webViewLink": "https://drive.google.com/file/d/1lq9qEl2ZAu8VoVSjs1_IOH2XHf24Rnnc/view?usp=drivesdk",
+                  "modifiedTime": "2026-05-10T08:11:27.926Z",
+                  "videoMediaMetadata": null
+                },
+                {
+                  "id": "1UqGSpwfB1r0I_YBB3xEaFNA_1sFd1CeO",
+                  "name": "vt LIVE 4 - LÝ THUYẾT TRỌNG TÂM ESTER  VIP4.pdf",
+                  "mimeType": "application/pdf",
+                  "size": 5706151,
+                  "webViewLink": "https://drive.google.com/file/d/1UqGSpwfB1r0I_YBB3xEaFNA_1sFd1CeO/view?usp=drivesdk",
+                  "modifiedTime": "2026-05-10T03:15:41.850Z",
+                  "videoMediaMetadata": null
+                }
+              ]
+            },
+            {
+              "id": "1pvC7PfISKOtlHAnltYdDFggUDmtoB6Uf",
+              "name": "5. LIVE 5 - LÝ THUYẾT TRỌNG TÂM LIPID VÀ CHẤT BÉO",
+              "webViewLink": "https://drive.google.com/drive/folders/1pvC7PfISKOtlHAnltYdDFggUDmtoB6Uf",
+              "modifiedTime": "2026-05-10T03:15:34.243Z",
+              "children": [],
+              "files": [
+                {
+                  "id": "1cxNgCACcgLQzWwQkU9Rb6fcakh3XoIVC",
+                  "name": "giãn LIVE 5 - LÝ THUYẾT TRỌNG TÂM LIPID VÀ CHẤT BÉO.pdf",
+                  "mimeType": "application/pdf",
+                  "size": 1462181,
+                  "webViewLink": "https://drive.google.com/file/d/1cxNgCACcgLQzWwQkU9Rb6fcakh3XoIVC/view?usp=drivesdk",
+                  "modifiedTime": "2026-05-10T03:15:39.139Z",
+                  "videoMediaMetadata": null
+                },
+                {
+                  "id": "1AXDgep7jyiEA7P0KQvtiv_FrC_yQKTu1",
+                  "name": "LIVE 5 - LÝ THUYẾT TRỌNG TÂM LIPID VÀ CHẤT BÉO.mp4",
+                  "mimeType": "video/mp4",
+                  "size": 272935187,
+                  "webViewLink": "https://drive.google.com/file/d/1AXDgep7jyiEA7P0KQvtiv_FrC_yQKTu1/view?usp=drivesdk",
+                  "modifiedTime": "2026-05-10T07:41:01.490Z",
+                  "videoMediaMetadata": {
+                    "width": 0,
+                    "height": 0,
+                    "durationMillis": "0"
+                  }
+                },
+                {
+                  "id": "146LpCRjzUaoNjC2C49bW0sPnXduCsyO7",
+                  "name": "LIVE 5 - LÝ THUYẾT TRỌNG TÂM LIPID VÀ CHẤT BÉO.pdf",
+                  "mimeType": "application/pdf",
+                  "size": 1428516,
+                  "webViewLink": "https://drive.google.com/file/d/146LpCRjzUaoNjC2C49bW0sPnXduCsyO7/view?usp=drivesdk",
+                  "modifiedTime": "2026-05-10T03:15:38.254Z",
+                  "videoMediaMetadata": null
+                },
+                {
+                  "id": "1Wreno6i3qT8aQdhfyn6SQYePchVNrgWI",
+                  "name": "LIVE 5 - LÝ THUYẾT TRỌNG TÂM LIPID VÀ CHẤT BÉO_2.mp4",
+                  "mimeType": "video/mp4",
+                  "size": 420151740,
+                  "webViewLink": "https://drive.google.com/file/d/1Wreno6i3qT8aQdhfyn6SQYePchVNrgWI/view?usp=drivesdk",
+                  "modifiedTime": "2026-05-10T07:21:43.886Z",
+                  "videoMediaMetadata": {
+                    "width": 0,
+                    "height": 0,
+                    "durationMillis": "0"
+                  }
+                },
+                {
+                  "id": "1p1ugGq8tIvs_vX2MWHT1uctWsGVutnit",
+                  "name": "vt LIVE 5 - LÝ THUYẾT TRỌNG TÂM LIPID VÀ CHẤT BÉO.pdf",
+                  "mimeType": "application/pdf",
+                  "size": 6209795,
+                  "webViewLink": "https://drive.google.com/file/d/1p1ugGq8tIvs_vX2MWHT1uctWsGVutnit/view?usp=drivesdk",
+                  "modifiedTime": "2026-05-10T03:15:37.245Z",
+                  "videoMediaMetadata": null
+                }
+              ]
+            },
+            {
+              "id": "1DCaAOdSDpgLoSSj5QneWnWI-RWpa6dYe",
+              "name": "6. LIVE 6 - LÝ THUYẾT XÀ PHÒNG VÀ CHẤT GIẶT RỬA",
+              "webViewLink": "https://drive.google.com/drive/folders/1DCaAOdSDpgLoSSj5QneWnWI-RWpa6dYe",
+              "modifiedTime": "2026-05-10T03:15:27.978Z",
+              "children": [],
+              "files": [
+                {
+                  "id": "1hcy9sbmcfgqN59dOZKGqU-NyU8O9M8fn",
+                  "name": "giãn LIVE 6 - LÝ THUYẾT XÀ PHÒNG VÀ CHẤT GIẶT RỬA.pdf",
+                  "mimeType": "application/pdf",
+                  "size": 1423601,
+                  "webViewLink": "https://drive.google.com/file/d/1hcy9sbmcfgqN59dOZKGqU-NyU8O9M8fn/view?usp=drivesdk",
+                  "modifiedTime": "2026-05-10T03:15:30.827Z",
+                  "videoMediaMetadata": null
+                },
+                {
+                  "id": "1WHBkMkoeCPKF8kX5W5Hh84M1t4sEz_MD",
+                  "name": "LIVE 6 - LÝ THUYẾT XÀ PHÒNG VÀ CHẤT GIẶT RỬA.mp4",
+                  "mimeType": "video/mp4",
+                  "size": 186127145,
+                  "webViewLink": "https://drive.google.com/file/d/1WHBkMkoeCPKF8kX5W5Hh84M1t4sEz_MD/view?usp=drivesdk",
+                  "modifiedTime": "2026-05-10T06:36:49.740Z",
+                  "videoMediaMetadata": {
+                    "width": 1920,
+                    "height": 1080,
+                    "durationMillis": "1813845"
+                  }
+                },
+                {
+                  "id": "1GXiWUHMOccVmRp4pRJIZsCM2GUMXWH5c",
+                  "name": "LIVE 6 - LÝ THUYẾT XÀ PHÒNG VÀ CHẤT GIẶT RỬA.pdf",
+                  "mimeType": "application/pdf",
+                  "size": 1405971,
+                  "webViewLink": "https://drive.google.com/file/d/1GXiWUHMOccVmRp4pRJIZsCM2GUMXWH5c/view?usp=drivesdk",
+                  "modifiedTime": "2026-05-10T03:15:32.356Z",
+                  "videoMediaMetadata": null
+                },
+                {
+                  "id": "1s7Sm1RuY56NvNORW99_pckJtpH9xwLhR",
+                  "name": "LIVE 6 - LÝ THUYẾT XÀ PHÒNG VÀ CHẤT GIẶT RỬA_2.mp4",
+                  "mimeType": "video/mp4",
+                  "size": 227728402,
+                  "webViewLink": "https://drive.google.com/file/d/1s7Sm1RuY56NvNORW99_pckJtpH9xwLhR/view?usp=drivesdk",
+                  "modifiedTime": "2026-05-10T06:17:09.993Z",
+                  "videoMediaMetadata": null
+                },
+                {
+                  "id": "1XglpdS_3MPnkeZyzl_d2AENYvsoloEY8",
+                  "name": "vt LIVE 6 - LÝ THUYẾT XÀ PHÒNG VÀ CHẤT GIẶT RỬA.pdf",
+                  "mimeType": "application/pdf",
+                  "size": 4028778,
+                  "webViewLink": "https://drive.google.com/file/d/1XglpdS_3MPnkeZyzl_d2AENYvsoloEY8/view?usp=drivesdk",
+                  "modifiedTime": "2026-05-10T03:15:29.814Z",
+                  "videoMediaMetadata": null
+                }
+              ]
+            },
+            {
+              "id": "13HLBGOQlKDUoFzsjV7snxguWhC_Du6SE",
+              "name": "7. LIVE 7 - BÀI TẬP HIỆU SUẤT PHẢN ỨNG ESTER HÓA",
+              "webViewLink": "https://drive.google.com/drive/folders/13HLBGOQlKDUoFzsjV7snxguWhC_Du6SE",
+              "modifiedTime": "2026-05-10T03:15:27.311Z",
+              "children": [],
+              "files": []
+            },
+            {
+              "id": "1MyQuRUR-jowD_sxqhEu381-kZf0vaXM4",
+              "name": "8. LIVE 8 - BÀI TẬP XÀ PHÒNG HÓA ESTER ĐƠN CHỨC",
+              "webViewLink": "https://drive.google.com/drive/folders/1MyQuRUR-jowD_sxqhEu381-kZf0vaXM4",
+              "modifiedTime": "2026-05-18T01:34:24.415Z",
+              "children": [],
+              "files": [
+                {
+                  "id": "1y7I4N2dLFoHYePFX1fQ00xrp8HYjRt0M",
+                  "name": "giãn LIVE 8 - BÀI TẬP XÀ PHÒNG HÓA ESTER ĐƠN CHỨC.pdf",
+                  "mimeType": "application/pdf",
+                  "size": 432767,
+                  "webViewLink": "https://drive.google.com/file/d/1y7I4N2dLFoHYePFX1fQ00xrp8HYjRt0M/view?usp=drivesdk",
+                  "modifiedTime": "2026-05-18T01:35:01.683Z",
+                  "videoMediaMetadata": null
+                },
+                {
+                  "id": "1KjsntcW0NJNErnZkUpZBr9JeNzKcF27y",
+                  "name": "LIVE 8 - BÀI TẬP XÀ PHÒNG HÓA ESTER ĐƠN CHỨC.mp4",
+                  "mimeType": "video/mp4",
+                  "size": 360138038,
+                  "webViewLink": "https://drive.google.com/file/d/1KjsntcW0NJNErnZkUpZBr9JeNzKcF27y/view?usp=drivesdk",
+                  "modifiedTime": "2026-05-18T01:34:57.773Z",
+                  "videoMediaMetadata": null
+                },
+                {
+                  "id": "1rd7eoQkCn6Cv78hAuKW_vjL5XAWyUHoT",
+                  "name": "LIVE 8 - BÀI TẬP XÀ PHÒNG HÓA ESTER ĐƠN CHỨC.pdf",
+                  "mimeType": "application/pdf",
+                  "size": 413426,
+                  "webViewLink": "https://drive.google.com/file/d/1rd7eoQkCn6Cv78hAuKW_vjL5XAWyUHoT/view?usp=drivesdk",
+                  "modifiedTime": "2026-05-18T01:35:00.188Z",
+                  "videoMediaMetadata": null
+                },
+                {
+                  "id": "1g-o6e4ZDD5JHZknDiD-eT0rFnhvAYG26",
+                  "name": "LIVE 8 - BÀI TẬP XÀ PHÒNG HÓA ESTER ĐƠN CHỨC_2.mp4",
+                  "mimeType": "video/mp4",
+                  "size": 270163362,
+                  "webViewLink": "https://drive.google.com/file/d/1g-o6e4ZDD5JHZknDiD-eT0rFnhvAYG26/view?usp=drivesdk",
+                  "modifiedTime": "2026-05-18T01:34:40.736Z",
+                  "videoMediaMetadata": null
+                },
+                {
+                  "id": "1Ur6Lj1MTRWSI90D1O7twj_XJlzNat6uN",
+                  "name": "vt LIVE 8 - BÀI TẬP XÀ PHÒNG HÓA ESTER ĐƠN CHỨC.pdf",
+                  "mimeType": "application/pdf",
+                  "size": 5824720,
+                  "webViewLink": "https://drive.google.com/file/d/1Ur6Lj1MTRWSI90D1O7twj_XJlzNat6uN/view?usp=drivesdk",
+                  "modifiedTime": "2026-05-18T01:34:58.594Z",
+                  "videoMediaMetadata": null
+                }
+              ]
+            },
+            {
+              "id": "1WHzxRf8hZc47Wag9MyEEEC9yq-Z54UXt",
+              "name": "9. LIVE 9 - BÀI TẬP XÀ PHÒNG HÓA ESTER ĐA CHỨC",
+              "webViewLink": "https://drive.google.com/drive/folders/1WHzxRf8hZc47Wag9MyEEEC9yq-Z54UXt",
+              "modifiedTime": "2026-05-18T01:32:00.987Z",
+              "children": [],
+              "files": [
+                {
+                  "id": "199iMDCuQXjgzYiTltCedXg6OBToCmHlq",
+                  "name": "giãn LIVE 9 - BÀI TẬP XÀ PHÒNG HÓA ESTER ĐA CHỨC.pdf",
+                  "mimeType": "application/pdf",
+                  "size": 334546,
+                  "webViewLink": "https://drive.google.com/file/d/199iMDCuQXjgzYiTltCedXg6OBToCmHlq/view?usp=drivesdk",
+                  "modifiedTime": "2026-05-18T01:34:22.626Z",
+                  "videoMediaMetadata": null
+                },
+                {
+                  "id": "1vBc-yh3Qxyoll51ms8tCMYhPpfI_z3g-",
+                  "name": "LIVE 9 - BÀI TẬP XÀ PHÒNG HÓA ESTER ĐA CHỨC.mp4",
+                  "mimeType": "video/mp4",
+                  "size": 550052038,
+                  "webViewLink": "https://drive.google.com/file/d/1vBc-yh3Qxyoll51ms8tCMYhPpfI_z3g-/view?usp=drivesdk",
+                  "modifiedTime": "2026-05-18T01:34:16.334Z",
+                  "videoMediaMetadata": null
+                },
+                {
+                  "id": "16wWy0QkvQHBIwql2WmF7CK-uh11MxLz8",
+                  "name": "LIVE 9 - BÀI TẬP XÀ PHÒNG HÓA ESTER ĐA CHỨC.pdf",
+                  "mimeType": "application/pdf",
+                  "size": 324927,
+                  "webViewLink": "https://drive.google.com/file/d/16wWy0QkvQHBIwql2WmF7CK-uh11MxLz8/view?usp=drivesdk",
+                  "modifiedTime": "2026-05-18T01:34:17.747Z",
+                  "videoMediaMetadata": null
+                },
+                {
+                  "id": "1YK2hUWrDev-YQwmOZNhMatCyzeShL59n",
+                  "name": "vt LIVE 9 - BÀI TẬP XÀ PHÒNG HÓA ESTER ĐA CHỨC.pdf",
+                  "mimeType": "application/pdf",
+                  "size": 3232802,
+                  "webViewLink": "https://drive.google.com/file/d/1YK2hUWrDev-YQwmOZNhMatCyzeShL59n/view?usp=drivesdk",
+                  "modifiedTime": "2026-05-18T01:34:18.939Z",
+                  "videoMediaMetadata": null
+                }
+              ]
+            }
+          ],
+          "files": []
+        },
+        {
+          "id": "1GqMUQLHBovetLILdD9qSemYcLmnZ4uns",
+          "name": "3. CHUYÊN ĐỀ 2 - TRỌNG TÂM (CARBOHYDRATE)\t\t\t",
+          "webViewLink": "https://drive.google.com/drive/folders/1GqMUQLHBovetLILdD9qSemYcLmnZ4uns",
+          "modifiedTime": "2026-05-01T13:59:08.711Z",
+          "children": [
+            {
+              "id": "11_nTBQlJo4T8tHFkr0UgZXDMWfqqgJPp",
+              "name": "1. LIVE 17 - LÝ THUYẾT TRỌNG TÂM GLUCOSE & FRUCTOSE",
+              "webViewLink": "https://drive.google.com/drive/folders/11_nTBQlJo4T8tHFkr0UgZXDMWfqqgJPp",
+              "modifiedTime": "2026-05-21T13:54:50.643Z",
+              "children": [],
+              "files": [
+                {
+                  "id": "1QWnB8bDdmCT4Ldw-3BLXIn6mQvVZERpX",
+                  "name": "giãn LIVE 17 - LÝ THUYẾT TRỌNG TÂM GLUCOSE & FRUCTOSE.pdf",
+                  "mimeType": "application/pdf",
+                  "size": 430679,
+                  "webViewLink": "https://drive.google.com/file/d/1QWnB8bDdmCT4Ldw-3BLXIn6mQvVZERpX/view?usp=drivesdk",
+                  "modifiedTime": "2026-05-21T16:34:29.652Z",
+                  "videoMediaMetadata": null
+                },
+                {
+                  "id": "1OyOWy6Kva1kOscVXcbq3jmYjksvlLhlt",
+                  "name": "LIVE 17 - LÝ THUYẾT TRỌNG TÂM GLUCOSE & FRUCTOSE.mp4",
+                  "mimeType": "video/mp4",
+                  "size": 396019568,
+                  "webViewLink": "https://drive.google.com/file/d/1OyOWy6Kva1kOscVXcbq3jmYjksvlLhlt/view?usp=drivesdk",
+                  "modifiedTime": "2026-05-22T08:35:17.363Z",
+                  "videoMediaMetadata": {
+                    "width": 1920,
+                    "height": 1080,
+                    "durationMillis": "5858552"
+                  }
+                },
+                {
+                  "id": "1ZnzPAHDgRoLzILxXDQM1uEwzMFIm_hoo",
+                  "name": "LIVE 17 - LÝ THUYẾT TRỌNG TÂM GLUCOSE & FRUCTOSE.pdf",
+                  "mimeType": "application/pdf",
+                  "size": 419311,
+                  "webViewLink": "https://drive.google.com/file/d/1ZnzPAHDgRoLzILxXDQM1uEwzMFIm_hoo/view?usp=drivesdk",
+                  "modifiedTime": "2026-05-21T16:34:29.659Z",
+                  "videoMediaMetadata": null
+                },
+                {
+                  "id": "1OJy6YrcumI4FCFt4NGK5PpXZxiLweOdG",
+                  "name": "LIVE 17 - LÝ THUYẾT TRỌNG TÂM GLUCOSE & FRUCTOSE_2.mp4",
+                  "mimeType": "video/mp4",
+                  "size": 199911116,
+                  "webViewLink": "https://drive.google.com/file/d/1OJy6YrcumI4FCFt4NGK5PpXZxiLweOdG/view?usp=drivesdk",
+                  "modifiedTime": "2026-05-22T08:35:28.947Z",
+                  "videoMediaMetadata": null
+                },
+                {
+                  "id": "1eB0nGhJFFZ9mWPIawovrGuBqsDLGAL5S",
+                  "name": "vt LIVE 17 - LÝ THUYẾT TRỌNG TÂM GLUCOSE & FRUCTOSE.pdf",
+                  "mimeType": "application/pdf",
+                  "size": 4573707,
+                  "webViewLink": "https://drive.google.com/file/d/1eB0nGhJFFZ9mWPIawovrGuBqsDLGAL5S/view?usp=drivesdk",
+                  "modifiedTime": "2026-05-21T16:34:29.664Z",
+                  "videoMediaMetadata": null
+                }
+              ]
+            },
+            {
+              "id": "1w961GlxvKl3_2DKwk085wKxHAifAniCl",
+              "name": "2. LIVE 18 - LÝ THUYẾT TRỌNG TÂM SACCHAROSE & MALTOSE",
+              "webViewLink": "https://drive.google.com/drive/folders/1w961GlxvKl3_2DKwk085wKxHAifAniCl",
+              "modifiedTime": "2026-05-21T13:54:49.183Z",
+              "children": [],
+              "files": [
+                {
+                  "id": "1kQmrF1DpBoSKHaVp-FS5FPzWSPptcyEv",
+                  "name": "giãn LIVE 18 - LÝ THUYẾT TRỌNG TÂM SACCHAROSE & MALTOSE.pdf",
+                  "mimeType": "application/pdf",
+                  "size": 423779,
+                  "webViewLink": "https://drive.google.com/file/d/1kQmrF1DpBoSKHaVp-FS5FPzWSPptcyEv/view?usp=drivesdk",
+                  "modifiedTime": "2026-05-21T16:34:29.384Z",
+                  "videoMediaMetadata": null
+                },
+                {
+                  "id": "1FPaC9Vnr0MyQvWs6rBTK2nVgSVA9Eyma",
+                  "name": "LIVE 18 - LÝ THUYẾT TRỌNG TÂM SACCHAROSE & MALTOSE.mp4",
+                  "mimeType": "video/mp4",
+                  "size": 351266774,
+                  "webViewLink": "https://drive.google.com/file/d/1FPaC9Vnr0MyQvWs6rBTK2nVgSVA9Eyma/view?usp=drivesdk",
+                  "modifiedTime": "2026-05-22T08:33:24.038Z",
+                  "videoMediaMetadata": null
+                },
+                {
+                  "id": "1uU54FGfobHrglgdsV-13EfiRsf3-QLyu",
+                  "name": "LIVE 18 - LÝ THUYẾT TRỌNG TÂM SACCHAROSE & MALTOSE.pdf",
+                  "mimeType": "application/pdf",
+                  "size": 413620,
+                  "webViewLink": "https://drive.google.com/file/d/1uU54FGfobHrglgdsV-13EfiRsf3-QLyu/view?usp=drivesdk",
+                  "modifiedTime": "2026-05-21T16:34:29.372Z",
+                  "videoMediaMetadata": null
+                },
+                {
+                  "id": "16JCcwrlMzEqOLTJktoIzUfk33Cti7LZo",
+                  "name": "LIVE 18 - LÝ THUYẾT TRỌNG TÂM SACCHAROSE & MALTOSE_2.mp4",
+                  "mimeType": "video/mp4",
+                  "size": 255481732,
+                  "webViewLink": "https://drive.google.com/file/d/16JCcwrlMzEqOLTJktoIzUfk33Cti7LZo/view?usp=drivesdk",
+                  "modifiedTime": "2026-05-22T08:33:06.912Z",
+                  "videoMediaMetadata": null
+                },
+                {
+                  "id": "1jgzykuTOtB4eeOrLPqe7bZ9W2MAXEeLG",
+                  "name": "vt LIVE 18 - LÝ THUYẾT TRỌNG TÂM SACCHAROSE & MALTOSE .pdf",
+                  "mimeType": "application/pdf",
+                  "size": 3838341,
+                  "webViewLink": "https://drive.google.com/file/d/1jgzykuTOtB4eeOrLPqe7bZ9W2MAXEeLG/view?usp=drivesdk",
+                  "modifiedTime": "2026-05-21T16:34:29.315Z",
+                  "videoMediaMetadata": null
+                }
+              ]
+            },
+            {
+              "id": "1oFZ_Qss0SzinOKtBVDrEkk3ut2ydgqk5",
+              "name": "3. LIVE 19 - LÝ THUYẾT TRỌNG TÂM TINH BỘT VÀ CELLULOSE",
+              "webViewLink": "https://drive.google.com/drive/folders/1oFZ_Qss0SzinOKtBVDrEkk3ut2ydgqk5",
+              "modifiedTime": "2026-05-24T07:47:04.276Z",
+              "children": [],
+              "files": [
+                {
+                  "id": "1ysEmnioCVz445Osk0A70m1IVHmRKhURB",
+                  "name": "giãn LIVE 19 - LÝ THUYẾT TRỌNG TÂM TINH BỘT VÀ CELLULOSE.pdf",
+                  "mimeType": "application/pdf",
+                  "size": 454705,
+                  "webViewLink": "https://drive.google.com/file/d/1ysEmnioCVz445Osk0A70m1IVHmRKhURB/view?usp=drivesdk",
+                  "modifiedTime": "2026-05-24T08:26:15.311Z",
+                  "videoMediaMetadata": null
+                },
+                {
+                  "id": "13FA-4qapaHysctwOFH8EmRPQjPzmctjx",
+                  "name": "LIVE 19 - LÝ THUYẾT TRỌNG TÂM TINH BỘT VÀ CELLULOSE.mp4",
+                  "mimeType": "video/mp4",
+                  "size": 425664031,
+                  "webViewLink": "https://drive.google.com/file/d/13FA-4qapaHysctwOFH8EmRPQjPzmctjx/view?usp=drivesdk",
+                  "modifiedTime": "2026-05-24T14:40:27.791Z",
+                  "videoMediaMetadata": null
+                },
+                {
+                  "id": "1ku2y1Sh1xgAOINe_H-4c8MLwLENn95aD",
+                  "name": "LIVE 19 - LÝ THUYẾT TRỌNG TÂM TINH BỘT VÀ CELLULOSE.pdf",
+                  "mimeType": "application/pdf",
+                  "size": 433836,
+                  "webViewLink": "https://drive.google.com/file/d/1ku2y1Sh1xgAOINe_H-4c8MLwLENn95aD/view?usp=drivesdk",
+                  "modifiedTime": "2026-05-24T08:26:15.233Z",
+                  "videoMediaMetadata": null
+                },
+                {
+                  "id": "1u3FrzkW-hWU6ZTNqpGqhzteOsd8xu_jC",
+                  "name": "LIVE 19 - LÝ THUYẾT TRỌNG TÂM TINH BỘT VÀ CELLULOSE_2.mp4",
+                  "mimeType": "video/mp4",
+                  "size": 176378857,
+                  "webViewLink": "https://drive.google.com/file/d/1u3FrzkW-hWU6ZTNqpGqhzteOsd8xu_jC/view?usp=drivesdk",
+                  "modifiedTime": "2026-05-24T14:40:39.566Z",
+                  "videoMediaMetadata": null
+                },
+                {
+                  "id": "1vFOEGZBocr7F0HeS_aDDSoeVNONzAnv6",
+                  "name": "vt LIVE 19 - LÝ THUYẾT TRỌNG TÂM TINH BỘT VÀ CELLULOSE.pdf",
+                  "mimeType": "application/pdf",
+                  "size": 3948548,
+                  "webViewLink": "https://drive.google.com/file/d/1vFOEGZBocr7F0HeS_aDDSoeVNONzAnv6/view?usp=drivesdk",
+                  "modifiedTime": "2026-05-24T08:26:15.239Z",
+                  "videoMediaMetadata": null
+                }
+              ]
+            },
+            {
+              "id": "1GLypYIS8MZVNYKaYHt7Tru2MiLPJJw7B",
+              "name": "4. LIVE 20 - BÀI TOÁN THỰC TẾ TRÁNG BẠC, GƯƠNG SOI",
+              "webViewLink": "https://drive.google.com/drive/folders/1GLypYIS8MZVNYKaYHt7Tru2MiLPJJw7B",
+              "modifiedTime": "2026-05-24T07:47:02.179Z",
+              "children": [],
+              "files": [
+                {
+                  "id": "1HSUJXv8-nk8kmHM4icg5-TImz7JN2B4z",
+                  "name": "giãn LIVE 20 - BÀI TOÁN THỰC TẾ TRÁNG BẠC, GƯƠNG SOI.pdf",
+                  "mimeType": "application/pdf",
+                  "size": 380312,
+                  "webViewLink": "https://drive.google.com/file/d/1HSUJXv8-nk8kmHM4icg5-TImz7JN2B4z/view?usp=drivesdk",
+                  "modifiedTime": "2026-05-24T08:26:14.901Z",
+                  "videoMediaMetadata": null
+                },
+                {
+                  "id": "1AvMb74VdW2FWI04NuArnM2YBGOOgTzvy",
+                  "name": "LIVE 20 - BÀI TOÁN THỰC TẾ TRÁNG BẠC, GƯƠNG SOI.mp4",
+                  "mimeType": "video/mp4",
+                  "size": 171625219,
+                  "webViewLink": "https://drive.google.com/file/d/1AvMb74VdW2FWI04NuArnM2YBGOOgTzvy/view?usp=drivesdk",
+                  "modifiedTime": "2026-05-24T14:38:31.930Z",
+                  "videoMediaMetadata": null
+                },
+                {
+                  "id": "1segKI96nets1MgzAOqQBrjPAuIZc2boy",
+                  "name": "LIVE 20 - BÀI TOÁN THỰC TẾ TRÁNG BẠC, GƯƠNG SOI.pdf",
+                  "mimeType": "application/pdf",
+                  "size": 363383,
+                  "webViewLink": "https://drive.google.com/file/d/1segKI96nets1MgzAOqQBrjPAuIZc2boy/view?usp=drivesdk",
+                  "modifiedTime": "2026-05-24T08:26:14.888Z",
+                  "videoMediaMetadata": null
+                },
+                {
+                  "id": "1ZJJtwlNMI6CQC4j-C-vML13fbcwYeIXs",
+                  "name": "LIVE 20 - BÀI TOÁN THỰC TẾ TRÁNG BẠC, GƯƠNG SOI_2.mp4",
+                  "mimeType": "video/mp4",
+                  "size": 543894198,
+                  "webViewLink": "https://drive.google.com/file/d/1ZJJtwlNMI6CQC4j-C-vML13fbcwYeIXs/view?usp=drivesdk",
+                  "modifiedTime": "2026-05-24T14:38:14.917Z",
+                  "videoMediaMetadata": null
+                },
+                {
+                  "id": "1czbBzUdHbpdQu8Wvdbz-t8rGBtWOAOUx",
+                  "name": "vt LIVE 20 - BÀI TOÁN THỰC TẾ TRÁNG BẠC, GƯƠNG SOI.pdf",
+                  "mimeType": "application/pdf",
+                  "size": 5120518,
+                  "webViewLink": "https://drive.google.com/file/d/1czbBzUdHbpdQu8Wvdbz-t8rGBtWOAOUx/view?usp=drivesdk",
+                  "modifiedTime": "2026-05-24T08:26:15.043Z",
+                  "videoMediaMetadata": null
+                }
+              ]
+            },
+            {
+              "id": "17xhSOUbJX5eOz_2N1WiEizmoNqxWBAp9",
+              "name": "5. LIVE 21 - BÀI TOÁN LÊN MEN, SẢN XUẤT RƯỢU, XĂNG",
+              "webViewLink": "https://drive.google.com/drive/folders/17xhSOUbJX5eOz_2N1WiEizmoNqxWBAp9",
+              "modifiedTime": "2026-05-24T07:47:00.966Z",
+              "children": [],
+              "files": [
+                {
+                  "id": "19mnkfLaYDUfW5FfO8NNQlCTZBOUPCDJr",
+                  "name": "giãn LIVE 21 - BÀI TOÁN LÊN MEN, SẢN XUẤT RƯỢU, XĂNG.pdf",
+                  "mimeType": "application/pdf",
+                  "size": 360414,
+                  "webViewLink": "https://drive.google.com/file/d/19mnkfLaYDUfW5FfO8NNQlCTZBOUPCDJr/view?usp=drivesdk",
+                  "modifiedTime": "2026-05-24T08:26:14.785Z",
+                  "videoMediaMetadata": null
+                },
+                {
+                  "id": "1u4tl6iH6wRdQziEU4dlwYkJe5_gr4T9T",
+                  "name": "LIVE 21 - BÀI TOÁN LÊN MEN, SẢN XUẤT RƯỢU, XĂNG.mp4",
+                  "mimeType": "video/mp4",
+                  "size": 110842027,
+                  "webViewLink": "https://drive.google.com/file/d/1u4tl6iH6wRdQziEU4dlwYkJe5_gr4T9T/view?usp=drivesdk",
+                  "modifiedTime": "2026-05-24T14:33:44.754Z",
+                  "videoMediaMetadata": null
+                },
+                {
+                  "id": "1MpMMdTvT8ayUiEOMPY_9xNcrgwxatm2K",
+                  "name": "LIVE 21 - BÀI TOÁN LÊN MEN, SẢN XUẤT RƯỢU, XĂNG.pdf",
+                  "mimeType": "application/pdf",
+                  "size": 334401,
+                  "webViewLink": "https://drive.google.com/file/d/1MpMMdTvT8ayUiEOMPY_9xNcrgwxatm2K/view?usp=drivesdk",
+                  "modifiedTime": "2026-05-24T08:26:14.526Z",
+                  "videoMediaMetadata": null
+                },
+                {
+                  "id": "1jWhJ4z3Ullp82Vin-WnTOzCHAxssFnWl",
+                  "name": "LIVE 21 - BÀI TOÁN LÊN MEN, SẢN XUẤT RƯỢU, XĂNG_2.mp4",
+                  "mimeType": "video/mp4",
+                  "size": 540205996,
+                  "webViewLink": "https://drive.google.com/file/d/1jWhJ4z3Ullp82Vin-WnTOzCHAxssFnWl/view?usp=drivesdk",
+                  "modifiedTime": "2026-05-24T14:35:57.797Z",
+                  "videoMediaMetadata": null
+                },
+                {
+                  "id": "1ZQEk14M0AKbWpM8Ynv2Ca_PlWxNT6gnM",
+                  "name": "vt LIVE 21 - BÀI TOÁN LÊN MEN, SẢN XUẤT RƯỢU, XĂNG.pdf",
+                  "mimeType": "application/pdf",
+                  "size": 4125250,
+                  "webViewLink": "https://drive.google.com/file/d/1ZQEk14M0AKbWpM8Ynv2Ca_PlWxNT6gnM/view?usp=drivesdk",
+                  "modifiedTime": "2026-05-24T08:26:14.517Z",
+                  "videoMediaMetadata": null
+                }
+              ]
+            },
+            {
+              "id": "1BUgZFV4k9WSc40yaclfbKXe4hxXM4vFQ",
+              "name": "6. LIVE 22 - BÀI TOÁN THỰC TẾ CARBOHYDRATE MỞ RỘNG",
+              "webViewLink": "https://drive.google.com/drive/folders/1BUgZFV4k9WSc40yaclfbKXe4hxXM4vFQ",
+              "modifiedTime": "2026-05-24T07:46:59.432Z",
+              "children": [],
+              "files": [
+                {
+                  "id": "171v62hHg3m2uNpk6LcqCGQp66eIU0ZD4",
+                  "name": "giãn LIVE 22 - BÀI TOÁN THỰC TẾ CARBOHYDRATE MỞ RỘNG.pdf",
+                  "mimeType": "application/pdf",
+                  "size": 409954,
+                  "webViewLink": "https://drive.google.com/file/d/171v62hHg3m2uNpk6LcqCGQp66eIU0ZD4/view?usp=drivesdk",
+                  "modifiedTime": "2026-05-24T08:26:14.265Z",
+                  "videoMediaMetadata": null
+                },
+                {
+                  "id": "1dMgb5GqpIFwLiXxokLtuHiQhpBYeygoa",
+                  "name": "LIVE 22 - BÀI TOÁN THỰC TẾ CARBOHYDRATE MỞ RỘNG.mp4",
+                  "mimeType": "video/mp4",
+                  "size": 124446118,
+                  "webViewLink": "https://drive.google.com/file/d/1dMgb5GqpIFwLiXxokLtuHiQhpBYeygoa/view?usp=drivesdk",
+                  "modifiedTime": "2026-05-24T14:32:01.022Z",
+                  "videoMediaMetadata": null
+                },
+                {
+                  "id": "1r2Jc9VSK40D0pWZfGI2ahn__fft5EWDD",
+                  "name": "LIVE 22 - BÀI TOÁN THỰC TẾ CARBOHYDRATE MỞ RỘNG.pdf",
+                  "mimeType": "application/pdf",
+                  "size": 400415,
+                  "webViewLink": "https://drive.google.com/file/d/1r2Jc9VSK40D0pWZfGI2ahn__fft5EWDD/view?usp=drivesdk",
+                  "modifiedTime": "2026-05-24T08:26:14.288Z",
+                  "videoMediaMetadata": null
+                },
+                {
+                  "id": "1mGKNWXGi2zGw3g1A7IF_9ow5tLowTT4l",
+                  "name": "LIVE 22 - BÀI TOÁN THỰC TẾ CARBOHYDRATE MỞ RỘNG_2.mp4",
+                  "mimeType": "video/mp4",
+                  "size": 539056237,
+                  "webViewLink": "https://drive.google.com/file/d/1mGKNWXGi2zGw3g1A7IF_9ow5tLowTT4l/view?usp=drivesdk",
+                  "modifiedTime": "2026-05-24T14:31:33.486Z",
+                  "videoMediaMetadata": {
+                    "width": 1920,
+                    "height": 1080,
+                    "durationMillis": "6847840"
+                  }
+                },
+                {
+                  "id": "1KULRHxksoebR-2OAWKlDNz1o8YO860HU",
+                  "name": "vt LIVE 22 - BÀI TOÁN THỰC TẾ CARBOHYDRATE MỞ RỘNG.pdf",
+                  "mimeType": "application/pdf",
+                  "size": 4312109,
+                  "webViewLink": "https://drive.google.com/file/d/1KULRHxksoebR-2OAWKlDNz1o8YO860HU/view?usp=drivesdk",
+                  "modifiedTime": "2026-05-24T08:26:14.266Z",
+                  "videoMediaMetadata": null
+                }
+              ]
+            },
+            {
+              "id": "1bOo1phNVFpzyAv1esIsTXa_GwBRZMpVz",
+              "name": "7. LIVE 23 - TỔNG ÔN TOÀN DIỆN CARBOHYDRATE (MEGALIVE)",
+              "webViewLink": "https://drive.google.com/drive/folders/1bOo1phNVFpzyAv1esIsTXa_GwBRZMpVz",
+              "modifiedTime": "2026-05-24T07:46:58.309Z",
+              "children": [],
+              "files": [
+                {
+                  "id": "1xjBXZyvN27HDXelyc-koPMwbUocsLT_o",
+                  "name": "giãn LIVE 23 - TỔNG ÔN TOÀN DIỆN CARBOHYDRATE (MEGALIVE).pdf",
+                  "mimeType": "application/pdf",
+                  "size": 782856,
+                  "webViewLink": "https://drive.google.com/file/d/1xjBXZyvN27HDXelyc-koPMwbUocsLT_o/view?usp=drivesdk",
+                  "modifiedTime": "2026-05-24T08:26:13.846Z",
+                  "videoMediaMetadata": null
+                },
+                {
+                  "id": "1ARo2KBEVKpe2opYK3l1M3ZPUOV5pMPms",
+                  "name": "LIVE 23 - TỔNG ÔN TOÀN DIỆN CARBOHYDRATE (MEGALIVE).mp4",
+                  "mimeType": "video/mp4",
+                  "size": 598046033,
+                  "webViewLink": "https://drive.google.com/file/d/1ARo2KBEVKpe2opYK3l1M3ZPUOV5pMPms/view?usp=drivesdk",
+                  "modifiedTime": "2026-05-24T14:28:51.940Z",
+                  "videoMediaMetadata": null
+                },
+                {
+                  "id": "1upBLKvtjnNyWVnPO_mgW9KVIk320hfWO",
+                  "name": "LIVE 23 - TỔNG ÔN TOÀN DIỆN CARBOHYDRATE (MEGALIVE).pdf",
+                  "mimeType": "application/pdf",
+                  "size": 772060,
+                  "webViewLink": "https://drive.google.com/file/d/1upBLKvtjnNyWVnPO_mgW9KVIk320hfWO/view?usp=drivesdk",
+                  "modifiedTime": "2026-05-24T08:26:13.836Z",
+                  "videoMediaMetadata": null
+                },
+                {
+                  "id": "18YhRSLm1KxrJctodwmiUEk6_YG6U7N9c",
+                  "name": "vt LIVE 23 - TỔNG ÔN TOÀN DIỆN CARBOHYDRATE (MEGALIVE).pdf",
+                  "mimeType": "application/pdf",
+                  "size": 4168845,
+                  "webViewLink": "https://drive.google.com/file/d/18YhRSLm1KxrJctodwmiUEk6_YG6U7N9c/view?usp=drivesdk",
+                  "modifiedTime": "2026-05-24T08:26:13.838Z",
+                  "videoMediaMetadata": null
+                }
+              ]
+            }
+          ],
+          "files": []
+        }
+      ],
+      "files": [
+        {
+          "id": "17ooVq88oK_44twfSpv_PXrG1uDs3zHjKDjlUlNQpgd4",
+          "name": "Copy of LƯU Ý CỦA THẦY: XPS LÀ KHOÁ K8 HỌC TRƯỚC TRONG LÚC ĐỢI LIVE VIP CHÍNH THỨC 1/7\t\t\t",
+          "mimeType": "application/vnd.google-apps.document",
+          "size": 346639,
+          "webViewLink": "https://docs.google.com/document/d/17ooVq88oK_44twfSpv_PXrG1uDs3zHjKDjlUlNQpgd4/edit?usp=drivesdk",
+          "modifiedTime": "2026-05-29T12:36:45.530Z",
+          "videoMediaMetadata": null
+        },
+        {
+          "id": "1WFZkItyb413UyySx9wOCuz9Y-72ZSXBACDj8dhD3Zjs",
+          "name": "Copy of LƯU Ý CỦA THẦY: XPS LÀ KHOÁ K8 HỌC TRƯỚC TRONG LÚC ĐỢI LIVE VIP CHÍNH THỨC 1/7\t\t\t",
+          "mimeType": "application/vnd.google-apps.document",
+          "size": 346639,
+          "webViewLink": "https://docs.google.com/document/d/1WFZkItyb413UyySx9wOCuz9Y-72ZSXBACDj8dhD3Zjs/edit?usp=drivesdk",
+          "modifiedTime": "2026-05-29T09:05:40.401Z",
+          "videoMediaMetadata": null
+        },
+        {
+          "id": "1BMfHgHe3kE4G7g7htcAnOxVSK-Iyx24JLaN7yPvNM6c",
+          "name": "Copy of LƯU Ý CỦA THẦY: XPS LÀ KHOÁ K8 HỌC TRƯỚC TRONG LÚC ĐỢI LIVE VIP CHÍNH THỨC 1/7\t\t\t",
+          "mimeType": "application/vnd.google-apps.document",
+          "size": 346639,
+          "webViewLink": "https://docs.google.com/document/d/1BMfHgHe3kE4G7g7htcAnOxVSK-Iyx24JLaN7yPvNM6c/edit?usp=drivesdk",
+          "modifiedTime": "2026-05-28T09:02:23.433Z",
+          "videoMediaMetadata": null
+        },
+        {
+          "id": "1uXc8yVlCtjNFZ_Zhz26dHyDL9chjcr-4K1f_gMZGvfU",
+          "name": "Copy of LƯU Ý CỦA THẦY: XPS LÀ KHOÁ K8 HỌC TRƯỚC TRONG LÚC ĐỢI LIVE VIP CHÍNH THỨC 1/7\t\t\t",
+          "mimeType": "application/vnd.google-apps.document",
+          "size": 346640,
+          "webViewLink": "https://docs.google.com/document/d/1uXc8yVlCtjNFZ_Zhz26dHyDL9chjcr-4K1f_gMZGvfU/edit?usp=drivesdk",
+          "modifiedTime": "2026-05-26T12:37:00.477Z",
+          "videoMediaMetadata": null
+        },
+        {
+          "id": "1YciZ6QcGQNDQjr1zyZofdl4Zu6uf7YBrm25m_6gR1AQ",
+          "name": "Copy of LƯU Ý CỦA THẦY: XPS LÀ KHOÁ K8 HỌC TRƯỚC TRONG LÚC ĐỢI LIVE VIP CHÍNH THỨC 1/7\t\t\t",
+          "mimeType": "application/vnd.google-apps.document",
+          "size": 346639,
+          "webViewLink": "https://docs.google.com/document/d/1YciZ6QcGQNDQjr1zyZofdl4Zu6uf7YBrm25m_6gR1AQ/edit?usp=drivesdk",
+          "modifiedTime": "2026-05-24T14:26:07.913Z",
+          "videoMediaMetadata": null
+        },
+        {
+          "id": "1xbRQ-Vns4rMWTqOfDO5Owc8QF92MfKZ_FHXKendCgtM",
+          "name": "Copy of LƯU Ý CỦA THẦY: XPS LÀ KHOÁ K8 HỌC TRƯỚC TRONG LÚC ĐỢI LIVE VIP CHÍNH THỨC 1/7\t\t\t",
+          "mimeType": "application/vnd.google-apps.document",
+          "size": 346639,
+          "webViewLink": "https://docs.google.com/document/d/1xbRQ-Vns4rMWTqOfDO5Owc8QF92MfKZ_FHXKendCgtM/edit?usp=drivesdk",
+          "modifiedTime": "2026-05-22T08:32:49.292Z",
+          "videoMediaMetadata": null
+        },
+        {
+          "id": "1E_y7gpfP1QEnpKUM50Y2LMUWs7Ll-am5QrSf6cT8HrU",
+          "name": "Copy of LƯU Ý CỦA THẦY: XPS LÀ KHOÁ K8 HỌC TRƯỚC TRONG LÚC ĐỢI LIVE VIP CHÍNH THỨC 1/7\t\t\t",
+          "mimeType": "application/vnd.google-apps.document",
+          "size": 346639,
+          "webViewLink": "https://docs.google.com/document/d/1E_y7gpfP1QEnpKUM50Y2LMUWs7Ll-am5QrSf6cT8HrU/edit?usp=drivesdk",
+          "modifiedTime": "2026-05-21T13:39:52.639Z",
+          "videoMediaMetadata": null
+        },
+        {
+          "id": "1MDHIb576ONQYPut1E6kbVftLf150Q-zCa5ZNT5OZomE",
+          "name": "Copy of LƯU Ý CỦA THẦY: XPS LÀ KHOÁ K8 HỌC TRƯỚC TRONG LÚC ĐỢI LIVE VIP CHÍNH THỨC 1/7\t\t\t",
+          "mimeType": "application/vnd.google-apps.document",
+          "size": 346637,
+          "webViewLink": "https://docs.google.com/document/d/1MDHIb576ONQYPut1E6kbVftLf150Q-zCa5ZNT5OZomE/edit?usp=drivesdk",
+          "modifiedTime": "2026-05-21T06:23:27.814Z",
+          "videoMediaMetadata": null
+        },
+        {
+          "id": "1pccx6ZrvA8AhQM-TR4A0ZndgXZsyiSfh_N44zTj1oOA",
+          "name": "Copy of LƯU Ý CỦA THẦY: XPS LÀ KHOÁ K8 HỌC TRƯỚC TRONG LÚC ĐỢI LIVE VIP CHÍNH THỨC 1/7\t\t\t",
+          "mimeType": "application/vnd.google-apps.document",
+          "size": 346639,
+          "webViewLink": "https://docs.google.com/document/d/1pccx6ZrvA8AhQM-TR4A0ZndgXZsyiSfh_N44zTj1oOA/edit?usp=drivesdk",
+          "modifiedTime": "2026-05-21T06:18:38.336Z",
+          "videoMediaMetadata": null
+        },
+        {
+          "id": "1fKA6lv5wzipMYzpmUegWA7JwMiW9YBSJhm0Ls-amI_0",
+          "name": "Copy of LƯU Ý CỦA THẦY: XPS LÀ KHOÁ K8 HỌC TRƯỚC TRONG LÚC ĐỢI LIVE VIP CHÍNH THỨC 1/7\t\t\t",
+          "mimeType": "application/vnd.google-apps.document",
+          "size": 346640,
+          "webViewLink": "https://docs.google.com/document/d/1fKA6lv5wzipMYzpmUegWA7JwMiW9YBSJhm0Ls-amI_0/edit?usp=drivesdk",
+          "modifiedTime": "2026-05-21T05:51:25.225Z",
+          "videoMediaMetadata": null
+        },
+        {
+          "id": "1VkhZpLr0qwVh_aEuUgo6w3a2Gd96kN9wBZ_g5UQuBKs",
+          "name": "Copy of LƯU Ý CỦA THẦY: XPS LÀ KHOÁ K8 HỌC TRƯỚC TRONG LÚC ĐỢI LIVE VIP CHÍNH THỨC 1/7\t\t\t",
+          "mimeType": "application/vnd.google-apps.document",
+          "size": 346639,
+          "webViewLink": "https://docs.google.com/document/d/1VkhZpLr0qwVh_aEuUgo6w3a2Gd96kN9wBZ_g5UQuBKs/edit?usp=drivesdk",
+          "modifiedTime": "2026-05-19T09:14:45.015Z",
+          "videoMediaMetadata": null
+        },
+        {
+          "id": "1HumTMg-l4zbbGSlnjQneRY-Kbk8Jg69eG07XBUYGZDE",
+          "name": "Copy of LƯU Ý CỦA THẦY: XPS LÀ KHOÁ K8 HỌC TRƯỚC TRONG LÚC ĐỢI LIVE VIP CHÍNH THỨC 1/7\t\t\t",
+          "mimeType": "application/vnd.google-apps.document",
+          "size": 346638,
+          "webViewLink": "https://docs.google.com/document/d/1HumTMg-l4zbbGSlnjQneRY-Kbk8Jg69eG07XBUYGZDE/edit?usp=drivesdk",
+          "modifiedTime": "2026-05-19T09:14:32.676Z",
+          "videoMediaMetadata": null
+        }
+      ],
+      "webViewLink": "https://drive.google.com/drive/folders/13p-uHV0kleMpFLqetzVSI8jNPPVZHfq-",
+      "modifiedTime": "2026-04-19T23:14:59.246Z"
+    },
+    {
+      "id": "13K1zJBZbQMF86BGpUqV02vv9-oRR1VjB",
+      "name": "1. KHOÁ LIVE T - CHUYÊN ĐỀ (NỀN TẢNG HOÁ 12)",
+      "children": [],
+      "files": [],
+      "webViewLink": "https://drive.google.com/drive/folders/13K1zJBZbQMF86BGpUqV02vv9-oRR1VjB",
+      "modifiedTime": "2026-04-19T23:15:03.767Z"
+    },
+    {
+      "id": "1CN7tWsMWJ0opbH3Ylk10cwlD346bqyLH",
+      "name": "2. KHOÁ VẬN DỤNG CAO 9+ (2027)",
+      "children": [],
+      "files": [],
+      "webViewLink": "https://drive.google.com/drive/folders/1CN7tWsMWJ0opbH3Ylk10cwlD346bqyLH",
+      "modifiedTime": "2026-04-19T23:15:03.175Z"
+    },
+    {
+      "id": "1mltW6EU2mnQQc5ouBf_jPdMzcLKMzWl7",
+      "name": "3. KHÓA LIVE H - LUYỆN ĐỀ THỰC CHIẾN",
+      "children": [],
+      "files": [],
+      "webViewLink": "https://drive.google.com/drive/folders/1mltW6EU2mnQQc5ouBf_jPdMzcLKMzWl7",
+      "modifiedTime": "2026-04-19T23:15:02.583Z"
+    },
+    {
+      "id": "15da70TVHetw2iIClOomWtIKBTCUvzlrx",
+      "name": "4. KHÓA LIVE Y - TỔNG ÔN TOÀN DIỆN",
+      "children": [],
+      "files": [],
+      "webViewLink": "https://drive.google.com/drive/folders/15da70TVHetw2iIClOomWtIKBTCUvzlrx",
+      "modifiedTime": "2026-04-19T23:15:01.913Z"
+    },
+    {
+      "id": "1BP7_vtwTSXh9rdlp8luBX4xZy0Gago4M",
+      "name": "BONUS TƯ VẤN - ĐỒNG HÀNH LOVEVIP",
+      "children": [],
+      "files": [],
+      "webViewLink": "https://drive.google.com/drive/folders/1BP7_vtwTSXh9rdlp8luBX4xZy0Gago4M",
+      "modifiedTime": "2026-04-19T23:14:59.867Z"
+    },
+    {
+      "id": "1nH4S4I6t4wRnKXhys-ljxIV36quKuiQ6",
+      "name": "KHOÁ BỔ TRỢ ÔN THI HỌC SINH GIỎI",
+      "children": [],
+      "files": [],
+      "webViewLink": "https://drive.google.com/drive/folders/1nH4S4I6t4wRnKXhys-ljxIV36quKuiQ6",
+      "modifiedTime": "2026-04-19T23:15:00.598Z"
+    },
+    {
+      "id": "1dUjlCNYyiQ4Psa1AMj876f_6XB00mdBB",
+      "name": "KHOÁ BỔ TRỢ ÔN THI ĐGNL VÀ ĐGTD",
+      "children": [],
+      "files": [],
+      "webViewLink": "https://drive.google.com/drive/folders/1dUjlCNYyiQ4Psa1AMj876f_6XB00mdBB",
+      "modifiedTime": "2026-04-19T23:15:01.268Z"
+    },
+    {
+      "id": "1l1DiJeSTUDi5QhF8d93q23x3x-rndqS1",
+      "name": "Z. EBOOK SÁCH KÈM KHOÁ HỌC",
+      "children": [],
+      "files": [],
+      "webViewLink": "https://drive.google.com/drive/folders/1l1DiJeSTUDi5QhF8d93q23x3x-rndqS1",
+      "modifiedTime": "2026-04-19T23:15:05.047Z"
+    }
+  ]
+}

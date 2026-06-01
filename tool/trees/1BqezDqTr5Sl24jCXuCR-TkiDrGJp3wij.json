@@ -1,0 +1,1434 @@
+{
+  "crawledAt": "2026-05-29T12:52:24.716Z",
+  "teacher": {
+    "id": "1BqezDqTr5Sl24jCXuCR-TkiDrGJp3wij",
+    "name": "5. TOÁN THẦY NGUYỄN PHAN TIẾN 2K9 ",
+    "modifiedTime": "2026-05-27T15:31:47.444Z",
+    "webViewLink": "https://drive.google.com/drive/folders/1BqezDqTr5Sl24jCXuCR-TkiDrGJp3wij"
+  },
+  "courses": [
+    {
+      "id": "1bn5r7lKPoGZUWrbz0Do2KUUIhcPM6JBI",
+      "name": "0. INFO THÔNG TIN VÀ HƯỚNG DẪN KHOÁ HỌC",
+      "children": [],
+      "files": [],
+      "webViewLink": "https://drive.google.com/drive/folders/1bn5r7lKPoGZUWrbz0Do2KUUIhcPM6JBI",
+      "modifiedTime": "2026-04-18T14:18:01.547Z"
+    },
+    {
+      "id": "1MfECW0oMR9JFC_0PwHNJA-d3BuMT6SFh",
+      "name": "1. KHOÁ S CHUYÊN ĐỀ (Video quay sẵn, học ngay)",
+      "children": [
+        {
+          "id": "1_7AfT3q9T8UDKII2j0vUY93WUCkI8wOY",
+          "name": "1.  Chương 1. Hàm Số và Ứng Dụng Đạo Hàm\t\t\t",
+          "webViewLink": "https://drive.google.com/drive/folders/1_7AfT3q9T8UDKII2j0vUY93WUCkI8wOY",
+          "modifiedTime": "2026-05-06T16:27:55.178Z",
+          "children": [
+            {
+              "id": "1JS7LBPl4uKJf10sLmLx2861l6aDO-Gw4",
+              "name": "1,. Bài 1.1 Tính Đơn Điệu Của Hàm Số",
+              "webViewLink": "https://drive.google.com/drive/folders/1JS7LBPl4uKJf10sLmLx2861l6aDO-Gw4",
+              "modifiedTime": "2026-05-06T16:28:23.220Z",
+              "children": [],
+              "files": [
+                {
+                  "id": "1L612ATfbBeZN_RztmAUDSSOQdAJwYUzW",
+                  "name": "Bài 1.1 Tính Đơn Điệu Của Hàm Số.pdf",
+                  "mimeType": "application/pdf",
+                  "size": 2662728,
+                  "webViewLink": "https://drive.google.com/file/d/1L612ATfbBeZN_RztmAUDSSOQdAJwYUzW/view?usp=drivesdk",
+                  "modifiedTime": "2026-05-06T16:28:25.413Z",
+                  "videoMediaMetadata": null
+                },
+                {
+                  "id": "1C4PBMuN3arYPL6wCcRLeESibHsk1I282",
+                  "name": "Bài 1.1 Tính Đơn Điệu Của Hàm Số[Lời giải + Đáp án].pdf",
+                  "mimeType": "application/pdf",
+                  "size": 11927386,
+                  "webViewLink": "https://drive.google.com/file/d/1C4PBMuN3arYPL6wCcRLeESibHsk1I282/view?usp=drivesdk",
+                  "modifiedTime": "2026-05-06T16:28:24.113Z",
+                  "videoMediaMetadata": null
+                },
+                {
+                  "id": "1WOoyR2TjWScMKh2w9jb7MT7QDicRNquz",
+                  "name": "Toán 12 - Bài 1.1. Tính Đơn Điệu Hàm Số (Dạng 1+2) - OK.mp4",
+                  "mimeType": "video/mp4",
+                  "size": 234334156,
+                  "webViewLink": "https://drive.google.com/file/d/1WOoyR2TjWScMKh2w9jb7MT7QDicRNquz/view?usp=drivesdk",
+                  "modifiedTime": "2026-05-11T13:16:56.125Z",
+                  "videoMediaMetadata": null
+                },
+                {
+                  "id": "1WPf9dnIVmaxfOps86ScU6RbZhrTI01If",
+                  "name": "Toán 12 - Bài 1.1. Tính Đơn Điệu Hàm Số (Dạng 3+4) - OK.mp4",
+                  "mimeType": "video/mp4",
+                  "size": 49207490,
+                  "webViewLink": "https://drive.google.com/file/d/1WPf9dnIVmaxfOps86ScU6RbZhrTI01If/view?usp=drivesdk",
+                  "modifiedTime": "2026-05-11T13:17:07.712Z",
+                  "videoMediaMetadata": {
+                    "width": 1920,
+                    "height": 1080,
+                    "durationMillis": "842999"
+                  }
+                }
+              ]
+            },
+            {
+              "id": "1e0EknZm5pWMvSZ3kNaGBivWB_Sbt67Df",
+              "name": "2.Bài 1.2 Cực Trị Hàm Số",
+              "webViewLink": "https://drive.google.com/drive/folders/1e0EknZm5pWMvSZ3kNaGBivWB_Sbt67Df",
+              "modifiedTime": "2026-05-06T16:28:18.610Z",
+              "children": [],
+              "files": [
+                {
+                  "id": "12swYWIFFv3ieA9p2xjQGymrpLgLbXdpz",
+                  "name": "2.1 Chữa BTVN - Cực Trị Không Chứa M.mp4",
+                  "mimeType": "video/mp4",
+                  "size": 124403989,
+                  "webViewLink": "https://drive.google.com/file/d/12swYWIFFv3ieA9p2xjQGymrpLgLbXdpz/view?usp=drivesdk",
+                  "modifiedTime": "2026-05-11T13:16:41.026Z",
+                  "videoMediaMetadata": null
+                },
+                {
+                  "id": "1AGbTktsat5DMK-Qe-WAgtuxHg3Tm6QQj",
+                  "name": "Bài 1.2 Cực Trị Hàm Số.pdf",
+                  "mimeType": "application/pdf",
+                  "size": 5599671,
+                  "webViewLink": "https://drive.google.com/file/d/1AGbTktsat5DMK-Qe-WAgtuxHg3Tm6QQj/view?usp=drivesdk",
+                  "modifiedTime": "2026-05-06T16:28:21.704Z",
+                  "videoMediaMetadata": null
+                },
+                {
+                  "id": "1Fe2ZUAGH94uRErl8CDT4396Lslaw3wIT",
+                  "name": "Bài 1.2 Cực Trị Hàm Số[Lời giải + Đáp án].pdf",
+                  "mimeType": "application/pdf",
+                  "size": 22963309,
+                  "webViewLink": "https://drive.google.com/file/d/1Fe2ZUAGH94uRErl8CDT4396Lslaw3wIT/view?usp=drivesdk",
+                  "modifiedTime": "2026-05-06T16:28:19.700Z",
+                  "videoMediaMetadata": null
+                },
+                {
+                  "id": "1Gw2J0njG0qqIFsfgW-9S1QAgW-N5r2nV",
+                  "name": "Toán 12 - Bài 1.2 - Cực Trị Hàm Số (Dạng 3+4) - OK.mp4",
+                  "mimeType": "video/mp4",
+                  "size": 123269812,
+                  "webViewLink": "https://drive.google.com/file/d/1Gw2J0njG0qqIFsfgW-9S1QAgW-N5r2nV/view?usp=drivesdk",
+                  "modifiedTime": "2026-05-11T13:16:11.921Z",
+                  "videoMediaMetadata": null
+                },
+                {
+                  "id": "1QbzrcOFeyLt9VCoBM8wE0ooTsaJJxNVu",
+                  "name": "Toán 12 - Bài 1.2. Cực Trị Hàm Số (Dạng 1+2) - OK.mp4",
+                  "mimeType": "video/mp4",
+                  "size": 283097060,
+                  "webViewLink": "https://drive.google.com/file/d/1QbzrcOFeyLt9VCoBM8wE0ooTsaJJxNVu/view?usp=drivesdk",
+                  "modifiedTime": "2026-05-11T13:16:28.958Z",
+                  "videoMediaMetadata": {
+                    "width": 1920,
+                    "height": 1080,
+                    "durationMillis": "3146579"
+                  }
+                }
+              ]
+            },
+            {
+              "id": "1Tv5UfZDwP73sme3O7eUMa5nIZ_2rNNWH",
+              "name": "3. Bài 2. Giá Trị Lớn Nhất - Giá Trị Nhỏ Nhất",
+              "webViewLink": "https://drive.google.com/drive/folders/1Tv5UfZDwP73sme3O7eUMa5nIZ_2rNNWH",
+              "modifiedTime": "2026-05-06T16:28:14.805Z",
+              "children": [],
+              "files": [
+                {
+                  "id": "1HZ18U_PsvEthOdc7qGZjYedP6WASUNvs",
+                  "name": "3.1 Chữa  BTVN - Giá Trị Max Min.mp4",
+                  "mimeType": "video/mp4",
+                  "size": 154347183,
+                  "webViewLink": "https://drive.google.com/file/d/1HZ18U_PsvEthOdc7qGZjYedP6WASUNvs/view?usp=drivesdk",
+                  "modifiedTime": "2026-05-11T13:15:59.238Z",
+                  "videoMediaMetadata": {
+                    "width": 1920,
+                    "height": 1080,
+                    "durationMillis": "3546399"
+                  }
+                },
+                {
+                  "id": "1qBAeCt-fbLjMfSxMt7dbetSkvl7YNFbF",
+                  "name": "Bài 2. Giá Trị Lớn Nhất - Giá Trị Nhỏ Nhất.pdf",
+                  "mimeType": "application/pdf",
+                  "size": 4060355,
+                  "webViewLink": "https://drive.google.com/file/d/1qBAeCt-fbLjMfSxMt7dbetSkvl7YNFbF/view?usp=drivesdk",
+                  "modifiedTime": "2026-05-06T16:28:17.338Z",
+                  "videoMediaMetadata": null
+                },
+                {
+                  "id": "1J0r1Y3UqcbeCgsBGV6mCso_EAcHXEuqa",
+                  "name": "Bài 2. Giá Trị Lớn Nhất - Giá Trị Nhỏ Nhất[Lời giải + Đáp án].pdf",
+                  "mimeType": "application/pdf",
+                  "size": 16555827,
+                  "webViewLink": "https://drive.google.com/file/d/1J0r1Y3UqcbeCgsBGV6mCso_EAcHXEuqa/view?usp=drivesdk",
+                  "modifiedTime": "2026-05-06T16:28:15.815Z",
+                  "videoMediaMetadata": null
+                },
+                {
+                  "id": "10zhgO1-SDmxROGSkA77AY8ubWmSKqLtK",
+                  "name": "Toán 12 - Bài 2 - Giá Trị Lớn Nhất, Giá Trị Nhỏ Nhất - Đúng.Sai - OK.mp4",
+                  "mimeType": "video/mp4",
+                  "size": 380340609,
+                  "webViewLink": "https://drive.google.com/file/d/10zhgO1-SDmxROGSkA77AY8ubWmSKqLtK/view?usp=drivesdk",
+                  "modifiedTime": "2026-05-11T13:15:46.106Z",
+                  "videoMediaMetadata": null
+                }
+              ]
+            },
+            {
+              "id": "1L5z3ulSdrRkzHiebV5IPPZbwlyuu-i47",
+              "name": "4. Bài 3.1 Đường Tiệm Cận Của ĐTHS - TCĐ,TCN",
+              "webViewLink": "https://drive.google.com/drive/folders/1L5z3ulSdrRkzHiebV5IPPZbwlyuu-i47",
+              "modifiedTime": "2026-05-06T16:28:10.408Z",
+              "children": [],
+              "files": [
+                {
+                  "id": "1FhCBuw-zWl1sqzNwRzA2-ILwj0CexkwU",
+                  "name": "BTVN - Toán 12 - Đường Tiệm Cận Của ĐTHS - TCĐ,TCN - OK.mp4",
+                  "mimeType": "video/mp4",
+                  "size": 333677951,
+                  "webViewLink": "https://drive.google.com/file/d/1FhCBuw-zWl1sqzNwRzA2-ILwj0CexkwU/view?usp=drivesdk",
+                  "modifiedTime": "2026-05-11T13:14:22.763Z",
+                  "videoMediaMetadata": null
+                },
+                {
+                  "id": "1N26YK8-xlvrzPG_pHYLrmRVPhkHC1o7j",
+                  "name": "Bài 3.1 Đường Tiệm Cận Của ĐTHS - TCĐ,TCN.pdf",
+                  "mimeType": "application/pdf",
+                  "size": 3029927,
+                  "webViewLink": "https://drive.google.com/file/d/1N26YK8-xlvrzPG_pHYLrmRVPhkHC1o7j/view?usp=drivesdk",
+                  "modifiedTime": "2026-05-06T16:28:13.408Z",
+                  "videoMediaMetadata": null
+                },
+                {
+                  "id": "125i0Kj9F5ghJKWvnE5D9L-PIDSZZ1850",
+                  "name": "Bài 3.1 Đường Tiệm Cận Của ĐTHS - TCĐ,TCN[Lời giải + Đáp án].pdf",
+                  "mimeType": "application/pdf",
+                  "size": 6632096,
+                  "webViewLink": "https://drive.google.com/file/d/125i0Kj9F5ghJKWvnE5D9L-PIDSZZ1850/view?usp=drivesdk",
+                  "modifiedTime": "2026-05-06T16:28:11.420Z",
+                  "videoMediaMetadata": null
+                },
+                {
+                  "id": "15NFuwTQY906KA-DpR7Ob19xLp7y4yLUA",
+                  "name": "Toán 12 - Đường Tiệm Cận Của Đồ Thị Hàm Số (TCN và TCĐ) - OK.mp4",
+                  "mimeType": "video/mp4",
+                  "size": 455280096,
+                  "webViewLink": "https://drive.google.com/file/d/15NFuwTQY906KA-DpR7Ob19xLp7y4yLUA/view?usp=drivesdk",
+                  "modifiedTime": "2026-05-11T12:52:17.122Z",
+                  "videoMediaMetadata": null
+                }
+              ]
+            },
+            {
+              "id": "1Hd1lT5tE6bCDaNHJ2qdOKQT_y0cV9Q3O",
+              "name": "5. Bài 3.2 Đường Tiệm Cận Của ĐTHS - Tiệm Cận Xiên",
+              "webViewLink": "https://drive.google.com/drive/folders/1Hd1lT5tE6bCDaNHJ2qdOKQT_y0cV9Q3O",
+              "modifiedTime": "2026-05-06T16:28:06.760Z",
+              "children": [],
+              "files": [
+                {
+                  "id": "11N9YmnUAEUdpd5l4WY15JpOSdid5wBC0",
+                  "name": "Bài 3.2 Đường Tiệm Cận Của ĐTHS - Tiệm Cận Xiên.pdf",
+                  "mimeType": "application/pdf",
+                  "size": 1618913,
+                  "webViewLink": "https://drive.google.com/file/d/11N9YmnUAEUdpd5l4WY15JpOSdid5wBC0/view?usp=drivesdk",
+                  "modifiedTime": "2026-05-06T16:28:09.137Z",
+                  "videoMediaMetadata": null
+                },
+                {
+                  "id": "1L7VyCybueye0lrNuqrduSaCw2btqXliN",
+                  "name": "Bài 3.2 Đường Tiệm Cận Của ĐTHS - Tiệm Cận Xiên[Lời giải + Đáp án].pdf",
+                  "mimeType": "application/pdf",
+                  "size": 5416218,
+                  "webViewLink": "https://drive.google.com/file/d/1L7VyCybueye0lrNuqrduSaCw2btqXliN/view?usp=drivesdk",
+                  "modifiedTime": "2026-05-06T16:28:07.761Z",
+                  "videoMediaMetadata": null
+                },
+                {
+                  "id": "1BBAK__9MNcENqBOhej627uHgxzLd3sSe",
+                  "name": "Toán 12 - Đường Tiệm Cận Xiên Của Đồ Thị Hàm Số - OK.mp4",
+                  "mimeType": "video/mp4",
+                  "size": 370249999,
+                  "webViewLink": "https://drive.google.com/file/d/1BBAK__9MNcENqBOhej627uHgxzLd3sSe/view?usp=drivesdk",
+                  "modifiedTime": "2026-05-11T12:46:53.421Z",
+                  "videoMediaMetadata": null
+                }
+              ]
+            },
+            {
+              "id": "1n8xMvX1zs5ZQhp8Fc6oCp3wnWnrmWGnv",
+              "name": "6. Bài 4.1. Khảo Sát Đồ Thị Hàm Số: Hàm Bậc Ba và Phân Thức Bậc Nhất",
+              "webViewLink": "https://drive.google.com/drive/folders/1n8xMvX1zs5ZQhp8Fc6oCp3wnWnrmWGnv",
+              "modifiedTime": "2026-05-06T16:28:02.131Z",
+              "children": [],
+              "files": [
+                {
+                  "id": "1SCmHHvUIl-hgiRiH756hSBDLWmIoSJYt",
+                  "name": "BTVN - Toán 12 - Khảo Sát Phân Thức Bậc Nhất Trên Bậc Nhất - ok.mp4",
+                  "mimeType": "video/mp4",
+                  "size": 162929613,
+                  "webViewLink": "https://drive.google.com/file/d/1SCmHHvUIl-hgiRiH756hSBDLWmIoSJYt/view?usp=drivesdk",
+                  "modifiedTime": "2026-05-10T11:13:25.062Z",
+                  "videoMediaMetadata": null
+                },
+                {
+                  "id": "1jSF2kGFbtAvB1LcdwZEX7QJ9Z0TOVzLy",
+                  "name": "Bài 4 1A Khảo Sát hàm Số Bậc Ba.mp4",
+                  "mimeType": "video/mp4",
+                  "size": 152543579,
+                  "webViewLink": "https://drive.google.com/file/d/1jSF2kGFbtAvB1LcdwZEX7QJ9Z0TOVzLy/view?usp=drivesdk",
+                  "modifiedTime": "2026-05-11T12:18:09.978Z",
+                  "videoMediaMetadata": {
+                    "width": 1920,
+                    "height": 1080,
+                    "durationMillis": "2454833"
+                  }
+                },
+                {
+                  "id": "14lzjoWC5L8GrcbyaL42f4c-aJ0KufohF",
+                  "name": "Bài 4.1. Khảo Sát Đồ Thị Hàm Số_ Hàm Bậc Ba và Phân Thức Bậc Nhất.pdf",
+                  "mimeType": "application/pdf",
+                  "size": 3921465,
+                  "webViewLink": "https://drive.google.com/file/d/14lzjoWC5L8GrcbyaL42f4c-aJ0KufohF/view?usp=drivesdk",
+                  "modifiedTime": "2026-05-06T16:28:05.449Z",
+                  "videoMediaMetadata": null
+                },
+                {
+                  "id": "11QMH3imNhybwS5wehATpddEjzu6uXMHJ",
+                  "name": "Bài 4.1. Khảo Sát Đồ Thị Hàm Số_ Hàm Bậc Ba và Phân Thức Bậc Nhất[Lời giải + Đáp án].pdf",
+                  "mimeType": "application/pdf",
+                  "size": 8464315,
+                  "webViewLink": "https://drive.google.com/file/d/11QMH3imNhybwS5wehATpddEjzu6uXMHJ/view?usp=drivesdk",
+                  "modifiedTime": "2026-05-06T16:28:03.915Z",
+                  "videoMediaMetadata": null
+                },
+                {
+                  "id": "1qelckmzSuoDbXUVN5DSbxuyEO3hcTjSZ",
+                  "name": "Toán 12 - Bài 4 - Khảo Sát Đồ Thị Hàm Số (Đúng - Sai) - OK.mp4",
+                  "mimeType": "video/mp4",
+                  "size": 325397496,
+                  "webViewLink": "https://drive.google.com/file/d/1qelckmzSuoDbXUVN5DSbxuyEO3hcTjSZ/view?usp=drivesdk",
+                  "modifiedTime": "2026-05-11T12:05:45.676Z",
+                  "videoMediaMetadata": null
+                }
+              ]
+            },
+            {
+              "id": "1tDOvtyhTJ7rPlopVv42u94_jWcxZ840F",
+              "name": "7. Bài 4.2. Khảo Sát Đồ Thị Hàm Số: Hàm Phân Thức Bậc Hai",
+              "webViewLink": "https://drive.google.com/drive/folders/1tDOvtyhTJ7rPlopVv42u94_jWcxZ840F",
+              "modifiedTime": "2026-05-06T16:27:56.254Z",
+              "children": [],
+              "files": [
+                {
+                  "id": "1OXHeLD9Ftc1fhbQOITEvEdeWSRVfiUoH",
+                  "name": "Bài 4 3B Chữa BTVN   KSHS Phân Thức Bậc Hai.mp4",
+                  "mimeType": "video/mp4",
+                  "size": 358241647,
+                  "webViewLink": "https://drive.google.com/file/d/1OXHeLD9Ftc1fhbQOITEvEdeWSRVfiUoH/view?usp=drivesdk",
+                  "modifiedTime": "2026-05-10T10:38:05.445Z",
+                  "videoMediaMetadata": null
+                },
+                {
+                  "id": "1YrOZpjyJFwvDy4UeeIUAGL9L9kTCAAAN",
+                  "name": "Bài 4.2. Khảo Sát Đồ Thị Hàm Số_ Hàm Phân Thức Bậc Hai.pdf",
+                  "mimeType": "application/pdf",
+                  "size": 4688724,
+                  "webViewLink": "https://drive.google.com/file/d/1YrOZpjyJFwvDy4UeeIUAGL9L9kTCAAAN/view?usp=drivesdk",
+                  "modifiedTime": "2026-05-06T16:27:59.574Z",
+                  "videoMediaMetadata": null
+                },
+                {
+                  "id": "1Q3MXUaiwHArCO-nzGjoF7pdmkEisnlTv",
+                  "name": "Bài 4.2. Khảo Sát Đồ Thị Hàm Số_ Hàm Phân Thức Bậc Hai[Lời giải + Đáp án].pdf",
+                  "mimeType": "application/pdf",
+                  "size": 6080269,
+                  "webViewLink": "https://drive.google.com/file/d/1Q3MXUaiwHArCO-nzGjoF7pdmkEisnlTv/view?usp=drivesdk",
+                  "modifiedTime": "2026-05-06T16:27:57.947Z",
+                  "videoMediaMetadata": null
+                },
+                {
+                  "id": "1J69DKesHOxzHB4QeZ7TtaCOSJdiQxaYr",
+                  "name": "Toán 12 - Bài 4.2 - Khảo Sát Đồ Thị Hàm Số - Phân Thức Bậc Hai - OK.mp4",
+                  "mimeType": "video/mp4",
+                  "size": 333521445,
+                  "webViewLink": "https://drive.google.com/file/d/1J69DKesHOxzHB4QeZ7TtaCOSJdiQxaYr/view?usp=drivesdk",
+                  "modifiedTime": "2026-05-10T11:02:54.978Z",
+                  "videoMediaMetadata": null
+                }
+              ]
+            }
+          ],
+          "files": []
+        },
+        {
+          "id": "1cXxxL-sZb_BvSzWl96kyg8D9cop6-4b1",
+          "name": "2.  *Hàm Số chứa m, hàm hợp (dành cho TSA, HSA..)\t\t\t",
+          "webViewLink": "https://drive.google.com/drive/folders/1cXxxL-sZb_BvSzWl96kyg8D9cop6-4b1",
+          "modifiedTime": "2026-05-06T16:27:48.733Z",
+          "children": [
+            {
+              "id": "1tn0a-sqBsTVSGsFhqlyj39tYvWpYwqCY",
+              "name": "1. *ĐƠN ĐIỆU CHỨA THAM SỐ M",
+              "webViewLink": "https://drive.google.com/drive/folders/1tn0a-sqBsTVSGsFhqlyj39tYvWpYwqCY",
+              "modifiedTime": "2026-05-06T16:27:51.386Z",
+              "children": [],
+              "files": [
+                {
+                  "id": "1siN67QEwjUoH5-7Fl23VkrESNFLO8Vw-",
+                  "name": "_ĐƠN ĐIỆU CHỨA THAM SỐ M.pdf",
+                  "mimeType": "application/pdf",
+                  "size": 2250116,
+                  "webViewLink": "https://drive.google.com/file/d/1siN67QEwjUoH5-7Fl23VkrESNFLO8Vw-/view?usp=drivesdk",
+                  "modifiedTime": "2026-05-06T16:27:53.820Z",
+                  "videoMediaMetadata": null
+                },
+                {
+                  "id": "1fJtFGolmxGJSvk4sQt97QxcXlipH2ygq",
+                  "name": "Dang 2  Đơn Điệu  Hàm Đa Thức Cô Lập M   Bấm CASIO.mp4",
+                  "mimeType": "video/mp4",
+                  "size": 420983187,
+                  "webViewLink": "https://drive.google.com/file/d/1fJtFGolmxGJSvk4sQt97QxcXlipH2ygq/view?usp=drivesdk",
+                  "modifiedTime": "2026-05-10T09:43:37.047Z",
+                  "videoMediaMetadata": null
+                },
+                {
+                  "id": "1lAWFuUN51389bgkplfxJNKne8Aq9Od0J",
+                  "name": "Dạng 1  Tìm m để Hàm Bậc Ba Đơn Điệu trên R.mp4",
+                  "mimeType": "video/mp4",
+                  "size": 315657365,
+                  "webViewLink": "https://drive.google.com/file/d/1lAWFuUN51389bgkplfxJNKne8Aq9Od0J/view?usp=drivesdk",
+                  "modifiedTime": "2026-05-10T09:58:28.981Z",
+                  "videoMediaMetadata": null
+                },
+                {
+                  "id": "1JHUU9wvzBjJcrQaADd30u_GdFokEn07Y",
+                  "name": "Dạng 3  - Đơn Điệu Chứa m   Dạng 3 Không Cô Lập M.mp4",
+                  "mimeType": "video/mp4",
+                  "size": 702134288,
+                  "webViewLink": "https://drive.google.com/file/d/1JHUU9wvzBjJcrQaADd30u_GdFokEn07Y/view?usp=drivesdk",
+                  "modifiedTime": "2026-05-10T08:32:43.217Z",
+                  "videoMediaMetadata": null
+                },
+                {
+                  "id": "1kNOINoEusE8HPzl8-bL_fdiMcCWY7ac6",
+                  "name": "Dạng 4  Đơn Điệu Hàm Phân Thức Bậc Nhất.mp4",
+                  "mimeType": "video/mp4",
+                  "size": 674458083,
+                  "webViewLink": "https://drive.google.com/file/d/1kNOINoEusE8HPzl8-bL_fdiMcCWY7ac6/view?usp=drivesdk",
+                  "modifiedTime": "2026-05-10T10:22:35.982Z",
+                  "videoMediaMetadata": {
+                    "width": 1920,
+                    "height": 1080,
+                    "durationMillis": "3288960"
+                  }
+                },
+                {
+                  "id": "1bBZkdR6KZL7Cx6yuKbpofe7Vzc-50GaA",
+                  "name": "Dạng 5  Đơn Điệu Hàm Phân Thức Bậc Hai.mp4",
+                  "mimeType": "video/mp4",
+                  "size": 331775543,
+                  "webViewLink": "https://drive.google.com/file/d/1bBZkdR6KZL7Cx6yuKbpofe7Vzc-50GaA/view?usp=drivesdk",
+                  "modifiedTime": "2026-05-10T08:41:58.575Z",
+                  "videoMediaMetadata": null
+                }
+              ]
+            },
+            {
+              "id": "17Q3_eDAp8n_cXRHeph_BHR3ABfl8n5I6",
+              "name": "2. * CỰC TRỊ CHỨA THAM SỐ M",
+              "webViewLink": "https://drive.google.com/drive/folders/17Q3_eDAp8n_cXRHeph_BHR3ABfl8n5I6",
+              "modifiedTime": "2026-05-06T16:27:50.146Z",
+              "children": [],
+              "files": [
+                {
+                  "id": "10kePrfREGmKlL6Zzef25tfCt8r6MyLMz",
+                  "name": "Bài 1 2B   Dạng 2  Cực Trị Hàm Phân Thức Bậc Hai Trên Bậc Nhất.mp4",
+                  "mimeType": "video/mp4",
+                  "size": 419779825,
+                  "webViewLink": "https://drive.google.com/file/d/10kePrfREGmKlL6Zzef25tfCt8r6MyLMz/view?usp=drivesdk",
+                  "modifiedTime": "2026-05-10T07:51:18.204Z",
+                  "videoMediaMetadata": {
+                    "width": 1920,
+                    "height": 1080,
+                    "durationMillis": "5551033"
+                  }
+                },
+                {
+                  "id": "1q0yiywrng-Q5NGvp-mVC6xjSBHZWfbXk",
+                  "name": "Bài 1 2B Dạng 1   Cực Trị Hàm Bậc Ba Chứa m.mp4",
+                  "mimeType": "video/mp4",
+                  "size": 654951414,
+                  "webViewLink": "https://drive.google.com/file/d/1q0yiywrng-Q5NGvp-mVC6xjSBHZWfbXk/view?usp=drivesdk",
+                  "modifiedTime": "2026-05-10T08:09:08.430Z",
+                  "videoMediaMetadata": null
+                }
+              ]
+            },
+            {
+              "id": "1yx3RneaAX9grG2Fz-_8vDgqXfhpE-iAp",
+              "name": "3. BÀI 2.1 HÀM HỢP, HÀM TỔNG",
+              "webViewLink": "https://drive.google.com/drive/folders/1yx3RneaAX9grG2Fz-_8vDgqXfhpE-iAp",
+              "modifiedTime": "2026-05-12T08:29:58.610Z",
+              "children": [],
+              "files": [
+                {
+                  "id": "1r6G_pk1viVdXDcXMYO7uwIQIaJvveZrR",
+                  "name": "3.3 Đồ Thị Đạo Hàm - Hàm f(u).mp4",
+                  "mimeType": "video/mp4",
+                  "size": 414420785,
+                  "webViewLink": "https://drive.google.com/file/d/1r6G_pk1viVdXDcXMYO7uwIQIaJvveZrR/view?usp=drivesdk",
+                  "modifiedTime": "2026-05-12T08:30:56.872Z",
+                  "videoMediaMetadata": {
+                    "width": 1920,
+                    "height": 1080,
+                    "durationMillis": "2508745"
+                  }
+                },
+                {
+                  "id": "1rkHG03Cm2J70CizRsGGmXyod8-e273gC",
+                  "name": "BÀI 2.1 HÀM HỢP, HÀM TỔNG.pdf",
+                  "mimeType": "application/pdf",
+                  "size": 2829269,
+                  "webViewLink": "https://drive.google.com/file/d/1rkHG03Cm2J70CizRsGGmXyod8-e273gC/view?usp=drivesdk",
+                  "modifiedTime": "2026-05-12T08:30:57.881Z",
+                  "videoMediaMetadata": null
+                }
+              ]
+            }
+          ],
+          "files": []
+        },
+        {
+          "id": "1CvQjP4JPfS4ZjNFi8r2_87uoQs7Jf9l9",
+          "name": "3.  Chương 2. Mẫu Số Liệu Ghép Nhóm\t\t\t",
+          "webViewLink": "https://drive.google.com/drive/folders/1CvQjP4JPfS4ZjNFi8r2_87uoQs7Jf9l9",
+          "modifiedTime": "2026-05-12T08:21:42.993Z",
+          "children": [
+            {
+              "id": "18-dWYYnhIviZXu6U2DLeQoIilpZVCTO9",
+              "name": "1. Bài 1. Khoảng Biến Thiên Và Khoảng Tứ Phân Vị",
+              "webViewLink": "https://drive.google.com/drive/folders/18-dWYYnhIviZXu6U2DLeQoIilpZVCTO9",
+              "modifiedTime": "2026-05-12T08:26:10.668Z",
+              "children": [],
+              "files": [
+                {
+                  "id": "1rlp59L83layvp3zNuqN5Uk-BQxmwXP9s",
+                  "name": "BTVN - Toán 12 - Bài 1. Khoảng Biến Thiên Và Khoảng Tứ Phân Vị - OK.mp4",
+                  "mimeType": "video/mp4",
+                  "size": 554726307,
+                  "webViewLink": "https://drive.google.com/file/d/1rlp59L83layvp3zNuqN5Uk-BQxmwXP9s/view?usp=drivesdk",
+                  "modifiedTime": "2026-05-12T08:28:37.644Z",
+                  "videoMediaMetadata": null
+                },
+                {
+                  "id": "1VORLcoGXMWSGKmpkJVvx5qKU7qAnIzbX",
+                  "name": "Bài 1. Khoảng Biến Thiên Và Khoảng Tứ Phân Vị.pdf",
+                  "mimeType": "application/pdf",
+                  "size": 9774758,
+                  "webViewLink": "https://drive.google.com/file/d/1VORLcoGXMWSGKmpkJVvx5qKU7qAnIzbX/view?usp=drivesdk",
+                  "modifiedTime": "2026-05-12T08:29:55.847Z",
+                  "videoMediaMetadata": null
+                },
+                {
+                  "id": "184wEHxALqqmJfd-Cbl11CufqxyMab8KX",
+                  "name": "Bài 1. Khoảng Biến Thiên Và Khoảng Tứ Phân Vị[Lời giải + Đáp án].pdf",
+                  "mimeType": "application/pdf",
+                  "size": 11460985,
+                  "webViewLink": "https://drive.google.com/file/d/184wEHxALqqmJfd-Cbl11CufqxyMab8KX/view?usp=drivesdk",
+                  "modifiedTime": "2026-05-12T08:29:54.558Z",
+                  "videoMediaMetadata": null
+                },
+                {
+                  "id": "1f9k5U5xgdud-Xy5pg_YQCU5KXZTOc4xf",
+                  "name": "Toán 12 - Bài 1. Khoảng Biến Thiên Và Khoảng Tứ Phân Vị - OK.mp4",
+                  "mimeType": "video/mp4",
+                  "size": 406928760,
+                  "webViewLink": "https://drive.google.com/file/d/1f9k5U5xgdud-Xy5pg_YQCU5KXZTOc4xf/view?usp=drivesdk",
+                  "modifiedTime": "2026-05-12T08:29:53.637Z",
+                  "videoMediaMetadata": null
+                }
+              ]
+            },
+            {
+              "id": "1ResYWZogswPYsiiWhxkLU8KsY-9SgFt0",
+              "name": "2. Bài 2. Phương Sai Và Độ Lệch Chuẩn",
+              "webViewLink": "https://drive.google.com/drive/folders/1ResYWZogswPYsiiWhxkLU8KsY-9SgFt0",
+              "modifiedTime": "2026-05-12T08:23:02.600Z",
+              "children": [],
+              "files": [
+                {
+                  "id": "1GVmhmQvmNbJY7l0iobG47Jd4GiloWdEM",
+                  "name": "Bài 2  Phương Sai và Độ Lệch Chuẩn   Live   OK.mp4",
+                  "mimeType": "video/mp4",
+                  "size": 460399018,
+                  "webViewLink": "https://drive.google.com/file/d/1GVmhmQvmNbJY7l0iobG47Jd4GiloWdEM/view?usp=drivesdk",
+                  "modifiedTime": "2026-05-12T08:24:48.284Z",
+                  "videoMediaMetadata": null
+                },
+                {
+                  "id": "1FNiro9jqX2OHjwJttzNH45urHE2zE6iZ",
+                  "name": "Bài 2. Phương Sai Và Độ Lệch Chuẩn.pdf",
+                  "mimeType": "application/pdf",
+                  "size": 4098542,
+                  "webViewLink": "https://drive.google.com/file/d/1FNiro9jqX2OHjwJttzNH45urHE2zE6iZ/view?usp=drivesdk",
+                  "modifiedTime": "2026-05-12T08:26:08.895Z",
+                  "videoMediaMetadata": null
+                },
+                {
+                  "id": "1eh7uapK43WzT0C0d5jUOaRV_g7FaJAo0",
+                  "name": "Bài 2. Phương Sai Và Độ Lệch Chuẩn[Lời giải + Đáp án].pdf",
+                  "mimeType": "application/pdf",
+                  "size": 9786459,
+                  "webViewLink": "https://drive.google.com/file/d/1eh7uapK43WzT0C0d5jUOaRV_g7FaJAo0/view?usp=drivesdk",
+                  "modifiedTime": "2026-05-12T08:26:07.216Z",
+                  "videoMediaMetadata": null
+                },
+                {
+                  "id": "15pBg3JW4AZqHiXcA2yBHTEILzqlypvVE",
+                  "name": "Toán 12 - Bài 2. Phương Sai Và Độ Lệch Chuẩn - OK.mp4",
+                  "mimeType": "video/mp4",
+                  "size": 390407895,
+                  "webViewLink": "https://drive.google.com/file/d/15pBg3JW4AZqHiXcA2yBHTEILzqlypvVE/view?usp=drivesdk",
+                  "modifiedTime": "2026-05-12T08:26:06.409Z",
+                  "videoMediaMetadata": null
+                }
+              ]
+            },
+            {
+              "id": "1cCAmbUtZ-poyWGe6PiG73_CK_6lAYKw8",
+              "name": "3. Đề Ôn Tập Chương - Đề Số 1",
+              "webViewLink": "https://drive.google.com/drive/folders/1cCAmbUtZ-poyWGe6PiG73_CK_6lAYKw8",
+              "modifiedTime": "2026-05-12T08:22:41.506Z",
+              "children": [],
+              "files": [
+                {
+                  "id": "1orTm343cKuIiQ8GMIxQKRSZwCXCogUE8",
+                  "name": "Đề Ôn Tập Chương Mẫu Số Liệu Ghép Nhóm - ĐỀ 1 - OK.mp4",
+                  "mimeType": "video/mp4",
+                  "size": 268441193,
+                  "webViewLink": "https://drive.google.com/file/d/1orTm343cKuIiQ8GMIxQKRSZwCXCogUE8/view?usp=drivesdk",
+                  "modifiedTime": "2026-05-12T08:22:57.502Z",
+                  "videoMediaMetadata": {
+                    "width": 1920,
+                    "height": 1080,
+                    "durationMillis": "3375466"
+                  }
+                },
+                {
+                  "id": "1RNeBaOhHs6qsQAmkr4n6RL9serT0VRxs",
+                  "name": "Đề Ôn Tập Chương  - Đề Số 1.pdf",
+                  "mimeType": "application/pdf",
+                  "size": 3000364,
+                  "webViewLink": "https://drive.google.com/file/d/1RNeBaOhHs6qsQAmkr4n6RL9serT0VRxs/view?usp=drivesdk",
+                  "modifiedTime": "2026-05-12T08:22:59.813Z",
+                  "videoMediaMetadata": null
+                },
+                {
+                  "id": "10zg1xcv866VKDg4VG4WtaXZg-Lgk-wfd",
+                  "name": "Đề Ôn Tập Chương  - Đề Số 1[Lời giải + Đáp án].pdf",
+                  "mimeType": "application/pdf",
+                  "size": 6540204,
+                  "webViewLink": "https://drive.google.com/file/d/10zg1xcv866VKDg4VG4WtaXZg-Lgk-wfd/view?usp=drivesdk",
+                  "modifiedTime": "2026-05-12T08:22:58.276Z",
+                  "videoMediaMetadata": null
+                }
+              ]
+            },
+            {
+              "id": "1NdMxbzDrrnOIx_64r-OUnI9HYhD6WHe7",
+              "name": "4. Đề Ôn Tập Chương - Đề Số 2",
+              "webViewLink": "https://drive.google.com/drive/folders/1NdMxbzDrrnOIx_64r-OUnI9HYhD6WHe7",
+              "modifiedTime": "2026-05-12T08:22:18.823Z",
+              "children": [],
+              "files": [
+                {
+                  "id": "1OhHoQc0sT41In0jOSIwuISpnmp69JU42",
+                  "name": "Toán 12 - Ôn Tập Chương Mẫu Số Liệu - Đề 2 - OK.mp4",
+                  "mimeType": "video/mp4",
+                  "size": 271609257,
+                  "webViewLink": "https://drive.google.com/file/d/1OhHoQc0sT41In0jOSIwuISpnmp69JU42/view?usp=drivesdk",
+                  "modifiedTime": "2026-05-12T08:22:37.207Z",
+                  "videoMediaMetadata": null
+                },
+                {
+                  "id": "19C7L30YDwMjXCUUtJ0ohC8RRM_y-eWtS",
+                  "name": "Đề Ôn Tập Chương - Đề Số 2.pdf",
+                  "mimeType": "application/pdf",
+                  "size": 3156554,
+                  "webViewLink": "https://drive.google.com/file/d/19C7L30YDwMjXCUUtJ0ohC8RRM_y-eWtS/view?usp=drivesdk",
+                  "modifiedTime": "2026-05-12T08:22:39.537Z",
+                  "videoMediaMetadata": null
+                },
+                {
+                  "id": "1nHH03RsiEfNOD7KN73da3t4oEsyHRxXt",
+                  "name": "Đề Ôn Tập Chương - Đề Số 2[Lời giải + Đáp án].pdf",
+                  "mimeType": "application/pdf",
+                  "size": 15338121,
+                  "webViewLink": "https://drive.google.com/file/d/1nHH03RsiEfNOD7KN73da3t4oEsyHRxXt/view?usp=drivesdk",
+                  "modifiedTime": "2026-05-12T08:22:38.229Z",
+                  "videoMediaMetadata": null
+                }
+              ]
+            },
+            {
+              "id": "1fiS7g-t_fUzoCzuqNhz_UymLOxl5J9tV",
+              "name": "5. Đề Ôn Tập Chương - Đề Số 3",
+              "webViewLink": "https://drive.google.com/drive/folders/1fiS7g-t_fUzoCzuqNhz_UymLOxl5J9tV",
+              "modifiedTime": "2026-05-12T08:21:52.589Z",
+              "children": [],
+              "files": [
+                {
+                  "id": "1KpV18hyBDN1kY8E9eckJl22ZIQEJt9Ro",
+                  "name": "Toán 12 - Đề Ôn Tập MSL - Đề 3 - OK.mp4",
+                  "mimeType": "video/mp4",
+                  "size": 262210745,
+                  "webViewLink": "https://drive.google.com/file/d/1KpV18hyBDN1kY8E9eckJl22ZIQEJt9Ro/view?usp=drivesdk",
+                  "modifiedTime": "2026-05-12T08:22:14.178Z",
+                  "videoMediaMetadata": {
+                    "width": 1920,
+                    "height": 1080,
+                    "durationMillis": "5369499"
+                  }
+                },
+                {
+                  "id": "1a-KL8wYUY7SQx7x_SfEIq3XkTKG8HL8f",
+                  "name": "Đề Ôn Tập Chương - Đề Số 3.pdf",
+                  "mimeType": "application/pdf",
+                  "size": 4001343,
+                  "webViewLink": "https://drive.google.com/file/d/1a-KL8wYUY7SQx7x_SfEIq3XkTKG8HL8f/view?usp=drivesdk",
+                  "modifiedTime": "2026-05-12T08:22:16.170Z",
+                  "videoMediaMetadata": null
+                },
+                {
+                  "id": "1oJLJvBhkSHmQVh1fCgy5dVmLTQm71IFs",
+                  "name": "Đề Ôn Tập Chương - Đề Số 3[Lời giải + Đáp án].pdf",
+                  "mimeType": "application/pdf",
+                  "size": 11763031,
+                  "webViewLink": "https://drive.google.com/file/d/1oJLJvBhkSHmQVh1fCgy5dVmLTQm71IFs/view?usp=drivesdk",
+                  "modifiedTime": "2026-05-12T08:22:15.030Z",
+                  "videoMediaMetadata": null
+                }
+              ]
+            }
+          ],
+          "files": []
+        },
+        {
+          "id": "1OVEA-ickQRH-WZF_C_gBNbETpzhCibZA",
+          "name": "4.  Chương 3. Vecto và Hệ trục tọa độ Oxyz\t\t\t",
+          "webViewLink": "https://drive.google.com/drive/folders/1OVEA-ickQRH-WZF_C_gBNbETpzhCibZA",
+          "modifiedTime": "2026-05-18T01:27:30.294Z",
+          "children": [
+            {
+              "id": "13wzPlcVQGmuEs-KnbU1dubh99kNvv-LU",
+              "name": "1. Bài 1.1 Vecto Trong Không Gian",
+              "webViewLink": "https://drive.google.com/drive/folders/13wzPlcVQGmuEs-KnbU1dubh99kNvv-LU",
+              "modifiedTime": "2026-05-18T01:40:50.543Z",
+              "children": [],
+              "files": [
+                {
+                  "id": "1jQTxq093Gdw80Wz7TgEthzN-AvuvXUnE",
+                  "name": "BTVN   1 1 VecTo Trong không Gian   OK.mp4",
+                  "mimeType": "video/mp4",
+                  "size": 462475502,
+                  "webViewLink": "https://drive.google.com/file/d/1jQTxq093Gdw80Wz7TgEthzN-AvuvXUnE/view?usp=drivesdk",
+                  "modifiedTime": "2026-05-18T01:48:15.973Z",
+                  "videoMediaMetadata": null
+                },
+                {
+                  "id": "1DlXtOEqRpc8uROWNR-IFsxfaRXi8gejs",
+                  "name": "BTVN - Toán 12 - Bài 1.1 Vecto Trong Không Gian - OK_2.mp4",
+                  "mimeType": "video/mp4",
+                  "size": 1141693110,
+                  "webViewLink": "https://drive.google.com/file/d/1DlXtOEqRpc8uROWNR-IFsxfaRXi8gejs/view?usp=drivesdk",
+                  "modifiedTime": "2026-05-18T01:43:07.131Z",
+                  "videoMediaMetadata": null
+                },
+                {
+                  "id": "1CVGRdiY3Y6mLak_FfjzAkjTPltNr77Wu",
+                  "name": "Bài 1.1 Vecto Trong Không Gian.pdf",
+                  "mimeType": "application/pdf",
+                  "size": 5075154,
+                  "webViewLink": "https://drive.google.com/file/d/1CVGRdiY3Y6mLak_FfjzAkjTPltNr77Wu/view?usp=drivesdk",
+                  "modifiedTime": "2026-05-18T01:48:18.408Z",
+                  "videoMediaMetadata": null
+                },
+                {
+                  "id": "1vNoj4Vm0xKilaocb5CyzZxzOtdg6dApr",
+                  "name": "Bài 1.1 Vecto Trong Không Gian[Lời giải + Đáp án].pdf",
+                  "mimeType": "application/pdf",
+                  "size": 6431876,
+                  "webViewLink": "https://drive.google.com/file/d/1vNoj4Vm0xKilaocb5CyzZxzOtdg6dApr/view?usp=drivesdk",
+                  "modifiedTime": "2026-05-18T01:48:16.841Z",
+                  "videoMediaMetadata": null
+                },
+                {
+                  "id": "1yifb9bfdvLN_wWL2813amv9op6WmWPlM",
+                  "name": "Toán 12 - Vecto Trong Không Gian (VD7) - Phần 1 - OK_2.mp4",
+                  "mimeType": "video/mp4",
+                  "size": 431571232,
+                  "webViewLink": "https://drive.google.com/file/d/1yifb9bfdvLN_wWL2813amv9op6WmWPlM/view?usp=drivesdk",
+                  "modifiedTime": "2026-05-18T01:46:22.825Z",
+                  "videoMediaMetadata": null
+                }
+              ]
+            },
+            {
+              "id": "1Ud3zB-jIJsuKhrsL3FcHAml64bwHTByn",
+              "name": "2. Bài 1.2 Góc Và Tích Vô Hướng Giữa 2 Vecto",
+              "webViewLink": "https://drive.google.com/drive/folders/1Ud3zB-jIJsuKhrsL3FcHAml64bwHTByn",
+              "modifiedTime": "2026-05-18T01:34:50.249Z",
+              "children": [],
+              "files": [
+                {
+                  "id": "1RbisOnHN2olfRMpfh2ubhtHRZXUZ_dyX",
+                  "name": "1 2 Bài Tập Áp Dụng    Góc Giữa Hai Vecto và Tích Vô Hướng   OK.mp4",
+                  "mimeType": "video/mp4",
+                  "size": 282218949,
+                  "webViewLink": "https://drive.google.com/file/d/1RbisOnHN2olfRMpfh2ubhtHRZXUZ_dyX/view?usp=drivesdk",
+                  "modifiedTime": "2026-05-18T01:38:04.538Z",
+                  "videoMediaMetadata": null
+                },
+                {
+                  "id": "1wllfpANSbE711z1Md06NAKcxE2cg-ZhU",
+                  "name": "BTVN   1 2 Góc Giữa Hai VecTo và Tích Vô Hướng   OK.mp4",
+                  "mimeType": "video/mp4",
+                  "size": 452940468,
+                  "webViewLink": "https://drive.google.com/file/d/1wllfpANSbE711z1Md06NAKcxE2cg-ZhU/view?usp=drivesdk",
+                  "modifiedTime": "2026-05-18T01:40:45.634Z",
+                  "videoMediaMetadata": null
+                },
+                {
+                  "id": "11qGdbz9JNdPlZGvoYDf2weDDbdB4Hyyx",
+                  "name": "BTVN 1- Toán 12 - Góc Giữa 2 Vecto và Tích Vô Hướng - OK.mp4",
+                  "mimeType": "video/mp4",
+                  "size": 707731367,
+                  "webViewLink": "https://drive.google.com/file/d/11qGdbz9JNdPlZGvoYDf2weDDbdB4Hyyx/view?usp=drivesdk",
+                  "modifiedTime": "2026-05-18T01:37:38.980Z",
+                  "videoMediaMetadata": null
+                },
+                {
+                  "id": "1SDBMlr9b2BGy1BPFhU8r4b0ddvCrSABn",
+                  "name": "Bài 1.2 Góc Và Tích Vô Hướng Giữa 2 Vecto.pdf",
+                  "mimeType": "application/pdf",
+                  "size": 2615373,
+                  "webViewLink": "https://drive.google.com/file/d/1SDBMlr9b2BGy1BPFhU8r4b0ddvCrSABn/view?usp=drivesdk",
+                  "modifiedTime": "2026-05-18T01:40:48.760Z",
+                  "videoMediaMetadata": null
+                },
+                {
+                  "id": "16ACNOwHH29qLVsvkcG3LtxnKzbrtRV-t",
+                  "name": "Bài 1.2 Góc Và Tích Vô Hướng Giữa 2 Vecto[Lời giải + Đáp án].pdf",
+                  "mimeType": "application/pdf",
+                  "size": 9121803,
+                  "webViewLink": "https://drive.google.com/file/d/16ACNOwHH29qLVsvkcG3LtxnKzbrtRV-t/view?usp=drivesdk",
+                  "modifiedTime": "2026-05-18T01:40:47.292Z",
+                  "videoMediaMetadata": null
+                },
+                {
+                  "id": "1awZhI0LYLwu8dJnt_G6L20P80EDw7CQ7",
+                  "name": "Toán 12 - Bài 1.2 - Góc Và Tích Vô Hướng Giữa 2 Vecto (VD8 -12) - Phần 2 - OK.mp4",
+                  "mimeType": "video/mp4",
+                  "size": 111452051,
+                  "webViewLink": "https://drive.google.com/file/d/1awZhI0LYLwu8dJnt_G6L20P80EDw7CQ7/view?usp=drivesdk",
+                  "modifiedTime": "2026-05-18T01:37:48.858Z",
+                  "videoMediaMetadata": {
+                    "width": 1920,
+                    "height": 1080,
+                    "durationMillis": "1776766"
+                  }
+                },
+                {
+                  "id": "1VzVXE68xAVDJWcAGWvl-FXERLStbHno6",
+                  "name": "Toán 12 - Bài 1.2 - Góc Và Tích Vô Hướng Giữa 2 Vecto - Phần 1 - OK_2.mp4",
+                  "mimeType": "video/mp4",
+                  "size": 401602817,
+                  "webViewLink": "https://drive.google.com/file/d/1VzVXE68xAVDJWcAGWvl-FXERLStbHno6/view?usp=drivesdk",
+                  "modifiedTime": "2026-05-18T01:36:00.266Z",
+                  "videoMediaMetadata": null
+                }
+              ]
+            },
+            {
+              "id": "1MyHWzEIVl3PIDzm5aD2RgS06jmRDl9Lq",
+              "name": "3. Bài 2. Hệ Trục Tọa Độ Oxyz",
+              "webViewLink": "https://drive.google.com/drive/folders/1MyHWzEIVl3PIDzm5aD2RgS06jmRDl9Lq",
+              "modifiedTime": "2026-05-18T01:32:52.489Z",
+              "children": [],
+              "files": [
+                {
+                  "id": "1Tzf1i18yFLe_otbCnRVTfEVIw29Q_ksT",
+                  "name": "BTVN   2  Hệ Trục Tọa Độ   Phần 1   OK.mp4",
+                  "mimeType": "video/mp4",
+                  "size": 436465761,
+                  "webViewLink": "https://drive.google.com/file/d/1Tzf1i18yFLe_otbCnRVTfEVIw29Q_ksT/view?usp=drivesdk",
+                  "modifiedTime": "2026-05-18T01:34:31.277Z",
+                  "videoMediaMetadata": null
+                },
+                {
+                  "id": "1StRbHeDBPz9fUuZSzxdh7u4kyuKqRjLk",
+                  "name": "BTVN - Toán 12 - Hệ Trục Tọa Độ Oxyz.mp4",
+                  "mimeType": "video/mp4",
+                  "size": 196416007,
+                  "webViewLink": "https://drive.google.com/file/d/1StRbHeDBPz9fUuZSzxdh7u4kyuKqRjLk/view?usp=drivesdk",
+                  "modifiedTime": "2026-05-18T01:33:04.110Z",
+                  "videoMediaMetadata": {
+                    "width": 1920,
+                    "height": 1080,
+                    "durationMillis": "1687799"
+                  }
+                },
+                {
+                  "id": "1FJBCE21F_EcWRj24iflH6ZaP3tUj8E2F",
+                  "name": "Bài 2. Hệ Trục Tọa Độ Oxyz.mp4",
+                  "mimeType": "video/mp4",
+                  "size": 346433628,
+                  "webViewLink": "https://drive.google.com/file/d/1FJBCE21F_EcWRj24iflH6ZaP3tUj8E2F/view?usp=drivesdk",
+                  "modifiedTime": "2026-05-18T01:34:46.204Z",
+                  "videoMediaMetadata": null
+                },
+                {
+                  "id": "1dQwU7zNU4I8vJE9xzDQ1XXlPZx4_MqCt",
+                  "name": "Bài 2. Hệ Trục Tọa Độ Oxyz.pdf",
+                  "mimeType": "application/pdf",
+                  "size": 3703653,
+                  "webViewLink": "https://drive.google.com/file/d/1dQwU7zNU4I8vJE9xzDQ1XXlPZx4_MqCt/view?usp=drivesdk",
+                  "modifiedTime": "2026-05-18T01:34:48.376Z",
+                  "videoMediaMetadata": null
+                },
+                {
+                  "id": "1hR9-iNgaNur5V4q7t_zA65CXpXQBxje1",
+                  "name": "Bài 2. Hệ Trục Tọa Độ Oxyz[Lời giải + Đáp án].pdf",
+                  "mimeType": "application/pdf",
+                  "size": 6267752,
+                  "webViewLink": "https://drive.google.com/file/d/1hR9-iNgaNur5V4q7t_zA65CXpXQBxje1/view?usp=drivesdk",
+                  "modifiedTime": "2026-05-18T01:34:47.088Z",
+                  "videoMediaMetadata": null
+                }
+              ]
+            },
+            {
+              "id": "1LvHSlP9EkFK4cajKTVDOCfHp1XrtrOiF",
+              "name": "4. Bài 3.1 Các Phép Toán Trong Hệ Tọa Độ Oxyz",
+              "webViewLink": "https://drive.google.com/drive/folders/1LvHSlP9EkFK4cajKTVDOCfHp1XrtrOiF",
+              "modifiedTime": "2026-05-18T01:27:57.294Z",
+              "children": [],
+              "files": [
+                {
+                  "id": "100yGsQjHRWx5sHgMNc8sn1rd5jpAsKLA",
+                  "name": "3 1 Ôn Tập Biểu Thức Tọa Độ Oxyz - OK.mp4",
+                  "mimeType": "video/mp4",
+                  "size": 424194073,
+                  "webViewLink": "https://drive.google.com/file/d/100yGsQjHRWx5sHgMNc8sn1rd5jpAsKLA/view?usp=drivesdk",
+                  "modifiedTime": "2026-05-18T01:32:48.712Z",
+                  "videoMediaMetadata": null
+                },
+                {
+                  "id": "1gq_MagiJzlWP1flI1IEP5GVNlASH7ruX",
+                  "name": "BTVN   3  Biểu Thức Tọa Độ Phép Toán Vecto   Phần 1   OK.mp4",
+                  "mimeType": "video/mp4",
+                  "size": 359997544,
+                  "webViewLink": "https://drive.google.com/file/d/1gq_MagiJzlWP1flI1IEP5GVNlASH7ruX/view?usp=drivesdk",
+                  "modifiedTime": "2026-05-18T01:30:51.957Z",
+                  "videoMediaMetadata": null
+                },
+                {
+                  "id": "15g7oRn8noY5YlKXfbxBWqHqovlkYZFWM",
+                  "name": "BTVN 1 - Toán 12 - Bài 3. Các Phép Toán Trong Hệ Tọa Độ Oxyz - OK.mp4",
+                  "mimeType": "video/mp4",
+                  "size": 433782674,
+                  "webViewLink": "https://drive.google.com/file/d/15g7oRn8noY5YlKXfbxBWqHqovlkYZFWM/view?usp=drivesdk",
+                  "modifiedTime": "2026-05-18T01:30:31.812Z",
+                  "videoMediaMetadata": null
+                },
+                {
+                  "id": "1mJdNSZnbkhbKtpOpILaEdh5Rg76JT0mX",
+                  "name": "Bài 3.1 Các Phép Toán Trong Hệ Tọa Độ Oxyz.pdf",
+                  "mimeType": "application/pdf",
+                  "size": 4779248,
+                  "webViewLink": "https://drive.google.com/file/d/1mJdNSZnbkhbKtpOpILaEdh5Rg76JT0mX/view?usp=drivesdk",
+                  "modifiedTime": "2026-05-18T01:32:50.669Z",
+                  "videoMediaMetadata": null
+                },
+                {
+                  "id": "1C4pA14OZUoumzfBMXawb7vg_V4JXne-o",
+                  "name": "Bài 3.1 Các Phép Toán Trong Hệ Tọa Độ Oxyz[Lời giải + Đáp án].pdf",
+                  "mimeType": "application/pdf",
+                  "size": 6176733,
+                  "webViewLink": "https://drive.google.com/file/d/1C4pA14OZUoumzfBMXawb7vg_V4JXne-o/view?usp=drivesdk",
+                  "modifiedTime": "2026-05-18T01:32:49.493Z",
+                  "videoMediaMetadata": null
+                },
+                {
+                  "id": "15svlzcCp8fGJhjKPqurGas_AbX3SwDv5",
+                  "name": "Toán 12 - Bài 3. Các Phép Toán Trong Hệ Tọa Độ Oxyz - OK.mp4",
+                  "mimeType": "video/mp4",
+                  "size": 429862547,
+                  "webViewLink": "https://drive.google.com/file/d/15svlzcCp8fGJhjKPqurGas_AbX3SwDv5/view?usp=drivesdk",
+                  "modifiedTime": "2026-05-18T01:29:28.993Z",
+                  "videoMediaMetadata": {
+                    "width": 1920,
+                    "height": 1080,
+                    "durationMillis": "4627266"
+                  }
+                }
+              ]
+            },
+            {
+              "id": "1ek5vzmUa7_s7SZ6ODQQyiqRyl3v79Nfq",
+              "name": "5. Bài 3.2 Bài Toán Tâm Tỉ Cự",
+              "webViewLink": "https://drive.google.com/drive/folders/1ek5vzmUa7_s7SZ6ODQQyiqRyl3v79Nfq",
+              "modifiedTime": "2026-05-18T01:27:33.629Z",
+              "children": [],
+              "files": [
+                {
+                  "id": "1T5F54Min5vLYWC4okkIrsuYljCm7r9n5",
+                  "name": "Bài 3.2 Bài Toán Tâm Tỉ Cự.pdf",
+                  "mimeType": "application/pdf",
+                  "size": 1605779,
+                  "webViewLink": "https://drive.google.com/file/d/1T5F54Min5vLYWC4okkIrsuYljCm7r9n5/view?usp=drivesdk",
+                  "modifiedTime": "2026-05-18T01:27:55.448Z",
+                  "videoMediaMetadata": null
+                },
+                {
+                  "id": "1RTs6fE_tIgx_pWfuQsIpy44TqoTgH591",
+                  "name": "Bài 3.2 Bài Toán Tâm Tỉ Cự[Lời giải + Đáp án].pdf",
+                  "mimeType": "application/pdf",
+                  "size": 11357978,
+                  "webViewLink": "https://drive.google.com/file/d/1RTs6fE_tIgx_pWfuQsIpy44TqoTgH591/view?usp=drivesdk",
+                  "modifiedTime": "2026-05-18T01:27:53.851Z",
+                  "videoMediaMetadata": null
+                },
+                {
+                  "id": "1jRzdWjQzLcMPBK655qUaifhVjZbr1VwU",
+                  "name": "Toán 12 - Bài Toán Tâm Tỉ Cự - OK.mp4",
+                  "mimeType": "video/mp4",
+                  "size": 209668254,
+                  "webViewLink": "https://drive.google.com/file/d/1jRzdWjQzLcMPBK655qUaifhVjZbr1VwU/view?usp=drivesdk",
+                  "modifiedTime": "2026-05-18T01:27:52.875Z",
+                  "videoMediaMetadata": null
+                }
+              ]
+            }
+          ],
+          "files": []
+        }
+      ],
+      "files": [],
+      "webViewLink": "https://drive.google.com/drive/folders/1MfECW0oMR9JFC_0PwHNJA-d3BuMT6SFh",
+      "modifiedTime": "2026-04-18T14:18:00.618Z"
+    },
+    {
+      "id": "17fYu2ZvcamPAtyq81JNeAYB8790rEY1n",
+      "name": "2. KHOÁ M CHINH PHỤC TOÁN THỰC TẾ (Học ngay)",
+      "children": [
+        {
+          "id": "1eIpiAXSb9YtFrLSoflJDQsIwuiJa7Lze",
+          "name": "1.  Chuyên Đề: Toán Thực Tế\t\t\t",
+          "webViewLink": "https://drive.google.com/drive/folders/1eIpiAXSb9YtFrLSoflJDQsIwuiJa7Lze",
+          "modifiedTime": "2026-05-21T16:35:21.825Z",
+          "children": [
+            {
+              "id": "10zII8kbydhBCxPyJ2E_-6cjj47mjah81",
+              "name": "1. Chủ Đề 1. Hàm Số & Phương Trình Lượng Giác",
+              "webViewLink": "https://drive.google.com/drive/folders/10zII8kbydhBCxPyJ2E_-6cjj47mjah81",
+              "modifiedTime": "2026-05-21T16:35:27.206Z",
+              "children": [],
+              "files": [
+                {
+                  "id": "1YEF3DindVOfClCPhvXynCqTXQMTxZPDM",
+                  "name": "Chủ Đề 1. Hàm Số & Phương Trình Lượng Giác.pdf",
+                  "mimeType": "application/pdf",
+                  "size": 3919387,
+                  "webViewLink": "https://drive.google.com/file/d/1YEF3DindVOfClCPhvXynCqTXQMTxZPDM/view?usp=drivesdk",
+                  "modifiedTime": "2026-05-21T16:35:28.038Z",
+                  "videoMediaMetadata": null
+                }
+              ]
+            },
+            {
+              "id": "1Qw79p6GLLdycebUvwYHwEtX-uSrHkmhh",
+              "name": "10. Chủ Đề 8.2 Ứng Dụng Đạo Hàm - Quãng Đường - Vận Tốc",
+              "webViewLink": "https://drive.google.com/drive/folders/1Qw79p6GLLdycebUvwYHwEtX-uSrHkmhh",
+              "modifiedTime": "2026-05-24T08:27:03.888Z",
+              "children": [],
+              "files": [
+                {
+                  "id": "10yOvLAzSz94heLeBHOeIq_A0b3bf3cgV",
+                  "name": "10 BTVN - Ứng Dụng Đạo Hàm (Phần 2) - Độ Dài, Chu Vi, Diện Tích - OK.mp4",
+                  "mimeType": "video/mp4",
+                  "size": 159441968,
+                  "webViewLink": "https://drive.google.com/file/d/10yOvLAzSz94heLeBHOeIq_A0b3bf3cgV/view?usp=drivesdk",
+                  "modifiedTime": "2026-05-24T14:33:14.240Z",
+                  "videoMediaMetadata": null
+                },
+                {
+                  "id": "105VKGXDoERCwuAWngVRwW-laa7ruUp7J",
+                  "name": "10 BTVN 1 - Toán 12 - Bài 5.3. Ứng Dụng Đạo Hàm - Phần 3. Bài Toán Chu Vi, Diện Tích - Quãng Đường.mp4",
+                  "mimeType": "video/mp4",
+                  "size": 236468653,
+                  "webViewLink": "https://drive.google.com/file/d/105VKGXDoERCwuAWngVRwW-laa7ruUp7J/view?usp=drivesdk",
+                  "modifiedTime": "2026-05-24T14:32:52.106Z",
+                  "videoMediaMetadata": null
+                },
+                {
+                  "id": "1yTXdtMfuXhwecjBxN4qgrZ3D-_wGSlnB",
+                  "name": "10 Toán 12 - Bài 5.3. Ứng Dụng Đạo Hàm - Phần 3. Bài Toán Chu Vi, Diện Tích - Quãng Đường - OK.mp4",
+                  "mimeType": "video/mp4",
+                  "size": 147029848,
+                  "webViewLink": "https://drive.google.com/file/d/1yTXdtMfuXhwecjBxN4qgrZ3D-_wGSlnB/view?usp=drivesdk",
+                  "modifiedTime": "2026-05-24T14:33:34.615Z",
+                  "videoMediaMetadata": {
+                    "width": 1920,
+                    "height": 1080,
+                    "durationMillis": "2874966"
+                  }
+                },
+                {
+                  "id": "1gxgRyKj0JwQTRz-hKmjry6PQ_NltWS2-",
+                  "name": "Chủ Đề 8.2 Ứng Dụng Đạo Hàm - Quãng Đường - Vận Tốc .pdf",
+                  "mimeType": "application/pdf",
+                  "size": 2063869,
+                  "webViewLink": "https://drive.google.com/file/d/1gxgRyKj0JwQTRz-hKmjry6PQ_NltWS2-/view?usp=drivesdk",
+                  "modifiedTime": "2026-05-24T08:27:04.640Z",
+                  "videoMediaMetadata": null
+                }
+              ]
+            },
+            {
+              "id": "1joRTYJnizsiA_c7ES0kzrIvlkM-GrU4u",
+              "name": "11. Chủ Đề 8.3 Ứng Dụng Đạo Hàm - Bài Toán Kinh Tế",
+              "webViewLink": "https://drive.google.com/drive/folders/1joRTYJnizsiA_c7ES0kzrIvlkM-GrU4u",
+              "modifiedTime": "2026-05-24T08:27:03.218Z",
+              "children": [],
+              "files": [
+                {
+                  "id": "1bY6Xa55sbhk8K2JnIJTWFXo0xSe-IdfX",
+                  "name": "11 BTVN 1 -  Toán 12 - Bài 5.2 Ứng Dụng Đạo Hàm - Phần 2. Bài Toán Kinh Tế - OK.mp4",
+                  "mimeType": "video/mp4",
+                  "size": 279306621,
+                  "webViewLink": "https://drive.google.com/file/d/1bY6Xa55sbhk8K2JnIJTWFXo0xSe-IdfX/view?usp=drivesdk",
+                  "modifiedTime": "2026-05-24T14:27:15.390Z",
+                  "videoMediaMetadata": null
+                },
+                {
+                  "id": "15PBP5EBaA6L4tyK6LJy1WyYlE2_Y0GI6",
+                  "name": "11 Toán 12 - BTVN - Bài toán kinh tế - OK.mp4",
+                  "mimeType": "video/mp4",
+                  "size": 244451137,
+                  "webViewLink": "https://drive.google.com/file/d/15PBP5EBaA6L4tyK6LJy1WyYlE2_Y0GI6/view?usp=drivesdk",
+                  "modifiedTime": "2026-05-24T14:31:32.592Z",
+                  "videoMediaMetadata": null
+                },
+                {
+                  "id": "1YzGmHNWaTtHbwnGKiKm8TVNchiUabkJF",
+                  "name": "11 Toán 12 - Bài 5.2 Ứng Dụng Đạo Hàm - Phần 2. Bài Toán Kinh Tế (VD1 - VD8) - OK.mp4",
+                  "mimeType": "video/mp4",
+                  "size": 287405771,
+                  "webViewLink": "https://drive.google.com/file/d/1YzGmHNWaTtHbwnGKiKm8TVNchiUabkJF/view?usp=drivesdk",
+                  "modifiedTime": "2026-05-24T14:32:24.780Z",
+                  "videoMediaMetadata": null
+                },
+                {
+                  "id": "1WpyzSLIqXFLHCUwlHK426S0PdpQ9iV1b",
+                  "name": "11 Toán 12 - Bài 5.2 Ứng Dụng Đạo Hàm - Phần 2. Bài Toán Kinh Tế (VD9 - VD12) - OK.mp4",
+                  "mimeType": "video/mp4",
+                  "size": 66898213,
+                  "webViewLink": "https://drive.google.com/file/d/1WpyzSLIqXFLHCUwlHK426S0PdpQ9iV1b/view?usp=drivesdk",
+                  "modifiedTime": "2026-05-24T14:26:50.020Z",
+                  "videoMediaMetadata": null
+                },
+                {
+                  "id": "106-enxJ6Da_pTwc9aJw2RFdzp1rnbdpw",
+                  "name": "Chủ Đề 8.3 Ứng Dụng Đạo Hàm - Bài Toán Kinh Tế .pdf",
+                  "mimeType": "application/pdf",
+                  "size": 4971716,
+                  "webViewLink": "https://drive.google.com/file/d/106-enxJ6Da_pTwc9aJw2RFdzp1rnbdpw/view?usp=drivesdk",
+                  "modifiedTime": "2026-05-24T08:27:03.996Z",
+                  "videoMediaMetadata": null
+                }
+              ]
+            },
+            {
+              "id": "17y3HbWQ21GgQFZ_CIZnFrm6EZvNObkUy",
+              "name": "2. Chủ Đề 2. Toán Thực Tế CSC - CSN",
+              "webViewLink": "https://drive.google.com/drive/folders/17y3HbWQ21GgQFZ_CIZnFrm6EZvNObkUy",
+              "modifiedTime": "2026-05-21T16:35:26.113Z",
+              "children": [],
+              "files": [
+                {
+                  "id": "1tSvM4QEnXThyVeD5Ed0U_7eCI-20dvV_",
+                  "name": "Chủ Đề 2. Toán Thực Tế CSC - CSN .pdf",
+                  "mimeType": "application/pdf",
+                  "size": 4931918,
+                  "webViewLink": "https://drive.google.com/file/d/1tSvM4QEnXThyVeD5Ed0U_7eCI-20dvV_/view?usp=drivesdk",
+                  "modifiedTime": "2026-05-21T16:35:26.862Z",
+                  "videoMediaMetadata": null
+                }
+              ]
+            },
+            {
+              "id": "13dWSUKO11OESmsZNwRDLvaS_BSgt3bLj",
+              "name": "3. Chủ Đề 3.1. Toán Thực Tế Giới Hạn",
+              "webViewLink": "https://drive.google.com/drive/folders/13dWSUKO11OESmsZNwRDLvaS_BSgt3bLj",
+              "modifiedTime": "2026-05-21T16:35:25.496Z",
+              "children": [],
+              "files": [
+                {
+                  "id": "1QVpoxnOG5LClBG9T_EBXaKAK2pHsfG2J",
+                  "name": "Chủ Đề 3.1. Toán Thực Tế Giới Hạn.pdf",
+                  "mimeType": "application/pdf",
+                  "size": 4193658,
+                  "webViewLink": "https://drive.google.com/file/d/1QVpoxnOG5LClBG9T_EBXaKAK2pHsfG2J/view?usp=drivesdk",
+                  "modifiedTime": "2026-05-21T16:35:26.220Z",
+                  "videoMediaMetadata": null
+                }
+              ]
+            },
+            {
+              "id": "1fZCTvHNGHLbWHpgt8bvsfN8QDVwEql-R",
+              "name": "4. Chủ Đề 3.2 Toán Thực Tế Hàm Số Liên Tục",
+              "webViewLink": "https://drive.google.com/drive/folders/1fZCTvHNGHLbWHpgt8bvsfN8QDVwEql-R",
+              "modifiedTime": "2026-05-21T16:35:24.709Z",
+              "children": [],
+              "files": [
+                {
+                  "id": "1mpH9xpNFj4cuZsJjDbfZfO-vXLrH-UTR",
+                  "name": "Chủ Đề 3.2 Toán Thực Tế Hàm Số Liên Tục .pdf",
+                  "mimeType": "application/pdf",
+                  "size": 2770263,
+                  "webViewLink": "https://drive.google.com/file/d/1mpH9xpNFj4cuZsJjDbfZfO-vXLrH-UTR/view?usp=drivesdk",
+                  "modifiedTime": "2026-05-21T16:35:25.669Z",
+                  "videoMediaMetadata": null
+                }
+              ]
+            },
+            {
+              "id": "1oq1SF6Uce9yLuOAmOhlSBupCnA4MqLTe",
+              "name": "5. Chủ Đề 4. Hàm Số Mũ & Logarit",
+              "webViewLink": "https://drive.google.com/drive/folders/1oq1SF6Uce9yLuOAmOhlSBupCnA4MqLTe",
+              "modifiedTime": "2026-05-21T16:35:24.084Z",
+              "children": [],
+              "files": [
+                {
+                  "id": "10Kbd09V19tl98uo_umaI7N4a-DoIVIjI",
+                  "name": "5. Toán 11 - Bài 5. Toán Thực Tế Mũ Và Logarit.mp4",
+                  "mimeType": "video/mp4",
+                  "size": 204988469,
+                  "webViewLink": "https://drive.google.com/file/d/10Kbd09V19tl98uo_umaI7N4a-DoIVIjI/view?usp=drivesdk",
+                  "modifiedTime": "2026-05-22T08:36:14.079Z",
+                  "videoMediaMetadata": null
+                },
+                {
+                  "id": "1hq5OQ39QhIiF5mq1iW_i80HEj-_KmwmG",
+                  "name": "Chủ Đề 4. Hàm Số Mũ & Logarit.pdf",
+                  "mimeType": "application/pdf",
+                  "size": 4697745,
+                  "webViewLink": "https://drive.google.com/file/d/1hq5OQ39QhIiF5mq1iW_i80HEj-_KmwmG/view?usp=drivesdk",
+                  "modifiedTime": "2026-05-21T16:35:24.805Z",
+                  "videoMediaMetadata": null
+                }
+              ]
+            },
+            {
+              "id": "1PSp6tXmU03u5aKyC6BQbqYznmOajC-jj",
+              "name": "6. Chủ Đề 5. Phương Pháp Trải Phẳng",
+              "webViewLink": "https://drive.google.com/drive/folders/1PSp6tXmU03u5aKyC6BQbqYznmOajC-jj",
+              "modifiedTime": "2026-05-21T16:35:23.452Z",
+              "children": [],
+              "files": [
+                {
+                  "id": "1Wix8pWdoThpoRCwHjHv__70fNAoG86jL",
+                  "name": "6. Toán 12 - Trải Phẳng Hình Không Gian - OK.mp4",
+                  "mimeType": "video/mp4",
+                  "size": 295210806,
+                  "webViewLink": "https://drive.google.com/file/d/1Wix8pWdoThpoRCwHjHv__70fNAoG86jL/view?usp=drivesdk",
+                  "modifiedTime": "2026-05-22T08:35:57.597Z",
+                  "videoMediaMetadata": {
+                    "width": 1920,
+                    "height": 1080,
+                    "durationMillis": "3646533"
+                  }
+                },
+                {
+                  "id": "1wvUGVeLcDQK7ULRlkbxvXJ1sSB4Ra_1C",
+                  "name": "Chủ Đề 5. Phương Pháp Trải Phẳng .pdf",
+                  "mimeType": "application/pdf",
+                  "size": 3748883,
+                  "webViewLink": "https://drive.google.com/file/d/1wvUGVeLcDQK7ULRlkbxvXJ1sSB4Ra_1C/view?usp=drivesdk",
+                  "modifiedTime": "2026-05-21T16:35:24.189Z",
+                  "videoMediaMetadata": null
+                }
+              ]
+            },
+            {
+              "id": "1_-oEGSxiEzcgQ6DXD9z7e-pGh1IYXJLM",
+              "name": "7. Chủ Đề 6. Quy Hoạch Tuyến Tính - Vẽ Miền Nghiệm",
+              "webViewLink": "https://drive.google.com/drive/folders/1_-oEGSxiEzcgQ6DXD9z7e-pGh1IYXJLM",
+              "modifiedTime": "2026-05-21T16:35:22.740Z",
+              "children": [],
+              "files": [
+                {
+                  "id": "11GXgkQO0pdqQIK2A_le6qrzKHY5VlFVC",
+                  "name": "7. BTVN - Bài Toán Quy Hoạch Tuyến Tính - Vẽ Miền Nghiệm (C5-7) - OK.mp4",
+                  "mimeType": "video/mp4",
+                  "size": 120627545,
+                  "webViewLink": "https://drive.google.com/file/d/11GXgkQO0pdqQIK2A_le6qrzKHY5VlFVC/view?usp=drivesdk",
+                  "modifiedTime": "2026-05-22T08:35:37.717Z",
+                  "videoMediaMetadata": {
+                    "width": 1920,
+                    "height": 1080,
+                    "durationMillis": "1760766"
+                  }
+                },
+                {
+                  "id": "1oR-uKJTC75nYz3zVxDoN02vbEWTuE1F8",
+                  "name": "7. BTVN - Bài Toán Quy Hoạch Tuyến Tính.mp4",
+                  "mimeType": "video/mp4",
+                  "size": 1342503062,
+                  "webViewLink": "https://drive.google.com/file/d/1oR-uKJTC75nYz3zVxDoN02vbEWTuE1F8/view?usp=drivesdk",
+                  "modifiedTime": "2026-05-22T08:35:27.855Z",
+                  "videoMediaMetadata": null
+                },
+                {
+                  "id": "1C_JJh6Ldmx0ar4R5CpMsC2ysyvCj7WwW",
+                  "name": "7. Tổng Ôn - Bài Toán Quy Hoạch Tuyến Tính - Vẽ Miền Nghiệm - OK.mp4",
+                  "mimeType": "video/mp4",
+                  "size": 325290192,
+                  "webViewLink": "https://drive.google.com/file/d/1C_JJh6Ldmx0ar4R5CpMsC2ysyvCj7WwW/view?usp=drivesdk",
+                  "modifiedTime": "2026-05-22T08:33:37.080Z",
+                  "videoMediaMetadata": null
+                },
+                {
+                  "id": "1tbUbSGpX8wcdizz44-QKsXyXKYpZkGjC",
+                  "name": "Chủ Đề 6. Quy Hoạch Tuyến Tính - Vẽ Miền Nghiệm .pdf",
+                  "mimeType": "application/pdf",
+                  "size": 2247155,
+                  "webViewLink": "https://drive.google.com/file/d/1tbUbSGpX8wcdizz44-QKsXyXKYpZkGjC/view?usp=drivesdk",
+                  "modifiedTime": "2026-05-21T16:35:23.555Z",
+                  "videoMediaMetadata": null
+                }
+              ]
+            },
+            {
+              "id": "1W9J1Sh6WYDbklA2DxibgPbDEV3ZkD4JA",
+              "name": "8. Chủ Đề 7. Tìm Đường Đi Ngắn Nhất",
+              "webViewLink": "https://drive.google.com/drive/folders/1W9J1Sh6WYDbklA2DxibgPbDEV3ZkD4JA",
+              "modifiedTime": "2026-05-24T08:27:05.211Z",
+              "children": [],
+              "files": [
+                {
+                  "id": "1dUn-TPbmkphA58s8HY9JBcwb5mkggpm4",
+                  "name": "Chủ Đề 7. Tìm Đường Đi Ngắn Nhất .pdf",
+                  "mimeType": "application/pdf",
+                  "size": 4123496,
+                  "webViewLink": "https://drive.google.com/file/d/1dUn-TPbmkphA58s8HY9JBcwb5mkggpm4/view?usp=drivesdk",
+                  "modifiedTime": "2026-05-24T08:27:05.960Z",
+                  "videoMediaMetadata": null
+                },
+                {
+                  "id": "1SBjQrqEt-ofNdbHlHi34K_MewPma5gQg",
+                  "name": "Tổng Ôn - Bài Toán Đường Đi Ngắn Nhất - OK.mp4",
+                  "mimeType": "video/mp4",
+                  "size": 535170197,
+                  "webViewLink": "https://drive.google.com/file/d/1SBjQrqEt-ofNdbHlHi34K_MewPma5gQg/view?usp=drivesdk",
+                  "modifiedTime": "2026-05-24T14:36:57.254Z",
+                  "videoMediaMetadata": null
+                }
+              ]
+            },
+            {
+              "id": "1A0St6WE7lUsPeZl1qTlXru8imsrOP7Dx",
+              "name": "9. Chủ Đề 8.1 Ứng Dụng Đạo Hàm - Tốc Độ Thay Đổi Của 1 Đại Lượng",
+              "webViewLink": "https://drive.google.com/drive/folders/1A0St6WE7lUsPeZl1qTlXru8imsrOP7Dx",
+              "modifiedTime": "2026-05-24T08:27:04.519Z",
+              "children": [],
+              "files": [
+                {
+                  "id": "1MwsQdk0Ui03cn2pQbAnM0rzrNOmrGsPw",
+                  "name": "9 BTVN Phần 1 - Toán 12 - Ứng Dụng Đạo Hàm - Phần 1. Tốc Độ Thay Đổi 1 Đại Lượng - OK.mp4",
+                  "mimeType": "video/mp4",
+                  "size": 168152039,
+                  "webViewLink": "https://drive.google.com/file/d/1MwsQdk0Ui03cn2pQbAnM0rzrNOmrGsPw/view?usp=drivesdk",
+                  "modifiedTime": "2026-05-24T14:33:53.360Z",
+                  "videoMediaMetadata": null
+                },
+                {
+                  "id": "1onF4viWfQAoeynLA_Cuw7URJyfh-Lwl1",
+                  "name": "9 BTVN Phần 2 - Toán 12 - Ứng Dụng Đạo Hàm - Phần 1. Tốc Độ Thay Đổi 1 Đại Lượng - OK.mp4",
+                  "mimeType": "video/mp4",
+                  "size": 285255020,
+                  "webViewLink": "https://drive.google.com/file/d/1onF4viWfQAoeynLA_Cuw7URJyfh-Lwl1/view?usp=drivesdk",
+                  "modifiedTime": "2026-05-24T14:34:36.170Z",
+                  "videoMediaMetadata": null
+                },
+                {
+                  "id": "1h-FTHUMJEwx3s9op02yISCPAN3TrG4Zk",
+                  "name": "9 Toán 12 - Ứng Dụng Đạo Hàm - Phần 1. Tốc Độ Thay Đổi 1 Đại Lượng - OK.mp4",
+                  "mimeType": "video/mp4",
+                  "size": 270603645,
+                  "webViewLink": "https://drive.google.com/file/d/1h-FTHUMJEwx3s9op02yISCPAN3TrG4Zk/view?usp=drivesdk",
+                  "modifiedTime": "2026-05-24T14:35:21.296Z",
+                  "videoMediaMetadata": null
+                },
+                {
+                  "id": "1kHX4kV46Wnj5SU5GfkKPkoX3vkQj-VGm",
+                  "name": "Chủ Đề 8.1 Ứng Dụng Đạo Hàm - Tốc Độ Thay Đổi Của 1 Đại Lượng .pdf",
+                  "mimeType": "application/pdf",
+                  "size": 3169993,
+                  "webViewLink": "https://drive.google.com/file/d/1kHX4kV46Wnj5SU5GfkKPkoX3vkQj-VGm/view?usp=drivesdk",
+                  "modifiedTime": "2026-05-24T08:27:05.320Z",
+                  "videoMediaMetadata": null
+                }
+              ]
+            }
+          ],
+          "files": []
+        }
+      ],
+      "files": [],
+      "webViewLink": "https://drive.google.com/drive/folders/17fYu2ZvcamPAtyq81JNeAYB8790rEY1n",
+      "modifiedTime": "2026-04-18T14:17:59.725Z"
+    },
+    {
+      "id": "1zbG0AHf9tBgsZvlXxV7ZHZIiBsCQpw7m",
+      "name": "3. KHOÁ A LIVE BỔ TRỢ VÀ ÔN TẬP HÀNG TUẦN (Live hàng tuần)",
+      "children": [],
+      "files": [],
+      "webViewLink": "https://drive.google.com/drive/folders/1zbG0AHf9tBgsZvlXxV7ZHZIiBsCQpw7m",
+      "modifiedTime": "2026-04-18T14:17:58.466Z"
+    },
+    {
+      "id": "1PShDnWi0ojz3K3MQB5bdcVvsGL1Xb1F3",
+      "name": "4. KHOÁ R TỔNG ÔN TRỌNG ĐIỂM (Live)",
+      "children": [],
+      "files": [],
+      "webViewLink": "https://drive.google.com/drive/folders/1PShDnWi0ojz3K3MQB5bdcVvsGL1Xb1F3",
+      "modifiedTime": "2026-04-18T14:17:57.479Z"
+    },
+    {
+      "id": "1D47KAF0zH6gSIXcHH5BC8e0PLZt7HOz6",
+      "name": "5. KHOÁ T LUYỆN ĐỀ TOÀN DIỆN (Live)",
+      "children": [],
+      "files": [],
+      "webViewLink": "https://drive.google.com/drive/folders/1D47KAF0zH6gSIXcHH5BC8e0PLZt7HOz6",
+      "modifiedTime": "2026-04-18T14:17:56.445Z"
+    },
+    {
+      "id": "1KjkqrVSzBgDRixlcBMSI79B9SnEL59XF",
+      "name": "Z. EBOOK SÁCH KÈM KHOÁ HỌC",
+      "children": [],
+      "files": [],
+      "webViewLink": "https://drive.google.com/drive/folders/1KjkqrVSzBgDRixlcBMSI79B9SnEL59XF",
+      "modifiedTime": "2026-04-18T14:18:02.599Z"
+    }
+  ]
+}

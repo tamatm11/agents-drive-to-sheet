@@ -1,0 +1,85 @@
+{
+  "updatedAt": "2026-05-28T12:18:35.706Z",
+  "teacher": {
+    "id": "198Vq2KWTC3OPXar58qU0FNFT-Eyu9zHQ",
+    "name": "2. SINH CÔ TRÀ MY QANDA 2k9"
+  },
+  "schema": {
+    "levels": [
+      {
+        "depth": 0,
+        "label": "Chương / Chuyên đề",
+        "icon": "📖",
+        "bold": true,
+        "bg": "#FCE5C0",
+        "namePatternHint": "Cấp 1: vd 'Bài 1. Khái quát về Di truyền phân tử', 'Bài 2.1. DNA và quá trình tái bản', 'Bài 2.2. Các dạng bài tập về DNA và quá trình', 'Bài 2.3. Chữa bài tập DNA và quá trình tái bả', 'Bài 3.1. Gene, RNA và quá trình phiên mã (Sự '"
+      }
+    ],
+    "leafFallback": {
+      "label": "Bài",
+      "icon": "📂",
+      "bold": true,
+      "bg": "#FCF1D4",
+      "note": "Một số khóa file nằm cấp nông hơn — render thẳng như leaf bài học."
+    },
+    "courseRow": {
+      "icon": "📚",
+      "bold": true,
+      "fontSize": 12,
+      "bg": "#D4E5FA"
+    },
+    "videoRow": {
+      "icon": "▸",
+      "indent": "extra-from-leaf"
+    },
+    "notes": "Auto-detect (1 cấp). 1/5 khóa có cấu trúc. Pattern: flat. Skip 2 folder meta. 47 file đã upload."
+  },
+  "_meta": {
+    "source": "auto-detect",
+    "version": 1,
+    "generated_at": "2026-05-28T12:18:35.706Z",
+    "confidence": "high",
+    "dominant_depth": 1,
+    "dominant_share": 1,
+    "patterns_observed": [
+      "flat"
+    ],
+    "meta_courses_skipped": [
+      "0. INFO THÔNG TIN VÀ HƯỚNG DẪN KHOÁ HỌC",
+      "Z. EBOOK SÁCH KÈM KHOÁ HỌC"
+    ],
+    "course_breakdown": [
+      {
+        "name": "01. XPS - SINH 12 - DI TRUYỀN PHÂN TỬ",
+        "structure_depth": 1,
+        "pattern": "flat",
+        "files": 47
+      },
+      {
+        "name": "1. GIAI ĐOẠN 1 XUẤT PHÁT SỚM",
+        "structure_depth": 0,
+        "pattern": "empty",
+        "files": 0
+      },
+      {
+        "name": "2. GIAI ĐOẠN 2 CHINH PHỤC CHUYÊN ĐỀ",
+        "structure_depth": 0,
+        "pattern": "empty",
+        "files": 0
+      },
+      {
+        "name": "3. GIAI ĐOẠN 3 TỔNG ÔN TOÀN DIỆN",
+        "structure_depth": 0,
+        "pattern": "empty",
+        "files": 0
+      },
+      {
+        "name": "4. GIAI ĐOẠN 4 THẦN TỐC VỀ ĐÍCH",
+        "structure_depth": 0,
+        "pattern": "empty",
+        "files": 0
+      }
+    ],
+    "no_files_yet": false
+  }
+}

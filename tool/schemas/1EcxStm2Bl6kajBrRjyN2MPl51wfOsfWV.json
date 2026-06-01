@@ -1,0 +1,53 @@
+{
+  "updatedAt": "2026-05-28T09:33:37.559Z",
+  "teacher": {
+    "id": "1EcxStm2Bl6kajBrRjyN2MPl51wfOsfWV",
+    "name": "THẦY TRỊNH ĐÌNH THÀNH DPAD 2K9"
+  },
+  "schema": {
+    "levels": [
+      {
+        "depth": 0,
+        "label": "Chương / Chuyên đề",
+        "icon": "📖",
+        "bold": true,
+        "bg": "#FCE5C0",
+        "namePatternHint": "Cấp 1 dưới khóa: Chương/CHAPTER/Chuyên đề/Chủ đề + số."
+      },
+      {
+        "depth": 1,
+        "label": "Bài",
+        "icon": "📂",
+        "bold": true,
+        "bg": "#FCF1D4",
+        "namePatternHint": "Cấp 2: Bài/[BÀI N]/Theme/Buổi/Tx-Ax/INxxx + tên."
+      },
+      {
+        "depth": 2,
+        "label": "Tiết / Phần",
+        "icon": "📁",
+        "bold": false,
+        "bg": "#F2FAEA",
+        "namePatternHint": "Cấp 3 (nếu có): Tiết/Phần/Buổi/Tài liệu."
+      }
+    ],
+    "leafFallback": {
+      "label": "Bài",
+      "icon": "📂",
+      "bold": true,
+      "bg": "#FCF1D4",
+      "note": "Một số GV file nằm ngay cấp 1 hoặc cấp 2; render thẳng như leaf bài học."
+    },
+    "courseRow": {
+      "icon": "📚",
+      "bold": true,
+      "fontSize": 12,
+      "bg": "#D4E5FA"
+    },
+    "videoRow": {
+      "icon": "▸",
+      "indent": "extra-from-leaf"
+    },
+    "notes": "CHƯƠNG N - MỤC N → Bài N. 2 cấp."
+  }
+}

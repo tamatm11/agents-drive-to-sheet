@@ -1,0 +1,78 @@
+{
+  "updatedAt": "2026-05-29T09:19:12.615Z",
+  "teacher": {
+    "id": "1o8ag_6LgjiI09vo8ZE2_tYrgSHsFYKpC",
+    "name": "5. LÝ THẦY LÊ TÙNG ƯNG TENS 2k9"
+  },
+  "schema": {
+    "levels": [
+      {
+        "depth": 0,
+        "label": "Chương / Chuyên đề",
+        "icon": "📖",
+        "bold": true,
+        "bg": "#FCE5C0",
+        "namePatternHint": ""
+      }
+    ],
+    "leafFallback": {
+      "label": "Bài",
+      "icon": "📂",
+      "bold": true,
+      "bg": "#FCF1D4",
+      "note": "Folder nông — render thẳng như leaf bài học."
+    },
+    "courseRow": {
+      "icon": "📚",
+      "bold": true,
+      "fontSize": 12,
+      "bg": "#D4E5FA"
+    },
+    "videoRow": {
+      "icon": "▸",
+      "indent": "extra-from-leaf"
+    },
+    "notes": "Auto-generated. 4 khóa chính."
+  },
+  "_meta": {
+    "source": "auto-detect",
+    "version": 1,
+    "generated_at": "2026-05-29T09:19:12.615Z",
+    "confidence": "high",
+    "dominant_depth": 1,
+    "dominant_share": 1,
+    "patterns_observed": [
+      "flat"
+    ],
+    "meta_courses_skipped": [
+      "0. INFO THÔNG TIN VÀ HƯỚNG DẪN KHOÁ HỌC",
+      "Z. EBOOK SÁCH KÈM KHOÁ HỌC"
+    ],
+    "course_breakdown": [
+      {
+        "name": "1. KHOÁ T NỀN TẢNG VẬT LÝ 12",
+        "structure_depth": 0,
+        "pattern": "empty",
+        "files": 0
+      },
+      {
+        "name": "2. KHOÁ E MÔ HÌNH THỰC TẾ VÀ BÀI TẬP NÂNG CAO",
+        "structure_depth": 0,
+        "pattern": "empty",
+        "files": 0
+      },
+      {
+        "name": "3. KHOÁ N THỰC CHIẾN LUYỆN ĐỀ",
+        "structure_depth": 0,
+        "pattern": "empty",
+        "files": 0
+      },
+      {
+        "name": "4. KHOÁ S TỔNG ÔN TOÀN DIỆN LÝ THUYẾT",
+        "structure_depth": 0,
+        "pattern": "empty",
+        "files": 0
+      }
+    ]
+  }
+}

@@ -1,0 +1,1686 @@
+{
+  "crawledAt": "2026-05-30T02:14:36.678Z",
+  "teacher": {
+    "id": "1Egk914jxRYEGku0jzCfMrvfTen6hUCm8",
+    "name": "3. ĐỊA LÝ CÔ MAI ANH LỚP HỌC ĐỊA LÝ 2K9",
+    "modifiedTime": "2026-05-27T15:23:03.116Z",
+    "webViewLink": "https://drive.google.com/drive/folders/1Egk914jxRYEGku0jzCfMrvfTen6hUCm8"
+  },
+  "courses": [
+    {
+      "id": "18VhA792Nfp9YBVA8L1kDYrlYrRmgoxzP",
+      "name": "0. INFO THÔNG TIN VÀ HƯỚNG DẪN KHOÁ HỌC",
+      "children": [],
+      "files": [],
+      "webViewLink": "https://drive.google.com/drive/folders/18VhA792Nfp9YBVA8L1kDYrlYrRmgoxzP",
+      "modifiedTime": "2026-04-19T03:39:38.900Z"
+    },
+    {
+      "id": "1Vnet49fvpTEY0GGSwzIJYOvy8J3-ONIV",
+      "name": "1. CHẶNG 1: LIVE S - LÝ THUYẾT NỀN TẢNG ĐỊA LÍ 12 - Cô Mai Anh",
+      "children": [
+        {
+          "id": "1EtSSPM2Ee2PDnQ7I679O6mKkw3LGE3-7",
+          "name": "1. GIẢI BÀI TẬP SÁCH LTNT",
+          "webViewLink": "https://drive.google.com/drive/folders/1EtSSPM2Ee2PDnQ7I679O6mKkw3LGE3-7",
+          "modifiedTime": "2026-05-19T09:14:12.434Z",
+          "children": [
+            {
+              "id": "1g5Vc0g_ioVHt6LnEtIe8YlN6hAcZ_uSG",
+              "name": "1. ĐỊNH HƯỚNG ÔN THI\t\t\t",
+              "webViewLink": "https://drive.google.com/drive/folders/1g5Vc0g_ioVHt6LnEtIe8YlN6hAcZ_uSG",
+              "modifiedTime": "2026-05-21T06:36:01.859Z",
+              "children": [
+                {
+                  "id": "19EcYaDY9Jvwru0NNSMg7s909GM4tLzGc",
+                  "name": "1. PHÂN TÍCH ĐỀ THI TN THPT VÀ HƯỚNG ÔN THI HIỆU QUẢ",
+                  "webViewLink": "https://drive.google.com/drive/folders/19EcYaDY9Jvwru0NNSMg7s909GM4tLzGc",
+                  "modifiedTime": "2026-05-21T06:36:04.962Z",
+                  "children": [],
+                  "files": [
+                    {
+                      "id": "1gI2E8RYsfmiXlETAJ-AtCnhjGlayht2O",
+                      "name": "PHÂN TÍCH ĐỀ THI TN THPT VÀ HƯỚNG ÔN THI HIỆU QUẢ.mp4",
+                      "mimeType": "video/mp4",
+                      "size": 67157933,
+                      "webViewLink": "https://drive.google.com/file/d/1gI2E8RYsfmiXlETAJ-AtCnhjGlayht2O/view?usp=drivesdk",
+                      "modifiedTime": "2026-05-21T06:36:13.019Z",
+                      "videoMediaMetadata": null
+                    }
+                  ]
+                }
+              ],
+              "files": []
+            },
+            {
+              "id": "1GYcVg_1hPkHYQyOp2XMY-C9HrzM6x9OQ",
+              "name": "2. CHƯƠNG 1: ĐỊA LÍ TỰ NHIÊN\t\t\t",
+              "webViewLink": "https://drive.google.com/drive/folders/1GYcVg_1hPkHYQyOp2XMY-C9HrzM6x9OQ",
+              "modifiedTime": "2026-05-21T06:33:44.208Z",
+              "children": [
+                {
+                  "id": "1n_mtattEh3hslTrvCHQyyKfmnG6mR4KI",
+                  "name": "1. BÀI 1 VỊ TRÍ ĐỊA LÍ, PHẠM VI LÃNH THỔ",
+                  "webViewLink": "https://drive.google.com/drive/folders/1n_mtattEh3hslTrvCHQyyKfmnG6mR4KI",
+                  "modifiedTime": "2026-05-21T06:35:50.853Z",
+                  "children": [],
+                  "files": [
+                    {
+                      "id": "1BWGGd3-73ijhhMC8mGeG17PKH8YsJPJM",
+                      "name": "BÀI 1 VỊ TRÍ ĐỊA LÍ, PHẠM VI LÃNH THỔ.mp4",
+                      "mimeType": "video/mp4",
+                      "size": 79782215,
+                      "webViewLink": "https://drive.google.com/file/d/1BWGGd3-73ijhhMC8mGeG17PKH8YsJPJM/view?usp=drivesdk",
+                      "modifiedTime": "2026-05-21T06:36:00.049Z",
+                      "videoMediaMetadata": null
+                    }
+                  ]
+                },
+                {
+                  "id": "1NIBv7gMSOFcwvsseZiLUx6iMaZWHHYG3",
+                  "name": "10. CHỮA BT BÀI 4",
+                  "webViewLink": "https://drive.google.com/drive/folders/1NIBv7gMSOFcwvsseZiLUx6iMaZWHHYG3",
+                  "modifiedTime": "2026-05-21T06:34:15.073Z",
+                  "children": [],
+                  "files": [
+                    {
+                      "id": "1PXPsgz0ZgU1UAWgIOkwNKYhgoM6lyU0m",
+                      "name": "CHỮA BT BÀI 4.mp4",
+                      "mimeType": "video/mp4",
+                      "size": 95172326,
+                      "webViewLink": "https://drive.google.com/file/d/1PXPsgz0ZgU1UAWgIOkwNKYhgoM6lyU0m/view?usp=drivesdk",
+                      "modifiedTime": "2026-05-21T06:34:25.002Z",
+                      "videoMediaMetadata": {
+                        "width": 1280,
+                        "height": 720,
+                        "durationMillis": "1383866"
+                      }
+                    }
+                  ]
+                },
+                {
+                  "id": "1d_xK2CcXBeUsj66ORdfBmDUvekVMXjbN",
+                  "name": "2. CHỮA BT BÀI 1",
+                  "webViewLink": "https://drive.google.com/drive/folders/1d_xK2CcXBeUsj66ORdfBmDUvekVMXjbN",
+                  "modifiedTime": "2026-05-21T06:35:35.811Z",
+                  "children": [],
+                  "files": [
+                    {
+                      "id": "1Cs0L4IjqLih5pAU-PZLHWgS3ipkl7g-D",
+                      "name": "CHỮA BT BÀI 1.mp4",
+                      "mimeType": "video/mp4",
+                      "size": 204327321,
+                      "webViewLink": "https://drive.google.com/file/d/1Cs0L4IjqLih5pAU-PZLHWgS3ipkl7g-D/view?usp=drivesdk",
+                      "modifiedTime": "2026-05-21T06:35:49.196Z",
+                      "videoMediaMetadata": null
+                    }
+                  ]
+                },
+                {
+                  "id": "13KwBP8g5_hQyFcDN5aMap9cqJ0yTjmPl",
+                  "name": "3. BÀI 2 THIÊN NHIÊN NHIỆT ĐỚI ẨM GIÓ MÙA",
+                  "webViewLink": "https://drive.google.com/drive/folders/13KwBP8g5_hQyFcDN5aMap9cqJ0yTjmPl",
+                  "modifiedTime": "2026-05-21T06:35:24.149Z",
+                  "children": [],
+                  "files": [
+                    {
+                      "id": "11torZ2muSO2zb00cHi-eIvyDXnfpcEGG",
+                      "name": "BÀI 2 THIÊN NHIÊN NHIỆT ĐỚI ẨM GIÓ MÙA P2.mp4",
+                      "mimeType": "video/mp4",
+                      "size": 85077219,
+                      "webViewLink": "https://drive.google.com/file/d/11torZ2muSO2zb00cHi-eIvyDXnfpcEGG/view?usp=drivesdk",
+                      "modifiedTime": "2026-05-21T06:35:34.067Z",
+                      "videoMediaMetadata": {
+                        "width": 1920,
+                        "height": 1080,
+                        "durationMillis": "1060399"
+                      }
+                    }
+                  ]
+                },
+                {
+                  "id": "1Hh-SRjpcUpeoZet6UwwI5AL9voJaZVtQ",
+                  "name": "4. BÀI 2 THIÊN NHIÊN NHIỆT ĐỚI ẨM GIÓ MÙA P2",
+                  "webViewLink": "https://drive.google.com/drive/folders/1Hh-SRjpcUpeoZet6UwwI5AL9voJaZVtQ",
+                  "modifiedTime": "2026-05-21T06:35:12.569Z",
+                  "children": [],
+                  "files": [
+                    {
+                      "id": "13dReceMWjst0uvYxgvo0ByksDvIs8SWA",
+                      "name": "BÀI 2 THIÊN NHIÊN NHIỆT ĐỚI ẨM GIÓ MÙA.mp4",
+                      "mimeType": "video/mp4",
+                      "size": 88066500,
+                      "webViewLink": "https://drive.google.com/file/d/13dReceMWjst0uvYxgvo0ByksDvIs8SWA/view?usp=drivesdk",
+                      "modifiedTime": "2026-05-21T06:35:22.508Z",
+                      "videoMediaMetadata": {
+                        "width": 1920,
+                        "height": 1080,
+                        "durationMillis": "1091099"
+                      }
+                    }
+                  ]
+                },
+                {
+                  "id": "1974kR-n-tTHUGHBepZjik26hNkdzQxSb",
+                  "name": "5. CHỮA BT BÀI 2",
+                  "webViewLink": "https://drive.google.com/drive/folders/1974kR-n-tTHUGHBepZjik26hNkdzQxSb",
+                  "modifiedTime": "2026-05-21T06:34:54.556Z",
+                  "children": [],
+                  "files": [
+                    {
+                      "id": "1k0Ry6ne7zJksqj_7jGt6U8d9UF2VUzLP",
+                      "name": "CHỮA BT BÀI 2.mp4",
+                      "mimeType": "video/mp4",
+                      "size": 226019353,
+                      "webViewLink": "https://drive.google.com/file/d/1k0Ry6ne7zJksqj_7jGt6U8d9UF2VUzLP/view?usp=drivesdk",
+                      "modifiedTime": "2026-05-21T06:35:10.961Z",
+                      "videoMediaMetadata": null
+                    }
+                  ]
+                },
+                {
+                  "id": "1gtVUfZvdaKHNE2zAPGg5fsCFypy5pAjc",
+                  "name": "6. BÀI 3 SỰ PHÂN HÓA ĐA DẠNG CỦA THIÊN NHIÊN",
+                  "webViewLink": "https://drive.google.com/drive/folders/1gtVUfZvdaKHNE2zAPGg5fsCFypy5pAjc",
+                  "modifiedTime": "2026-05-21T06:34:39.360Z",
+                  "children": [],
+                  "files": [
+                    {
+                      "id": "1_v8gG-0Plz2UfyoLGYlWtkmxGBpZjTod",
+                      "name": "BÀI 3 SỰ PHÂN HÓA ĐA DẠNG CỦA THIÊN NHIÊN P2.mp4",
+                      "mimeType": "video/mp4",
+                      "size": 186497471,
+                      "webViewLink": "https://drive.google.com/file/d/1_v8gG-0Plz2UfyoLGYlWtkmxGBpZjTod/view?usp=drivesdk",
+                      "modifiedTime": "2026-05-21T06:34:53.008Z",
+                      "videoMediaMetadata": null
+                    }
+                  ]
+                },
+                {
+                  "id": "1bbVmeb_P7zWNJIJNaT7wzHQOQDlaC75o",
+                  "name": "7. BÀI 3 SỰ PHÂN HÓA ĐA DẠNG CỦA THIÊN NHIÊN P2",
+                  "webViewLink": "https://drive.google.com/drive/folders/1bbVmeb_P7zWNJIJNaT7wzHQOQDlaC75o",
+                  "modifiedTime": "2026-05-21T06:34:26.821Z",
+                  "children": [],
+                  "files": [
+                    {
+                      "id": "1tTaSMdG7mHnUItaoh774UeO4WDE9z5xX",
+                      "name": "BÀI 3 SỰ PHÂN HÓA ĐA DẠNG CỦA THIÊN NHIÊN.mp4",
+                      "mimeType": "video/mp4",
+                      "size": 146074195,
+                      "webViewLink": "https://drive.google.com/file/d/1tTaSMdG7mHnUItaoh774UeO4WDE9z5xX/view?usp=drivesdk",
+                      "modifiedTime": "2026-05-21T06:34:37.866Z",
+                      "videoMediaMetadata": {
+                        "width": 1920,
+                        "height": 1080,
+                        "durationMillis": "1434666"
+                      }
+                    }
+                  ]
+                },
+                {
+                  "id": "1rq8XiZSvbju0nmzkDU3eJn-IQcYonccd",
+                  "name": "8. CHỮA BT BÀI 3",
+                  "webViewLink": "https://drive.google.com/drive/folders/1rq8XiZSvbju0nmzkDU3eJn-IQcYonccd",
+                  "modifiedTime": "2026-05-21T06:33:46.699Z",
+                  "children": [],
+                  "files": [
+                    {
+                      "id": "1nva8mBjLRX6vmg4CtQn-MS4Ch65zkTDY",
+                      "name": "CHỮA BT BÀI 3.mp4",
+                      "mimeType": "video/mp4",
+                      "size": 210182520,
+                      "webViewLink": "https://drive.google.com/file/d/1nva8mBjLRX6vmg4CtQn-MS4Ch65zkTDY/view?usp=drivesdk",
+                      "modifiedTime": "2026-05-21T06:34:00.315Z",
+                      "videoMediaMetadata": {
+                        "width": 1280,
+                        "height": 720,
+                        "durationMillis": "2708499"
+                      }
+                    }
+                  ]
+                },
+                {
+                  "id": "1B4GXDuqX2tEdZTeX5dkA02WQT0bPPmpt",
+                  "name": "9. BÀI 4 VẤN ĐỀ SỬ DỤNG HỢP LÍ TÀI NGUYÊN THIÊN NHIÊN VÀ BẢO VỆ MÔI TRƯỜNG",
+                  "webViewLink": "https://drive.google.com/drive/folders/1B4GXDuqX2tEdZTeX5dkA02WQT0bPPmpt",
+                  "modifiedTime": "2026-05-21T06:34:01.902Z",
+                  "children": [],
+                  "files": [
+                    {
+                      "id": "1ZwEeO2Y-TkHNLWZJ-kgL5S8C0mfybhfz",
+                      "name": "BÀI 4 VẤN ĐỀ SỬ DỤNG HỢP LÍ TÀI NGUYÊN THIÊN NHIÊN VÀ BẢO VỆ MÔI TRƯỜNG.mp4",
+                      "mimeType": "video/mp4",
+                      "size": 152546219,
+                      "webViewLink": "https://drive.google.com/file/d/1ZwEeO2Y-TkHNLWZJ-kgL5S8C0mfybhfz/view?usp=drivesdk",
+                      "modifiedTime": "2026-05-21T06:34:13.472Z",
+                      "videoMediaMetadata": null
+                    }
+                  ]
+                }
+              ],
+              "files": []
+            },
+            {
+              "id": "1-NFgyWZvGb0ejke9IApf2krWguxPVtA1",
+              "name": "3. CHƯƠNG 2: ĐỊA LÍ DÂN CƯ\t\t\t",
+              "webViewLink": "https://drive.google.com/drive/folders/1-NFgyWZvGb0ejke9IApf2krWguxPVtA1",
+              "modifiedTime": "2026-05-21T06:32:38.968Z",
+              "children": [
+                {
+                  "id": "1sC8lvCKfP0Vpz_rKZlMeFkv8ynIQTva5",
+                  "name": "1. BÀI 5 DÂN SỐ VIỆT NAM",
+                  "webViewLink": "https://drive.google.com/drive/folders/1sC8lvCKfP0Vpz_rKZlMeFkv8ynIQTva5",
+                  "modifiedTime": "2026-05-21T06:33:33.588Z",
+                  "children": [],
+                  "files": [
+                    {
+                      "id": "18GwrGiFX5Uqqq8uuIc0iubEaXkyrQziL",
+                      "name": "BÀI 5 DÂN SỐ VIỆT NAM.mp4",
+                      "mimeType": "video/mp4",
+                      "size": 82036377,
+                      "webViewLink": "https://drive.google.com/file/d/18GwrGiFX5Uqqq8uuIc0iubEaXkyrQziL/view?usp=drivesdk",
+                      "modifiedTime": "2026-05-21T06:33:42.789Z",
+                      "videoMediaMetadata": {
+                        "width": 1920,
+                        "height": 1080,
+                        "durationMillis": "1076299"
+                      }
+                    }
+                  ]
+                },
+                {
+                  "id": "1CrFQ94ISIwkdoCiYwkIPnsyxqW8tu8Z1",
+                  "name": "2. BÀI 6 LAO ĐỘNG VÀ VIỆC LÀM",
+                  "webViewLink": "https://drive.google.com/drive/folders/1CrFQ94ISIwkdoCiYwkIPnsyxqW8tu8Z1",
+                  "modifiedTime": "2026-05-21T06:33:23.208Z",
+                  "children": [],
+                  "files": [
+                    {
+                      "id": "1E9b39zvbnGTeMIIF0dhKPgEwDafNk6td",
+                      "name": "BÀI 6 LAO ĐỘNG VÀ VIỆC LÀM.mp4",
+                      "mimeType": "video/mp4",
+                      "size": 63547542,
+                      "webViewLink": "https://drive.google.com/file/d/1E9b39zvbnGTeMIIF0dhKPgEwDafNk6td/view?usp=drivesdk",
+                      "modifiedTime": "2026-05-21T06:33:31.974Z",
+                      "videoMediaMetadata": null
+                    }
+                  ]
+                },
+                {
+                  "id": "1Exe9X0BvzftdxSuv10Zz5mvlByZSeQSv",
+                  "name": "3. BÀI 7 ĐÔ THỊ HÓA",
+                  "webViewLink": "https://drive.google.com/drive/folders/1Exe9X0BvzftdxSuv10Zz5mvlByZSeQSv",
+                  "modifiedTime": "2026-05-21T06:33:13.752Z",
+                  "children": [],
+                  "files": [
+                    {
+                      "id": "1q3bggaBy2TDL8wvFn3NoZWFU0lMZI8-E",
+                      "name": "BÀI 7 ĐÔ THỊ HÓA.mp4",
+                      "mimeType": "video/mp4",
+                      "size": 35751439,
+                      "webViewLink": "https://drive.google.com/file/d/1q3bggaBy2TDL8wvFn3NoZWFU0lMZI8-E/view?usp=drivesdk",
+                      "modifiedTime": "2026-05-21T06:33:21.568Z",
+                      "videoMediaMetadata": {
+                        "width": 1920,
+                        "height": 1080,
+                        "durationMillis": "388899"
+                      }
+                    }
+                  ]
+                },
+                {
+                  "id": "10pBHnMalowlD8VBjvurk0bjalxBRobK6",
+                  "name": "4. CHỮA BT BÀI 5",
+                  "webViewLink": "https://drive.google.com/drive/folders/10pBHnMalowlD8VBjvurk0bjalxBRobK6",
+                  "modifiedTime": "2026-05-21T06:33:03.520Z",
+                  "children": [],
+                  "files": [
+                    {
+                      "id": "1lDaBHdoE7l9qIxOC1oP5MH6wn0SVsu1_",
+                      "name": "CHỮA BT BÀI 5.mp4",
+                      "mimeType": "video/mp4",
+                      "size": 101300677,
+                      "webViewLink": "https://drive.google.com/file/d/1lDaBHdoE7l9qIxOC1oP5MH6wn0SVsu1_/view?usp=drivesdk",
+                      "modifiedTime": "2026-05-21T06:33:12.236Z",
+                      "videoMediaMetadata": null
+                    }
+                  ]
+                },
+                {
+                  "id": "1n6JgMUcy7ZXX8J91zSCLHCaIIDZbf3jl",
+                  "name": "5. CHỮA BT BÀI 6",
+                  "webViewLink": "https://drive.google.com/drive/folders/1n6JgMUcy7ZXX8J91zSCLHCaIIDZbf3jl",
+                  "modifiedTime": "2026-05-21T06:32:52.009Z",
+                  "children": [],
+                  "files": [
+                    {
+                      "id": "1QuwKnofTdjfsTWPMJtnM4zND6xEWDRRP",
+                      "name": "CHỮA BT BÀI 6.mp4",
+                      "mimeType": "video/mp4",
+                      "size": 98722120,
+                      "webViewLink": "https://drive.google.com/file/d/1QuwKnofTdjfsTWPMJtnM4zND6xEWDRRP/view?usp=drivesdk",
+                      "modifiedTime": "2026-05-21T06:33:02.068Z",
+                      "videoMediaMetadata": null
+                    }
+                  ]
+                },
+                {
+                  "id": "15kCbGC7Mrfdr21krgY3HZG7Ik5mqq5ac",
+                  "name": "6. CHỮA BT BÀI 7",
+                  "webViewLink": "https://drive.google.com/drive/folders/15kCbGC7Mrfdr21krgY3HZG7Ik5mqq5ac",
+                  "modifiedTime": "2026-05-21T06:32:41.434Z",
+                  "children": [],
+                  "files": [
+                    {
+                      "id": "1Q6jh4OfEmmHkF3QJ21CnRHN39VE8tEjp",
+                      "name": "CHỮA BT BÀI 7.mp4",
+                      "mimeType": "video/mp4",
+                      "size": 84903386,
+                      "webViewLink": "https://drive.google.com/file/d/1Q6jh4OfEmmHkF3QJ21CnRHN39VE8tEjp/view?usp=drivesdk",
+                      "modifiedTime": "2026-05-21T06:32:50.513Z",
+                      "videoMediaMetadata": null
+                    }
+                  ]
+                }
+              ],
+              "files": []
+            },
+            {
+              "id": "1YlTYBnjzm9UBiC7YT_BG2p8vQ8IOziIb",
+              "name": "4. CHƯƠNG 3: ĐỊA LÍ NGÀNH KINH TẾ\t\t",
+              "webViewLink": "https://drive.google.com/drive/folders/1YlTYBnjzm9UBiC7YT_BG2p8vQ8IOziIb",
+              "modifiedTime": "2026-05-21T06:28:18.750Z",
+              "children": [
+                {
+                  "id": "1N2Qe1CLcDS6WtBAVDXUSjJAVO6rLGF4K",
+                  "name": "1. BÀI 8 CHUYỂN DỊCH CƠ CẤU KINH TẾ",
+                  "webViewLink": "https://drive.google.com/drive/folders/1N2Qe1CLcDS6WtBAVDXUSjJAVO6rLGF4K",
+                  "modifiedTime": "2026-05-21T06:32:28.740Z",
+                  "children": [],
+                  "files": [
+                    {
+                      "id": "191zQV2znCMuPi1kR6v-f46WBK7C6d2pV",
+                      "name": "BÀI 8 CHUYỂN DỊCH CƠ CẤU KINH TẾ.mp4",
+                      "mimeType": "video/mp4",
+                      "size": 83356041,
+                      "webViewLink": "https://drive.google.com/file/d/191zQV2znCMuPi1kR6v-f46WBK7C6d2pV/view?usp=drivesdk",
+                      "modifiedTime": "2026-05-21T06:32:37.420Z",
+                      "videoMediaMetadata": null
+                    }
+                  ]
+                },
+                {
+                  "id": "1hoWIag65Dsuw3GHloQGR62UgG7NEGgIB",
+                  "name": "10. CHỮA BT 16",
+                  "webViewLink": "https://drive.google.com/drive/folders/1hoWIag65Dsuw3GHloQGR62UgG7NEGgIB",
+                  "modifiedTime": "2026-05-21T06:30:41.489Z",
+                  "children": [],
+                  "files": [
+                    {
+                      "id": "1rApz8bfwQXWj6v2Uz2bIF6WMGIPEO41a",
+                      "name": "CHỮA BT 16.mp4",
+                      "mimeType": "video/mp4",
+                      "size": 134643505,
+                      "webViewLink": "https://drive.google.com/file/d/1rApz8bfwQXWj6v2Uz2bIF6WMGIPEO41a/view?usp=drivesdk",
+                      "modifiedTime": "2026-05-21T06:30:52.796Z",
+                      "videoMediaMetadata": null
+                    }
+                  ]
+                },
+                {
+                  "id": "1V8B3K50g8FrpMHcE8zSMqkxxKEsQjUgR",
+                  "name": "11. CHỮA BT 17",
+                  "webViewLink": "https://drive.google.com/drive/folders/1V8B3K50g8FrpMHcE8zSMqkxxKEsQjUgR",
+                  "modifiedTime": "2026-05-21T06:30:30.029Z",
+                  "children": [],
+                  "files": [
+                    {
+                      "id": "1c-hmWbPj2pJOBx559NZ9UcVb9XJFL2gZ",
+                      "name": "CHỮA BT 17.mp4",
+                      "mimeType": "video/mp4",
+                      "size": 116564934,
+                      "webViewLink": "https://drive.google.com/file/d/1c-hmWbPj2pJOBx559NZ9UcVb9XJFL2gZ/view?usp=drivesdk",
+                      "modifiedTime": "2026-05-21T06:30:40.062Z",
+                      "videoMediaMetadata": null
+                    }
+                  ]
+                },
+                {
+                  "id": "1VCI5ZVjN2xmBlrW0m7Vl36vGJ-v6DJtG",
+                  "name": "12. Bài 9 Vấn đề phát triển ngành nông nghiệp",
+                  "webViewLink": "https://drive.google.com/drive/folders/1VCI5ZVjN2xmBlrW0m7Vl36vGJ-v6DJtG",
+                  "modifiedTime": "2026-05-21T06:30:11.012Z",
+                  "children": [],
+                  "files": [
+                    {
+                      "id": "1En59N8pGjEYv-2TxqZG_8SfcCWGUFVvB",
+                      "name": "Bài 9 Vấn đề phát triển ngành nông nghiệp.mp4",
+                      "mimeType": "video/mp4",
+                      "size": 337682017,
+                      "webViewLink": "https://drive.google.com/file/d/1En59N8pGjEYv-2TxqZG_8SfcCWGUFVvB/view?usp=drivesdk",
+                      "modifiedTime": "2026-05-21T06:30:28.526Z",
+                      "videoMediaMetadata": null
+                    }
+                  ]
+                },
+                {
+                  "id": "1P6No6gKdL1HSylMFfVasb5MWJqmpu2ma",
+                  "name": "13. Bài 10 Vấn đề phát triển ngành lâm nghiệp và ngành thủy sản",
+                  "webViewLink": "https://drive.google.com/drive/folders/1P6No6gKdL1HSylMFfVasb5MWJqmpu2ma",
+                  "modifiedTime": "2026-05-21T06:29:52.316Z",
+                  "children": [],
+                  "files": [
+                    {
+                      "id": "11Jc8xH4YqQcsrwLveXqyykn5YTngsMD9",
+                      "name": "Bài 10 Vấn đề phát triển ngành lâm nghiệp và ngành thủy sản.mp4",
+                      "mimeType": "video/mp4",
+                      "size": 251964527,
+                      "webViewLink": "https://drive.google.com/file/d/11Jc8xH4YqQcsrwLveXqyykn5YTngsMD9/view?usp=drivesdk",
+                      "modifiedTime": "2026-05-21T06:30:09.450Z",
+                      "videoMediaMetadata": null
+                    }
+                  ]
+                },
+                {
+                  "id": "1yZG0bCLK6d3EFNbVwdOFAHdTKPBWK_Hh",
+                  "name": "14. Bài 11 + 12 Tổ chức lãnh thổ nông nghiệp, Chuyển dịch cơ cấu ngành công nghiệp",
+                  "webViewLink": "https://drive.google.com/drive/folders/1yZG0bCLK6d3EFNbVwdOFAHdTKPBWK_Hh",
+                  "modifiedTime": "2026-05-21T06:29:29.964Z",
+                  "children": [],
+                  "files": [
+                    {
+                      "id": "1HFZMP7s2P06mL9RhRgVP-FpLCNyiaQl0",
+                      "name": "Bài 11 + 12 Tổ chức lãnh thổ nông nghiệp, Chuyển dịch cơ cấu ngành công nghiệp.mp4",
+                      "mimeType": "video/mp4",
+                      "size": 304394024,
+                      "webViewLink": "https://drive.google.com/file/d/1HFZMP7s2P06mL9RhRgVP-FpLCNyiaQl0/view?usp=drivesdk",
+                      "modifiedTime": "2026-05-21T06:29:50.699Z",
+                      "videoMediaMetadata": null
+                    }
+                  ]
+                },
+                {
+                  "id": "1z2PnHwdA9oUpw7HThJw67gkydqwdtHi5",
+                  "name": "15. Bài 13 Một số ngành công nghiệp",
+                  "webViewLink": "https://drive.google.com/drive/folders/1z2PnHwdA9oUpw7HThJw67gkydqwdtHi5",
+                  "modifiedTime": "2026-05-21T06:29:12.301Z",
+                  "children": [],
+                  "files": [
+                    {
+                      "id": "1IGHUpVTzJ5y3LDFOIGzljNPCExjhktYg",
+                      "name": "Bài 13 Một số ngành công nghiệp.mp4",
+                      "mimeType": "video/mp4",
+                      "size": 236786599,
+                      "webViewLink": "https://drive.google.com/file/d/1IGHUpVTzJ5y3LDFOIGzljNPCExjhktYg/view?usp=drivesdk",
+                      "modifiedTime": "2026-05-21T06:29:28.375Z",
+                      "videoMediaMetadata": null
+                    }
+                  ]
+                },
+                {
+                  "id": "1Uc5qZCkP2Ayl-XdvnIo_MQhrU2OEx-Ew",
+                  "name": "16. Bài 14 Tổ chức lãnh thổ công nghiệp",
+                  "webViewLink": "https://drive.google.com/drive/folders/1Uc5qZCkP2Ayl-XdvnIo_MQhrU2OEx-Ew",
+                  "modifiedTime": "2026-05-21T06:28:56.896Z",
+                  "children": [],
+                  "files": [
+                    {
+                      "id": "1RSHjLcZqbcKee8rDsAknKb7jZuhfVujZ",
+                      "name": "Bài 14 Tổ chức lãnh thổ công nghiệp.mp4",
+                      "mimeType": "video/mp4",
+                      "size": 109524276,
+                      "webViewLink": "https://drive.google.com/file/d/1RSHjLcZqbcKee8rDsAknKb7jZuhfVujZ/view?usp=drivesdk",
+                      "modifiedTime": "2026-05-21T06:29:10.518Z",
+                      "videoMediaMetadata": null
+                    }
+                  ]
+                },
+                {
+                  "id": "17mXezV6dtJ1DLXYZZ0VB_NTa5ilyYU1i",
+                  "name": "17. Bài 15 + 16 Dịch vụ, Giao thông vận tải và bưu chính viễn thông",
+                  "webViewLink": "https://drive.google.com/drive/folders/17mXezV6dtJ1DLXYZZ0VB_NTa5ilyYU1i",
+                  "modifiedTime": "2026-05-21T06:28:39.151Z",
+                  "children": [],
+                  "files": [
+                    {
+                      "id": "1DrGHC45C8zQr030BdSt_UZe5pHFI3_YS",
+                      "name": "Bài 15 + 16 Dịch vụ, Giao thông vận tải và bưu chính viễn thông.mp4",
+                      "mimeType": "video/mp4",
+                      "size": 299571325,
+                      "webViewLink": "https://drive.google.com/file/d/1DrGHC45C8zQr030BdSt_UZe5pHFI3_YS/view?usp=drivesdk",
+                      "modifiedTime": "2026-05-21T06:28:55.421Z",
+                      "videoMediaMetadata": null
+                    }
+                  ]
+                },
+                {
+                  "id": "15acZKCZuX6v3lqD2sGTuPktJI87sn3-r",
+                  "name": "18. Bài 17 Thương mại và du lịch",
+                  "webViewLink": "https://drive.google.com/drive/folders/15acZKCZuX6v3lqD2sGTuPktJI87sn3-r",
+                  "modifiedTime": "2026-05-21T06:28:20.971Z",
+                  "children": [],
+                  "files": [
+                    {
+                      "id": "1NtFADyeACOLgUTgUoMD_p6__WxhATpay",
+                      "name": "Bài 17 Thương mại và du lịch.mp4",
+                      "mimeType": "video/mp4",
+                      "size": 269441112,
+                      "webViewLink": "https://drive.google.com/file/d/1NtFADyeACOLgUTgUoMD_p6__WxhATpay/view?usp=drivesdk",
+                      "modifiedTime": "2026-05-21T06:28:37.443Z",
+                      "videoMediaMetadata": null
+                    }
+                  ]
+                },
+                {
+                  "id": "1R7ZjSUWhqg7tEIQs9g0yP-TdJmykb5Jc",
+                  "name": "2. CHỮA BT 8",
+                  "webViewLink": "https://drive.google.com/drive/folders/1R7ZjSUWhqg7tEIQs9g0yP-TdJmykb5Jc",
+                  "modifiedTime": "2026-05-21T06:32:16.916Z",
+                  "children": [],
+                  "files": [
+                    {
+                      "id": "12SHISa06f3V-zsdXwfTxsiRYY3qTtKFm",
+                      "name": "CHỮA BT 8.mp4",
+                      "mimeType": "video/mp4",
+                      "size": 107727699,
+                      "webViewLink": "https://drive.google.com/file/d/12SHISa06f3V-zsdXwfTxsiRYY3qTtKFm/view?usp=drivesdk",
+                      "modifiedTime": "2026-05-21T06:32:27.264Z",
+                      "videoMediaMetadata": null
+                    }
+                  ]
+                },
+                {
+                  "id": "1kM8hq9323yA5BR8ZR0S8k-s1rQENJpZU",
+                  "name": "3. CHỮA BT 9",
+                  "webViewLink": "https://drive.google.com/drive/folders/1kM8hq9323yA5BR8ZR0S8k-s1rQENJpZU",
+                  "modifiedTime": "2026-05-21T06:32:01.980Z",
+                  "children": [],
+                  "files": [
+                    {
+                      "id": "1OqI44Q5kzTMA36Vd63TOMEIM6uVPpBBu",
+                      "name": "CHỮA BT 9.mp4",
+                      "mimeType": "video/mp4",
+                      "size": 128089346,
+                      "webViewLink": "https://drive.google.com/file/d/1OqI44Q5kzTMA36Vd63TOMEIM6uVPpBBu/view?usp=drivesdk",
+                      "modifiedTime": "2026-05-21T06:32:15.235Z",
+                      "videoMediaMetadata": {
+                        "width": 1280,
+                        "height": 720,
+                        "durationMillis": "1677066"
+                      }
+                    }
+                  ]
+                },
+                {
+                  "id": "17MncZB0V4roCIKhvp38xNDVrJi3Cm8ti",
+                  "name": "4. CHỮA BT 10",
+                  "webViewLink": "https://drive.google.com/drive/folders/17MncZB0V4roCIKhvp38xNDVrJi3Cm8ti",
+                  "modifiedTime": "2026-05-21T06:31:51.284Z",
+                  "children": [],
+                  "files": [
+                    {
+                      "id": "19gnRc_S1DMfkXnAzeYs4EyVpUVOAisFF",
+                      "name": "CHỮA BT 10.mp4",
+                      "mimeType": "video/mp4",
+                      "size": 99911480,
+                      "webViewLink": "https://drive.google.com/file/d/19gnRc_S1DMfkXnAzeYs4EyVpUVOAisFF/view?usp=drivesdk",
+                      "modifiedTime": "2026-05-21T06:32:00.412Z",
+                      "videoMediaMetadata": null
+                    }
+                  ]
+                },
+                {
+                  "id": "1oopuoFF5tz-vJYnQm9VIiuLOeB80WCQn",
+                  "name": "5. CHỮA BT 11",
+                  "webViewLink": "https://drive.google.com/drive/folders/1oopuoFF5tz-vJYnQm9VIiuLOeB80WCQn",
+                  "modifiedTime": "2026-05-21T06:31:40.251Z",
+                  "children": [],
+                  "files": [
+                    {
+                      "id": "1p2rdR5_o6rK3HW_orAvns4RwAOv1573g",
+                      "name": "CHỮA BT 11.mp4",
+                      "mimeType": "video/mp4",
+                      "size": 97416223,
+                      "webViewLink": "https://drive.google.com/file/d/1p2rdR5_o6rK3HW_orAvns4RwAOv1573g/view?usp=drivesdk",
+                      "modifiedTime": "2026-05-21T06:31:49.704Z",
+                      "videoMediaMetadata": null
+                    }
+                  ]
+                },
+                {
+                  "id": "1ia3HCfdtx2YnNHk5UAeGC1bg4MjFDdWQ",
+                  "name": "6. CHỮA BT 12",
+                  "webViewLink": "https://drive.google.com/drive/folders/1ia3HCfdtx2YnNHk5UAeGC1bg4MjFDdWQ",
+                  "modifiedTime": "2026-05-21T06:31:28.931Z",
+                  "children": [],
+                  "files": [
+                    {
+                      "id": "1XPUHkUsv8I9QnKkBFjJThyvVQNswuNdb",
+                      "name": "CHỮA BT 12.mp4",
+                      "mimeType": "video/mp4",
+                      "size": 88765302,
+                      "webViewLink": "https://drive.google.com/file/d/1XPUHkUsv8I9QnKkBFjJThyvVQNswuNdb/view?usp=drivesdk",
+                      "modifiedTime": "2026-05-21T06:31:38.741Z",
+                      "videoMediaMetadata": null
+                    }
+                  ]
+                },
+                {
+                  "id": "1GPjTpfhV650f7U2QOpr8QODlziNEKxJ5",
+                  "name": "7. CHỮA BT 13",
+                  "webViewLink": "https://drive.google.com/drive/folders/1GPjTpfhV650f7U2QOpr8QODlziNEKxJ5",
+                  "modifiedTime": "2026-05-21T06:31:18.090Z",
+                  "children": [],
+                  "files": [
+                    {
+                      "id": "10KZcxNARdKzGymWXCty-_xaf1JAva1oP",
+                      "name": "CHỮA BT 13.mp4",
+                      "mimeType": "video/mp4",
+                      "size": 83252576,
+                      "webViewLink": "https://drive.google.com/file/d/10KZcxNARdKzGymWXCty-_xaf1JAva1oP/view?usp=drivesdk",
+                      "modifiedTime": "2026-05-21T06:31:27.278Z",
+                      "videoMediaMetadata": null
+                    }
+                  ]
+                },
+                {
+                  "id": "1IcHCSEGpKsGYsi6spL-gS1FRPC0U4yLU",
+                  "name": "8. CHỮA BT 14",
+                  "webViewLink": "https://drive.google.com/drive/folders/1IcHCSEGpKsGYsi6spL-gS1FRPC0U4yLU",
+                  "modifiedTime": "2026-05-21T06:31:06.646Z",
+                  "children": [],
+                  "files": [
+                    {
+                      "id": "1h6eoHj28lECmrIzTR58uf6CxujXkNTQd",
+                      "name": "CHỮA BT 14.mp4",
+                      "mimeType": "video/mp4",
+                      "size": 78514696,
+                      "webViewLink": "https://drive.google.com/file/d/1h6eoHj28lECmrIzTR58uf6CxujXkNTQd/view?usp=drivesdk",
+                      "modifiedTime": "2026-05-21T06:31:16.618Z",
+                      "videoMediaMetadata": {
+                        "width": 1280,
+                        "height": 720,
+                        "durationMillis": "975599"
+                      }
+                    }
+                  ]
+                },
+                {
+                  "id": "1Rrsponp1WWIRnRF_9l3el3esfjekCkgL",
+                  "name": "9. CHỮA BT 15",
+                  "webViewLink": "https://drive.google.com/drive/folders/1Rrsponp1WWIRnRF_9l3el3esfjekCkgL",
+                  "modifiedTime": "2026-05-21T06:30:54.472Z",
+                  "children": [],
+                  "files": [
+                    {
+                      "id": "1ckiltfFU5uRdtzpB3ObI4pPx4ypS8FWH",
+                      "name": "CHỮA BT 15.mp4",
+                      "mimeType": "video/mp4",
+                      "size": 123280778,
+                      "webViewLink": "https://drive.google.com/file/d/1ckiltfFU5uRdtzpB3ObI4pPx4ypS8FWH/view?usp=drivesdk",
+                      "modifiedTime": "2026-05-21T06:31:05.203Z",
+                      "videoMediaMetadata": null
+                    }
+                  ]
+                }
+              ],
+              "files": []
+            },
+            {
+              "id": "1MezclJeBllpZnL_cfTZWX91W8f2v2_Bg",
+              "name": "5.  Chương 4: Địa lí vùng kinh tế",
+              "webViewLink": "https://drive.google.com/drive/folders/1MezclJeBllpZnL_cfTZWX91W8f2v2_Bg",
+              "modifiedTime": "2026-05-21T06:22:51.125Z",
+              "children": [
+                {
+                  "id": "11pP3LJhJzSYKf06_echCrn4HpMVuUOiA",
+                  "name": "1. Chữa BT Bài 18",
+                  "webViewLink": "https://drive.google.com/drive/folders/11pP3LJhJzSYKf06_echCrn4HpMVuUOiA",
+                  "modifiedTime": "2026-05-21T06:28:07.719Z",
+                  "children": [],
+                  "files": [
+                    {
+                      "id": "13ApysiEm4f2Y_xiI1yGP6tBsnFWLuxML",
+                      "name": "Chữa BT Bài 18.mp4",
+                      "mimeType": "video/mp4",
+                      "size": 101329246,
+                      "webViewLink": "https://drive.google.com/file/d/13ApysiEm4f2Y_xiI1yGP6tBsnFWLuxML/view?usp=drivesdk",
+                      "modifiedTime": "2026-05-21T06:28:16.500Z",
+                      "videoMediaMetadata": null
+                    }
+                  ]
+                },
+                {
+                  "id": "1knWoh5HOXW3NbSiMng6_I5l6J49nvvxo",
+                  "name": "10. Bài 20 Bắc Trung Bộ",
+                  "webViewLink": "https://drive.google.com/drive/folders/1knWoh5HOXW3NbSiMng6_I5l6J49nvvxo",
+                  "modifiedTime": "2026-05-21T06:25:50.136Z",
+                  "children": [],
+                  "files": [
+                    {
+                      "id": "1jUYDmBOU-vqIDpyDwNt0xq15P1AobBis",
+                      "name": "Bài 20 Bắc Trung Bộ.mp4",
+                      "mimeType": "video/mp4",
+                      "size": 259018322,
+                      "webViewLink": "https://drive.google.com/file/d/1jUYDmBOU-vqIDpyDwNt0xq15P1AobBis/view?usp=drivesdk",
+                      "modifiedTime": "2026-05-21T06:26:06.577Z",
+                      "videoMediaMetadata": null
+                    }
+                  ]
+                },
+                {
+                  "id": "1G15Poo3PGCEqkjXsb2n9rpKSEI2QNgi5",
+                  "name": "11. Bài 21 - P1 Nam Trung Bộ",
+                  "webViewLink": "https://drive.google.com/drive/folders/1G15Poo3PGCEqkjXsb2n9rpKSEI2QNgi5",
+                  "modifiedTime": "2026-05-21T06:23:56.930Z",
+                  "children": [],
+                  "files": [
+                    {
+                      "id": "1t5AEpomUU6WA-9xDgDi6mG1V2IQATKxr",
+                      "name": "Bài 21 - P1 Nam Trung Bộ.mp4",
+                      "mimeType": "video/mp4",
+                      "size": 465308889,
+                      "webViewLink": "https://drive.google.com/file/d/1t5AEpomUU6WA-9xDgDi6mG1V2IQATKxr/view?usp=drivesdk",
+                      "modifiedTime": "2026-05-21T06:25:48.280Z",
+                      "videoMediaMetadata": null
+                    }
+                  ]
+                },
+                {
+                  "id": "1DZXJdhpgU6TDvsNqvUd-VBSG6XKlaT06",
+                  "name": "12. Bài 21 - P2 Nam Trung Bộ",
+                  "webViewLink": "https://drive.google.com/drive/folders/1DZXJdhpgU6TDvsNqvUd-VBSG6XKlaT06",
+                  "modifiedTime": "2026-05-21T06:23:43.287Z",
+                  "children": [],
+                  "files": [
+                    {
+                      "id": "1NNUXnCfPcxghOZPmBG8ba1hNIIBRBpFu",
+                      "name": "Bài 21 - P2 Nam Trung Bộ.mp4",
+                      "mimeType": "video/mp4",
+                      "size": 207754743,
+                      "webViewLink": "https://drive.google.com/file/d/1NNUXnCfPcxghOZPmBG8ba1hNIIBRBpFu/view?usp=drivesdk",
+                      "modifiedTime": "2026-05-21T06:23:55.461Z",
+                      "videoMediaMetadata": {
+                        "width": 1280,
+                        "height": 720,
+                        "durationMillis": "3244066"
+                      }
+                    }
+                  ]
+                },
+                {
+                  "id": "1ftLkOP_67T96ON6bmPeUVb3frd8nINTd",
+                  "name": "13. Bài 22 Đông Nam Bộ",
+                  "webViewLink": "https://drive.google.com/drive/folders/1ftLkOP_67T96ON6bmPeUVb3frd8nINTd",
+                  "modifiedTime": "2026-05-21T06:23:23.596Z",
+                  "children": [],
+                  "files": [
+                    {
+                      "id": "1s3k4o07PqqoydRpkBKkOYQ2zytjHsQAa",
+                      "name": "Bài 22 Đông Nam Bộ.mp4",
+                      "mimeType": "video/mp4",
+                      "size": 340174314,
+                      "webViewLink": "https://drive.google.com/file/d/1s3k4o07PqqoydRpkBKkOYQ2zytjHsQAa/view?usp=drivesdk",
+                      "modifiedTime": "2026-05-21T06:23:41.773Z",
+                      "videoMediaMetadata": {
+                        "width": 1280,
+                        "height": 720,
+                        "durationMillis": "6378933"
+                      }
+                    }
+                  ]
+                },
+                {
+                  "id": "1oKxfGV286IgRLq58jwmaCZAyIsCcYr7T",
+                  "name": "14. Bài 23 Đồng bằng sông Cửu Long",
+                  "webViewLink": "https://drive.google.com/drive/folders/1oKxfGV286IgRLq58jwmaCZAyIsCcYr7T",
+                  "modifiedTime": "2026-05-21T06:23:05.126Z",
+                  "children": [],
+                  "files": [
+                    {
+                      "id": "1t55-P8gnMuJW4D4GBc9faeVXV1H_XVc4",
+                      "name": "Bài 23 Đồng bằng sông Cửu Long.mp4",
+                      "mimeType": "video/mp4",
+                      "size": 273105711,
+                      "webViewLink": "https://drive.google.com/file/d/1t55-P8gnMuJW4D4GBc9faeVXV1H_XVc4/view?usp=drivesdk",
+                      "modifiedTime": "2026-05-21T06:23:21.628Z",
+                      "videoMediaMetadata": null
+                    }
+                  ]
+                },
+                {
+                  "id": "1QeJ1Z1WMhgUXwFv1ljlkQtnZCiky64F9",
+                  "name": "15. Bài 24 Biển Đông và các đảo, quần đảo",
+                  "webViewLink": "https://drive.google.com/drive/folders/1QeJ1Z1WMhgUXwFv1ljlkQtnZCiky64F9",
+                  "modifiedTime": "2026-05-21T06:22:53.480Z",
+                  "children": [],
+                  "files": [
+                    {
+                      "id": "1kxfv0cLwVCfj0BFvYcCNSGp61kGCm3ol",
+                      "name": "Bài 24 Biển Đông và các đảo, quần đảo.mp4",
+                      "mimeType": "video/mp4",
+                      "size": 115563259,
+                      "webViewLink": "https://drive.google.com/file/d/1kxfv0cLwVCfj0BFvYcCNSGp61kGCm3ol/view?usp=drivesdk",
+                      "modifiedTime": "2026-05-21T06:23:03.122Z",
+                      "videoMediaMetadata": {
+                        "width": 1280,
+                        "height": 720,
+                        "durationMillis": "2171999"
+                      }
+                    }
+                  ]
+                },
+                {
+                  "id": "1TCzTUxGtd_YH0l4vOp-xDK1Xtio_6y4x",
+                  "name": "2. Chữa BT Bài 19",
+                  "webViewLink": "https://drive.google.com/drive/folders/1TCzTUxGtd_YH0l4vOp-xDK1Xtio_6y4x",
+                  "modifiedTime": "2026-05-21T06:27:55.644Z",
+                  "children": [],
+                  "files": [
+                    {
+                      "id": "15kAmPyBH0CV1z5w3eSa0QpuD1_kaA29E",
+                      "name": "Chữa BT Bài 19.mp4",
+                      "mimeType": "video/mp4",
+                      "size": 128769247,
+                      "webViewLink": "https://drive.google.com/file/d/15kAmPyBH0CV1z5w3eSa0QpuD1_kaA29E/view?usp=drivesdk",
+                      "modifiedTime": "2026-05-21T06:28:06.096Z",
+                      "videoMediaMetadata": {
+                        "width": 1920,
+                        "height": 1080,
+                        "durationMillis": "990899"
+                      }
+                    }
+                  ]
+                },
+                {
+                  "id": "1cd_VZdDW5DxyShrmPKkCqlzMeDKlhuZr",
+                  "name": "3. Chữa BT Bài 20",
+                  "webViewLink": "https://drive.google.com/drive/folders/1cd_VZdDW5DxyShrmPKkCqlzMeDKlhuZr",
+                  "modifiedTime": "2026-05-21T06:27:42.736Z",
+                  "children": [],
+                  "files": [
+                    {
+                      "id": "1xduidkuV5O6U2sp3xLbp2H6fJPNY4dpW",
+                      "name": "Chữa BT Bài 20.mp4",
+                      "mimeType": "video/mp4",
+                      "size": 149734752,
+                      "webViewLink": "https://drive.google.com/file/d/1xduidkuV5O6U2sp3xLbp2H6fJPNY4dpW/view?usp=drivesdk",
+                      "modifiedTime": "2026-05-21T06:27:54.048Z",
+                      "videoMediaMetadata": null
+                    }
+                  ]
+                },
+                {
+                  "id": "1VMd3Fbp3dtK6gT522iL0Km0ut8ZtACsH",
+                  "name": "4. Chữa BT Bài 21",
+                  "webViewLink": "https://drive.google.com/drive/folders/1VMd3Fbp3dtK6gT522iL0Km0ut8ZtACsH",
+                  "modifiedTime": "2026-05-21T06:27:31.708Z",
+                  "children": [],
+                  "files": [
+                    {
+                      "id": "1tc9bd2dHdsIOJhI-K58lm1od9KHqCN00",
+                      "name": "Chữa BT Bài 21.mp4",
+                      "mimeType": "video/mp4",
+                      "size": 101205533,
+                      "webViewLink": "https://drive.google.com/file/d/1tc9bd2dHdsIOJhI-K58lm1od9KHqCN00/view?usp=drivesdk",
+                      "modifiedTime": "2026-05-21T06:27:41.248Z",
+                      "videoMediaMetadata": null
+                    }
+                  ]
+                },
+                {
+                  "id": "1fLObVYvzz9WWSb_MaKxH3qP6oZA-UYQR",
+                  "name": "5. Chữa BT Bài 22",
+                  "webViewLink": "https://drive.google.com/drive/folders/1fLObVYvzz9WWSb_MaKxH3qP6oZA-UYQR",
+                  "modifiedTime": "2026-05-21T06:27:15.577Z",
+                  "children": [],
+                  "files": [
+                    {
+                      "id": "1VZPP_VRw3O8-m11VqRdpKmFMjSC1Xj3v",
+                      "name": "Chữa BT Bài 22.mp4",
+                      "mimeType": "video/mp4",
+                      "size": 140905868,
+                      "webViewLink": "https://drive.google.com/file/d/1VZPP_VRw3O8-m11VqRdpKmFMjSC1Xj3v/view?usp=drivesdk",
+                      "modifiedTime": "2026-05-21T06:27:29.748Z",
+                      "videoMediaMetadata": null
+                    }
+                  ]
+                },
+                {
+                  "id": "1bt1lLVcb7mhjek3WhE9Dcst4d1H9jXa-",
+                  "name": "6. Chữa BT Bài 23",
+                  "webViewLink": "https://drive.google.com/drive/folders/1bt1lLVcb7mhjek3WhE9Dcst4d1H9jXa-",
+                  "modifiedTime": "2026-05-21T06:27:04.130Z",
+                  "children": [],
+                  "files": [
+                    {
+                      "id": "1gZBNAIewzA4S4HcOYlzXDHfcl8WJz-11",
+                      "name": "Chữa BT Bài 23.mp4",
+                      "mimeType": "video/mp4",
+                      "size": 134238035,
+                      "webViewLink": "https://drive.google.com/file/d/1gZBNAIewzA4S4HcOYlzXDHfcl8WJz-11/view?usp=drivesdk",
+                      "modifiedTime": "2026-05-21T06:27:13.562Z",
+                      "videoMediaMetadata": null
+                    }
+                  ]
+                },
+                {
+                  "id": "12DJHDkufdMeJtQ4fapg7a1u2nmVfF_zF",
+                  "name": "7. Chữa BT Bài 24",
+                  "webViewLink": "https://drive.google.com/drive/folders/12DJHDkufdMeJtQ4fapg7a1u2nmVfF_zF",
+                  "modifiedTime": "2026-05-21T06:26:52.737Z",
+                  "children": [],
+                  "files": [
+                    {
+                      "id": "1Sb7GS_14quk6nH0bgV__EVJpeIQU5LVv",
+                      "name": "Chữa BT Bài 24.mp4",
+                      "mimeType": "video/mp4",
+                      "size": 117917477,
+                      "webViewLink": "https://drive.google.com/file/d/1Sb7GS_14quk6nH0bgV__EVJpeIQU5LVv/view?usp=drivesdk",
+                      "modifiedTime": "2026-05-21T06:27:02.730Z",
+                      "videoMediaMetadata": null
+                    }
+                  ]
+                },
+                {
+                  "id": "1_F3OWSmajwgbp30n262w33R53yjrLWEI",
+                  "name": "8. Bài 18 Trung du và miền núi phía Bắc",
+                  "webViewLink": "https://drive.google.com/drive/folders/1_F3OWSmajwgbp30n262w33R53yjrLWEI",
+                  "modifiedTime": "2026-05-21T06:26:34.230Z",
+                  "children": [],
+                  "files": [
+                    {
+                      "id": "15bEQM4l0CHFJq5tONJl9-2HK8-ToDzJL",
+                      "name": "Bài 18 Trung du và miền núi phía Bắc.mp4",
+                      "mimeType": "video/mp4",
+                      "size": 313073297,
+                      "webViewLink": "https://drive.google.com/file/d/15bEQM4l0CHFJq5tONJl9-2HK8-ToDzJL/view?usp=drivesdk",
+                      "modifiedTime": "2026-05-21T06:26:51.234Z",
+                      "videoMediaMetadata": {
+                        "width": 1280,
+                        "height": 720,
+                        "durationMillis": "5614766"
+                      }
+                    }
+                  ]
+                },
+                {
+                  "id": "1hpDqFl7j3KgsbQmzO0_YPcojQFhKxbhk",
+                  "name": "9. Bài 19 Đồng bằng sông Hồng",
+                  "webViewLink": "https://drive.google.com/drive/folders/1hpDqFl7j3KgsbQmzO0_YPcojQFhKxbhk",
+                  "modifiedTime": "2026-05-21T06:26:07.971Z",
+                  "children": [],
+                  "files": [
+                    {
+                      "id": "1z5zfrNWM7n8xCfaVH5xNssDfUL8ilm9t",
+                      "name": "Bài 19 Đồng bằng sông Hồng.mp4",
+                      "mimeType": "video/mp4",
+                      "size": 369547973,
+                      "webViewLink": "https://drive.google.com/file/d/1z5zfrNWM7n8xCfaVH5xNssDfUL8ilm9t/view?usp=drivesdk",
+                      "modifiedTime": "2026-05-21T06:26:32.694Z",
+                      "videoMediaMetadata": {
+                        "width": 1280,
+                        "height": 720,
+                        "durationMillis": "6030233"
+                      }
+                    }
+                  ]
+                }
+              ],
+              "files": []
+            }
+          ],
+          "files": []
+        },
+        {
+          "id": "1hZYdglmjPF8fnT-E9EWOXJ_VGkJcsKi5",
+          "name": "1. ĐỊNH HƯỚNG ÔN THI",
+          "webViewLink": "https://drive.google.com/drive/folders/1hZYdglmjPF8fnT-E9EWOXJ_VGkJcsKi5",
+          "modifiedTime": "2026-05-03T11:16:17.584Z",
+          "children": [
+            {
+              "id": "1kr8Dq4QfHZ-MkGHearDFqACUZ1Fmapka",
+              "name": "1. PHÂN TÍCH ĐỀ THI TN THPT VÀ HƯỚNG ÔN THI HIỆU QUẢ",
+              "webViewLink": "https://drive.google.com/drive/folders/1kr8Dq4QfHZ-MkGHearDFqACUZ1Fmapka",
+              "modifiedTime": "2026-05-03T11:16:17.644Z",
+              "children": [],
+              "files": [
+                {
+                  "id": "1B3_0cgi2VSn33MF3P3Ye1LG1vqoZ6bh9",
+                  "name": "PHÂN TÍCH ĐỀ THI TN THPT VÀ HƯỚNG ÔN THI HIỆU QUẢ.mp4",
+                  "mimeType": "video/mp4",
+                  "size": 67157933,
+                  "webViewLink": "https://drive.google.com/file/d/1B3_0cgi2VSn33MF3P3Ye1LG1vqoZ6bh9/view?usp=drivesdk",
+                  "modifiedTime": "2026-05-03T11:16:56.562Z",
+                  "videoMediaMetadata": {
+                    "width": 1280,
+                    "height": 720,
+                    "durationMillis": "339999"
+                  }
+                }
+              ]
+            }
+          ],
+          "files": []
+        },
+        {
+          "id": "18IAxlYhZuj4D9b3Gtl0MnqFj9UI0Vkax",
+          "name": "2. CHƯƠNG 1: ĐỊA LÍ TỰ NHIÊN",
+          "webViewLink": "https://drive.google.com/drive/folders/18IAxlYhZuj4D9b3Gtl0MnqFj9UI0Vkax",
+          "modifiedTime": "2026-05-04T14:17:23.366Z",
+          "children": [
+            {
+              "id": "1siZr1GTjf-QH_Ur1B6OH8tf6maBD1NDs",
+              "name": "1. BÀI 1 VỊ TRÍ ĐỊA LÍ, PHẠM VI LÃNH THỔ",
+              "webViewLink": "https://drive.google.com/drive/folders/1siZr1GTjf-QH_Ur1B6OH8tf6maBD1NDs",
+              "modifiedTime": "2026-05-03T11:16:56.601Z",
+              "children": [],
+              "files": [
+                {
+                  "id": "1DDNSqlKMaEtZJMz_MuUSfpuP_-3vqT22",
+                  "name": "BÀI 1 VỊ TRÍ ĐỊA LÍ, PHẠM VI LÃNH THỔ.mp4",
+                  "mimeType": "video/mp4",
+                  "size": 79782215,
+                  "webViewLink": "https://drive.google.com/file/d/1DDNSqlKMaEtZJMz_MuUSfpuP_-3vqT22/view?usp=drivesdk",
+                  "modifiedTime": "2026-05-03T12:31:58.304Z",
+                  "videoMediaMetadata": {
+                    "width": 1920,
+                    "height": 1080,
+                    "durationMillis": "1134966"
+                  }
+                }
+              ]
+            },
+            {
+              "id": "1IBwt1IRou3P6TC-OlAvQRbQbplny-lCA",
+              "name": "10. CHỮA BT BÀI 4",
+              "webViewLink": "https://drive.google.com/drive/folders/1IBwt1IRou3P6TC-OlAvQRbQbplny-lCA",
+              "modifiedTime": "2026-05-12T08:22:11.162Z",
+              "children": [],
+              "files": []
+            },
+            {
+              "id": "1ttZz4jMgyoW3LPagpaLguGYR-PGllukl",
+              "name": "2. CHỮA BT BÀI 1",
+              "webViewLink": "https://drive.google.com/drive/folders/1ttZz4jMgyoW3LPagpaLguGYR-PGllukl",
+              "modifiedTime": "2026-05-03T11:16:56.617Z",
+              "children": [],
+              "files": [
+                {
+                  "id": "1-L-qY0FrnuWQVm_kIaDVMFyNIA9eoccr",
+                  "name": "CHỮA BT BÀI 1.mp4",
+                  "mimeType": "video/mp4",
+                  "size": 204327321,
+                  "webViewLink": "https://drive.google.com/file/d/1-L-qY0FrnuWQVm_kIaDVMFyNIA9eoccr/view?usp=drivesdk",
+                  "modifiedTime": "2026-05-03T12:33:39.698Z",
+                  "videoMediaMetadata": {
+                    "width": 1920,
+                    "height": 1080,
+                    "durationMillis": "1832433"
+                  }
+                }
+              ]
+            },
+            {
+              "id": "1Bg14upCdXwqx8cGHLt4GxVVmUpr1ZKET",
+              "name": "3. BÀI 2 THIÊN NHIÊN NHIỆT ĐỚI ẨM GIÓ MÙA",
+              "webViewLink": "https://drive.google.com/drive/folders/1Bg14upCdXwqx8cGHLt4GxVVmUpr1ZKET",
+              "modifiedTime": "2026-05-03T11:16:56.650Z",
+              "children": [],
+              "files": [
+                {
+                  "id": "1NCLO-ff1JJO3CKrzQIF6f9v5KXOjCLLS",
+                  "name": "BÀI 2 THIÊN NHIÊN NHIỆT ĐỚI ẨM GIÓ MÙA P2.mp4",
+                  "mimeType": "video/mp4",
+                  "size": 85077219,
+                  "webViewLink": "https://drive.google.com/file/d/1NCLO-ff1JJO3CKrzQIF6f9v5KXOjCLLS/view?usp=drivesdk",
+                  "modifiedTime": "2026-05-03T12:34:30.748Z",
+                  "videoMediaMetadata": {
+                    "width": 1920,
+                    "height": 1080,
+                    "durationMillis": "1060399"
+                  }
+                }
+              ]
+            },
+            {
+              "id": "1tYnubmGtfKf5cGIJzz7fnHy70jCFRVze",
+              "name": "4. BÀI 2 THIÊN NHIÊN NHIỆT ĐỚI ẨM GIÓ MÙA P2",
+              "webViewLink": "https://drive.google.com/drive/folders/1tYnubmGtfKf5cGIJzz7fnHy70jCFRVze",
+              "modifiedTime": "2026-05-03T11:16:56.672Z",
+              "children": [],
+              "files": [
+                {
+                  "id": "1DcZD8DetFJA_TmNKzc5WIdAdcwbkDnYn",
+                  "name": "BÀI 2 THIÊN NHIÊN NHIỆT ĐỚI ẨM GIÓ MÙA.mp4",
+                  "mimeType": "video/mp4",
+                  "size": 88066500,
+                  "webViewLink": "https://drive.google.com/file/d/1DcZD8DetFJA_TmNKzc5WIdAdcwbkDnYn/view?usp=drivesdk",
+                  "modifiedTime": "2026-05-03T12:35:21.929Z",
+                  "videoMediaMetadata": {
+                    "width": 1920,
+                    "height": 1080,
+                    "durationMillis": "1091099"
+                  }
+                }
+              ]
+            },
+            {
+              "id": "1oLVtQOeurZdSws53AWKQVnHq9EHSvUdr",
+              "name": "5. CHỮA BT BÀI 2",
+              "webViewLink": "https://drive.google.com/drive/folders/1oLVtQOeurZdSws53AWKQVnHq9EHSvUdr",
+              "modifiedTime": "2026-05-03T11:16:56.689Z",
+              "children": [],
+              "files": [
+                {
+                  "id": "1gfmTyJZVdQEtY_Vhqu07U7QpCv___wnt",
+                  "name": "CHỮA BT BÀI 2.mp4",
+                  "mimeType": "video/mp4",
+                  "size": 226019353,
+                  "webViewLink": "https://drive.google.com/file/d/1gfmTyJZVdQEtY_Vhqu07U7QpCv___wnt/view?usp=drivesdk",
+                  "modifiedTime": "2026-05-03T12:37:25.338Z",
+                  "videoMediaMetadata": {
+                    "width": 1280,
+                    "height": 720,
+                    "durationMillis": "2583366"
+                  }
+                }
+              ]
+            },
+            {
+              "id": "1AumGaLnI88rZOKhOxI1CbmEh9sRVb1X9",
+              "name": "6. BÀI 3 SỰ PHÂN HÓA ĐA DẠNG CỦA THIÊN NHIÊN",
+              "webViewLink": "https://drive.google.com/drive/folders/1AumGaLnI88rZOKhOxI1CbmEh9sRVb1X9",
+              "modifiedTime": "2026-05-03T11:16:56.709Z",
+              "children": [],
+              "files": [
+                {
+                  "id": "1WPF4W7U9QmEqzoA8GKMyIL4R_W88T1CG",
+                  "name": "BÀI 3 SỰ PHÂN HÓA ĐA DẠNG CỦA THIÊN NHIÊN P2.mp4",
+                  "mimeType": "video/mp4",
+                  "size": 186497471,
+                  "webViewLink": "https://drive.google.com/file/d/1WPF4W7U9QmEqzoA8GKMyIL4R_W88T1CG/view?usp=drivesdk",
+                  "modifiedTime": "2026-05-03T12:39:01.219Z",
+                  "videoMediaMetadata": null
+                }
+              ]
+            },
+            {
+              "id": "1rIhC02Y8Nx3FEPPZB6YPnlopk0jF3tRQ",
+              "name": "7. BÀI 3 SỰ PHÂN HÓA ĐA DẠNG CỦA THIÊN NHIÊN P2",
+              "webViewLink": "https://drive.google.com/drive/folders/1rIhC02Y8Nx3FEPPZB6YPnlopk0jF3tRQ",
+              "modifiedTime": "2026-05-03T11:16:56.728Z",
+              "children": [],
+              "files": [
+                {
+                  "id": "1aB-QiAsBM5aEMf4sv-g2ykvP0X66NROh",
+                  "name": "BÀI 3 SỰ PHÂN HÓA ĐA DẠNG CỦA THIÊN NHIÊN.mp4",
+                  "mimeType": "video/mp4",
+                  "size": 146074195,
+                  "webViewLink": "https://drive.google.com/file/d/1aB-QiAsBM5aEMf4sv-g2ykvP0X66NROh/view?usp=drivesdk",
+                  "modifiedTime": "2026-05-03T12:40:19.206Z",
+                  "videoMediaMetadata": {
+                    "width": 1920,
+                    "height": 1080,
+                    "durationMillis": "1434666"
+                  }
+                }
+              ]
+            },
+            {
+              "id": "1QvfaZKGmmM6o67jPR3Lbv2k_XEkqI2D_",
+              "name": "8. BÀI 4 VẤN ĐỀ SỬ DỤNG HỢP LÍ TÀI NGUYÊN THIÊN NHIÊN VÀ BẢO VỆ MÔI TRƯỜNG",
+              "webViewLink": "https://drive.google.com/drive/folders/1QvfaZKGmmM6o67jPR3Lbv2k_XEkqI2D_",
+              "modifiedTime": "2026-05-03T11:16:56.746Z",
+              "children": [],
+              "files": [
+                {
+                  "id": "14FkGXxd7j990ZizyVeQK_JLtW5KK72vq",
+                  "name": "BÀI 4 VẤN ĐỀ SỬ DỤNG HỢP LÍ TÀI NGUYÊN THIÊN NHIÊN VÀ BẢO VỆ MÔI TRƯỜNG.mp4",
+                  "mimeType": "video/mp4",
+                  "size": 152546219,
+                  "webViewLink": "https://drive.google.com/file/d/14FkGXxd7j990ZizyVeQK_JLtW5KK72vq/view?usp=drivesdk",
+                  "modifiedTime": "2026-05-03T12:41:39.384Z",
+                  "videoMediaMetadata": null
+                }
+              ]
+            },
+            {
+              "id": "1LOxZRY4zmrhm_5Pk5_6zhXx9aM79odzB",
+              "name": "8. CHỮA BT BÀI 3",
+              "webViewLink": "https://drive.google.com/drive/folders/1LOxZRY4zmrhm_5Pk5_6zhXx9aM79odzB",
+              "modifiedTime": "2026-05-12T08:21:49.636Z",
+              "children": [],
+              "files": [
+                {
+                  "id": "1IdDN7QyqsFvvs4E5hVT_CDTbQ5k-Fv-m",
+                  "name": "CHỮA BT BÀI 3.mp4",
+                  "mimeType": "video/mp4",
+                  "size": 210182520,
+                  "webViewLink": "https://drive.google.com/file/d/1IdDN7QyqsFvvs4E5hVT_CDTbQ5k-Fv-m/view?usp=drivesdk",
+                  "modifiedTime": "2026-05-12T08:22:03.027Z",
+                  "videoMediaMetadata": null
+                }
+              ]
+            },
+            {
+              "id": "17Zl8qLnsgRs9rCXHaWNfMjFlv8reJRyL",
+              "name": "9. BÀI 4 VẤN ĐỀ SỬ DỤNG HỢP LÍ TÀI NGUYÊN THIÊN NHIÊN VÀ BẢO VỆ MÔI TRƯỜNG",
+              "webViewLink": "https://drive.google.com/drive/folders/17Zl8qLnsgRs9rCXHaWNfMjFlv8reJRyL",
+              "modifiedTime": "2026-05-12T08:22:07.509Z",
+              "children": [],
+              "files": []
+            },
+            {
+              "id": "1cTY12Jjw92twE3gOpBT_uUoOBBgxIEeE",
+              "name": "9. CHỮA BT BÀI 4",
+              "webViewLink": "https://drive.google.com/drive/folders/1cTY12Jjw92twE3gOpBT_uUoOBBgxIEeE",
+              "modifiedTime": "2026-05-03T11:16:56.764Z",
+              "children": [],
+              "files": [
+                {
+                  "id": "1ZY3Cy-2UZ-0cYGiaO5xE2kLelhhq81y9",
+                  "name": "CHỮA BT BÀI 4.mp4",
+                  "mimeType": "video/mp4",
+                  "size": 95172326,
+                  "webViewLink": "https://drive.google.com/file/d/1ZY3Cy-2UZ-0cYGiaO5xE2kLelhhq81y9/view?usp=drivesdk",
+                  "modifiedTime": "2026-05-03T12:42:34.715Z",
+                  "videoMediaMetadata": {
+                    "width": 1280,
+                    "height": 720,
+                    "durationMillis": "1383866"
+                  }
+                }
+              ]
+            }
+          ],
+          "files": []
+        },
+        {
+          "id": "1MeGiBqq6sKwn9kr_X2HBSLbVcNzjgrMO",
+          "name": "3. CHƯƠNG 2: ĐỊA LÍ DÂN CƯ",
+          "webViewLink": "https://drive.google.com/drive/folders/1MeGiBqq6sKwn9kr_X2HBSLbVcNzjgrMO",
+          "modifiedTime": "2026-05-04T14:17:30.235Z",
+          "children": [
+            {
+              "id": "1q8PWZ-DbN56hRjfWyOqyZnNlxoMr1spr",
+              "name": "1. BÀI 5 DÂN SỐ VIỆT NAM",
+              "webViewLink": "https://drive.google.com/drive/folders/1q8PWZ-DbN56hRjfWyOqyZnNlxoMr1spr",
+              "modifiedTime": "2026-05-03T12:42:34.761Z",
+              "children": [],
+              "files": [
+                {
+                  "id": "1XO37LN5QIM16XqwDtG1mWVI6ut_OXz4r",
+                  "name": "BÀI 5 DÂN SỐ VIỆT NAM.mp4",
+                  "mimeType": "video/mp4",
+                  "size": 82036377,
+                  "webViewLink": "https://drive.google.com/file/d/1XO37LN5QIM16XqwDtG1mWVI6ut_OXz4r/view?usp=drivesdk",
+                  "modifiedTime": "2026-05-03T12:43:24.151Z",
+                  "videoMediaMetadata": {
+                    "width": 1920,
+                    "height": 1080,
+                    "durationMillis": "1076299"
+                  }
+                }
+              ]
+            },
+            {
+              "id": "1aE03k5DCbJ27LHty44Ao2kbHh3I0IYxU",
+              "name": "2. BÀI 6 LAO ĐỘNG VÀ VIỆC LÀM",
+              "webViewLink": "https://drive.google.com/drive/folders/1aE03k5DCbJ27LHty44Ao2kbHh3I0IYxU",
+              "modifiedTime": "2026-05-03T12:42:34.780Z",
+              "children": [],
+              "files": [
+                {
+                  "id": "1QnEupVpK0ytQ56ADVoTVVtJ7YXQno2V7",
+                  "name": "BÀI 6 LAO ĐỘNG VÀ VIỆC LÀM.mp4",
+                  "mimeType": "video/mp4",
+                  "size": 63547542,
+                  "webViewLink": "https://drive.google.com/file/d/1QnEupVpK0ytQ56ADVoTVVtJ7YXQno2V7/view?usp=drivesdk",
+                  "modifiedTime": "2026-05-03T12:44:00.777Z",
+                  "videoMediaMetadata": {
+                    "width": 1920,
+                    "height": 1080,
+                    "durationMillis": "849999"
+                  }
+                }
+              ]
+            },
+            {
+              "id": "1oDvsCCvzh45fhXFCF4XQsDPcVyWTmP0l",
+              "name": "3. BÀI 7 ĐÔ THỊ HÓA",
+              "webViewLink": "https://drive.google.com/drive/folders/1oDvsCCvzh45fhXFCF4XQsDPcVyWTmP0l",
+              "modifiedTime": "2026-05-03T12:42:34.801Z",
+              "children": [],
+              "files": [
+                {
+                  "id": "1ylWxQ1iojsFlLxg84fiKHVP8PM751sDB",
+                  "name": "BÀI 7 ĐÔ THỊ HÓA.mp4",
+                  "mimeType": "video/mp4",
+                  "size": 35751439,
+                  "webViewLink": "https://drive.google.com/file/d/1ylWxQ1iojsFlLxg84fiKHVP8PM751sDB/view?usp=drivesdk",
+                  "modifiedTime": "2026-05-03T12:44:25.879Z",
+                  "videoMediaMetadata": null
+                }
+              ]
+            },
+            {
+              "id": "1gQ2SDCy_NtCK2fwi4u3GgZT3sC57aZGi",
+              "name": "4. CHỮA BT BÀI 5",
+              "webViewLink": "https://drive.google.com/drive/folders/1gQ2SDCy_NtCK2fwi4u3GgZT3sC57aZGi",
+              "modifiedTime": "2026-05-10T08:14:50.226Z",
+              "children": [],
+              "files": [
+                {
+                  "id": "178EHuRnryx7Q22lyJXfeBrW1rwB1ugeH",
+                  "name": "CHỮA BT BÀI 5.mp4",
+                  "mimeType": "video/mp4",
+                  "size": 101300677,
+                  "webViewLink": "https://drive.google.com/file/d/178EHuRnryx7Q22lyJXfeBrW1rwB1ugeH/view?usp=drivesdk",
+                  "modifiedTime": "2026-05-11T12:03:01.394Z",
+                  "videoMediaMetadata": null
+                }
+              ]
+            },
+            {
+              "id": "1_2nfXRjSSR2x5POa5MFuzF5JlCZhdUtA",
+              "name": "5. CHỮA BT BÀI 6",
+              "webViewLink": "https://drive.google.com/drive/folders/1_2nfXRjSSR2x5POa5MFuzF5JlCZhdUtA",
+              "modifiedTime": "2026-05-10T08:14:49.526Z",
+              "children": [],
+              "files": [
+                {
+                  "id": "1Hns5BkdOeUovn1__z7MVL-c0rShv9yMa",
+                  "name": "CHỮA BT BÀI 6.mp4",
+                  "mimeType": "video/mp4",
+                  "size": 98722120,
+                  "webViewLink": "https://drive.google.com/file/d/1Hns5BkdOeUovn1__z7MVL-c0rShv9yMa/view?usp=drivesdk",
+                  "modifiedTime": "2026-05-11T11:51:49.282Z",
+                  "videoMediaMetadata": null
+                }
+              ]
+            },
+            {
+              "id": "1KIt70q1FRsiqnHZOzuREcwNCrNNQkF7h",
+              "name": "6. CHỮA BT BÀI 7",
+              "webViewLink": "https://drive.google.com/drive/folders/1KIt70q1FRsiqnHZOzuREcwNCrNNQkF7h",
+              "modifiedTime": "2026-05-10T08:14:48.934Z",
+              "children": [],
+              "files": [
+                {
+                  "id": "1G2irLQaKW6WzQ-UWo7-zBrZxc1qrn70c",
+                  "name": "CHỮA BT BÀI 7.mp4",
+                  "mimeType": "video/mp4",
+                  "size": 84903386,
+                  "webViewLink": "https://drive.google.com/file/d/1G2irLQaKW6WzQ-UWo7-zBrZxc1qrn70c/view?usp=drivesdk",
+                  "modifiedTime": "2026-05-10T11:15:12.327Z",
+                  "videoMediaMetadata": {
+                    "width": 1280,
+                    "height": 720,
+                    "durationMillis": "1121766"
+                  }
+                }
+              ]
+            }
+          ],
+          "files": []
+        },
+        {
+          "id": "1XgIdwrL8LvA26gVyR2qJtesXOgr7tanN",
+          "name": "4. CHƯƠNG 3: ĐỊA LÍ NGÀNH KINH TẾ",
+          "webViewLink": "https://drive.google.com/drive/folders/1XgIdwrL8LvA26gVyR2qJtesXOgr7tanN",
+          "modifiedTime": "2026-05-04T14:17:37.116Z",
+          "children": [
+            {
+              "id": "1rz_k-jOPv6divRyOYKC8BOgHGvizpmvO",
+              "name": "1. BÀI 8 CHUYỂN DỊCH CƠ CẤU KINH TẾ",
+              "webViewLink": "https://drive.google.com/drive/folders/1rz_k-jOPv6divRyOYKC8BOgHGvizpmvO",
+              "modifiedTime": "2026-05-03T12:44:25.937Z",
+              "children": [],
+              "files": [
+                {
+                  "id": "1es4j5AkpJ0GG7qnAks-MzmmsK8E79LBu",
+                  "name": "BÀI 8 CHUYỂN DỊCH CƠ CẤU KINH TẾ.mp4",
+                  "mimeType": "video/mp4",
+                  "size": 83356041,
+                  "webViewLink": "https://drive.google.com/file/d/1es4j5AkpJ0GG7qnAks-MzmmsK8E79LBu/view?usp=drivesdk",
+                  "modifiedTime": "2026-05-03T12:45:13.907Z",
+                  "videoMediaMetadata": {
+                    "width": 1920,
+                    "height": 1080,
+                    "durationMillis": "698999"
+                  }
+                }
+              ]
+            },
+            {
+              "id": "1J9lNpnTms2x-lADbBoY8lX4fwKDb4GzJ",
+              "name": "10. CHỮA BT 16",
+              "webViewLink": "https://drive.google.com/drive/folders/1J9lNpnTms2x-lADbBoY8lX4fwKDb4GzJ",
+              "modifiedTime": "2026-05-10T08:14:41.787Z",
+              "children": [],
+              "files": [
+                {
+                  "id": "1v-ZcG0f0neuJ9eE15lTvnvhvNlSrroXt",
+                  "name": "CHỮA BT 16.mp4",
+                  "mimeType": "video/mp4",
+                  "size": 134643505,
+                  "webViewLink": "https://drive.google.com/file/d/1v-ZcG0f0neuJ9eE15lTvnvhvNlSrroXt/view?usp=drivesdk",
+                  "modifiedTime": "2026-05-10T09:31:12.881Z",
+                  "videoMediaMetadata": null
+                }
+              ]
+            },
+            {
+              "id": "1oIDSJGLXORMiEM6HtPy8tRjXxu0SBuTe",
+              "name": "11. CHỮA BT 17",
+              "webViewLink": "https://drive.google.com/drive/folders/1oIDSJGLXORMiEM6HtPy8tRjXxu0SBuTe",
+              "modifiedTime": "2026-05-10T08:14:40.632Z",
+              "children": [],
+              "files": [
+                {
+                  "id": "1NkVut8O8LitLmZcWBQbhXi1Hv-7rwHdD",
+                  "name": "CHỮA BT 17.mp4",
+                  "mimeType": "video/mp4",
+                  "size": 116564934,
+                  "webViewLink": "https://drive.google.com/file/d/1NkVut8O8LitLmZcWBQbhXi1Hv-7rwHdD/view?usp=drivesdk",
+                  "modifiedTime": "2026-05-10T09:18:41.768Z",
+                  "videoMediaMetadata": null
+                }
+              ]
+            },
+            {
+              "id": "1LZDfQ_84LAvK2DPER6iFl09Gk-HXNb6Q",
+              "name": "2. CHỮA BT 8",
+              "webViewLink": "https://drive.google.com/drive/folders/1LZDfQ_84LAvK2DPER6iFl09Gk-HXNb6Q",
+              "modifiedTime": "2026-05-10T08:14:47.174Z",
+              "children": [],
+              "files": [
+                {
+                  "id": "1LaovtdUlQYxAHQAIyuDBE4ceMd4U-dQI",
+                  "name": "CHỮA BT 8.mp4",
+                  "mimeType": "video/mp4",
+                  "size": 107727699,
+                  "webViewLink": "https://drive.google.com/file/d/1LaovtdUlQYxAHQAIyuDBE4ceMd4U-dQI/view?usp=drivesdk",
+                  "modifiedTime": "2026-05-10T11:08:49.658Z",
+                  "videoMediaMetadata": null
+                }
+              ]
+            },
+            {
+              "id": "14GlRc_mz4QQtx9J_YzckuKQO4OpvfuIo",
+              "name": "3. CHỮA BT 9",
+              "webViewLink": "https://drive.google.com/drive/folders/14GlRc_mz4QQtx9J_YzckuKQO4OpvfuIo",
+              "modifiedTime": "2026-05-10T08:14:46.416Z",
+              "children": [],
+              "files": [
+                {
+                  "id": "1pOAlZvrIPc-CBShpf_AhDzZvKY5kaYUy",
+                  "name": "CHỮA BT 9.mp4",
+                  "mimeType": "video/mp4",
+                  "size": 128089346,
+                  "webViewLink": "https://drive.google.com/file/d/1pOAlZvrIPc-CBShpf_AhDzZvKY5kaYUy/view?usp=drivesdk",
+                  "modifiedTime": "2026-05-10T11:01:47.688Z",
+                  "videoMediaMetadata": null
+                }
+              ]
+            },
+            {
+              "id": "13LnBXE8c-qA_eFQ_fRn6clALdh8WE5MB",
+              "name": "4. CHỮA BT 10",
+              "webViewLink": "https://drive.google.com/drive/folders/13LnBXE8c-qA_eFQ_fRn6clALdh8WE5MB",
+              "modifiedTime": "2026-05-10T08:14:45.809Z",
+              "children": [],
+              "files": [
+                {
+                  "id": "15AN_QRgLI19E3LLXGj42R_72ZdLKDxtD",
+                  "name": "CHỮA BT 10.mp4",
+                  "mimeType": "video/mp4",
+                  "size": 99911480,
+                  "webViewLink": "https://drive.google.com/file/d/15AN_QRgLI19E3LLXGj42R_72ZdLKDxtD/view?usp=drivesdk",
+                  "modifiedTime": "2026-05-10T10:44:54.707Z",
+                  "videoMediaMetadata": null
+                }
+              ]
+            },
+            {
+              "id": "1Ldo9p259Gj-Zgmmfxi5O36D7zn1MR9Qi",
+              "name": "5. CHỮA BT 11",
+              "webViewLink": "https://drive.google.com/drive/folders/1Ldo9p259Gj-Zgmmfxi5O36D7zn1MR9Qi",
+              "modifiedTime": "2026-05-10T08:14:45.147Z",
+              "children": [],
+              "files": [
+                {
+                  "id": "1a22T21xBX6rXi6LOD4_QnLvlaLqmVsJ2",
+                  "name": "CHỮA BT 11.mp4",
+                  "mimeType": "video/mp4",
+                  "size": 97416223,
+                  "webViewLink": "https://drive.google.com/file/d/1a22T21xBX6rXi6LOD4_QnLvlaLqmVsJ2/view?usp=drivesdk",
+                  "modifiedTime": "2026-05-10T10:30:29.417Z",
+                  "videoMediaMetadata": null
+                }
+              ]
+            },
+            {
+              "id": "1C_ofYvqysp3xA4roXeinQ0n4cNqJe3Q2",
+              "name": "6. CHỮA BT 12",
+              "webViewLink": "https://drive.google.com/drive/folders/1C_ofYvqysp3xA4roXeinQ0n4cNqJe3Q2",
+              "modifiedTime": "2026-05-10T08:14:44.506Z",
+              "children": [],
+              "files": [
+                {
+                  "id": "1a1nIb0iLCXy1tsTXg6nM7aeDNZjZoV2s",
+                  "name": "CHỮA BT 12.mp4",
+                  "mimeType": "video/mp4",
+                  "size": 88765302,
+                  "webViewLink": "https://drive.google.com/file/d/1a1nIb0iLCXy1tsTXg6nM7aeDNZjZoV2s/view?usp=drivesdk",
+                  "modifiedTime": "2026-05-10T10:21:44.188Z",
+                  "videoMediaMetadata": {
+                    "width": 1280,
+                    "height": 720,
+                    "durationMillis": "1140099"
+                  }
+                }
+              ]
+            },
+            {
+              "id": "12lMWxV7_Ddb9GEsG0oDxkkmW2xxjiF8W",
+              "name": "7. CHỮA BT 13",
+              "webViewLink": "https://drive.google.com/drive/folders/12lMWxV7_Ddb9GEsG0oDxkkmW2xxjiF8W",
+              "modifiedTime": "2026-05-10T08:14:43.873Z",
+              "children": [],
+              "files": [
+                {
+                  "id": "1c471ygXIHGN2j-F9OYK3uBpjt6Iv24B4",
+                  "name": "CHỮA BT 13.mp4",
+                  "mimeType": "video/mp4",
+                  "size": 83252576,
+                  "webViewLink": "https://drive.google.com/file/d/1c471ygXIHGN2j-F9OYK3uBpjt6Iv24B4/view?usp=drivesdk",
+                  "modifiedTime": "2026-05-10T10:09:42.861Z",
+                  "videoMediaMetadata": null
+                }
+              ]
+            },
+            {
+              "id": "11Id_EZGb8FiRIEUNz9QRw-WKsRKcSsIp",
+              "name": "8. CHỮA BT 14",
+              "webViewLink": "https://drive.google.com/drive/folders/11Id_EZGb8FiRIEUNz9QRw-WKsRKcSsIp",
+              "modifiedTime": "2026-05-10T08:14:43.129Z",
+              "children": [],
+              "files": [
+                {
+                  "id": "1tgs63rQVztFR1efBBGwqNPgtAronk6Rt",
+                  "name": "CHỮA BT 14.mp4",
+                  "mimeType": "video/mp4",
+                  "size": 78514696,
+                  "webViewLink": "https://drive.google.com/file/d/1tgs63rQVztFR1efBBGwqNPgtAronk6Rt/view?usp=drivesdk",
+                  "modifiedTime": "2026-05-10T09:59:37.148Z",
+                  "videoMediaMetadata": {
+                    "width": 1280,
+                    "height": 720,
+                    "durationMillis": "975599"
+                  }
+                }
+              ]
+            },
+            {
+              "id": "1T7-0uGd6DJFpHXA6Vo6GOOef0AZzlc6Z",
+              "name": "9. CHỮA BT 15",
+              "webViewLink": "https://drive.google.com/drive/folders/1T7-0uGd6DJFpHXA6Vo6GOOef0AZzlc6Z",
+              "modifiedTime": "2026-05-10T08:14:42.507Z",
+              "children": [],
+              "files": [
+                {
+                  "id": "1c1_nfZA4dIKbgO9xYWd8tkgwVILjtNza",
+                  "name": "CHỮA BT 15.mp4",
+                  "mimeType": "video/mp4",
+                  "size": 123280778,
+                  "webViewLink": "https://drive.google.com/file/d/1c1_nfZA4dIKbgO9xYWd8tkgwVILjtNza/view?usp=drivesdk",
+                  "modifiedTime": "2026-05-10T09:49:36.206Z",
+                  "videoMediaMetadata": null
+                }
+              ]
+            }
+          ],
+          "files": []
+        }
+      ],
+      "files": [],
+      "webViewLink": "https://drive.google.com/drive/folders/1Vnet49fvpTEY0GGSwzIJYOvy8J3-ONIV",
+      "modifiedTime": "2026-05-03T23:12:13.218Z"
+    },
+    {
+      "id": "1t2DBINCnz4YSy6oglzGqucu5iHTctJHt",
+      "name": "2. CHẶNG 2: LIVE C - CHUYÊN ĐỀ CHUYÊN SÂU - Cô Mai Anh",
+      "children": [],
+      "files": [],
+      "webViewLink": "https://drive.google.com/drive/folders/1t2DBINCnz4YSy6oglzGqucu5iHTctJHt",
+      "modifiedTime": "2026-04-19T03:39:37.289Z"
+    },
+    {
+      "id": "1UTyfbHOkeHo9-YVWHqCPAIhqVB_cXFsC",
+      "name": "3. CHẶNG 3: LIVE T - LUYỆN ĐỀ THỰC CHIẾN - Cô Mai Anh",
+      "children": [],
+      "files": [],
+      "webViewLink": "https://drive.google.com/drive/folders/1UTyfbHOkeHo9-YVWHqCPAIhqVB_cXFsC",
+      "modifiedTime": "2026-04-19T03:39:36.173Z"
+    },
+    {
+      "id": "1UhJogo0qrdBftNZypNCkJynKcFV0CREo",
+      "name": "4. CHẶNG 4: LIVE G - TỔNG ÔN NÂNG CAO - Cô Mai Anh",
+      "children": [],
+      "files": [],
+      "webViewLink": "https://drive.google.com/drive/folders/1UhJogo0qrdBftNZypNCkJynKcFV0CREo",
+      "modifiedTime": "2026-04-19T03:39:35.274Z"
+    },
+    {
+      "id": "14uzDa3MT3OvOYJA5x_HI5JezPSJhsvd4",
+      "name": "Z. EBOOK SÁCH KÈM KHOÁ HỌC",
+      "children": [],
+      "files": [],
+      "webViewLink": "https://drive.google.com/drive/folders/14uzDa3MT3OvOYJA5x_HI5JezPSJhsvd4",
+      "modifiedTime": "2026-04-19T03:39:39.664Z"
+    }
+  ]
+}

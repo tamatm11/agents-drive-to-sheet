@@ -1,0 +1,169 @@
+{
+  "teacherId": "16Q7U3U2n8nHfKZBu1EgFsbXJp-LVvsLK",
+  "tabs": {
+    "1Lh1dMaoqt47jffJtkYHF6h7bkG1owJ4g": {
+      "tabName": "Khóa Ip01 Chuyên Đề",
+      "renderedAt": "2026-05-31T04:02:22.327Z",
+      "checksum": "1Lh1dMaoqt47jffJtkYHF6h7bkG1owJ4g|2026-05-22T08:40:09.187Z|29",
+      "lessons": [
+        {
+          "id": "1NA4oXF7jLwdF7gL4_Yl83tpBAFiupbMj",
+          "name": "1. \"(1) Mô hình động học phân tử về cấu tạo chất (2) Cấu trúc của chất rắn, chất lỏng và chất khí\"",
+          "parentName": "1. Chủ đề 1.1: Cấu trúc của chất",
+          "checksum": "2026-05-11T13:38:08.563Z|2",
+          "virtual": false
+        },
+        {
+          "id": "1dvLwmuh65Lj06_JrqpuxFnAgAAkotOnN",
+          "name": "2. Luyện tập chủ đề 1.1",
+          "parentName": "1. Chủ đề 1.1: Cấu trúc của chất",
+          "checksum": "2026-05-11T13:35:35.892Z|3",
+          "virtual": false
+        },
+        {
+          "id": "1sCWbktAIqGtwO0BaxhE_Og17sM3Eq42x",
+          "name": "1. \"(1) Sự chuyển thể của chất (2) Sự nóng chảy (3) Sự hóa hơi\"",
+          "parentName": "2. Chủ đề 1.2: Sự chuyển thể",
+          "checksum": "2026-05-11T13:35:21.341Z|2",
+          "virtual": false
+        },
+        {
+          "id": "1dnXdWbDNj_ttQeYcLAepiJCCbiD0tS7A",
+          "name": "2. Luyện tập chủ đề 1.2",
+          "parentName": "2. Chủ đề 1.2: Sự chuyển thể",
+          "checksum": "2026-05-11T13:32:51.627Z|3",
+          "virtual": false
+        },
+        {
+          "id": "1VFrlk_vY3BzDXKCrBFdKZ8rax975m2LZ",
+          "name": "1. \"(1) Nội năng (2) Các cách làm thay đổi nội năng (3) Định luật I của nhiệt động lực học (4) Động cơ nhiệt\"",
+          "parentName": "3. Chủ đề 1.3: Nội năng. Định luật I của nhiệt động lực học",
+          "checksum": "2026-05-11T13:32:29.156Z|2",
+          "virtual": false
+        },
+        {
+          "id": "1XNIPzXlzDlBt1tA313T7x6kb2Es2G60I",
+          "name": "2. Luyện tập chủ đề 1.3",
+          "parentName": "3. Chủ đề 1.3: Nội năng. Định luật I của nhiệt động lực học",
+          "checksum": "2026-05-11T13:30:16.425Z|3",
+          "virtual": false
+        },
+        {
+          "id": "1g8GQrzjhgT6rTdrR9G24ocUOuv8E60ss",
+          "name": "1. \"(1) Sự truyền năng lượng nhiệt (2) Thang nhiệt độ (3) Nhiệt kế\"",
+          "parentName": "4. Chủ đề 1.4: Nhiệt độ. Thang nhiệt độ - Nhiệt kế",
+          "checksum": "2026-05-11T13:29:55.023Z|2",
+          "virtual": false
+        },
+        {
+          "id": "1lmMuZAzTrWbsyMFFhcitIJBQv4Fqov0c",
+          "name": "2. Luyện tập chủ đề 1.4",
+          "parentName": "4. Chủ đề 1.4: Nhiệt độ. Thang nhiệt độ - Nhiệt kế",
+          "checksum": "2026-05-11T13:29:39.398Z|2",
+          "virtual": false
+        },
+        {
+          "id": "18yDDeabe6qJ2K8EVSFl4GvS2y2IWXh1J",
+          "name": "1. ÔN TẬP CÁC CHỦ ĐỀ ĐÃ HỌC (1.1 đến 1.4)",
+          "parentName": "5. Luyện tập",
+          "checksum": "2026-05-11T13:27:39.952Z|3",
+          "virtual": false
+        },
+        {
+          "id": "1sjZjzjJRaiCLEDNEXZSKVCHAiaciqw2S",
+          "name": "2. ĐỀ ĐÁNH GIÁ NĂNG LỰC LẦN 1 (1.1 đến 1.4)",
+          "parentName": "5. Luyện tập",
+          "checksum": "2026-05-11T13:27:20.460Z|3",
+          "virtual": false
+        },
+        {
+          "id": "1qkaaPUd3CBQpu2lVhQLg_xmXduiVpWWU",
+          "name": "1. \"(1) Nhiệt dung riêng (2) Nhiệt nóng chảy riêng (3) Nhiệt hóa hơi riêng\"",
+          "parentName": "6. Chủ đề 1.5: Nhiệt dung riêng. Nhiệt nóng chảy riêng. Nhiệt hóa hơi riêng",
+          "checksum": "2026-05-11T13:27:05.984Z|1",
+          "virtual": false
+        },
+        {
+          "id": "1cj56y78vayreI6hYUlFWMsEIBcaR1HxE",
+          "name": "2. Luyện tập chủ đề 1.5",
+          "parentName": "6. Chủ đề 1.5: Nhiệt dung riêng. Nhiệt nóng chảy riêng. Nhiệt hóa hơi riêng",
+          "checksum": "2026-05-22T08:40:09.187Z|2",
+          "virtual": false
+        },
+        {
+          "id": "1D1cZ_T888Nu0NuvQaZOXWuFL_4d3zRTW",
+          "name": "7. Ôn tập cuối chương",
+          "parentName": "1. CHƯƠNG 1 - VẬT LÍ NHIỆT",
+          "checksum": "2026-04-30T23:18:05.724Z|0",
+          "virtual": false
+        }
+      ],
+      "rendererVersion": "4.3.1",
+      "styleVersion": "2026-05-31-student-banner-no-meta-v2",
+      "runId": "no-meta-sync-2026-05-31-104541",
+      "spreadsheetId": "1dCHfR-RgX4GVNEA1jfFWSw8awGr1MaQN3YFarC5nvyU",
+      "stats": {
+        "leafCount": 14,
+        "totalVideos": 14
+      }
+    },
+    "1BVQdLAPDZ41BPKa9TuDSNDqmavtPNgMz": {
+      "tabName": "Khóa Ip02 Vdc",
+      "renderedAt": "2026-05-31T04:02:29.499Z",
+      "checksum": "1BVQdLAPDZ41BPKa9TuDSNDqmavtPNgMz|2026-04-19T03:39:46.708Z|0",
+      "lessons": [],
+      "rendererVersion": "4.3.1",
+      "styleVersion": "2026-05-31-student-banner-no-meta-v2",
+      "runId": "no-meta-sync-2026-05-31-104541",
+      "spreadsheetId": "1dCHfR-RgX4GVNEA1jfFWSw8awGr1MaQN3YFarC5nvyU",
+      "stats": {
+        "leafCount": 0,
+        "totalVideos": 0
+      }
+    },
+    "1VaXfcfSSfq5Q7JRwo5bBG8uokwIPsTyr": {
+      "tabName": "Khóa Ip03 Tổng Ôn",
+      "renderedAt": "2026-05-31T04:02:36.568Z",
+      "checksum": "1VaXfcfSSfq5Q7JRwo5bBG8uokwIPsTyr|2026-04-19T03:39:46.027Z|0",
+      "lessons": [],
+      "rendererVersion": "4.3.1",
+      "styleVersion": "2026-05-31-student-banner-no-meta-v2",
+      "runId": "no-meta-sync-2026-05-31-104541",
+      "spreadsheetId": "1dCHfR-RgX4GVNEA1jfFWSw8awGr1MaQN3YFarC5nvyU",
+      "stats": {
+        "leafCount": 0,
+        "totalVideos": 0
+      }
+    },
+    "1gJRfwZy85IcxDehyXEsl6ow1G72gpSnb": {
+      "tabName": "Khóa Ip04 Luyện Đề",
+      "renderedAt": "2026-05-31T04:02:43.725Z",
+      "checksum": "1gJRfwZy85IcxDehyXEsl6ow1G72gpSnb|2026-04-19T03:39:45.302Z|0",
+      "lessons": [],
+      "rendererVersion": "4.3.1",
+      "styleVersion": "2026-05-31-student-banner-no-meta-v2",
+      "runId": "no-meta-sync-2026-05-31-104541",
+      "spreadsheetId": "1dCHfR-RgX4GVNEA1jfFWSw8awGr1MaQN3YFarC5nvyU",
+      "stats": {
+        "leafCount": 0,
+        "totalVideos": 0
+      }
+    },
+    "1LzkUALt0YCqfx6i-8XPflOCh1-hNKdnB": {
+      "tabName": "IPTEST KIỂM TRA",
+      "renderedAt": "2026-05-31T04:02:50.812Z",
+      "checksum": "1LzkUALt0YCqfx6i-8XPflOCh1-hNKdnB|2026-05-22T08:35:21.306Z|3",
+      "lessons": [],
+      "rendererVersion": "4.3.1",
+      "styleVersion": "2026-05-31-student-banner-no-meta-v2",
+      "runId": "no-meta-sync-2026-05-31-104541",
+      "spreadsheetId": "1dCHfR-RgX4GVNEA1jfFWSw8awGr1MaQN3YFarC5nvyU",
+      "stats": {
+        "leafCount": 1,
+        "totalVideos": 1
+      }
+    }
+  },
+  "updatedAt": "2026-05-31T04:02:50.812Z",
+  "version": 2
+}

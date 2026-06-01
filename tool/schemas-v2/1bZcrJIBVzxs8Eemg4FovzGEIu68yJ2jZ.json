@@ -1,0 +1,99 @@
+{
+  "teacherId": "1bZcrJIBVzxs8Eemg4FovzGEIu68yJ2jZ",
+  "teacherName": "2. ĐỊA LÝ THẦY TÀI QANDA 2K9",
+  "generatedAt": "2026-05-28T16:24:11.717Z",
+  "generatedBy": "ai-sheet-structurer-v1",
+  "defaults": {
+    "levels": [
+      {
+        "depth": 0,
+        "label": "Chương / Chuyên đề",
+        "icon": "📖",
+        "bold": true,
+        "bg": "#FCE5C0"
+      }
+    ],
+    "leafFallback": {
+      "label": "Bài",
+      "icon": "📂",
+      "bold": true,
+      "bg": "#FCF1D4",
+      "note": "Một số khóa file nằm cấp nông hơn — render thẳng như leaf bài học."
+    },
+    "courseRow": {
+      "icon": "📚",
+      "bold": true,
+      "fontSize": 12,
+      "bg": "#D4E5FA"
+    },
+    "videoRow": {
+      "icon": "▸",
+      "indent": "extra-from-leaf"
+    }
+  },
+  "courses": [
+    {
+      "courseId": "1Cc0RSoYv2ZBv5ZSbGubj-uKuoKSwFfGM",
+      "courseName": "1. VOD - Địa lí 12 - Khóa 2K9 Xuất phát sớm 2027 - Thầy Trần Văn Tài",
+      "tabName": "VOD Địa lí 1",
+      "structure": "by-lesson",
+      "depth": 1,
+      "pattern": "flat",
+      "confidence": 0.9,
+      "decidedBy": "rule",
+      "filesTotal": 8,
+      "notes": "Pattern 'flat' depth=1, name pattern 'numeric' (100%)."
+    },
+    {
+      "courseId": "1O8CWSCuTjXkIspg_zdErbvOGfLNkzOmx",
+      "courseName": "2. Live - Địa lí 12 - Khóa 2K9 Tổng ôn chuyên sâu 2027 - Thầy Trần Văn Tài",
+      "tabName": "LIVE Địa lí 2",
+      "structure": "empty",
+      "depth": 0,
+      "pattern": "empty",
+      "confidence": 0,
+      "decidedBy": "rule-fallback",
+      "filesTotal": 0,
+      "notes": "Khóa rỗng (chưa upload nội dung). Render sẽ tạo tab placeholder."
+    },
+    {
+      "courseId": "16a7YwH6oXe6MQsn3ieMbSSK6T0P0-tKc",
+      "courseName": "3. Live - Địa lí 12 - Khóa 2K9 Luyện đề thực chiến 2027 - Thầy Trần Văn Tài",
+      "tabName": "LIVE Địa lí 3",
+      "structure": "empty",
+      "depth": 0,
+      "pattern": "empty",
+      "confidence": 0,
+      "decidedBy": "rule-fallback",
+      "filesTotal": 0,
+      "notes": "Khóa rỗng (chưa upload nội dung). Render sẽ tạo tab placeholder."
+    },
+    {
+      "courseId": "10sWJDfV4C2q8e7iGufPCbOoJh6kWNFfr",
+      "courseName": "4. Live - Địa lí 12 - Khóa 2K9 Bứt phá VD&VDC 2027 - Thầy Trần Văn Tài",
+      "tabName": "LIVE Địa lí 4",
+      "structure": "empty",
+      "depth": 0,
+      "pattern": "empty",
+      "confidence": 0,
+      "decidedBy": "rule-fallback",
+      "filesTotal": 0,
+      "notes": "Khóa rỗng (chưa upload nội dung). Render sẽ tạo tab placeholder."
+    }
+  ],
+  "_meta": {
+    "version": 1,
+    "source": "rule-based",
+    "total_courses": 6,
+    "renderable": 4,
+    "meta_skipped": [
+      "0. INFO THÔNG TIN VÀ HƯỚNG DẪN KHOÁ HỌC",
+      "Z. EBOOK SÁCH KÈM KHOÁ HỌC"
+    ],
+    "confidence_summary": {
+      "high": 1,
+      "medium": 0,
+      "low": 3
+    }
+  }
+}

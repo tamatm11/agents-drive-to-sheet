@@ -1,0 +1,211 @@
+{
+  "teacherId": "1a6F3BGCpXlHUCwsgpy1zkEjtvOXgi4t2",
+  "tabs": {
+    "1xuD_trfYB6841Lw4Ly0r_wyxFQ4KV2hA": {
+      "tabName": "LIVE I",
+      "renderedAt": "2026-05-31T04:00:45.589Z",
+      "checksum": "1xuD_trfYB6841Lw4Ly0r_wyxFQ4KV2hA|2026-05-24T12:59:35.356Z|110",
+      "lessons": [
+        {
+          "id": "1WEzCGV2ourL0YeUvZxiRo2WwEOgglXO0",
+          "name": "1. 1001 - Lớp 10 - Bài toán chuyển động",
+          "parentName": "0. ÔN TẬP VẬT LÍ LỚP 10 VÀ LỚP 11\t\t",
+          "checksum": "2026-04-19T23:15:54.008Z|10",
+          "virtual": false
+        },
+        {
+          "id": "1LCE8Ike_GCvw1j-Ijui9hcW2PPfkqFlx",
+          "name": "2. 1002 - Lớp 10 - Ba định luật Newton",
+          "parentName": "0. ÔN TẬP VẬT LÍ LỚP 10 VÀ LỚP 11\t\t",
+          "checksum": "2026-04-19T23:15:36.731Z|7",
+          "virtual": false
+        },
+        {
+          "id": "15fdTHD8FYqfD8ffzIIPfMAS5FEcEp6PU",
+          "name": "3. 1003 - Lớp 10 - Phân tích lực, Tổng hợp lực, Điều kiện cân bằng vật rắn",
+          "parentName": "0. ÔN TẬP VẬT LÍ LỚP 10 VÀ LỚP 11\t\t",
+          "checksum": "2026-04-19T23:15:25.145Z|7",
+          "virtual": false
+        },
+        {
+          "id": "1JJfa33R9z7tjNPRpoIMmkQq6lBeCysgR",
+          "name": "4. 1004 - Lớp 10 - Chuyển động tròn đều và Lực hướng tâm",
+          "parentName": "0. ÔN TẬP VẬT LÍ LỚP 10 VÀ LỚP 11\t\t",
+          "checksum": "2026-04-19T23:15:12.749Z|3",
+          "virtual": false
+        },
+        {
+          "id": "1CbqNgPVBoT-ALSRD-USqTZrZJ0sYHQy6",
+          "name": "5. 1005 - Lớp 10 - Moment lực và cân bằng vật rắn",
+          "parentName": "0. ÔN TẬP VẬT LÍ LỚP 10 VÀ LỚP 11\t\t",
+          "checksum": "2026-04-19T23:15:06.233Z|3",
+          "virtual": false
+        },
+        {
+          "id": "1LhCWG7UFVXogSO8s3bIdlMEI8-cSRWxx::file:1sR5Dch__p_-OPTzQSD0Q-PdW-ls35CWo",
+          "name": "Luyện tập – Bài tập đồ thị sự chuyển thể – 1. Tài liệu – Bài tập đồ thị sự chuyển thể",
+          "parentName": "1. CHƯƠNG 1: VẬT LÝ NHIỆT\t\t",
+          "checksum": "2026-05-24T12:59:35.300Z|1|00e616c3615d",
+          "virtual": true
+        },
+        {
+          "id": "1LhCWG7UFVXogSO8s3bIdlMEI8-cSRWxx::file:1to3QBdGAR4qSHkbRpHQrCJmRWPYy6wmG",
+          "name": "Luyện tập – Bài tập đồ thị sự chuyển thể – [Video bài giảng] 1. Luyện tập – Bài tập đồ thị sự chuyển thể",
+          "parentName": "1. CHƯƠNG 1: VẬT LÝ NHIỆT\t\t",
+          "checksum": "2026-05-24T12:59:35.317Z|1|635edcd45983",
+          "virtual": true
+        },
+        {
+          "id": "1xBQ7lrNW8WzzygLfQMgVt9LG_0IH7ejk",
+          "name": "1. 0101 - Cấu trúc của chất",
+          "parentName": "1. CHƯƠNG 1: VẬT LÝ NHIỆT\t\t",
+          "checksum": "2026-05-02T17:38:26.934Z|8",
+          "virtual": false
+        },
+        {
+          "id": "1dUIUnRM8aBKrTxNmNoC_zZID1kzqLkrU",
+          "name": "2. 0102 - Sự chuyển thể",
+          "parentName": "1. CHƯƠNG 1: VẬT LÝ NHIỆT\t\t",
+          "checksum": "2026-05-02T16:37:25.711Z|7",
+          "virtual": false
+        },
+        {
+          "id": "1stw4Qg_Zo2Gc4gzJ_HU5XdNDxkiuq5hu",
+          "name": "3. 0103 - Nhiệt độ, thang nhiệt độ, nhiệt kế",
+          "parentName": "1. CHƯƠNG 1: VẬT LÝ NHIỆT\t\t",
+          "checksum": "2026-05-02T16:37:46.622Z|7",
+          "virtual": false
+        },
+        {
+          "id": "1ICOKDJnnRbSaIS7coDQaA_rAFDXvj6TD",
+          "name": "3.1. Luyện tập - Nhiệt độ, thang nhiệt độ, nhiệt kế",
+          "parentName": "1. CHƯƠNG 1: VẬT LÝ NHIỆT\t\t",
+          "checksum": "2026-05-02T17:38:37.088Z|4",
+          "virtual": false
+        },
+        {
+          "id": "1Tw_StoKCMCAYVE4kjkRAmC_ZQePG8iD7",
+          "name": "4. 0104 - Nội năng, định luật I nhiệt động lực học",
+          "parentName": "1. CHƯƠNG 1: VẬT LÝ NHIỆT\t\t",
+          "checksum": "2026-05-02T17:38:44.936Z|8",
+          "virtual": false
+        },
+        {
+          "id": "1mi_NPnP-I75TgZyS_MhKKtLch9skS-22",
+          "name": "4.1. Luyện tập - Nội năng, định luật I nhiệt động lực học",
+          "parentName": "1. CHƯƠNG 1: VẬT LÝ NHIỆT\t\t",
+          "checksum": "2026-05-02T17:38:33.304Z|4",
+          "virtual": false
+        },
+        {
+          "id": "1WshwwlPJM0qDv12oswqvLKY4dbb8L17n",
+          "name": "5. 0105 - Nhiệt dung riêng",
+          "parentName": "1. CHƯƠNG 1: VẬT LÝ NHIỆT\t\t",
+          "checksum": "2026-05-02T16:37:37.045Z|10",
+          "virtual": false
+        },
+        {
+          "id": "1wUIpLRaLouXa4LqJrUdil9Q07Iy7xUOB",
+          "name": "5.1. Luyện tập - Bài toán trao đổi nhiệt (tiết 1)",
+          "parentName": "1. CHƯƠNG 1: VẬT LÝ NHIỆT\t\t",
+          "checksum": "2026-05-02T17:38:51.074Z|5",
+          "virtual": false
+        },
+        {
+          "id": "1gWde8FWnfzaOLeyVu2_wy3hYlcM5UXVg",
+          "name": "6. 0106 - Nhiệt nóng chảy riêng và Nhiệt hoá hơi riêng",
+          "parentName": "1. CHƯƠNG 1: VẬT LÝ NHIỆT\t\t",
+          "checksum": "2026-05-11T08:31:10.771Z|7",
+          "virtual": false
+        },
+        {
+          "id": "1z3PGC3DDBqcUdyXnkp7bIwke4lvzH50k",
+          "name": "6.1 Luyện tập – Bài toán biện luận chuyển pha",
+          "parentName": "1. CHƯƠNG 1: VẬT LÝ NHIỆT\t\t",
+          "checksum": "2026-05-24T12:59:35.356Z|5",
+          "virtual": false
+        },
+        {
+          "id": "1PQn3mhVpT1Ce_Xm7-eDrRfMsjCIIjzpg",
+          "name": "6.3 Tổng ôn – 100 câu lý thuyết trọng điểm Vật Lí Nhiệt",
+          "parentName": "1. CHƯƠNG 1: VẬT LÝ NHIỆT\t\t",
+          "checksum": "2026-05-24T12:59:34.816Z|6",
+          "virtual": false
+        },
+        {
+          "id": "172bjOW6VSn4SeLRecvoLsH7wbWOqjUpi",
+          "name": "6.4 Các bài toán Nhiệt nâng cao - Phần 1",
+          "parentName": "1. CHƯƠNG 1: VẬT LÝ NHIỆT\t\t",
+          "checksum": "2026-05-24T12:59:34.374Z|3",
+          "virtual": false
+        },
+        {
+          "id": "1VQtLf4FO2XRhlMBfRw2S1tX0Gi6DdMpn",
+          "name": "z. Độc quyền học sinh lớp VIP",
+          "parentName": "1. CHƯƠNG 1: VẬT LÝ NHIỆT\t\t",
+          "checksum": "2026-05-24T12:59:34.088Z|1",
+          "virtual": false
+        },
+        {
+          "id": "1m5z-Sq8CsSgu-zfkqH8DiZbcvkB1z5KL",
+          "name": "1. Xây nền tảng Vật Lí Nhiệt",
+          "parentName": "Z. TỔNG HỢP CÁC BUỔI HỌC TRÊN FANPAGE\t\t",
+          "checksum": "2026-05-19T09:15:02.375Z|3",
+          "virtual": false
+        }
+      ],
+      "rendererVersion": "4.3.1",
+      "styleVersion": "2026-05-31-student-banner-no-meta-v2",
+      "runId": "no-meta-sync-2026-05-31-104541",
+      "spreadsheetId": "111HlKrsqyGOdLRVryafvyL_4zqyeAxGylLai_GfIuGg",
+      "stats": {
+        "leafCount": 21,
+        "totalVideos": 80
+      }
+    },
+    "1qOz50Z5-MKWeQ5OBAafeIHBiqQdvq6sq": {
+      "tabName": "LIVE M",
+      "renderedAt": "2026-05-31T04:00:52.812Z",
+      "checksum": "1qOz50Z5-MKWeQ5OBAafeIHBiqQdvq6sq|2026-04-15T22:19:04.765Z|0",
+      "lessons": [],
+      "rendererVersion": "4.3.1",
+      "styleVersion": "2026-05-31-student-banner-no-meta-v2",
+      "runId": "no-meta-sync-2026-05-31-104541",
+      "spreadsheetId": "111HlKrsqyGOdLRVryafvyL_4zqyeAxGylLai_GfIuGg",
+      "stats": {
+        "leafCount": 0,
+        "totalVideos": 0
+      }
+    },
+    "1hG7z4bktEZK7uu_C_sI2hNg-IcJ7bTlj": {
+      "tabName": "LIVE O",
+      "renderedAt": "2026-05-31T04:00:59.852Z",
+      "checksum": "1hG7z4bktEZK7uu_C_sI2hNg-IcJ7bTlj|2026-04-15T22:19:06.398Z|0",
+      "lessons": [],
+      "rendererVersion": "4.3.1",
+      "styleVersion": "2026-05-31-student-banner-no-meta-v2",
+      "runId": "no-meta-sync-2026-05-31-104541",
+      "spreadsheetId": "111HlKrsqyGOdLRVryafvyL_4zqyeAxGylLai_GfIuGg",
+      "stats": {
+        "leafCount": 0,
+        "totalVideos": 0
+      }
+    },
+    "1sipWzCGwlam0qvPHpR1Kt38uJgBfiZQ2": {
+      "tabName": "LIVE E",
+      "renderedAt": "2026-05-31T04:01:06.995Z",
+      "checksum": "1sipWzCGwlam0qvPHpR1Kt38uJgBfiZQ2|2026-04-15T22:19:05.542Z|0",
+      "lessons": [],
+      "rendererVersion": "4.3.1",
+      "styleVersion": "2026-05-31-student-banner-no-meta-v2",
+      "runId": "no-meta-sync-2026-05-31-104541",
+      "spreadsheetId": "111HlKrsqyGOdLRVryafvyL_4zqyeAxGylLai_GfIuGg",
+      "stats": {
+        "leafCount": 0,
+        "totalVideos": 0
+      }
+    }
+  },
+  "updatedAt": "2026-05-31T04:01:06.996Z",
+  "version": 2
+}

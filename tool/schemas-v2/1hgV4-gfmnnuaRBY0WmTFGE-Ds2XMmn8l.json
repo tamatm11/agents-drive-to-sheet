@@ -1,0 +1,41 @@
+{
+  "updatedAt": "2026-05-29T17:45:00.000Z",
+  "teacher": {
+    "id": "1hgV4-gfmnnuaRBY0WmTFGE-Ds2XMmn8l",
+    "name": "HOÁ THẦY PHẠM THẮNG TYHH 2K9"
+  },
+  "courses": [
+    {
+      "courseId": "13p-uHV0kleMpFLqetzVSI8jNPPVZHfq-",
+      "tabName": "Khóa XPS"
+    },
+    {
+      "courseId": "13K1zJBZbQMF86BGpUqV02vv9-oRR1VjB",
+      "tabName": "LIVE Chuyên Đề"
+    },
+    {
+      "courseId": "1CN7tWsMWJ0opbH3Ylk10cwlD346bqyLH",
+      "tabName": "Khóa Vận Dụng Cao"
+    },
+    {
+      "courseId": "1mltW6EU2mnQQc5ouBf_jPdMzcLKMzWl7",
+      "tabName": "LIVE Luyện Đề"
+    },
+    {
+      "courseId": "15da70TVHetw2iIClOomWtIKBTCUvzlrx",
+      "tabName": "LIVE Tổng Ôn"
+    },
+    {
+      "courseId": "1BP7_vtwTSKEQGjSMqN7Kj3UvvWO_e6D5",
+      "tabName": "Bonus Tư Vấn"
+    },
+    {
+      "courseId": "1nH4S4I6t4sO5wZf2KZvH6h_s4kO2jCBl",
+      "tabName": "Khóa Bổ Trợ HSG"
+    },
+    {
+      "courseId": "1dUjlCNYyiOdM8uKvpLr_2x3sJ5mKnOqP",
+      "tabName": "Khóa Bổ Trợ ĐGNL"
+    }
+  ]
+}

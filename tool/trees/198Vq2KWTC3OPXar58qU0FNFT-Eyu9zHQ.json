@@ -1,0 +1,642 @@
+{
+  "crawledAt": "2026-05-30T02:13:33.233Z",
+  "teacher": {
+    "id": "198Vq2KWTC3OPXar58qU0FNFT-Eyu9zHQ",
+    "name": "2. SINH CÔ TRÀ MY QANDA 2k9",
+    "modifiedTime": "2026-05-27T15:22:55.994Z",
+    "webViewLink": "https://drive.google.com/drive/folders/198Vq2KWTC3OPXar58qU0FNFT-Eyu9zHQ"
+  },
+  "courses": [
+    {
+      "id": "1pbJUjdATnS6_JOJW5PQiVz5Y6Zk5UMqk",
+      "name": "0. INFO THÔNG TIN VÀ HƯỚNG DẪN KHOÁ HỌC",
+      "children": [],
+      "files": [],
+      "webViewLink": "https://drive.google.com/drive/folders/1pbJUjdATnS6_JOJW5PQiVz5Y6Zk5UMqk",
+      "modifiedTime": "2026-04-19T23:14:49.215Z"
+    },
+    {
+      "id": "1NwTlBiqitZFQS35Zcaztd70oGLp1VUTb",
+      "name": "01. XPS - SINH 12 - DI TRUYỀN PHÂN TỬ",
+      "children": [
+        {
+          "id": "1AJ0JJxMWVIbgNcXZaE5m574BJ41PcTr6",
+          "name": "Bài 1. Khái quát về Di truyền phân tử",
+          "webViewLink": "https://drive.google.com/drive/folders/1AJ0JJxMWVIbgNcXZaE5m574BJ41PcTr6",
+          "modifiedTime": "2026-05-24T07:46:30.011Z",
+          "children": [],
+          "files": [
+            {
+              "id": "1Usr8xiywv5QAd61QK2qGm5Q93NT5kofe",
+              "name": "1773025841093-bai-1-khai-quat-ve-di-truyen-phan-tu-1-pdf.pdf",
+              "mimeType": "application/pdf",
+              "size": 6721023,
+              "webViewLink": "https://drive.google.com/file/d/1Usr8xiywv5QAd61QK2qGm5Q93NT5kofe/view?usp=drivesdk",
+              "modifiedTime": "2026-05-24T07:46:31.495Z",
+              "videoMediaMetadata": null
+            },
+            {
+              "id": "1vQm2fziY27iweGiVjZVRXZGDDgy3JJPm",
+              "name": "1773025841093-bai-1-khai-quat-ve-di-truyen-phan-tu-pdf.pdf",
+              "mimeType": "application/pdf",
+              "size": 5678635,
+              "webViewLink": "https://drive.google.com/file/d/1vQm2fziY27iweGiVjZVRXZGDDgy3JJPm/view?usp=drivesdk",
+              "modifiedTime": "2026-05-24T07:46:31.419Z",
+              "videoMediaMetadata": null
+            },
+            {
+              "id": "1PYcrwixqZpd5EmgzhiehCwd6bbXnlSG-",
+              "name": "1773025841093-bai-1-pdf.pdf",
+              "mimeType": "application/pdf",
+              "size": 3630980,
+              "webViewLink": "https://drive.google.com/file/d/1PYcrwixqZpd5EmgzhiehCwd6bbXnlSG-/view?usp=drivesdk",
+              "modifiedTime": "2026-05-24T07:46:31.472Z",
+              "videoMediaMetadata": null
+            },
+            {
+              "id": "1oMF_kHeX3pvHPbs3HUCHjt3q0mL4ELTu",
+              "name": "Bài 1 Khái quát về Di truyền phân tử.mp4",
+              "mimeType": "video/mp4",
+              "size": 237705595,
+              "webViewLink": "https://drive.google.com/file/d/1oMF_kHeX3pvHPbs3HUCHjt3q0mL4ELTu/view?usp=drivesdk",
+              "modifiedTime": "2026-05-24T14:26:40.395Z",
+              "videoMediaMetadata": null
+            }
+          ]
+        },
+        {
+          "id": "1whIHCx-hLq1gu_nNJcqabIcIym7IWfRT",
+          "name": "Bài 2.1. DNA và quá trình tái bản",
+          "webViewLink": "https://drive.google.com/drive/folders/1whIHCx-hLq1gu_nNJcqabIcIym7IWfRT",
+          "modifiedTime": "2026-05-24T07:46:42.195Z",
+          "children": [],
+          "files": [
+            {
+              "id": "1g8H3JvzC0WOsbr4Nuazs7yji_LOkJM35",
+              "name": "1773631375262-bai-2-dna-va-qua-trinh-tai-ban-pdf.pdf",
+              "mimeType": "application/pdf",
+              "size": 29635220,
+              "webViewLink": "https://drive.google.com/file/d/1g8H3JvzC0WOsbr4Nuazs7yji_LOkJM35/view?usp=drivesdk",
+              "modifiedTime": "2026-05-24T07:46:43.508Z",
+              "videoMediaMetadata": null
+            },
+            {
+              "id": "1uASiFX89zV5yBmQF3QmwF7BEx1eS61ll",
+              "name": "1773631393837-dna-va-qua-trinh-tai-ban-2k9-pdf.pdf",
+              "mimeType": "application/pdf",
+              "size": 5950525,
+              "webViewLink": "https://drive.google.com/file/d/1uASiFX89zV5yBmQF3QmwF7BEx1eS61ll/view?usp=drivesdk",
+              "modifiedTime": "2026-05-24T07:46:43.516Z",
+              "videoMediaMetadata": null
+            },
+            {
+              "id": "14mWBIrACVVoBp6vQqyVZRSlE7yqDbIac",
+              "name": "Bài 2.1. DNA và quá trình tái bản.mp4",
+              "mimeType": "video/mp4",
+              "size": 296555553,
+              "webViewLink": "https://drive.google.com/file/d/14mWBIrACVVoBp6vQqyVZRSlE7yqDbIac/view?usp=drivesdk",
+              "modifiedTime": "2026-05-24T14:33:14.786Z",
+              "videoMediaMetadata": null
+            }
+          ]
+        },
+        {
+          "id": "1k7XD3D4MG27y9EIxhqKFDFLkevBau7LJ",
+          "name": "Bài 2.2. Các dạng bài tập về DNA và quá trình tái bản",
+          "webViewLink": "https://drive.google.com/drive/folders/1k7XD3D4MG27y9EIxhqKFDFLkevBau7LJ",
+          "modifiedTime": "2026-05-24T07:46:38.112Z",
+          "children": [],
+          "files": [
+            {
+              "id": "1Mo-lblAzoS10j4jsY_MUdHu4LHBzukBI",
+              "name": "1773806722456-bai-2-2-2k9-pdf.pdf",
+              "mimeType": "application/pdf",
+              "size": 6574226,
+              "webViewLink": "https://drive.google.com/file/d/1Mo-lblAzoS10j4jsY_MUdHu4LHBzukBI/view?usp=drivesdk",
+              "modifiedTime": "2026-05-24T07:46:39.530Z",
+              "videoMediaMetadata": null
+            },
+            {
+              "id": "16mPY9BWK4hi2zE8JL2wqC7jplJZ3StiL",
+              "name": "Bài 2.2. Các dạng bài tập về DNA và quá trình tái bản.mp4",
+              "mimeType": "video/mp4",
+              "size": 191364058,
+              "webViewLink": "https://drive.google.com/file/d/16mPY9BWK4hi2zE8JL2wqC7jplJZ3StiL/view?usp=drivesdk",
+              "modifiedTime": "2026-05-24T14:30:50.583Z",
+              "videoMediaMetadata": {
+                "width": 1280,
+                "height": 720,
+                "durationMillis": "6321566"
+              }
+            }
+          ]
+        },
+        {
+          "id": "1wG3SukaprNroJScteGbLShMu-KjMx7bO",
+          "name": "Bài 2.3. Chữa bài tập DNA và quá trình tái bản",
+          "webViewLink": "https://drive.google.com/drive/folders/1wG3SukaprNroJScteGbLShMu-KjMx7bO",
+          "modifiedTime": "2026-05-24T07:46:43.504Z",
+          "children": [],
+          "files": [
+            {
+              "id": "1kUbWX1mlnBx0GkPXYsalytNwsApgGubo",
+              "name": "1774237502409-bai-2-3-chua-bai-tap-pdf.pdf",
+              "mimeType": "application/pdf",
+              "size": 14752017,
+              "webViewLink": "https://drive.google.com/file/d/1kUbWX1mlnBx0GkPXYsalytNwsApgGubo/view?usp=drivesdk",
+              "modifiedTime": "2026-05-24T07:46:44.867Z",
+              "videoMediaMetadata": null
+            },
+            {
+              "id": "1NSS8HBYUTWKLoSwTJnqt20rTgP94XBrc",
+              "name": "Bài 2.3. Chữa bài tập DNA và quá trình tái bản P1.mp4",
+              "mimeType": "video/mp4",
+              "size": 309955372,
+              "webViewLink": "https://drive.google.com/file/d/1NSS8HBYUTWKLoSwTJnqt20rTgP94XBrc/view?usp=drivesdk",
+              "modifiedTime": "2026-05-24T14:33:52.787Z",
+              "videoMediaMetadata": null
+            },
+            {
+              "id": "1HQEHFQC9N0wNJHr0ouqG5CY9SzkXxXEW",
+              "name": "Bài 2.3. Chữa bài tập DNA và quá trình tái bản P2.mp4",
+              "mimeType": "video/mp4",
+              "size": 49958084,
+              "webViewLink": "https://drive.google.com/file/d/1HQEHFQC9N0wNJHr0ouqG5CY9SzkXxXEW/view?usp=drivesdk",
+              "modifiedTime": "2026-05-24T14:33:25.582Z",
+              "videoMediaMetadata": null
+            }
+          ]
+        },
+        {
+          "id": "1Ac56bQ0KZcBTav6jxFtpYVIlSvuBFQpN",
+          "name": "Bài 3.1. Gene, RNA và quá trình phiên mã (Sự biểu hiện TTDT 01)",
+          "webViewLink": "https://drive.google.com/drive/folders/1Ac56bQ0KZcBTav6jxFtpYVIlSvuBFQpN",
+          "modifiedTime": "2026-05-24T07:46:34.882Z",
+          "children": [],
+          "files": [
+            {
+              "id": "1bka7pEfpYCovU9Ubu3UKnOLce3wIjiK2",
+              "name": "1774409022959-bai-3-1-gene-rna-va-qua-trinh-phien-ma-pdf.pdf",
+              "mimeType": "application/pdf",
+              "size": 13157661,
+              "webViewLink": "https://drive.google.com/file/d/1bka7pEfpYCovU9Ubu3UKnOLce3wIjiK2/view?usp=drivesdk",
+              "modifiedTime": "2026-05-24T07:46:36.251Z",
+              "videoMediaMetadata": null
+            },
+            {
+              "id": "1QRkZs87uiqONxjVhEoaYc3ZODn4DraEt",
+              "name": "1774409070384-vt-3-1-gene-rna-phien-ma-pdf.pdf",
+              "mimeType": "application/pdf",
+              "size": 3913444,
+              "webViewLink": "https://drive.google.com/file/d/1QRkZs87uiqONxjVhEoaYc3ZODn4DraEt/view?usp=drivesdk",
+              "modifiedTime": "2026-05-24T07:46:36.252Z",
+              "videoMediaMetadata": null
+            },
+            {
+              "id": "1N07piiojNqTtVF5bjrwc1FYwBBFgA1UH",
+              "name": "Bài 3.1. Gene RNA và quá trình phiên mã Sự biểu hiện TTDT 01.mp4",
+              "mimeType": "video/mp4",
+              "size": 220727826,
+              "webViewLink": "https://drive.google.com/file/d/1N07piiojNqTtVF5bjrwc1FYwBBFgA1UH/view?usp=drivesdk",
+              "modifiedTime": "2026-05-24T14:29:36.438Z",
+              "videoMediaMetadata": null
+            }
+          ]
+        },
+        {
+          "id": "1bjcMQyxaPS2yRCBcePJZY5ppNhbXymyM",
+          "name": "Bài 3.2. Protein và quá trình dịch mã (Sự biểu hiện TTDT 02)",
+          "webViewLink": "https://drive.google.com/drive/folders/1bjcMQyxaPS2yRCBcePJZY5ppNhbXymyM",
+          "modifiedTime": "2026-05-24T07:46:36.903Z",
+          "children": [],
+          "files": [
+            {
+              "id": "1jTGJ4fcO-NZVboSDA4vAWjdU-ySwLNCH",
+              "name": "1774840196154-vt-3-2-ma-di-truyen-dich-ma-pdf.pdf",
+              "mimeType": "application/pdf",
+              "size": 5805065,
+              "webViewLink": "https://drive.google.com/file/d/1jTGJ4fcO-NZVboSDA4vAWjdU-ySwLNCH/view?usp=drivesdk",
+              "modifiedTime": "2026-05-24T07:46:38.371Z",
+              "videoMediaMetadata": null
+            },
+            {
+              "id": "1zfmEzuHtIMtvzKP6xpF691GwlrpYtgyp",
+              "name": "Bài 3.2. Protein và quá trình dịch mã Sự biểu hiện TTDT 02.mp4",
+              "mimeType": "video/mp4",
+              "size": 261217811,
+              "webViewLink": "https://drive.google.com/file/d/1zfmEzuHtIMtvzKP6xpF691GwlrpYtgyp/view?usp=drivesdk",
+              "modifiedTime": "2026-05-24T14:30:13.298Z",
+              "videoMediaMetadata": {
+                "width": 1280,
+                "height": 720,
+                "durationMillis": "6548399"
+              }
+            }
+          ]
+        },
+        {
+          "id": "15JfrerPK7q5ustswHl0bjVFfy__EgGPS",
+          "name": "Bài 3.3. Các dạng bài tập Sự biểu hiện thông tin di truyền",
+          "webViewLink": "https://drive.google.com/drive/folders/15JfrerPK7q5ustswHl0bjVFfy__EgGPS",
+          "modifiedTime": "2026-05-24T07:46:40.640Z",
+          "children": [],
+          "files": [
+            {
+              "id": "1qzwf7UYLOp4winS43Zv4LznzVUuCzr0b",
+              "name": "1775014622468-bai-3-3-cac-dang-bai-tap-ve-su-bieu-hien-thong-tin-di-truyen-pdf.pdf",
+              "mimeType": "application/pdf",
+              "size": 5359753,
+              "webViewLink": "https://drive.google.com/file/d/1qzwf7UYLOp4winS43Zv4LznzVUuCzr0b/view?usp=drivesdk",
+              "modifiedTime": "2026-05-24T07:46:42.221Z",
+              "videoMediaMetadata": null
+            },
+            {
+              "id": "1GlRzq8bu9yHHXAQi2mqiA9nIDxQLMo3x",
+              "name": "1775014665334-vt-bai-3-3-cac-dang-bai-tap-ve-su-bieu-hien-thong-tin-di-truyen-1-pdf.pdf",
+              "mimeType": "application/pdf",
+              "size": 3581738,
+              "webViewLink": "https://drive.google.com/file/d/1GlRzq8bu9yHHXAQi2mqiA9nIDxQLMo3x/view?usp=drivesdk",
+              "modifiedTime": "2026-05-24T07:46:42.227Z",
+              "videoMediaMetadata": null
+            },
+            {
+              "id": "1j4KLRv6w42MAzhirxOLxmalOvntDOZlA",
+              "name": "1775014665334-vt-bai-tap-buoi-3-1-pdf.pdf",
+              "mimeType": "application/pdf",
+              "size": 8365586,
+              "webViewLink": "https://drive.google.com/file/d/1j4KLRv6w42MAzhirxOLxmalOvntDOZlA/view?usp=drivesdk",
+              "modifiedTime": "2026-05-24T07:46:42.209Z",
+              "videoMediaMetadata": null
+            },
+            {
+              "id": "1c2ofRbNtuHvUCt4DXlyzcUVgXIzsjNr1",
+              "name": "Bài 3.3. Các dạng bài tập Sự biểu hiện thông tin di truyền P1.mp4",
+              "mimeType": "video/mp4",
+              "size": 299036963,
+              "webViewLink": "https://drive.google.com/file/d/1c2ofRbNtuHvUCt4DXlyzcUVgXIzsjNr1/view?usp=drivesdk",
+              "modifiedTime": "2026-05-24T14:32:25.469Z",
+              "videoMediaMetadata": null
+            },
+            {
+              "id": "1lVQLqT0xtQBiKFzVCEGmCk2GCISkiidZ",
+              "name": "Bài 3.3. Các dạng bài tập Sự biểu hiện thông tin di truyền P2.mp4",
+              "mimeType": "video/mp4",
+              "size": 45273056,
+              "webViewLink": "https://drive.google.com/file/d/1lVQLqT0xtQBiKFzVCEGmCk2GCISkiidZ/view?usp=drivesdk",
+              "modifiedTime": "2026-05-24T14:32:37.836Z",
+              "videoMediaMetadata": null
+            }
+          ]
+        },
+        {
+          "id": "1K1cDMpJK4zIwikK1LhHexJqQdAQEbzhN",
+          "name": "Bài 3.4. Chữa bài tập Sự biểu hiện thông tin di truyền",
+          "webViewLink": "https://drive.google.com/drive/folders/1K1cDMpJK4zIwikK1LhHexJqQdAQEbzhN",
+          "modifiedTime": "2026-05-24T07:46:39.398Z",
+          "children": [],
+          "files": [
+            {
+              "id": "1ZPj6WqzAWFIKzEd9e9qwpD2RVxNAuZn5",
+              "name": "1775446332531-bai-3-3-cac-dang-bai-tap-ve-su-bieu-hien-thong-tin-di-truyen-1-pdf.pdf",
+              "mimeType": "application/pdf",
+              "size": 5359753,
+              "webViewLink": "https://drive.google.com/file/d/1ZPj6WqzAWFIKzEd9e9qwpD2RVxNAuZn5/view?usp=drivesdk",
+              "modifiedTime": "2026-05-24T07:46:40.777Z",
+              "videoMediaMetadata": null
+            },
+            {
+              "id": "1j2wx7VMzd1KgfVWj7qHSguRvu1Wv1_wV",
+              "name": "1775446332531-vt-bai-tap-dich-ma-pdf.pdf",
+              "mimeType": "application/pdf",
+              "size": 7531865,
+              "webViewLink": "https://drive.google.com/file/d/1j2wx7VMzd1KgfVWj7qHSguRvu1Wv1_wV/view?usp=drivesdk",
+              "modifiedTime": "2026-05-24T07:46:40.781Z",
+              "videoMediaMetadata": null
+            },
+            {
+              "id": "1Bfyn0jKi274TyFh7dRn1BJOH6OvFoYIF",
+              "name": "Bài 3.4. Chữa bài tập Sự biểu hiện thông tin di truyền.mp4",
+              "mimeType": "video/mp4",
+              "size": 256915829,
+              "webViewLink": "https://drive.google.com/file/d/1Bfyn0jKi274TyFh7dRn1BJOH6OvFoYIF/view?usp=drivesdk",
+              "modifiedTime": "2026-05-24T14:31:28.648Z",
+              "videoMediaMetadata": null
+            }
+          ]
+        },
+        {
+          "id": "1MxPZI-9wjOlTIboLpUb-wYuAO_YzVGVf",
+          "name": "Bài 4.1. Điều hòa biểu hiện gene - Hệ gene người",
+          "webViewLink": "https://drive.google.com/drive/folders/1MxPZI-9wjOlTIboLpUb-wYuAO_YzVGVf",
+          "modifiedTime": "2026-05-24T07:46:47.172Z",
+          "children": [],
+          "files": [
+            {
+              "id": "1PYI_jH_nH2k5yLY85BL57CpQLZ6LjJMN",
+              "name": "1775790085616-bai-4-dieu-hoa-bieu-hien-gene-pdf.pdf",
+              "mimeType": "application/pdf",
+              "size": 11222801,
+              "webViewLink": "https://drive.google.com/file/d/1PYI_jH_nH2k5yLY85BL57CpQLZ6LjJMN/view?usp=drivesdk",
+              "modifiedTime": "2026-05-24T07:46:48.531Z",
+              "videoMediaMetadata": null
+            },
+            {
+              "id": "144ySebs9zJhlsX6TLLpDBjJRJxPi6EeS",
+              "name": "1775790131364-vt-b4-dieu-hoa-bieu-hien-gene-pdf.pdf",
+              "mimeType": "application/pdf",
+              "size": 3680943,
+              "webViewLink": "https://drive.google.com/file/d/144ySebs9zJhlsX6TLLpDBjJRJxPi6EeS/view?usp=drivesdk",
+              "modifiedTime": "2026-05-24T07:46:48.506Z",
+              "videoMediaMetadata": null
+            },
+            {
+              "id": "1aPyfWnSNy0ZmQOaaA7QESF9fb4eEffOS",
+              "name": "Bài 4.1. Điều hòa biểu hiện gene - Hệ gene người.mp4",
+              "mimeType": "video/mp4",
+              "size": 234514444,
+              "webViewLink": "https://drive.google.com/file/d/1aPyfWnSNy0ZmQOaaA7QESF9fb4eEffOS/view?usp=drivesdk",
+              "modifiedTime": "2026-05-24T14:35:36.882Z",
+              "videoMediaMetadata": null
+            }
+          ]
+        },
+        {
+          "id": "1b9VyinKWYuUoPQSOrQYA3oBxrzJj_Ola",
+          "name": "Bài 4.2. Chữa bài tập Điều hòa biểu hiện gene - Hệ gene người",
+          "webViewLink": "https://drive.google.com/drive/folders/1b9VyinKWYuUoPQSOrQYA3oBxrzJj_Ola",
+          "modifiedTime": "2026-05-24T07:46:46.018Z",
+          "children": [],
+          "files": [
+            {
+              "id": "1ZhIPyZbranhWdTdqJmfS0F_pK40qRPFD",
+              "name": "1776051528081-bai-4-dieu-hoa-bieu-hien-gene-pdf.pdf",
+              "mimeType": "application/pdf",
+              "size": 11222801,
+              "webViewLink": "https://drive.google.com/file/d/1ZhIPyZbranhWdTdqJmfS0F_pK40qRPFD/view?usp=drivesdk",
+              "modifiedTime": "2026-05-24T07:46:47.293Z",
+              "videoMediaMetadata": null
+            },
+            {
+              "id": "1BEjTveayBD5taIrEyAQT8_f0I8oC0HyB",
+              "name": "1776051563187-vt-4-2-bai-tap-dieu-hoa-bieu-hien-gene-pdf.pdf",
+              "mimeType": "application/pdf",
+              "size": 8101399,
+              "webViewLink": "https://drive.google.com/file/d/1BEjTveayBD5taIrEyAQT8_f0I8oC0HyB/view?usp=drivesdk",
+              "modifiedTime": "2026-05-24T07:46:47.299Z",
+              "videoMediaMetadata": null
+            },
+            {
+              "id": "1Ywb265-K5kZHkVxcl1FsMmuv1LCwcr9T",
+              "name": "Bài 4.2. Chữa bài tập Điều hòa biểu hiện gene - Hệ gene người.mp4",
+              "mimeType": "video/mp4",
+              "size": 253494285,
+              "webViewLink": "https://drive.google.com/file/d/1Ywb265-K5kZHkVxcl1FsMmuv1LCwcr9T/view?usp=drivesdk",
+              "modifiedTime": "2026-05-24T14:35:07.258Z",
+              "videoMediaMetadata": {
+                "width": 1280,
+                "height": 720,
+                "durationMillis": "4960333"
+              }
+            }
+          ]
+        },
+        {
+          "id": "1GV5nyNm1lnNKrXe4AwcfB2fJpFdK8Zlz",
+          "name": "Bài 5. Đột biến gene và các dạng bài tập đột biến gene",
+          "webViewLink": "https://drive.google.com/drive/folders/1GV5nyNm1lnNKrXe4AwcfB2fJpFdK8Zlz",
+          "modifiedTime": "2026-05-24T07:46:44.823Z",
+          "children": [],
+          "files": [
+            {
+              "id": "1CLSWDAmJorBib82ehwHPhlqqgF0q2oJw",
+              "name": "1776223667958-bai-5-dot-bien-gene-pdf.pdf",
+              "mimeType": "application/pdf",
+              "size": 15447012,
+              "webViewLink": "https://drive.google.com/file/d/1CLSWDAmJorBib82ehwHPhlqqgF0q2oJw/view?usp=drivesdk",
+              "modifiedTime": "2026-05-24T07:46:46.113Z",
+              "videoMediaMetadata": null
+            },
+            {
+              "id": "1_oOeMPMKdzGFKTeC7iCEin3d3H0TbMJd",
+              "name": "1776223726859-vt-b5-dot-bien-gene-pdf.pdf",
+              "mimeType": "application/pdf",
+              "size": 2282245,
+              "webViewLink": "https://drive.google.com/file/d/1_oOeMPMKdzGFKTeC7iCEin3d3H0TbMJd/view?usp=drivesdk",
+              "modifiedTime": "2026-05-24T07:46:46.106Z",
+              "videoMediaMetadata": null
+            },
+            {
+              "id": "1v0XVSY9_q6cSsG_-TIK4unarilL4ZJye",
+              "name": "Bài 5. Đột biến gene và các dạng bài tập đột biến gene.mp4",
+              "mimeType": "video/mp4",
+              "size": 183888194,
+              "webViewLink": "https://drive.google.com/file/d/1v0XVSY9_q6cSsG_-TIK4unarilL4ZJye/view?usp=drivesdk",
+              "modifiedTime": "2026-05-24T14:34:30.458Z",
+              "videoMediaMetadata": null
+            }
+          ]
+        },
+        {
+          "id": "1RXiBB87HkY7Vvo2QwUzHoWikwiRpSoCn",
+          "name": "Bài 5.1. Chữa bài tập Đột biến gene và các dạng bài tập đột biến gene",
+          "webViewLink": "https://drive.google.com/drive/folders/1RXiBB87HkY7Vvo2QwUzHoWikwiRpSoCn",
+          "modifiedTime": "2026-05-24T07:46:32.799Z",
+          "children": [],
+          "files": [
+            {
+              "id": "1wOmlVx-BrOzDKgceNTKtWCAHQoqNfttU",
+              "name": "1776655657510-bai-5-dot-bien-gene-1-pdf.pdf",
+              "mimeType": "application/pdf",
+              "size": 15447012,
+              "webViewLink": "https://drive.google.com/file/d/1wOmlVx-BrOzDKgceNTKtWCAHQoqNfttU/view?usp=drivesdk",
+              "modifiedTime": "2026-05-24T07:46:34.226Z",
+              "videoMediaMetadata": null
+            },
+            {
+              "id": "1fc9xhO9kir627MIDl_CYA9B0MD6WDoS0",
+              "name": "1776655673514-vt-bai-tap-b5-pdf.pdf",
+              "mimeType": "application/pdf",
+              "size": 13266072,
+              "webViewLink": "https://drive.google.com/file/d/1fc9xhO9kir627MIDl_CYA9B0MD6WDoS0/view?usp=drivesdk",
+              "modifiedTime": "2026-05-24T07:46:34.271Z",
+              "videoMediaMetadata": null
+            },
+            {
+              "id": "1FhfqyVcvdzdX9sGWUUxAmL8AbIYUn7UF",
+              "name": "Bài 5.1. Chữa bài tập Đột biến gene và các dạng bài tập đột biến gene (P2).mp4",
+              "mimeType": "video/mp4",
+              "size": 64553111,
+              "webViewLink": "https://drive.google.com/file/d/1FhfqyVcvdzdX9sGWUUxAmL8AbIYUn7UF/view?usp=drivesdk",
+              "modifiedTime": "2026-05-24T14:29:06.613Z",
+              "videoMediaMetadata": null
+            },
+            {
+              "id": "1QOq8l7tavNXNHXa_HNc0VoBxOB3UpTtL",
+              "name": "Bài 5.1. Chữa bài tập Đột biến gene và các dạng bài tập đột biến gene P1.mp4",
+              "mimeType": "video/mp4",
+              "size": 306040258,
+              "webViewLink": "https://drive.google.com/file/d/1QOq8l7tavNXNHXa_HNc0VoBxOB3UpTtL/view?usp=drivesdk",
+              "modifiedTime": "2026-05-24T14:28:50.813Z",
+              "videoMediaMetadata": null
+            }
+          ]
+        },
+        {
+          "id": "1f6yLkiCFO2eGl0tEp_n2TXTFUzTr_0Dh",
+          "name": "Bài 6. Công nghệ gene",
+          "webViewLink": "https://drive.google.com/drive/folders/1f6yLkiCFO2eGl0tEp_n2TXTFUzTr_0Dh",
+          "modifiedTime": "2026-05-24T07:46:28.760Z",
+          "children": [],
+          "files": [
+            {
+              "id": "1p_U1m0xeoMw7riHxLWzJqYZ2OAdCJPF0",
+              "name": "1776828432322-bai-6-cong-nghe-gene-pdf.pdf",
+              "mimeType": "application/pdf",
+              "size": 21519681,
+              "webViewLink": "https://drive.google.com/file/d/1p_U1m0xeoMw7riHxLWzJqYZ2OAdCJPF0/view?usp=drivesdk",
+              "modifiedTime": "2026-05-24T07:46:30.229Z",
+              "videoMediaMetadata": null
+            },
+            {
+              "id": "1itt4xibOW--KOeDqi6dF-Lgr6z18E3aX",
+              "name": "1776828476401-vt-cn-gene-pdf.pdf",
+              "mimeType": "application/pdf",
+              "size": 15594664,
+              "webViewLink": "https://drive.google.com/file/d/1itt4xibOW--KOeDqi6dF-Lgr6z18E3aX/view?usp=drivesdk",
+              "modifiedTime": "2026-05-24T07:46:30.285Z",
+              "videoMediaMetadata": null
+            },
+            {
+              "id": "1jag3v2glVBONVr1vPBm8SsQvKyKzWvpx",
+              "name": "1776828476402-vt-quy-trinh-tao-dna-tai-to-hop-pdf.pdf",
+              "mimeType": "application/pdf",
+              "size": 3935907,
+              "webViewLink": "https://drive.google.com/file/d/1jag3v2glVBONVr1vPBm8SsQvKyKzWvpx/view?usp=drivesdk",
+              "modifiedTime": "2026-05-24T07:46:30.235Z",
+              "videoMediaMetadata": null
+            },
+            {
+              "id": "19i4xTXN-JCuN2Xx-EQTdfIDhmW6X1joE",
+              "name": "Bài 6. Công nghệ gene.mp4",
+              "mimeType": "video/mp4",
+              "size": 248601721,
+              "webViewLink": "https://drive.google.com/file/d/19i4xTXN-JCuN2Xx-EQTdfIDhmW6X1joE/view?usp=drivesdk",
+              "modifiedTime": "2026-05-24T14:26:21.711Z",
+              "videoMediaMetadata": null
+            }
+          ]
+        },
+        {
+          "id": "1Nz7n7VboqfBQgpTmi8YL8Oq9TDVq7mAa",
+          "name": "Bài 6.1. Chữa bài tập Công nghệ gene",
+          "webViewLink": "https://drive.google.com/drive/folders/1Nz7n7VboqfBQgpTmi8YL8Oq9TDVq7mAa",
+          "modifiedTime": "2026-05-24T07:46:26.474Z",
+          "children": [],
+          "files": [
+            {
+              "id": "1dL2KGEizk7IQ1kkpsCVhHUnkEPJn8K95",
+              "name": "1777430571521-vt-quy-trinh-tao-dna-tai-to-hop-pdf.pdf",
+              "mimeType": "application/pdf",
+              "size": 8953711,
+              "webViewLink": "https://drive.google.com/file/d/1dL2KGEizk7IQ1kkpsCVhHUnkEPJn8K95/view?usp=drivesdk",
+              "modifiedTime": "2026-05-24T07:46:28.025Z",
+              "videoMediaMetadata": null
+            },
+            {
+              "id": "1y4yrOA5w5mdIlpr0mXi4-g_dn053DKqZ",
+              "name": "Bài 6.1. Chữa bài tập Công nghệ gene.mp4",
+              "mimeType": "video/mp4",
+              "size": 259699764,
+              "webViewLink": "https://drive.google.com/file/d/1y4yrOA5w5mdIlpr0mXi4-g_dn053DKqZ/view?usp=drivesdk",
+              "modifiedTime": "2026-05-24T14:25:59.403Z",
+              "videoMediaMetadata": null
+            }
+          ]
+        },
+        {
+          "id": "1_t0tmJTRjhZUcc6YxNhpJIGRU-fmisQg",
+          "name": "Bài 6.2. Chữa bài tập Công nghệ gene",
+          "webViewLink": "https://drive.google.com/drive/folders/1_t0tmJTRjhZUcc6YxNhpJIGRU-fmisQg",
+          "modifiedTime": "2026-05-24T07:46:31.387Z",
+          "children": [],
+          "files": [
+            {
+              "id": "1iEDewkjxeN__9PCL8q624PLST-1j819z",
+              "name": "1777814814455-bai-6-cong-nghe-gene-pdf.pdf",
+              "mimeType": "application/pdf",
+              "size": 21519681,
+              "webViewLink": "https://drive.google.com/file/d/1iEDewkjxeN__9PCL8q624PLST-1j819z/view?usp=drivesdk",
+              "modifiedTime": "2026-05-24T07:46:32.764Z",
+              "videoMediaMetadata": null
+            },
+            {
+              "id": "1wF5mxS8RNw4KqfA8bb8Iafdwsi8qydXb",
+              "name": "1777814832216-vt-bai-tap-b6-pdf.pdf",
+              "mimeType": "application/pdf",
+              "size": 10377972,
+              "webViewLink": "https://drive.google.com/file/d/1wF5mxS8RNw4KqfA8bb8Iafdwsi8qydXb/view?usp=drivesdk",
+              "modifiedTime": "2026-05-24T07:46:32.757Z",
+              "videoMediaMetadata": null
+            },
+            {
+              "id": "1gVfSxEkeHxttvUNtlBdfUW76Ph15wKcu",
+              "name": "Bài 6.2. Chữa bài tập Công nghệ gene.mp4",
+              "mimeType": "video/mp4",
+              "size": 223827300,
+              "webViewLink": "https://drive.google.com/file/d/1gVfSxEkeHxttvUNtlBdfUW76Ph15wKcu/view?usp=drivesdk",
+              "modifiedTime": "2026-05-24T14:28:11.890Z",
+              "videoMediaMetadata": {
+                "width": 1280,
+                "height": 720,
+                "durationMillis": "4149399"
+              }
+            }
+          ]
+        }
+      ],
+      "files": [],
+      "webViewLink": "https://drive.google.com/drive/folders/1NwTlBiqitZFQS35Zcaztd70oGLp1VUTb",
+      "modifiedTime": "2026-05-24T07:46:23.811Z"
+    },
+    {
+      "id": "1Vf2XdDRW2Ahz_KCP09t8BlXau-S-4YXv",
+      "name": "1. GIAI ĐOẠN 1 XUẤT PHÁT SỚM",
+      "children": [],
+      "files": [],
+      "webViewLink": "https://drive.google.com/drive/folders/1Vf2XdDRW2Ahz_KCP09t8BlXau-S-4YXv",
+      "modifiedTime": "2026-04-19T23:14:48.547Z"
+    },
+    {
+      "id": "1rN95NWAdN_GZHBi3ktNhRN4KLj83lEkr",
+      "name": "2. GIAI ĐOẠN 2 CHINH PHỤC CHUYÊN ĐỀ",
+      "children": [],
+      "files": [],
+      "webViewLink": "https://drive.google.com/drive/folders/1rN95NWAdN_GZHBi3ktNhRN4KLj83lEkr",
+      "modifiedTime": "2026-04-19T23:14:47.823Z"
+    },
+    {
+      "id": "1GvpdfefCUoYC7niCMUdmfwn5vT81AFOD",
+      "name": "3. GIAI ĐOẠN 3 TỔNG ÔN TOÀN DIỆN",
+      "children": [],
+      "files": [],
+      "webViewLink": "https://drive.google.com/drive/folders/1GvpdfefCUoYC7niCMUdmfwn5vT81AFOD",
+      "modifiedTime": "2026-04-19T23:14:47.179Z"
+    },
+    {
+      "id": "1rdDjxT3mGP8E9ghFRKOyq5_ebrWIgxIp",
+      "name": "4. GIAI ĐOẠN 4 THẦN TỐC VỀ ĐÍCH",
+      "children": [],
+      "files": [],
+      "webViewLink": "https://drive.google.com/drive/folders/1rdDjxT3mGP8E9ghFRKOyq5_ebrWIgxIp",
+      "modifiedTime": "2026-04-19T23:14:46.491Z"
+    },
+    {
+      "id": "11Y9grlut7AMMEXfxaupBYM7UWGfW5Pgs",
+      "name": "Z. EBOOK SÁCH KÈM KHOÁ HỌC",
+      "children": [],
+      "files": [],
+      "webViewLink": "https://drive.google.com/drive/folders/11Y9grlut7AMMEXfxaupBYM7UWGfW5Pgs",
+      "modifiedTime": "2026-04-19T23:14:49.797Z"
+    }
+  ]
+}

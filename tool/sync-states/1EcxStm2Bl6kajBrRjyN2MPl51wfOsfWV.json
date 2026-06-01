@@ -1,0 +1,141 @@
+{
+  "teacherId": "1EcxStm2Bl6kajBrRjyN2MPl51wfOsfWV",
+  "tabs": {
+    "1uOw8ythAZHczICz5cZlxAoR5fWAUIyaN": {
+      "tabName": "Khóa Nền Tảng",
+      "renderedAt": "2026-05-31T03:53:02.250Z",
+      "checksum": "1uOw8ythAZHczICz5cZlxAoR5fWAUIyaN|2026-05-10T07:37:03.462Z|34",
+      "lessons": [
+        {
+          "id": "1MZL2TYCrDp-mffOZsvCVSANDM804iWiY",
+          "name": "1. Bài 1: Sơ Lược về một số kiến thức quan trọng lơp dưới",
+          "parentName": "1. CHƯƠNG 1 - MỤC 1: TRỌNG TÂM TOÁN 10-11",
+          "checksum": "2026-04-21T21:48:28.228Z|3",
+          "virtual": false
+        },
+        {
+          "id": "1HvPDCDOrlKDdHMkUAqc6zb18EDrrwr7x",
+          "name": "2. Bài 2 : Lượng Giác",
+          "parentName": "1. CHƯƠNG 1 - MỤC 1: TRỌNG TÂM TOÁN 10-11",
+          "checksum": "2026-04-21T21:48:23.520Z|4",
+          "virtual": false
+        },
+        {
+          "id": "1i2tQtxw2605_yEPuADuJWdPanapXbcNq",
+          "name": "3. Bài 3: Mũ - Loga",
+          "parentName": "1. CHƯƠNG 1 - MỤC 1: TRỌNG TÂM TOÁN 10-11",
+          "checksum": "2026-04-21T21:48:17.463Z|5",
+          "virtual": false
+        },
+        {
+          "id": "1OW3xS4dVa9sUq-eKYXHdT4FXCws9H8E4",
+          "name": "4. Bài 4: Đạo Hàm",
+          "parentName": "1. CHƯƠNG 1 - MỤC 1: TRỌNG TÂM TOÁN 10-11",
+          "checksum": "2026-04-21T21:48:10.728Z|4",
+          "virtual": false
+        },
+        {
+          "id": "1rQGrF2J3jIDU5gTAkEEJugpiu0qrP7jx",
+          "name": "5. Bài 5: Trọng tâm nền tảng: Hình Học Không Gian",
+          "parentName": "1. CHƯƠNG 1 - MỤC 1: TRỌNG TÂM TOÁN 10-11",
+          "checksum": "2026-04-21T21:48:04.859Z|0",
+          "virtual": false
+        },
+        {
+          "id": "1zylidwpXGnq0DDVL10C0s7t9xn8fFFDq::file:1iE1roxsz28P_BdSOiqT1QlpCmEfG1y67",
+          "name": "FILE TỔNG CHƯƠNG",
+          "parentName": "2. CHƯƠNG 2 - MỤC 2: HÀM SỐ",
+          "checksum": "2026-04-27T15:59:20.668Z|1|b99b986162b5",
+          "virtual": true
+        },
+        {
+          "id": "1zylidwpXGnq0DDVL10C0s7t9xn8fFFDq::file:1YuzsXeeIE8gPBepqTALiE42HYuB3qSx6",
+          "name": "FILE TỔNG CHƯƠNG cd",
+          "parentName": "2. CHƯƠNG 2 - MỤC 2: HÀM SỐ",
+          "checksum": "2026-04-27T15:59:19.639Z|1|441984efaab7",
+          "virtual": true
+        },
+        {
+          "id": "1RJ8LdJou589qpD3z9UrfIkZmNdBOrWAk",
+          "name": "2. Bài 1: Đơn Điệu Hàm Số",
+          "parentName": "2. CHƯƠNG 2 - MỤC 2: HÀM SỐ",
+          "checksum": "2026-04-27T15:59:18.088Z|4",
+          "virtual": false
+        },
+        {
+          "id": "1_1I-1LEqPtMGcrdQcos-NtF_SIb7dUsG",
+          "name": "3. Bài 2: Cực Trị Hàm Số",
+          "parentName": "2. CHƯƠNG 2 - MỤC 2: HÀM SỐ",
+          "checksum": "2026-05-10T07:37:03.462Z|4",
+          "virtual": false
+        },
+        {
+          "id": "1Cr49TCF4APFTlvOHhK6i8lpQyYGNfNpI",
+          "name": "4. Bài 3: GTNN GTLN Hàm Số",
+          "parentName": "2. CHƯƠNG 2 - MỤC 2: HÀM SỐ",
+          "checksum": "2026-04-27T15:59:08.242Z|4",
+          "virtual": false
+        },
+        {
+          "id": "1_mSg_mWxGqWbBaVTHhzMU1aSPXggnApp",
+          "name": "5. Bài 4: Tiệm Cận",
+          "parentName": "2. CHƯƠNG 2 - MỤC 2: HÀM SỐ",
+          "checksum": "2026-04-27T15:59:02.759Z|4",
+          "virtual": false
+        },
+        {
+          "id": "1crXjUSPOjm7YTixS6ZamcQqdnGqTojrU",
+          "name": "6. Bài 5: Đồ Thị Hàm Số",
+          "parentName": "2. CHƯƠNG 2 - MỤC 2: HÀM SỐ",
+          "checksum": "2026-04-27T15:58:54.860Z|0",
+          "virtual": false
+        },
+        {
+          "id": "1wVTQ5QP3PSGYFD_OtILurUw4ugtnZZwp",
+          "name": "7. Tổng ôn chương",
+          "parentName": "2. CHƯƠNG 2 - MỤC 2: HÀM SỐ",
+          "checksum": "2026-04-27T15:58:54.111Z|0",
+          "virtual": false
+        }
+      ],
+      "rendererVersion": "4.3.1",
+      "styleVersion": "2026-05-31-student-banner-no-meta-v2",
+      "runId": "no-meta-sync-2026-05-31-104541",
+      "spreadsheetId": "1ADNv7vj80tLiX4IVlXOPIcR7yhdtnMqsiNha6v7EhaM",
+      "stats": {
+        "leafCount": 13,
+        "totalVideos": 14
+      }
+    },
+    "1d6DfhTtaPknWbBO8cL4gkvSMB9WpLjLV": {
+      "tabName": "TOÁN THỰC TẾ",
+      "renderedAt": "2026-05-31T03:53:09.414Z",
+      "checksum": "1d6DfhTtaPknWbBO8cL4gkvSMB9WpLjLV|2026-04-18T14:17:43.116Z|0",
+      "lessons": [],
+      "rendererVersion": "4.3.1",
+      "styleVersion": "2026-05-31-student-banner-no-meta-v2",
+      "runId": "no-meta-sync-2026-05-31-104541",
+      "spreadsheetId": "1ADNv7vj80tLiX4IVlXOPIcR7yhdtnMqsiNha6v7EhaM",
+      "stats": {
+        "leafCount": 0,
+        "totalVideos": 0
+      }
+    },
+    "1FZJM7XY3Jmd-o5UC5-B_tukScVWSjYZA": {
+      "tabName": "BỘ CÂU HỎI",
+      "renderedAt": "2026-05-31T03:53:16.568Z",
+      "checksum": "1FZJM7XY3Jmd-o5UC5-B_tukScVWSjYZA|2026-04-18T14:17:41.704Z|0",
+      "lessons": [],
+      "rendererVersion": "4.3.1",
+      "styleVersion": "2026-05-31-student-banner-no-meta-v2",
+      "runId": "no-meta-sync-2026-05-31-104541",
+      "spreadsheetId": "1ADNv7vj80tLiX4IVlXOPIcR7yhdtnMqsiNha6v7EhaM",
+      "stats": {
+        "leafCount": 0,
+        "totalVideos": 0
+      }
+    }
+  },
+  "updatedAt": "2026-05-31T03:53:16.568Z",
+  "version": 2
+}

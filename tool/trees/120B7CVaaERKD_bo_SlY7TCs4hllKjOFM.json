@@ -1,0 +1,715 @@
+{
+  "crawledAt": "2026-05-29T12:53:16.222Z",
+  "teacher": {
+    "id": "120B7CVaaERKD_bo_SlY7TCs4hllKjOFM",
+    "name": "7. TOÁN ANH GIÁO KID FLASHSTUDY 2K9",
+    "modifiedTime": "2026-05-27T15:32:27.183Z",
+    "webViewLink": "https://drive.google.com/drive/folders/120B7CVaaERKD_bo_SlY7TCs4hllKjOFM"
+  },
+  "courses": [
+    {
+      "id": "16u84rF9XoMFHZsyltyBG4J58t5ESZBaZ",
+      "name": "0. INFO THÔNG TIN VÀ HƯỚNG DẪN KHOÁ HỌC",
+      "children": [],
+      "files": [],
+      "webViewLink": "https://drive.google.com/drive/folders/16u84rF9XoMFHZsyltyBG4J58t5ESZBaZ",
+      "modifiedTime": "2026-05-24T07:48:07.359Z"
+    },
+    {
+      "id": "1u33IyibSA-nrFZZP3brVOleSpUNUvjlM",
+      "name": "1. KHOÁ F HỆ THỐNG KIẾN THỨC 11",
+      "children": [
+        {
+          "id": "1n7Mf5IMX0u_FSGnupwA5EAYBWa-7lDcY",
+          "name": "Chủ đề 01: Lượng giác",
+          "webViewLink": "https://drive.google.com/drive/folders/1n7Mf5IMX0u_FSGnupwA5EAYBWa-7lDcY",
+          "modifiedTime": "2026-05-24T07:48:04.712Z",
+          "children": [],
+          "files": [
+            {
+              "id": "1EQrMji_qCdSToIMFuyOG5oArBJj-fNDw",
+              "name": "[ĐỀ] CHỦ ĐỀ 1 HÀM SỐ LƯỢNG GIÁC VÀ PHƯƠNG TRÌNH LƯỢNG GIÁC - BÀI TẬP RÈN LUYỆN.pdf",
+              "mimeType": "application/pdf",
+              "size": 659756,
+              "webViewLink": "https://drive.google.com/file/d/1EQrMji_qCdSToIMFuyOG5oArBJj-fNDw/view?usp=drivesdk",
+              "modifiedTime": "2026-05-28T09:02:52.076Z",
+              "videoMediaMetadata": null
+            },
+            {
+              "id": "19xeeSUfKOJYMFfq_8vwUeoqlvqIz1M9e",
+              "name": "Chủ đề 1 - Bài tập rèn luyện - Video chữa chi tiết.mp4",
+              "mimeType": "video/mp4",
+              "size": 193691422,
+              "webViewLink": "https://drive.google.com/file/d/19xeeSUfKOJYMFfq_8vwUeoqlvqIz1M9e/view?usp=drivesdk",
+              "modifiedTime": "2026-05-28T09:02:55.699Z",
+              "videoMediaMetadata": null
+            },
+            {
+              "id": "1JMCVD0-nVBYdCt_2yYbkcwClMj1pOINI",
+              "name": "Chủ đề 1 - Các dạng toán trọng tâm.mp4",
+              "mimeType": "video/mp4",
+              "size": 582194307,
+              "webViewLink": "https://drive.google.com/file/d/1JMCVD0-nVBYdCt_2yYbkcwClMj1pOINI/view?usp=drivesdk",
+              "modifiedTime": "2026-05-28T09:02:56.929Z",
+              "videoMediaMetadata": null
+            },
+            {
+              "id": "11et7TPZwT-FZ1WHPR4Muf42zQLn21ojp",
+              "name": "Các dạng toán trọng tâm.pdf",
+              "mimeType": "application/pdf",
+              "size": 3499144,
+              "webViewLink": "https://drive.google.com/file/d/11et7TPZwT-FZ1WHPR4Muf42zQLn21ojp/view?usp=drivesdk",
+              "modifiedTime": "2026-05-28T09:02:53.895Z",
+              "videoMediaMetadata": null
+            },
+            {
+              "id": "1L1dQzhZeCVGVKiHxcabSS6sGioryjqu_",
+              "name": "ĐÁP ÁN_Bài tập rèn luyện - Video chữa chi tiết.pdf",
+              "mimeType": "application/pdf",
+              "size": 5429601,
+              "webViewLink": "https://drive.google.com/file/d/1L1dQzhZeCVGVKiHxcabSS6sGioryjqu_/view?usp=drivesdk",
+              "modifiedTime": "2026-05-28T09:02:50.433Z",
+              "videoMediaMetadata": null
+            }
+          ]
+        },
+        {
+          "id": "1ooK0G1HGigXjLxDWTzKSDGYj_sA6evLr",
+          "name": "Chủ đề 02: Dãy số, cấp số cộng, cấp số nhân",
+          "webViewLink": "https://drive.google.com/drive/folders/1ooK0G1HGigXjLxDWTzKSDGYj_sA6evLr",
+          "modifiedTime": "2026-05-24T07:48:03.343Z",
+          "children": [],
+          "files": [
+            {
+              "id": "1MCDDbVBrKRjzxdW4zZpLjRlhHa5PmgN0",
+              "name": "[ĐỀ] CHỦ ĐỀ 2 DÃY SỐ - CẤP SỐ CỘNG - CẤP SỐ NHÂN - BÀI TẬP RÈN LUYỆN.pdf",
+              "mimeType": "application/pdf",
+              "size": 543509,
+              "webViewLink": "https://drive.google.com/file/d/1MCDDbVBrKRjzxdW4zZpLjRlhHa5PmgN0/view?usp=drivesdk",
+              "modifiedTime": "2026-05-28T09:02:44.960Z",
+              "videoMediaMetadata": null
+            },
+            {
+              "id": "1xuIYrqDFrYZ-gjj5t8KyF8srqcGEJLgT",
+              "name": "Chủ đề 2 - Bài tập rèn luyện - Video giải chi tiết.mp4",
+              "mimeType": "video/mp4",
+              "size": 159031799,
+              "webViewLink": "https://drive.google.com/file/d/1xuIYrqDFrYZ-gjj5t8KyF8srqcGEJLgT/view?usp=drivesdk",
+              "modifiedTime": "2026-05-28T09:02:46.545Z",
+              "videoMediaMetadata": null
+            },
+            {
+              "id": "1Rv55kGCKWCHSuMjvBu8lp6X-NltnlPUN",
+              "name": "Chủ đề 2 - Các dạng toán trọng tâm.mp4",
+              "mimeType": "video/mp4",
+              "size": 586215383,
+              "webViewLink": "https://drive.google.com/file/d/1Rv55kGCKWCHSuMjvBu8lp6X-NltnlPUN/view?usp=drivesdk",
+              "modifiedTime": "2026-05-28T09:02:47.975Z",
+              "videoMediaMetadata": null
+            },
+            {
+              "id": "1Wu2gJlTSfDRIFzFyZmch5IDfxNXf7yBs",
+              "name": "ĐÁP ÁN_Bài tập rèn luyện - Video giải chi tiết.pdf",
+              "mimeType": "application/pdf",
+              "size": 4704739,
+              "webViewLink": "https://drive.google.com/file/d/1Wu2gJlTSfDRIFzFyZmch5IDfxNXf7yBs/view?usp=drivesdk",
+              "modifiedTime": "2026-05-28T09:02:43.223Z",
+              "videoMediaMetadata": null
+            }
+          ]
+        },
+        {
+          "id": "1N2aHl5ykhxLe5wpl0nkIpJgCa6In4pL3",
+          "name": "Chủ đề 03: Giới hạn, hàm số liên tục",
+          "webViewLink": "https://drive.google.com/drive/folders/1N2aHl5ykhxLe5wpl0nkIpJgCa6In4pL3",
+          "modifiedTime": "2026-05-24T07:48:01.938Z",
+          "children": [],
+          "files": [
+            {
+              "id": "1RwRXCmydaSPa5THjCUfpJldGJmhuV6Sb",
+              "name": "[ĐỀ] CHỦ ĐỀ 3 GIỚI HẠN. HÀM SỐ LIÊN TỤC - BÀI TẬP RÈN LUYỆN.pdf",
+              "mimeType": "application/pdf",
+              "size": 1018709,
+              "webViewLink": "https://drive.google.com/file/d/1RwRXCmydaSPa5THjCUfpJldGJmhuV6Sb/view?usp=drivesdk",
+              "modifiedTime": "2026-05-28T09:02:37.818Z",
+              "videoMediaMetadata": null
+            },
+            {
+              "id": "1p8_jI6XKENmezLqxNhgBwZloh-2QeGdv",
+              "name": "Chủ đề 3 - Các dạng toán trọng tâm.mp4",
+              "mimeType": "video/mp4",
+              "size": 288472680,
+              "webViewLink": "https://drive.google.com/file/d/1p8_jI6XKENmezLqxNhgBwZloh-2QeGdv/view?usp=drivesdk",
+              "modifiedTime": "2026-05-28T09:02:39.457Z",
+              "videoMediaMetadata": null
+            }
+          ]
+        },
+        {
+          "id": "1xqvIx8LbHdStvX1Nu58vG7GS0ipm5c7f",
+          "name": "Chủ đề 04: Hàm số mũ và hàm số logarit",
+          "webViewLink": "https://drive.google.com/drive/folders/1xqvIx8LbHdStvX1Nu58vG7GS0ipm5c7f",
+          "modifiedTime": "2026-05-24T07:48:00.512Z",
+          "children": [],
+          "files": [
+            {
+              "id": "11agysH_CRFhK5_wNhwM6wUvWjJIsrb7W",
+              "name": "[ĐỀ] CHỦ ĐỀ 4 HÀM SỐ MŨ VÀ HÀM SỐ LOGARIT.pdf",
+              "mimeType": "application/pdf",
+              "size": 676383,
+              "webViewLink": "https://drive.google.com/file/d/11agysH_CRFhK5_wNhwM6wUvWjJIsrb7W/view?usp=drivesdk",
+              "modifiedTime": "2026-05-28T09:02:31.569Z",
+              "videoMediaMetadata": null
+            },
+            {
+              "id": "1hZ7M-AN7d8crdCWd8S29l-1PZMyqpqqd",
+              "name": "Chủ đề 4 - Bài tập rèn luyện - Video giải chi tiết.mp4",
+              "mimeType": "video/mp4",
+              "size": 224478069,
+              "webViewLink": "https://drive.google.com/file/d/1hZ7M-AN7d8crdCWd8S29l-1PZMyqpqqd/view?usp=drivesdk",
+              "modifiedTime": "2026-05-28T09:02:33.505Z",
+              "videoMediaMetadata": null
+            },
+            {
+              "id": "1iFKYRg6cEOdUwj-IcSqBDH-dNntPe-kA",
+              "name": "Chủ đề 4 - Các dạng toán trọng tâm.mp4",
+              "mimeType": "video/mp4",
+              "size": 651981740,
+              "webViewLink": "https://drive.google.com/file/d/1iFKYRg6cEOdUwj-IcSqBDH-dNntPe-kA/view?usp=drivesdk",
+              "modifiedTime": "2026-05-28T09:02:35.375Z",
+              "videoMediaMetadata": null
+            },
+            {
+              "id": "1yWI5r-R8TbYVnothK4MFhPxk4U-araKj",
+              "name": "ĐÁP ÁN_Bài tập rèn luyện - Video giải chi tiết.pdf",
+              "mimeType": "application/pdf",
+              "size": 7058272,
+              "webViewLink": "https://drive.google.com/file/d/1yWI5r-R8TbYVnothK4MFhPxk4U-araKj/view?usp=drivesdk",
+              "modifiedTime": "2026-05-28T09:02:30.176Z",
+              "videoMediaMetadata": null
+            }
+          ]
+        },
+        {
+          "id": "1fB7rATcmRvH81AEpVMYHo1kp8mVCRDWN",
+          "name": "Chủ đề 05: Góc trong không gian",
+          "webViewLink": "https://drive.google.com/drive/folders/1fB7rATcmRvH81AEpVMYHo1kp8mVCRDWN",
+          "modifiedTime": "2026-05-24T07:47:59.152Z",
+          "children": [],
+          "files": [
+            {
+              "id": "1I9VqpoZBwux6p5IeFw0y0y6_gntjAGAt",
+              "name": "[ĐỀ] CHỦ ĐỀ 5 GÓC TRONG KHÔNG GIAN - BÀI TẬP RÈN LUYỆN.pdf",
+              "mimeType": "application/pdf",
+              "size": 1000592,
+              "webViewLink": "https://drive.google.com/file/d/1I9VqpoZBwux6p5IeFw0y0y6_gntjAGAt/view?usp=drivesdk",
+              "modifiedTime": "2026-05-28T09:02:27.302Z",
+              "videoMediaMetadata": null
+            },
+            {
+              "id": "1rn6WFJ0-BWpkNPsi1_OlvHQaNIWT3HYX",
+              "name": "Bài tập rèn luyện_Phần 1 - Video giải chi tiết.mp4",
+              "mimeType": "video/mp4",
+              "size": 256557430,
+              "webViewLink": "https://drive.google.com/file/d/1rn6WFJ0-BWpkNPsi1_OlvHQaNIWT3HYX/view?usp=drivesdk",
+              "modifiedTime": "2026-05-28T09:02:20.982Z",
+              "videoMediaMetadata": null
+            },
+            {
+              "id": "15ePiB2g87PWBNh6RmyJAwzevhaWCdJvL",
+              "name": "Chủ đề 5- Bài tập rèn luyện_Phần 2 _ Video giải chi tiết.mp4",
+              "mimeType": "video/mp4",
+              "size": 293483830,
+              "webViewLink": "https://drive.google.com/file/d/15ePiB2g87PWBNh6RmyJAwzevhaWCdJvL/view?usp=drivesdk",
+              "modifiedTime": "2026-05-28T09:02:22.653Z",
+              "videoMediaMetadata": null
+            },
+            {
+              "id": "1XR_doIbLeGfK-RL70T8NddsE_SqKOVZ0",
+              "name": "Các dạng toán trọng tâm[2].mp4",
+              "mimeType": "video/mp4",
+              "size": 572268560,
+              "webViewLink": "https://drive.google.com/file/d/1XR_doIbLeGfK-RL70T8NddsE_SqKOVZ0/view?usp=drivesdk",
+              "modifiedTime": "2026-05-28T09:02:19.335Z",
+              "videoMediaMetadata": null
+            },
+            {
+              "id": "1E-cZXoO5zs9ZC1HmM3WR9GMrilNN13mz",
+              "name": "ĐÁP ÁN_Bài tập rèn luyện_Phần 1 - Video giải chi tiết.pdf",
+              "mimeType": "application/pdf",
+              "size": 12021485,
+              "webViewLink": "https://drive.google.com/file/d/1E-cZXoO5zs9ZC1HmM3WR9GMrilNN13mz/view?usp=drivesdk",
+              "modifiedTime": "2026-05-28T09:02:25.888Z",
+              "videoMediaMetadata": null
+            },
+            {
+              "id": "1p1ylvcOmkRhxZwVFy6iu08aIDgORsv99",
+              "name": "ĐÁP ÁN_Bài tập rèn luyện_Phần 2 _ Video giải chi tiết.pdf",
+              "mimeType": "application/pdf",
+              "size": 12021485,
+              "webViewLink": "https://drive.google.com/file/d/1p1ylvcOmkRhxZwVFy6iu08aIDgORsv99/view?usp=drivesdk",
+              "modifiedTime": "2026-05-28T09:02:24.086Z",
+              "videoMediaMetadata": null
+            }
+          ]
+        },
+        {
+          "id": "19jmL01nYkXO8SQJK1fyRcFfJ5JXT-wr-",
+          "name": "Chủ đề 06: Khoảng cách",
+          "webViewLink": "https://drive.google.com/drive/folders/19jmL01nYkXO8SQJK1fyRcFfJ5JXT-wr-",
+          "modifiedTime": "2026-05-24T07:47:57.596Z",
+          "children": [],
+          "files": [
+            {
+              "id": "1rocv0l26yWuFWpkitCEx6KLZxo508T6f",
+              "name": "[ĐỀ] CHỦ ĐỀ 6 KHOẢNG CÁCH TRONG KHÔNG GIAN - BÀI TẬP RÈN LUYỆN.pdf",
+              "mimeType": "application/pdf",
+              "size": 729483,
+              "webViewLink": "https://drive.google.com/file/d/1rocv0l26yWuFWpkitCEx6KLZxo508T6f/view?usp=drivesdk",
+              "modifiedTime": "2026-05-28T09:02:12.877Z",
+              "videoMediaMetadata": null
+            },
+            {
+              "id": "18BLt_KlJqRD60yO548AB0TzrU4bc9Ppy",
+              "name": "Chủ đề 6 - Các dạng toán trọng tâm.mp4",
+              "mimeType": "video/mp4",
+              "size": 169296311,
+              "webViewLink": "https://drive.google.com/file/d/18BLt_KlJqRD60yO548AB0TzrU4bc9Ppy/view?usp=drivesdk",
+              "modifiedTime": "2026-05-28T09:02:16.605Z",
+              "videoMediaMetadata": null
+            },
+            {
+              "id": "1el5dF3aD6GJrnuyNSp93HG0pETgSbDw2",
+              "name": "Chủ đề 6- Bài tập rèn luyện.mp4",
+              "mimeType": "video/mp4",
+              "size": 318269400,
+              "webViewLink": "https://drive.google.com/file/d/1el5dF3aD6GJrnuyNSp93HG0pETgSbDw2/view?usp=drivesdk",
+              "modifiedTime": "2026-05-28T09:02:15.101Z",
+              "videoMediaMetadata": null
+            }
+          ]
+        },
+        {
+          "id": "1Dgh6UoZgNdW_U-q_mql2e-adQkpdqIyk",
+          "name": "Chủ đề 07: Thể tích khối đa diện",
+          "webViewLink": "https://drive.google.com/drive/folders/1Dgh6UoZgNdW_U-q_mql2e-adQkpdqIyk",
+          "modifiedTime": "2026-05-24T07:47:55.780Z",
+          "children": [],
+          "files": [
+            {
+              "id": "1BnBJg-Y-vwqcopnNeLeMi2ubNYqHV3dL",
+              "name": "[ĐỀ] CHỦ ĐỀ 7 THỂ TÍCH KHỐI ĐA DIỆN - BÀI TẬP RÈN LUYỆN.pdf",
+              "mimeType": "application/pdf",
+              "size": 640094,
+              "webViewLink": "https://drive.google.com/file/d/1BnBJg-Y-vwqcopnNeLeMi2ubNYqHV3dL/view?usp=drivesdk",
+              "modifiedTime": "2026-05-28T09:02:10.279Z",
+              "videoMediaMetadata": null
+            },
+            {
+              "id": "1vqrL5nzy77Amluu1i3Uh9AA_Olu8N6Z2",
+              "name": "Bài tập rèn luyện - Video giải chi tiết - Phần 1.mp4",
+              "mimeType": "video/mp4",
+              "size": 197369415,
+              "webViewLink": "https://drive.google.com/file/d/1vqrL5nzy77Amluu1i3Uh9AA_Olu8N6Z2/view?usp=drivesdk",
+              "modifiedTime": "2026-05-28T09:02:07.078Z",
+              "videoMediaMetadata": null
+            },
+            {
+              "id": "1XfcqAdfXkLoH1PymaAXrbnqB9JHs1F1u",
+              "name": "Bài tập rèn luyện - Video giảng chi tiết - Phần 2[2].mp4",
+              "mimeType": "video/mp4",
+              "size": 236274483,
+              "webViewLink": "https://drive.google.com/file/d/1XfcqAdfXkLoH1PymaAXrbnqB9JHs1F1u/view?usp=drivesdk",
+              "modifiedTime": "2026-05-28T09:02:05.636Z",
+              "videoMediaMetadata": null
+            },
+            {
+              "id": "1rY0g5Y2Rl-SAnmRnF-F-UfGrhE-RuAYY",
+              "name": "Các dạng toán trọng tâm.mp4",
+              "mimeType": "video/mp4",
+              "size": 270315359,
+              "webViewLink": "https://drive.google.com/file/d/1rY0g5Y2Rl-SAnmRnF-F-UfGrhE-RuAYY/view?usp=drivesdk",
+              "modifiedTime": "2026-05-28T09:02:08.682Z",
+              "videoMediaMetadata": null
+            }
+          ]
+        },
+        {
+          "id": "1MxlGmYrqqkcBSbSJs6mU_vLHzPhXe6Yx",
+          "name": "Chủ đề 08: Đạo hàm",
+          "webViewLink": "https://drive.google.com/drive/folders/1MxlGmYrqqkcBSbSJs6mU_vLHzPhXe6Yx",
+          "modifiedTime": "2026-05-24T07:47:54.488Z",
+          "children": [],
+          "files": [
+            {
+              "id": "1fx6SClIgds53cy3ApCtDGyGSRwqLPLsQ",
+              "name": "[ĐỀ] CHỦ ĐỀ 8 ĐỊNH NGHĨA VÀ Ý NGHĨA ĐẠO HÀM - BÀI TẬP RÈN LUYỆN.pdf",
+              "mimeType": "application/pdf",
+              "size": 676514,
+              "webViewLink": "https://drive.google.com/file/d/1fx6SClIgds53cy3ApCtDGyGSRwqLPLsQ/view?usp=drivesdk",
+              "modifiedTime": "2026-05-28T09:02:02.556Z",
+              "videoMediaMetadata": null
+            },
+            {
+              "id": "1hS_Xb3GOWyj2F5Kyv1f7QdVjJueqyxLs",
+              "name": "Bài tập rèn luyện - Video giải chi tiết.mp4",
+              "mimeType": "video/mp4",
+              "size": 180854917,
+              "webViewLink": "https://drive.google.com/file/d/1hS_Xb3GOWyj2F5Kyv1f7QdVjJueqyxLs/view?usp=drivesdk",
+              "modifiedTime": "2026-05-28T09:01:59.455Z",
+              "videoMediaMetadata": null
+            },
+            {
+              "id": "1R8nnNnCq0Y7is5Yp5vPsCds5Jscme2FR",
+              "name": "Các dạng toán trọng tâm[3].mp4",
+              "mimeType": "video/mp4",
+              "size": 181152813,
+              "webViewLink": "https://drive.google.com/file/d/1R8nnNnCq0Y7is5Yp5vPsCds5Jscme2FR/view?usp=drivesdk",
+              "modifiedTime": "2026-05-28T09:02:00.911Z",
+              "videoMediaMetadata": null
+            }
+          ]
+        },
+        {
+          "id": "1AOEGan_RAfY4A00fQQi7pioQvIhNbD_8",
+          "name": "Chủ đề 9: Xác suất",
+          "webViewLink": "https://drive.google.com/drive/folders/1AOEGan_RAfY4A00fQQi7pioQvIhNbD_8",
+          "modifiedTime": "2026-05-24T07:47:53.154Z",
+          "children": [],
+          "files": [
+            {
+              "id": "1MABf3c7yFgE4H13dvYUVvG3kobrmeZDz",
+              "name": "Bài tập rèn luyện - Video giải chi tiết.mp4",
+              "mimeType": "video/mp4",
+              "size": 240808630,
+              "webViewLink": "https://drive.google.com/file/d/1MABf3c7yFgE4H13dvYUVvG3kobrmeZDz/view?usp=drivesdk",
+              "modifiedTime": "2026-05-24T14:25:50.374Z",
+              "videoMediaMetadata": null
+            },
+            {
+              "id": "1yBWnJ-T2wPS-KhpqMn2R2NEv9QyepHc8",
+              "name": "Các dạng toán trọng tâm.mp4",
+              "mimeType": "video/mp4",
+              "size": 613975759,
+              "webViewLink": "https://drive.google.com/file/d/1yBWnJ-T2wPS-KhpqMn2R2NEv9QyepHc8/view?usp=drivesdk",
+              "modifiedTime": "2026-05-24T14:25:49.064Z",
+              "videoMediaMetadata": {
+                "width": 1920,
+                "height": 1080,
+                "durationMillis": "5899266"
+              }
+            },
+            {
+              "id": "146lxGo-vUnQfhzHvDFae6oI96wgZZGgI",
+              "name": "Các dạng toán trọng tâm.pdf",
+              "mimeType": "application/pdf",
+              "size": 1951860,
+              "webViewLink": "https://drive.google.com/file/d/146lxGo-vUnQfhzHvDFae6oI96wgZZGgI/view?usp=drivesdk",
+              "modifiedTime": "2026-05-28T09:01:56.657Z",
+              "videoMediaMetadata": null
+            },
+            {
+              "id": "1Cjbb8XOWoExSvJmpopxlzdxEBAyH2cbW",
+              "name": "ĐÁP ÁN_Bài tập rèn luyện (1).pdf",
+              "mimeType": "application/pdf",
+              "size": 7300366,
+              "webViewLink": "https://drive.google.com/file/d/1Cjbb8XOWoExSvJmpopxlzdxEBAyH2cbW/view?usp=drivesdk",
+              "modifiedTime": "2026-05-28T09:01:54.793Z",
+              "videoMediaMetadata": null
+            }
+          ]
+        }
+      ],
+      "files": [],
+      "webViewLink": "https://drive.google.com/drive/folders/1u33IyibSA-nrFZZP3brVOleSpUNUvjlM",
+      "modifiedTime": "2026-05-24T07:47:51.659Z"
+    },
+    {
+      "id": "1VCPDT839La3y3wUV1WVZzDFC-xDWhA_m",
+      "name": "2. KHOÁ L CHUYÊN ĐỀ CƠ BẢN",
+      "children": [
+        {
+          "id": "1_TU2lAHNcf-KJ_JxhuY21gZyKw4Kzw-l",
+          "name": "KHOÁ L NỀN TÀNG 12 - 2027",
+          "webViewLink": "https://drive.google.com/drive/folders/1_TU2lAHNcf-KJ_JxhuY21gZyKw4Kzw-l",
+          "modifiedTime": "2026-05-24T07:47:49.717Z",
+          "children": [
+            {
+              "id": "1gKFZN_iMqowRCmFZRLyRmZr2_O-Rrd_u",
+              "name": "CHỦ ĐỀ 01: TÍNH ĐƠN ĐIỆU CỦA HÀM SỐ",
+              "webViewLink": "https://drive.google.com/drive/folders/1gKFZN_iMqowRCmFZRLyRmZr2_O-Rrd_u",
+              "modifiedTime": "2026-05-26T08:28:31.793Z",
+              "children": [],
+              "files": [
+                {
+                  "id": "1Idq5aTdrZLXJENx2fdh4Bo_lWUO0A3ep",
+                  "name": "#1. Lý thuyết nền tảng.mp4",
+                  "mimeType": "video/mp4",
+                  "size": 121521901,
+                  "webViewLink": "https://drive.google.com/file/d/1Idq5aTdrZLXJENx2fdh4Bo_lWUO0A3ep/view?usp=drivesdk",
+                  "modifiedTime": "2026-05-26T12:36:43.614Z",
+                  "videoMediaMetadata": null
+                },
+                {
+                  "id": "1CV6m3xH0XmKO3t-w6aAMPQXpdz0IXj6S",
+                  "name": "#2. Dạng toán 1 Xét tính đơn điệu dựa vào bảng biến thiên, đồ thị của f(x).mp4",
+                  "mimeType": "video/mp4",
+                  "size": 47802793,
+                  "webViewLink": "https://drive.google.com/file/d/1CV6m3xH0XmKO3t-w6aAMPQXpdz0IXj6S/view?usp=drivesdk",
+                  "modifiedTime": "2026-05-26T12:36:41.492Z",
+                  "videoMediaMetadata": null
+                },
+                {
+                  "id": "1Bv6jeqCEzWip3Onth3lseui_UA_P8HVF",
+                  "name": "#3. Dạng toán 2 Xác định tính đơn điệu khi biết bảng biến thiên, đồ thị của f'(x).mp4",
+                  "mimeType": "video/mp4",
+                  "size": 80371929,
+                  "webViewLink": "https://drive.google.com/file/d/1Bv6jeqCEzWip3Onth3lseui_UA_P8HVF/view?usp=drivesdk",
+                  "modifiedTime": "2026-05-26T12:36:40.108Z",
+                  "videoMediaMetadata": null
+                },
+                {
+                  "id": "19layXZltp2xdgHSgZRxnsjiMA3wARQdJ",
+                  "name": "#4. Dạng toán 3 Xét tính đơn điệu của hàm số cho bởi công thức hàm số f(x).mp4",
+                  "mimeType": "video/mp4",
+                  "size": 302633808,
+                  "webViewLink": "https://drive.google.com/file/d/19layXZltp2xdgHSgZRxnsjiMA3wARQdJ/view?usp=drivesdk",
+                  "modifiedTime": "2026-05-26T12:36:38.292Z",
+                  "videoMediaMetadata": {
+                    "width": 1920,
+                    "height": 1080,
+                    "durationMillis": "3245699"
+                  }
+                },
+                {
+                  "id": "17834m5ng2b9S9wJvL5QFer-4T9FEt7YG",
+                  "name": "#5. Dạng toán 4 Xét tính đơn điệu của hàm số cho bởi công thức f'(x).mp4",
+                  "mimeType": "video/mp4",
+                  "size": 156237350,
+                  "webViewLink": "https://drive.google.com/file/d/17834m5ng2b9S9wJvL5QFer-4T9FEt7YG/view?usp=drivesdk",
+                  "modifiedTime": "2026-05-26T12:36:36.967Z",
+                  "videoMediaMetadata": null
+                },
+                {
+                  "id": "1rafLISwSdkhiYqb4519bzPYNVQyoTPyz",
+                  "name": "#6. Dạng toán 5 Bài toán thực tế liên quan đến tính đơn điệu.mp4",
+                  "mimeType": "video/mp4",
+                  "size": 277208042,
+                  "webViewLink": "https://drive.google.com/file/d/1rafLISwSdkhiYqb4519bzPYNVQyoTPyz/view?usp=drivesdk",
+                  "modifiedTime": "2026-05-26T12:36:35.398Z",
+                  "videoMediaMetadata": null
+                },
+                {
+                  "id": "1q-HFuNtJ7XbWedRZiQeAOMVy5ZQhp8ie",
+                  "name": "#7. Bài tập về nhà - Video giải chi tiết.mp4",
+                  "mimeType": "video/mp4",
+                  "size": 598678952,
+                  "webViewLink": "https://drive.google.com/file/d/1q-HFuNtJ7XbWedRZiQeAOMVy5ZQhp8ie/view?usp=drivesdk",
+                  "modifiedTime": "2026-05-26T12:36:33.989Z",
+                  "videoMediaMetadata": null
+                },
+                {
+                  "id": "1Xg9fJRJjiu8cfhiLqlwJ5zG1cMHP2q4P",
+                  "name": "#8. Đề rèn luyện - Video giải chi tiết.mp4",
+                  "mimeType": "video/mp4",
+                  "size": 374525409,
+                  "webViewLink": "https://drive.google.com/file/d/1Xg9fJRJjiu8cfhiLqlwJ5zG1cMHP2q4P/view?usp=drivesdk",
+                  "modifiedTime": "2026-05-26T12:36:32.369Z",
+                  "videoMediaMetadata": {
+                    "width": 1920,
+                    "height": 1080,
+                    "durationMillis": "4355799"
+                  }
+                },
+                {
+                  "id": "15MCI45C2EZRO4NQpU0NMpVMl8ec_KOZn",
+                  "name": "Kỹ năng xét nghiệm, xét dấu.mp4",
+                  "mimeType": "video/mp4",
+                  "size": 377547077,
+                  "webViewLink": "https://drive.google.com/file/d/15MCI45C2EZRO4NQpU0NMpVMl8ec_KOZn/view?usp=drivesdk",
+                  "modifiedTime": "2026-05-26T12:36:45.624Z",
+                  "videoMediaMetadata": null
+                }
+              ]
+            },
+            {
+              "id": "1NAPPH3Pl8gAErV7h5FkZtp2V2lmsdqvc",
+              "name": "Chủ đề 02: Cực trị của hàm số",
+              "webViewLink": "https://drive.google.com/drive/folders/1NAPPH3Pl8gAErV7h5FkZtp2V2lmsdqvc",
+              "modifiedTime": "2026-05-26T08:28:30.704Z",
+              "children": [],
+              "files": [
+                {
+                  "id": "1VaK4J37bUxHiZtf8xffjsffz52HmrbrQ",
+                  "name": "#1. Lý thuyết nền tảng.mp4",
+                  "mimeType": "video/mp4",
+                  "size": 99922198,
+                  "webViewLink": "https://drive.google.com/file/d/1VaK4J37bUxHiZtf8xffjsffz52HmrbrQ/view?usp=drivesdk",
+                  "modifiedTime": "2026-05-26T08:28:31.975Z",
+                  "videoMediaMetadata": null
+                },
+                {
+                  "id": "1Qcm2WKivWiBpaidTkGuH-YXjUsCQ35vz",
+                  "name": "#2. Dạng toán 1. Tìm cực trị của hàm số dựa vào bảng biến thiên, đồ thị hàm số f(x).mp4",
+                  "mimeType": "video/mp4",
+                  "size": 76243345,
+                  "webViewLink": "https://drive.google.com/file/d/1Qcm2WKivWiBpaidTkGuH-YXjUsCQ35vz/view?usp=drivesdk",
+                  "modifiedTime": "2026-05-26T08:28:32.093Z",
+                  "videoMediaMetadata": null
+                },
+                {
+                  "id": "1wnoRznHQRVbeorNHX_Sru_b_sb322lCL",
+                  "name": "#3. Dạng toán 2 Giá trị lớn nhất và giá trị nhỏ nhất của hàm số trên đoạn.mp4",
+                  "mimeType": "video/mp4",
+                  "size": 90482051,
+                  "webViewLink": "https://drive.google.com/file/d/1wnoRznHQRVbeorNHX_Sru_b_sb322lCL/view?usp=drivesdk",
+                  "modifiedTime": "2026-05-27T08:36:20.070Z",
+                  "videoMediaMetadata": null
+                },
+                {
+                  "id": "1v4eH6U4RRmN9vOlYRbJysTyUIs6PRAke",
+                  "name": "#3. Dạng toán 3 Tìm cực trị của hàm số dựa vào bảng xét dấu, đồ thị của f'(x).mp4",
+                  "mimeType": "video/mp4",
+                  "size": 68838563,
+                  "webViewLink": "https://drive.google.com/file/d/1v4eH6U4RRmN9vOlYRbJysTyUIs6PRAke/view?usp=drivesdk",
+                  "modifiedTime": "2026-05-26T08:28:32.089Z",
+                  "videoMediaMetadata": null
+                },
+                {
+                  "id": "15fwGgZ9yVb_4_6zxhAFpSkIIhSDKDoZK",
+                  "name": "#4. Dạng toán 3 và 4 Tìm cực trị hàm số cho bởi công thức của f(x), f'(x) và bài toán thực.mp4",
+                  "mimeType": "video/mp4",
+                  "size": 209770621,
+                  "webViewLink": "https://drive.google.com/file/d/15fwGgZ9yVb_4_6zxhAFpSkIIhSDKDoZK/view?usp=drivesdk",
+                  "modifiedTime": "2026-05-26T08:28:32.091Z",
+                  "videoMediaMetadata": null
+                },
+                {
+                  "id": "1Lo6hcs0NDWpmSWHKoOPmMJixhqpmw4vp",
+                  "name": "#5. Bài tập về nhà_Phần 1,2.mp4",
+                  "mimeType": "video/mp4",
+                  "size": 298262278,
+                  "webViewLink": "https://drive.google.com/file/d/1Lo6hcs0NDWpmSWHKoOPmMJixhqpmw4vp/view?usp=drivesdk",
+                  "modifiedTime": "2026-05-26T08:28:32.027Z",
+                  "videoMediaMetadata": null
+                },
+                {
+                  "id": "10OGnuuE2RxB34s_Qi8hYwox_IPfL2CwZ",
+                  "name": "#5. Dạng toán 5 Bài toán thực tế liên quan đến giá trị lớn nhất và giá trị nhỏ nhất của hàm số.mp4",
+                  "mimeType": "video/mp4",
+                  "size": 171632742,
+                  "webViewLink": "https://drive.google.com/file/d/10OGnuuE2RxB34s_Qi8hYwox_IPfL2CwZ/view?usp=drivesdk",
+                  "modifiedTime": "2026-05-27T08:36:20.062Z",
+                  "videoMediaMetadata": {
+                    "width": 1920,
+                    "height": 1080,
+                    "durationMillis": "1640699"
+                  }
+                },
+                {
+                  "id": "1CCgLuaQHpj26dic11XLFxGVvB7dgYnGN",
+                  "name": "#6. Bài tập về nhà_Phần 3.mp4",
+                  "mimeType": "video/mp4",
+                  "size": 322660985,
+                  "webViewLink": "https://drive.google.com/file/d/1CCgLuaQHpj26dic11XLFxGVvB7dgYnGN/view?usp=drivesdk",
+                  "modifiedTime": "2026-05-26T08:28:31.945Z",
+                  "videoMediaMetadata": null
+                },
+                {
+                  "id": "1przCIubc-dUTibJPhGAlpxd2KoG2W1WC",
+                  "name": "#7. Đề rèn luyện.mp4",
+                  "mimeType": "video/mp4",
+                  "size": 470046288,
+                  "webViewLink": "https://drive.google.com/file/d/1przCIubc-dUTibJPhGAlpxd2KoG2W1WC/view?usp=drivesdk",
+                  "modifiedTime": "2026-05-27T08:36:20.067Z",
+                  "videoMediaMetadata": null
+                },
+                {
+                  "id": "1jVwV7gX4-8vqDnncO06pg0LhX5yKjjkF",
+                  "name": "CHỦ ĐỀ 02 - SÁCH HÀM SỐ - BÀI TẬP VỀ NHÀ.pdf",
+                  "mimeType": "application/pdf",
+                  "size": 1008037,
+                  "webViewLink": "https://drive.google.com/file/d/1jVwV7gX4-8vqDnncO06pg0LhX5yKjjkF/view?usp=drivesdk",
+                  "modifiedTime": "2026-05-26T08:28:32.000Z",
+                  "videoMediaMetadata": null
+                },
+                {
+                  "id": "1lP4m-HxW7ZgX9XOh9kmR8JfX-GyXCJi5",
+                  "name": "CHỦ ĐỀ 02 - SÁCH HÀM SỐ - ĐỀ RÈN LUYỆN.pdf",
+                  "mimeType": "application/pdf",
+                  "size": 761823,
+                  "webViewLink": "https://drive.google.com/file/d/1lP4m-HxW7ZgX9XOh9kmR8JfX-GyXCJi5/view?usp=drivesdk",
+                  "modifiedTime": "2026-05-26T08:28:31.991Z",
+                  "videoMediaMetadata": null
+                },
+                {
+                  "id": "1ux-zj159UTdkLx_0R156c5aSwGk3Wf8v",
+                  "name": "ĐÁP ÁN_#5. Bài tập về nhà_Phần 1,2.pdf",
+                  "mimeType": "application/pdf",
+                  "size": 9199490,
+                  "webViewLink": "https://drive.google.com/file/d/1ux-zj159UTdkLx_0R156c5aSwGk3Wf8v/view?usp=drivesdk",
+                  "modifiedTime": "2026-05-26T08:28:32.088Z",
+                  "videoMediaMetadata": null
+                },
+                {
+                  "id": "18GAAiFiirfW1j88GLFuK_D0RG5jF7S1W",
+                  "name": "ĐÁP ÁN_#6. Bài tập về nhà_Phần 3.pdf",
+                  "mimeType": "application/pdf",
+                  "size": 9199490,
+                  "webViewLink": "https://drive.google.com/file/d/18GAAiFiirfW1j88GLFuK_D0RG5jF7S1W/view?usp=drivesdk",
+                  "modifiedTime": "2026-05-26T08:28:31.994Z",
+                  "videoMediaMetadata": null
+                },
+                {
+                  "id": "1oDsf7rg525rG47FGeCkt2Y9GqeaT_JLu",
+                  "name": "ĐÁP ÁN_#7. Đề rèn luyện.pdf",
+                  "mimeType": "application/pdf",
+                  "size": 7266915,
+                  "webViewLink": "https://drive.google.com/file/d/1oDsf7rg525rG47FGeCkt2Y9GqeaT_JLu/view?usp=drivesdk",
+                  "modifiedTime": "2026-05-26T08:28:32.093Z",
+                  "videoMediaMetadata": null
+                }
+              ]
+            }
+          ],
+          "files": []
+        }
+      ],
+      "files": [],
+      "webViewLink": "https://drive.google.com/drive/folders/1VCPDT839La3y3wUV1WVZzDFC-xDWhA_m",
+      "modifiedTime": "2026-05-24T07:47:48.298Z"
+    },
+    {
+      "id": "124n37aXpUP6-jJxXLD844zPRPOJJqwvS",
+      "name": "3. KHOÁ A TOÁN THỰC TẾ",
+      "children": [],
+      "files": [],
+      "webViewLink": "https://drive.google.com/drive/folders/124n37aXpUP6-jJxXLD844zPRPOJJqwvS",
+      "modifiedTime": "2026-05-24T07:47:47.101Z"
+    },
+    {
+      "id": "1lyrcrMCy1hMrQXw-c8xZ-1J2ZA0iJFOZ",
+      "name": "4. KHOÁ S LUYỆN ĐỀ",
+      "children": [],
+      "files": [],
+      "webViewLink": "https://drive.google.com/drive/folders/1lyrcrMCy1hMrQXw-c8xZ-1J2ZA0iJFOZ",
+      "modifiedTime": "2026-05-24T07:47:45.941Z"
+    },
+    {
+      "id": "1CT2pgoGDrJgS481tUtDVvsZcrCX7JCmb",
+      "name": "5. KHOÁ H TỔNG ÔN",
+      "children": [],
+      "files": [],
+      "webViewLink": "https://drive.google.com/drive/folders/1CT2pgoGDrJgS481tUtDVvsZcrCX7JCmb",
+      "modifiedTime": "2026-05-24T07:47:44.072Z"
+    },
+    {
+      "id": "1k_0ynlm-3qP0TVyEoe9NK-x5pCnoO5xB",
+      "name": "Z. EBOOK SÁCH KÈM KHOÁ HỌC",
+      "children": [],
+      "files": [],
+      "webViewLink": "https://drive.google.com/drive/folders/1k_0ynlm-3qP0TVyEoe9NK-x5pCnoO5xB",
+      "modifiedTime": "2026-05-24T07:48:06.094Z"
+    }
+  ]
+}

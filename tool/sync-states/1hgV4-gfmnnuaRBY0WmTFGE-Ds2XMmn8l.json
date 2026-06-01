@@ -1,0 +1,414 @@
+{
+  "teacherId": "1hgV4-gfmnnuaRBY0WmTFGE-Ds2XMmn8l",
+  "tabs": {
+    "13p-uHV0kleMpFLqetzVSI8jNPPVZHfq-": {
+      "tabName": "Khóa XPS",
+      "renderedAt": "2026-05-31T04:08:38.560Z",
+      "checksum": "13p-uHV0kleMpFLqetzVSI8jNPPVZHfq-|2026-05-29T12:36:45.530Z|158",
+      "lessons": [
+        {
+          "id": "1_mDa8Z8MyumQ2OFn_S75cRWEy6IEfIO3",
+          "name": "1. TỔNG ÔN ĐẠI CƯƠNG HÓA HỌC HỮU CƠ | VIP1",
+          "parentName": "1. TỔNG ÔN TOÀN DIỆN HỮU CƠ 11 | 2027",
+          "checksum": "2026-05-11T13:17:50.780Z|4",
+          "virtual": false
+        },
+        {
+          "id": "1TTrH4AD1M1iNS5x9RBUEAgbuTMAURhmt",
+          "name": "2. TỔNG ÔN ĐẠI CƯƠNG HÓA HỌC HỮU CƠ | VIP2",
+          "parentName": "1. TỔNG ÔN TOÀN DIỆN HỮU CƠ 11 | 2027",
+          "checksum": "2026-05-11T13:15:36.227Z|5",
+          "virtual": false
+        },
+        {
+          "id": "1E9Tm8idHKU-D1xj6zkpPoQRgfx2P1KIo",
+          "name": "3. TỔNG ÔN TOÀN DIỆN HYDROCARBON | VIP1",
+          "parentName": "1. TỔNG ÔN TOÀN DIỆN HỮU CƠ 11 | 2027",
+          "checksum": "2026-05-11T13:14:59.361Z|5",
+          "virtual": false
+        },
+        {
+          "id": "1imlszAHYZg7rIAucO3dv4KS84dNyENPy",
+          "name": "4. TỔNG ÔN TOÀN DIỆN HYDROCARBON | VIP2",
+          "parentName": "1. TỔNG ÔN TOÀN DIỆN HỮU CƠ 11 | 2027",
+          "checksum": "2026-05-11T13:14:24.539Z|5",
+          "virtual": false
+        },
+        {
+          "id": "1NMWcbhkzgWE2sobjIQ96DIx2aVjy5Cy7",
+          "name": "5. TỔNG ÔN HALOGEN – ALCOHOL – PHENOL | VIP1",
+          "parentName": "1. TỔNG ÔN TOÀN DIỆN HỮU CƠ 11 | 2027",
+          "checksum": "2026-05-11T12:56:37.837Z|4",
+          "virtual": false
+        },
+        {
+          "id": "1toPjSntqjeoTBzvFJCCVtA1CfZQChlPo",
+          "name": "6. TỔNG ÔN HALOGEN – ALCOHOL – PHENOL | VIP2",
+          "parentName": "1. TỔNG ÔN TOÀN DIỆN HỮU CƠ 11 | 2027",
+          "checksum": "2026-05-11T12:48:24.196Z|5",
+          "virtual": false
+        },
+        {
+          "id": "1_9doNYTN42p9Wu8y9kunCipor1O1xD0n",
+          "name": "7. TỔNG ÔN HALOGEN – ALCOHOL – PHENOL | VIP3",
+          "parentName": "1. TỔNG ÔN TOÀN DIỆN HỮU CƠ 11 | 2027",
+          "checksum": "2026-05-11T12:43:02.009Z|4",
+          "virtual": false
+        },
+        {
+          "id": "1QWmXnVf6BwK1oYwadpawH59dRVfI-1HC",
+          "name": "8. TỔNG ÔN CARBONYL – CARBOXYLIC ACID | VIP1",
+          "parentName": "1. TỔNG ÔN TOÀN DIỆN HỮU CƠ 11 | 2027",
+          "checksum": "2026-05-11T12:28:54.151Z|4",
+          "virtual": false
+        },
+        {
+          "id": "1SuYgPzGCUtENOiT4Rm0mYW9kqN-c9771",
+          "name": "9. TỔNG ÔN CARBONYL – CARBOXYLIC ACID | VIP2",
+          "parentName": "1. TỔNG ÔN TOÀN DIỆN HỮU CƠ 11 | 2027",
+          "checksum": "2026-05-11T12:14:04.773Z|4",
+          "virtual": false
+        },
+        {
+          "id": "1lz1Z36fER21dk3QPEe7hwIcwBjEie8yv",
+          "name": "10. TỔNG ÔN CARBONYL – CARBOXYLIC ACID | VIP3",
+          "parentName": "1. TỔNG ÔN TOÀN DIỆN HỮU CƠ 11 | 2027",
+          "checksum": "2026-05-11T11:56:43.845Z|4",
+          "virtual": false
+        },
+        {
+          "id": "1WZRH_IQekVUPW6d0QetuDH3VrFA3D2kb::file:16wWy0QkvQHBIwql2WmF7CK-uh11MxLz8",
+          "name": "LIVE 9 - BÀI TẬP XÀ PHÒNG HÓA ESTER ĐA CHỨC",
+          "parentName": "2. CHUYÊN ĐỀ 1 - TRỌNG TÂM (ESTER & LIPID)\t\t\t",
+          "checksum": "2026-05-18T01:34:17.747Z|1|0c48ca299208",
+          "virtual": true
+        },
+        {
+          "id": "1WZRH_IQekVUPW6d0QetuDH3VrFA3D2kb::file:199iMDCuQXjgzYiTltCedXg6OBToCmHlq",
+          "name": "giãn LIVE 9 - BÀI TẬP XÀ PHÒNG HÓA ESTER ĐA CHỨC",
+          "parentName": "2. CHUYÊN ĐỀ 1 - TRỌNG TÂM (ESTER & LIPID)\t\t\t",
+          "checksum": "2026-05-18T01:34:22.626Z|1|19a6084d7cca",
+          "virtual": true
+        },
+        {
+          "id": "1WZRH_IQekVUPW6d0QetuDH3VrFA3D2kb::file:1g-o6e4ZDD5JHZknDiD-eT0rFnhvAYG26",
+          "name": "LIVE 8 - BÀI TẬP XÀ PHÒNG HÓA ESTER ĐƠN CHỨC_2",
+          "parentName": "2. CHUYÊN ĐỀ 1 - TRỌNG TÂM (ESTER & LIPID)\t\t\t",
+          "checksum": "2026-05-18T01:34:40.736Z|1|d536692ae22e",
+          "virtual": true
+        },
+        {
+          "id": "1WZRH_IQekVUPW6d0QetuDH3VrFA3D2kb::file:1gQYrD8bT3OmgUQBMZVFIhs9bN0e_AFW3",
+          "name": "giãn LIVE 10 - BÀI TẬP XÀ PHÒNG HÓA CHẤT BÉO",
+          "parentName": "2. CHUYÊN ĐỀ 1 - TRỌNG TÂM (ESTER & LIPID)\t\t\t",
+          "checksum": "2026-05-18T01:31:59.135Z|1|13a80c80b20d",
+          "virtual": true
+        },
+        {
+          "id": "1WZRH_IQekVUPW6d0QetuDH3VrFA3D2kb::file:1KjsntcW0NJNErnZkUpZBr9JeNzKcF27y",
+          "name": "LIVE 8 - BÀI TẬP XÀ PHÒNG HÓA ESTER ĐƠN CHỨC",
+          "parentName": "2. CHUYÊN ĐỀ 1 - TRỌNG TÂM (ESTER & LIPID)\t\t\t",
+          "checksum": "2026-05-18T01:34:57.773Z|1|55fc90854c6d",
+          "virtual": true
+        },
+        {
+          "id": "1WZRH_IQekVUPW6d0QetuDH3VrFA3D2kb::file:1qSNQV9SLQBWQxXTJVph2W54MgLmFXtV4",
+          "name": "LIVE 10 - BÀI TẬP XÀ PHÒNG HÓA CHẤT BÉO",
+          "parentName": "2. CHUYÊN ĐỀ 1 - TRỌNG TÂM (ESTER & LIPID)\t\t\t",
+          "checksum": "2026-05-18T01:31:55.863Z|1|412fae149dd6",
+          "virtual": true
+        },
+        {
+          "id": "1WZRH_IQekVUPW6d0QetuDH3VrFA3D2kb::file:1rd7eoQkCn6Cv78hAuKW_vjL5XAWyUHoT",
+          "name": "LIVE 8 - BÀI TẬP XÀ PHÒNG HÓA ESTER ĐƠN CHỨC",
+          "parentName": "2. CHUYÊN ĐỀ 1 - TRỌNG TÂM (ESTER & LIPID)\t\t\t",
+          "checksum": "2026-05-18T01:35:00.188Z|1|d2fb8cb921c5",
+          "virtual": true
+        },
+        {
+          "id": "1WZRH_IQekVUPW6d0QetuDH3VrFA3D2kb::file:1Ur6Lj1MTRWSI90D1O7twj_XJlzNat6uN",
+          "name": "vt LIVE 8 - BÀI TẬP XÀ PHÒNG HÓA ESTER ĐƠN CHỨC",
+          "parentName": "2. CHUYÊN ĐỀ 1 - TRỌNG TÂM (ESTER & LIPID)\t\t\t",
+          "checksum": "2026-05-18T01:34:58.594Z|1|9a9fb77c815b",
+          "virtual": true
+        },
+        {
+          "id": "1WZRH_IQekVUPW6d0QetuDH3VrFA3D2kb::file:1vBc-yh3Qxyoll51ms8tCMYhPpfI_z3g-",
+          "name": "LIVE 9 - BÀI TẬP XÀ PHÒNG HÓA ESTER ĐA CHỨC",
+          "parentName": "2. CHUYÊN ĐỀ 1 - TRỌNG TÂM (ESTER & LIPID)\t\t\t",
+          "checksum": "2026-05-18T01:34:16.334Z|1|85812affdd01",
+          "virtual": true
+        },
+        {
+          "id": "1WZRH_IQekVUPW6d0QetuDH3VrFA3D2kb::file:1y7I4N2dLFoHYePFX1fQ00xrp8HYjRt0M",
+          "name": "giãn LIVE 8 - BÀI TẬP XÀ PHÒNG HÓA ESTER ĐƠN CHỨC",
+          "parentName": "2. CHUYÊN ĐỀ 1 - TRỌNG TÂM (ESTER & LIPID)\t\t\t",
+          "checksum": "2026-05-18T01:35:01.683Z|1|2b1a12a6f636",
+          "virtual": true
+        },
+        {
+          "id": "1WZRH_IQekVUPW6d0QetuDH3VrFA3D2kb::file:1YK2hUWrDev-YQwmOZNhMatCyzeShL59n",
+          "name": "vt LIVE 9 - BÀI TẬP XÀ PHÒNG HÓA ESTER ĐA CHỨC",
+          "parentName": "2. CHUYÊN ĐỀ 1 - TRỌNG TÂM (ESTER & LIPID)\t\t\t",
+          "checksum": "2026-05-18T01:34:18.939Z|1|eee34de96092",
+          "virtual": true
+        },
+        {
+          "id": "1WZRH_IQekVUPW6d0QetuDH3VrFA3D2kb::file:1Z_2zy1xsOMpClhXzUCcDhbnkXljcNCAg",
+          "name": "vt LIVE 10 - BÀI TẬP XÀ PHÒNG HÓA CHẤT BÉO",
+          "parentName": "2. CHUYÊN ĐỀ 1 - TRỌNG TÂM (ESTER & LIPID)\t\t\t",
+          "checksum": "2026-05-18T01:31:57.383Z|1|62449ac0fa8d",
+          "virtual": true
+        },
+        {
+          "id": "1WZRH_IQekVUPW6d0QetuDH3VrFA3D2kb::file:1ZDmr8KfTxZvgWJhVZmNbOd8a3iizrr0c",
+          "name": "LIVE 10 - BÀI TẬP XÀ PHÒNG HÓA CHẤT BÉO",
+          "parentName": "2. CHUYÊN ĐỀ 1 - TRỌNG TÂM (ESTER & LIPID)\t\t\t",
+          "checksum": "2026-05-18T01:31:55.076Z|1|03c71728d8ca",
+          "virtual": true
+        },
+        {
+          "id": "1WZRH_IQekVUPW6d0QetuDH3VrFA3D2kb::file:1zGEpAEjW8sGbjFSiMMmpncg2c8WnT-b9",
+          "name": "LIVE 10 - BÀI TẬP XÀ PHÒNG HÓA CHẤT BÉO_2",
+          "parentName": "2. CHUYÊN ĐỀ 1 - TRỌNG TÂM (ESTER & LIPID)\t\t\t",
+          "checksum": "2026-05-18T01:30:10.278Z|1|553ce0c28f0f",
+          "virtual": true
+        },
+        {
+          "id": "1CRgWiEI8HPezwyyjDPxqdT7HDAakxsLy",
+          "name": "1. LIVE 1 - LÝ THUYẾT TRỌNG TÂM ESTER | VIP1",
+          "parentName": "2. CHUYÊN ĐỀ 1 - TRỌNG TÂM (ESTER & LIPID)\t\t\t",
+          "checksum": "2026-05-10T10:01:29.180Z|6",
+          "virtual": false
+        },
+        {
+          "id": "1UAYxJTgNGO2nyeTYP_nI-yk6voyf1U3x",
+          "name": "2. LIVE 2 - LÝ THUYẾT TRỌNG TÂM ESTER | VIP2",
+          "parentName": "2. CHUYÊN ĐỀ 1 - TRỌNG TÂM (ESTER & LIPID)\t\t\t",
+          "checksum": "2026-05-10T09:21:57.038Z|5",
+          "virtual": false
+        },
+        {
+          "id": "1B9T2gcJ9nHwiQblaRKqYqoTxprX9J7bO",
+          "name": "3. LIVE 3 - LÝ THUYẾT TRỌNG TÂM ESTER | VIP3",
+          "parentName": "2. CHUYÊN ĐỀ 1 - TRỌNG TÂM (ESTER & LIPID)\t\t\t",
+          "checksum": "2026-05-10T08:29:21.008Z|5",
+          "virtual": false
+        },
+        {
+          "id": "1eUziApHQ5Ikj5euOI5U9URYATJK6OGb6",
+          "name": "4. LIVE 4 - LÝ THUYẾT TRỌNG TÂM ESTER | VIP4",
+          "parentName": "2. CHUYÊN ĐỀ 1 - TRỌNG TÂM (ESTER & LIPID)\t\t\t",
+          "checksum": "2026-05-10T08:11:27.926Z|5",
+          "virtual": false
+        },
+        {
+          "id": "1pvC7PfISKOtlHAnltYdDFggUDmtoB6Uf",
+          "name": "5. LIVE 5 - LÝ THUYẾT TRỌNG TÂM LIPID VÀ CHẤT BÉO",
+          "parentName": "2. CHUYÊN ĐỀ 1 - TRỌNG TÂM (ESTER & LIPID)\t\t\t",
+          "checksum": "2026-05-10T07:41:01.490Z|5",
+          "virtual": false
+        },
+        {
+          "id": "1DCaAOdSDpgLoSSj5QneWnWI-RWpa6dYe",
+          "name": "6. LIVE 6 - LÝ THUYẾT XÀ PHÒNG VÀ CHẤT GIẶT RỬA",
+          "parentName": "2. CHUYÊN ĐỀ 1 - TRỌNG TÂM (ESTER & LIPID)\t\t\t",
+          "checksum": "2026-05-10T06:36:49.740Z|5",
+          "virtual": false
+        },
+        {
+          "id": "1W86LTDvIqJs5yq00mzhMgcS-ZbdIxlFH",
+          "name": "11. LIVE 11 - TỔNG ÔN TRỌNG TÂM ESTER (VIP1 + VIP2)",
+          "parentName": "2. CHUYÊN ĐỀ 1 - TRỌNG TÂM (ESTER & LIPID)\t\t\t",
+          "checksum": "2026-05-18T01:28:23.563Z|5",
+          "virtual": false
+        },
+        {
+          "id": "1487p5h9D4L2PAq_sViiy8upLmvF9K1p5",
+          "name": "12. LIVE 12 - TỔNG ÔN TRỌNG TÂM CHẤT BÉO",
+          "parentName": "2. CHUYÊN ĐỀ 1 - TRỌNG TÂM (ESTER & LIPID)\t\t\t",
+          "checksum": "2026-05-18T01:27:45.923Z|4",
+          "virtual": false
+        },
+        {
+          "id": "1DsJlNQ-uSfKAuwfp4FpgNx6Qo5lPl3rS",
+          "name": "13. LIVE 13 - TỔNG ÔN TRỌNG TÂM XÀ PHÒNG & CHẤT GIẶT RỬA",
+          "parentName": "2. CHUYÊN ĐỀ 1 - TRỌNG TÂM (ESTER & LIPID)\t\t\t",
+          "checksum": "2026-05-22T08:39:57.320Z|4",
+          "virtual": false
+        },
+        {
+          "id": "1Tyt25TIalNvQ0ubwzM-TAHzdWzOkLAO_",
+          "name": "14. LIVE 14 - TỔNG ÔN TOÀN DIỆN CHUYÊN ĐỀ 1 | LẦN 1",
+          "parentName": "2. CHUYÊN ĐỀ 1 - TRỌNG TÂM (ESTER & LIPID)\t\t\t",
+          "checksum": "2026-05-22T08:39:38.815Z|4",
+          "virtual": false
+        },
+        {
+          "id": "1I9oGLtANH4IWDq6C8LamdueXsWAlwzId",
+          "name": "15. LIVE 15 - TỔNG ÔN TOÀN DIỆN CHUYÊN ĐỀ 1 | LẦN 2 (MEGALIVE)",
+          "parentName": "2. CHUYÊN ĐỀ 1 - TRỌNG TÂM (ESTER & LIPID)\t\t\t",
+          "checksum": "2026-05-22T08:37:53.450Z|6",
+          "virtual": false
+        },
+        {
+          "id": "11_nTBQlJo4T8tHFkr0UgZXDMWfqqgJPp",
+          "name": "1. LIVE 17 - LÝ THUYẾT TRỌNG TÂM GLUCOSE & FRUCTOSE",
+          "parentName": "3. CHUYÊN ĐỀ 2 - TRỌNG TÂM (CARBOHYDRATE)\t\t\t",
+          "checksum": "2026-05-22T08:35:28.947Z|5",
+          "virtual": false
+        },
+        {
+          "id": "1w961GlxvKl3_2DKwk085wKxHAifAniCl",
+          "name": "2. LIVE 18 - LÝ THUYẾT TRỌNG TÂM SACCHAROSE & MALTOSE",
+          "parentName": "3. CHUYÊN ĐỀ 2 - TRỌNG TÂM (CARBOHYDRATE)\t\t\t",
+          "checksum": "2026-05-22T08:33:24.038Z|5",
+          "virtual": false
+        },
+        {
+          "id": "1oFZ_Qss0SzinOKtBVDrEkk3ut2ydgqk5",
+          "name": "3. LIVE 19 - LÝ THUYẾT TRỌNG TÂM TINH BỘT VÀ CELLULOSE",
+          "parentName": "3. CHUYÊN ĐỀ 2 - TRỌNG TÂM (CARBOHYDRATE)\t\t\t",
+          "checksum": "2026-05-24T14:40:39.566Z|5",
+          "virtual": false
+        },
+        {
+          "id": "1GLypYIS8MZVNYKaYHt7Tru2MiLPJJw7B",
+          "name": "4. LIVE 20 - BÀI TOÁN THỰC TẾ TRÁNG BẠC, GƯƠNG SOI",
+          "parentName": "3. CHUYÊN ĐỀ 2 - TRỌNG TÂM (CARBOHYDRATE)\t\t\t",
+          "checksum": "2026-05-24T14:38:31.930Z|5",
+          "virtual": false
+        },
+        {
+          "id": "17xhSOUbJX5eOz_2N1WiEizmoNqxWBAp9",
+          "name": "5. LIVE 21 - BÀI TOÁN LÊN MEN, SẢN XUẤT RƯỢU, XĂNG",
+          "parentName": "3. CHUYÊN ĐỀ 2 - TRỌNG TÂM (CARBOHYDRATE)\t\t\t",
+          "checksum": "2026-05-24T14:35:57.797Z|5",
+          "virtual": false
+        },
+        {
+          "id": "1BUgZFV4k9WSc40yaclfbKXe4hxXM4vFQ",
+          "name": "6. LIVE 22 - BÀI TOÁN THỰC TẾ CARBOHYDRATE MỞ RỘNG",
+          "parentName": "3. CHUYÊN ĐỀ 2 - TRỌNG TÂM (CARBOHYDRATE)\t\t\t",
+          "checksum": "2026-05-24T14:32:01.022Z|5",
+          "virtual": false
+        },
+        {
+          "id": "1bOo1phNVFpzyAv1esIsTXa_GwBRZMpVz",
+          "name": "7. LIVE 23 - TỔNG ÔN TOÀN DIỆN CARBOHYDRATE (MEGALIVE)",
+          "parentName": "3. CHUYÊN ĐỀ 2 - TRỌNG TÂM (CARBOHYDRATE)\t\t\t",
+          "checksum": "2026-05-24T14:28:51.940Z|4",
+          "virtual": false
+        }
+      ],
+      "rendererVersion": "4.3.1",
+      "styleVersion": "2026-05-31-student-banner-no-meta-v2",
+      "runId": "no-meta-sync-2026-05-31-104541",
+      "spreadsheetId": "1ruoicttjiHk0dbA__GoAczxBe5kULFf7cPqBiBcOAX8",
+      "stats": {
+        "leafCount": 42,
+        "totalVideos": 53
+      }
+    },
+    "13K1zJBZbQMF86BGpUqV02vv9-oRR1VjB": {
+      "tabName": "LIVE Chuyên Đề",
+      "renderedAt": "2026-05-31T04:08:45.627Z",
+      "checksum": "13K1zJBZbQMF86BGpUqV02vv9-oRR1VjB|2026-04-19T23:15:03.767Z|0",
+      "lessons": [],
+      "rendererVersion": "4.3.1",
+      "styleVersion": "2026-05-31-student-banner-no-meta-v2",
+      "runId": "no-meta-sync-2026-05-31-104541",
+      "spreadsheetId": "1ruoicttjiHk0dbA__GoAczxBe5kULFf7cPqBiBcOAX8",
+      "stats": {
+        "leafCount": 0,
+        "totalVideos": 0
+      }
+    },
+    "1CN7tWsMWJ0opbH3Ylk10cwlD346bqyLH": {
+      "tabName": "Khóa Vận Dụng Cao",
+      "renderedAt": "2026-05-31T04:08:53.092Z",
+      "checksum": "1CN7tWsMWJ0opbH3Ylk10cwlD346bqyLH|2026-04-19T23:15:03.175Z|0",
+      "lessons": [],
+      "rendererVersion": "4.3.1",
+      "styleVersion": "2026-05-31-student-banner-no-meta-v2",
+      "runId": "no-meta-sync-2026-05-31-104541",
+      "spreadsheetId": "1ruoicttjiHk0dbA__GoAczxBe5kULFf7cPqBiBcOAX8",
+      "stats": {
+        "leafCount": 0,
+        "totalVideos": 0
+      }
+    },
+    "1mltW6EU2mnQQc5ouBf_jPdMzcLKMzWl7": {
+      "tabName": "LIVE Luyện Đề",
+      "renderedAt": "2026-05-31T04:09:00.255Z",
+      "checksum": "1mltW6EU2mnQQc5ouBf_jPdMzcLKMzWl7|2026-04-19T23:15:02.583Z|0",
+      "lessons": [],
+      "rendererVersion": "4.3.1",
+      "styleVersion": "2026-05-31-student-banner-no-meta-v2",
+      "runId": "no-meta-sync-2026-05-31-104541",
+      "spreadsheetId": "1ruoicttjiHk0dbA__GoAczxBe5kULFf7cPqBiBcOAX8",
+      "stats": {
+        "leafCount": 0,
+        "totalVideos": 0
+      }
+    },
+    "15da70TVHetw2iIClOomWtIKBTCUvzlrx": {
+      "tabName": "LIVE Tổng Ôn",
+      "renderedAt": "2026-05-31T04:09:07.505Z",
+      "checksum": "15da70TVHetw2iIClOomWtIKBTCUvzlrx|2026-04-19T23:15:01.913Z|0",
+      "lessons": [],
+      "rendererVersion": "4.3.1",
+      "styleVersion": "2026-05-31-student-banner-no-meta-v2",
+      "runId": "no-meta-sync-2026-05-31-104541",
+      "spreadsheetId": "1ruoicttjiHk0dbA__GoAczxBe5kULFf7cPqBiBcOAX8",
+      "stats": {
+        "leafCount": 0,
+        "totalVideos": 0
+      }
+    },
+    "1BP7_vtwTSXh9rdlp8luBX4xZy0Gago4M": {
+      "tabName": "BONUS TƯ VẤN",
+      "renderedAt": "2026-05-31T04:09:14.670Z",
+      "checksum": "1BP7_vtwTSXh9rdlp8luBX4xZy0Gago4M|2026-04-19T23:14:59.867Z|0",
+      "lessons": [],
+      "rendererVersion": "4.3.1",
+      "styleVersion": "2026-05-31-student-banner-no-meta-v2",
+      "runId": "no-meta-sync-2026-05-31-104541",
+      "spreadsheetId": "1ruoicttjiHk0dbA__GoAczxBe5kULFf7cPqBiBcOAX8",
+      "stats": {
+        "leafCount": 0,
+        "totalVideos": 0
+      }
+    },
+    "1dUjlCNYyiQ4Psa1AMj876f_6XB00mdBB": {
+      "tabName": "KHOÁ BỔ TRỢ ÔN THI ĐGNL",
+      "renderedAt": "2026-05-31T04:09:21.858Z",
+      "checksum": "1dUjlCNYyiQ4Psa1AMj876f_6XB00mdBB|2026-04-19T23:15:01.268Z|0",
+      "lessons": [],
+      "rendererVersion": "4.3.1",
+      "styleVersion": "2026-05-31-student-banner-no-meta-v2",
+      "runId": "no-meta-sync-2026-05-31-104541",
+      "spreadsheetId": "1ruoicttjiHk0dbA__GoAczxBe5kULFf7cPqBiBcOAX8",
+      "stats": {
+        "leafCount": 0,
+        "totalVideos": 0
+      }
+    },
+    "1nH4S4I6t4wRnKXhys-ljxIV36quKuiQ6": {
+      "tabName": "KHOÁ BỔ TRỢ ÔN THI HỌC",
+      "renderedAt": "2026-05-31T04:09:29.014Z",
+      "checksum": "1nH4S4I6t4wRnKXhys-ljxIV36quKuiQ6|2026-04-19T23:15:00.598Z|0",
+      "lessons": [],
+      "rendererVersion": "4.3.1",
+      "styleVersion": "2026-05-31-student-banner-no-meta-v2",
+      "runId": "no-meta-sync-2026-05-31-104541",
+      "spreadsheetId": "1ruoicttjiHk0dbA__GoAczxBe5kULFf7cPqBiBcOAX8",
+      "stats": {
+        "leafCount": 0,
+        "totalVideos": 0
+      }
+    }
+  },
+  "updatedAt": "2026-05-31T04:09:29.015Z",
+  "version": 2
+}

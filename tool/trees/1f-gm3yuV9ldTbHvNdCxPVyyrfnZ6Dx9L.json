@@ -1,0 +1,757 @@
+{
+  "crawledAt": "2026-05-30T02:13:56.180Z",
+  "teacher": {
+    "id": "1f-gm3yuV9ldTbHvNdCxPVyyrfnZ6Dx9L",
+    "name": "1. SỬ CÔ NGUYỄN HƯƠNG SEN SANGSANG 2K9 ",
+    "modifiedTime": "2026-05-27T15:22:58.092Z",
+    "webViewLink": "https://drive.google.com/drive/folders/1f-gm3yuV9ldTbHvNdCxPVyyrfnZ6Dx9L"
+  },
+  "courses": [
+    {
+      "id": "1-lHN3GOmGZCNEGCu0Y5auQ5nUFjFOyCL",
+      "name": "0. INFO THÔNG TIN VÀ HƯỚNG DẪN KHOÁ HỌC",
+      "children": [],
+      "files": [],
+      "webViewLink": "https://drive.google.com/drive/folders/1-lHN3GOmGZCNEGCu0Y5auQ5nUFjFOyCL",
+      "modifiedTime": "2026-04-19T03:39:38.922Z"
+    },
+    {
+      "id": "1S_734flngEoJ-NLQXvsn5cRqCAfNJiPc",
+      "name": "1. LÝ THUYẾT NỀN TẢNG LỊCH SỬ 12 2k9",
+      "children": [
+        {
+          "id": "1XHSDMWhYcv4n8pqq-E7hx470VovdiN2G",
+          "name": "1. CHỦ ĐỀ 1: THẾ GIỚI TRONG VÀ SAU CHIẾN TRANH LẠNH\t\t\t",
+          "webViewLink": "https://drive.google.com/drive/folders/1XHSDMWhYcv4n8pqq-E7hx470VovdiN2G",
+          "modifiedTime": "2026-05-10T05:20:17.643Z",
+          "children": [
+            {
+              "id": "1CoK06aSQu4TWZw1bDkA8itWcOQB07ysZ",
+              "name": "0. ĐÁP ÁN SÁCH LTNT",
+              "webViewLink": "https://drive.google.com/drive/folders/1CoK06aSQu4TWZw1bDkA8itWcOQB07ysZ",
+              "modifiedTime": "2026-05-12T08:22:01.964Z",
+              "children": [],
+              "files": [
+                {
+                  "id": "1GjwoB-92Ak5Q2DvJk7Qf0W1G57edzI4X",
+                  "name": "ĐÁN ÁN BÀI 10.pdf",
+                  "mimeType": "application/pdf",
+                  "size": 203069,
+                  "webViewLink": "https://drive.google.com/file/d/1GjwoB-92Ak5Q2DvJk7Qf0W1G57edzI4X/view?usp=drivesdk",
+                  "modifiedTime": "2026-05-12T08:22:04.352Z",
+                  "videoMediaMetadata": null
+                },
+                {
+                  "id": "1Ys-SCo4YKg5sHY5NCElBDDl71u1iTyrf",
+                  "name": "ĐÁN ÁN BÀI 11.pdf",
+                  "mimeType": "application/pdf",
+                  "size": 202293,
+                  "webViewLink": "https://drive.google.com/file/d/1Ys-SCo4YKg5sHY5NCElBDDl71u1iTyrf/view?usp=drivesdk",
+                  "modifiedTime": "2026-05-12T08:22:13.535Z",
+                  "videoMediaMetadata": null
+                },
+                {
+                  "id": "1yBzXFh0PxDp7LB5nWe1KONZI4rKOpwz7",
+                  "name": "ĐÁN ÁN BÀI 12.pdf",
+                  "mimeType": "application/pdf",
+                  "size": 203446,
+                  "webViewLink": "https://drive.google.com/file/d/1yBzXFh0PxDp7LB5nWe1KONZI4rKOpwz7/view?usp=drivesdk",
+                  "modifiedTime": "2026-05-12T08:22:06.148Z",
+                  "videoMediaMetadata": null
+                },
+                {
+                  "id": "1O1qS3_9LUh5g8fiMeaL5oFLY7NGD-r6f",
+                  "name": "ĐÁN ÁN BÀI 13.pdf",
+                  "mimeType": "application/pdf",
+                  "size": 203080,
+                  "webViewLink": "https://drive.google.com/file/d/1O1qS3_9LUh5g8fiMeaL5oFLY7NGD-r6f/view?usp=drivesdk",
+                  "modifiedTime": "2026-05-12T08:22:07.607Z",
+                  "videoMediaMetadata": null
+                },
+                {
+                  "id": "1vM2Rh8gqjvXsEkADaHOlJWRV5VGSGypw",
+                  "name": "ĐÁN ÁN BÀI 14.pdf",
+                  "mimeType": "application/pdf",
+                  "size": 201462,
+                  "webViewLink": "https://drive.google.com/file/d/1vM2Rh8gqjvXsEkADaHOlJWRV5VGSGypw/view?usp=drivesdk",
+                  "modifiedTime": "2026-05-12T08:22:09.152Z",
+                  "videoMediaMetadata": null
+                },
+                {
+                  "id": "16ccYbfAtxofLR6gXQ1mkHfAoU94_ux2d",
+                  "name": "ĐÁN ÁN BÀI 15.pdf",
+                  "mimeType": "application/pdf",
+                  "size": 202343,
+                  "webViewLink": "https://drive.google.com/file/d/16ccYbfAtxofLR6gXQ1mkHfAoU94_ux2d/view?usp=drivesdk",
+                  "modifiedTime": "2026-05-12T08:22:10.514Z",
+                  "videoMediaMetadata": null
+                },
+                {
+                  "id": "1e1ipV63b0TZBtiAwIj1hGOB6QN3SLIIc",
+                  "name": "ĐÁN ÁN BÀI 16.pdf",
+                  "mimeType": "application/pdf",
+                  "size": 218715,
+                  "webViewLink": "https://drive.google.com/file/d/1e1ipV63b0TZBtiAwIj1hGOB6QN3SLIIc/view?usp=drivesdk",
+                  "modifiedTime": "2026-05-12T08:22:18.615Z",
+                  "videoMediaMetadata": null
+                },
+                {
+                  "id": "1D0kDOYFEZ9YDWVdgv3xVHRkNpjTbBtPZ",
+                  "name": "ĐÁN ÁN BÀI 17.pdf",
+                  "mimeType": "application/pdf",
+                  "size": 201753,
+                  "webViewLink": "https://drive.google.com/file/d/1D0kDOYFEZ9YDWVdgv3xVHRkNpjTbBtPZ/view?usp=drivesdk",
+                  "modifiedTime": "2026-05-12T08:22:15.042Z",
+                  "videoMediaMetadata": null
+                },
+                {
+                  "id": "1iTbfF-ouZ16GSbmAtqgD56fKUeLZTXBQ",
+                  "name": "ĐÁN ÁN BÀI 6.pdf",
+                  "mimeType": "application/pdf",
+                  "size": 198300,
+                  "webViewLink": "https://drive.google.com/file/d/1iTbfF-ouZ16GSbmAtqgD56fKUeLZTXBQ/view?usp=drivesdk",
+                  "modifiedTime": "2026-05-12T08:22:11.868Z",
+                  "videoMediaMetadata": null
+                },
+                {
+                  "id": "1rMCJYfGbuwwIDh01TlwQNNhHwioLLWPC",
+                  "name": "ĐÁN ÁN BÀI 7.pdf",
+                  "mimeType": "application/pdf",
+                  "size": 201026,
+                  "webViewLink": "https://drive.google.com/file/d/1rMCJYfGbuwwIDh01TlwQNNhHwioLLWPC/view?usp=drivesdk",
+                  "modifiedTime": "2026-05-12T08:22:20.295Z",
+                  "videoMediaMetadata": null
+                },
+                {
+                  "id": "1iJPLgKt_KrcmvCmUTiYT_Nn2RxcBp_2j",
+                  "name": "ĐÁN ÁN BÀI 8.pdf",
+                  "mimeType": "application/pdf",
+                  "size": 202248,
+                  "webViewLink": "https://drive.google.com/file/d/1iJPLgKt_KrcmvCmUTiYT_Nn2RxcBp_2j/view?usp=drivesdk",
+                  "modifiedTime": "2026-05-12T08:22:16.793Z",
+                  "videoMediaMetadata": null
+                },
+                {
+                  "id": "1wq25GqJ8UiwfkkKew6DhXZ5L_pMb40wC",
+                  "name": "ĐÁN ÁN BÀI 9.pdf",
+                  "mimeType": "application/pdf",
+                  "size": 204061,
+                  "webViewLink": "https://drive.google.com/file/d/1wq25GqJ8UiwfkkKew6DhXZ5L_pMb40wC/view?usp=drivesdk",
+                  "modifiedTime": "2026-05-12T08:22:21.976Z",
+                  "videoMediaMetadata": null
+                }
+              ]
+            },
+            {
+              "id": "1cPYet4l7IF6V0RQZo2z5n9DQG5FvDZcx",
+              "name": "1. Bài 1 Liên hợp quốc",
+              "webViewLink": "https://drive.google.com/drive/folders/1cPYet4l7IF6V0RQZo2z5n9DQG5FvDZcx",
+              "modifiedTime": "2026-05-10T05:20:54.720Z",
+              "children": [],
+              "files": [
+                {
+                  "id": "1VxLaS7ZLRvtGu8IgV4AueeDj86le-Fti",
+                  "name": "Bài 1 Liên hợp quốc.mp4",
+                  "mimeType": "video/mp4",
+                  "size": 159619241,
+                  "webViewLink": "https://drive.google.com/file/d/1VxLaS7ZLRvtGu8IgV4AueeDj86le-Fti/view?usp=drivesdk",
+                  "modifiedTime": "2026-05-10T08:11:43.592Z",
+                  "videoMediaMetadata": {
+                    "width": 1920,
+                    "height": 1080,
+                    "durationMillis": "2507733"
+                  }
+                }
+              ]
+            },
+            {
+              "id": "1tSIxFb4wIxEaJjuYfDkn3ugWcuRy22J4",
+              "name": "2. Chữa đề luyện bài 1",
+              "webViewLink": "https://drive.google.com/drive/folders/1tSIxFb4wIxEaJjuYfDkn3ugWcuRy22J4",
+              "modifiedTime": "2026-05-10T05:20:48.427Z",
+              "children": [],
+              "files": [
+                {
+                  "id": "1wLfWhqFS8Q5069eQBusPxUX42MomZaSj",
+                  "name": "Chữa đề luyện bài 1.mp4",
+                  "mimeType": "video/mp4",
+                  "size": 185447341,
+                  "webViewLink": "https://drive.google.com/file/d/1wLfWhqFS8Q5069eQBusPxUX42MomZaSj/view?usp=drivesdk",
+                  "modifiedTime": "2026-05-10T07:55:22.709Z",
+                  "videoMediaMetadata": null
+                },
+                {
+                  "id": "1alxWhf3_T4T8alralGHJjMpxo7EOLLG1",
+                  "name": "ĐÁP ÁN ĐỀ LUYỆN BÀI 1.pdf",
+                  "mimeType": "application/pdf",
+                  "size": 188328,
+                  "webViewLink": "https://drive.google.com/file/d/1alxWhf3_T4T8alralGHJjMpxo7EOLLG1/view?usp=drivesdk",
+                  "modifiedTime": "2026-05-10T05:20:53.087Z",
+                  "videoMediaMetadata": null
+                },
+                {
+                  "id": "1njvHZCmzopWGB3lRhdDuJ-Q35smQr7_M",
+                  "name": "Đề 1.pdf",
+                  "mimeType": "application/pdf",
+                  "size": 770733,
+                  "webViewLink": "https://drive.google.com/file/d/1njvHZCmzopWGB3lRhdDuJ-Q35smQr7_M/view?usp=drivesdk",
+                  "modifiedTime": "2026-05-27T08:35:14.086Z",
+                  "videoMediaMetadata": null
+                }
+              ]
+            },
+            {
+              "id": "1BzBvdUs-neDlepTKUyX-9l4yBIzLAPTk",
+              "name": "3. Bài 2 Trật tự thế giới trong chiến tranh lạnh P1",
+              "webViewLink": "https://drive.google.com/drive/folders/1BzBvdUs-neDlepTKUyX-9l4yBIzLAPTk",
+              "modifiedTime": "2026-05-10T05:20:42.438Z",
+              "children": [],
+              "files": [
+                {
+                  "id": "11RwNPKfh5tliHTOtuQECE-LuTQcsMyTT",
+                  "name": "Bài 2 Trật tự thế giới trong chiến tranh lạnh P1.mp4",
+                  "mimeType": "video/mp4",
+                  "size": 64181035,
+                  "webViewLink": "https://drive.google.com/file/d/11RwNPKfh5tliHTOtuQECE-LuTQcsMyTT/view?usp=drivesdk",
+                  "modifiedTime": "2026-05-10T07:43:49.178Z",
+                  "videoMediaMetadata": null
+                }
+              ]
+            },
+            {
+              "id": "1c5FBqReTVTuh5qR6sl4Lm3_zLB_SZ7j7",
+              "name": "4. Bài 2 Trật tự thế giới trong chiến tranh lạnh P2",
+              "webViewLink": "https://drive.google.com/drive/folders/1c5FBqReTVTuh5qR6sl4Lm3_zLB_SZ7j7",
+              "modifiedTime": "2026-05-10T05:20:36.677Z",
+              "children": [],
+              "files": [
+                {
+                  "id": "1aDWlan2KvYqnUO4WrF9336-sH83D7QSW",
+                  "name": "Bài 2 Trật tự thế giới trong chiến tranh lạnh P2.mp4",
+                  "mimeType": "video/mp4",
+                  "size": 70598758,
+                  "webViewLink": "https://drive.google.com/file/d/1aDWlan2KvYqnUO4WrF9336-sH83D7QSW/view?usp=drivesdk",
+                  "modifiedTime": "2026-05-10T07:05:03.832Z",
+                  "videoMediaMetadata": null
+                }
+              ]
+            },
+            {
+              "id": "158h3O6v21f8b1XFUH3xPiYqin8EjEzxO",
+              "name": "5. Chữa đề luyện bài 2",
+              "webViewLink": "https://drive.google.com/drive/folders/158h3O6v21f8b1XFUH3xPiYqin8EjEzxO",
+              "modifiedTime": "2026-05-10T05:20:30.293Z",
+              "children": [],
+              "files": [
+                {
+                  "id": "1ddv7NdztIp7ivbxKvQRQTS3yw4w9MsXD",
+                  "name": "Chữa đề luyện bài 2.mp4",
+                  "mimeType": "video/mp4",
+                  "size": 197493060,
+                  "webViewLink": "https://drive.google.com/file/d/1ddv7NdztIp7ivbxKvQRQTS3yw4w9MsXD/view?usp=drivesdk",
+                  "modifiedTime": "2026-05-10T07:35:51.469Z",
+                  "videoMediaMetadata": null
+                },
+                {
+                  "id": "1DCcpxUFvAIctBw5nTslUVkyaYv5EOO8S",
+                  "name": "ĐÁP ÁN ĐỀ LUYỆN BÀI 2.pdf",
+                  "mimeType": "application/pdf",
+                  "size": 188911,
+                  "webViewLink": "https://drive.google.com/file/d/1DCcpxUFvAIctBw5nTslUVkyaYv5EOO8S/view?usp=drivesdk",
+                  "modifiedTime": "2026-05-10T05:20:34.994Z",
+                  "videoMediaMetadata": null
+                },
+                {
+                  "id": "1Le1z7vfslEBFbf2luuJnO_BM8BQjCUzI",
+                  "name": "Đề 2.pdf",
+                  "mimeType": "application/pdf",
+                  "size": 815381,
+                  "webViewLink": "https://drive.google.com/file/d/1Le1z7vfslEBFbf2luuJnO_BM8BQjCUzI/view?usp=drivesdk",
+                  "modifiedTime": "2026-05-27T08:35:13.227Z",
+                  "videoMediaMetadata": null
+                }
+              ]
+            },
+            {
+              "id": "1VzFSxc5hWQ5a-8cY-FijfXJeT0aG5bBe",
+              "name": "6. Bài 3 Trật tự thế giới sau chiến tranh lanh",
+              "webViewLink": "https://drive.google.com/drive/folders/1VzFSxc5hWQ5a-8cY-FijfXJeT0aG5bBe",
+              "modifiedTime": "2026-05-10T05:20:25.552Z",
+              "children": [],
+              "files": [
+                {
+                  "id": "1HmO8q1dhJnLTqCETJSA1joxtGhSylpOH",
+                  "name": "Bài 3 Trật tự thế giới sau chiến tranh lanh.mp4",
+                  "mimeType": "video/mp4",
+                  "size": 53067797,
+                  "webViewLink": "https://drive.google.com/file/d/1HmO8q1dhJnLTqCETJSA1joxtGhSylpOH/view?usp=drivesdk",
+                  "modifiedTime": "2026-05-10T07:02:55.454Z",
+                  "videoMediaMetadata": null
+                }
+              ]
+            },
+            {
+              "id": "1kbzXylxfb53W2RXs93CAinAqkzVxFrte",
+              "name": "7. Chữa đề luyện bài 3",
+              "webViewLink": "https://drive.google.com/drive/folders/1kbzXylxfb53W2RXs93CAinAqkzVxFrte",
+              "modifiedTime": "2026-05-10T05:20:19.034Z",
+              "children": [],
+              "files": [
+                {
+                  "id": "1sxtiHK4gTRbn_O-wIZKXslJMhxg6NnFF",
+                  "name": "Chữa đề luyện bài 3.mp4",
+                  "mimeType": "video/mp4",
+                  "size": 137718382,
+                  "webViewLink": "https://drive.google.com/file/d/1sxtiHK4gTRbn_O-wIZKXslJMhxg6NnFF/view?usp=drivesdk",
+                  "modifiedTime": "2026-05-10T07:14:30.676Z",
+                  "videoMediaMetadata": {
+                    "width": 1280,
+                    "height": 720,
+                    "durationMillis": "1563099"
+                  }
+                },
+                {
+                  "id": "14N_3kpgJrYxbjEFX7YUco7aFCPzM9OCT",
+                  "name": "ĐÁP ÁN ĐỀ LUYỆN BÀI 3.pdf",
+                  "mimeType": "application/pdf",
+                  "size": 189209,
+                  "webViewLink": "https://drive.google.com/file/d/14N_3kpgJrYxbjEFX7YUco7aFCPzM9OCT/view?usp=drivesdk",
+                  "modifiedTime": "2026-05-10T05:20:23.860Z",
+                  "videoMediaMetadata": null
+                },
+                {
+                  "id": "1GTTHoXgvreVEIhglFPcqpFa8kd9dqU2y",
+                  "name": "Đề 3.pdf",
+                  "mimeType": "application/pdf",
+                  "size": 768314,
+                  "webViewLink": "https://drive.google.com/file/d/1GTTHoXgvreVEIhglFPcqpFa8kd9dqU2y/view?usp=drivesdk",
+                  "modifiedTime": "2026-05-27T08:35:12.627Z",
+                  "videoMediaMetadata": null
+                }
+              ]
+            }
+          ],
+          "files": []
+        },
+        {
+          "id": "1XoohcYznhE6UKBgQBKKFIES_z_6Lbjx1",
+          "name": "2. CHỦ ĐỀ 2: ASEAN: NHỮNG CHẶNG ĐƯỜNG LỊCH SỬ\t\t\t",
+          "webViewLink": "https://drive.google.com/drive/folders/1XoohcYznhE6UKBgQBKKFIES_z_6Lbjx1",
+          "modifiedTime": "2026-05-10T04:48:44.654Z",
+          "children": [
+            {
+              "id": "18M1q9xuAOE6Z2MGBfqwzL_QpS0UwTP1N",
+              "name": "1. Bài 4 Sự ra đời và phát triển của hiệp hội các quốc gia ĐNA P1",
+              "webViewLink": "https://drive.google.com/drive/folders/18M1q9xuAOE6Z2MGBfqwzL_QpS0UwTP1N",
+              "modifiedTime": "2026-05-10T05:07:18.934Z",
+              "children": [],
+              "files": [
+                {
+                  "id": "1Jpj93RVhvKN24pX7s3d2IT8tJtn2td7k",
+                  "name": "Bài 4 Sự ra đời và phát triển của hiệp hội các quốc gia ĐNA P1.mp4",
+                  "mimeType": "video/mp4",
+                  "size": 40764377,
+                  "webViewLink": "https://drive.google.com/file/d/1Jpj93RVhvKN24pX7s3d2IT8tJtn2td7k/view?usp=drivesdk",
+                  "modifiedTime": "2026-05-10T06:52:06.615Z",
+                  "videoMediaMetadata": {
+                    "width": 1280,
+                    "height": 720,
+                    "durationMillis": "738066"
+                  }
+                }
+              ]
+            },
+            {
+              "id": "1Yyafz6psMkzFYMo-bZoF3IvfQx5jn1Hu",
+              "name": "2. Bài 4 Sự ra đời và phát triển của hiệp hội các quốc gia ĐNA P2",
+              "webViewLink": "https://drive.google.com/drive/folders/1Yyafz6psMkzFYMo-bZoF3IvfQx5jn1Hu",
+              "modifiedTime": "2026-05-10T05:20:12.959Z",
+              "children": [],
+              "files": [
+                {
+                  "id": "1CfpGIpXnhzZwb5_E7oSfqX1O76cLTqdl",
+                  "name": "Bài 4 Sự ra đời và phát triển của hiệp hội các quốc gia ĐNA P2.mp4",
+                  "mimeType": "video/mp4",
+                  "size": 71706810,
+                  "webViewLink": "https://drive.google.com/file/d/1CfpGIpXnhzZwb5_E7oSfqX1O76cLTqdl/view?usp=drivesdk",
+                  "modifiedTime": "2026-05-10T07:06:43.120Z",
+                  "videoMediaMetadata": {
+                    "width": 1280,
+                    "height": 720,
+                    "durationMillis": "1320033"
+                  }
+                }
+              ]
+            },
+            {
+              "id": "1qkfvYFpUrpiGIG1Tg_xvmYVax3sCtBUw",
+              "name": "3. CHỮA ĐỀ LUYỆN BÀI 4 P1",
+              "webViewLink": "https://drive.google.com/drive/folders/1qkfvYFpUrpiGIG1Tg_xvmYVax3sCtBUw",
+              "modifiedTime": "2026-05-10T05:06:41.676Z",
+              "children": [],
+              "files": [
+                {
+                  "id": "1Vu0mcHlRt_GuGufIvCYGbztqqhQ2_UPk",
+                  "name": "CHỮA ĐỀ LUYỆN BÀI 4 P1.mp4",
+                  "mimeType": "video/mp4",
+                  "size": 58137882,
+                  "webViewLink": "https://drive.google.com/file/d/1Vu0mcHlRt_GuGufIvCYGbztqqhQ2_UPk/view?usp=drivesdk",
+                  "modifiedTime": "2026-05-10T06:32:36.933Z",
+                  "videoMediaMetadata": {
+                    "width": 1280,
+                    "height": 720,
+                    "durationMillis": "866599"
+                  }
+                },
+                {
+                  "id": "1TEpf0eQbxaVMPm0Lzu7HfAf0m5RyE_C_",
+                  "name": "CHỮA ĐỀ LUYỆN BÀI 4 P1.pdf",
+                  "mimeType": "application/pdf",
+                  "size": 190192,
+                  "webViewLink": "https://drive.google.com/file/d/1TEpf0eQbxaVMPm0Lzu7HfAf0m5RyE_C_/view?usp=drivesdk",
+                  "modifiedTime": "2026-05-10T05:07:17.201Z",
+                  "videoMediaMetadata": null
+                },
+                {
+                  "id": "1Ie7VzUlIyzgYJDsWP8abPhhVwBGDINMt",
+                  "name": "Đề 4.pdf",
+                  "mimeType": "application/pdf",
+                  "size": 755547,
+                  "webViewLink": "https://drive.google.com/file/d/1Ie7VzUlIyzgYJDsWP8abPhhVwBGDINMt/view?usp=drivesdk",
+                  "modifiedTime": "2026-05-27T08:35:10.370Z",
+                  "videoMediaMetadata": null
+                }
+              ]
+            },
+            {
+              "id": "1RsQfBNYS5Djm3nGHdwmdnx-YIKpzm4hi",
+              "name": "4. CHỮA ĐỀ LUYỆN BÀI 4 P2",
+              "webViewLink": "https://drive.google.com/drive/folders/1RsQfBNYS5Djm3nGHdwmdnx-YIKpzm4hi",
+              "modifiedTime": "2026-05-10T05:00:18.189Z",
+              "children": [],
+              "files": [
+                {
+                  "id": "10G0g2dlEiSzj_yQV_tbP1wCNcEuLrjL3",
+                  "name": "CHỮA ĐỀ LUYỆN BÀI 4 P2.mp4",
+                  "mimeType": "video/mp4",
+                  "size": 87200573,
+                  "webViewLink": "https://drive.google.com/file/d/10G0g2dlEiSzj_yQV_tbP1wCNcEuLrjL3/view?usp=drivesdk",
+                  "modifiedTime": "2026-05-10T06:11:25.297Z",
+                  "videoMediaMetadata": {
+                    "width": 1280,
+                    "height": 720,
+                    "durationMillis": "1076499"
+                  }
+                }
+              ]
+            },
+            {
+              "id": "1Uwg9WIyP5Gpf14OzD-pjl0jIeqygqpA3",
+              "name": "5. Bài 5 Cộng đồng ASEAN từ ý tưởng đến hiện thưc",
+              "webViewLink": "https://drive.google.com/drive/folders/1Uwg9WIyP5Gpf14OzD-pjl0jIeqygqpA3",
+              "modifiedTime": "2026-05-10T05:00:02.987Z",
+              "children": [],
+              "files": [
+                {
+                  "id": "1jmv9KtKVCSMrDkx8-eUBwr-9_JxNE3A-",
+                  "name": "Bài 5 Cộng đồng ASEAN từ ý tưởng đến hiện thưc.mp4",
+                  "mimeType": "video/mp4",
+                  "size": 71027256,
+                  "webViewLink": "https://drive.google.com/file/d/1jmv9KtKVCSMrDkx8-eUBwr-9_JxNE3A-/view?usp=drivesdk",
+                  "modifiedTime": "2026-05-10T06:01:40.331Z",
+                  "videoMediaMetadata": {
+                    "width": 1280,
+                    "height": 720,
+                    "durationMillis": "1193933"
+                  }
+                }
+              ]
+            },
+            {
+              "id": "1PY_fKhNngxPTkZvef-BY2i8yWwGc_LF1",
+              "name": "6. CHỮA ĐỀ LUYỆN BÀI 5",
+              "webViewLink": "https://drive.google.com/drive/folders/1PY_fKhNngxPTkZvef-BY2i8yWwGc_LF1",
+              "modifiedTime": "2026-05-10T04:48:46.168Z",
+              "children": [],
+              "files": [
+                {
+                  "id": "1_BXNTanX172_nm39rZOF4yam0cxl9nRe",
+                  "name": "CHỮA ĐỀ LUYỆN BÀI 5.mp4",
+                  "mimeType": "video/mp4",
+                  "size": 108465645,
+                  "webViewLink": "https://drive.google.com/file/d/1_BXNTanX172_nm39rZOF4yam0cxl9nRe/view?usp=drivesdk",
+                  "modifiedTime": "2026-05-10T05:36:53.880Z",
+                  "videoMediaMetadata": null
+                },
+                {
+                  "id": "1XNQZ1CLcXXSZwfPH9PhNmYinpPOOtvPh",
+                  "name": "CHỮA ĐỀ LUYỆN BÀI 5.pdf",
+                  "mimeType": "application/pdf",
+                  "size": 216604,
+                  "webViewLink": "https://drive.google.com/file/d/1XNQZ1CLcXXSZwfPH9PhNmYinpPOOtvPh/view?usp=drivesdk",
+                  "modifiedTime": "2026-05-10T05:00:01.198Z",
+                  "videoMediaMetadata": null
+                },
+                {
+                  "id": "1YnjaqC_YLU_LbYD4hXmCAorolrEpP28t",
+                  "name": "Đề 5.pdf",
+                  "mimeType": "application/pdf",
+                  "size": 745771,
+                  "webViewLink": "https://drive.google.com/file/d/1YnjaqC_YLU_LbYD4hXmCAorolrEpP28t/view?usp=drivesdk",
+                  "modifiedTime": "2026-05-27T08:35:09.575Z",
+                  "videoMediaMetadata": null
+                }
+              ]
+            }
+          ],
+          "files": []
+        },
+        {
+          "id": "1vCHgwHEKZFnjJCiXeeTXTeYNSy3E9gV3",
+          "name": "3. CHỦ ĐỀ 3: VIỆT NAM 1945-1975\t\t\t",
+          "webViewLink": "https://drive.google.com/drive/folders/1vCHgwHEKZFnjJCiXeeTXTeYNSy3E9gV3",
+          "modifiedTime": "2026-05-10T07:29:15.783Z",
+          "children": [
+            {
+              "id": "1mbwER3waW6GGh4FG6K2yq3Hz3msadrLK",
+              "name": "1. BÀI 6 CMT8 - 1945 P1",
+              "webViewLink": "https://drive.google.com/drive/folders/1mbwER3waW6GGh4FG6K2yq3Hz3msadrLK",
+              "modifiedTime": "2026-05-10T07:29:16.689Z",
+              "children": [],
+              "files": [
+                {
+                  "id": "11tlBsRa2LIdCQJ4cSMgEOZL-lybW7JTW",
+                  "name": "BÀI 6 CMT8 - 1945 P1.mp4",
+                  "mimeType": "video/mp4",
+                  "size": 73168842,
+                  "webViewLink": "https://drive.google.com/file/d/11tlBsRa2LIdCQJ4cSMgEOZL-lybW7JTW/view?usp=drivesdk",
+                  "modifiedTime": "2026-05-10T09:18:31.324Z",
+                  "videoMediaMetadata": {
+                    "width": 1280,
+                    "height": 720,
+                    "durationMillis": "1421066"
+                  }
+                }
+              ]
+            },
+            {
+              "id": "14ZaFCDnn4Fz-QfD-HAsnp0-23In2FirY",
+              "name": "2. BÀI 6 CMT8 - 1945 P2",
+              "webViewLink": "https://drive.google.com/drive/folders/14ZaFCDnn4Fz-QfD-HAsnp0-23In2FirY",
+              "modifiedTime": "2026-05-10T07:29:18.327Z",
+              "children": [],
+              "files": [
+                {
+                  "id": "19zt3BMpCwNYnZxsqS-QMMW-fz9hNKtcY",
+                  "name": "BÀI 6 CMT8 - 1945 P2.mp4",
+                  "mimeType": "video/mp4",
+                  "size": 59955544,
+                  "webViewLink": "https://drive.google.com/file/d/19zt3BMpCwNYnZxsqS-QMMW-fz9hNKtcY/view?usp=drivesdk",
+                  "modifiedTime": "2026-05-10T09:45:09.378Z",
+                  "videoMediaMetadata": null
+                }
+              ]
+            },
+            {
+              "id": "1RSFilSRYyZhsBRhQtNlICF05aQJIS97s",
+              "name": "3. CHỮA ĐỀ LUYỆN BÀI 6",
+              "webViewLink": "https://drive.google.com/drive/folders/1RSFilSRYyZhsBRhQtNlICF05aQJIS97s",
+              "modifiedTime": "2026-05-10T07:29:17.522Z",
+              "children": [],
+              "files": [
+                {
+                  "id": "16W3l9IM4FZTWRClTTQV1JoR_jjA9o1VY",
+                  "name": "CHỮA ĐỀ LUYỆN BÀI 6.mp4",
+                  "mimeType": "video/mp4",
+                  "size": 142677415,
+                  "webViewLink": "https://drive.google.com/file/d/16W3l9IM4FZTWRClTTQV1JoR_jjA9o1VY/view?usp=drivesdk",
+                  "modifiedTime": "2026-05-10T09:28:35.143Z",
+                  "videoMediaMetadata": {
+                    "width": 1280,
+                    "height": 720,
+                    "durationMillis": "1897866"
+                  }
+                },
+                {
+                  "id": "1ommClescX5FWVFV134NRGx9i-PrDgXMQ",
+                  "name": "ĐÁN ÁN BÀI 6.pdf",
+                  "mimeType": "application/pdf",
+                  "size": 198300,
+                  "webViewLink": "https://drive.google.com/file/d/1ommClescX5FWVFV134NRGx9i-PrDgXMQ/view?usp=drivesdk",
+                  "modifiedTime": "2026-05-12T08:21:41.407Z",
+                  "videoMediaMetadata": null
+                },
+                {
+                  "id": "1Bg0xGK6VlBrCDYxCxpg64dKbqdd9npXT",
+                  "name": "Đề 6.pdf",
+                  "mimeType": "application/pdf",
+                  "size": 719499,
+                  "webViewLink": "https://drive.google.com/file/d/1Bg0xGK6VlBrCDYxCxpg64dKbqdd9npXT/view?usp=drivesdk",
+                  "modifiedTime": "2026-05-27T08:35:07.925Z",
+                  "videoMediaMetadata": null
+                }
+              ]
+            },
+            {
+              "id": "1Fwlo7B4d_JmEsKo__7fY72BzKOOCoMR9",
+              "name": "4. Bài 7: Cuộc kháng chiến chống thực dân pháp (1945 - 1954) Phần 1",
+              "webViewLink": "https://drive.google.com/drive/folders/1Fwlo7B4d_JmEsKo__7fY72BzKOOCoMR9",
+              "modifiedTime": "2026-05-19T09:14:35.857Z",
+              "children": [],
+              "files": [
+                {
+                  "id": "1E7fLr2vhfgAISYZH3O5h-J5UeE5d-t-X",
+                  "name": "Bài 7 Cuộc kháng chiến chống thực dân pháp 1945 - 1954 Phần 1.mp4",
+                  "mimeType": "video/mp4",
+                  "size": 59383500,
+                  "webViewLink": "https://drive.google.com/file/d/1E7fLr2vhfgAISYZH3O5h-J5UeE5d-t-X/view?usp=drivesdk",
+                  "modifiedTime": "2026-05-19T09:14:48.636Z",
+                  "videoMediaMetadata": null
+                },
+                {
+                  "id": "1sSezK3wCvCputvISwyiFjfVIZ5MGt7x1",
+                  "name": "Bài 7 Cuộc kháng chiến chống thực dân pháp 1945 - 1954 Phần 1.mp4",
+                  "mimeType": "video/mp4",
+                  "size": 59383500,
+                  "webViewLink": "https://drive.google.com/file/d/1sSezK3wCvCputvISwyiFjfVIZ5MGt7x1/view?usp=drivesdk",
+                  "modifiedTime": "2026-05-19T09:14:45.941Z",
+                  "videoMediaMetadata": null
+                }
+              ]
+            },
+            {
+              "id": "1qC8m_l6IgWdGQxUqA_TXOt6f676YqE7T",
+              "name": "5. Bài 7: Cuộc kháng chiến chống thực dân pháp (1945 - 1954) Phần 2",
+              "webViewLink": "https://drive.google.com/drive/folders/1qC8m_l6IgWdGQxUqA_TXOt6f676YqE7T",
+              "modifiedTime": "2026-05-19T09:14:22.081Z",
+              "children": [],
+              "files": [
+                {
+                  "id": "10Ucwqv1HmDhhmclj9szFlKfAwZ0Jd9xo",
+                  "name": "Bài 7 Cuộc kháng chiến chống thực dân pháp 1945 - 1954 Phần 2.mp4",
+                  "mimeType": "video/mp4",
+                  "size": 107643197,
+                  "webViewLink": "https://drive.google.com/file/d/10Ucwqv1HmDhhmclj9szFlKfAwZ0Jd9xo/view?usp=drivesdk",
+                  "modifiedTime": "2026-05-19T09:14:33.486Z",
+                  "videoMediaMetadata": {
+                    "width": 1280,
+                    "height": 720,
+                    "durationMillis": "1970833"
+                  }
+                }
+              ]
+            },
+            {
+              "id": "1CfyFw8U2Kh1hkhNdoYx42qB-nfTqodsY",
+              "name": "6. Bài 7: Cuộc kháng chiến chống thực dân pháp (1945 - 1954) Phần 3",
+              "webViewLink": "https://drive.google.com/drive/folders/1CfyFw8U2Kh1hkhNdoYx42qB-nfTqodsY",
+              "modifiedTime": "2026-05-25T08:51:59.162Z",
+              "children": [],
+              "files": [
+                {
+                  "id": "1ohkgrq4BBLOB0WpXPoZBF0N8oTB4Vlsc",
+                  "name": "Bài 7 Cuộc kháng chiến chống thực dân pháp 1945 - 1954 Phần 3.mp4",
+                  "mimeType": "video/mp4",
+                  "size": 108135637,
+                  "webViewLink": "https://drive.google.com/file/d/1ohkgrq4BBLOB0WpXPoZBF0N8oTB4Vlsc/view?usp=drivesdk",
+                  "modifiedTime": "2026-05-26T12:37:02.331Z",
+                  "videoMediaMetadata": null
+                }
+              ]
+            },
+            {
+              "id": "1R-iM8TqeTZjnknh3gYp6jyOCA2-7zETH",
+              "name": "7. Bài 7: Cuộc kháng chiến chống thực dân pháp (1945 - 1954) Phần 4",
+              "webViewLink": "https://drive.google.com/drive/folders/1R-iM8TqeTZjnknh3gYp6jyOCA2-7zETH",
+              "modifiedTime": "2026-05-25T08:51:56.657Z",
+              "children": [],
+              "files": [
+                {
+                  "id": "1Uv9uUjGu-tyo-BrZQ8m57DbFOT_WghBI",
+                  "name": "Bài 7 Cuộc kháng chiến chống thực dân pháp 1945 - 1954 Phần 4.mp4",
+                  "mimeType": "video/mp4",
+                  "size": 74334194,
+                  "webViewLink": "https://drive.google.com/file/d/1Uv9uUjGu-tyo-BrZQ8m57DbFOT_WghBI/view?usp=drivesdk",
+                  "modifiedTime": "2026-05-26T12:36:51.027Z",
+                  "videoMediaMetadata": null
+                }
+              ]
+            },
+            {
+              "id": "12RZg7_DAZu8Sr-2f9l3p42_FDd_9h2C9",
+              "name": "8. Bài 7: Cuộc kháng chiến chống thực dân pháp (1945 - 1954) Phần 5",
+              "webViewLink": "https://drive.google.com/drive/folders/12RZg7_DAZu8Sr-2f9l3p42_FDd_9h2C9",
+              "modifiedTime": "2026-05-25T08:51:54.850Z",
+              "children": [],
+              "files": [
+                {
+                  "id": "1mX3pjQbZ_cpwjNOPQtlrvjCjTl7zYNQs",
+                  "name": "Bài 7 Cuộc kháng chiến chống thực dân pháp 1945 - 1954 Phần 5.mp4",
+                  "mimeType": "video/mp4",
+                  "size": 69557276,
+                  "webViewLink": "https://drive.google.com/file/d/1mX3pjQbZ_cpwjNOPQtlrvjCjTl7zYNQs/view?usp=drivesdk",
+                  "modifiedTime": "2026-05-26T12:36:39.245Z",
+                  "videoMediaMetadata": null
+                }
+              ]
+            },
+            {
+              "id": "1Jn1K8D_NZN6GTkAuTF8yaPMpuSZ7HfRB",
+              "name": "9. CHỮA ĐỀ LUYỆN BÀI 7",
+              "webViewLink": "https://drive.google.com/drive/folders/1Jn1K8D_NZN6GTkAuTF8yaPMpuSZ7HfRB",
+              "modifiedTime": "2026-05-27T08:35:03.114Z",
+              "children": [],
+              "files": [
+                {
+                  "id": "16MeoyHNgBnlnYt3n6R9IXSsLnj-yFrij",
+                  "name": "Đề 7.pdf",
+                  "mimeType": "application/pdf",
+                  "size": 738776,
+                  "webViewLink": "https://drive.google.com/file/d/16MeoyHNgBnlnYt3n6R9IXSsLnj-yFrij/view?usp=drivesdk",
+                  "modifiedTime": "2026-05-27T08:35:04.912Z",
+                  "videoMediaMetadata": null
+                }
+              ]
+            }
+          ],
+          "files": []
+        }
+      ],
+      "files": [],
+      "webViewLink": "https://drive.google.com/drive/folders/1S_734flngEoJ-NLQXvsn5cRqCAfNJiPc",
+      "modifiedTime": "2026-04-19T03:39:38.124Z"
+    },
+    {
+      "id": "161Gz8wITvyLUyyN_RCqM1hXgoQZLWZHJ",
+      "name": "2. LIVE C - Luyện Thi Chuyên Đề - Sử 12 2K9 - NHS",
+      "children": [],
+      "files": [],
+      "webViewLink": "https://drive.google.com/drive/folders/161Gz8wITvyLUyyN_RCqM1hXgoQZLWZHJ",
+      "modifiedTime": "2026-04-19T03:39:37.310Z"
+    },
+    {
+      "id": "1cz1ffpY4FKlfQXfkJpLxsIxDyqvtK6BV",
+      "name": "3. LIVE T - Luyện đề - Lịch sử 12 2K9 - NHS",
+      "children": [],
+      "files": [],
+      "webViewLink": "https://drive.google.com/drive/folders/1cz1ffpY4FKlfQXfkJpLxsIxDyqvtK6BV",
+      "modifiedTime": "2026-04-19T03:39:36.556Z"
+    },
+    {
+      "id": "1dmDCzV4AHdYRVUNWl-5-w-Tis27KwBbX",
+      "name": "4. LIVE G - Tổng ôn - Lịch sử 12 2K9 - NHS",
+      "children": [],
+      "files": [],
+      "webViewLink": "https://drive.google.com/drive/folders/1dmDCzV4AHdYRVUNWl-5-w-Tis27KwBbX",
+      "modifiedTime": "2026-04-19T03:39:35.693Z"
+    },
+    {
+      "id": "17ZNf90Ubls_DBmwH8THkEyksAJaEEGbo",
+      "name": "Z. EBOOK SÁCH KÈM KHOÁ HỌC",
+      "children": [],
+      "files": [],
+      "webViewLink": "https://drive.google.com/drive/folders/17ZNf90Ubls_DBmwH8THkEyksAJaEEGbo",
+      "modifiedTime": "2026-04-19T03:39:39.608Z"
+    }
+  ]
+}

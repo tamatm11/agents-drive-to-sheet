@@ -1,0 +1,400 @@
+{
+  "teacherId": "1eHY2ghgywGyzxymmnhtQhnXgREPoAO7A",
+  "tabs": {
+    "1lBd3xv7jkAtGvv1JOB49pNISPejMJwqI": {
+      "tabName": "Khóa T",
+      "renderedAt": "2026-05-31T04:07:46.127Z",
+      "checksum": "1lBd3xv7jkAtGvv1JOB49pNISPejMJwqI|2026-05-24T07:46:37.686Z|70",
+      "lessons": [
+        {
+          "id": "1nqGfR0F_i9wWH76DhoVnyD6BfQ_XuSY3::buoi:3",
+          "name": "[LIVE] BUỔI 3-CHỮA BÀI TẬP TỰ LUẬN ESTER (SÁCH HÀNH TRÌNH CPHHC)",
+          "parentName": "1. CHƯƠNG 1-ESTER-LIPID-CHẤT GIẶT RỬA\t\t\t\t\t",
+          "checksum": "2026-04-17T14:00:16.139Z|1|3090b88455bd",
+          "virtual": true
+        },
+        {
+          "id": "1nqGfR0F_i9wWH76DhoVnyD6BfQ_XuSY3::file:1_g5IM5QN5ui4wWM9bAnXuofhwlrPji-Y",
+          "name": "--[VIDEO] CHỮA BÀI TẬP TRẢ LỜI NGẮN ESTER (SÁCH HTCPHHC trang 31-42)--",
+          "parentName": "1. CHƯƠNG 1-ESTER-LIPID-CHẤT GIẶT RỬA\t\t\t\t\t",
+          "checksum": "2026-04-17T13:59:57.930Z|1|4307632a6d17",
+          "virtual": true
+        },
+        {
+          "id": "1nqGfR0F_i9wWH76DhoVnyD6BfQ_XuSY3::file:11G9yrjdNP1bZbvP8k6nomVQ0neGYVmZg",
+          "name": "[LIVE] CHỮA BÀI TẬP TRẮC NGHIỆM-ĐÚNG SAI ESTER (SÁCH HTCPHHC)",
+          "parentName": "1. CHƯƠNG 1-ESTER-LIPID-CHẤT GIẶT RỬA\t\t\t\t\t",
+          "checksum": "2026-04-17T14:00:09.667Z|1|99f0b99e534b",
+          "virtual": true
+        },
+        {
+          "id": "1nqGfR0F_i9wWH76DhoVnyD6BfQ_XuSY3::file:15rjLCpkLTTQQty0WqJbPPGG1d3zWFVN5",
+          "name": "(TỜ 01-SÁCH HTCPHHC) CHƯƠNG 1-ESTER LIPID-CĐ1-ESTER-(BÀI TẬP TỰ LUẬN)-VIẾT TAY",
+          "parentName": "1. CHƯƠNG 1-ESTER-LIPID-CHẤT GIẶT RỬA\t\t\t\t\t",
+          "checksum": "2026-04-17T14:00:12.995Z|1|5b104d9c9471",
+          "virtual": true
+        },
+        {
+          "id": "1nqGfR0F_i9wWH76DhoVnyD6BfQ_XuSY3::file:1aEYb2dplB-Mz5lrRPz06A69dCMQAbja8",
+          "name": "(TỜ 01-SÁCH HTCPHHC) CHƯƠNG 1-ESTER LIPID-CĐ1-ESTER-(BÀI TẬP TRẢ LỜI NGẮN)-VIẾT TAY",
+          "parentName": "1. CHƯƠNG 1-ESTER-LIPID-CHẤT GIẶT RỬA\t\t\t\t\t",
+          "checksum": "2026-04-17T13:59:56.394Z|1|66e086338b21",
+          "virtual": true
+        },
+        {
+          "id": "1nqGfR0F_i9wWH76DhoVnyD6BfQ_XuSY3::file:1ALOOUeD72WFtXIbCN61KJZT5WjPINMSn",
+          "name": "(TỜ 01-CĐ2 LIPID-CHẤT BÉO-BT ĐÚNG SAI-TRẢ LỜI NGẮN-SÁCH HTCPHHC) CHƯƠNG 1-ESTER LIPID-VIẾT TAY",
+          "parentName": "1. CHƯƠNG 1-ESTER-LIPID-CHẤT GIẶT RỬA\t\t\t\t\t",
+          "checksum": "2026-04-29T13:57:44.814Z|1|994451d968ea",
+          "virtual": true
+        },
+        {
+          "id": "1nqGfR0F_i9wWH76DhoVnyD6BfQ_XuSY3::file:1Az20CWtRBLA07aYd-4FroZ-7RofSxEAF",
+          "name": "(TỜ 6.2) BÀI TẬP THỰC TẾ, ĐIỀU CHẾ-SẢN XUẤT ESTER SỐ 02-ĐỀ",
+          "parentName": "1. CHƯƠNG 1-ESTER-LIPID-CHẤT GIẶT RỬA\t\t\t\t\t",
+          "checksum": "2026-04-17T13:59:42.706Z|1|6ca86be1b5a7",
+          "virtual": true
+        },
+        {
+          "id": "1nqGfR0F_i9wWH76DhoVnyD6BfQ_XuSY3::file:1DS1Uh0Nm3J_JzDaze7NnjTqxJ9Hz_ivg",
+          "name": "(TỜ 09) BÀI TẬP SƠ ĐỒ BIẾN HÓA LIÊN QUAN ĐẾN ESTER-ĐỀ",
+          "parentName": "1. CHƯƠNG 1-ESTER-LIPID-CHẤT GIẶT RỬA\t\t\t\t\t",
+          "checksum": "2026-05-11T08:29:57.776Z|1|3556b09e6455",
+          "virtual": true
+        },
+        {
+          "id": "1nqGfR0F_i9wWH76DhoVnyD6BfQ_XuSY3::file:1EbmwJklj59NcrtnP2iJeu5BKxA9x5FRe",
+          "name": "(TỜ 6.3) BÀI TẬP THỰC TẾ, ĐIỀU CHẾ-SẢN XUẤT ESTER SỐ 03-VIẾT TAY",
+          "parentName": "1. CHƯƠNG 1-ESTER-LIPID-CHẤT GIẶT RỬA\t\t\t\t\t",
+          "checksum": "2026-04-29T13:57:58.985Z|1|5338a12bcd27",
+          "virtual": true
+        },
+        {
+          "id": "1nqGfR0F_i9wWH76DhoVnyD6BfQ_XuSY3::file:1F_FA2yOo-uR_iPeJC5PV6GS5ehrdwwu1",
+          "name": "(TỜ 01-CĐ3-XÀ PHÒNG CHẤT GIẶT RỬA-SÁCH HTCPHHC) CHƯƠNG 1-ESTER LIPID-VIẾT TAY",
+          "parentName": "1. CHƯƠNG 1-ESTER-LIPID-CHẤT GIẶT RỬA\t\t\t\t\t",
+          "checksum": "2026-05-11T08:29:54.484Z|1|04fc7fec6427",
+          "virtual": true
+        },
+        {
+          "id": "1nqGfR0F_i9wWH76DhoVnyD6BfQ_XuSY3::file:1hx0fIvPybVCOljiwgvUIYBGkrgkQJ5IH",
+          "name": "Tài liệu in chương 1-Hóa 12",
+          "parentName": "1. CHƯƠNG 1-ESTER-LIPID-CHẤT GIẶT RỬA\t\t\t\t\t",
+          "checksum": "2026-04-17T14:00:30.433Z|1|4974a9415fb9",
+          "virtual": true
+        },
+        {
+          "id": "1nqGfR0F_i9wWH76DhoVnyD6BfQ_XuSY3::file:1i8_9G3EpngDC9SAPfCHM-71s4dfL9c5U",
+          "name": "BÀI TẬP VỀ CHỈ SỐ CỦA CHẤT BÉO-ĐỀ",
+          "parentName": "1. CHƯƠNG 1-ESTER-LIPID-CHẤT GIẶT RỬA\t\t\t\t\t",
+          "checksum": "2026-04-29T13:57:34.314Z|1|b953075eef0f",
+          "virtual": true
+        },
+        {
+          "id": "1nqGfR0F_i9wWH76DhoVnyD6BfQ_XuSY3::file:1Ji186eVqnCd68CJrlUUH6UZXIo2ZIux7",
+          "name": "(TỜ 01-CĐ2 LIPID-CHẤT BÉO-SÁCH HTCPHHC) CHƯƠNG 1-ESTER LIPID-ĐỀ",
+          "parentName": "1. CHƯƠNG 1-ESTER-LIPID-CHẤT GIẶT RỬA\t\t\t\t\t",
+          "checksum": "2026-04-29T13:57:42.135Z|1|705dfe885b6f",
+          "virtual": true
+        },
+        {
+          "id": "1nqGfR0F_i9wWH76DhoVnyD6BfQ_XuSY3::file:1jQX3GflrcI8-MMZLaAaRWNl1Fu3I6VOO",
+          "name": "(TỜ 01-CĐ2 LIPID-CHẤT BÉO-BT TỰ LUẬN-TRẮC NGHỆM-SÁCH HTCPHHC) CHƯƠNG 1-ESTER LIPID-VIẾT TAY",
+          "parentName": "1. CHƯƠNG 1-ESTER-LIPID-CHẤT GIẶT RỬA\t\t\t\t\t",
+          "checksum": "2026-04-29T13:57:46.839Z|1|c2e8549452c2",
+          "virtual": true
+        },
+        {
+          "id": "1nqGfR0F_i9wWH76DhoVnyD6BfQ_XuSY3::file:1lhc7VfAPFHuKW7deWGa64bdKnx5lseP0",
+          "name": "P2 BÀI TẬP THỰC TẾ, ĐIỀU CHẾ-SẢN XUẤT ESTER-VIẾT TAY",
+          "parentName": "1. CHƯƠNG 1-ESTER-LIPID-CHẤT GIẶT RỬA\t\t\t\t\t",
+          "checksum": "2026-04-17T13:59:38.562Z|1|7d190cfcea3f",
+          "virtual": true
+        },
+        {
+          "id": "1nqGfR0F_i9wWH76DhoVnyD6BfQ_XuSY3::file:1mf1mN5JaAYW3U0YsCe6a69Nat1iBT_Pa",
+          "name": "(TỜ 6.3) BÀI TẬP THỰC TẾ, ĐIỀU CHẾ-SẢN XUẤT ESTER SỐ 03-ĐỀ",
+          "parentName": "1. CHƯƠNG 1-ESTER-LIPID-CHẤT GIẶT RỬA\t\t\t\t\t",
+          "checksum": "2026-04-29T13:57:56.640Z|1|477fe7871707",
+          "virtual": true
+        },
+        {
+          "id": "1nqGfR0F_i9wWH76DhoVnyD6BfQ_XuSY3::file:1MGQnruftAc250fPvrsqSDVWiWs7ajvfg",
+          "name": "(TỜ 01-CĐ1 ESTER-SÁCH HTCPHHC) CHƯƠNG 1-ESTER LIPID-ĐỀ",
+          "parentName": "1. CHƯƠNG 1-ESTER-LIPID-CHẤT GIẶT RỬA\t\t\t\t\t",
+          "checksum": "2026-04-17T14:00:14.567Z|1|31b31ffc9d52",
+          "virtual": true
+        },
+        {
+          "id": "1nqGfR0F_i9wWH76DhoVnyD6BfQ_XuSY3::file:1O_hengpTEFAuYyu-EtrwvXlNDc_MosqH",
+          "name": "(TỜ 01-SÁCH HTCPHHC) CHƯƠNG 1-ESTER LIPID-CĐ1-ESTER-(BÀI TẬP TN-ĐÚNG SAI)-VIẾT TAY",
+          "parentName": "1. CHƯƠNG 1-ESTER-LIPID-CHẤT GIẶT RỬA\t\t\t\t\t",
+          "checksum": "2026-04-17T14:00:06.755Z|1|21b63f250336",
+          "virtual": true
+        },
+        {
+          "id": "1nqGfR0F_i9wWH76DhoVnyD6BfQ_XuSY3::file:1ps_fqd7T-iGN0rZwwUSDactgEPcpi3Bq",
+          "name": "[VIDEO] BÀI TẬP SƠ ĐỒ LIÊN QUAN ĐẾN ESTER (NÂNG CAO)-- - Facebook",
+          "parentName": "1. CHƯƠNG 1-ESTER-LIPID-CHẤT GIẶT RỬA\t\t\t\t\t",
+          "checksum": "2026-05-11T08:29:57.788Z|1|016d7db83e79",
+          "virtual": true
+        },
+        {
+          "id": "1nqGfR0F_i9wWH76DhoVnyD6BfQ_XuSY3::file:1Qcdb2lgJUE4JrxU3trbsKhDfECnCFr9o",
+          "name": "BÀI TẬP VỀ CHỈ SỐ CỦA CHẤT BÉO-Viết tay",
+          "parentName": "1. CHƯƠNG 1-ESTER-LIPID-CHẤT GIẶT RỬA\t\t\t\t\t",
+          "checksum": "2026-04-29T13:57:37.854Z|1|0da44176bc75",
+          "virtual": true
+        },
+        {
+          "id": "1nqGfR0F_i9wWH76DhoVnyD6BfQ_XuSY3::file:1r5rC1zIo7qV7V94q1YHsVyQdkCcayISb",
+          "name": "BÀI TẬP SƠ ĐỒ BIẾN HÓA LIÊN QUAN ĐẾN ESTER-VIẾT TAY",
+          "parentName": "1. CHƯƠNG 1-ESTER-LIPID-CHẤT GIẶT RỬA\t\t\t\t\t",
+          "checksum": "2026-05-11T08:29:57.783Z|1|873b8d2bd858",
+          "virtual": true
+        },
+        {
+          "id": "1nqGfR0F_i9wWH76DhoVnyD6BfQ_XuSY3::file:1TX5iwsiK0EbM9h3zfJDlehabx3vENepo",
+          "name": "--[VIDEO] BÀI TẬP THỰC TẾ ĐIỀU CHẾ ESTER PHẦN 1. --",
+          "parentName": "1. CHƯƠNG 1-ESTER-LIPID-CHẤT GIẶT RỬA\t\t\t\t\t",
+          "checksum": "2026-04-17T13:59:46.220Z|1|e085b27ec6f1",
+          "virtual": true
+        },
+        {
+          "id": "1nqGfR0F_i9wWH76DhoVnyD6BfQ_XuSY3::file:1U_558dXgk7MQPxf2xMGsY53s0jw9R1N9",
+          "name": "[LIVE] CHUYÊN ĐỀ 2-LIPID CHẤT BÉO-CHỮA BÀI TẬP ĐÚNG SAI VÀ TRẢ LỜI NGẮN",
+          "parentName": "1. CHƯƠNG 1-ESTER-LIPID-CHẤT GIẶT RỬA\t\t\t\t\t",
+          "checksum": "2026-04-29T13:57:51.630Z|1|a013a491a778",
+          "virtual": true
+        },
+        {
+          "id": "1nqGfR0F_i9wWH76DhoVnyD6BfQ_XuSY3::file:1UK5hENFvJjMsSAGJjLWiaBno4L-quahu",
+          "name": "--[VIDEO] BÀI TẬP THỰC TẾ ĐIỀU CHẾ ESTER PHẦN 2 VDC. --",
+          "parentName": "1. CHƯƠNG 1-ESTER-LIPID-CHẤT GIẶT RỬA\t\t\t\t\t",
+          "checksum": "2026-04-17T13:59:44.482Z|1|9129ae788e37",
+          "virtual": true
+        },
+        {
+          "id": "1nqGfR0F_i9wWH76DhoVnyD6BfQ_XuSY3::file:1W7wXTJnXZrbJzYUOXjH_RoIA7cCcOPG7",
+          "name": "(TỜ 6.1) BÀI TẬP THỰC TẾ ĐIỀU CHẾ ESTER PHẦN 1",
+          "parentName": "1. CHƯƠNG 1-ESTER-LIPID-CHẤT GIẶT RỬA\t\t\t\t\t",
+          "checksum": "2026-04-17T13:59:40.436Z|1|1621b211509b",
+          "virtual": true
+        },
+        {
+          "id": "1nqGfR0F_i9wWH76DhoVnyD6BfQ_XuSY3::file:1WcWGd0x7I97flWVqZovECHnlzkAATYtt",
+          "name": "P1 Bài tập thực tế điều chế ester-viết tay",
+          "parentName": "1. CHƯƠNG 1-ESTER-LIPID-CHẤT GIẶT RỬA\t\t\t\t\t",
+          "checksum": "2026-04-17T13:59:37.244Z|1|21b530980fe3",
+          "virtual": true
+        },
+        {
+          "id": "1nqGfR0F_i9wWH76DhoVnyD6BfQ_XuSY3::file:1wuYQg31BLZz-OVPF2o6JDL_4q5ahbL3n",
+          "name": "(TỜ 01-CĐ3-XÀ PHÒNG CHẤT GIẶT RỬA-SÁCH HTCPHHC) CHƯƠNG 1-ESTER LIPID-ĐỀ",
+          "parentName": "1. CHƯƠNG 1-ESTER-LIPID-CHẤT GIẶT RỬA\t\t\t\t\t",
+          "checksum": "2026-05-11T08:29:54.521Z|1|91fe911f7de7",
+          "virtual": true
+        },
+        {
+          "id": "1nqGfR0F_i9wWH76DhoVnyD6BfQ_XuSY3::file:1X0qHfUBe09Nz9Glrzz7Pz0NZDfzFlTbT",
+          "name": "[live] CHỮA BÀI TẬP CHUYÊN ĐỀ 3-XÀ PHÒNG CHẤT GIẶT RỬA (SÁCH HTCPHHC)",
+          "parentName": "1. CHƯƠNG 1-ESTER-LIPID-CHẤT GIẶT RỬA\t\t\t\t\t",
+          "checksum": "2026-05-11T08:29:54.469Z|1|053f9c128828",
+          "virtual": true
+        },
+        {
+          "id": "1nqGfR0F_i9wWH76DhoVnyD6BfQ_XuSY3::file:1YPFuLRd6eF5jS6E8xcWV3rzxSryhL252",
+          "name": "[LIVE] CHỮA BÀI TẬP TỰ LUẬN-TRẮC NGHIỆM CHẤT BÉO-LIPID",
+          "parentName": "1. CHƯƠNG 1-ESTER-LIPID-CHẤT GIẶT RỬA\t\t\t\t\t",
+          "checksum": "2026-04-29T13:57:49.064Z|1|779981c93be1",
+          "virtual": true
+        },
+        {
+          "id": "1nqGfR0F_i9wWH76DhoVnyD6BfQ_XuSY3::file:1ZaT56Ktq7EJWvmdVQkaqJmyWVg3O-ijW",
+          "name": "[LIVE] BÀI TẬP THỰC TẾ ĐIỀU CHẾ ESTER VD-VDC PHẦN 3",
+          "parentName": "1. CHƯƠNG 1-ESTER-LIPID-CHẤT GIẶT RỬA\t\t\t\t\t",
+          "checksum": "2026-04-29T13:58:01.518Z|1|8aa667074185",
+          "virtual": true
+        },
+        {
+          "id": "1vHAGyLi_PYvA_pARTlC-n8VDO0E038cW",
+          "name": "1. LÝ THUYẾT ESTER (Ưu tiên học lại)",
+          "parentName": "1. CHƯƠNG 1-ESTER-LIPID-CHẤT GIẶT RỬA\t\t\t\t\t",
+          "checksum": "2026-04-17T14:00:26.209Z|2",
+          "virtual": false
+        },
+        {
+          "id": "1veRlkS1BZ61dgPmtjHD7zIvC7fyWel7j",
+          "name": "2. 100 CÂU HỎI CHUYÊN BIỆT VỀ ESTER",
+          "parentName": "1. CHƯƠNG 1-ESTER-LIPID-CHẤT GIẶT RỬA\t\t\t\t\t",
+          "checksum": "2026-04-17T14:00:21.893Z|3",
+          "virtual": false
+        },
+        {
+          "id": "1ZTpeN7Zfii_-Jy_y7ttC4gk3J8v2rBkj",
+          "name": "5. CÁC PHẢN ỨNG QUAN TRỌNG VÀ BIỆN LUẬN ESTER ",
+          "parentName": "1. CHƯƠNG 1-ESTER-LIPID-CHẤT GIẶT RỬA\t\t\t\t\t",
+          "checksum": "2026-04-17T14:00:03.719Z|2",
+          "virtual": false
+        },
+        {
+          "id": "1RNbXC4Z8aJ6i5_27JpjJikN_-59Nj1Cx",
+          "name": "7. THÍ NGHIỆM THỦY PHÂN, ĐIỀU CHẾ ESTER VDC",
+          "parentName": "1. CHƯƠNG 1-ESTER-LIPID-CHẤT GIẶT RỬA\t\t\t\t\t",
+          "checksum": "2026-04-17T13:59:53.216Z|3",
+          "virtual": false
+        },
+        {
+          "id": "1ZTg2I3uejIeBCOX_3--PdPwTHqa6m_0w",
+          "name": "9. LÝ THUYẾT LIPID-CHẤT BÉO (Ưu tiên học lại)",
+          "parentName": "1. CHƯƠNG 1-ESTER-LIPID-CHẤT GIẶT RỬA\t\t\t\t\t",
+          "checksum": "2026-04-17T13:59:34.255Z|2",
+          "virtual": false
+        },
+        {
+          "id": "1t6h2i4zECifcD-0NGRDCK4c2bVE1LXp_",
+          "name": "13. LÝ THUYẾT XÀ PHÒNG-CHẤT GIẶT RỬA (Ưu tiên học lại)",
+          "parentName": "1. CHƯƠNG 1-ESTER-LIPID-CHẤT GIẶT RỬA\t\t\t\t\t",
+          "checksum": "2026-05-11T08:29:56.023Z|2",
+          "virtual": false
+        },
+        {
+          "id": "10S_rnC2wQ8yazCFu5Dt1_nLyMghSkq0B",
+          "name": "15. DẠNG TOÁN XÀ PHÒNG HÓA (SÁCH HTCPHC)",
+          "parentName": "1. CHƯƠNG 1-ESTER-LIPID-CHẤT GIẶT RỬA\t\t\t\t\t",
+          "checksum": "2026-05-11T08:29:52.661Z|2",
+          "virtual": false
+        },
+        {
+          "id": "11EBHn21R25W39zooV5APyCd80y8LGHC4",
+          "name": "16. DẠNG TOÁN ĐIỀU CHẾ ESTER (SÁCH HTCPHC)",
+          "parentName": "1. CHƯƠNG 1-ESTER-LIPID-CHẤT GIẶT RỬA\t\t\t\t\t",
+          "checksum": "2026-05-11T08:29:50.749Z|1",
+          "virtual": false
+        },
+        {
+          "id": "1Gdtd32Y9htmHcyJBLxSGg2e9Jg_59Esu",
+          "name": "17. 100 CÂU HỎI CHUYÊN BIỆT VỀ ESTER SỐ 02",
+          "parentName": "1. CHƯƠNG 1-ESTER-LIPID-CHẤT GIẶT RỬA\t\t\t\t\t",
+          "checksum": "2026-05-11T08:29:49.303Z|3",
+          "virtual": false
+        },
+        {
+          "id": "1sygBOrF1EuytxhX51u7YCpWI7mbsO2B0",
+          "name": "18. ĐIỀN ĐÁP ÁN NHANH CHỦ ĐỀ ESTER-LIPID",
+          "parentName": "1. CHƯƠNG 1-ESTER-LIPID-CHẤT GIẶT RỬA\t\t\t\t\t",
+          "checksum": "2026-05-18T01:27:10.908Z|2",
+          "virtual": false
+        },
+        {
+          "id": "1MbBxQtdGnU8V-bB34b-k0nxvh669lvWW",
+          "name": "19. ĐỀ LUYỆN TẬP ESTER SỐ 01 - 02",
+          "parentName": "1. CHƯƠNG 1-ESTER-LIPID-CHẤT GIẶT RỬA\t\t\t\t\t",
+          "checksum": "2026-05-18T01:27:01.511Z|4",
+          "virtual": false
+        },
+        {
+          "id": "1jBi2MwihUojTvRyGTaI5r4MCOtr6HCfa",
+          "name": "20. ĐỀ LUYỆN TẬP ESTER SỐ 03 - 04",
+          "parentName": "1. CHƯƠNG 1-ESTER-LIPID-CHẤT GIẶT RỬA\t\t\t\t\t",
+          "checksum": "2026-05-24T07:46:37.686Z|4",
+          "virtual": false
+        },
+        {
+          "id": "1DsJhU5VlntZe1bJ8lmsTE8GWHS7R9C7H",
+          "name": "21. HỌC LẠI TỪ ĐẦU BUỔI 1",
+          "parentName": "1. CHƯƠNG 1-ESTER-LIPID-CHẤT GIẶT RỬA\t\t\t\t\t",
+          "checksum": "2026-05-24T07:46:35.656Z|3",
+          "virtual": false
+        },
+        {
+          "id": "1IRCyaBGJwbn54Y6P87ymEE_bhsZHazTR::file:1BZ_52KikEdyYSbgHyQOE4FSiGE4QZxYF",
+          "name": "(TỜ 01-CĐ1-GLUCOSE VÀ FRUCTOSE) CHƯƠNG 2-CARBOHYDRATE-VIẾT TAY",
+          "parentName": "2. CHƯƠNG 2-CARBOHYDRATE\t\t\t\t\t",
+          "checksum": "2026-05-24T07:46:29.520Z|1|2821d8e3510a",
+          "virtual": true
+        },
+        {
+          "id": "1IRCyaBGJwbn54Y6P87ymEE_bhsZHazTR::file:1g5HiO59EL6emoQJNe8lRCgCGLpWWSo6r",
+          "name": "(TỜ 01-CĐ1-GLUCOSE VÀ FRUCTOSE) CHƯƠNG 2-CARBOHYDRATE-ĐỀ",
+          "parentName": "2. CHƯƠNG 2-CARBOHYDRATE\t\t\t\t\t",
+          "checksum": "2026-05-24T07:46:29.489Z|1|70a8e0c64db4",
+          "virtual": true
+        },
+        {
+          "id": "1IRCyaBGJwbn54Y6P87ymEE_bhsZHazTR::file:1IxzxHwDRtwgS7UT8yO3dD_B2PMTX_hoW",
+          "name": "[LIVE] CHƯƠNG 2-CHỮA BÀI TẬP CHUYÊN ĐỀ 1-GLUCOSE VÀ FRUCTOSE",
+          "parentName": "2. CHƯƠNG 2-CARBOHYDRATE\t\t\t\t\t",
+          "checksum": "2026-05-24T07:46:29.550Z|1|47c9366e388d",
+          "virtual": true
+        },
+        {
+          "id": "1TXAroJ99N_-D1AWZV4P5Q8eJlU66klex",
+          "name": "1. LÝ THUYẾT GLUCOSE-FRUCTOSE (Ưu tiên học lại)",
+          "parentName": "2. CHƯƠNG 2-CARBOHYDRATE\t\t\t\t\t",
+          "checksum": "2026-05-18T01:26:43.731Z|2",
+          "virtual": false
+        },
+        {
+          "id": "1q5dWqF_skNNUgmyjjVRg06rA4VKZ59rG",
+          "name": "3. LÝ THUYẾT SACCHAROSE-MALTOSE (Ưu tiên học lại)",
+          "parentName": "2. CHƯƠNG 2-CARBOHYDRATE\t\t\t\t\t",
+          "checksum": "2026-05-24T07:46:26.962Z|2",
+          "virtual": false
+        }
+      ],
+      "rendererVersion": "4.3.1",
+      "styleVersion": "2026-05-31-student-banner-no-meta-v2",
+      "runId": "no-meta-sync-2026-05-31-104541",
+      "spreadsheetId": "156r8TMBZbV3o459EmMi0UMpnYCQJ2YplXq0eRkDJygA",
+      "stats": {
+        "leafCount": 48,
+        "totalVideos": 22
+      }
+    },
+    "1Y4TATuCoM0oXWsn-t9T5BE8RzMAeFsGT": {
+      "tabName": "Khóa E",
+      "renderedAt": "2026-05-31T04:07:53.375Z",
+      "checksum": "1Y4TATuCoM0oXWsn-t9T5BE8RzMAeFsGT|2026-04-15T22:18:49.263Z|0",
+      "lessons": [],
+      "rendererVersion": "4.3.1",
+      "styleVersion": "2026-05-31-student-banner-no-meta-v2",
+      "runId": "no-meta-sync-2026-05-31-104541",
+      "spreadsheetId": "156r8TMBZbV3o459EmMi0UMpnYCQJ2YplXq0eRkDJygA",
+      "stats": {
+        "leafCount": 0,
+        "totalVideos": 0
+      }
+    },
+    "1mS60DNmNyxePK1M-la_rFnfG4tyNLlkL": {
+      "tabName": "Khóa S",
+      "renderedAt": "2026-05-31T04:08:00.552Z",
+      "checksum": "1mS60DNmNyxePK1M-la_rFnfG4tyNLlkL|2026-04-15T22:18:47.789Z|0",
+      "lessons": [],
+      "rendererVersion": "4.3.1",
+      "styleVersion": "2026-05-31-student-banner-no-meta-v2",
+      "runId": "no-meta-sync-2026-05-31-104541",
+      "spreadsheetId": "156r8TMBZbV3o459EmMi0UMpnYCQJ2YplXq0eRkDJygA",
+      "stats": {
+        "leafCount": 0,
+        "totalVideos": 0
+      }
+    },
+    "1alpC4woJRCwZmqIuLUttsIGa7ZtrpcaH": {
+      "tabName": "BONUS BỘ BÀI",
+      "renderedAt": "2026-05-31T04:08:07.638Z",
+      "checksum": "1alpC4woJRCwZmqIuLUttsIGa7ZtrpcaH|2026-04-15T22:18:46.941Z|0",
+      "lessons": [],
+      "rendererVersion": "4.3.1",
+      "styleVersion": "2026-05-31-student-banner-no-meta-v2",
+      "runId": "no-meta-sync-2026-05-31-104541",
+      "spreadsheetId": "156r8TMBZbV3o459EmMi0UMpnYCQJ2YplXq0eRkDJygA",
+      "stats": {
+        "leafCount": 0,
+        "totalVideos": 0
+      }
+    }
+  },
+  "updatedAt": "2026-05-31T04:08:07.638Z",
+  "version": 2
+}

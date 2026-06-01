@@ -1,0 +1,4 @@
+tabname-fix-sync-mcp2-2026-05-31-101348
+30360
+C:\Users\giaos\.claude\agents\tool\run-logs\tabname-fix-sync-mcp2-2026-05-31-101348.resume.stdout.log
+C:\Users\giaos\.claude\agents\tool\run-logs\tabname-fix-sync-mcp2-2026-05-31-101348.resume.stderr.log

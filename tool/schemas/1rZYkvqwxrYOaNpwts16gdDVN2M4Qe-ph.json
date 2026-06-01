@@ -1,0 +1,79 @@
+{
+  "updatedAt": "2026-05-28T12:18:35.698Z",
+  "teacher": {
+    "id": "1rZYkvqwxrYOaNpwts16gdDVN2M4Qe-ph",
+    "name": "4. VĂN THẦY PHẠM MINH NHẬT SANGSANG 2K9"
+  },
+  "schema": {
+    "levels": [
+      {
+        "depth": 0,
+        "label": "Chương / Chuyên đề",
+        "icon": "📖",
+        "bold": true,
+        "bg": "#FCE5C0",
+        "namePatternHint": "Cấp 1: vd '1. HƯỚNG DẪN VIẾT ĐOẠN VĂN 200 CHỮ BÌNH LUẬN,', '2. HƯỚNG DẪN VIẾT BÀI VĂN 600 CHỮ BÌNH LUẬN, ', '3. ĐẶC TRƯNG THỂ LOẠI', '4. Hướng dẫn viết bài văn NLXH\t\t\t', '5. Hướng dẫn viết mở bài - kết bài\t\t\t'"
+      }
+    ],
+    "leafFallback": {
+      "label": "Bài",
+      "icon": "📂",
+      "bold": true,
+      "bg": "#FCF1D4",
+      "note": "Một số khóa file nằm cấp nông hơn — render thẳng như leaf bài học."
+    },
+    "courseRow": {
+      "icon": "📚",
+      "bold": true,
+      "fontSize": 12,
+      "bg": "#D4E5FA"
+    },
+    "videoRow": {
+      "icon": "▸",
+      "indent": "extra-from-leaf"
+    },
+    "notes": "Auto-detect (1 cấp). 2/4 khóa có cấu trúc. Pattern: flat. Skip 2 folder meta. 16 file đã upload."
+  },
+  "_meta": {
+    "source": "auto-detect",
+    "version": 1,
+    "generated_at": "2026-05-28T12:18:35.698Z",
+    "confidence": "high",
+    "dominant_depth": 1,
+    "dominant_share": 1,
+    "patterns_observed": [
+      "flat"
+    ],
+    "meta_courses_skipped": [
+      "0. INFO THÔNG TIN VÀ HƯỚNG DẪN KHOÁ HỌC",
+      "Z. EBOOK SÁCH KÈM KHOÁ HỌC"
+    ],
+    "course_breakdown": [
+      {
+        "name": "1. LIVE S LÝ THUYẾT NỀN TẢNG NGỮ VĂN 12 K9",
+        "structure_depth": 1,
+        "pattern": "flat",
+        "files": 0
+      },
+      {
+        "name": "2. LIVE C - Luyện Thi Chuyên Đề - Văn 2K9 - PMN",
+        "structure_depth": 1,
+        "pattern": "flat",
+        "files": 16
+      },
+      {
+        "name": "3. LIVE T - Luyện đề - Văn học 2K9 - PMN",
+        "structure_depth": 0,
+        "pattern": "empty",
+        "files": 0
+      },
+      {
+        "name": "4. LIVE G - Tổng ôn - Ngữ văn 2K9 - PMN",
+        "structure_depth": 0,
+        "pattern": "empty",
+        "files": 0
+      }
+    ],
+    "no_files_yet": false
+  }
+}

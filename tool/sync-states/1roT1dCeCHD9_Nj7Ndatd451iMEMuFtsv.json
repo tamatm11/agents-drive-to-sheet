@@ -1,0 +1,148 @@
+{
+  "teacherId": "1roT1dCeCHD9_Nj7Ndatd451iMEMuFtsv",
+  "tabs": {
+    "1vQP1bvsK6_yoTC2xYnHwXAI0AjvL7HMd": {
+      "tabName": "TOÁN",
+      "renderedAt": "2026-05-30T02:12:23.813Z",
+      "checksum": "1vQP1bvsK6_yoTC2xYnHwXAI0AjvL7HMd|2026-05-26T12:43:26.161Z|181",
+      "lessons": [
+        {
+          "id": "14yh_s_ZrXrK3WEQRie6uIJC2rqc5nHF5",
+          "name": "1. Nhập môn chủ đề ứng dụng đạo hàm",
+          "parentName": "1. KIẾN THỨC TRỌNG TÂM LỚP 11",
+          "checksum": "2026-05-11T13:18:45.645Z|14",
+          "virtual": false
+        },
+        {
+          "id": "1zAchhVKYUzqFigd3UcuHPvS5wKmYH2Wu",
+          "name": "2. Hai bài toán khoảng cách trong không gian",
+          "parentName": "1. KIẾN THỨC TRỌNG TÂM LỚP 11",
+          "checksum": "2026-05-11T13:27:10.024Z|10",
+          "virtual": false
+        },
+        {
+          "id": "1WFsKpt5KUIPAdfpgqJHpe1UgAhMmEEjw",
+          "name": "3. Ứng dụng đạo hàm giải bài toán chuyển động, tăng trưởng cơ bản",
+          "parentName": "1. KIẾN THỨC TRỌNG TÂM LỚP 11",
+          "checksum": "2026-05-11T13:19:39.535Z|8",
+          "virtual": false
+        },
+        {
+          "id": "1CyfdwEU-1RDX-CHBUMkQfsdhI3-GW_pP",
+          "name": "4. Góc trong không gian (P1)",
+          "parentName": "1. KIẾN THỨC TRỌNG TÂM LỚP 11",
+          "checksum": "2026-05-11T13:28:09.680Z|9",
+          "virtual": false
+        },
+        {
+          "id": "1aHczX97Ax9UGkqNVnoEo0AobVGgfPlEO",
+          "name": "5. Góc trong không gian (P2)",
+          "parentName": "1. KIẾN THỨC TRỌNG TÂM LỚP 11",
+          "checksum": "2026-05-11T13:20:29.600Z|8",
+          "virtual": false
+        },
+        {
+          "id": "1k8G3mpW-87T7lfl2XmJf2F5X2jbEGJXi",
+          "name": "6. Tiếp tuyến của đồ thị hàm số",
+          "parentName": "1. KIẾN THỨC TRỌNG TÂM LỚP 11",
+          "checksum": "2026-05-11T13:23:56.420Z|10",
+          "virtual": false
+        },
+        {
+          "id": "1SLR0BL-btcScXkVVc6PO2b98BWzieg9l",
+          "name": "7. Thể tích của khối đa diện",
+          "parentName": "1. KIẾN THỨC TRỌNG TÂM LỚP 11",
+          "checksum": "2026-05-11T13:24:50.518Z|8",
+          "virtual": false
+        },
+        {
+          "id": "1k_GGbIGKadP9SCm-yF_KRKn057GMHrsU",
+          "name": "8. Dãy số, cấp số cộng, cấp số nhân",
+          "parentName": "1. KIẾN THỨC TRỌNG TÂM LỚP 11",
+          "checksum": "2026-05-11T13:25:57.922Z|9",
+          "virtual": false
+        },
+        {
+          "id": "1RO_2JxOtQOpZ1AwpYsFAq4hnCZkO1CpK",
+          "name": "9. Phương trình, bất phương trình mũ – logarit dạng cơ bản",
+          "parentName": "1. KIẾN THỨC TRỌNG TÂM LỚP 11",
+          "checksum": "2026-05-11T13:22:43.198Z|11",
+          "virtual": false
+        },
+        {
+          "id": "1nsHzRRbWoKmqpbKOdVvLZAvtGIUzwoWX",
+          "name": "10. Các bài toán lãi suất và tăng trưởng",
+          "parentName": "1. KIẾN THỨC TRỌNG TÂM LỚP 11",
+          "checksum": "2026-05-11T13:21:25.998Z|9",
+          "virtual": false
+        },
+        {
+          "id": "1FxWSn5pmED8sNUxeX4HfhvGGQpwSDPuO",
+          "name": "11. Hàm số lượng giác và phương trình lượng giác",
+          "parentName": "1. KIẾN THỨC TRỌNG TÂM LỚP 11",
+          "checksum": "2026-05-21T06:34:56.651Z|17",
+          "virtual": false
+        },
+        {
+          "id": "1_Lhb8SKti4S9jw5HEWECge0zWn8Iwj2H",
+          "name": "1. Tính đơn điệu của hàm số (P1)",
+          "parentName": "2. HÀM SỐ",
+          "checksum": "2026-05-21T06:31:30.546Z|19",
+          "virtual": false
+        },
+        {
+          "id": "17sbR_EFLFsL8CJ0q826F-ZQHWjN_7F4W",
+          "name": "2. Tính đơn điệu của hàm số (P2)",
+          "parentName": "2. HÀM SỐ",
+          "checksum": "2026-05-21T06:33:49.473Z|17",
+          "virtual": false
+        },
+        {
+          "id": "1L-mfj1yhkT2l5dT1pC-ExKzBtVKz-rBl",
+          "name": "3. Cực trị của hàm số (P1)",
+          "parentName": "2. HÀM SỐ",
+          "checksum": "2026-05-21T06:32:46.439Z|21",
+          "virtual": false
+        },
+        {
+          "id": "1SAlsMg0pVdN_4pZOv3o7w-7F3XKurLJ0",
+          "name": "4. Cực trị của hàm số (P2)",
+          "parentName": "2. HÀM SỐ",
+          "checksum": "2026-05-26T12:43:26.161Z|11",
+          "virtual": false
+        }
+      ]
+    },
+    "11f3UfP1_oUPR5kgZqbPD53LyW7C4M5LH": {
+      "tabName": "VĂN",
+      "renderedAt": "2026-05-30T02:12:26.726Z",
+      "checksum": "11f3UfP1_oUPR5kgZqbPD53LyW7C4M5LH|2026-04-19T23:52:18.106Z|0",
+      "lessons": []
+    },
+    "1-yzHvf9oiIN_1wKiecBoX8uC78MZvMM8": {
+      "tabName": "ANH",
+      "renderedAt": "2026-05-30T02:12:29.878Z",
+      "checksum": "1-yzHvf9oiIN_1wKiecBoX8uC78MZvMM8|2026-04-19T23:52:18.105Z|0",
+      "lessons": []
+    },
+    "12ZiDRDLfkWipt-gEnigol0gd5bcY-E2N": {
+      "tabName": "LÝ",
+      "renderedAt": "2026-05-30T02:12:32.528Z",
+      "checksum": "12ZiDRDLfkWipt-gEnigol0gd5bcY-E2N|2026-04-19T23:52:18.106Z|0",
+      "lessons": []
+    },
+    "165d51ra9uYXHGwFmc9uXql6zgvqaZitd": {
+      "tabName": "HÓA",
+      "renderedAt": "2026-05-30T02:12:35.231Z",
+      "checksum": "165d51ra9uYXHGwFmc9uXql6zgvqaZitd|2026-04-19T23:52:18.106Z|0",
+      "lessons": []
+    },
+    "1L2fw6c-Cu1vo-POEI89DIOcQP29yFvul": {
+      "tabName": "SINH",
+      "renderedAt": "2026-05-30T02:12:37.865Z",
+      "checksum": "1L2fw6c-Cu1vo-POEI89DIOcQP29yFvul|2026-04-19T23:52:18.106Z|0",
+      "lessons": []
+    }
+  },
+  "updatedAt": "2026-05-30T02:12:37.865Z"
+}

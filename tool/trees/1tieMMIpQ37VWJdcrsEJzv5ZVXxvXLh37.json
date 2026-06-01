@@ -1,0 +1,139 @@
+{
+  "crawledAt": "2026-05-30T02:13:16.818Z",
+  "teacher": {
+    "id": "1tieMMIpQ37VWJdcrsEJzv5ZVXxvXLh37",
+    "name": "2. CÁC KHOÁ TSA ĐÁNH GIÁ TƯ DUY ĐHBK HÀ NỘI 2027",
+    "modifiedTime": "2026-04-21T22:39:06.860Z",
+    "webViewLink": "https://drive.google.com/drive/folders/1tieMMIpQ37VWJdcrsEJzv5ZVXxvXLh37"
+  },
+  "courses": [
+    {
+      "id": "114PpdmejSIAdT2G3iGNCSenpR8Xem12l",
+      "name": "1. TSA HOCMAI 2K9 LUYỆN THI ĐÁNH GIÁ TƯ DUY ĐHBK HÀ NỘI 2027",
+      "children": [
+        {
+          "id": "11fuWrc5naz3ZpzVqlkF78tzE1quR7iQO",
+          "name": "0. INFO THÔNG TIN VÀ HƯỚNG DẪN KHOÁ HỌC",
+          "webViewLink": "https://drive.google.com/drive/folders/11fuWrc5naz3ZpzVqlkF78tzE1quR7iQO",
+          "modifiedTime": "2026-04-19T23:15:02.275Z",
+          "children": [],
+          "files": []
+        },
+        {
+          "id": "1ybD5VEwbvgazym63lGGCqKnAqjB06CRg",
+          "name": "1. GIAI ĐOẠN 1: TOPUNI NỀN TẢNG",
+          "webViewLink": "https://drive.google.com/drive/folders/1ybD5VEwbvgazym63lGGCqKnAqjB06CRg",
+          "modifiedTime": "2026-04-19T23:15:04.768Z",
+          "children": [],
+          "files": [
+            {
+              "id": "106CD5aCCmir3kRL55SmLK8nXSkksqM3Q",
+              "name": "CHƯƠNG TRÌNH NỀN TẢNG LỚP 12 HOCMAI CÁC MÔN - DauTruongHocTap.io.vn 🔥",
+              "mimeType": "application/vnd.google-apps.shortcut",
+              "size": 0,
+              "webViewLink": "https://drive.google.com/file/d/106CD5aCCmir3kRL55SmLK8nXSkksqM3Q/view?usp=drivesdk",
+              "modifiedTime": "2026-05-29T12:08:51.033Z",
+              "videoMediaMetadata": null
+            }
+          ]
+        },
+        {
+          "id": "10czRGOvXEKQ9qU0sXa5Ira6ffcC5rAQV",
+          "name": "2. GIAI ĐOẠN 2: TOPUNI TỔNG ÔN",
+          "webViewLink": "https://drive.google.com/drive/folders/10czRGOvXEKQ9qU0sXa5Ira6ffcC5rAQV",
+          "modifiedTime": "2026-04-19T23:15:04.170Z",
+          "children": [],
+          "files": []
+        },
+        {
+          "id": "1FQGG1MAEm4QewYV-8W9wrxbM9sxmUGNH",
+          "name": "3. GIAI ĐOẠN 3: TOPUNI LUYỆN ĐỀ",
+          "webViewLink": "https://drive.google.com/drive/folders/1FQGG1MAEm4QewYV-8W9wrxbM9sxmUGNH",
+          "modifiedTime": "2026-04-19T23:15:03.575Z",
+          "children": [],
+          "files": []
+        },
+        {
+          "id": "1lhYKIa1cSNbnne5suhU8NBWfNbK2qT-I",
+          "name": "Z. EBOOK SÁCH KÈM KHOÁ HỌC",
+          "webViewLink": "https://drive.google.com/drive/folders/1lhYKIa1cSNbnne5suhU8NBWfNbK2qT-I",
+          "modifiedTime": "2026-04-19T23:15:02.931Z",
+          "children": [],
+          "files": []
+        }
+      ],
+      "files": [
+        {
+          "id": "1WjPePq_z5g0Z3IsuXrsa6iSheMJiTeXXEFU3Ci77k8U",
+          "name": "TSA HOCMAI 2K9 LUYỆN THI ĐÁNH GIÁ TƯ DUY ĐHBK HÀ NỘI 2027 - Giải pháp toàn diện TSA, Phòng luyện 2027 - dautruonghoctap.io.vn",
+          "mimeType": "application/vnd.google-apps.spreadsheet",
+          "size": 268766,
+          "webViewLink": "https://docs.google.com/spreadsheets/d/1WjPePq_z5g0Z3IsuXrsa6iSheMJiTeXXEFU3Ci77k8U/edit?usp=drivesdk",
+          "modifiedTime": "2026-05-29T12:11:00.827Z",
+          "videoMediaMetadata": null
+        }
+      ],
+      "webViewLink": "https://drive.google.com/drive/folders/114PpdmejSIAdT2G3iGNCSenpR8Xem12l",
+      "modifiedTime": "2026-04-15T13:47:03.102Z"
+    },
+    {
+      "id": "1k2SqAAkOOM0vqUVKKOseqtXqxdUcNXPu",
+      "name": "2. TSA BMC 2k9 LUYỆN THI ĐÁNH GIÁ TƯ DUY ĐHBK HÀ NỘI 2027",
+      "children": [
+        {
+          "id": "1Dxu132s7wAzhAB3hyOE5Ug6WZHLEDW8t",
+          "name": "0. INFO THÔNG TIN VÀ HƯỚNG DẪN KHOÁ HỌC",
+          "webViewLink": "https://drive.google.com/drive/folders/1Dxu132s7wAzhAB3hyOE5Ug6WZHLEDW8t",
+          "modifiedTime": "2026-04-19T23:15:00.588Z",
+          "children": [],
+          "files": []
+        },
+        {
+          "id": "16VA7gADBIdfHgMzNo35YXFKv6Vbwgk_O",
+          "name": "1. TOÁN 12 - KHOÁ NỀN TẢNG",
+          "webViewLink": "https://drive.google.com/drive/folders/16VA7gADBIdfHgMzNo35YXFKv6Vbwgk_O",
+          "modifiedTime": "2026-04-19T23:14:59.944Z",
+          "children": [],
+          "files": []
+        },
+        {
+          "id": "1IIeY1xzKIIDhF-s1KU3k265PY4LMs4pi",
+          "name": "2. [TSA] TƯ DUY TOÁN HỌC - 2K9 XPS",
+          "webViewLink": "https://drive.google.com/drive/folders/1IIeY1xzKIIDhF-s1KU3k265PY4LMs4pi",
+          "modifiedTime": "2026-04-19T23:14:59.223Z",
+          "children": [],
+          "files": []
+        },
+        {
+          "id": "1SFYa_ZW2GEW6hFN5LYdfK3qwPDm3MOlM",
+          "name": "Z. EBOOK SÁCH KÈM KHOÁ HỌC",
+          "webViewLink": "https://drive.google.com/drive/folders/1SFYa_ZW2GEW6hFN5LYdfK3qwPDm3MOlM",
+          "modifiedTime": "2026-04-19T23:15:01.221Z",
+          "children": [],
+          "files": []
+        }
+      ],
+      "files": [
+        {
+          "id": "1H9gNH5i22ww9YHO_2kp9qRM2ZkJ3LK33mi8VhxYIA_U",
+          "name": "TSA BMC 2k9 LUYỆN THI ĐÁNH GIÁ TƯ DUY ĐHBK HÀ NỘI 2027 - XPS 2k9 TSA 2027 - dautruonghoctap.io.vn",
+          "mimeType": "application/vnd.google-apps.spreadsheet",
+          "size": 115517,
+          "webViewLink": "https://docs.google.com/spreadsheets/d/1H9gNH5i22ww9YHO_2kp9qRM2ZkJ3LK33mi8VhxYIA_U/edit?usp=drivesdk",
+          "modifiedTime": "2026-05-20T03:29:30.936Z",
+          "videoMediaMetadata": null
+        }
+      ],
+      "webViewLink": "https://drive.google.com/drive/folders/1k2SqAAkOOM0vqUVKKOseqtXqxdUcNXPu",
+      "modifiedTime": "2026-04-15T13:47:02.055Z"
+    },
+    {
+      "id": "1J4masgvMwT-XOyE4kN8Q-JzQ9bIqINPh",
+      "name": "3. TSA TDM 2K9 LUYỆN THI ĐÁNH GIÁ TƯ DUY ĐHBK HÀ NỘI 2027",
+      "children": [],
+      "files": [],
+      "webViewLink": "https://drive.google.com/drive/folders/1J4masgvMwT-XOyE4kN8Q-JzQ9bIqINPh",
+      "modifiedTime": "2026-04-15T13:47:01.236Z"
+    }
+  ]
+}

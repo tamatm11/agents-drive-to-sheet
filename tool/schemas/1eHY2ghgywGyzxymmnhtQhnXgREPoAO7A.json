@@ -1,0 +1,74 @@
+{
+  "updatedAt": "2026-05-28T12:18:35.704Z",
+  "teacher": {
+    "id": "1eHY2ghgywGyzxymmnhtQhnXgREPoAO7A",
+    "name": "2. HOÁ THẦY PHẠM VĂN TRỌNG TENS 2K9"
+  },
+  "schema": {
+    "levels": [
+      {
+        "depth": 0,
+        "label": "Chương / Chuyên đề",
+        "icon": "📖",
+        "bold": true,
+        "bg": "#FCE5C0",
+        "namePatternHint": "Cấp 1: vd '1. CHƯƠNG 1-ESTER-LIPID-CHẤT GIẶT RỬA\t\t\t\t\t', '2. CHƯƠNG 2-CARBOHYDRATE\t\t\t\t\t'"
+      }
+    ],
+    "leafFallback": {
+      "label": "Bài",
+      "icon": "📂",
+      "bold": true,
+      "bg": "#FCF1D4",
+      "note": "Một số khóa file nằm cấp nông hơn — render thẳng như leaf bài học."
+    },
+    "courseRow": {
+      "icon": "📚",
+      "bold": true,
+      "fontSize": 12,
+      "bg": "#D4E5FA"
+    },
+    "videoRow": {
+      "icon": "▸",
+      "indent": "extra-from-leaf"
+    },
+    "notes": "Auto-detect (1 cấp). 1/3 khóa có cấu trúc. Pattern: flat. Skip 3 folder meta. Chưa có file (chỉ folder rỗng) — schema dựa trên depth folder."
+  },
+  "_meta": {
+    "source": "auto-detect",
+    "version": 1,
+    "generated_at": "2026-05-28T12:18:35.704Z",
+    "confidence": "high",
+    "dominant_depth": 1,
+    "dominant_share": 1,
+    "patterns_observed": [
+      "flat"
+    ],
+    "meta_courses_skipped": [
+      "0. INFO THÔNG TIN VÀ HƯỚNG DẪN KHOÁ HỌC",
+      "Z. BONUS BỘ BÀI GIẢNG LẤY GỐC HÓA HỮU CƠ 11-HÓA VÔ CƠ",
+      "Z. EBOOK SÁCH KÈM KHOÁ HỌC"
+    ],
+    "course_breakdown": [
+      {
+        "name": "1. KHOÁ T NỀN TẢNG",
+        "structure_depth": 1,
+        "pattern": "flat",
+        "files": 0
+      },
+      {
+        "name": "2. KHOÁ E VÀ N THỰC CHIẾN LUYỆN ĐỀ - TỔNG ÔN TRỌNG ĐIỂM",
+        "structure_depth": 0,
+        "pattern": "empty",
+        "files": 0
+      },
+      {
+        "name": "3. KHOÁ S CHINH PHỤC LÝ THUYẾT",
+        "structure_depth": 0,
+        "pattern": "empty",
+        "files": 0
+      }
+    ],
+    "no_files_yet": true
+  }
+}

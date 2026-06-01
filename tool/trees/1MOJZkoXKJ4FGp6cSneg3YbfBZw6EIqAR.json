@@ -1,0 +1,43 @@
+{
+  "crawledAt": "2026-05-29T10:38:41.972Z",
+  "teacher": {
+    "id": "1MOJZkoXKJ4FGp6cSneg3YbfBZw6EIqAR",
+    "name": "4. LÝ THẦY ĐỖ NGỌC HÀ 2K9",
+    "modifiedTime": "2026-05-27T15:22:38.933Z",
+    "webViewLink": "https://drive.google.com/drive/folders/1MOJZkoXKJ4FGp6cSneg3YbfBZw6EIqAR"
+  },
+  "courses": [
+    {
+      "id": "1Kx4TYKPsopIXr1aKTsrZL6BETBqfaSDi",
+      "name": "0. INFO THÔNG TIN VÀ HƯỚNG DẪN KHOÁ HỌC",
+      "children": [],
+      "files": [],
+      "webViewLink": "https://drive.google.com/drive/folders/1Kx4TYKPsopIXr1aKTsrZL6BETBqfaSDi",
+      "modifiedTime": "2026-04-19T03:39:41.303Z"
+    },
+    {
+      "id": "1EB0oo_5JG6QPx-k1RW_Xrk_sns4iwImt",
+      "name": "1. ZOOM-H CHUYÊN ĐỀ TRANG BỊ KIẾN THỨC",
+      "children": [],
+      "files": [],
+      "webViewLink": "https://drive.google.com/drive/folders/1EB0oo_5JG6QPx-k1RW_Xrk_sns4iwImt",
+      "modifiedTime": "2026-04-19T03:39:40.603Z"
+    },
+    {
+      "id": "1R1a9R32p6ATuidOFmq2V95TyuieTtOk1",
+      "name": "2. ZOOM-T TỔNG ÔN, LUYỆN ĐỀ VÀ NÂNG CAO TƯ DUY",
+      "children": [],
+      "files": [],
+      "webViewLink": "https://drive.google.com/drive/folders/1R1a9R32p6ATuidOFmq2V95TyuieTtOk1",
+      "modifiedTime": "2026-04-19T03:39:39.913Z"
+    },
+    {
+      "id": "131rtzk3WBG1bxZugkKwPJWdCIW7msZn4",
+      "name": "Z. EBOOK SÁCH KÈM KHOÁ HỌC",
+      "children": [],
+      "files": [],
+      "webViewLink": "https://drive.google.com/drive/folders/131rtzk3WBG1bxZugkKwPJWdCIW7msZn4",
+      "modifiedTime": "2026-04-19T03:39:42.023Z"
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "updatedAt": "2026-05-29T17:29:55.612Z",
+  "teacher": {
+    "id": "1hgV4-gfmnnuaRBY0WmTFGE-Ds2XMmn8l",
+    "name": "HOÁ THẦY PHẠM THẮNG TYHH 2K9"
+  },
+  "schema": {
+    "levels": [
+      {
+        "depth": 0,
+        "label": "Khóa",
+        "icon": "📖",
+        "bold": true,
+        "bg": "#FDE7C0",
+        "namePatternHint": "KHÓA ..."
+      },
+      {
+        "depth": 1,
+        "label": "Chương",
+        "icon": "📂",
+        "bold": true,
+        "bg": "#FCF1D4",
+        "namePatternHint": "CHƯƠNG ..."
+      },
+      {
+        "depth": 2,
+        "label": "Bài",
+        "icon": "📁",
+        "bold": false,
+        "bg": "#F2FAEA",
+        "namePatternHint": "BÀI ..."
+      }
+    ],
+    "leafFallback": {
+      "label": "Bài",
+      "icon": "📂",
+      "bold": true,
+      "bg": "#FCF1D4",
+      "note": "Leaf level"
+    },
+    "courseRow": {
+      "icon": "📚",
+      "bold": true,
+      "fontSize": 12,
+      "bg": "#D4E5FA"
+    },
+    "notes": "Hóa học - Thầy Phạm Thắng (TYHH 2K9)",
+    "courseOverrides": {
+      "KHOÁ LIVE T - CHUYÊN ĐỀ (NỀN TẢNG HOÁ 12)": "Khóa LIVE T",
+      "KHÓA LIVE H - LUYỆN ĐỀ THỰC CHIẾN": "Khóa LIVE H"
+    }
+  }
+}

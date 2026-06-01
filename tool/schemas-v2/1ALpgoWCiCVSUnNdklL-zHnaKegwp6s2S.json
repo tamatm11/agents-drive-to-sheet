@@ -1,0 +1,21 @@
+{
+  "updatedAt": "2026-05-29T17:40:00.000Z",
+  "teacher": {
+    "id": "1ALpgoWCiCVSUnNdklL-zHnaKegwp6s2S",
+    "name": "HOÁ CÔ THÂN THỊ LIÊN 2K9"
+  },
+  "courses": [
+    {
+      "courseId": "1dJ5tjp2i6jjsRMB90MxuvoCAHG6Fmoxp",
+      "tabName": "Khóa LIVE Nền Tảng"
+    },
+    {
+      "courseId": "19Lu4cIccvSx00mciBi0ZdwoSh504dJFX",
+      "tabName": "Khóa LIVE Nâng Cao"
+    },
+    {
+      "courseId": "1FBHRNly38GweplKvG7NGEw_263GTF9Nu",
+      "tabName": "Khóa Thực Chiến"
+    }
+  ]
+}

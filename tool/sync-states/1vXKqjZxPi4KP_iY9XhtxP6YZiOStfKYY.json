@@ -1,0 +1,77 @@
+{
+  "teacherId": "1vXKqjZxPi4KP_iY9XhtxP6YZiOStfKYY",
+  "tabs": {
+    "1UPq9VduUwVetpCYV8ugwLL0UPkk_JLsR": {
+      "tabName": "LIVE I",
+      "renderedAt": "2026-05-31T04:06:48.029Z",
+      "checksum": "1UPq9VduUwVetpCYV8ugwLL0UPkk_JLsR|2026-05-24T14:44:46.956Z|58",
+      "lessons": [],
+      "rendererVersion": "4.3.1",
+      "styleVersion": "2026-05-31-student-banner-no-meta-v2",
+      "runId": "no-meta-sync-2026-05-31-104541",
+      "spreadsheetId": "1Q6K-jWgsZp4-26wXi6DO4m4n14YaENWAxUeuS6cFHmM",
+      "stats": {
+        "leafCount": 15,
+        "totalVideos": 15
+      }
+    },
+    "1KUX4XwL7WIIiN6HdYX9JJqwZtgywX02c": {
+      "tabName": "LIVE M",
+      "renderedAt": "2026-05-31T04:06:56.569Z",
+      "checksum": "1KUX4XwL7WIIiN6HdYX9JJqwZtgywX02c|2026-04-15T22:19:01.383Z|0",
+      "lessons": [],
+      "rendererVersion": "4.3.1",
+      "styleVersion": "2026-05-31-student-banner-no-meta-v2",
+      "runId": "no-meta-sync-2026-05-31-104541",
+      "spreadsheetId": "1Q6K-jWgsZp4-26wXi6DO4m4n14YaENWAxUeuS6cFHmM",
+      "stats": {
+        "leafCount": 0,
+        "totalVideos": 0
+      }
+    },
+    "1Xm-vfii_1dY9uWlkxAM9F4o63xn2bpWF": {
+      "tabName": "LIVE O",
+      "renderedAt": "2026-05-31T04:07:04.131Z",
+      "checksum": "1Xm-vfii_1dY9uWlkxAM9F4o63xn2bpWF|2026-04-15T22:18:59.956Z|0",
+      "lessons": [],
+      "rendererVersion": "4.3.1",
+      "styleVersion": "2026-05-31-student-banner-no-meta-v2",
+      "runId": "no-meta-sync-2026-05-31-104541",
+      "spreadsheetId": "1Q6K-jWgsZp4-26wXi6DO4m4n14YaENWAxUeuS6cFHmM",
+      "stats": {
+        "leafCount": 0,
+        "totalVideos": 0
+      }
+    },
+    "17t0lrs7zV0fgZVtrME9LSXEQsgNjujQ5": {
+      "tabName": "LIVE E",
+      "renderedAt": "2026-05-31T04:07:11.311Z",
+      "checksum": "17t0lrs7zV0fgZVtrME9LSXEQsgNjujQ5|2026-04-15T22:18:59.218Z|0",
+      "lessons": [],
+      "rendererVersion": "4.3.1",
+      "styleVersion": "2026-05-31-student-banner-no-meta-v2",
+      "runId": "no-meta-sync-2026-05-31-104541",
+      "spreadsheetId": "1Q6K-jWgsZp4-26wXi6DO4m4n14YaENWAxUeuS6cFHmM",
+      "stats": {
+        "leafCount": 0,
+        "totalVideos": 0
+      }
+    },
+    "1QQ_UbWTQNWnyeEqQE3N3kTcWfGNvFGXv": {
+      "tabName": "ĐẶC BIỆT 14",
+      "renderedAt": "2026-05-31T04:07:18.666Z",
+      "checksum": "1QQ_UbWTQNWnyeEqQE3N3kTcWfGNvFGXv|2026-04-15T22:18:57.117Z|0",
+      "lessons": [],
+      "rendererVersion": "4.3.1",
+      "styleVersion": "2026-05-31-student-banner-no-meta-v2",
+      "runId": "no-meta-sync-2026-05-31-104541",
+      "spreadsheetId": "1Q6K-jWgsZp4-26wXi6DO4m4n14YaENWAxUeuS6cFHmM",
+      "stats": {
+        "leafCount": 0,
+        "totalVideos": 0
+      }
+    }
+  },
+  "updatedAt": "2026-05-31T04:07:18.667Z",
+  "version": 2
+}

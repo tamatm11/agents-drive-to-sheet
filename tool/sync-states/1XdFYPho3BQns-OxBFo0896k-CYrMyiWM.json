@@ -1,0 +1,646 @@
+{
+  "teacherId": "1XdFYPho3BQns-OxBFo0896k-CYrMyiWM",
+  "tabs": {
+    "1at442t-8UwnyTAi-VSu9Uw0iAuneHCt9": {
+      "tabName": "Khóa T",
+      "renderedAt": "2026-05-31T03:59:34.884Z",
+      "checksum": "1at442t-8UwnyTAi-VSu9Uw0iAuneHCt9|2026-05-24T07:47:25.332Z|125",
+      "lessons": [
+        {
+          "id": "1piPagKiw0eIUz8J6by97PDNKKg0rpxv6",
+          "name": "1. Hiện tại",
+          "parentName": "1. Tenses\t\t",
+          "checksum": "2026-04-17T14:01:45.780Z|8",
+          "virtual": false
+        },
+        {
+          "id": "1C-y3FRuKi_INYKlJ4tY3-5C2HjNoN7Cm",
+          "name": "2. Quá khứ",
+          "parentName": "1. Tenses\t\t",
+          "checksum": "2026-04-17T14:01:30.763Z|5",
+          "virtual": false
+        },
+        {
+          "id": "1zN885YU7FN0MgWBwoVELJS0aNm8gf3ns",
+          "name": "3. Tương lai",
+          "parentName": "1. Tenses\t\t",
+          "checksum": "2026-04-17T14:01:22.076Z|5",
+          "virtual": false
+        },
+        {
+          "id": "1sgr93fx4pqeEfV3z3hg2wbgxjmHYsTSl",
+          "name": "4. Review các thì",
+          "parentName": "1. Tenses\t\t",
+          "checksum": "2026-05-11T08:30:37.462Z|2",
+          "virtual": false
+        },
+        {
+          "id": "12_jjR6Rr93WTKcY5PEzfqzbaOn6pcaP6",
+          "name": "2. Câu chẻ",
+          "parentName": "1. CHUYÊN ĐỀ NGỮ PHÁP\t\t",
+          "checksum": "2026-04-17T14:01:12.566Z|4",
+          "virtual": false
+        },
+        {
+          "id": "1pe2gtbBacjA3cL-nGxV4yFLZg-iDhgPa",
+          "name": "3. Perfect Gerund & Perfect Participle",
+          "parentName": "1. CHUYÊN ĐỀ NGỮ PHÁP\t\t",
+          "checksum": "2026-04-17T14:00:59.925Z|4",
+          "virtual": false
+        },
+        {
+          "id": "1r7XHq-bwavfxrR9wTIbj7e9-wTMqN3oX",
+          "name": "4. Linking Words & Phrases",
+          "parentName": "1. CHUYÊN ĐỀ NGỮ PHÁP\t\t",
+          "checksum": "2026-05-11T08:30:36.499Z|5",
+          "virtual": false
+        },
+        {
+          "id": "1ct7-LBVYbzW0oJ5Tl4Pu3zNOgI-pAG2P",
+          "name": "5. Câu bị động",
+          "parentName": "1. CHUYÊN ĐỀ NGỮ PHÁP\t\t",
+          "checksum": "2026-05-18T01:28:06.779Z|5",
+          "virtual": false
+        },
+        {
+          "id": "1wcwoND0xl93B4soXaKUtIDaF_GCwbRCY",
+          "name": "6. Stative Verbs",
+          "parentName": "1. CHUYÊN ĐỀ NGỮ PHÁP\t\t",
+          "checksum": "2026-04-17T14:00:39.205Z|3",
+          "virtual": false
+        },
+        {
+          "id": "1K2H2umcu8mPqwIIe-XHF0fgZ7F1itD1y",
+          "name": "7. Linking Verbs",
+          "parentName": "1. CHUYÊN ĐỀ NGỮ PHÁP\t\t",
+          "checksum": "2026-04-17T14:00:31.556Z|3",
+          "virtual": false
+        },
+        {
+          "id": "15D6tXXP-VA4lRQdG1nZ3lGffBXU76F2n",
+          "name": "8. Sự hòa hợp thì",
+          "parentName": "1. CHUYÊN ĐỀ NGỮ PHÁP\t\t",
+          "checksum": "2026-04-29T13:58:18.067Z|2",
+          "virtual": false
+        },
+        {
+          "id": "1KzHuQORalONxZ1p-rP0_-lR1kky3WSe8",
+          "name": "9. Tag Questions",
+          "parentName": "1. CHUYÊN ĐỀ NGỮ PHÁP\t\t",
+          "checksum": "2026-05-11T08:30:36.460Z|3",
+          "virtual": false
+        },
+        {
+          "id": "1rD_GNp2Rm6BtMU-Dv3vGSWWtmrOkDZ36",
+          "name": "10. So sánh",
+          "parentName": "1. CHUYÊN ĐỀ NGỮ PHÁP\t\t",
+          "checksum": "2026-05-11T08:30:36.131Z|6",
+          "virtual": false
+        },
+        {
+          "id": "1GaoVaK0Yn6Vpqjrsj1Ch9lFG2cnMt5ra",
+          "name": "11. Câu tường thuật",
+          "parentName": "1. CHUYÊN ĐỀ NGỮ PHÁP\t\t",
+          "checksum": "2026-05-11T08:30:35.848Z|5",
+          "virtual": false
+        },
+        {
+          "id": "1tL-JHEREnT3SC_94Fs2ChBczTXjxR8N3",
+          "name": "12. Mệnh đề quan hệ",
+          "parentName": "1. CHUYÊN ĐỀ NGỮ PHÁP\t\t",
+          "checksum": "2026-05-18T01:28:02.985Z|5",
+          "virtual": false
+        },
+        {
+          "id": "1DqFYGvTemoV7Ys6PcX1I3rG0zfhlrgzZ",
+          "name": "13. Câu điều kiện",
+          "parentName": "1. CHUYÊN ĐỀ NGỮ PHÁP\t\t",
+          "checksum": "2026-05-18T01:27:51.376Z|4",
+          "virtual": false
+        },
+        {
+          "id": "1B-V-8CfWx6f6UvZnJ2VXd81xzwGybI2U",
+          "name": "14. Mạo từ",
+          "parentName": "1. CHUYÊN ĐỀ NGỮ PHÁP\t\t",
+          "checksum": "2026-05-24T07:47:25.332Z|7",
+          "virtual": false
+        },
+        {
+          "id": "1ucIO29yCcZDM0tuZNCSHFlToeJgB6als",
+          "name": "1. Preserving Our Heritage",
+          "parentName": "2. CHUYÊN ĐỀ TỪ VỰNG\t\t",
+          "checksum": "2026-04-17T14:00:24.640Z|3",
+          "virtual": false
+        },
+        {
+          "id": "18YQnpybNje0oewaZm4YcMKmxaBun5ETQ",
+          "name": "2. Education Options For School-Leavers",
+          "parentName": "2. CHUYÊN ĐỀ TỪ VỰNG\t\t",
+          "checksum": "2026-04-17T14:00:19.071Z|3",
+          "virtual": false
+        },
+        {
+          "id": "1m8fJ8d1NTFLoSShDHqw0IdAgUmTq6rdd",
+          "name": "3. Becoming Independent",
+          "parentName": "2. CHUYÊN ĐỀ TỪ VỰNG\t\t",
+          "checksum": "2026-04-17T14:00:09.754Z|3",
+          "virtual": false
+        },
+        {
+          "id": "1arqbRLddhEhOpnkhpSSezLYTRv1pDu96",
+          "name": "4. Social Issues",
+          "parentName": "2. CHUYÊN ĐỀ TỪ VỰNG\t\t",
+          "checksum": "2026-04-17T14:00:02.331Z|3",
+          "virtual": false
+        },
+        {
+          "id": "1zuHIX_avPmXpJyNCipV8QPhborJyLZct",
+          "name": "5. The Ecosystems",
+          "parentName": "2. CHUYÊN ĐỀ TỪ VỰNG\t\t",
+          "checksum": "2026-04-29T13:57:50.837Z|2",
+          "virtual": false
+        },
+        {
+          "id": "1js9N2HMq-Btp12keTbn4Vk4Nra63Jkb0",
+          "name": "6. TỔNG ÔN",
+          "parentName": "2. CHUYÊN ĐỀ TỪ VỰNG\t\t",
+          "checksum": "2026-05-11T08:30:34.245Z|2",
+          "virtual": false
+        },
+        {
+          "id": "15K5J-ZivAxo_BgerIR6G41sUmlDkeYxa",
+          "name": "7. TỔNG ÔN số 2",
+          "parentName": "2. CHUYÊN ĐỀ TỪ VỰNG\t\t",
+          "checksum": "2026-05-18T01:27:40.695Z|2",
+          "virtual": false
+        },
+        {
+          "id": "1TbiGP_7blzNMMKuvpArqaIZ8-p_cd7Az",
+          "name": "8. Life Stories We Admire",
+          "parentName": "2. CHUYÊN ĐỀ TỪ VỰNG\t\t",
+          "checksum": "2026-05-24T07:47:18.565Z|6",
+          "virtual": false
+        },
+        {
+          "id": "1DPLPqVfkqegVxYkLBv8Hi74rt_Z9dVCi",
+          "name": "1. Số 1. Beauty Queens as Tourism Ambassadors Vietnam Showcases Its Cultural Gems to the World",
+          "parentName": "3. BẢN TIN TỪ VỰNG\t\t",
+          "checksum": "2026-04-17T13:59:55.000Z|2",
+          "virtual": false
+        },
+        {
+          "id": "1Rtzepvr9Pj1l4B-fMYhP_1uO6JNo9vwh",
+          "name": "2. Số 2. Online Shopping In Vietnam A Market On The Rise",
+          "parentName": "3. BẢN TIN TỪ VỰNG\t\t",
+          "checksum": "2026-04-17T13:59:49.934Z|2",
+          "virtual": false
+        },
+        {
+          "id": "10GeospJcCDIW4Jk3AoPS-XHb5eIZ3I5h",
+          "name": "3. Số 3. The Sleep Crisis Why Rest is the New Challenge for the Modern World",
+          "parentName": "3. BẢN TIN TỪ VỰNG\t\t",
+          "checksum": "2026-04-17T13:59:45.746Z|2",
+          "virtual": false
+        },
+        {
+          "id": "1wEuG1DpCAjLHuPoyzbbTCDepyzAYkOtF",
+          "name": "4. Số 4. Artemis II Astronauts Safely Back on Earth After Historic Trip Around Moon",
+          "parentName": "3. BẢN TIN TỪ VỰNG\t\t",
+          "checksum": "2026-04-29T13:57:39.193Z|2",
+          "virtual": false
+        },
+        {
+          "id": "1ZqHPbl-ZAtqwQ0eNlgmQunYoDGVVpxb3",
+          "name": "5. Bản tin 30/04: The Legacy of a Diplomatic Icon: Madame Nguyễn Thị Bình",
+          "parentName": "3. BẢN TIN TỪ VỰNG\t\t",
+          "checksum": "2026-05-11T08:30:23.352Z|2",
+          "virtual": false
+        },
+        {
+          "id": "17LwqQAmVNmPIpwwPrwsFJ9li9US5dvw7",
+          "name": "6. Số 5. The Cost of Keeping Appearances: Why China’s Youth are Paying to Work \"Fake Jobs\"",
+          "parentName": "3. BẢN TIN TỪ VỰNG\t\t",
+          "checksum": "2026-05-11T08:30:22.886Z|2",
+          "virtual": false
+        },
+        {
+          "id": "1R6e15eJEzORO9YNvsl4EL9z123XMpZQg",
+          "name": "7. Số 6. Beyond The Stage – The Strategic Ecosystem Behind South Korea's Cultural Power",
+          "parentName": "3. BẢN TIN TỪ VỰNG\t\t",
+          "checksum": "2026-05-18T01:27:31.609Z|2",
+          "virtual": false
+        },
+        {
+          "id": "143icRtkDp2UA1ojxWY0bJ8hDa3NiIUR1",
+          "name": "8. Số 7 – The Prince Of V-Pop – How Son Tung M-TP Redefined Vietnamese Music",
+          "parentName": "3. BẢN TIN TỪ VỰNG\t\t",
+          "checksum": "2026-05-24T07:47:12.078Z|2",
+          "virtual": false
+        },
+        {
+          "id": "1TFdPqSOo0leE33LHDyd9LhP6hQ-G1BCU",
+          "name": "0. Đề thi KSCL đầu vào",
+          "parentName": "4. ĐỀ THI\t\t",
+          "checksum": "2026-04-17T13:59:40.850Z|3",
+          "virtual": false
+        },
+        {
+          "id": "1jNPB2r50SwKF0EHAqh1RwrrX5Iz7OPAd",
+          "name": "1. Đề thi KSCL lần 1",
+          "parentName": "4. ĐỀ THI\t\t",
+          "checksum": "2026-05-11T08:30:22.609Z|3",
+          "virtual": false
+        },
+        {
+          "id": "1OGCIR3AcO65aIszQdiFotoCBD2jTSmT5",
+          "name": "2. Đề thi KSCL lần 2",
+          "parentName": "4. ĐỀ THI\t\t",
+          "checksum": "2026-05-11T08:30:21.818Z|3",
+          "virtual": false
+        }
+      ],
+      "rendererVersion": "4.3.1",
+      "styleVersion": "2026-05-31-student-banner-no-meta-v2",
+      "runId": "no-meta-sync-2026-05-31-104541",
+      "spreadsheetId": "1gBF3LkiVjCQgEZuHu1-aa6BsfooJKLgYfg1k47TjcaE",
+      "stats": {
+        "leafCount": 36,
+        "totalVideos": 48
+      }
+    },
+    "1y36UbhKyHZJ_1WpQyWK-H81xcSoBqEkQ": {
+      "tabName": "Khóa E",
+      "renderedAt": "2026-05-31T03:59:42.242Z",
+      "checksum": "1y36UbhKyHZJ_1WpQyWK-H81xcSoBqEkQ|2026-04-15T22:18:50.880Z|0",
+      "lessons": [],
+      "rendererVersion": "4.3.1",
+      "styleVersion": "2026-05-31-student-banner-no-meta-v2",
+      "runId": "no-meta-sync-2026-05-31-104541",
+      "spreadsheetId": "1gBF3LkiVjCQgEZuHu1-aa6BsfooJKLgYfg1k47TjcaE",
+      "stats": {
+        "leafCount": 0,
+        "totalVideos": 0
+      }
+    },
+    "1AsTx6kOdQG33eiHlbJNfw7RfvLLTvoXq": {
+      "tabName": "Khóa N",
+      "renderedAt": "2026-05-31T03:59:49.541Z",
+      "checksum": "1AsTx6kOdQG33eiHlbJNfw7RfvLLTvoXq|2026-04-15T22:18:50.178Z|0",
+      "lessons": [],
+      "rendererVersion": "4.3.1",
+      "styleVersion": "2026-05-31-student-banner-no-meta-v2",
+      "runId": "no-meta-sync-2026-05-31-104541",
+      "spreadsheetId": "1gBF3LkiVjCQgEZuHu1-aa6BsfooJKLgYfg1k47TjcaE",
+      "stats": {
+        "leafCount": 0,
+        "totalVideos": 0
+      }
+    },
+    "1yHdKK8M21lLVKiTb_p1jDd9S7pwxBwLa": {
+      "tabName": "Khóa S",
+      "renderedAt": "2026-05-31T03:59:56.864Z",
+      "checksum": "1yHdKK8M21lLVKiTb_p1jDd9S7pwxBwLa|2026-04-15T22:18:48.445Z|0",
+      "lessons": [],
+      "rendererVersion": "4.3.1",
+      "styleVersion": "2026-05-31-student-banner-no-meta-v2",
+      "runId": "no-meta-sync-2026-05-31-104541",
+      "spreadsheetId": "1gBF3LkiVjCQgEZuHu1-aa6BsfooJKLgYfg1k47TjcaE",
+      "stats": {
+        "leafCount": 0,
+        "totalVideos": 0
+      }
+    },
+    "1RWFnyozsULmyJYdU3ih_vQuo7oWiasH9": {
+      "tabName": "BONUS 15 PHÚT",
+      "renderedAt": "2026-05-31T04:00:07.832Z",
+      "checksum": "1RWFnyozsULmyJYdU3ih_vQuo7oWiasH9|2026-05-24T07:47:07.447Z|45",
+      "lessons": [
+        {
+          "id": "1EFeCPimiHC_Oz_aX-ouxOUBSeZ-BHOw6::file:1_fhjO0tj3ZHgjq2b4HygNcQtsPSSsbJe",
+          "name": "Chương 1 – Animals – Unit 7 – Great Migrations",
+          "parentName": "1. Chương 1 – Animals",
+          "checksum": "2026-05-18T01:26:38.263Z|1|0dc2f5a16d3d",
+          "virtual": true
+        },
+        {
+          "id": "1EFeCPimiHC_Oz_aX-ouxOUBSeZ-BHOw6::file:1-GIWg8ttxLO9C9G3rhqmJn3zXMf5zkau",
+          "name": "Chương 1 – Animals – Unit 2 – Saving Bugs to Find New Drugs",
+          "parentName": "1. Chương 1 – Animals",
+          "checksum": "2026-05-18T01:27:06.040Z|1|32393696a372",
+          "virtual": true
+        },
+        {
+          "id": "1EFeCPimiHC_Oz_aX-ouxOUBSeZ-BHOw6::file:13jlGJSi0JHWvl_U23k3Nugopfp-xnFx6",
+          "name": "Chương 1 – Animals – Unit 1 – Đáp án",
+          "parentName": "1. Chương 1 – Animals",
+          "checksum": "2026-05-18T01:26:39.614Z|1|65420d3d5b06",
+          "virtual": true
+        },
+        {
+          "id": "1EFeCPimiHC_Oz_aX-ouxOUBSeZ-BHOw6::file:15Oc8hW_l-ZnallXZkenhIZzlBIcr7WAg",
+          "name": "Chương 1 – Animals – Unit 3 – The Secret of Staying Young",
+          "parentName": "1. Chương 1 – Animals",
+          "checksum": "2026-05-18T01:26:36.970Z|1|15a6e8c5eccc",
+          "virtual": true
+        },
+        {
+          "id": "1EFeCPimiHC_Oz_aX-ouxOUBSeZ-BHOw6::file:18cDQtBR_Eu0cOEv5S5-fww8N5vEiwE2v",
+          "name": "Chương 1 – Animals – Unit 1 – Bringing Extinct Species Back to Life",
+          "parentName": "1. Chương 1 – Animals",
+          "checksum": "2026-05-18T01:26:43.009Z|1|b77b8faf2590",
+          "virtual": true
+        },
+        {
+          "id": "1EFeCPimiHC_Oz_aX-ouxOUBSeZ-BHOw6::file:1cXVnbtRWq4XrYF_AVSxz1xLsf9XALT2d",
+          "name": "Chương 1 – Animals – Unit 9 – Đáp án",
+          "parentName": "1. Chương 1 – Animals",
+          "checksum": "2026-05-18T01:27:09.126Z|1|aff217c552fd",
+          "virtual": true
+        },
+        {
+          "id": "1EFeCPimiHC_Oz_aX-ouxOUBSeZ-BHOw6::file:1eVWUB-q4C9nPtsKscHMg-0mN9gf8CQqg",
+          "name": "Chương 1 – Animals – Unit 2 – Đáp án",
+          "parentName": "1. Chương 1 – Animals",
+          "checksum": "2026-05-18T01:26:47.378Z|1|e0ac1cda11f4",
+          "virtual": true
+        },
+        {
+          "id": "1EFeCPimiHC_Oz_aX-ouxOUBSeZ-BHOw6::file:1FBOwKZHrOg66uOlQOr9PFklOv-MP1woW",
+          "name": "Chương 1 – Animals – Unit 5 – Flying Tortoises",
+          "parentName": "1. Chương 1 – Animals",
+          "checksum": "2026-05-18T01:26:28.570Z|1|0ae2ba6719fe",
+          "virtual": true
+        },
+        {
+          "id": "1EFeCPimiHC_Oz_aX-ouxOUBSeZ-BHOw6::file:1FpWlaY0mRISMlBtqI8-CRtNOr-cBZuXa",
+          "name": "Chương 1 – Animals – Unit 9 – Collecting Ants Specimens",
+          "parentName": "1. Chương 1 – Animals",
+          "checksum": "2026-05-18T01:27:14.124Z|1|e8ac0f91d200",
+          "virtual": true
+        },
+        {
+          "id": "1EFeCPimiHC_Oz_aX-ouxOUBSeZ-BHOw6::file:1g_qdL0T7Q10_8vFsEW1RB-d4KLmq6PQI",
+          "name": "Chương 1 – Animals – LỘ TRÌNH KHÓA TỪ VỰNG IELTS NÂNG CAO",
+          "parentName": "1. Chương 1 – Animals",
+          "checksum": "2026-05-18T01:26:40.919Z|1|ffe89c661a2a",
+          "virtual": true
+        },
+        {
+          "id": "1EFeCPimiHC_Oz_aX-ouxOUBSeZ-BHOw6::file:1hMo5pVjm4SeyeAmVZiAhQd6-bZ4lWm2C",
+          "name": "Chương 1 – Animals – Unit 10 – Đáp án",
+          "parentName": "1. Chương 1 – Animals",
+          "checksum": "2026-05-18T01:27:19.468Z|1|3c07e19de9ff",
+          "virtual": true
+        },
+        {
+          "id": "1EFeCPimiHC_Oz_aX-ouxOUBSeZ-BHOw6::file:1iRrp-c6Mj2Sq7VZs49jyTokcyhFYpLYp",
+          "name": "Chương 1 – Animals – Unit 6 – Bring Back The Big Cats",
+          "parentName": "1. Chương 1 – Animals",
+          "checksum": "2026-05-18T01:26:45.877Z|1|34301599ef59",
+          "virtual": true
+        },
+        {
+          "id": "1EFeCPimiHC_Oz_aX-ouxOUBSeZ-BHOw6::file:1IWouRONJLKV02l-5fnbgbJV5MBcdHIjd",
+          "name": "Chương 1 – Animals – Unit 5 – Đáp án",
+          "parentName": "1. Chương 1 – Animals",
+          "checksum": "2026-05-18T01:26:34.282Z|1|e9780f6e315b",
+          "virtual": true
+        },
+        {
+          "id": "1EFeCPimiHC_Oz_aX-ouxOUBSeZ-BHOw6::file:1knJwNd3VKIM96cpdeqUi4Ug7YD5Ew-Oz",
+          "name": "Chương 1 – Animals – Unit 6 – Đáp án",
+          "parentName": "1. Chương 1 – Animals",
+          "checksum": "2026-05-18T01:26:31.998Z|1|0e2b8bfb4fa9",
+          "virtual": true
+        },
+        {
+          "id": "1EFeCPimiHC_Oz_aX-ouxOUBSeZ-BHOw6::file:1mWdeIXN_EkHHmmwsitKLlO149gJtCiyw",
+          "name": "Chương 1 – Animals – Unit 10 – Let's go Bats",
+          "parentName": "1. Chương 1 – Animals",
+          "checksum": "2026-05-18T01:27:20.677Z|1|c16174afccdd",
+          "virtual": true
+        },
+        {
+          "id": "1EFeCPimiHC_Oz_aX-ouxOUBSeZ-BHOw6::file:1N5H5QYyWnazfPonBBYDJdqvLkNA5hrKN",
+          "name": "Chương 1 – Animals – Unit 8 – Đáp án",
+          "parentName": "1. Chương 1 – Animals",
+          "checksum": "2026-05-18T01:27:11.412Z|1|cb3aad5edf34",
+          "virtual": true
+        },
+        {
+          "id": "1EFeCPimiHC_Oz_aX-ouxOUBSeZ-BHOw6::file:1qj5-3UxF_ie_02WgvPMASfL2aEkJNOB-",
+          "name": "Chương 1 – Animals – Unit 8 – The History of The Turtle",
+          "parentName": "1. Chương 1 – Animals",
+          "checksum": "2026-05-18T01:26:44.526Z|1|c60ce50020ea",
+          "virtual": true
+        },
+        {
+          "id": "1EFeCPimiHC_Oz_aX-ouxOUBSeZ-BHOw6::file:1RYBYZ8BT5akivT12qa9qSxBaf3TdIKiH",
+          "name": "Chương 1 – Animals – Unit 7 – Đáp án",
+          "parentName": "1. Chương 1 – Animals",
+          "checksum": "2026-05-18T01:27:12.803Z|1|bce6b33df4a2",
+          "virtual": true
+        },
+        {
+          "id": "1EFeCPimiHC_Oz_aX-ouxOUBSeZ-BHOw6::file:1Ti7S7KZUWFVS5f4-r5E_d74xzo4z3I4N",
+          "name": "Chương 1 – Animals – Unit 4 – Why Zoos Are Good",
+          "parentName": "1. Chương 1 – Animals",
+          "checksum": "2026-05-18T01:26:35.601Z|1|6535d6ca314f",
+          "virtual": true
+        },
+        {
+          "id": "1EFeCPimiHC_Oz_aX-ouxOUBSeZ-BHOw6::file:1xh5hWhtVhFcTmdG-QL5fFYWawc22cQ8M",
+          "name": "Chương 1 – Animals – Unit 4 – Đáp án",
+          "parentName": "1. Chương 1 – Animals",
+          "checksum": "2026-05-18T01:27:07.628Z|1|9d3ba037e772",
+          "virtual": true
+        },
+        {
+          "id": "1EFeCPimiHC_Oz_aX-ouxOUBSeZ-BHOw6::file:1YVPoHMxU3TDPGc870tEr6rpQQ9WtQ9cP",
+          "name": "Chương 1 – Animals – Unit 3 – Đáp án",
+          "parentName": "1. Chương 1 – Animals",
+          "checksum": "2026-05-18T01:27:17.897Z|1|1ebd0b815c52",
+          "virtual": true
+        },
+        {
+          "id": "1LJ2d6aoGHWUIEtShow_DijkcYhFutd1X::file:11TxetDz_Ut1S6ApSNV5ZQZJpc1uFfIai",
+          "name": "Chương 2 – Environment – Unit 10 – Đáp án.pdf",
+          "parentName": "2. Chương 2 – Environment",
+          "checksum": "2026-05-24T07:47:06.746Z|1|db191c0131a5",
+          "virtual": true
+        },
+        {
+          "id": "1LJ2d6aoGHWUIEtShow_DijkcYhFutd1X::file:12yA4OtuLnvxQpUi3YTO-YpaLQaX3e43f",
+          "name": "Chương 2 – Environment – Unit 7 – The Little Ice Age",
+          "parentName": "2. Chương 2 – Environment",
+          "checksum": "2026-05-24T07:47:05.162Z|1|e4adc586f62c",
+          "virtual": true
+        },
+        {
+          "id": "1LJ2d6aoGHWUIEtShow_DijkcYhFutd1X::file:14SUWB67rolPj2Ny1v00yRDCi3kRtgGoO",
+          "name": "Chương 2 – Environment – Unit 2 – Đáp án",
+          "parentName": "2. Chương 2 – Environment",
+          "checksum": "2026-05-24T07:47:05.150Z|1|de6b5c39309d",
+          "virtual": true
+        },
+        {
+          "id": "1LJ2d6aoGHWUIEtShow_DijkcYhFutd1X::file:19HE6R5yKtY-tZ4hA_Y8IPDCa7ispUJ3E",
+          "name": "Chương 2 – Environment – Unit 3 – Bringing cinnamon to Europe",
+          "parentName": "2. Chương 2 – Environment",
+          "checksum": "2026-05-24T07:47:06.670Z|1|3634bdae9194",
+          "virtual": true
+        },
+        {
+          "id": "1LJ2d6aoGHWUIEtShow_DijkcYhFutd1X::file:19s6339y-a9fCsD04EFO0RUQNkT5NoFLM",
+          "name": "Chương 2 – Environment – Unit 4 – Đáp án",
+          "parentName": "2. Chương 2 – Environment",
+          "checksum": "2026-05-24T07:47:05.135Z|1|d458dcfb1d3b",
+          "virtual": true
+        },
+        {
+          "id": "1LJ2d6aoGHWUIEtShow_DijkcYhFutd1X::file:1d65WTGgppUsprWRCHh5-cYDmtCpKz8Jc",
+          "name": "Chương 2 – Environment – Unit 6 – Marine debris",
+          "parentName": "2. Chương 2 – Environment",
+          "checksum": "2026-05-24T07:47:06.664Z|1|59908f2df01f",
+          "virtual": true
+        },
+        {
+          "id": "1LJ2d6aoGHWUIEtShow_DijkcYhFutd1X::file:1DzM6e2jEAzSiItvWD68MsP06zA6LsddJ",
+          "name": "Chương 2 – Environment – Unit 12 – Biological control of pests",
+          "parentName": "2. Chương 2 – Environment",
+          "checksum": "2026-05-24T07:47:06.694Z|1|d031f2af1c77",
+          "virtual": true
+        },
+        {
+          "id": "1LJ2d6aoGHWUIEtShow_DijkcYhFutd1X::file:1euGdQFFCpoeYZFi5Aw70NG5gtXd9hGYY",
+          "name": "Chương 2 – Environment – Unit 7 – Đáp án",
+          "parentName": "2. Chương 2 – Environment",
+          "checksum": "2026-05-24T07:47:05.189Z|1|7516cf9abc49",
+          "virtual": true
+        },
+        {
+          "id": "1LJ2d6aoGHWUIEtShow_DijkcYhFutd1X::file:1EY6HQfkwaMT-RIcFhGms7j_UsWtTBzGP",
+          "name": "Chương 2 – Environment – Unit 12 – Đáp án",
+          "parentName": "2. Chương 2 – Environment",
+          "checksum": "2026-05-24T07:47:07.277Z|1|151cbbefcaf6",
+          "virtual": true
+        },
+        {
+          "id": "1LJ2d6aoGHWUIEtShow_DijkcYhFutd1X::file:1FaPNCgUiTJgapueWCicGhn4hgrc6zQ-k",
+          "name": "Chương 2 – Environment – Unit 5 – Đáp án",
+          "parentName": "2. Chương 2 – Environment",
+          "checksum": "2026-05-24T07:47:05.139Z|1|187b3ac1bc72",
+          "virtual": true
+        },
+        {
+          "id": "1LJ2d6aoGHWUIEtShow_DijkcYhFutd1X::file:1g-an7kczHJz0fZuNwgwDTW-xcN6ZRXTv",
+          "name": "Chương 2 – Environment – Unit 11 – Making every drop count",
+          "parentName": "2. Chương 2 – Environment",
+          "checksum": "2026-05-24T07:47:06.723Z|1|0a9c6fb7e965",
+          "virtual": true
+        },
+        {
+          "id": "1LJ2d6aoGHWUIEtShow_DijkcYhFutd1X::file:1H05231iEFL7qli9qKfTNLKzWa40aI2BP",
+          "name": "Chương 2 – Environment – Unit 1 – Nutmeg – a valuable spice",
+          "parentName": "2. Chương 2 – Environment",
+          "checksum": "2026-05-24T07:47:05.127Z|1|ad4e5a08d886",
+          "virtual": true
+        },
+        {
+          "id": "1LJ2d6aoGHWUIEtShow_DijkcYhFutd1X::file:1JZ5RM8jyqjoTW59bA9lusb8TR6Ltt6cq",
+          "name": "Chương 2 – Environment – Unit 6 – Đáp án",
+          "parentName": "2. Chương 2 – Environment",
+          "checksum": "2026-05-24T07:47:05.148Z|1|2c718f57e46d",
+          "virtual": true
+        },
+        {
+          "id": "1LJ2d6aoGHWUIEtShow_DijkcYhFutd1X::file:1NYG4GFGzlprtgV_KqEzf_Kah8Oy0Beaf",
+          "name": "Chương 2 – Environment – Unit 8 – Saving the soil",
+          "parentName": "2. Chương 2 – Environment",
+          "checksum": "2026-05-24T07:47:05.157Z|1|817ba1ec8c26",
+          "virtual": true
+        },
+        {
+          "id": "1LJ2d6aoGHWUIEtShow_DijkcYhFutd1X::file:1okuDkeeKwChi7eMoP6Dk6dP2wiUeoWUt",
+          "name": "Chương 2 – Environment – Unit 5 – Cork",
+          "parentName": "2. Chương 2 – Environment",
+          "checksum": "2026-05-24T07:47:06.698Z|1|94c5ac4bf23f",
+          "virtual": true
+        },
+        {
+          "id": "1LJ2d6aoGHWUIEtShow_DijkcYhFutd1X::file:1oRNAdh_rH7NkFze0q0pWP366Iahgn_31",
+          "name": "Chương 2 – Environment – Unit 3 – Đáp án",
+          "parentName": "2. Chương 2 – Environment",
+          "checksum": "2026-05-24T07:47:05.154Z|1|bea7f1258125",
+          "virtual": true
+        },
+        {
+          "id": "1LJ2d6aoGHWUIEtShow_DijkcYhFutd1X::file:1OZ2ah4AaozVQ2jA5NeVpLgdiVnNrhGch",
+          "name": "Chương 2 – Environment – Unit 8 – Đáp án",
+          "parentName": "2. Chương 2 – Environment",
+          "checksum": "2026-05-24T07:47:05.142Z|1|1a791169f4ac",
+          "virtual": true
+        },
+        {
+          "id": "1LJ2d6aoGHWUIEtShow_DijkcYhFutd1X::file:1tAoSbqhTj87u5TB5t8PO91rulx3cA43o",
+          "name": "Chương 2 – Environment – Unit 9 – Environmental practices of big business",
+          "parentName": "2. Chương 2 – Environment",
+          "checksum": "2026-05-24T07:47:07.447Z|1|14e9b81fef90",
+          "virtual": true
+        },
+        {
+          "id": "1LJ2d6aoGHWUIEtShow_DijkcYhFutd1X::file:1vg7QvjCVVfRQJjySqCs8PTDYP_nsAflF",
+          "name": "Chương 2 – Environment – Unit 1 – Đáp án",
+          "parentName": "2. Chương 2 – Environment",
+          "checksum": "2026-05-24T07:47:05.154Z|1|9340dd89127c",
+          "virtual": true
+        },
+        {
+          "id": "1LJ2d6aoGHWUIEtShow_DijkcYhFutd1X::file:1WSP3w0xA1OWANsYSKF0QKsjdDKWGH3Ea",
+          "name": "Chương 2 – Environment – Unit 4 – Autumn leaves",
+          "parentName": "2. Chương 2 – Environment",
+          "checksum": "2026-05-24T07:47:05.147Z|1|c4f9088f6f65",
+          "virtual": true
+        },
+        {
+          "id": "1LJ2d6aoGHWUIEtShow_DijkcYhFutd1X::file:1xlXdHnMEIYMgn7gQhViQBLaxVfmagmAC",
+          "name": "Chương 2 – Environment – Unit 9 – Đáp án",
+          "parentName": "2. Chương 2 – Environment",
+          "checksum": "2026-05-24T07:47:06.706Z|1|1c6c54208676",
+          "virtual": true
+        },
+        {
+          "id": "1LJ2d6aoGHWUIEtShow_DijkcYhFutd1X::file:1YdnCe2i-GluyZx270sJGTGsCTSCKGj3k",
+          "name": "Chương 2 – Environment – Unit 11 – Đáp án",
+          "parentName": "2. Chương 2 – Environment",
+          "checksum": "2026-05-24T07:47:06.765Z|1|0a75884fd954",
+          "virtual": true
+        },
+        {
+          "id": "1LJ2d6aoGHWUIEtShow_DijkcYhFutd1X::file:1YMmp_zkHEGVftsJX5IlB79sdnkTh9XRF",
+          "name": "Chương 2 – Environment – Unit 10 – Reducing the effects of climate change.pdf",
+          "parentName": "2. Chương 2 – Environment",
+          "checksum": "2026-05-24T07:47:06.743Z|1|d017b07854b0",
+          "virtual": true
+        },
+        {
+          "id": "1LJ2d6aoGHWUIEtShow_DijkcYhFutd1X::file:1zwtxv3u3oq60lXuk1fFODOiiorgu4X_9",
+          "name": "Chương 2 – Environment – Unit 2 – The return of the huarango",
+          "parentName": "2. Chương 2 – Environment",
+          "checksum": "2026-05-24T07:47:06.675Z|1|a41ec62e1af5",
+          "virtual": true
+        }
+      ],
+      "rendererVersion": "4.3.1",
+      "styleVersion": "2026-05-31-student-banner-no-meta-v2",
+      "runId": "no-meta-sync-2026-05-31-104541",
+      "spreadsheetId": "1gBF3LkiVjCQgEZuHu1-aa6BsfooJKLgYfg1k47TjcaE",
+      "stats": {
+        "leafCount": 45,
+        "totalVideos": 0
+      }
+    }
+  },
+  "updatedAt": "2026-05-31T04:00:07.835Z",
+  "version": 2
+}

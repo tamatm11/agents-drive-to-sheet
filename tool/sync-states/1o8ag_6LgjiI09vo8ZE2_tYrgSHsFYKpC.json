@@ -1,0 +1,63 @@
+{
+  "teacherId": "1o8ag_6LgjiI09vo8ZE2_tYrgSHsFYKpC",
+  "tabs": {
+    "18EVKBDut-ua63sF0KqB0p1cCdc8YByxd": {
+      "tabName": "Khóa T",
+      "renderedAt": "2026-05-31T04:03:40.825Z",
+      "checksum": "18EVKBDut-ua63sF0KqB0p1cCdc8YByxd|2026-04-15T22:18:53.437Z|0",
+      "lessons": [],
+      "rendererVersion": "4.3.1",
+      "styleVersion": "2026-05-31-student-banner-no-meta-v2",
+      "runId": "no-meta-sync-2026-05-31-104541",
+      "spreadsheetId": "1pRtnsIth9BvteDaihagaN0EA0Uw7dGRAfwcKxTIxsrc",
+      "stats": {
+        "leafCount": 0,
+        "totalVideos": 0
+      }
+    },
+    "1qN3aEimheJITNPDGN-ayOqwCQOhb4og6": {
+      "tabName": "Khóa E",
+      "renderedAt": "2026-05-31T04:03:48.081Z",
+      "checksum": "1qN3aEimheJITNPDGN-ayOqwCQOhb4og6|2026-04-15T22:18:52.687Z|0",
+      "lessons": [],
+      "rendererVersion": "4.3.1",
+      "styleVersion": "2026-05-31-student-banner-no-meta-v2",
+      "runId": "no-meta-sync-2026-05-31-104541",
+      "spreadsheetId": "1pRtnsIth9BvteDaihagaN0EA0Uw7dGRAfwcKxTIxsrc",
+      "stats": {
+        "leafCount": 0,
+        "totalVideos": 0
+      }
+    },
+    "1IzqHzOBBJJU6clsWTzzhfnItobTwkCkO": {
+      "tabName": "Khóa N",
+      "renderedAt": "2026-05-31T04:03:55.315Z",
+      "checksum": "1IzqHzOBBJJU6clsWTzzhfnItobTwkCkO|2026-04-15T22:18:51.695Z|0",
+      "lessons": [],
+      "rendererVersion": "4.3.1",
+      "styleVersion": "2026-05-31-student-banner-no-meta-v2",
+      "runId": "no-meta-sync-2026-05-31-104541",
+      "spreadsheetId": "1pRtnsIth9BvteDaihagaN0EA0Uw7dGRAfwcKxTIxsrc",
+      "stats": {
+        "leafCount": 0,
+        "totalVideos": 0
+      }
+    },
+    "1QuOVDeT3NckGN833jaV_apu3hVD3o5qa": {
+      "tabName": "Khóa S",
+      "renderedAt": "2026-05-31T04:04:02.442Z",
+      "checksum": "1QuOVDeT3NckGN833jaV_apu3hVD3o5qa|2026-04-15T22:18:50.802Z|0",
+      "lessons": [],
+      "rendererVersion": "4.3.1",
+      "styleVersion": "2026-05-31-student-banner-no-meta-v2",
+      "runId": "no-meta-sync-2026-05-31-104541",
+      "spreadsheetId": "1pRtnsIth9BvteDaihagaN0EA0Uw7dGRAfwcKxTIxsrc",
+      "stats": {
+        "leafCount": 0,
+        "totalVideos": 0
+      }
+    }
+  },
+  "updatedAt": "2026-05-31T04:04:02.443Z",
+  "version": 2
+}

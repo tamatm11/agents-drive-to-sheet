@@ -1,0 +1,76 @@
+{
+  "updatedAt": "2026-05-28T12:18:35.710Z",
+  "teacher": {
+    "id": "1FXHJ0WPJ3PkK0Ti8s-GQXY0PAHRX4Hgx",
+    "name": "1. CÁC KHOÁ HSA ĐÁNH GIÁ NĂNG LỰC HÀ NỘI 2027"
+  },
+  "schema": {
+    "levels": [
+      {
+        "depth": 0,
+        "label": "Chương / Chuyên đề",
+        "icon": "📖",
+        "bold": true,
+        "bg": "#FCE5C0",
+        "namePatternHint": "Cấp 1: vd '0. INFO THÔNG TIN VÀ HƯỚNG DẪN KHOÁ HỌC', '1. GIAI ĐOẠN 1: TOPUNI NỀN TẢNG', '2. GIAI ĐOẠN 2: TOPUNI TỔNG ÔN', '3. GIAI ĐOẠN 3: TOPUNI LUYỆN ĐỀ', 'Z. EBOOK SÁCH KÈM KHOÁ HỌC'"
+      }
+    ],
+    "leafFallback": {
+      "label": "Bài",
+      "icon": "📂",
+      "bold": true,
+      "bg": "#FCF1D4",
+      "note": "Một số khóa file nằm cấp nông hơn — render thẳng như leaf bài học."
+    },
+    "courseRow": {
+      "icon": "📚",
+      "bold": true,
+      "fontSize": 12,
+      "bg": "#D4E5FA"
+    },
+    "videoRow": {
+      "icon": "▸",
+      "indent": "extra-from-leaf"
+    },
+    "notes": "Auto-detect (1 cấp). 4/4 khóa có cấu trúc. Pattern: flat. Skip 0 folder meta. 5 file đã upload."
+  },
+  "_meta": {
+    "source": "auto-detect",
+    "version": 1,
+    "generated_at": "2026-05-28T12:18:35.710Z",
+    "confidence": "high",
+    "dominant_depth": 1,
+    "dominant_share": 1,
+    "patterns_observed": [
+      "flat"
+    ],
+    "meta_courses_skipped": [],
+    "course_breakdown": [
+      {
+        "name": "1. HSA HOCMAI 2K9 LUYỆN THI ĐGNL HÀ NỘI 2027",
+        "structure_depth": 1,
+        "pattern": "flat",
+        "files": 2
+      },
+      {
+        "name": "2. HSA EMPIRE 2K9 LUYỆN THI ĐGNL HÀ NỘI 2027",
+        "structure_depth": 1,
+        "pattern": "flat",
+        "files": 1
+      },
+      {
+        "name": "3. HSA MAPSTUDY 2K9 LUYỆN THI ĐGNL HÀ NỘI 2027",
+        "structure_depth": 1,
+        "pattern": "flat",
+        "files": 1
+      },
+      {
+        "name": "4. HSA 2K9 HSA EDU LUYỆN THI ĐGNL HÀ NỘI 2027",
+        "structure_depth": 1,
+        "pattern": "flat",
+        "files": 1
+      }
+    ],
+    "no_files_yet": false
+  }
+}

@@ -1,0 +1,85 @@
+{
+  "updatedAt": "2026-05-28T12:18:35.702Z",
+  "teacher": {
+    "id": "16Q7U3U2n8nHfKZBu1EgFsbXJp-LVvsLK",
+    "name": "3. LÝ THẦY THẮNG, THẦY TIẾN IPCLASS 2K9"
+  },
+  "schema": {
+    "levels": [
+      {
+        "depth": 0,
+        "label": "Chương / Chuyên đề",
+        "icon": "📖",
+        "bold": true,
+        "bg": "#FCE5C0",
+        "namePatternHint": "Cấp 1: vd '0. HƯỚNG DẪN HỌC', '1. CHƯƠNG 1 - VẬT LÍ NHIỆT', '2. CHƯƠNG 2 - KHÍ LÍ TƯỞNG', '1. Đề kiểm tra định kì hằng tuần IPtest 01'"
+      }
+    ],
+    "leafFallback": {
+      "label": "Bài",
+      "icon": "📂",
+      "bold": true,
+      "bg": "#FCF1D4",
+      "note": "Một số khóa file nằm cấp nông hơn — render thẳng như leaf bài học."
+    },
+    "courseRow": {
+      "icon": "📚",
+      "bold": true,
+      "fontSize": 12,
+      "bg": "#D4E5FA"
+    },
+    "videoRow": {
+      "icon": "▸",
+      "indent": "extra-from-leaf"
+    },
+    "notes": "Auto-detect (1 cấp). 2/5 khóa có cấu trúc. Pattern: flat. Skip 2 folder meta. 4 file đã upload."
+  },
+  "_meta": {
+    "source": "auto-detect",
+    "version": 1,
+    "generated_at": "2026-05-28T12:18:35.702Z",
+    "confidence": "high",
+    "dominant_depth": 1,
+    "dominant_share": 1,
+    "patterns_observed": [
+      "flat"
+    ],
+    "meta_courses_skipped": [
+      "0. INFO THÔNG TIN VÀ HƯỚNG DẪN KHOÁ HỌC",
+      "Z. EBOOK SÁCH KÈM KHOÁ HỌC"
+    ],
+    "course_breakdown": [
+      {
+        "name": "1. KHOÁ IP01 CHUYÊN ĐỀ TOÀN DIỆN 12",
+        "structure_depth": 1,
+        "pattern": "flat",
+        "files": 1
+      },
+      {
+        "name": "2. KHOÁ IP02 VDC - THỰC TẾ",
+        "structure_depth": 0,
+        "pattern": "empty",
+        "files": 0
+      },
+      {
+        "name": "3. KHOÁ IP03 TỔNG ÔN",
+        "structure_depth": 0,
+        "pattern": "empty",
+        "files": 0
+      },
+      {
+        "name": "4. KHOÁ IP04 LUYỆN ĐỀ TINH HOA",
+        "structure_depth": 0,
+        "pattern": "empty",
+        "files": 0
+      },
+      {
+        "name": "IPTEST KIỂM TRA ĐỊNH KÌ",
+        "structure_depth": 1,
+        "pattern": "flat",
+        "files": 3
+      }
+    ],
+    "no_files_yet": false
+  }
+}

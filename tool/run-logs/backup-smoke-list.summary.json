@@ -1,0 +1,12 @@
+{
+  "runId": "backup-smoke-list",
+  "summary": {
+    "mode": "list",
+    "total": 1,
+    "ready": 1,
+    "ok": 1,
+    "failed": 0,
+    "skipped": 0,
+    "backups": 0
+  }
+}

@@ -1,0 +1,513 @@
+{
+  "crawledAt": "2026-05-29T12:53:42.321Z",
+  "teacher": {
+    "id": "1EcxStm2Bl6kajBrRjyN2MPl51wfOsfWV",
+    "name": "9. TOÁN THẦY TRỊNH ĐÌNH THÀNH DPAD 2K9",
+    "modifiedTime": "2026-05-27T15:36:06.105Z",
+    "webViewLink": "https://drive.google.com/drive/folders/1EcxStm2Bl6kajBrRjyN2MPl51wfOsfWV"
+  },
+  "courses": [
+    {
+      "id": "1ebFsRXKtXjqPwlFclsPt5lRgB_TxGsSF",
+      "name": "0. INFO THÔNG TIN VÀ HƯỚNG DẪN KHOÁ HỌC",
+      "children": [],
+      "files": [],
+      "webViewLink": "https://drive.google.com/drive/folders/1ebFsRXKtXjqPwlFclsPt5lRgB_TxGsSF",
+      "modifiedTime": "2026-04-18T14:17:45.391Z"
+    },
+    {
+      "id": "1uOw8ythAZHczICz5cZlxAoR5fWAUIyaN",
+      "name": "1. [XPS TOÁN 12] KHOÁ NỀN TẢNG",
+      "children": [
+        {
+          "id": "1OmgFB_Zb6Ij3f-5zKEHtd8yPziSWZ0Yk",
+          "name": "1. CHƯƠNG 1 - MỤC 1: TRỌNG TÂM TOÁN 10-11",
+          "webViewLink": "https://drive.google.com/drive/folders/1OmgFB_Zb6Ij3f-5zKEHtd8yPziSWZ0Yk",
+          "modifiedTime": "2026-04-21T21:48:04.019Z",
+          "children": [
+            {
+              "id": "1MZL2TYCrDp-mffOZsvCVSANDM804iWiY",
+              "name": "1. Bài 1: Sơ Lược về một số kiến thức quan trọng lơp dưới",
+              "webViewLink": "https://drive.google.com/drive/folders/1MZL2TYCrDp-mffOZsvCVSANDM804iWiY",
+              "modifiedTime": "2026-04-21T21:48:24.763Z",
+              "children": [],
+              "files": [
+                {
+                  "id": "1hvsFTViYaUpxfFVao9BccsC1jozul7v-",
+                  "name": "Bài 1 Sơ Lược về một số kiến thức quan trọng lơp dưới P1 .mp4",
+                  "mimeType": "video/mp4",
+                  "size": 205798837,
+                  "webViewLink": "https://drive.google.com/file/d/1hvsFTViYaUpxfFVao9BccsC1jozul7v-/view?usp=drivesdk",
+                  "modifiedTime": "2026-04-21T21:48:26.906Z",
+                  "videoMediaMetadata": null
+                },
+                {
+                  "id": "1EoF8lxocsy9eo0jPY5gfwL55oiIKxMa9",
+                  "name": "Bài 1 Sơ Lược về một số kiến thức quan trọng lơp dưới P2 .mp4",
+                  "mimeType": "video/mp4",
+                  "size": 223655850,
+                  "webViewLink": "https://drive.google.com/file/d/1EoF8lxocsy9eo0jPY5gfwL55oiIKxMa9/view?usp=drivesdk",
+                  "modifiedTime": "2026-04-21T21:48:28.228Z",
+                  "videoMediaMetadata": {
+                    "width": 1920,
+                    "height": 1080,
+                    "durationMillis": "3761466"
+                  }
+                },
+                {
+                  "id": "1JD0yoSkbrl1sz0lzzTa-878gDu5K7ajQ",
+                  "name": "Bài 1 Sơ Lược về một số kiến thức quan trọng lơp dưới.pdf",
+                  "mimeType": "application/pdf",
+                  "size": 5593979,
+                  "webViewLink": "https://drive.google.com/file/d/1JD0yoSkbrl1sz0lzzTa-878gDu5K7ajQ/view?usp=drivesdk",
+                  "modifiedTime": "2026-04-21T21:48:25.505Z",
+                  "videoMediaMetadata": null
+                }
+              ]
+            },
+            {
+              "id": "1HvPDCDOrlKDdHMkUAqc6zb18EDrrwr7x",
+              "name": "2. Bài 2 : Lượng Giác",
+              "webViewLink": "https://drive.google.com/drive/folders/1HvPDCDOrlKDdHMkUAqc6zb18EDrrwr7x",
+              "modifiedTime": "2026-04-21T21:48:18.559Z",
+              "children": [],
+              "files": [
+                {
+                  "id": "137Q4SQl8BrgHJRM8c8L7szf3NjdrcdIm",
+                  "name": "Bài 2  Lượng Giác .mp4",
+                  "mimeType": "video/mp4",
+                  "size": 375339429,
+                  "webViewLink": "https://drive.google.com/file/d/137Q4SQl8BrgHJRM8c8L7szf3NjdrcdIm/view?usp=drivesdk",
+                  "modifiedTime": "2026-04-21T21:48:23.520Z",
+                  "videoMediaMetadata": {
+                    "width": 1904,
+                    "height": 1008,
+                    "durationMillis": "5135666"
+                  }
+                },
+                {
+                  "id": "1dk2shh0f74wMPxu3ZrEJVcIpIcXxF4js",
+                  "name": "Bài 2  Lượng Giác CÁCH DÒNG .pdf",
+                  "mimeType": "application/pdf",
+                  "size": 15029640,
+                  "webViewLink": "https://drive.google.com/file/d/1dk2shh0f74wMPxu3ZrEJVcIpIcXxF4js/view?usp=drivesdk",
+                  "modifiedTime": "2026-04-21T21:48:22.354Z",
+                  "videoMediaMetadata": null
+                },
+                {
+                  "id": "1XaaK8CS2DSHzAgHY2JG3sgdZyKGp9OGN",
+                  "name": "Bài 2  Lượng Giác.pdf",
+                  "mimeType": "application/pdf",
+                  "size": 10966571,
+                  "webViewLink": "https://drive.google.com/file/d/1XaaK8CS2DSHzAgHY2JG3sgdZyKGp9OGN/view?usp=drivesdk",
+                  "modifiedTime": "2026-04-21T21:48:21.252Z",
+                  "videoMediaMetadata": null
+                },
+                {
+                  "id": "1Q2-pMsPhey_9R1IUrUgonsnUcXdh_Jwd",
+                  "name": "Bài 2 Lượng Giác VT .pdf",
+                  "mimeType": "application/pdf",
+                  "size": 26516273,
+                  "webViewLink": "https://drive.google.com/file/d/1Q2-pMsPhey_9R1IUrUgonsnUcXdh_Jwd/view?usp=drivesdk",
+                  "modifiedTime": "2026-04-21T21:48:19.627Z",
+                  "videoMediaMetadata": null
+                }
+              ]
+            },
+            {
+              "id": "1i2tQtxw2605_yEPuADuJWdPanapXbcNq",
+              "name": "3. Bài 3: Mũ - Loga",
+              "webViewLink": "https://drive.google.com/drive/folders/1i2tQtxw2605_yEPuADuJWdPanapXbcNq",
+              "modifiedTime": "2026-04-21T21:48:11.976Z",
+              "children": [],
+              "files": [
+                {
+                  "id": "1BZWoXiVUSqPsYa6cVERrI-_N7KOkzGOh",
+                  "name": "Bài 3 Mũ - Loga 1.mp4",
+                  "mimeType": "video/mp4",
+                  "size": 504149857,
+                  "webViewLink": "https://drive.google.com/file/d/1BZWoXiVUSqPsYa6cVERrI-_N7KOkzGOh/view?usp=drivesdk",
+                  "modifiedTime": "2026-04-21T21:48:17.463Z",
+                  "videoMediaMetadata": {
+                    "width": 1920,
+                    "height": 1080,
+                    "durationMillis": "7774999"
+                  }
+                },
+                {
+                  "id": "1DzeFWV-xUpvvsdtVJgdJ8jlQq3ayW6kX",
+                  "name": "Bài 3 Mũ - Loga 2.mp4",
+                  "mimeType": "video/mp4",
+                  "size": 351370994,
+                  "webViewLink": "https://drive.google.com/file/d/1DzeFWV-xUpvvsdtVJgdJ8jlQq3ayW6kX/view?usp=drivesdk",
+                  "modifiedTime": "2026-04-21T21:48:16.326Z",
+                  "videoMediaMetadata": {
+                    "width": 1920,
+                    "height": 1080,
+                    "durationMillis": "5819499"
+                  }
+                },
+                {
+                  "id": "1HdInmSXtiJOhJeTTcWhtllVbr1AW20rx",
+                  "name": "Bài 3 Mũ - Loga CD  .pdf",
+                  "mimeType": "application/pdf",
+                  "size": 28344866,
+                  "webViewLink": "https://drive.google.com/file/d/1HdInmSXtiJOhJeTTcWhtllVbr1AW20rx/view?usp=drivesdk",
+                  "modifiedTime": "2026-04-21T21:48:15.221Z",
+                  "videoMediaMetadata": null
+                },
+                {
+                  "id": "15oxaMnFil-pcn9GRzfW_3Tpm9KcGnxwa",
+                  "name": "Bài 3 Mũ - Loga DA.pdf",
+                  "mimeType": "application/pdf",
+                  "size": 46708585,
+                  "webViewLink": "https://drive.google.com/file/d/15oxaMnFil-pcn9GRzfW_3Tpm9KcGnxwa/view?usp=drivesdk",
+                  "modifiedTime": "2026-04-21T21:48:13.882Z",
+                  "videoMediaMetadata": null
+                },
+                {
+                  "id": "1fQm1nOPhXsO6upVrIooGHxEn7pIxcRho",
+                  "name": "Bài 3 Mũ - Loga.pdf",
+                  "mimeType": "application/pdf",
+                  "size": 19433056,
+                  "webViewLink": "https://drive.google.com/file/d/1fQm1nOPhXsO6upVrIooGHxEn7pIxcRho/view?usp=drivesdk",
+                  "modifiedTime": "2026-04-21T21:48:12.739Z",
+                  "videoMediaMetadata": null
+                }
+              ]
+            },
+            {
+              "id": "1OW3xS4dVa9sUq-eKYXHdT4FXCws9H8E4",
+              "name": "4. Bài 4: Đạo Hàm",
+              "webViewLink": "https://drive.google.com/drive/folders/1OW3xS4dVa9sUq-eKYXHdT4FXCws9H8E4",
+              "modifiedTime": "2026-04-21T21:48:05.667Z",
+              "children": [],
+              "files": [
+                {
+                  "id": "1ljFAEgsy6rHnHodqevYcna0VM7o6HMJZ",
+                  "name": "Bài 4 Đạo Hàm .mp4",
+                  "mimeType": "video/mp4",
+                  "size": 257081508,
+                  "webViewLink": "https://drive.google.com/file/d/1ljFAEgsy6rHnHodqevYcna0VM7o6HMJZ/view?usp=drivesdk",
+                  "modifiedTime": "2026-04-21T21:48:10.728Z",
+                  "videoMediaMetadata": null
+                },
+                {
+                  "id": "1UpuwfH-pIaASH9CQ5vndBIeDUoMP7Qo9",
+                  "name": "Bài 4 Đạo Hàm .pdf",
+                  "mimeType": "application/pdf",
+                  "size": 6533342,
+                  "webViewLink": "https://drive.google.com/file/d/1UpuwfH-pIaASH9CQ5vndBIeDUoMP7Qo9/view?usp=drivesdk",
+                  "modifiedTime": "2026-04-21T21:48:09.398Z",
+                  "videoMediaMetadata": null
+                },
+                {
+                  "id": "1NklLgFJldTFU0STHQQewNC3MMZr4wgjv",
+                  "name": "Bài 4 Đạo Hàm CD .pdf",
+                  "mimeType": "application/pdf",
+                  "size": 8775186,
+                  "webViewLink": "https://drive.google.com/file/d/1NklLgFJldTFU0STHQQewNC3MMZr4wgjv/view?usp=drivesdk",
+                  "modifiedTime": "2026-04-21T21:48:07.800Z",
+                  "videoMediaMetadata": null
+                },
+                {
+                  "id": "16XAmh1ZHSo5-Kh4PJHsGL8IxZPg279Cz",
+                  "name": "Bài 4 Đạo Hàm DA.pdf",
+                  "mimeType": "application/pdf",
+                  "size": 10247024,
+                  "webViewLink": "https://drive.google.com/file/d/16XAmh1ZHSo5-Kh4PJHsGL8IxZPg279Cz/view?usp=drivesdk",
+                  "modifiedTime": "2026-04-21T21:48:06.451Z",
+                  "videoMediaMetadata": null
+                }
+              ]
+            },
+            {
+              "id": "1rQGrF2J3jIDU5gTAkEEJugpiu0qrP7jx",
+              "name": "5. Bài 5: Trọng tâm nền tảng: Hình Học Không Gian",
+              "webViewLink": "https://drive.google.com/drive/folders/1rQGrF2J3jIDU5gTAkEEJugpiu0qrP7jx",
+              "modifiedTime": "2026-04-21T21:48:04.859Z",
+              "children": [],
+              "files": []
+            }
+          ],
+          "files": []
+        },
+        {
+          "id": "1zylidwpXGnq0DDVL10C0s7t9xn8fFFDq",
+          "name": "2. CHƯƠNG 2 - MỤC 2: HÀM SỐ",
+          "webViewLink": "https://drive.google.com/drive/folders/1zylidwpXGnq0DDVL10C0s7t9xn8fFFDq",
+          "modifiedTime": "2026-04-21T21:48:29.381Z",
+          "children": [
+            {
+              "id": "16fOjdb42bQ7YDEgYBCgliwUsNipg33p0",
+              "name": "1. FILE TỔNG CHƯƠNG",
+              "webViewLink": "https://drive.google.com/drive/folders/16fOjdb42bQ7YDEgYBCgliwUsNipg33p0",
+              "modifiedTime": "2026-04-27T15:59:19.132Z",
+              "children": [],
+              "files": [
+                {
+                  "id": "1YuzsXeeIE8gPBepqTALiE42HYuB3qSx6",
+                  "name": "FILE TỔNG CHƯƠNG cd .pdf",
+                  "mimeType": "application/pdf",
+                  "size": 113666931,
+                  "webViewLink": "https://drive.google.com/file/d/1YuzsXeeIE8gPBepqTALiE42HYuB3qSx6/view?usp=drivesdk",
+                  "modifiedTime": "2026-04-27T15:59:19.639Z",
+                  "videoMediaMetadata": null
+                },
+                {
+                  "id": "1iE1roxsz28P_BdSOiqT1QlpCmEfG1y67",
+                  "name": "FILE TỔNG CHƯƠNG.pdf",
+                  "mimeType": "application/pdf",
+                  "size": 12672131,
+                  "webViewLink": "https://drive.google.com/file/d/1iE1roxsz28P_BdSOiqT1QlpCmEfG1y67/view?usp=drivesdk",
+                  "modifiedTime": "2026-04-27T15:59:20.668Z",
+                  "videoMediaMetadata": null
+                }
+              ]
+            },
+            {
+              "id": "1RJ8LdJou589qpD3z9UrfIkZmNdBOrWAk",
+              "name": "2. Bài 1: Đơn Điệu Hàm Số",
+              "webViewLink": "https://drive.google.com/drive/folders/1RJ8LdJou589qpD3z9UrfIkZmNdBOrWAk",
+              "modifiedTime": "2026-04-27T15:59:14.186Z",
+              "children": [],
+              "files": [
+                {
+                  "id": "1uMddEpCYGNjz3Rl1DtBLvEpCiPR3Mnkt",
+                  "name": "Bài 1 Đơn Điệu Hàm Số.pdf",
+                  "mimeType": "application/pdf",
+                  "size": 5967432,
+                  "webViewLink": "https://drive.google.com/file/d/1uMddEpCYGNjz3Rl1DtBLvEpCiPR3Mnkt/view?usp=drivesdk",
+                  "modifiedTime": "2026-04-27T15:59:15.808Z",
+                  "videoMediaMetadata": null
+                },
+                {
+                  "id": "1Bx4VMkP0cWjDTwZ5U-hYrqYyaADPSNMP",
+                  "name": "DA Bài 1 Đơn Điệu Hàm Số .pdf",
+                  "mimeType": "application/pdf",
+                  "size": 37149290,
+                  "webViewLink": "https://drive.google.com/file/d/1Bx4VMkP0cWjDTwZ5U-hYrqYyaADPSNMP/view?usp=drivesdk",
+                  "modifiedTime": "2026-04-27T15:59:14.681Z",
+                  "videoMediaMetadata": null
+                },
+                {
+                  "id": "19LqH0Sg4GVa3SgwS0gPgX6uPPkHqHowA",
+                  "name": "DPAD 1 .mp4",
+                  "mimeType": "video/mp4",
+                  "size": 467573489,
+                  "webViewLink": "https://drive.google.com/file/d/19LqH0Sg4GVa3SgwS0gPgX6uPPkHqHowA/view?usp=drivesdk",
+                  "modifiedTime": "2026-04-27T15:59:16.918Z",
+                  "videoMediaMetadata": {
+                    "width": 1920,
+                    "height": 1080,
+                    "durationMillis": "6014233"
+                  }
+                },
+                {
+                  "id": "1gXWjqH4YhZD6d75KAN2gj4z1y-LZiv6s",
+                  "name": "DPAD 2.mp4",
+                  "mimeType": "video/mp4",
+                  "size": 280215958,
+                  "webViewLink": "https://drive.google.com/file/d/1gXWjqH4YhZD6d75KAN2gj4z1y-LZiv6s/view?usp=drivesdk",
+                  "modifiedTime": "2026-04-27T15:59:18.088Z",
+                  "videoMediaMetadata": null
+                }
+              ]
+            },
+            {
+              "id": "1_1I-1LEqPtMGcrdQcos-NtF_SIb7dUsG",
+              "name": "3. Bài 2: Cực Trị Hàm Số",
+              "webViewLink": "https://drive.google.com/drive/folders/1_1I-1LEqPtMGcrdQcos-NtF_SIb7dUsG",
+              "modifiedTime": "2026-04-27T15:59:09.734Z",
+              "children": [],
+              "files": [
+                {
+                  "id": "1r9fwIWDhNeezle4U8i9pT3b56T7fblYW",
+                  "name": "Bài 2 Cực Trị Hàm Số DA .pdf",
+                  "mimeType": "application/pdf",
+                  "size": 45447051,
+                  "webViewLink": "https://drive.google.com/file/d/1r9fwIWDhNeezle4U8i9pT3b56T7fblYW/view?usp=drivesdk",
+                  "modifiedTime": "2026-04-27T15:59:12.029Z",
+                  "videoMediaMetadata": null
+                },
+                {
+                  "id": "1A8qwHGnQWt8A7MlTPep9Xpr13YfaYY3C",
+                  "name": "Bài 2 Cực Trị Hàm Số.pdf",
+                  "mimeType": "application/pdf",
+                  "size": 6309693,
+                  "webViewLink": "https://drive.google.com/file/d/1A8qwHGnQWt8A7MlTPep9Xpr13YfaYY3C/view?usp=drivesdk",
+                  "modifiedTime": "2026-04-27T15:59:10.987Z",
+                  "videoMediaMetadata": null
+                },
+                {
+                  "id": "18QP6AfY1uX0YN6-cVY4k8k63Om9nvSoo",
+                  "name": "P1 .mp4",
+                  "mimeType": "video/mp4",
+                  "size": 353195432,
+                  "webViewLink": "https://drive.google.com/file/d/18QP6AfY1uX0YN6-cVY4k8k63Om9nvSoo/view?usp=drivesdk",
+                  "modifiedTime": "2026-05-10T07:37:03.462Z",
+                  "videoMediaMetadata": null
+                },
+                {
+                  "id": "1tfcJwmTcBeviGBWJzF9eyWXA96xcikfY",
+                  "name": "P2 .mp4",
+                  "mimeType": "video/mp4",
+                  "size": 424402779,
+                  "webViewLink": "https://drive.google.com/file/d/1tfcJwmTcBeviGBWJzF9eyWXA96xcikfY/view?usp=drivesdk",
+                  "modifiedTime": "2026-04-27T15:59:13.168Z",
+                  "videoMediaMetadata": null
+                }
+              ]
+            },
+            {
+              "id": "1Cr49TCF4APFTlvOHhK6i8lpQyYGNfNpI",
+              "name": "4. Bài 3: GTNN GTLN Hàm Số",
+              "webViewLink": "https://drive.google.com/drive/folders/1Cr49TCF4APFTlvOHhK6i8lpQyYGNfNpI",
+              "modifiedTime": "2026-04-27T15:59:04.393Z",
+              "children": [],
+              "files": [
+                {
+                  "id": "1YE2pnG2Tr6ugb0pqngg9Wfbg6cP6F4x7",
+                  "name": "Bài 3 GTNN GTLN Hàm Số.pdf",
+                  "mimeType": "application/pdf",
+                  "size": 5389280,
+                  "webViewLink": "https://drive.google.com/file/d/1YE2pnG2Tr6ugb0pqngg9Wfbg6cP6F4x7/view?usp=drivesdk",
+                  "modifiedTime": "2026-04-27T15:59:06.101Z",
+                  "videoMediaMetadata": null
+                },
+                {
+                  "id": "1RMT7Srt1I36lcpoHk97t5Vq7JOCZXlF6",
+                  "name": "da Bài 3 GTNN GTLN Hàm Số .pdf",
+                  "mimeType": "application/pdf",
+                  "size": 44307734,
+                  "webViewLink": "https://drive.google.com/file/d/1RMT7Srt1I36lcpoHk97t5Vq7JOCZXlF6/view?usp=drivesdk",
+                  "modifiedTime": "2026-04-27T15:59:04.991Z",
+                  "videoMediaMetadata": null
+                },
+                {
+                  "id": "1SzePGzZdTBzVx0oywaQbI0fG645pI7Ij",
+                  "name": "DPAD 1 .mp4",
+                  "mimeType": "video/mp4",
+                  "size": 332772598,
+                  "webViewLink": "https://drive.google.com/file/d/1SzePGzZdTBzVx0oywaQbI0fG645pI7Ij/view?usp=drivesdk",
+                  "modifiedTime": "2026-04-27T15:59:08.242Z",
+                  "videoMediaMetadata": {
+                    "width": 1920,
+                    "height": 1080,
+                    "durationMillis": "4838966"
+                  }
+                },
+                {
+                  "id": "1WVkISicekU2Z1YVhYOqu6WgPUQ-ImQ_v",
+                  "name": "DPAD 2.mp4",
+                  "mimeType": "video/mp4",
+                  "size": 415710887,
+                  "webViewLink": "https://drive.google.com/file/d/1WVkISicekU2Z1YVhYOqu6WgPUQ-ImQ_v/view?usp=drivesdk",
+                  "modifiedTime": "2026-04-27T15:59:07.178Z",
+                  "videoMediaMetadata": {
+                    "width": 1920,
+                    "height": 1080,
+                    "durationMillis": "5338233"
+                  }
+                }
+              ]
+            },
+            {
+              "id": "1_mSg_mWxGqWbBaVTHhzMU1aSPXggnApp",
+              "name": "5. Bài 4: Tiệm Cận",
+              "webViewLink": "https://drive.google.com/drive/folders/1_mSg_mWxGqWbBaVTHhzMU1aSPXggnApp",
+              "modifiedTime": "2026-04-27T15:58:55.578Z",
+              "children": [],
+              "files": [
+                {
+                  "id": "1jFV8ia2IzWakVpzLxT6JIgkaJ7IosiLW",
+                  "name": "Bài 4 Tiệm Cận.pdf",
+                  "mimeType": "application/pdf",
+                  "size": 4076281,
+                  "webViewLink": "https://drive.google.com/file/d/1jFV8ia2IzWakVpzLxT6JIgkaJ7IosiLW/view?usp=drivesdk",
+                  "modifiedTime": "2026-04-27T15:58:58.926Z",
+                  "videoMediaMetadata": null
+                },
+                {
+                  "id": "14m4mwPy93YeWQtRBWnw0IW4LQaymbpO_",
+                  "name": "da Bài 4 Tiệm Cận .pdf",
+                  "mimeType": "application/pdf",
+                  "size": 36089149,
+                  "webViewLink": "https://drive.google.com/file/d/14m4mwPy93YeWQtRBWnw0IW4LQaymbpO_/view?usp=drivesdk",
+                  "modifiedTime": "2026-04-27T15:58:56.710Z",
+                  "videoMediaMetadata": null
+                },
+                {
+                  "id": "1_yXvsmlFcfd09LBqRMYpif_aOnQqwbnm",
+                  "name": "p1 .mp4",
+                  "mimeType": "video/mp4",
+                  "size": 428025239,
+                  "webViewLink": "https://drive.google.com/file/d/1_yXvsmlFcfd09LBqRMYpif_aOnQqwbnm/view?usp=drivesdk",
+                  "modifiedTime": "2026-04-27T15:59:02.759Z",
+                  "videoMediaMetadata": {
+                    "width": 1920,
+                    "height": 1080,
+                    "durationMillis": "5027666"
+                  }
+                },
+                {
+                  "id": "1COCcgGyli2bR2ZDVDOxpsZKDbM4zjIOt",
+                  "name": "p2 .mp4",
+                  "mimeType": "video/mp4",
+                  "size": 234078506,
+                  "webViewLink": "https://drive.google.com/file/d/1COCcgGyli2bR2ZDVDOxpsZKDbM4zjIOt/view?usp=drivesdk",
+                  "modifiedTime": "2026-04-27T15:59:00.158Z",
+                  "videoMediaMetadata": null
+                }
+              ]
+            },
+            {
+              "id": "1crXjUSPOjm7YTixS6ZamcQqdnGqTojrU",
+              "name": "6. Bài 5: Đồ Thị Hàm Số",
+              "webViewLink": "https://drive.google.com/drive/folders/1crXjUSPOjm7YTixS6ZamcQqdnGqTojrU",
+              "modifiedTime": "2026-04-27T15:58:54.860Z",
+              "children": [],
+              "files": []
+            },
+            {
+              "id": "1wVTQ5QP3PSGYFD_OtILurUw4ugtnZZwp",
+              "name": "7. Tổng ôn chương",
+              "webViewLink": "https://drive.google.com/drive/folders/1wVTQ5QP3PSGYFD_OtILurUw4ugtnZZwp",
+              "modifiedTime": "2026-04-27T15:58:54.111Z",
+              "children": [],
+              "files": []
+            }
+          ],
+          "files": []
+        }
+      ],
+      "files": [],
+      "webViewLink": "https://drive.google.com/drive/folders/1uOw8ythAZHczICz5cZlxAoR5fWAUIyaN",
+      "modifiedTime": "2026-04-18T14:17:44.179Z"
+    },
+    {
+      "id": "1d6DfhTtaPknWbBO8cL4gkvSMB9WpLjLV",
+      "name": "2. [TOÁN 12] TOÁN THỰC TẾ X VẬN DỤNG CAO",
+      "children": [],
+      "files": [],
+      "webViewLink": "https://drive.google.com/drive/folders/1d6DfhTtaPknWbBO8cL4gkvSMB9WpLjLV",
+      "modifiedTime": "2026-04-18T14:17:43.116Z"
+    },
+    {
+      "id": "1FZJM7XY3Jmd-o5UC5-B_tukScVWSjYZA",
+      "name": "3. [TOÁN 12] BỘ CÂU HỎI 10C CUỐI",
+      "children": [],
+      "files": [],
+      "webViewLink": "https://drive.google.com/drive/folders/1FZJM7XY3Jmd-o5UC5-B_tukScVWSjYZA",
+      "modifiedTime": "2026-04-18T14:17:41.704Z"
+    },
+    {
+      "id": "135D-2Hn_ypSxWx969ntyPEjvB7U_z_08",
+      "name": "Z. EBOOK SÁCH KÈM KHOÁ HỌC",
+      "children": [],
+      "files": [],
+      "webViewLink": "https://drive.google.com/drive/folders/135D-2Hn_ypSxWx969ntyPEjvB7U_z_08",
+      "modifiedTime": "2026-04-18T14:17:46.401Z"
+    }
+  ]
+}

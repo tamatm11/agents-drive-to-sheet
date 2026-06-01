@@ -1,0 +1,358 @@
+{
+  "teacherId": "1HgCgjlC0Y0UW7AK9DlYMI9DJIq8vxX7J",
+  "tabs": {
+    "1MSMHvFsdlHM2J_nR6-MM1kF8sxS_3AIE": {
+      "tabName": "Khóa Kiến Thức Nền",
+      "renderedAt": "2026-05-31T03:46:05.139Z",
+      "checksum": "1MSMHvFsdlHM2J_nR6-MM1kF8sxS_3AIE|2026-05-24T15:01:32.473Z|142",
+      "lessons": [
+        {
+          "id": "1VDw_t3aYt2CfTh_36uRzYV__pwMIAAqY",
+          "name": "1.  [TIẾT 1] Tìm khoảng Đồng biến, Nghịch biến",
+          "parentName": "1. [BÀI 1] TÍNH ĐƠN ĐIỆU CỦA HÀM SỐ\t\t\t",
+          "checksum": "2026-04-22T14:57:12.193Z|4",
+          "virtual": false
+        },
+        {
+          "id": "1vn8qpUwEDtz-IdE_EqdyulnlMPU4DetF",
+          "name": "2.  [TIẾT 2] Các bài toán thực tế tính đơn điệu",
+          "parentName": "1. [BÀI 1] TÍNH ĐƠN ĐIỆU CỦA HÀM SỐ\t\t\t",
+          "checksum": "2026-04-22T14:57:05.352Z|4",
+          "virtual": false
+        },
+        {
+          "id": "1vOJd_wKPjL2DlFOO-QaaCYMZ5AC2sODd",
+          "name": "3.  LUYỆN TẬP TRẮC NGHIỆM ĐÚNG SAI",
+          "parentName": "1. [BÀI 1] TÍNH ĐƠN ĐIỆU CỦA HÀM SỐ\t\t\t",
+          "checksum": "2026-04-22T14:56:58.141Z|4",
+          "virtual": false
+        },
+        {
+          "id": "1Ftcz_bmL0f-nDyMhITi6cj1BbYWlVAZn",
+          "name": "4.  [TIẾT 3] Biện luận tính đơn điệu của hàm số (buổi 1)",
+          "parentName": "1. [BÀI 1] TÍNH ĐƠN ĐIỆU CỦA HÀM SỐ\t\t\t",
+          "checksum": "2026-04-22T14:56:47.273Z|4",
+          "virtual": false
+        },
+        {
+          "id": "1s7oxN2178q1WM-9RXXlG8Y9io11Bh3_Y",
+          "name": "5.  Biện luận tính đơn điệu của hàm số (buổi 2)",
+          "parentName": "1. [BÀI 1] TÍNH ĐƠN ĐIỆU CỦA HÀM SỐ\t\t\t",
+          "checksum": "2026-04-22T14:56:37.312Z|4",
+          "virtual": false
+        },
+        {
+          "id": "1bcAHKTAHo4iqw453ZbzKP74Y2EIeFnXW",
+          "name": "6.  Biện luận tính đơn điệu của hàm số (buổi 3)",
+          "parentName": "1. [BÀI 1] TÍNH ĐƠN ĐIỆU CỦA HÀM SỐ\t\t\t",
+          "checksum": "2026-04-22T14:56:29.712Z|2",
+          "virtual": false
+        },
+        {
+          "id": "1XAp4_JnNJHop4h--fV59dULhj7MIsTm-",
+          "name": "7.  TỔNG ÔN TÍNH ĐƠN ĐIỆU HÀM SỐ",
+          "parentName": "1. [BÀI 1] TÍNH ĐƠN ĐIỆU CỦA HÀM SỐ\t\t\t",
+          "checksum": "2026-04-22T14:56:26.330Z|2",
+          "virtual": false
+        },
+        {
+          "id": "17NrJzq3A5fVMMS1ZqaqOvUIqLHuOh9fs",
+          "name": "1.  [TIẾT 1] Xác định cực trị (Cực đại, cực tiểu)",
+          "parentName": "2.  [BÀI 2] CỰC TRỊ HÀM SỐ\t\t\t",
+          "checksum": "2026-04-25T22:51:52.079Z|4",
+          "virtual": false
+        },
+        {
+          "id": "1m9oz3dObRtOg-2TrcWnFHrHdKfSPLRW4",
+          "name": "2.  [TIẾT 2] Khảo sát hàm số Mũ, Logarit, Lượng giác",
+          "parentName": "2.  [BÀI 2] CỰC TRỊ HÀM SỐ\t\t\t",
+          "checksum": "2026-04-25T22:51:46.969Z|4",
+          "virtual": false
+        },
+        {
+          "id": "1ZIP-Rts1Exb9doLAZBE4O2oWd1gRMrBx",
+          "name": "3.  LUYỆN TẬP DẠNG BÀI \"ĐÚNG SAI - TRẢ LỜI NGẮN\"",
+          "parentName": "2.  [BÀI 2] CỰC TRỊ HÀM SỐ\t\t\t",
+          "checksum": "2026-04-25T22:51:42.076Z|4",
+          "virtual": false
+        },
+        {
+          "id": "1EerGBVoWH7sbOJhSGIWYHUtTiVv_9vmB",
+          "name": "4.  LUYỆN TẬP THÊM CỰC TRỊ HÀM SỐ",
+          "parentName": "2.  [BÀI 2] CỰC TRỊ HÀM SỐ\t\t\t",
+          "checksum": "2026-04-25T22:51:37.047Z|2",
+          "virtual": false
+        },
+        {
+          "id": "18E7OZtSXm16kITu8sEb4FDO-DvOfqLWX",
+          "name": "5.  [TIẾT 3] Biện luận cực trị hàm số Bậc 3",
+          "parentName": "2.  [BÀI 2] CỰC TRỊ HÀM SỐ\t\t\t",
+          "checksum": "2026-04-25T22:51:34.036Z|2",
+          "virtual": false
+        },
+        {
+          "id": "13wit1H200jud80zv9HKFGrqabXz5FCmn",
+          "name": "6.  [TIẾT 4] Biện luận cực trị hàm số bậc 2 trên bậc 1",
+          "parentName": "2.  [BÀI 2] CỰC TRỊ HÀM SỐ\t\t\t",
+          "checksum": "2026-04-25T22:51:31.162Z|2",
+          "virtual": false
+        },
+        {
+          "id": "1FU6XkBO6VbTg5b2NsElSk1gK53sYlNpt",
+          "name": "1.  [TIẾT 1] Tìm GTLN, GTNN của hàm số trên đoạn",
+          "parentName": "3. [BÀI 3] GTLN - GTNN CỦA HÀM SỐ\t\t\t",
+          "checksum": "2026-05-24T15:01:32.473Z|4",
+          "virtual": false
+        },
+        {
+          "id": "1R9StX4f-DwUGLLsqzSNJluNi-a0Uuec5",
+          "name": "2.  [TIẾT 2] Tìm GTLN, GTNN của hàm số trên khoảng, đặt ẩn phụ",
+          "parentName": "3. [BÀI 3] GTLN - GTNN CỦA HÀM SỐ\t\t\t",
+          "checksum": "2026-05-24T15:01:13.603Z|4",
+          "virtual": false
+        },
+        {
+          "id": "1FGynjZpyzTRPSSN1dEZiw7aqZptRaMDg",
+          "name": "3.  LUYỆN TẬP DẠNG BÀI \"ĐÚNG SAI\" GTLN - GTNN CỦA HÀM SỐ",
+          "parentName": "3. [BÀI 3] GTLN - GTNN CỦA HÀM SỐ\t\t\t",
+          "checksum": "2026-05-24T14:58:12.838Z|2",
+          "virtual": false
+        },
+        {
+          "id": "1xUXxQv7CCLgsyrDvQeBmqygYf1Nk6XeH",
+          "name": "4.  [TIẾT 3] Tìm m để hàm số đạt GTLN, GTNN",
+          "parentName": "3. [BÀI 3] GTLN - GTNN CỦA HÀM SỐ\t\t\t",
+          "checksum": "2026-05-24T14:55:42.728Z|4",
+          "virtual": false
+        },
+        {
+          "id": "1nUPxX-ldIblOlCcpXrnoo2oj1Uvz8iq5::file:1gSdkrjPFlzqwyIwoz0G2qayOFUQBsxtP",
+          "name": "6. Bài tập đúng sai - Phương trình lượng giác",
+          "parentName": "3. [BÀI 3]: PHƯƠNG TRÌNH LƯỢNG GIÁC CƠ BẢN\t\t\t",
+          "checksum": "2026-05-10T03:17:57.308Z|1|09f70f4441d3",
+          "virtual": true
+        },
+        {
+          "id": "1nUPxX-ldIblOlCcpXrnoo2oj1Uvz8iq5::file:1Lmlyp3IFQisjILKErQTlaPTJz9qpOWAj",
+          "name": "6. Giải BT đúng sai phương trình lượng giác",
+          "parentName": "3. [BÀI 3]: PHƯƠNG TRÌNH LƯỢNG GIÁC CƠ BẢN\t\t\t",
+          "checksum": "2026-05-10T03:17:55.529Z|1|3fc88e4e33b7",
+          "virtual": true
+        },
+        {
+          "id": "11nEIGG5fS1UTnWWpXzNPJN6d6d_-qSv_",
+          "name": "1.  [TIẾT 1] Phương trình cơ bản (Buổi 1)",
+          "parentName": "3. [BÀI 3]: PHƯƠNG TRÌNH LƯỢNG GIÁC CƠ BẢN\t\t\t",
+          "checksum": "2026-05-11T13:40:07.669Z|4",
+          "virtual": false
+        },
+        {
+          "id": "1e6f_DSbYSgkpH8uHOZlcTENIwVBoyHed",
+          "name": "2.  [TIẾT 2] Phương trình cơ bản (Buổi 2)",
+          "parentName": "3. [BÀI 3]: PHƯƠNG TRÌNH LƯỢNG GIÁC CƠ BẢN\t\t\t",
+          "checksum": "2026-05-11T13:36:40.260Z|4",
+          "virtual": false
+        },
+        {
+          "id": "1E-Uel703b6loSo0KMLU6Fig98wsQSP6U",
+          "name": "3.  [TIẾT 3] Biện luận nghiệm phương trình cơ bản",
+          "parentName": "3. [BÀI 3]: PHƯƠNG TRÌNH LƯỢNG GIÁC CƠ BẢN\t\t\t",
+          "checksum": "2026-05-11T13:35:30.474Z|4",
+          "virtual": false
+        },
+        {
+          "id": "1sBw46SwO-RyNhur1g6QAN6TXdj3_fQe0",
+          "name": "4.  [TIẾT 4] Bấm máy tính: Giải PT lượng giác (Tìm nghiệm + Đếm số nghiệm thuộc đoạn)",
+          "parentName": "3. [BÀI 3]: PHƯƠNG TRÌNH LƯỢNG GIÁC CƠ BẢN\t\t\t",
+          "checksum": "2026-05-11T13:33:47.408Z|2",
+          "virtual": false
+        },
+        {
+          "id": "15KwFapAa_S5Ukr48PH5BORxmZA68zCPE",
+          "name": "5.  [TIẾT 5] BÀI TOÁN THỰC TẾ HÀM SỐ LƯỢNG GIÁC - PHƯƠNG TRÌNH LƯỢNG GIÁC",
+          "parentName": "3. [BÀI 3]: PHƯƠNG TRÌNH LƯỢNG GIÁC CƠ BẢN\t\t\t",
+          "checksum": "2026-05-11T13:32:24.671Z|2",
+          "virtual": false
+        },
+        {
+          "id": "1FRFdg9x7ouCD-M0uKgzNR5Mw0-KFME44",
+          "name": "1.  [TIẾT 1]: Ứng dụng đạo hàm tìm GTLN, GTNN - Bài toán liên quan đến thực tiễn",
+          "parentName": "4. [BÀI 4] ỨNG DỤNG THỰC TIỄN CỦA ĐẠO HÀM\t\t\t",
+          "checksum": "2026-05-12T08:37:48.188Z|4",
+          "virtual": false
+        },
+        {
+          "id": "1pKU9PS3y7y_kwsSgqQDL8Mgo-2tB2dQw",
+          "name": "2.  BẤM MÁY TÍNH FX580 GIẢI ĐẠO HÀM",
+          "parentName": "4. [BÀI 4] ỨNG DỤNG THỰC TIỄN CỦA ĐẠO HÀM\t\t\t",
+          "checksum": "2026-05-12T08:35:00.902Z|2",
+          "virtual": false
+        },
+        {
+          "id": "1xw4OqlhIrr2cY4LOxBR5CAhkhlUxMM2x",
+          "name": "3.  [TIẾT 2]: Ứng dụng đạo hàm tìm GTLN, GTNN - Khối đa diện",
+          "parentName": "4. [BÀI 4] ỨNG DỤNG THỰC TIỄN CỦA ĐẠO HÀM\t\t\t",
+          "checksum": "2026-05-12T08:34:49.177Z|2",
+          "virtual": false
+        },
+        {
+          "id": "1hFiTxptTTGq9dTCjlQMirU0XYUy9GWOC",
+          "name": "4.  [TIẾT 3]: Ứng dụng đạo hàm tìm GTLN, GTNN - Khối tròn xoay",
+          "parentName": "4. [BÀI 4] ỨNG DỤNG THỰC TIỄN CỦA ĐẠO HÀM\t\t\t",
+          "checksum": "2026-05-12T08:34:27.039Z|2",
+          "virtual": false
+        },
+        {
+          "id": "1zZpuy7oViDWB-KHamspM1sE2AyWGuigr",
+          "name": "5.  [TIẾT 4]: Các bài toán tối ưu lợi nhuận",
+          "parentName": "4. [BÀI 4] ỨNG DỤNG THỰC TIỄN CỦA ĐẠO HÀM\t\t\t",
+          "checksum": "2026-05-12T08:34:06.539Z|2",
+          "virtual": false
+        },
+        {
+          "id": "1d7NmyaFanqTJgdaiw2K6Ktbqk0UUBi8i",
+          "name": "6.  [TIẾT 5]: Bài toán tăng giảm giá (Hàm cầu)",
+          "parentName": "4. [BÀI 4] ỨNG DỤNG THỰC TIỄN CỦA ĐẠO HÀM\t\t\t",
+          "checksum": "2026-05-12T08:33:46.782Z|2",
+          "virtual": false
+        },
+        {
+          "id": "1KYzETD3cS1yit_2oKcTucI1K_Sn32qAr",
+          "name": "7.  LUYỆN TẬP TRẮC NGHIỆM BÀI TOÁN THỰC TẾ",
+          "parentName": "4. [BÀI 4] ỨNG DỤNG THỰC TIỄN CỦA ĐẠO HÀM\t\t\t",
+          "checksum": "2026-05-12T08:33:32.108Z|4",
+          "virtual": false
+        },
+        {
+          "id": "1dSZgzK4cQlGtBtQgfK655z0bieoULQV4",
+          "name": "8.  LUYỆN TẬP THÊM ĐÚNG SAI BÀI TOÁN THỰC TẾ KHÁC",
+          "parentName": "4. [BÀI 4] ỨNG DỤNG THỰC TIỄN CỦA ĐẠO HÀM\t\t\t",
+          "checksum": "2026-05-12T08:33:24.667Z|2",
+          "virtual": false
+        },
+        {
+          "id": "1HwXg13Y7Z5BIBBuOstB1ZrlwevsxJmaZ",
+          "name": "1.  [TIẾT 1] Xác định đường tiệm cận đứng, đường tiệm cận ngang",
+          "parentName": "5. [BÀI 5] ĐƯỜNG TIỆM CẬN\t\t\t",
+          "checksum": "2026-05-18T02:04:15.465Z|4",
+          "virtual": false
+        },
+        {
+          "id": "1HVWXkGlGIFsLkC9oNK91tAFSrMQarQg0",
+          "name": "2.  [TIẾT 2] Biện luận đường tiệm cận đứng, tiệm cận ngang",
+          "parentName": "5. [BÀI 5] ĐƯỜNG TIỆM CẬN\t\t\t",
+          "checksum": "2026-05-18T02:00:57.932Z|4",
+          "virtual": false
+        },
+        {
+          "id": "1vTC47IQawCbaVv6zv5-QntvGUk8ffCwW",
+          "name": "3.  [TIẾT 3] Tiệm cận xiên",
+          "parentName": "5. [BÀI 5] ĐƯỜNG TIỆM CẬN\t\t\t",
+          "checksum": "2026-05-18T01:57:31.342Z|4",
+          "virtual": false
+        },
+        {
+          "id": "1l5J7Z2vRW18kCNWLbGsL7gWp_lUYE8kH",
+          "name": "1.  [TIẾT 1] KHẢO SÁT ĐỒ THỊ HÀM SỐ BẬC 3",
+          "parentName": "6. [BÀI 6] ĐỒ THỊ HÀM SỐ\t\t\t",
+          "checksum": "2026-05-22T09:06:04.791Z|4",
+          "virtual": false
+        },
+        {
+          "id": "1t8AarQbloLkm3ScPsHfWMV5SgkgR5-2X",
+          "name": "2.  [TIẾT 2] KHẢO SÁT ĐỒ THỊ HÀM SỐ PHÂN THỨC BẬC NHẤT/BẬC NHẤT",
+          "parentName": "6. [BÀI 6] ĐỒ THỊ HÀM SỐ\t\t\t",
+          "checksum": "2026-05-22T09:01:57.642Z|4",
+          "virtual": false
+        },
+        {
+          "id": "1II8N7Hho5ZOIUWXedWgzli5kB1K2uD2t",
+          "name": "3.  [TIẾT 3] KHẢO SÁT ĐỒ THỊ PHÂN THỨC BẬC 2 TRÊN BẬC 1",
+          "parentName": "6. [BÀI 6] ĐỒ THỊ HÀM SỐ\t\t\t",
+          "checksum": "2026-05-22T08:58:14.361Z|4",
+          "virtual": false
+        },
+        {
+          "id": "1_QxP0HkntY_0w7Gp1Lcap22le_pnd23U",
+          "name": "4.  [TIẾT 4] BÀI TOÁN THỰC TẾ ĐỒ THỊ",
+          "parentName": "6. [BÀI 6] ĐỒ THỊ HÀM SỐ\t\t\t",
+          "checksum": "2026-05-22T08:53:39.900Z|2",
+          "virtual": false
+        },
+        {
+          "id": "1voEsb6iL4ATo_FO6Sdqm8EkA1bLiP0Jn",
+          "name": "5.  [TIẾT 5] CÁC DẠNG ĐỒ THỊ HÀM SỐ ĐẶC BIỆT",
+          "parentName": "6. [BÀI 6] ĐỒ THỊ HÀM SỐ\t\t\t",
+          "checksum": "2026-05-22T08:51:32.018Z|4",
+          "virtual": false
+        },
+        {
+          "id": "11RCe5nABwlRcE2k5EtkER_5zefRzR_rV",
+          "name": "6.  [TIẾT 6] ĐẾM SỐ NGHIỆM & BIỆN LUẬN PHƯƠNG TRÌNH DỰA VÀO ĐỒ THỊ",
+          "parentName": "6. [BÀI 6] ĐỒ THỊ HÀM SỐ\t\t\t",
+          "checksum": "2026-05-22T08:50:03.717Z|4",
+          "virtual": false
+        },
+        {
+          "id": "1goBBGm2blscO22rbT7VX4eY0u1UoemX6",
+          "name": "7.  [TIẾT 7] CÁC BÀI TOÁN TÌM M HÀM BẬC 3, PHÂN THỨC",
+          "parentName": "6. [BÀI 6] ĐỒ THỊ HÀM SỐ\t\t\t",
+          "checksum": "2026-05-22T08:43:37.488Z|4",
+          "virtual": false
+        },
+        {
+          "id": "16q9aNM4rQkXPuHFvv6F58ETq_4Br2z_U",
+          "name": "1.  LUYỆN TẬP DẠNG BÀI \"ĐÚNG SAI\" ĐỒ THỊ HÀM SỐ",
+          "parentName": "7. ÔN TẬP TỔNG HỢP DẠNG CÂU ĐÚNG SAI\t\t\t",
+          "checksum": "2026-05-24T14:53:09.217Z|2",
+          "virtual": false
+        },
+        {
+          "id": "1iTni8VoHb9-jt_8sgRoRL_wTHTAd8alQ",
+          "name": "2.  LUYỆN TẬP DẠNG BÀI \"ĐÚNG SAI\" TƯƠNG GIAO ĐỒ THỊ",
+          "parentName": "7. ÔN TẬP TỔNG HỢP DẠNG CÂU ĐÚNG SAI\t\t\t",
+          "checksum": "2026-05-24T14:48:37.572Z|2",
+          "virtual": false
+        },
+        {
+          "id": "1BckipmyUcsgy9ZTZ21uzbBXihY4uVolD",
+          "name": "3.  LUYỆN TẬP ĐÚNG SAI HÀM SỐ BẬC 3 - HÀM PHÂN THỨC BẬC NHẤT",
+          "parentName": "7. ÔN TẬP TỔNG HỢP DẠNG CÂU ĐÚNG SAI\t\t\t",
+          "checksum": "2026-05-24T14:45:30.265Z|3",
+          "virtual": false
+        },
+        {
+          "id": "1gq8xc0Z2VKhBr3NZu55grKIZD4ob1owS",
+          "name": "4.  LUYỆN TẬP ĐÚNG SAI HÀM PHÂN THỨC BẬC HAI TRÊN BẬC NHẤT",
+          "parentName": "7. ÔN TẬP TỔNG HỢP DẠNG CÂU ĐÚNG SAI\t\t\t",
+          "checksum": "2026-05-24T14:42:27.070Z|3",
+          "virtual": false
+        }
+      ],
+      "rendererVersion": "4.3.1",
+      "styleVersion": "2026-05-31-student-banner-no-meta-v2",
+      "runId": "no-meta-sync-2026-05-31-104541",
+      "spreadsheetId": "1MYgFHes8oNTG8zNjpKaO-dlrU8IvTa_E6aFuc92Og4c",
+      "stats": {
+        "leafCount": 46,
+        "totalVideos": 67
+      }
+    },
+    "1bq2cQ_xX9K97XvOi-nCihLL7RNRTGyS1": {
+      "tabName": "Khóa Luyện Đề 2009",
+      "renderedAt": "2026-05-31T03:46:12.221Z",
+      "checksum": "1bq2cQ_xX9K97XvOi-nCihLL7RNRTGyS1|2026-04-18T14:19:09.687Z|0",
+      "lessons": [],
+      "rendererVersion": "4.3.1",
+      "styleVersion": "2026-05-31-student-banner-no-meta-v2",
+      "runId": "no-meta-sync-2026-05-31-104541",
+      "spreadsheetId": "1MYgFHes8oNTG8zNjpKaO-dlrU8IvTa_E6aFuc92Og4c",
+      "stats": {
+        "leafCount": 0,
+        "totalVideos": 0
+      }
+    }
+  },
+  "updatedAt": "2026-05-31T03:46:12.221Z",
+  "version": 2
+}

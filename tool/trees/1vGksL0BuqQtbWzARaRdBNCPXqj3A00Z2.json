@@ -1,0 +1,2552 @@
+{
+  "crawledAt": "2026-05-29T12:50:58.483Z",
+  "teacher": {
+    "id": "1vGksL0BuqQtbWzARaRdBNCPXqj3A00Z2",
+    "name": "3. TOÁN CÔ NGỌC HUYỀN NGOCHUYENLB 2K9",
+    "modifiedTime": "2026-05-27T15:31:07.779Z",
+    "webViewLink": "https://drive.google.com/drive/folders/1vGksL0BuqQtbWzARaRdBNCPXqj3A00Z2"
+  },
+  "courses": [
+    {
+      "id": "1VT9NATAasf_rGY8ocfaxLTPy8spTObJj",
+      "name": "0. INFO THÔNG TIN VÀ HƯỚNG DẪN KHOÁ HỌC",
+      "children": [],
+      "files": [],
+      "webViewLink": "https://drive.google.com/drive/folders/1VT9NATAasf_rGY8ocfaxLTPy8spTObJj",
+      "modifiedTime": "2026-04-17T16:25:31.366Z"
+    },
+    {
+      "id": "1baciLrqVNvKLogH3gz0TLCFgNLpILtQk",
+      "name": "0. THE TRUTH | Tiền đề Toán 12",
+      "children": [
+        {
+          "id": "1KFE8OxWlP1kqVAj1XKGjjYgbTYdaHtKp",
+          "name": "01. CHAPTER 1. HÌNH HỌC THCS",
+          "webViewLink": "https://drive.google.com/drive/folders/1KFE8OxWlP1kqVAj1XKGjjYgbTYdaHtKp",
+          "modifiedTime": "2026-04-17T14:03:20.076Z",
+          "children": [
+            {
+              "id": "1BIqVnqcJVhUjLVf0F_UTYXHwXAcp99dv",
+              "name": "TÀI LIỆU CHAPTER 1",
+              "webViewLink": "https://drive.google.com/drive/folders/1BIqVnqcJVhUjLVf0F_UTYXHwXAcp99dv",
+              "modifiedTime": "2026-04-17T14:03:34.062Z",
+              "children": [],
+              "files": [
+                {
+                  "id": "1Ye59kMFBLN2yOiCP6-EX_KIFO9VeO4za",
+                  "name": "Theme 1. Các góc ở vị trí đặc biệt, hai đường thẳng song song .pdf",
+                  "mimeType": "application/pdf",
+                  "size": 1998741,
+                  "webViewLink": "https://drive.google.com/file/d/1Ye59kMFBLN2yOiCP6-EX_KIFO9VeO4za/view?usp=drivesdk",
+                  "modifiedTime": "2026-04-17T14:03:40.990Z",
+                  "videoMediaMetadata": null
+                },
+                {
+                  "id": "14pg3KD-mjqCFcAbqpwIWUjB5HuDFxqY6",
+                  "name": "Theme 2. Tam giác bằng nhau, tam giác đồng dạng.pdf",
+                  "mimeType": "application/pdf",
+                  "size": 4432429,
+                  "webViewLink": "https://drive.google.com/file/d/14pg3KD-mjqCFcAbqpwIWUjB5HuDFxqY6/view?usp=drivesdk",
+                  "modifiedTime": "2026-04-17T14:03:37.086Z",
+                  "videoMediaMetadata": null
+                },
+                {
+                  "id": "11UftozFf4P0C9_z_9GcTo_0EjERGv6XP",
+                  "name": "Theme 3. Các mô hình tỉ lệ diện tích tam giác thường gặp, các đường đồng quy trong tam giác.pdf",
+                  "mimeType": "application/pdf",
+                  "size": 4343719,
+                  "webViewLink": "https://drive.google.com/file/d/11UftozFf4P0C9_z_9GcTo_0EjERGv6XP/view?usp=drivesdk",
+                  "modifiedTime": "2026-04-17T14:03:39.120Z",
+                  "videoMediaMetadata": null
+                },
+                {
+                  "id": "1SXX5ZxcNVgezrTJUNiBDmIidbB0P4qOD",
+                  "name": "Theme 4. Tam giác vuông - Tam giác đều - Tam giác đặc biệt .pdf",
+                  "mimeType": "application/pdf",
+                  "size": 2923201,
+                  "webViewLink": "https://drive.google.com/file/d/1SXX5ZxcNVgezrTJUNiBDmIidbB0P4qOD/view?usp=drivesdk",
+                  "modifiedTime": "2026-04-17T14:03:35.200Z",
+                  "videoMediaMetadata": null
+                }
+              ]
+            }
+          ],
+          "files": [
+            {
+              "id": "1YOgEHH_hQQlsOnPJcqmOdzEFmWewDryz",
+              "name": "THEME 1. CÁC GÓC Ở VỊ TRÍ ĐẶC BIỆT, HAI ĐƯỜNG THẲNG SONG SONG.mp4",
+              "mimeType": "video/mp4",
+              "size": 666300012,
+              "webViewLink": "https://drive.google.com/file/d/1YOgEHH_hQQlsOnPJcqmOdzEFmWewDryz/view?usp=drivesdk",
+              "modifiedTime": "2026-04-17T14:03:21.327Z",
+              "videoMediaMetadata": {
+                "width": 1280,
+                "height": 720,
+                "durationMillis": "7043899"
+              }
+            },
+            {
+              "id": "1O3GjpSCVbLk9LLUtE-ulD6DoZjPDQnn9",
+              "name": "THEME 2. TAM GIÁC BẰNG NHAU, TAM GIÁC ĐỒNG DẠNG (P1).mp4",
+              "mimeType": "video/mp4",
+              "size": 646420140,
+              "webViewLink": "https://drive.google.com/file/d/1O3GjpSCVbLk9LLUtE-ulD6DoZjPDQnn9/view?usp=drivesdk",
+              "modifiedTime": "2026-04-17T14:03:26.126Z",
+              "videoMediaMetadata": {
+                "width": 1280,
+                "height": 720,
+                "durationMillis": "7089966"
+              }
+            },
+            {
+              "id": "16cG5RX0BcISf3JnYCTN25JwNonfRhp5S",
+              "name": "THEME 2. TAM GIÁC BẰNG NHAU, TAM GIÁC ĐỒNG DẠNG (P2).mp4",
+              "mimeType": "video/mp4",
+              "size": 427746060,
+              "webViewLink": "https://drive.google.com/file/d/16cG5RX0BcISf3JnYCTN25JwNonfRhp5S/view?usp=drivesdk",
+              "modifiedTime": "2026-04-17T14:03:32.166Z",
+              "videoMediaMetadata": {
+                "width": 1280,
+                "height": 720,
+                "durationMillis": "4571699"
+              }
+            },
+            {
+              "id": "1hAa5f2RZ0Ahpd4h4_4_R6MqvZgaVopss",
+              "name": "THEME 3. CÁC MÔ HÌNH TỈ LỆ DIỆN TÍCH.mp4",
+              "mimeType": "video/mp4",
+              "size": 578470924,
+              "webViewLink": "https://drive.google.com/file/d/1hAa5f2RZ0Ahpd4h4_4_R6MqvZgaVopss/view?usp=drivesdk",
+              "modifiedTime": "2026-04-17T14:03:30.350Z",
+              "videoMediaMetadata": {
+                "width": 1280,
+                "height": 720,
+                "durationMillis": "6374800"
+              }
+            },
+            {
+              "id": "12I9FrNEjl-O1d2ikxlEYz7zmy8N_eu4r",
+              "name": "THEME 4. TAM GIÁC VUÔNG, TAM GIÁC ĐỀU, CÁC TAM GIÁC ĐẶC BIỆT.mp4",
+              "mimeType": "video/mp4",
+              "size": 546266524,
+              "webViewLink": "https://drive.google.com/file/d/12I9FrNEjl-O1d2ikxlEYz7zmy8N_eu4r/view?usp=drivesdk",
+              "modifiedTime": "2026-04-17T14:03:23.923Z",
+              "videoMediaMetadata": {
+                "width": 1280,
+                "height": 720,
+                "durationMillis": "6157033"
+              }
+            }
+          ]
+        },
+        {
+          "id": "1mNo49vK_ssR8kcolzBR0biT9zChmAsOv",
+          "name": "02. CHAPTER 2. HÌNH HỌC LỚP 10",
+          "webViewLink": "https://drive.google.com/drive/folders/1mNo49vK_ssR8kcolzBR0biT9zChmAsOv",
+          "modifiedTime": "2026-04-17T14:02:55.843Z",
+          "children": [
+            {
+              "id": "1W_mQoNVudQLkvzRObHPZadyGDlbNpV4O",
+              "name": "TÀI LIỆU CHAPTER 2",
+              "webViewLink": "https://drive.google.com/drive/folders/1W_mQoNVudQLkvzRObHPZadyGDlbNpV4O",
+              "modifiedTime": "2026-04-17T14:03:09.769Z",
+              "children": [],
+              "files": [
+                {
+                  "id": "1ydwG3lqLhss-Nrxljn3tyRmmwl6GSq6_",
+                  "name": "Theme 5. Vectơ.pdf",
+                  "mimeType": "application/pdf",
+                  "size": 2772479,
+                  "webViewLink": "https://drive.google.com/file/d/1ydwG3lqLhss-Nrxljn3tyRmmwl6GSq6_/view?usp=drivesdk",
+                  "modifiedTime": "2026-04-17T14:03:10.853Z",
+                  "videoMediaMetadata": null
+                },
+                {
+                  "id": "1jwIZdwNX20cMWJ9SVo8il4pLDjCWOvAf",
+                  "name": "Theme 6. Phương trình đường thẳng.pdf",
+                  "mimeType": "application/pdf",
+                  "size": 3733771,
+                  "webViewLink": "https://drive.google.com/file/d/1jwIZdwNX20cMWJ9SVo8il4pLDjCWOvAf/view?usp=drivesdk",
+                  "modifiedTime": "2026-04-17T14:03:12.551Z",
+                  "videoMediaMetadata": null
+                },
+                {
+                  "id": "1AiJqtSDLW863MVWDHvo6e7Kokm4U8qxW",
+                  "name": "Theme 7. Vị trí tương đối giữa hai đường thẳng, góc và khoảng cách.pdf",
+                  "mimeType": "application/pdf",
+                  "size": 2387847,
+                  "webViewLink": "https://drive.google.com/file/d/1AiJqtSDLW863MVWDHvo6e7Kokm4U8qxW/view?usp=drivesdk",
+                  "modifiedTime": "2026-04-17T14:03:14.451Z",
+                  "videoMediaMetadata": null
+                },
+                {
+                  "id": "1Iq1eVuKjJZZuf_LlyInymYdFB1ZTk6Ds",
+                  "name": "Theme 8. Phương trình đường tròn.pdf",
+                  "mimeType": "application/pdf",
+                  "size": 2066557,
+                  "webViewLink": "https://drive.google.com/file/d/1Iq1eVuKjJZZuf_LlyInymYdFB1ZTk6Ds/view?usp=drivesdk",
+                  "modifiedTime": "2026-04-17T14:03:18.267Z",
+                  "videoMediaMetadata": null
+                },
+                {
+                  "id": "1UrouWaxYW3qXPKZAFqEf0vBm-4y9DLeV",
+                  "name": "Theme 9. Ba đường Conic .pdf",
+                  "mimeType": "application/pdf",
+                  "size": 2968770,
+                  "webViewLink": "https://drive.google.com/file/d/1UrouWaxYW3qXPKZAFqEf0vBm-4y9DLeV/view?usp=drivesdk",
+                  "modifiedTime": "2026-04-17T14:03:16.260Z",
+                  "videoMediaMetadata": null
+                }
+              ]
+            }
+          ],
+          "files": [
+            {
+              "id": "1RyeNbJ8ZLCL9h42cEF7t2bxSurDYf-ax",
+              "name": "THEME 5. VECTƠ.mp4",
+              "mimeType": "video/mp4",
+              "size": 541493956,
+              "webViewLink": "https://drive.google.com/file/d/1RyeNbJ8ZLCL9h42cEF7t2bxSurDYf-ax/view?usp=drivesdk",
+              "modifiedTime": "2026-04-17T14:03:07.982Z",
+              "videoMediaMetadata": {
+                "width": 1280,
+                "height": 720,
+                "durationMillis": "4388199"
+              }
+            },
+            {
+              "id": "1ej3hLZQWRqs28xUalTRqnkG1Ls3RqYzT",
+              "name": "THEME 6. PHƯƠNG TRÌNH ĐƯỜNG THẲNG.mp4",
+              "mimeType": "video/mp4",
+              "size": 583839640,
+              "webViewLink": "https://drive.google.com/file/d/1ej3hLZQWRqs28xUalTRqnkG1Ls3RqYzT/view?usp=drivesdk",
+              "modifiedTime": "2026-04-17T14:03:01.453Z",
+              "videoMediaMetadata": {
+                "width": 1280,
+                "height": 720,
+                "durationMillis": "4728100"
+              }
+            },
+            {
+              "id": "1fC1CkG7NeYnK4rubpNhFYkc_obok1TKZ",
+              "name": "THEME 7. VỊ TRÍ TƯƠNG ĐỐI GIỮA HAI ĐƯỜNG THẲNG, GÓC VÀ KHOẢNG CÁCH.mp4",
+              "mimeType": "video/mp4",
+              "size": 804013208,
+              "webViewLink": "https://drive.google.com/file/d/1fC1CkG7NeYnK4rubpNhFYkc_obok1TKZ/view?usp=drivesdk",
+              "modifiedTime": "2026-04-17T14:02:58.998Z",
+              "videoMediaMetadata": {
+                "width": 1280,
+                "height": 720,
+                "durationMillis": "6643966"
+              }
+            },
+            {
+              "id": "12g7aYUdWl1z3t34PfFUA5VPIXDuqqKNC",
+              "name": "THEME 8. PHƯƠNG TRÌNH ĐƯỜNG TRÒN.mp4",
+              "mimeType": "video/mp4",
+              "size": 567304100,
+              "webViewLink": "https://drive.google.com/file/d/12g7aYUdWl1z3t34PfFUA5VPIXDuqqKNC/view?usp=drivesdk",
+              "modifiedTime": "2026-04-17T14:03:03.443Z",
+              "videoMediaMetadata": {
+                "width": 1280,
+                "height": 720,
+                "durationMillis": "5195000"
+              }
+            },
+            {
+              "id": "1scuyikugOfYXtA4fzyTgGNsyGC33xarq",
+              "name": "THEME 9. BA ĐƯỜNG CONIC (P1).mp4",
+              "mimeType": "video/mp4",
+              "size": 800738624,
+              "webViewLink": "https://drive.google.com/file/d/1scuyikugOfYXtA4fzyTgGNsyGC33xarq/view?usp=drivesdk",
+              "modifiedTime": "2026-04-17T14:02:57.061Z",
+              "videoMediaMetadata": {
+                "width": 1280,
+                "height": 720,
+                "durationMillis": "6554100"
+              }
+            },
+            {
+              "id": "1avQp4-vnbSKiJ89UHxg2gIDVSQa9LSXU",
+              "name": "THEME 9. BA ĐƯỜNG CONIC (P2).mp4",
+              "mimeType": "video/mp4",
+              "size": 508314588,
+              "webViewLink": "https://drive.google.com/file/d/1avQp4-vnbSKiJ89UHxg2gIDVSQa9LSXU/view?usp=drivesdk",
+              "modifiedTime": "2026-04-17T14:03:05.896Z",
+              "videoMediaMetadata": {
+                "width": 1280,
+                "height": 720,
+                "durationMillis": "4668100"
+              }
+            }
+          ]
+        },
+        {
+          "id": "1cB3DTVaVclunMaHL3sVLzEh9Okux3K__",
+          "name": "03. CHAPTER 3. HÌNH HỌC LỚP 11",
+          "webViewLink": "https://drive.google.com/drive/folders/1cB3DTVaVclunMaHL3sVLzEh9Okux3K__",
+          "modifiedTime": "2026-04-17T14:02:05.983Z",
+          "children": [
+            {
+              "id": "1jyOiZWAGFHFs9SLRIJ-SrpLJJFvq3LaQ",
+              "name": "TÀI LIỆU CHAPTER 3",
+              "webViewLink": "https://drive.google.com/drive/folders/1jyOiZWAGFHFs9SLRIJ-SrpLJJFvq3LaQ",
+              "modifiedTime": "2026-04-17T14:02:33.008Z",
+              "children": [],
+              "files": [
+                {
+                  "id": "10V9v_O0OjDv-eNiwBFwP-qA9Wod8FX9X",
+                  "name": "Theme 10. Mở đầu về hình học không gian, đường thẳng và mặt phẳng trong không gian.pdf",
+                  "mimeType": "application/pdf",
+                  "size": 1416503,
+                  "webViewLink": "https://drive.google.com/file/d/10V9v_O0OjDv-eNiwBFwP-qA9Wod8FX9X/view?usp=drivesdk",
+                  "modifiedTime": "2026-04-17T14:02:34.750Z",
+                  "videoMediaMetadata": null
+                },
+                {
+                  "id": "1oN-RyHmlpuoPg1WP7_4dY_an0Zo6-oN-",
+                  "name": "Theme 11. Quan hệ song song trong không gian       .pdf",
+                  "mimeType": "application/pdf",
+                  "size": 2358794,
+                  "webViewLink": "https://drive.google.com/file/d/1oN-RyHmlpuoPg1WP7_4dY_an0Zo6-oN-/view?usp=drivesdk",
+                  "modifiedTime": "2026-04-17T14:02:36.847Z",
+                  "videoMediaMetadata": null
+                },
+                {
+                  "id": "1OeaKIiRvswVjHWbTZ10GR575Z0bM1WMa",
+                  "name": "Theme 12. Quan hệ vuông góc trong không gian.pdf",
+                  "mimeType": "application/pdf",
+                  "size": 3011667,
+                  "webViewLink": "https://drive.google.com/file/d/1OeaKIiRvswVjHWbTZ10GR575Z0bM1WMa/view?usp=drivesdk",
+                  "modifiedTime": "2026-04-17T14:02:39.010Z",
+                  "videoMediaMetadata": null
+                },
+                {
+                  "id": "12j_jXuZRHO0kRONAjLAzbC-CO2QETReW",
+                  "name": "Theme 13. Góc giữa hai đường thẳng trong không gian.pdf",
+                  "mimeType": "application/pdf",
+                  "size": 1366272,
+                  "webViewLink": "https://drive.google.com/file/d/12j_jXuZRHO0kRONAjLAzbC-CO2QETReW/view?usp=drivesdk",
+                  "modifiedTime": "2026-04-17T14:02:41.210Z",
+                  "videoMediaMetadata": null
+                },
+                {
+                  "id": "1TmFrDSf4N6B90zB57EpRqWf5RQ2dNYJ8",
+                  "name": "Theme 14. Góc giữa đường thẳng và mặt phẳng trong không gian.pdf",
+                  "mimeType": "application/pdf",
+                  "size": 1824622,
+                  "webViewLink": "https://drive.google.com/file/d/1TmFrDSf4N6B90zB57EpRqWf5RQ2dNYJ8/view?usp=drivesdk",
+                  "modifiedTime": "2026-04-17T14:02:42.905Z",
+                  "videoMediaMetadata": null
+                },
+                {
+                  "id": "1FkJSTYTSrtwarHT8AuXTU9HrfrJpk2Z9",
+                  "name": "Theme 15. Góc giữa hai mặt phẳng, góc nhị diện.pdf",
+                  "mimeType": "application/pdf",
+                  "size": 2992227,
+                  "webViewLink": "https://drive.google.com/file/d/1FkJSTYTSrtwarHT8AuXTU9HrfrJpk2Z9/view?usp=drivesdk",
+                  "modifiedTime": "2026-04-17T14:02:44.863Z",
+                  "videoMediaMetadata": null
+                },
+                {
+                  "id": "1kyX5tVaIR27JCuK5vKDlzfUJWJ0If62q",
+                  "name": "Theme 16. Khoảng cách từ một điểm đến một mặt phẳng.pdf",
+                  "mimeType": "application/pdf",
+                  "size": 2240122,
+                  "webViewLink": "https://drive.google.com/file/d/1kyX5tVaIR27JCuK5vKDlzfUJWJ0If62q/view?usp=drivesdk",
+                  "modifiedTime": "2026-04-17T14:02:46.926Z",
+                  "videoMediaMetadata": null
+                },
+                {
+                  "id": "1QRT5yrarva-YXFzEJVLq1vGRhXcoQ6Tn",
+                  "name": "Theme 17. Khoảng cách giữa hai đường thẳng chéo nhau.pdf",
+                  "mimeType": "application/pdf",
+                  "size": 1969832,
+                  "webViewLink": "https://drive.google.com/file/d/1QRT5yrarva-YXFzEJVLq1vGRhXcoQ6Tn/view?usp=drivesdk",
+                  "modifiedTime": "2026-04-17T14:02:48.931Z",
+                  "videoMediaMetadata": null
+                },
+                {
+                  "id": "19WFAa2r2gUmmZyhZSgI7eLDpenL-UgbG",
+                  "name": "Theme 18. Ba mô hình tính thể tích khối chóp.pdf",
+                  "mimeType": "application/pdf",
+                  "size": 3593662,
+                  "webViewLink": "https://drive.google.com/file/d/19WFAa2r2gUmmZyhZSgI7eLDpenL-UgbG/view?usp=drivesdk",
+                  "modifiedTime": "2026-04-17T14:02:51.135Z",
+                  "videoMediaMetadata": null
+                },
+                {
+                  "id": "1kmKGE9aCNKJZGqChvkvHN0iQVEXMGCTs",
+                  "name": "Theme 19. Thể tích khối lăng trụ.pdf",
+                  "mimeType": "application/pdf",
+                  "size": 2285528,
+                  "webViewLink": "https://drive.google.com/file/d/1kmKGE9aCNKJZGqChvkvHN0iQVEXMGCTs/view?usp=drivesdk",
+                  "modifiedTime": "2026-04-17T14:02:53.125Z",
+                  "videoMediaMetadata": null
+                }
+              ]
+            }
+          ],
+          "files": [
+            {
+              "id": "1e9iLEzf7XD3KBaQYw2HPkNLFB07La8Ac",
+              "name": "THEME 10. MỞ ĐẦU VỀ HÌNH HỌC KHÔNG GIAN.mp4",
+              "mimeType": "video/mp4",
+              "size": 300150460,
+              "webViewLink": "https://drive.google.com/file/d/1e9iLEzf7XD3KBaQYw2HPkNLFB07La8Ac/view?usp=drivesdk",
+              "modifiedTime": "2026-04-17T14:02:28.972Z",
+              "videoMediaMetadata": null
+            },
+            {
+              "id": "1TcZTxNyR_YmYxPb_YiEU8x_FpzXEOHNz",
+              "name": "THEME 11. QUAN HỆ SONG SONG TRONG KHÔNG GIAN.mp4",
+              "mimeType": "video/mp4",
+              "size": 768998772,
+              "webViewLink": "https://drive.google.com/file/d/1TcZTxNyR_YmYxPb_YiEU8x_FpzXEOHNz/view?usp=drivesdk",
+              "modifiedTime": "2026-04-17T14:02:13.974Z",
+              "videoMediaMetadata": {
+                "width": 1280,
+                "height": 720,
+                "durationMillis": "6143633"
+              }
+            },
+            {
+              "id": "1GtrG2c4NPPnTMBWt5KOQyZ4FRO8zHxDm",
+              "name": "THEME 12. QUAN HỆ VUÔNG GÓC TRONG KHÔNG GIAN.mp4",
+              "mimeType": "video/mp4",
+              "size": 636688696,
+              "webViewLink": "https://drive.google.com/file/d/1GtrG2c4NPPnTMBWt5KOQyZ4FRO8zHxDm/view?usp=drivesdk",
+              "modifiedTime": "2026-04-17T14:02:21.546Z",
+              "videoMediaMetadata": {
+                "width": 1280,
+                "height": 720,
+                "durationMillis": "5177399"
+              }
+            },
+            {
+              "id": "182xHHxsi0URKwp6SkTLiTS_VxSvdxLpu",
+              "name": "THEME 13. GÓC GIỮA HAI ĐƯỜNG THẲNG TRONG KHÔNG GIAN.mp4",
+              "mimeType": "video/mp4",
+              "size": 727344740,
+              "webViewLink": "https://drive.google.com/file/d/182xHHxsi0URKwp6SkTLiTS_VxSvdxLpu/view?usp=drivesdk",
+              "modifiedTime": "2026-04-17T14:02:15.861Z",
+              "videoMediaMetadata": null
+            },
+            {
+              "id": "1c0wn0RHA1B2SPWFigVu6YCcZI16Z1i1I",
+              "name": "THEME 14. GÓC GIỮA ĐƯỜNG THẲNG VÀ MẶT PHẲNG TRONG KHÔNG GIAN.mp4",
+              "mimeType": "video/mp4",
+              "size": 562146320,
+              "webViewLink": "https://drive.google.com/file/d/1c0wn0RHA1B2SPWFigVu6YCcZI16Z1i1I/view?usp=drivesdk",
+              "modifiedTime": "2026-04-17T14:02:23.526Z",
+              "videoMediaMetadata": {
+                "width": 1280,
+                "height": 720,
+                "durationMillis": "4291300"
+              }
+            },
+            {
+              "id": "16AvHtqgseAeWs4jluBW9_GJbJj9ygQjx",
+              "name": "THEME 15. GÓC GIỮA HAI MẶT PHẲNG, GÓC NHỊ DIỆN.mp4",
+              "mimeType": "video/mp4",
+              "size": 750132032,
+              "webViewLink": "https://drive.google.com/file/d/16AvHtqgseAeWs4jluBW9_GJbJj9ygQjx/view?usp=drivesdk",
+              "modifiedTime": "2026-04-17T14:02:17.760Z",
+              "videoMediaMetadata": null
+            },
+            {
+              "id": "1YmNA8586jYaRKGkxMWAkWG9bNLVoHnLA",
+              "name": "Theme 15.png",
+              "mimeType": "image/png",
+              "size": 199609,
+              "webViewLink": "https://drive.google.com/file/d/1YmNA8586jYaRKGkxMWAkWG9bNLVoHnLA/view?usp=drivesdk",
+              "modifiedTime": "2026-04-17T14:02:30.950Z",
+              "videoMediaMetadata": null
+            },
+            {
+              "id": "1w-aSCGDVgCeUCMI1XnE5D4y4TSVILg0w",
+              "name": "THEME 16. KHOẢNG CÁCH TỪ MỘT ĐIỂM ĐẾN MỘT MẶT PHẲNG.mp4",
+              "mimeType": "video/mp4",
+              "size": 743607492,
+              "webViewLink": "https://drive.google.com/file/d/1w-aSCGDVgCeUCMI1XnE5D4y4TSVILg0w/view?usp=drivesdk",
+              "modifiedTime": "2026-04-17T14:02:19.797Z",
+              "videoMediaMetadata": null
+            },
+            {
+              "id": "1ZGBT8DRUUYcbJCf0VJy8pNj6V7AuKtZH",
+              "name": "THEME 17. KHOẢNG CÁCH GIỮA HAI ĐƯỜNG THẲNG CHÉO NHAU.mp4",
+              "mimeType": "video/mp4",
+              "size": 742117780,
+              "webViewLink": "https://drive.google.com/file/d/1ZGBT8DRUUYcbJCf0VJy8pNj6V7AuKtZH/view?usp=drivesdk",
+              "modifiedTime": "2026-04-17T14:02:07.250Z",
+              "videoMediaMetadata": {
+                "width": 1280,
+                "height": 720,
+                "durationMillis": "5735300"
+              }
+            },
+            {
+              "id": "1t7fj48c1P9z-fhv9sonOhwnrBRnH1Dkt",
+              "name": "THEME 18. BA MÔ HÌNH TÍNH THỂ TÍCH KHỐI CHÓP.mp4",
+              "mimeType": "video/mp4",
+              "size": 362673620,
+              "webViewLink": "https://drive.google.com/file/d/1t7fj48c1P9z-fhv9sonOhwnrBRnH1Dkt/view?usp=drivesdk",
+              "modifiedTime": "2026-04-17T14:02:27.191Z",
+              "videoMediaMetadata": {
+                "width": 1280,
+                "height": 720,
+                "durationMillis": "2835400"
+              }
+            },
+            {
+              "id": "17xaQ-TZMR7GlJ1Y7EWTKdZ6LF9WeGNf0",
+              "name": "THEME 19. THỂ TÍCH KHỐI LĂNG TRỤ.mp4",
+              "mimeType": "video/mp4",
+              "size": 402137640,
+              "webViewLink": "https://drive.google.com/file/d/17xaQ-TZMR7GlJ1Y7EWTKdZ6LF9WeGNf0/view?usp=drivesdk",
+              "modifiedTime": "2026-04-17T14:02:25.407Z",
+              "videoMediaMetadata": null
+            }
+          ]
+        },
+        {
+          "id": "1QxLovmKQU--ZhLbl1N5H_VHUdl67QtRt",
+          "name": "04. CHAPTER 4. ĐẠI SỐ & GIẢI TÍCH LỚP 10",
+          "webViewLink": "https://drive.google.com/drive/folders/1QxLovmKQU--ZhLbl1N5H_VHUdl67QtRt",
+          "modifiedTime": "2026-04-17T14:01:54.713Z",
+          "children": [
+            {
+              "id": "18Qra0V09Q97ZJCixc-Yd2-962_fD8-Fr",
+              "name": "TÀI LIỆU CHAPTER 4",
+              "webViewLink": "https://drive.google.com/drive/folders/18Qra0V09Q97ZJCixc-Yd2-962_fD8-Fr",
+              "modifiedTime": "2026-04-17T14:02:00.913Z",
+              "children": [],
+              "files": [
+                {
+                  "id": "1rxgesXzb3kyIjB8dOxkgzBXnb0AOTGx6",
+                  "name": "Theme 20. Hàm số bậc nhất – Hàm số bậc hai.pdf",
+                  "mimeType": "application/pdf",
+                  "size": 2580923,
+                  "webViewLink": "https://drive.google.com/file/d/1rxgesXzb3kyIjB8dOxkgzBXnb0AOTGx6/view?usp=drivesdk",
+                  "modifiedTime": "2026-04-17T14:02:03.937Z",
+                  "videoMediaMetadata": null
+                },
+                {
+                  "id": "1zRgfaQCRXsUEqMny4vkwvZ-4O1yedmvY",
+                  "name": "Theme 21. Bất phương trình bậc nhất hai ẩn và hệ bất phương trình bậc nhất hai ẩn.pdf",
+                  "mimeType": "application/pdf",
+                  "size": 2246814,
+                  "webViewLink": "https://drive.google.com/file/d/1zRgfaQCRXsUEqMny4vkwvZ-4O1yedmvY/view?usp=drivesdk",
+                  "modifiedTime": "2026-04-17T14:02:02.068Z",
+                  "videoMediaMetadata": null
+                }
+              ]
+            }
+          ],
+          "files": [
+            {
+              "id": "173sKQijgaFVMm_0deL5lie3wsSGeEku_",
+              "name": "THEME 20. HÀM SỐ BẬC NHẤT – HÀM SỐ BẬC HAI.mp4",
+              "mimeType": "video/mp4",
+              "size": 405401508,
+              "webViewLink": "https://drive.google.com/file/d/173sKQijgaFVMm_0deL5lie3wsSGeEku_/view?usp=drivesdk",
+              "modifiedTime": "2026-04-17T14:01:58.025Z",
+              "videoMediaMetadata": null
+            },
+            {
+              "id": "10h3GM7Vr3qWTgOWpUWYKgUI160dS4MeN",
+              "name": "THEME 21. BPT BẬC NHẤT HAI ẨN VÀ HBPT BẬC NHẤT HAI ẨN.mp4",
+              "mimeType": "video/mp4",
+              "size": 423855024,
+              "webViewLink": "https://drive.google.com/file/d/10h3GM7Vr3qWTgOWpUWYKgUI160dS4MeN/view?usp=drivesdk",
+              "modifiedTime": "2026-04-17T14:01:55.863Z",
+              "videoMediaMetadata": null
+            }
+          ]
+        },
+        {
+          "id": "1F4kMevQDt2SB9KeLGNJ7zJa72Yp3S5Og",
+          "name": "05. CHAPTER 5. ĐẠI SỐ & GIẢI TÍCH LỚP 11",
+          "webViewLink": "https://drive.google.com/drive/folders/1F4kMevQDt2SB9KeLGNJ7zJa72Yp3S5Og",
+          "modifiedTime": "2026-04-17T14:01:09.698Z",
+          "children": [
+            {
+              "id": "1tME5echUYxi5Y5fcteR6WyMvr9k4nNaG",
+              "name": "TÀI LIỆU CHAPTER 5",
+              "webViewLink": "https://drive.google.com/drive/folders/1tME5echUYxi5Y5fcteR6WyMvr9k4nNaG",
+              "modifiedTime": "2026-04-17T14:01:34.645Z",
+              "children": [],
+              "files": [
+                {
+                  "id": "16Wy5i2t9M0TlBs_ksmH1Q4i5YRSJhk-9",
+                  "name": "Theme 22. Giá trị lượng giác, công thức lượng giác, hàm số lượng giác.pdf",
+                  "mimeType": "application/pdf",
+                  "size": 5487696,
+                  "webViewLink": "https://drive.google.com/file/d/16Wy5i2t9M0TlBs_ksmH1Q4i5YRSJhk-9/view?usp=drivesdk",
+                  "modifiedTime": "2026-04-17T14:01:36.592Z",
+                  "videoMediaMetadata": null
+                },
+                {
+                  "id": "1cAZqSxo3nYsPmfUfyZf2nUB-fSRoq1xG",
+                  "name": "Theme 23. Giới hạn hàm số khi x → a.pdf",
+                  "mimeType": "application/pdf",
+                  "size": 2874367,
+                  "webViewLink": "https://drive.google.com/file/d/1cAZqSxo3nYsPmfUfyZf2nUB-fSRoq1xG/view?usp=drivesdk",
+                  "modifiedTime": "2026-04-17T14:01:41.057Z",
+                  "videoMediaMetadata": null
+                },
+                {
+                  "id": "1PwulmqrbdAH2u09ekEz7yx8iVJlFmHRW",
+                  "name": "Theme 24. Giới hạn của hàm số khi x → ∞.pdf",
+                  "mimeType": "application/pdf",
+                  "size": 2337624,
+                  "webViewLink": "https://drive.google.com/file/d/1PwulmqrbdAH2u09ekEz7yx8iVJlFmHRW/view?usp=drivesdk",
+                  "modifiedTime": "2026-04-17T14:01:38.842Z",
+                  "videoMediaMetadata": null
+                },
+                {
+                  "id": "1T0J2fay6LV2st3qjB6GEOi7VewuEyoeq",
+                  "name": "Theme 25. Hàm số liên tục.pdf",
+                  "mimeType": "application/pdf",
+                  "size": 2243641,
+                  "webViewLink": "https://drive.google.com/file/d/1T0J2fay6LV2st3qjB6GEOi7VewuEyoeq/view?usp=drivesdk",
+                  "modifiedTime": "2026-04-17T14:01:43.189Z",
+                  "videoMediaMetadata": null
+                },
+                {
+                  "id": "15Jzr2bWN8Snzc4x6tz6h1CEthTnPTMSv",
+                  "name": "Theme 26. Đạo hàm và các quy tắc tính đạo hàm.pdf",
+                  "mimeType": "application/pdf",
+                  "size": 4908283,
+                  "webViewLink": "https://drive.google.com/file/d/15Jzr2bWN8Snzc4x6tz6h1CEthTnPTMSv/view?usp=drivesdk",
+                  "modifiedTime": "2026-04-17T14:01:44.740Z",
+                  "videoMediaMetadata": null
+                },
+                {
+                  "id": "1C9YnGOlsoRoOj3kD2sWlbZsYjf_Jm2ae",
+                  "name": "Theme 27. Phương trình, bất phương trình đạo hàm.pdf",
+                  "mimeType": "application/pdf",
+                  "size": 951700,
+                  "webViewLink": "https://drive.google.com/file/d/1C9YnGOlsoRoOj3kD2sWlbZsYjf_Jm2ae/view?usp=drivesdk",
+                  "modifiedTime": "2026-04-17T14:01:47.031Z",
+                  "videoMediaMetadata": null
+                },
+                {
+                  "id": "1jfO5opWPKRkRrI6LZoIzDy6Skxma427Z",
+                  "name": "Theme 28. Lũy thừa – logarit.pdf",
+                  "mimeType": "application/pdf",
+                  "size": 3440943,
+                  "webViewLink": "https://drive.google.com/file/d/1jfO5opWPKRkRrI6LZoIzDy6Skxma427Z/view?usp=drivesdk",
+                  "modifiedTime": "2026-04-17T14:01:48.756Z",
+                  "videoMediaMetadata": null
+                },
+                {
+                  "id": "1K0l2_wqwokPJQloBcpy26wlvpRDunL-P",
+                  "name": "Theme 29. Hàm số mũ, hàm số logarit.pdf",
+                  "mimeType": "application/pdf",
+                  "size": 3505590,
+                  "webViewLink": "https://drive.google.com/file/d/1K0l2_wqwokPJQloBcpy26wlvpRDunL-P/view?usp=drivesdk",
+                  "modifiedTime": "2026-04-17T14:01:50.898Z",
+                  "videoMediaMetadata": null
+                },
+                {
+                  "id": "1SLwhxD28kNkWgT6Sv6ptn2HlFtw-ZC4P",
+                  "name": "Theme 30. Phương trình - bất phương trình mũ và logarit.pdf",
+                  "mimeType": "application/pdf",
+                  "size": 1676835,
+                  "webViewLink": "https://drive.google.com/file/d/1SLwhxD28kNkWgT6Sv6ptn2HlFtw-ZC4P/view?usp=drivesdk",
+                  "modifiedTime": "2026-04-17T14:01:52.614Z",
+                  "videoMediaMetadata": null
+                }
+              ]
+            }
+          ],
+          "files": [
+            {
+              "id": "1KFCti5utgg7K6iZ5GhIbwK0eNin1W3PS",
+              "name": "THEME 22. GIÁ TRỊ LƯỢNG GIÁC, CÔNG THỨC LƯỢNG GIÁC, HÀM SỐ LƯỢNG GIÁC.mp4",
+              "mimeType": "video/mp4",
+              "size": 556949812,
+              "webViewLink": "https://drive.google.com/file/d/1KFCti5utgg7K6iZ5GhIbwK0eNin1W3PS/view?usp=drivesdk",
+              "modifiedTime": "2026-04-17T14:01:24.750Z",
+              "videoMediaMetadata": null
+            },
+            {
+              "id": "1Hy0ip3WFydQKtMz4ki7CHixHdgfmrmn6",
+              "name": "THEME 23. GIỚI HẠN HÀM SỐ KHI X → A.mp4",
+              "mimeType": "video/mp4",
+              "size": 916821104,
+              "webViewLink": "https://drive.google.com/file/d/1Hy0ip3WFydQKtMz4ki7CHixHdgfmrmn6/view?usp=drivesdk",
+              "modifiedTime": "2026-04-17T14:01:10.837Z",
+              "videoMediaMetadata": null
+            },
+            {
+              "id": "1ATFP7P3Ka7K3sPjH-clVYuaCSW6hf651",
+              "name": "THEME 24. GIỚI HẠN CỦA HÀM SỐ KHI X → ∞.mp4",
+              "mimeType": "video/mp4",
+              "size": 712440852,
+              "webViewLink": "https://drive.google.com/file/d/1ATFP7P3Ka7K3sPjH-clVYuaCSW6hf651/view?usp=drivesdk",
+              "modifiedTime": "2026-04-17T14:01:22.957Z",
+              "videoMediaMetadata": {
+                "width": 1280,
+                "height": 720,
+                "durationMillis": "5484199"
+              }
+            },
+            {
+              "id": "1BwKuaeAHGkOpj-DEaNKsdRdJlRTTRk_d",
+              "name": "THEME 25. HÀM SỐ LIÊN TỤC.mp4",
+              "mimeType": "video/mp4",
+              "size": 362673620,
+              "webViewLink": "https://drive.google.com/file/d/1BwKuaeAHGkOpj-DEaNKsdRdJlRTTRk_d/view?usp=drivesdk",
+              "modifiedTime": "2026-04-17T14:01:15.339Z",
+              "videoMediaMetadata": null
+            },
+            {
+              "id": "1i91I9SoWDllH1xkVT6v6jcHjNmu8EsXj",
+              "name": "THEME 26. ĐẠO HÀM VÀ CÁC QUY TẮC TÍNH ĐẠO HÀM (P1).mp4",
+              "mimeType": "video/mp4",
+              "size": 685876264,
+              "webViewLink": "https://drive.google.com/file/d/1i91I9SoWDllH1xkVT6v6jcHjNmu8EsXj/view?usp=drivesdk",
+              "modifiedTime": "2026-04-17T14:01:13.413Z",
+              "videoMediaMetadata": null
+            },
+            {
+              "id": "1iuIkwwhF8njlxilisOKJS9nQkb0-xiqH",
+              "name": "THEME 26. ĐẠO HÀM VÀ CÁC QUY TẮC TÍNH ĐẠO HÀM (P2).mp4",
+              "mimeType": "video/mp4",
+              "size": 530892824,
+              "webViewLink": "https://drive.google.com/file/d/1iuIkwwhF8njlxilisOKJS9nQkb0-xiqH/view?usp=drivesdk",
+              "modifiedTime": "2026-04-17T14:01:21.017Z",
+              "videoMediaMetadata": {
+                "width": 1280,
+                "height": 720,
+                "durationMillis": "4317699"
+              }
+            },
+            {
+              "id": "1AdKPHeAglf0_ABBLK15VzrPy8sGT9BTK",
+              "name": "THEME 26. ĐẠO HÀM VÀ CÁC QUY TẮC TÍNH ĐẠO HÀM (P3).mp4",
+              "mimeType": "video/mp4",
+              "size": 525287416,
+              "webViewLink": "https://drive.google.com/file/d/1AdKPHeAglf0_ABBLK15VzrPy8sGT9BTK/view?usp=drivesdk",
+              "modifiedTime": "2026-04-17T14:01:17.243Z",
+              "videoMediaMetadata": {
+                "width": 1280,
+                "height": 720,
+                "durationMillis": "4427966"
+              }
+            },
+            {
+              "id": "1JKI6KRiUVBOtRexlkZOngbGvm91RtZ6u",
+              "name": "THEME 27. PHƯƠNG TRÌNH, BẤT PHƯƠNG TRÌNH ĐẠO HÀM.mp4",
+              "mimeType": "video/mp4",
+              "size": 340256500,
+              "webViewLink": "https://drive.google.com/file/d/1JKI6KRiUVBOtRexlkZOngbGvm91RtZ6u/view?usp=drivesdk",
+              "modifiedTime": "2026-04-17T14:01:26.737Z",
+              "videoMediaMetadata": null
+            },
+            {
+              "id": "1hzNDL_iA6lqPWju1u-skCj0f0V4G6BG4",
+              "name": "THEME 28. LŨY THỪA – LOGARIT.mp4",
+              "mimeType": "video/mp4",
+              "size": 649893252,
+              "webViewLink": "https://drive.google.com/file/d/1hzNDL_iA6lqPWju1u-skCj0f0V4G6BG4/view?usp=drivesdk",
+              "modifiedTime": "2026-04-17T14:01:19.188Z",
+              "videoMediaMetadata": null
+            },
+            {
+              "id": "1pw2E45lwKt902jdSvq5yNvcv6SZ_zx52",
+              "name": "THEME 29. HÀM SỐ MŨ, HÀM SỐ LOGARIT.mp4",
+              "mimeType": "video/mp4",
+              "size": 353003088,
+              "webViewLink": "https://drive.google.com/file/d/1pw2E45lwKt902jdSvq5yNvcv6SZ_zx52/view?usp=drivesdk",
+              "modifiedTime": "2026-04-17T14:01:29.080Z",
+              "videoMediaMetadata": {
+                "width": 1280,
+                "height": 720,
+                "durationMillis": "3016599"
+              }
+            },
+            {
+              "id": "1zRyLqKLcNNapfh4WD5nszCfeYlPvpJeb",
+              "name": "THEME 30. PHƯƠNG TRÌNH – BẤT PHƯƠNG TRÌNH MŨ VÀ LOGARIT.mp4",
+              "mimeType": "video/mp4",
+              "size": 340828584,
+              "webViewLink": "https://drive.google.com/file/d/1zRyLqKLcNNapfh4WD5nszCfeYlPvpJeb/view?usp=drivesdk",
+              "modifiedTime": "2026-04-17T14:01:31.631Z",
+              "videoMediaMetadata": {
+                "width": 1280,
+                "height": 720,
+                "durationMillis": "2882800"
+              }
+            }
+          ]
+        },
+        {
+          "id": "1Ayc_MKxRbRyHZwtHqBXrFq_UkZ5bxuGv",
+          "name": "06. CHAPTER 6. ĐẠI SỐ TỔ HỢP",
+          "webViewLink": "https://drive.google.com/drive/folders/1Ayc_MKxRbRyHZwtHqBXrFq_UkZ5bxuGv",
+          "modifiedTime": "2026-04-17T14:00:47.379Z",
+          "children": [
+            {
+              "id": "1LdZ3aHcIrGQLabzMGbywAf9BuPSovxad",
+              "name": "TÀI LIỆU CHAPTER 6",
+              "webViewLink": "https://drive.google.com/drive/folders/1LdZ3aHcIrGQLabzMGbywAf9BuPSovxad",
+              "modifiedTime": "2026-04-17T14:00:59.319Z",
+              "children": [],
+              "files": [
+                {
+                  "id": "1JN7yTOC_LlAtmOWDgc1Lf_xvHYi_wgZ1",
+                  "name": "Theme 31. Quy tắc cộng, quy tắc nhân.pdf",
+                  "mimeType": "application/pdf",
+                  "size": 979785,
+                  "webViewLink": "https://drive.google.com/file/d/1JN7yTOC_LlAtmOWDgc1Lf_xvHYi_wgZ1/view?usp=drivesdk",
+                  "modifiedTime": "2026-04-17T14:01:05.169Z",
+                  "videoMediaMetadata": null
+                },
+                {
+                  "id": "1ynwDCA6h_mdj3vO0CeF0jfRHLCB77iNb",
+                  "name": "Theme 32. Hoán vị, chỉnh hợp, tổ hợp, nhị thức Newton.pdf",
+                  "mimeType": "application/pdf",
+                  "size": 1798664,
+                  "webViewLink": "https://drive.google.com/file/d/1ynwDCA6h_mdj3vO0CeF0jfRHLCB77iNb/view?usp=drivesdk",
+                  "modifiedTime": "2026-04-17T14:01:02.753Z",
+                  "videoMediaMetadata": null
+                },
+                {
+                  "id": "1h6h4BODZcXnTIL8ifkzqlP9_kABZYkTP",
+                  "name": "Theme 33. Tính xác suất bằng định nghĩa.pdf",
+                  "mimeType": "application/pdf",
+                  "size": 2332049,
+                  "webViewLink": "https://drive.google.com/file/d/1h6h4BODZcXnTIL8ifkzqlP9_kABZYkTP/view?usp=drivesdk",
+                  "modifiedTime": "2026-04-17T14:01:00.371Z",
+                  "videoMediaMetadata": null
+                },
+                {
+                  "id": "1eKBtk5CDv4_AB5aKyeiqG4WHEjYxMdlv",
+                  "name": "Theme 34. Các quy tắc tính xác suất .pdf",
+                  "mimeType": "application/pdf",
+                  "size": 2901643,
+                  "webViewLink": "https://drive.google.com/file/d/1eKBtk5CDv4_AB5aKyeiqG4WHEjYxMdlv/view?usp=drivesdk",
+                  "modifiedTime": "2026-04-17T14:01:07.771Z",
+                  "videoMediaMetadata": null
+                }
+              ]
+            }
+          ],
+          "files": [
+            {
+              "id": "1ISFzMsrS3h5JmB3UqTOX8lWy1Ydc_Uz2",
+              "name": "THEME 31. QUY TẮC CỘNG, QUY TẮC NHÂN.mp4",
+              "mimeType": "video/mp4",
+              "size": 383769852,
+              "webViewLink": "https://drive.google.com/file/d/1ISFzMsrS3h5JmB3UqTOX8lWy1Ydc_Uz2/view?usp=drivesdk",
+              "modifiedTime": "2026-04-17T14:00:50.795Z",
+              "videoMediaMetadata": {
+                "width": 1280,
+                "height": 720,
+                "durationMillis": "3211699"
+              }
+            },
+            {
+              "id": "1nE9kz9_iBqT-UzJ8B3ucdyRuOTBjb0nf",
+              "name": "THEME 32. HOÁN VỊ, CHỈNH HỢP, TỔ HỢP, NHỊ THỨC NEWTON (P1).mp4",
+              "mimeType": "video/mp4",
+              "size": 510362284,
+              "webViewLink": "https://drive.google.com/file/d/1nE9kz9_iBqT-UzJ8B3ucdyRuOTBjb0nf/view?usp=drivesdk",
+              "modifiedTime": "2026-04-17T14:12:51.839Z",
+              "videoMediaMetadata": {
+                "width": 1280,
+                "height": 720,
+                "durationMillis": "3985666"
+              }
+            },
+            {
+              "id": "1U11AYGJGjrb_dJUOmSXxAg9DgJjmpY4s",
+              "name": "THEME 32. HOÁN VỊ, CHỈNH HỢP, TỔ HỢP, NHỊ THỨC NEWTON (P2).mp4",
+              "mimeType": "video/mp4",
+              "size": 413256712,
+              "webViewLink": "https://drive.google.com/file/d/1U11AYGJGjrb_dJUOmSXxAg9DgJjmpY4s/view?usp=drivesdk",
+              "modifiedTime": "2026-04-17T14:00:52.962Z",
+              "videoMediaMetadata": {
+                "width": 1280,
+                "height": 720,
+                "durationMillis": "3270500"
+              }
+            },
+            {
+              "id": "1jNi4uBCXWrB1Mg5mY9SaT0ylcIIOC9eD",
+              "name": "THEME 33. TÍNH XÁC SUẤT BẰNG ĐỊNH NGHĨA.mp4",
+              "mimeType": "video/mp4",
+              "size": 322615896,
+              "webViewLink": "https://drive.google.com/file/d/1jNi4uBCXWrB1Mg5mY9SaT0ylcIIOC9eD/view?usp=drivesdk",
+              "modifiedTime": "2026-04-17T14:00:57.335Z",
+              "videoMediaMetadata": {
+                "width": 1280,
+                "height": 720,
+                "durationMillis": "2455599"
+              }
+            },
+            {
+              "id": "1kG6MMvlc7Ro2ft2YxNHIjIwa45nmkAZq",
+              "name": "THEME 34. CÁC QUY TẮC TÍNH XÁC SUẤT.mp4",
+              "mimeType": "video/mp4",
+              "size": 333773132,
+              "webViewLink": "https://drive.google.com/file/d/1kG6MMvlc7Ro2ft2YxNHIjIwa45nmkAZq/view?usp=drivesdk",
+              "modifiedTime": "2026-04-17T14:00:54.924Z",
+              "videoMediaMetadata": {
+                "width": 1280,
+                "height": 720,
+                "durationMillis": "2760300"
+              }
+            }
+          ]
+        },
+        {
+          "id": "1FnAHCLvnQVXprywGFiaEHRGSS9E7TEyW",
+          "name": "07. CHAPTER 7. MỘT SỐ YẾU TỐ THỐNG KÊ",
+          "webViewLink": "https://drive.google.com/drive/folders/1FnAHCLvnQVXprywGFiaEHRGSS9E7TEyW",
+          "modifiedTime": "2026-04-17T14:00:24.565Z",
+          "children": [
+            {
+              "id": "19lMwU0yqjLLLbwLRIa3igUJJ5cNnF3ZP",
+              "name": "TÀI LIỆU CHAPTER 7",
+              "webViewLink": "https://drive.google.com/drive/folders/19lMwU0yqjLLLbwLRIa3igUJJ5cNnF3ZP",
+              "modifiedTime": "2026-04-17T14:00:36.591Z",
+              "children": [],
+              "files": [
+                {
+                  "id": "1ZQ7Mw37NcOOhFJMA4drVtjyVmZLcsofW",
+                  "name": "Theme 35. Số gần đúng, sai số.pdf",
+                  "mimeType": "application/pdf",
+                  "size": 2192765,
+                  "webViewLink": "https://drive.google.com/file/d/1ZQ7Mw37NcOOhFJMA4drVtjyVmZLcsofW/view?usp=drivesdk",
+                  "modifiedTime": "2026-04-17T14:00:40.320Z",
+                  "videoMediaMetadata": null
+                },
+                {
+                  "id": "1d2wFYIFjbRm9HvRQOow2Tb4HgKB_Fv9c",
+                  "name": "Theme 36. Các số đặc trưng đo xu thế trung tâm của mẫu số liệu không ghép nhóm.pdf",
+                  "mimeType": "application/pdf",
+                  "size": 2689603,
+                  "webViewLink": "https://drive.google.com/file/d/1d2wFYIFjbRm9HvRQOow2Tb4HgKB_Fv9c/view?usp=drivesdk",
+                  "modifiedTime": "2026-04-17T14:00:45.359Z",
+                  "videoMediaMetadata": null
+                },
+                {
+                  "id": "12E6KAqrtGNHGFXG1DtLUeupEGKA-7hTR",
+                  "name": "Theme 37. Các số đặc trưng đo độ phân tán của mẫu số liệu không ghép nhóm.pdf",
+                  "mimeType": "application/pdf",
+                  "size": 3001837,
+                  "webViewLink": "https://drive.google.com/file/d/12E6KAqrtGNHGFXG1DtLUeupEGKA-7hTR/view?usp=drivesdk",
+                  "modifiedTime": "2026-04-17T14:00:38.277Z",
+                  "videoMediaMetadata": null
+                },
+                {
+                  "id": "1kzP66hAMtUA3IlN_u81YDfrSzth-NEgc",
+                  "name": "Theme 38. Mẫu số liệu ghép nhóm và các số đặc trưng đo xu thế trung tâm của mẫu số liệu ghép nhóm.pdf",
+                  "mimeType": "application/pdf",
+                  "size": 4482872,
+                  "webViewLink": "https://drive.google.com/file/d/1kzP66hAMtUA3IlN_u81YDfrSzth-NEgc/view?usp=drivesdk",
+                  "modifiedTime": "2026-04-17T14:00:42.100Z",
+                  "videoMediaMetadata": null
+                }
+              ]
+            }
+          ],
+          "files": [
+            {
+              "id": "1Qr6mIiUYseGWoq1aL1poeTk562RBuhKl",
+              "name": "THEME 35. SỐ GẦN ĐÚNG, SAI SỐ.mp4",
+              "mimeType": "video/mp4",
+              "size": 321135020,
+              "webViewLink": "https://drive.google.com/file/d/1Qr6mIiUYseGWoq1aL1poeTk562RBuhKl/view?usp=drivesdk",
+              "modifiedTime": "2026-04-17T14:00:30.660Z",
+              "videoMediaMetadata": {
+                "width": 1280,
+                "height": 720,
+                "durationMillis": "2610699"
+              }
+            },
+            {
+              "id": "17Q8XIsZCDL71Mln1273T8dUPr9_4WBGA",
+              "name": "THEME 36. CÁC SỐ ĐẶC TRƯNG ĐO XU THẾ TRUNG TÂM.mp4",
+              "mimeType": "video/mp4",
+              "size": 355507060,
+              "webViewLink": "https://drive.google.com/file/d/17Q8XIsZCDL71Mln1273T8dUPr9_4WBGA/view?usp=drivesdk",
+              "modifiedTime": "2026-04-17T14:00:28.120Z",
+              "videoMediaMetadata": null
+            },
+            {
+              "id": "1IY_zwYlI3_SO4LJ8rMgwLlg7UYMnc2md",
+              "name": "THEME 37. CÁC SỐ ĐẶC TRƯNG ĐO ĐỘ PHÂN TÁN.mp4",
+              "mimeType": "video/mp4",
+              "size": 399547564,
+              "webViewLink": "https://drive.google.com/file/d/1IY_zwYlI3_SO4LJ8rMgwLlg7UYMnc2md/view?usp=drivesdk",
+              "modifiedTime": "2026-04-17T14:00:32.702Z",
+              "videoMediaMetadata": {
+                "width": 1280,
+                "height": 720,
+                "durationMillis": "2954500"
+              }
+            },
+            {
+              "id": "19x9GzWikTysbXVAzXPI1L3vN6babeAU8",
+              "name": "THEME 38. MẪU SỐ LIỆU GHÉP NHÓM.mp4",
+              "mimeType": "video/mp4",
+              "size": 727609068,
+              "webViewLink": "https://drive.google.com/file/d/19x9GzWikTysbXVAzXPI1L3vN6babeAU8/view?usp=drivesdk",
+              "modifiedTime": "2026-04-17T14:00:26.114Z",
+              "videoMediaMetadata": {
+                "width": 1280,
+                "height": 720,
+                "durationMillis": "6185500"
+              }
+            }
+          ]
+        }
+      ],
+      "files": [
+        {
+          "id": "1nAeQy9kuz2rjeCiz1tSMET3Y2sAL5EtcjTFwBoQHKtc",
+          "name": "THE TRUTH | Tiền đề Toán 12 cô Ngọc Huyền LB ",
+          "mimeType": "application/vnd.google-apps.spreadsheet",
+          "size": 4066,
+          "webViewLink": "https://docs.google.com/spreadsheets/d/1nAeQy9kuz2rjeCiz1tSMET3Y2sAL5EtcjTFwBoQHKtc/edit?usp=drivesdk",
+          "modifiedTime": "2026-05-14T09:50:25.011Z",
+          "videoMediaMetadata": null
+        }
+      ],
+      "webViewLink": "https://drive.google.com/drive/folders/1baciLrqVNvKLogH3gz0TLCFgNLpILtQk",
+      "modifiedTime": "2026-04-17T16:25:31.366Z"
+    },
+    {
+      "id": "1YpxFzj_sv4gYhSMjTOkE6jMUJ4nXEfv_",
+      "name": "1. STEP 1 2027 | Nền tảng Toán 12",
+      "children": [
+        {
+          "id": "1bxZuxT-k3Bj99BGSPrkZUEbI52PYtGOu",
+          "name": "CD8",
+          "webViewLink": "https://drive.google.com/drive/folders/1bxZuxT-k3Bj99BGSPrkZUEbI52PYtGOu",
+          "modifiedTime": "2026-04-26T23:13:51.251Z",
+          "children": [
+            {
+              "id": "1WC5y7O-edu0xY6CQmNLQrW1Brl9uLm-3",
+              "name": "01. Theme 1. Các quy tắc tính đạo hàm",
+              "webViewLink": "https://drive.google.com/drive/folders/1WC5y7O-edu0xY6CQmNLQrW1Brl9uLm-3",
+              "modifiedTime": "2026-04-26T23:14:33.222Z",
+              "children": [],
+              "files": [
+                {
+                  "id": "1rD0FCv00OwZJYdAhRsIYp_WbJWY8Ubak",
+                  "name": "[Handout chi tiết] BON2026-Nền tảng-Theme 1.pdf",
+                  "mimeType": "application/pdf",
+                  "size": 65273484,
+                  "webViewLink": "https://drive.google.com/file/d/1rD0FCv00OwZJYdAhRsIYp_WbJWY8Ubak/view?usp=drivesdk",
+                  "modifiedTime": "2026-04-26T23:14:37.575Z",
+                  "videoMediaMetadata": null
+                },
+                {
+                  "id": "1hvGHgjwMR3vUsWaSATphgc79MXg14Xkq",
+                  "name": "[Tài liệu buổi học] BON2027-Nền tảng-Theme 1.pdf",
+                  "mimeType": "application/pdf",
+                  "size": 7845145,
+                  "webViewLink": "https://drive.google.com/file/d/1hvGHgjwMR3vUsWaSATphgc79MXg14Xkq/view?usp=drivesdk",
+                  "modifiedTime": "2026-04-26T23:14:39.827Z",
+                  "videoMediaMetadata": null
+                },
+                {
+                  "id": "1zq_XyCp1EJCDWToRsgrmKyEFQbKNyezd",
+                  "name": "[Tài liệu bản ghi chép] BON2026-Nền tảng-Theme 1.pdf",
+                  "mimeType": "application/pdf",
+                  "size": 13533350,
+                  "webViewLink": "https://drive.google.com/file/d/1zq_XyCp1EJCDWToRsgrmKyEFQbKNyezd/view?usp=drivesdk",
+                  "modifiedTime": "2026-04-26T23:14:35.950Z",
+                  "videoMediaMetadata": null
+                },
+                {
+                  "id": "1X6SMYbHRnjvG1CBBzxlDY4RL_723eCuq",
+                  "name": "Theme 1. Các quy tắc tính đạo hàm.mp4",
+                  "mimeType": "video/mp4",
+                  "size": 818822532,
+                  "webViewLink": "https://drive.google.com/file/d/1X6SMYbHRnjvG1CBBzxlDY4RL_723eCuq/view?usp=drivesdk",
+                  "modifiedTime": "2026-04-26T23:14:34.201Z",
+                  "videoMediaMetadata": {
+                    "width": 1920,
+                    "height": 1080,
+                    "durationMillis": "5378433"
+                  }
+                }
+              ]
+            },
+            {
+              "id": "1jHKkvB_khnE2Mw3Y2yCAyo-uE_KRYbPl",
+              "name": "02. Theme 2. Đạo hàm hàm hợp - đạo hàm cấp hai",
+              "webViewLink": "https://drive.google.com/drive/folders/1jHKkvB_khnE2Mw3Y2yCAyo-uE_KRYbPl",
+              "modifiedTime": "2026-04-26T23:14:41.512Z",
+              "children": [],
+              "files": [
+                {
+                  "id": "1ifyfm3N_yKe1F_1UQuRw1zSCn5A0VrG_",
+                  "name": "[Handout chi tiết] BON2026-Nền tảng-Theme 2.pdf",
+                  "mimeType": "application/pdf",
+                  "size": 57236384,
+                  "webViewLink": "https://drive.google.com/file/d/1ifyfm3N_yKe1F_1UQuRw1zSCn5A0VrG_/view?usp=drivesdk",
+                  "modifiedTime": "2026-04-26T23:14:46.199Z",
+                  "videoMediaMetadata": null
+                },
+                {
+                  "id": "1ajCl-Ey1_DKPtrGoJVkK5kF6Dk_NxC3H",
+                  "name": "[Tài liệu buổi học] BON2027-Nền tảng-Theme 2.pdf",
+                  "mimeType": "application/pdf",
+                  "size": 7166400,
+                  "webViewLink": "https://drive.google.com/file/d/1ajCl-Ey1_DKPtrGoJVkK5kF6Dk_NxC3H/view?usp=drivesdk",
+                  "modifiedTime": "2026-04-26T23:14:47.834Z",
+                  "videoMediaMetadata": null
+                },
+                {
+                  "id": "1r4JbGNyd8UNVGbKlBymnUA6V7_KoaKei",
+                  "name": "[Tài liệu bản ghi chép] BON2026-Nền tảng-Theme 2.pdf",
+                  "mimeType": "application/pdf",
+                  "size": 12862824,
+                  "webViewLink": "https://drive.google.com/file/d/1r4JbGNyd8UNVGbKlBymnUA6V7_KoaKei/view?usp=drivesdk",
+                  "modifiedTime": "2026-04-26T23:14:44.566Z",
+                  "videoMediaMetadata": null
+                },
+                {
+                  "id": "1cKDDsK-cXd_Ulm0L1Hjh37e94Qt0OM4Z",
+                  "name": "Theme 2. Đạo hàm hàm hợp - đạo hàm cấp hai.mp4",
+                  "mimeType": "video/mp4",
+                  "size": 762149368,
+                  "webViewLink": "https://drive.google.com/file/d/1cKDDsK-cXd_Ulm0L1Hjh37e94Qt0OM4Z/view?usp=drivesdk",
+                  "modifiedTime": "2026-04-26T23:14:42.948Z",
+                  "videoMediaMetadata": {
+                    "width": 1920,
+                    "height": 1080,
+                    "durationMillis": "4887266"
+                  }
+                }
+              ]
+            },
+            {
+              "id": "15Ja-GkRr1m4hdE5lbTM86vWlura7figj",
+              "name": "03. Theme 3. Các khái niệm mở đầu về vectơ",
+              "webViewLink": "https://drive.google.com/drive/folders/15Ja-GkRr1m4hdE5lbTM86vWlura7figj",
+              "modifiedTime": "2026-04-26T23:14:49.544Z",
+              "children": [],
+              "files": [
+                {
+                  "id": "1Z2dWIKYKfHnpayEcrW7uz6TOHOBmR45v",
+                  "name": "[Handout chi tiết] BON2026-Nền tảng-Theme 3.pdf",
+                  "mimeType": "application/pdf",
+                  "size": 64385480,
+                  "webViewLink": "https://drive.google.com/file/d/1Z2dWIKYKfHnpayEcrW7uz6TOHOBmR45v/view?usp=drivesdk",
+                  "modifiedTime": "2026-04-26T23:14:53.644Z",
+                  "videoMediaMetadata": null
+                },
+                {
+                  "id": "1HzjgQFPLZ9tjl2_BfS6w6KXQ9rlIjnh3",
+                  "name": "[Tài liệu buổi học] BON2027-Nền tảng-Theme 3.pdf",
+                  "mimeType": "application/pdf",
+                  "size": 7527940,
+                  "webViewLink": "https://drive.google.com/file/d/1HzjgQFPLZ9tjl2_BfS6w6KXQ9rlIjnh3/view?usp=drivesdk",
+                  "modifiedTime": "2026-04-26T23:14:55.238Z",
+                  "videoMediaMetadata": null
+                },
+                {
+                  "id": "1BDKgTn-b-2jeTALmcYWLb8ExmMgsioUe",
+                  "name": "[Tài liệu bản ghi chép] BON2026-Nền tảng-Theme 3.pdf",
+                  "mimeType": "application/pdf",
+                  "size": 13279253,
+                  "webViewLink": "https://drive.google.com/file/d/1BDKgTn-b-2jeTALmcYWLb8ExmMgsioUe/view?usp=drivesdk",
+                  "modifiedTime": "2026-04-26T23:14:52.082Z",
+                  "videoMediaMetadata": null
+                },
+                {
+                  "id": "1l9IuR-ZrfZaztX2Fg6vvKkHo217LZEF8",
+                  "name": "Theme 3. Các khái niệm mở đầu về vectơ.mp4",
+                  "mimeType": "video/mp4",
+                  "size": 470610436,
+                  "webViewLink": "https://drive.google.com/file/d/1l9IuR-ZrfZaztX2Fg6vvKkHo217LZEF8/view?usp=drivesdk",
+                  "modifiedTime": "2026-04-26T23:14:50.430Z",
+                  "videoMediaMetadata": {
+                    "width": 1280,
+                    "height": 720,
+                    "durationMillis": "3873866"
+                  }
+                }
+              ]
+            },
+            {
+              "id": "1yCSdJuGmQ5hF0A5Bncw-l9xvSToookbt",
+              "name": "04. Theme 4. Tổng và hiệu của hai vectơ",
+              "webViewLink": "https://drive.google.com/drive/folders/1yCSdJuGmQ5hF0A5Bncw-l9xvSToookbt",
+              "modifiedTime": "2026-04-26T23:14:00.858Z",
+              "children": [],
+              "files": [
+                {
+                  "id": "11c5nOf3vJk-0JKPQhoR_dgpUZnPYyg9T",
+                  "name": "[Handout chi tiết] BON2026-Nền tảng-Theme 4.pdf",
+                  "mimeType": "application/pdf",
+                  "size": 69370034,
+                  "webViewLink": "https://drive.google.com/file/d/11c5nOf3vJk-0JKPQhoR_dgpUZnPYyg9T/view?usp=drivesdk",
+                  "modifiedTime": "2026-04-26T23:14:06.259Z",
+                  "videoMediaMetadata": null
+                },
+                {
+                  "id": "1GZU-ZnNkTm7xRXFC0PbOx6SZkD-b4sNx",
+                  "name": "[Tài liệu buổi học] BON2027-Nền tảng-Theme 4.pdf",
+                  "mimeType": "application/pdf",
+                  "size": 7817338,
+                  "webViewLink": "https://drive.google.com/file/d/1GZU-ZnNkTm7xRXFC0PbOx6SZkD-b4sNx/view?usp=drivesdk",
+                  "modifiedTime": "2026-04-26T23:14:07.837Z",
+                  "videoMediaMetadata": null
+                },
+                {
+                  "id": "1Hc6w_UwC9moXXfACo7nflBXe6mnx0EDi",
+                  "name": "[Tài liệu bản ghi chép] BON2026-Nền tảng-Theme 4.pdf",
+                  "mimeType": "application/pdf",
+                  "size": 12832318,
+                  "webViewLink": "https://drive.google.com/file/d/1Hc6w_UwC9moXXfACo7nflBXe6mnx0EDi/view?usp=drivesdk",
+                  "modifiedTime": "2026-04-26T23:14:03.468Z",
+                  "videoMediaMetadata": null
+                },
+                {
+                  "id": "1hXwovLIlIGhpfx5jOknlfpmswBd7WWhZ",
+                  "name": "Theme 4. Tổng và hiệu của hai vectơ.mp4",
+                  "mimeType": "video/mp4",
+                  "size": 598976460,
+                  "webViewLink": "https://drive.google.com/file/d/1hXwovLIlIGhpfx5jOknlfpmswBd7WWhZ/view?usp=drivesdk",
+                  "modifiedTime": "2026-04-26T23:14:01.683Z",
+                  "videoMediaMetadata": {
+                    "width": 1280,
+                    "height": 720,
+                    "durationMillis": "4914466"
+                  }
+                }
+              ]
+            },
+            {
+              "id": "13Jd1g8sgag-SRIYiyf1OUvhHLVMJdqCX",
+              "name": "05. Theme 5. Tích của một vecto với một số",
+              "webViewLink": "https://drive.google.com/drive/folders/13Jd1g8sgag-SRIYiyf1OUvhHLVMJdqCX",
+              "modifiedTime": "2026-04-26T23:14:09.544Z",
+              "children": [],
+              "files": [
+                {
+                  "id": "1Q6myH6GLvcObg2_t9GWXXr9_S6aye7zm",
+                  "name": "[Handout chi tiết] BON2026-Nền tảng-Theme 5.pdf",
+                  "mimeType": "application/pdf",
+                  "size": 62183208,
+                  "webViewLink": "https://drive.google.com/file/d/1Q6myH6GLvcObg2_t9GWXXr9_S6aye7zm/view?usp=drivesdk",
+                  "modifiedTime": "2026-04-26T23:14:12.122Z",
+                  "videoMediaMetadata": null
+                },
+                {
+                  "id": "1Fql-CoAwoxE0_HuUjBWplt4NBrhNsUPp",
+                  "name": "[Tài liệu buổi học] BON2027-Nền tảng-Theme 5.pdf",
+                  "mimeType": "application/pdf",
+                  "size": 6702090,
+                  "webViewLink": "https://drive.google.com/file/d/1Fql-CoAwoxE0_HuUjBWplt4NBrhNsUPp/view?usp=drivesdk",
+                  "modifiedTime": "2026-04-26T23:14:13.859Z",
+                  "videoMediaMetadata": null
+                },
+                {
+                  "id": "1k-5jEglo0ssf9BG3ewIs99JtuNJt-ki5",
+                  "name": "[Tài liệu bản ghi chép] BON2026-Nền tảng-Theme 5.pdf",
+                  "mimeType": "application/pdf",
+                  "size": 11706211,
+                  "webViewLink": "https://drive.google.com/file/d/1k-5jEglo0ssf9BG3ewIs99JtuNJt-ki5/view?usp=drivesdk",
+                  "modifiedTime": "2026-04-26T23:14:15.528Z",
+                  "videoMediaMetadata": null
+                },
+                {
+                  "id": "1r1NyN76nBi3M3QnwJB367nK1AC7KqBNe",
+                  "name": "Theme 5. Tích của một vecto với một số.mp4",
+                  "mimeType": "video/mp4",
+                  "size": 421387148,
+                  "webViewLink": "https://drive.google.com/file/d/1r1NyN76nBi3M3QnwJB367nK1AC7KqBNe/view?usp=drivesdk",
+                  "modifiedTime": "2026-04-26T23:14:10.446Z",
+                  "videoMediaMetadata": {
+                    "width": 1280,
+                    "height": 720,
+                    "durationMillis": "4210699"
+                  }
+                }
+              ]
+            },
+            {
+              "id": "1HYz0NyftpBP1HqNTH7uueMD60v-zvxQX",
+              "name": "06. Theme 6. Quy tắc đếm",
+              "webViewLink": "https://drive.google.com/drive/folders/1HYz0NyftpBP1HqNTH7uueMD60v-zvxQX",
+              "modifiedTime": "2026-04-26T23:14:17.083Z",
+              "children": [],
+              "files": [
+                {
+                  "id": "1QpRLziN4iUJjkRtamdU0KxevfNqy6Ypn",
+                  "name": "[Handout chi tiết] BON2026-Nền tảng-Theme 6.pdf",
+                  "mimeType": "application/pdf",
+                  "size": 72224231,
+                  "webViewLink": "https://drive.google.com/file/d/1QpRLziN4iUJjkRtamdU0KxevfNqy6Ypn/view?usp=drivesdk",
+                  "modifiedTime": "2026-04-26T23:14:19.930Z",
+                  "videoMediaMetadata": null
+                },
+                {
+                  "id": "1XaI0LgsvGZ_xRd5yImXZnkhGtMGtP5UG",
+                  "name": "[Tài liệu buổi học] BON2027-Nền tảng-Theme 6.pdf",
+                  "mimeType": "application/pdf",
+                  "size": 7447313,
+                  "webViewLink": "https://drive.google.com/file/d/1XaI0LgsvGZ_xRd5yImXZnkhGtMGtP5UG/view?usp=drivesdk",
+                  "modifiedTime": "2026-04-26T23:14:22.393Z",
+                  "videoMediaMetadata": null
+                },
+                {
+                  "id": "1vXEnemzBTe8Fq4da9sYqtCBKT7cstYtq",
+                  "name": "[Tài liệu bản ghi chép] BON2026-Nền tảng-Theme 6.pdf",
+                  "mimeType": "application/pdf",
+                  "size": 12539708,
+                  "webViewLink": "https://drive.google.com/file/d/1vXEnemzBTe8Fq4da9sYqtCBKT7cstYtq/view?usp=drivesdk",
+                  "modifiedTime": "2026-04-26T23:14:23.987Z",
+                  "videoMediaMetadata": null
+                },
+                {
+                  "id": "1Sd_LHANc1V2mpTMnZDnObGlPdVAoT_3f",
+                  "name": "Theme 6. Quy tắc đếm.mp4",
+                  "mimeType": "video/mp4",
+                  "size": 732440104,
+                  "webViewLink": "https://drive.google.com/file/d/1Sd_LHANc1V2mpTMnZDnObGlPdVAoT_3f/view?usp=drivesdk",
+                  "modifiedTime": "2026-04-26T23:14:17.947Z",
+                  "videoMediaMetadata": {
+                    "width": 1920,
+                    "height": 1080,
+                    "durationMillis": "5109233"
+                  }
+                }
+              ]
+            },
+            {
+              "id": "1ja_tpSj-kyBI7vY4Co27kI-E6szLXfvw",
+              "name": "07. Theme 7. Hoán vị, chỉnh hợp, tổ hợp",
+              "webViewLink": "https://drive.google.com/drive/folders/1ja_tpSj-kyBI7vY4Co27kI-E6szLXfvw",
+              "modifiedTime": "2026-04-26T23:13:52.314Z",
+              "children": [],
+              "files": [
+                {
+                  "id": "1RpyVxl4V5BWhgVxZucrzi3evcK_YZnbn",
+                  "name": "[Handout chi tiết] BON2026-Nền tảng-Theme 7.pdf",
+                  "mimeType": "application/pdf",
+                  "size": 52753988,
+                  "webViewLink": "https://drive.google.com/file/d/1RpyVxl4V5BWhgVxZucrzi3evcK_YZnbn/view?usp=drivesdk",
+                  "modifiedTime": "2026-04-26T23:13:54.790Z",
+                  "videoMediaMetadata": null
+                },
+                {
+                  "id": "1QmurQJblZ8gkMZ9IRFiuKAjIQ6qf9bNX",
+                  "name": "[Tài liệu buổi học] BON2027-Nền tảng-Theme 7.pdf",
+                  "mimeType": "application/pdf",
+                  "size": 7218290,
+                  "webViewLink": "https://drive.google.com/file/d/1QmurQJblZ8gkMZ9IRFiuKAjIQ6qf9bNX/view?usp=drivesdk",
+                  "modifiedTime": "2026-04-26T23:13:56.468Z",
+                  "videoMediaMetadata": null
+                },
+                {
+                  "id": "1VhLPRkJMEFbO1wXj-UPERSL5eT8FTRjm",
+                  "name": "[Tài liệu bản ghi chép] BON2026-Nền tảng-Theme 7.pdf",
+                  "mimeType": "application/pdf",
+                  "size": 10807282,
+                  "webViewLink": "https://drive.google.com/file/d/1VhLPRkJMEFbO1wXj-UPERSL5eT8FTRjm/view?usp=drivesdk",
+                  "modifiedTime": "2026-04-26T23:13:59.113Z",
+                  "videoMediaMetadata": null
+                },
+                {
+                  "id": "1c-v_81QlH1eE87b1SNFufZOTbH0ciS9q",
+                  "name": "Theme 7. Hoán vị, chỉnh hợp, tổ hợp.mp4",
+                  "mimeType": "video/mp4",
+                  "size": 696362528,
+                  "webViewLink": "https://drive.google.com/file/d/1c-v_81QlH1eE87b1SNFufZOTbH0ciS9q/view?usp=drivesdk",
+                  "modifiedTime": "2026-04-26T23:13:53.156Z",
+                  "videoMediaMetadata": {
+                    "width": 1920,
+                    "height": 1080,
+                    "durationMillis": "3974866"
+                  }
+                }
+              ]
+            },
+            {
+              "id": "1CIMWEIHnhucbjDqZTNramBUnyJgGCQdC",
+              "name": "08. Theme 8. Xác suất của biến cố",
+              "webViewLink": "https://drive.google.com/drive/folders/1CIMWEIHnhucbjDqZTNramBUnyJgGCQdC",
+              "modifiedTime": "2026-04-26T23:14:25.591Z",
+              "children": [],
+              "files": [
+                {
+                  "id": "1GoBmrn69CKIVMrAVqydr7TdT6tdQvrff",
+                  "name": "[Handout chi tiết] BON2026-Nền tảng-Theme 8.pdf",
+                  "mimeType": "application/pdf",
+                  "size": 57399682,
+                  "webViewLink": "https://drive.google.com/file/d/1GoBmrn69CKIVMrAVqydr7TdT6tdQvrff/view?usp=drivesdk",
+                  "modifiedTime": "2026-04-26T23:14:28.022Z",
+                  "videoMediaMetadata": null
+                },
+                {
+                  "id": "1OSuj98jiSsGRQuf56PnUyPPJx8Nu22EW",
+                  "name": "[Tài liệu buổi học] BON2027-Nền tảng-Theme 8.pdf",
+                  "mimeType": "application/pdf",
+                  "size": 5358089,
+                  "webViewLink": "https://drive.google.com/file/d/1OSuj98jiSsGRQuf56PnUyPPJx8Nu22EW/view?usp=drivesdk",
+                  "modifiedTime": "2026-04-26T23:14:29.820Z",
+                  "videoMediaMetadata": null
+                },
+                {
+                  "id": "1m4Rv-bORZP_Ykf9T-2E3yaqLXinch4iR",
+                  "name": "[Tài liệu bản ghi chép] BON2026-Nền tảng-Theme 8.pdf",
+                  "mimeType": "application/pdf",
+                  "size": 9691881,
+                  "webViewLink": "https://drive.google.com/file/d/1m4Rv-bORZP_Ykf9T-2E3yaqLXinch4iR/view?usp=drivesdk",
+                  "modifiedTime": "2026-04-26T23:14:31.625Z",
+                  "videoMediaMetadata": null
+                },
+                {
+                  "id": "1_9gyz1-44SGEvD_U6FtZHJTzD7h0_fdx",
+                  "name": "Theme 8. Xác suất của biến cố.mp4",
+                  "mimeType": "video/mp4",
+                  "size": 836316872,
+                  "webViewLink": "https://drive.google.com/file/d/1_9gyz1-44SGEvD_U6FtZHJTzD7h0_fdx/view?usp=drivesdk",
+                  "modifiedTime": "2026-04-26T23:14:26.447Z",
+                  "videoMediaMetadata": {
+                    "width": 1920,
+                    "height": 1080,
+                    "durationMillis": "4863533"
+                  }
+                }
+              ]
+            }
+          ],
+          "files": []
+        },
+        {
+          "id": "1zbP_UMimdrtH5DnvagIm5X8S7hcgK0xo",
+          "name": "Chapter 1. Ứng dụng đạo hàm để khảo sát và vẽ đồ thị hàm số",
+          "webViewLink": "https://drive.google.com/drive/folders/1zbP_UMimdrtH5DnvagIm5X8S7hcgK0xo",
+          "modifiedTime": "2026-04-22T14:55:37.356Z",
+          "children": [
+            {
+              "id": "1MbVPP0m5EJP_XvabgiG7ALJSrlt496RV",
+              "name": "01. Theme 1. Sự đồng biến, nghịch biến của hàm số - Buổi 1",
+              "webViewLink": "https://drive.google.com/drive/folders/1MbVPP0m5EJP_XvabgiG7ALJSrlt496RV",
+              "modifiedTime": "2026-04-22T14:55:40.036Z",
+              "children": [],
+              "files": [
+                {
+                  "id": "1a7R9wzsKbMoOU3udpri4_JPzGajpS0g2",
+                  "name": "[Ghi chép] Theme 1-Dạng 1.pdf",
+                  "mimeType": "application/pdf",
+                  "size": 25908641,
+                  "webViewLink": "https://drive.google.com/file/d/1a7R9wzsKbMoOU3udpri4_JPzGajpS0g2/view?usp=drivesdk",
+                  "modifiedTime": "2026-04-24T01:32:34.127Z",
+                  "videoMediaMetadata": null
+                },
+                {
+                  "id": "1RiWlr2HlsG0aio8hh1n1lMo6Qvdd1Bsq",
+                  "name": "[Handout] VD Theme 1-Dạng 1.pdf",
+                  "mimeType": "application/pdf",
+                  "size": 10826712,
+                  "webViewLink": "https://drive.google.com/file/d/1RiWlr2HlsG0aio8hh1n1lMo6Qvdd1Bsq/view?usp=drivesdk",
+                  "modifiedTime": "2026-04-24T01:32:35.779Z",
+                  "videoMediaMetadata": null
+                },
+                {
+                  "id": "1RGcMXtWcwaA9lfKEA3hwA1Dl0M-E_ynq",
+                  "name": "[Tài liệu] Theme 1-Dạng 1.pdf",
+                  "mimeType": "application/pdf",
+                  "size": 15204788,
+                  "webViewLink": "https://drive.google.com/file/d/1RGcMXtWcwaA9lfKEA3hwA1Dl0M-E_ynq/view?usp=drivesdk",
+                  "modifiedTime": "2026-04-24T01:32:37.392Z",
+                  "videoMediaMetadata": null
+                },
+                {
+                  "id": "1iNl8Uv1-u5HNx37sz7m443cS0Kq9jwTT",
+                  "name": "Theme 1. Sự đồng biến, nghịch biến của hàm số - Buổi 1.mp4",
+                  "mimeType": "video/mp4",
+                  "size": 528823320,
+                  "webViewLink": "https://drive.google.com/file/d/1iNl8Uv1-u5HNx37sz7m443cS0Kq9jwTT/view?usp=drivesdk",
+                  "modifiedTime": "2026-04-24T01:32:32.386Z",
+                  "videoMediaMetadata": {
+                    "width": 1920,
+                    "height": 1080,
+                    "durationMillis": "3676533"
+                  }
+                }
+              ]
+            },
+            {
+              "id": "1zqwAPRiqnKoDbhZWuZFSQpGMzAqHExA_",
+              "name": "02. Theme 1. Sự đồng biến, nghịch biến của hàm số - Buổi 2",
+              "webViewLink": "https://drive.google.com/drive/folders/1zqwAPRiqnKoDbhZWuZFSQpGMzAqHExA_",
+              "modifiedTime": "2026-04-22T14:55:38.368Z",
+              "children": [],
+              "files": [
+                {
+                  "id": "1wsH0WHHrfFwgsyVuZoEvqgS8lN237gjp",
+                  "name": "[Ghi chép] Theme 1-Dạng 1.pdf",
+                  "mimeType": "application/pdf",
+                  "size": 25908641,
+                  "webViewLink": "https://drive.google.com/file/d/1wsH0WHHrfFwgsyVuZoEvqgS8lN237gjp/view?usp=drivesdk",
+                  "modifiedTime": "2026-04-24T01:32:20.441Z",
+                  "videoMediaMetadata": null
+                },
+                {
+                  "id": "1TtUSLAl0kd9VvXpd4kpvcNA-09ivs8iV",
+                  "name": "[Handout] VD Theme 1-Dạng 1.pdf",
+                  "mimeType": "application/pdf",
+                  "size": 10826712,
+                  "webViewLink": "https://drive.google.com/file/d/1TtUSLAl0kd9VvXpd4kpvcNA-09ivs8iV/view?usp=drivesdk",
+                  "modifiedTime": "2026-04-24T01:32:22.002Z",
+                  "videoMediaMetadata": null
+                },
+                {
+                  "id": "15zUoy7Cnz-3zKsRlAdXrHen8mDsr_gmn",
+                  "name": "[Tài liệu] Theme 1-Dạng 1.pdf",
+                  "mimeType": "application/pdf",
+                  "size": 15204788,
+                  "webViewLink": "https://drive.google.com/file/d/15zUoy7Cnz-3zKsRlAdXrHen8mDsr_gmn/view?usp=drivesdk",
+                  "modifiedTime": "2026-04-24T01:32:23.614Z",
+                  "videoMediaMetadata": null
+                },
+                {
+                  "id": "1xm3-UKt0ENXMErGBdse4dZJBViEVJ7YY",
+                  "name": "Theme 1. Sự đồng biến, nghịch biến của hàm số - Buổi 2.mp4",
+                  "mimeType": "video/mp4",
+                  "size": 684562896,
+                  "webViewLink": "https://drive.google.com/file/d/1xm3-UKt0ENXMErGBdse4dZJBViEVJ7YY/view?usp=drivesdk",
+                  "modifiedTime": "2026-04-24T01:32:17.993Z",
+                  "videoMediaMetadata": {
+                    "width": 1920,
+                    "height": 1080,
+                    "durationMillis": "4510500"
+                  }
+                }
+              ]
+            },
+            {
+              "id": "1oFtfFDagpvq49XxZ4Rl6o8LZK309MTzU",
+              "name": "03. Theme 1. Sự đồng biến, nghịch biến của hàm số - Buổi 3",
+              "webViewLink": "https://drive.google.com/drive/folders/1oFtfFDagpvq49XxZ4Rl6o8LZK309MTzU",
+              "modifiedTime": "2026-04-22T14:55:39.204Z",
+              "children": [],
+              "files": [
+                {
+                  "id": "1DKX5nRKuyfJfkxiTORujxDlZyE61LJOo",
+                  "name": "[Ghi chép] Theme 1-Dạng 2.pdf",
+                  "mimeType": "application/pdf",
+                  "size": 22593373,
+                  "webViewLink": "https://drive.google.com/file/d/1DKX5nRKuyfJfkxiTORujxDlZyE61LJOo/view?usp=drivesdk",
+                  "modifiedTime": "2026-04-24T01:32:27.278Z",
+                  "videoMediaMetadata": null
+                },
+                {
+                  "id": "19DRB-l1MuHVMVZWLw9OLzthX6GbMzTjl",
+                  "name": "[Handout] VD Theme 1-Dạng 2.pdf",
+                  "mimeType": "application/pdf",
+                  "size": 11918682,
+                  "webViewLink": "https://drive.google.com/file/d/19DRB-l1MuHVMVZWLw9OLzthX6GbMzTjl/view?usp=drivesdk",
+                  "modifiedTime": "2026-04-24T01:32:28.675Z",
+                  "videoMediaMetadata": null
+                },
+                {
+                  "id": "16sKRjBEyvyE7tnlgUCvjbIJRx2JN-xXt",
+                  "name": "[Tài liệu] Theme 1-Dạng 2.pdf",
+                  "mimeType": "application/pdf",
+                  "size": 8325030,
+                  "webViewLink": "https://drive.google.com/file/d/16sKRjBEyvyE7tnlgUCvjbIJRx2JN-xXt/view?usp=drivesdk",
+                  "modifiedTime": "2026-04-24T01:32:30.228Z",
+                  "videoMediaMetadata": null
+                },
+                {
+                  "id": "10h0Ch-SBTHs4ssvwRLJ5ioilNCi4i-8x",
+                  "name": "Theme 1. Sự đồng biến, nghịch biến của hàm số - Buổi 3.mp4",
+                  "mimeType": "video/mp4",
+                  "size": 951950032,
+                  "webViewLink": "https://drive.google.com/file/d/10h0Ch-SBTHs4ssvwRLJ5ioilNCi4i-8x/view?usp=drivesdk",
+                  "modifiedTime": "2026-04-24T01:32:25.576Z",
+                  "videoMediaMetadata": {
+                    "width": 1920,
+                    "height": 1080,
+                    "durationMillis": "5581500"
+                  }
+                }
+              ]
+            },
+            {
+              "id": "10B_JvqCP1R0l8r32W-rgrt3lPwUgMpr2",
+              "name": "04. Theme 1. Sự đồng biến, nghịch biến của hàm số - Buổi 4",
+              "webViewLink": "https://drive.google.com/drive/folders/10B_JvqCP1R0l8r32W-rgrt3lPwUgMpr2",
+              "modifiedTime": "2026-04-22T14:55:40.837Z",
+              "children": [],
+              "files": [
+                {
+                  "id": "1kVDj6cVH36j_cjjT-k-jHD8vRsCTJ02X",
+                  "name": "[Ghi chép] Theme 1-Dạng 2.pdf",
+                  "mimeType": "application/pdf",
+                  "size": 22593373,
+                  "webViewLink": "https://drive.google.com/file/d/1kVDj6cVH36j_cjjT-k-jHD8vRsCTJ02X/view?usp=drivesdk",
+                  "modifiedTime": "2026-04-22T14:55:41.807Z",
+                  "videoMediaMetadata": null
+                },
+                {
+                  "id": "1lNsy8-Ahi1M6cD6Y7aMCTvRPJ99-hD85",
+                  "name": "[Handout] VD Theme 1-Dạng 2.pdf",
+                  "mimeType": "application/pdf",
+                  "size": 11918682,
+                  "webViewLink": "https://drive.google.com/file/d/1lNsy8-Ahi1M6cD6Y7aMCTvRPJ99-hD85/view?usp=drivesdk",
+                  "modifiedTime": "2026-04-22T14:55:45.259Z",
+                  "videoMediaMetadata": null
+                },
+                {
+                  "id": "131c7sGdyIUuK9lA_hDQuCNF6bCTFCqtp",
+                  "name": "[Tài liệu] Theme 1-Dạng 2.pdf",
+                  "mimeType": "application/pdf",
+                  "size": 8325030,
+                  "webViewLink": "https://drive.google.com/file/d/131c7sGdyIUuK9lA_hDQuCNF6bCTFCqtp/view?usp=drivesdk",
+                  "modifiedTime": "2026-04-22T14:55:47.137Z",
+                  "videoMediaMetadata": null
+                },
+                {
+                  "id": "1CPDuTiAUDo8FdHezBwER1bfG5iNXhDfY",
+                  "name": "Theme 1. Sự đồng biến, nghịch biến của hàm số - Buổi 4.mp4",
+                  "mimeType": "video/mp4",
+                  "size": 799346672,
+                  "webViewLink": "https://drive.google.com/file/d/1CPDuTiAUDo8FdHezBwER1bfG5iNXhDfY/view?usp=drivesdk",
+                  "modifiedTime": "2026-04-24T01:32:39.696Z",
+                  "videoMediaMetadata": {
+                    "width": 1920,
+                    "height": 1080,
+                    "durationMillis": "5351566"
+                  }
+                }
+              ]
+            },
+            {
+              "id": "1xZffqj9YQOPVGtkPhkiMvbYKvSzolwE2",
+              "name": "05. Theme 2. Cực trị của hàm số - Buổi 1",
+              "webViewLink": "https://drive.google.com/drive/folders/1xZffqj9YQOPVGtkPhkiMvbYKvSzolwE2",
+              "modifiedTime": "2026-04-30T23:05:55.052Z",
+              "children": [],
+              "files": [
+                {
+                  "id": "1xKA69fGhX9xeXhSjkS4zJYNJDyRNV0u8",
+                  "name": "[Ghi chép] Theme 2-Dạng 1.pdf",
+                  "mimeType": "application/pdf",
+                  "size": 24667359,
+                  "webViewLink": "https://drive.google.com/file/d/1xKA69fGhX9xeXhSjkS4zJYNJDyRNV0u8/view?usp=drivesdk",
+                  "modifiedTime": "2026-04-30T23:05:57.848Z",
+                  "videoMediaMetadata": null
+                },
+                {
+                  "id": "1PufD7pIEs-MKY8S5YeXwn1U8CXBMrLZO",
+                  "name": "[Handout] VD Theme 2-Dạng 1.pdf",
+                  "mimeType": "application/pdf",
+                  "size": 13860061,
+                  "webViewLink": "https://drive.google.com/file/d/1PufD7pIEs-MKY8S5YeXwn1U8CXBMrLZO/view?usp=drivesdk",
+                  "modifiedTime": "2026-04-30T23:05:59.360Z",
+                  "videoMediaMetadata": null
+                },
+                {
+                  "id": "1Y3nyfPgld5hfLcnGaKZpVxHcUktaowJw",
+                  "name": "[Tài liệu] Theme 2-Dạng 1.pdf",
+                  "mimeType": "application/pdf",
+                  "size": 9672278,
+                  "webViewLink": "https://drive.google.com/file/d/1Y3nyfPgld5hfLcnGaKZpVxHcUktaowJw/view?usp=drivesdk",
+                  "modifiedTime": "2026-04-30T23:06:00.836Z",
+                  "videoMediaMetadata": null
+                },
+                {
+                  "id": "15U0-lHDNl5zAOdG6BKWFcF8mmtxwV5ED",
+                  "name": "Theme 2. Cực trị của hàm số - Buổi 1.mp4",
+                  "mimeType": "video/mp4",
+                  "size": 785810860,
+                  "webViewLink": "https://drive.google.com/file/d/15U0-lHDNl5zAOdG6BKWFcF8mmtxwV5ED/view?usp=drivesdk",
+                  "modifiedTime": "2026-04-30T23:05:55.997Z",
+                  "videoMediaMetadata": {
+                    "width": 1920,
+                    "height": 1080,
+                    "durationMillis": "5451933"
+                  }
+                }
+              ]
+            },
+            {
+              "id": "1MSR81et3wWNXr_dmK3iRCbqoJN1R-lkZ",
+              "name": "06. Theme 2. Cực trị của hàm số - Buổi 2",
+              "webViewLink": "https://drive.google.com/drive/folders/1MSR81et3wWNXr_dmK3iRCbqoJN1R-lkZ",
+              "modifiedTime": "2026-05-01T23:10:37.189Z",
+              "children": [],
+              "files": [
+                {
+                  "id": "1pbTHNwKBzL1uQ8pyJEwRh7Jf9j-HbswJ",
+                  "name": "[Ghi chép] Theme 2-Dạng 1.pdf",
+                  "mimeType": "application/pdf",
+                  "size": 24667359,
+                  "webViewLink": "https://drive.google.com/file/d/1pbTHNwKBzL1uQ8pyJEwRh7Jf9j-HbswJ/view?usp=drivesdk",
+                  "modifiedTime": "2026-05-01T23:10:38.757Z",
+                  "videoMediaMetadata": null
+                },
+                {
+                  "id": "1rOX-44mcdqwwgr8tLZxHsFVdXGqBVljz",
+                  "name": "[Handout] BTRL Theme 2-Dạng 1.pdf",
+                  "mimeType": "application/pdf",
+                  "size": 10777990,
+                  "webViewLink": "https://drive.google.com/file/d/1rOX-44mcdqwwgr8tLZxHsFVdXGqBVljz/view?usp=drivesdk",
+                  "modifiedTime": "2026-05-01T23:10:40.531Z",
+                  "videoMediaMetadata": null
+                },
+                {
+                  "id": "1K7G-5M0brD42TADrSYLo7CzHgyqHNFF4",
+                  "name": "[Tài liệu] Theme 2-Dạng 1.pdf",
+                  "mimeType": "application/pdf",
+                  "size": 9672278,
+                  "webViewLink": "https://drive.google.com/file/d/1K7G-5M0brD42TADrSYLo7CzHgyqHNFF4/view?usp=drivesdk",
+                  "modifiedTime": "2026-05-01T23:10:42.254Z",
+                  "videoMediaMetadata": null
+                },
+                {
+                  "id": "1M6wozuWC7CteEO4dRB6RRUHVoOylV4C9",
+                  "name": "Theme 2. Cực trị của hàm số - Buổi 2.mp4",
+                  "mimeType": "video/mp4",
+                  "size": 476666668,
+                  "webViewLink": "https://drive.google.com/file/d/1M6wozuWC7CteEO4dRB6RRUHVoOylV4C9/view?usp=drivesdk",
+                  "modifiedTime": "2026-05-01T23:10:43.980Z",
+                  "videoMediaMetadata": null
+                }
+              ]
+            },
+            {
+              "id": "1oh1JvPeKvPP4_ACPC-dbyE9qNxAThZzO",
+              "name": "07. Theme 2. Cực trị của hàm số - Buổi 3",
+              "webViewLink": "https://drive.google.com/drive/folders/1oh1JvPeKvPP4_ACPC-dbyE9qNxAThZzO",
+              "modifiedTime": "2026-05-08T14:51:10.030Z",
+              "children": [],
+              "files": [
+                {
+                  "id": "1Z6BGPqB8-xM9Btv42SW6Y1yQI-Z2NSQn",
+                  "name": "[Ghi chép] Theme 2-Dạng 2.pdf",
+                  "mimeType": "application/pdf",
+                  "size": 21725168,
+                  "webViewLink": "https://drive.google.com/file/d/1Z6BGPqB8-xM9Btv42SW6Y1yQI-Z2NSQn/view?usp=drivesdk",
+                  "modifiedTime": "2026-05-08T14:51:15.910Z",
+                  "videoMediaMetadata": null
+                },
+                {
+                  "id": "1-6OP1i3KHNg_jMfxAPQr5AF2klueb39M",
+                  "name": "[Handout] VD Theme 2-Dạng 2.pdf",
+                  "mimeType": "application/pdf",
+                  "size": 6908343,
+                  "webViewLink": "https://drive.google.com/file/d/1-6OP1i3KHNg_jMfxAPQr5AF2klueb39M/view?usp=drivesdk",
+                  "modifiedTime": "2026-05-08T14:51:14.017Z",
+                  "videoMediaMetadata": null
+                },
+                {
+                  "id": "1eXeftKWu-Wn1A37CHiE1KFO5yi_Fknh0",
+                  "name": "[Tài liệu] Theme 2-Dạng 2.pdf",
+                  "mimeType": "application/pdf",
+                  "size": 9530009,
+                  "webViewLink": "https://drive.google.com/file/d/1eXeftKWu-Wn1A37CHiE1KFO5yi_Fknh0/view?usp=drivesdk",
+                  "modifiedTime": "2026-05-08T14:51:17.872Z",
+                  "videoMediaMetadata": null
+                },
+                {
+                  "id": "1DQDmBRSDVw27bz5sxJa0hLCsQFD0yBI1",
+                  "name": "Theme 2. Cực trị của hàm số - Buổi 3.mp4",
+                  "mimeType": "video/mp4",
+                  "size": 294137844,
+                  "webViewLink": "https://drive.google.com/file/d/1DQDmBRSDVw27bz5sxJa0hLCsQFD0yBI1/view?usp=drivesdk",
+                  "modifiedTime": "2026-05-08T14:51:12.078Z",
+                  "videoMediaMetadata": null
+                }
+              ]
+            },
+            {
+              "id": "1GUHW3OzxmtP-dqhxcUbKnf66uKBasoOk",
+              "name": "08. Theme 2. Cực trị của hàm số - Buổi 4",
+              "webViewLink": "https://drive.google.com/drive/folders/1GUHW3OzxmtP-dqhxcUbKnf66uKBasoOk",
+              "modifiedTime": "2026-05-08T14:51:00.628Z",
+              "children": [],
+              "files": [
+                {
+                  "id": "1gAmmgxzn_4O74ztruwGMWMGAUWImgnF0",
+                  "name": "[Ghi chép] Theme 2-Dạng 2.pdf",
+                  "mimeType": "application/pdf",
+                  "size": 21725168,
+                  "webViewLink": "https://drive.google.com/file/d/1gAmmgxzn_4O74ztruwGMWMGAUWImgnF0/view?usp=drivesdk",
+                  "modifiedTime": "2026-05-08T14:51:04.280Z",
+                  "videoMediaMetadata": null
+                },
+                {
+                  "id": "1cpIeTwYqlnuT4l6QCv2VAKaDrNqe0_hy",
+                  "name": "[Handout] BTRL Theme 2-Dạng 2.pdf",
+                  "mimeType": "application/pdf",
+                  "size": 6745991,
+                  "webViewLink": "https://drive.google.com/file/d/1cpIeTwYqlnuT4l6QCv2VAKaDrNqe0_hy/view?usp=drivesdk",
+                  "modifiedTime": "2026-05-08T14:51:06.294Z",
+                  "videoMediaMetadata": null
+                },
+                {
+                  "id": "1hkZSvxRifAjIZfB0aDFcb-gONJcR15WY",
+                  "name": "[Tài liệu] Theme 2-Dạng 2.pdf",
+                  "mimeType": "application/pdf",
+                  "size": 9530009,
+                  "webViewLink": "https://drive.google.com/file/d/1hkZSvxRifAjIZfB0aDFcb-gONJcR15WY/view?usp=drivesdk",
+                  "modifiedTime": "2026-05-08T14:51:08.287Z",
+                  "videoMediaMetadata": null
+                },
+                {
+                  "id": "1j0NguA7b7Jk_ydnXShSV_P8HyjCzdlm4",
+                  "name": "Theme 2. Cực trị của hàm số - Buổi 4.mp4",
+                  "mimeType": "video/mp4",
+                  "size": 788176088,
+                  "webViewLink": "https://drive.google.com/file/d/1j0NguA7b7Jk_ydnXShSV_P8HyjCzdlm4/view?usp=drivesdk",
+                  "modifiedTime": "2026-05-08T14:51:02.165Z",
+                  "videoMediaMetadata": null
+                }
+              ]
+            },
+            {
+              "id": "1d1pFEpaxHrmkM7lJXY0J-3mr1gX7L5ef",
+              "name": "09. Theme 3. Giá trị lớn nhất - giá trị nhỏ nhất của hàm số - Buổi 1",
+              "webViewLink": "https://drive.google.com/drive/folders/1d1pFEpaxHrmkM7lJXY0J-3mr1gX7L5ef",
+              "modifiedTime": "2026-05-14T10:54:53.545Z",
+              "children": [],
+              "files": [
+                {
+                  "id": "1B-sxFjveiEciQxBHEz-GAHnwl0DRn-XD",
+                  "name": "[Ghi chép] Theme 3-Dạng 1.pdf",
+                  "mimeType": "application/pdf",
+                  "size": 26038194,
+                  "webViewLink": "https://drive.google.com/file/d/1B-sxFjveiEciQxBHEz-GAHnwl0DRn-XD/view?usp=drivesdk",
+                  "modifiedTime": "2026-05-14T10:54:59.470Z",
+                  "videoMediaMetadata": null
+                },
+                {
+                  "id": "1d-LSoSzJVNhqUCe8hdEEhJ8M_rJoeCyf",
+                  "name": "[Handout] VD Theme 3-Dạng 1.pdf",
+                  "mimeType": "application/pdf",
+                  "size": 14392053,
+                  "webViewLink": "https://drive.google.com/file/d/1d-LSoSzJVNhqUCe8hdEEhJ8M_rJoeCyf/view?usp=drivesdk",
+                  "modifiedTime": "2026-05-14T10:54:58.056Z",
+                  "videoMediaMetadata": null
+                },
+                {
+                  "id": "1UJ2fUK_Adn03-Xhn8bC_r8BOzf1_6w1d",
+                  "name": "[Tài liệu] Theme 3-Dạng 1.pdf",
+                  "mimeType": "application/pdf",
+                  "size": 10359011,
+                  "webViewLink": "https://drive.google.com/file/d/1UJ2fUK_Adn03-Xhn8bC_r8BOzf1_6w1d/view?usp=drivesdk",
+                  "modifiedTime": "2026-05-14T10:54:56.615Z",
+                  "videoMediaMetadata": null
+                },
+                {
+                  "id": "1H8gFbJ1d_eS56slbhqACzpIHPh_Izfzb",
+                  "name": "Theme 3. Giá trị lớn nhất – giá trị nhỏ nhất của hàm số - Buổi 1.mp4",
+                  "mimeType": "video/mp4",
+                  "size": 690358748,
+                  "webViewLink": "https://drive.google.com/file/d/1H8gFbJ1d_eS56slbhqACzpIHPh_Izfzb/view?usp=drivesdk",
+                  "modifiedTime": "2026-05-14T10:54:54.995Z",
+                  "videoMediaMetadata": null
+                }
+              ]
+            },
+            {
+              "id": "19gp-XemLvnutJWYHCul7thEnHjtiXRiB",
+              "name": "10. Theme 3. Giá trị lớn nhất - giá trị nhỏ nhất của hàm số - Buổi 2",
+              "webViewLink": "https://drive.google.com/drive/folders/19gp-XemLvnutJWYHCul7thEnHjtiXRiB",
+              "modifiedTime": "2026-05-14T10:54:45.674Z",
+              "children": [],
+              "files": [
+                {
+                  "id": "1JJ0Vqqy3ovTZx8ywe80JOYrIkgBWPPsO",
+                  "name": "[Ghi chép] Theme 3-Dạng 1.pdf",
+                  "mimeType": "application/pdf",
+                  "size": 26038194,
+                  "webViewLink": "https://drive.google.com/file/d/1JJ0Vqqy3ovTZx8ywe80JOYrIkgBWPPsO/view?usp=drivesdk",
+                  "modifiedTime": "2026-05-14T10:54:50.080Z",
+                  "videoMediaMetadata": null
+                },
+                {
+                  "id": "1Z7__wwllhje5n5Khb4ZN9k-_RDYhg5eM",
+                  "name": "[Handout] BTRL Theme 3-Dạng 1.pdf",
+                  "mimeType": "application/pdf",
+                  "size": 10924943,
+                  "webViewLink": "https://drive.google.com/file/d/1Z7__wwllhje5n5Khb4ZN9k-_RDYhg5eM/view?usp=drivesdk",
+                  "modifiedTime": "2026-05-14T10:54:48.529Z",
+                  "videoMediaMetadata": null
+                },
+                {
+                  "id": "1c8wsFIiyjVsn8n3Ca15PvSGZBXKJj5Gm",
+                  "name": "[Tài liệu] Theme 3-Dạng 1.pdf",
+                  "mimeType": "application/pdf",
+                  "size": 10359011,
+                  "webViewLink": "https://drive.google.com/file/d/1c8wsFIiyjVsn8n3Ca15PvSGZBXKJj5Gm/view?usp=drivesdk",
+                  "modifiedTime": "2026-05-14T10:54:51.490Z",
+                  "videoMediaMetadata": null
+                },
+                {
+                  "id": "1uTfwfu4zvIK8h0c78JaPrm3qX9pP5sIU",
+                  "name": "Theme 3. Giá trị lớn nhất – giá trị nhỏ nhất của hàm số - Buổi 2.mp4",
+                  "mimeType": "video/mp4",
+                  "size": 572197552,
+                  "webViewLink": "https://drive.google.com/file/d/1uTfwfu4zvIK8h0c78JaPrm3qX9pP5sIU/view?usp=drivesdk",
+                  "modifiedTime": "2026-05-14T10:54:47.062Z",
+                  "videoMediaMetadata": null
+                }
+              ]
+            },
+            {
+              "id": "1UtrQGnmv7JB96Xda6hpqUYoiJd6rc4Ce",
+              "name": "11. Theme 3. Giá trị lớn nhất – giá trị nhỏ nhất của hàm số - Buổi 3",
+              "webViewLink": "https://drive.google.com/drive/folders/1UtrQGnmv7JB96Xda6hpqUYoiJd6rc4Ce",
+              "modifiedTime": "2026-05-21T05:00:54.574Z",
+              "children": [],
+              "files": [
+                {
+                  "id": "1lyxC0ha_Hpm3WQLQnlpeMEM9krdfybaT",
+                  "name": "[Ghi chép] Theme 3-Dạng 2.pdf",
+                  "mimeType": "application/pdf",
+                  "size": 24166860,
+                  "webViewLink": "https://drive.google.com/file/d/1lyxC0ha_Hpm3WQLQnlpeMEM9krdfybaT/view?usp=drivesdk",
+                  "modifiedTime": "2026-05-21T05:00:59.756Z",
+                  "videoMediaMetadata": null
+                },
+                {
+                  "id": "1ifCu9rzmXp0EM47E-xbgl7avRAtmKipI",
+                  "name": "[Handout] VD Theme 3-Dạng 2.pdf",
+                  "mimeType": "application/pdf",
+                  "size": 7060112,
+                  "webViewLink": "https://drive.google.com/file/d/1ifCu9rzmXp0EM47E-xbgl7avRAtmKipI/view?usp=drivesdk",
+                  "modifiedTime": "2026-05-21T05:00:58.331Z",
+                  "videoMediaMetadata": null
+                },
+                {
+                  "id": "1YNLMU78QW8eCwgsjr8SEsOKXXaWyb9BC",
+                  "name": "[Tài liệu] Theme 3-Dạng 2.pdf",
+                  "mimeType": "application/pdf",
+                  "size": 12011742,
+                  "webViewLink": "https://drive.google.com/file/d/1YNLMU78QW8eCwgsjr8SEsOKXXaWyb9BC/view?usp=drivesdk",
+                  "modifiedTime": "2026-05-21T05:00:56.345Z",
+                  "videoMediaMetadata": null
+                },
+                {
+                  "id": "1Q11zW0qizIWOYJCvTc5EX0x776Dcuzbi",
+                  "name": "Theme 3. Giá trị lớn nhất – giá trị nhỏ nhất của hàm số - Buổi 3.mp4",
+                  "mimeType": "video/mp4",
+                  "size": 315279760,
+                  "webViewLink": "https://drive.google.com/file/d/1Q11zW0qizIWOYJCvTc5EX0x776Dcuzbi/view?usp=drivesdk",
+                  "modifiedTime": "2026-05-21T05:01:01.425Z",
+                  "videoMediaMetadata": null
+                }
+              ]
+            },
+            {
+              "id": "10eneO8OGJvDNAT8Xt3reb8xrja8GTerz",
+              "name": "12. Theme 3. Giá trị lớn nhất – giá trị nhỏ nhất của hàm số - Buổi 4",
+              "webViewLink": "https://drive.google.com/drive/folders/10eneO8OGJvDNAT8Xt3reb8xrja8GTerz",
+              "modifiedTime": "2026-05-21T05:00:40.947Z",
+              "children": [],
+              "files": [
+                {
+                  "id": "1zSFDI8AbOEsdY46c9aAuCcvb_o53TKl0",
+                  "name": "[Ghi chép] Theme 3-Dạng 2.pdf",
+                  "mimeType": "application/pdf",
+                  "size": 24166860,
+                  "webViewLink": "https://drive.google.com/file/d/1zSFDI8AbOEsdY46c9aAuCcvb_o53TKl0/view?usp=drivesdk",
+                  "modifiedTime": "2026-05-21T05:00:44.224Z",
+                  "videoMediaMetadata": null
+                },
+                {
+                  "id": "10df_fXrv4sdo0R7FLXMIS9XHxCCxvkQx",
+                  "name": "[Handout] BTRL Theme 3-Dạng 2.pdf",
+                  "mimeType": "application/pdf",
+                  "size": 7982717,
+                  "webViewLink": "https://drive.google.com/file/d/10df_fXrv4sdo0R7FLXMIS9XHxCCxvkQx/view?usp=drivesdk",
+                  "modifiedTime": "2026-05-21T05:00:42.697Z",
+                  "videoMediaMetadata": null
+                },
+                {
+                  "id": "1mhUbZKt0Iy84r7PaZxj6XEZOdmqtAImU",
+                  "name": "[Tài liệu] Theme 3-Dạng 2.pdf",
+                  "mimeType": "application/pdf",
+                  "size": 12011742,
+                  "webViewLink": "https://drive.google.com/file/d/1mhUbZKt0Iy84r7PaZxj6XEZOdmqtAImU/view?usp=drivesdk",
+                  "modifiedTime": "2026-05-21T05:00:46.565Z",
+                  "videoMediaMetadata": null
+                },
+                {
+                  "id": "1zmNB3ZC_NW4cIs7oldsOXoE6a9SXAu9O",
+                  "name": "Theme 3. Giá trị lớn nhất – giá trị nhỏ nhất của hàm số - Buổi 4.mp4",
+                  "mimeType": "video/mp4",
+                  "size": 333678192,
+                  "webViewLink": "https://drive.google.com/file/d/1zmNB3ZC_NW4cIs7oldsOXoE6a9SXAu9O/view?usp=drivesdk",
+                  "modifiedTime": "2026-05-21T05:00:48.135Z",
+                  "videoMediaMetadata": null
+                }
+              ]
+            },
+            {
+              "id": "1zRSSOgBDvHg-xKb5y8J6muJ_fq7J8Hok",
+              "name": "13. Theme 4. Đường tiệm cận của đồ thị hàm số - Buổi 1",
+              "webViewLink": "https://drive.google.com/drive/folders/1zRSSOgBDvHg-xKb5y8J6muJ_fq7J8Hok",
+              "modifiedTime": "2026-05-22T16:17:06.874Z",
+              "children": [],
+              "files": [
+                {
+                  "id": "1xB1ySGGlDaPiCyZjw1fwDeg39DYX8ggH",
+                  "name": "[Ghi chép] Theme 4-Dạng 1.pdf",
+                  "mimeType": "application/pdf",
+                  "size": 30096390,
+                  "webViewLink": "https://drive.google.com/file/d/1xB1ySGGlDaPiCyZjw1fwDeg39DYX8ggH/view?usp=drivesdk",
+                  "modifiedTime": "2026-05-22T16:17:08.210Z",
+                  "videoMediaMetadata": null
+                },
+                {
+                  "id": "1P2k6ZhtMkYVm_e7Qd_WdS_39tF7VNVuf",
+                  "name": "[Handout] VD Theme 4-Dạng 1.pdf",
+                  "mimeType": "application/pdf",
+                  "size": 13369197,
+                  "webViewLink": "https://drive.google.com/file/d/1P2k6ZhtMkYVm_e7Qd_WdS_39tF7VNVuf/view?usp=drivesdk",
+                  "modifiedTime": "2026-05-22T16:17:08.203Z",
+                  "videoMediaMetadata": null
+                },
+                {
+                  "id": "1GIKKiOk60qqyOiiRBL7KJ5JVwQgiJGIZ",
+                  "name": "[Tài liệu] Theme 4-Dạng 1.pdf",
+                  "mimeType": "application/pdf",
+                  "size": 11577575,
+                  "webViewLink": "https://drive.google.com/file/d/1GIKKiOk60qqyOiiRBL7KJ5JVwQgiJGIZ/view?usp=drivesdk",
+                  "modifiedTime": "2026-05-22T16:17:08.201Z",
+                  "videoMediaMetadata": null
+                },
+                {
+                  "id": "1qnfY4QgVpDynkWbOoWti4EWTDUCbLNr_",
+                  "name": "Theme 4. Đường tiệm cận của đồ thị hàm số - Buổi 1.mp4",
+                  "mimeType": "video/mp4",
+                  "size": 784780996,
+                  "webViewLink": "https://drive.google.com/file/d/1qnfY4QgVpDynkWbOoWti4EWTDUCbLNr_/view?usp=drivesdk",
+                  "modifiedTime": "2026-05-22T16:17:08.215Z",
+                  "videoMediaMetadata": null
+                }
+              ]
+            },
+            {
+              "id": "1dxLVbBabHDHeFGgQXMadHu3KbylKghMR",
+              "name": "14. Theme 4. Đường tiệm cận của đồ thị hàm số - Buổi 2",
+              "webViewLink": "https://drive.google.com/drive/folders/1dxLVbBabHDHeFGgQXMadHu3KbylKghMR",
+              "modifiedTime": "2026-05-22T16:17:05.109Z",
+              "children": [],
+              "files": [
+                {
+                  "id": "1F_YqjTUlx-H3XufgXTNmj_wwDhBWNcdB",
+                  "name": "[Ghi chép] Theme 4-Dạng 1.pdf",
+                  "mimeType": "application/pdf",
+                  "size": 30096390,
+                  "webViewLink": "https://drive.google.com/file/d/1F_YqjTUlx-H3XufgXTNmj_wwDhBWNcdB/view?usp=drivesdk",
+                  "modifiedTime": "2026-05-22T16:17:07.006Z",
+                  "videoMediaMetadata": null
+                },
+                {
+                  "id": "1yXQXmuvaxz-hbBEnHjFYKFW5s08T5B8U",
+                  "name": "[Handout] BTRL Theme 4-Dạng 1.pdf",
+                  "mimeType": "application/pdf",
+                  "size": 751077,
+                  "webViewLink": "https://drive.google.com/file/d/1yXQXmuvaxz-hbBEnHjFYKFW5s08T5B8U/view?usp=drivesdk",
+                  "modifiedTime": "2026-05-22T16:17:07.013Z",
+                  "videoMediaMetadata": null
+                },
+                {
+                  "id": "1AzkUoyjAXrF9u8SzWhQvYvRQgbZprVcp",
+                  "name": "[Tài liệu] Theme 4-Dạng 1.pdf",
+                  "mimeType": "application/pdf",
+                  "size": 11577575,
+                  "webViewLink": "https://drive.google.com/file/d/1AzkUoyjAXrF9u8SzWhQvYvRQgbZprVcp/view?usp=drivesdk",
+                  "modifiedTime": "2026-05-22T16:17:07.001Z",
+                  "videoMediaMetadata": null
+                },
+                {
+                  "id": "1U9IisV4kYAI42nNDZZSQbxwPnbAFPH1A",
+                  "name": "Theme 4. Đường tiệm cận của đồ thị hàm số - Buổi 2.mp4",
+                  "mimeType": "video/mp4",
+                  "size": 255687332,
+                  "webViewLink": "https://drive.google.com/file/d/1U9IisV4kYAI42nNDZZSQbxwPnbAFPH1A/view?usp=drivesdk",
+                  "modifiedTime": "2026-05-22T16:17:07.008Z",
+                  "videoMediaMetadata": null
+                }
+              ]
+            }
+          ],
+          "files": []
+        },
+        {
+          "id": "1FuXXKbsbEuZ-tuzJQBeI09SZRGo34C3X",
+          "name": "Phụ lục. 8 chủ đề Toán 10, 11 cần nắm để học lên chương trình Toán 12",
+          "webViewLink": "https://drive.google.com/drive/folders/1FuXXKbsbEuZ-tuzJQBeI09SZRGo34C3X",
+          "modifiedTime": "2026-04-27T16:00:37.844Z",
+          "children": [
+            {
+              "id": "17aTu81SSgJqxjsR4mKvedoh7bSP8J73J",
+              "name": "01. Theme 1. Các quy tắc tính đạo hàm",
+              "webViewLink": "https://drive.google.com/drive/folders/17aTu81SSgJqxjsR4mKvedoh7bSP8J73J",
+              "modifiedTime": "2026-04-27T16:01:15.684Z",
+              "children": [],
+              "files": [
+                {
+                  "id": "1V8-Ish4hosm56xCcu5eUcXioQEcsshjf",
+                  "name": "[Handout chi tiết] BON2026-Nền tảng-Theme 1.pdf",
+                  "mimeType": "application/pdf",
+                  "size": 65273484,
+                  "webViewLink": "https://drive.google.com/file/d/1V8-Ish4hosm56xCcu5eUcXioQEcsshjf/view?usp=drivesdk",
+                  "modifiedTime": "2026-04-27T16:01:20.871Z",
+                  "videoMediaMetadata": null
+                },
+                {
+                  "id": "1p3jomhJ_CNLLsHSv1WvF3PtfYNtYpq9k",
+                  "name": "[Tài liệu buổi học] BON2027-Nền tảng-Theme 1.pdf",
+                  "mimeType": "application/pdf",
+                  "size": 7845145,
+                  "webViewLink": "https://drive.google.com/file/d/1p3jomhJ_CNLLsHSv1WvF3PtfYNtYpq9k/view?usp=drivesdk",
+                  "modifiedTime": "2026-04-27T16:01:22.271Z",
+                  "videoMediaMetadata": null
+                },
+                {
+                  "id": "1RxrTESOtDQRh6pu4aNQUTC1B0wOl5iVV",
+                  "name": "[Tài liệu bản ghi chép] BON2026-Nền tảng-Theme 1.pdf",
+                  "mimeType": "application/pdf",
+                  "size": 13533350,
+                  "webViewLink": "https://drive.google.com/file/d/1RxrTESOtDQRh6pu4aNQUTC1B0wOl5iVV/view?usp=drivesdk",
+                  "modifiedTime": "2026-04-27T16:01:19.276Z",
+                  "videoMediaMetadata": null
+                },
+                {
+                  "id": "1PH8fnivszgGSNscHTe9Bd1lTRPTIfrc9",
+                  "name": "Theme 1. Các quy tắc tính đạo hàm.mp4",
+                  "mimeType": "video/mp4",
+                  "size": 818822532,
+                  "webViewLink": "https://drive.google.com/file/d/1PH8fnivszgGSNscHTe9Bd1lTRPTIfrc9/view?usp=drivesdk",
+                  "modifiedTime": "2026-04-27T16:01:16.485Z",
+                  "videoMediaMetadata": {
+                    "width": 1920,
+                    "height": 1080,
+                    "durationMillis": "5378433"
+                  }
+                }
+              ]
+            },
+            {
+              "id": "1vKCZTKplbU2_W9n5qcJTQgggi-VDAVDM",
+              "name": "02. Theme 2. Đạo hàm hàm hợp - đạo hàm cấp hai",
+              "webViewLink": "https://drive.google.com/drive/folders/1vKCZTKplbU2_W9n5qcJTQgggi-VDAVDM",
+              "modifiedTime": "2026-04-27T16:01:23.666Z",
+              "children": [],
+              "files": [
+                {
+                  "id": "18dTofqQfQjsDw5VqdfBVVL7FiPn8nqVK",
+                  "name": "[Handout chi tiết] BON2026-Nền tảng-Theme 2.pdf",
+                  "mimeType": "application/pdf",
+                  "size": 57236384,
+                  "webViewLink": "https://drive.google.com/file/d/18dTofqQfQjsDw5VqdfBVVL7FiPn8nqVK/view?usp=drivesdk",
+                  "modifiedTime": "2026-04-27T16:01:28.038Z",
+                  "videoMediaMetadata": null
+                },
+                {
+                  "id": "197rX4lrT3cyQIyAYsT9gTl4I7ZcrDPQD",
+                  "name": "[Tài liệu buổi học] BON2027-Nền tảng-Theme 2.pdf",
+                  "mimeType": "application/pdf",
+                  "size": 7166400,
+                  "webViewLink": "https://drive.google.com/file/d/197rX4lrT3cyQIyAYsT9gTl4I7ZcrDPQD/view?usp=drivesdk",
+                  "modifiedTime": "2026-04-27T16:01:29.589Z",
+                  "videoMediaMetadata": null
+                },
+                {
+                  "id": "11TkiwFxgNktKU6sDknVszSRRnh8yHTwo",
+                  "name": "[Tài liệu bản ghi chép] BON2026-Nền tảng-Theme 2.pdf",
+                  "mimeType": "application/pdf",
+                  "size": 12862824,
+                  "webViewLink": "https://drive.google.com/file/d/11TkiwFxgNktKU6sDknVszSRRnh8yHTwo/view?usp=drivesdk",
+                  "modifiedTime": "2026-04-27T16:01:26.155Z",
+                  "videoMediaMetadata": null
+                },
+                {
+                  "id": "1G0pxNZFSgasQQ-gLfcAtYKy7bTDG5hac",
+                  "name": "Theme 2. Đạo hàm hàm hợp - đạo hàm cấp hai.mp4",
+                  "mimeType": "video/mp4",
+                  "size": 762149368,
+                  "webViewLink": "https://drive.google.com/file/d/1G0pxNZFSgasQQ-gLfcAtYKy7bTDG5hac/view?usp=drivesdk",
+                  "modifiedTime": "2026-04-27T16:01:24.558Z",
+                  "videoMediaMetadata": null
+                }
+              ]
+            },
+            {
+              "id": "1QaGjVuGVEvikbR6dA09atNfmC6-v2HuR",
+              "name": "03. Theme 3. Các khái niệm mở đầu về vectơ",
+              "webViewLink": "https://drive.google.com/drive/folders/1QaGjVuGVEvikbR6dA09atNfmC6-v2HuR",
+              "modifiedTime": "2026-04-27T16:01:31.026Z",
+              "children": [],
+              "files": [
+                {
+                  "id": "1mYfClIycE7IR8haM4qCKDZ9ucVZsdQ_x",
+                  "name": "[Handout chi tiết] BON2026-Nền tảng-Theme 3.pdf",
+                  "mimeType": "application/pdf",
+                  "size": 64385480,
+                  "webViewLink": "https://drive.google.com/file/d/1mYfClIycE7IR8haM4qCKDZ9ucVZsdQ_x/view?usp=drivesdk",
+                  "modifiedTime": "2026-04-27T16:01:34.598Z",
+                  "videoMediaMetadata": null
+                },
+                {
+                  "id": "13nZr3YQ5KvPO1h6NAM1GDjGiXYvr8jO6",
+                  "name": "[Tài liệu buổi học] BON2027-Nền tảng-Theme 3.pdf",
+                  "mimeType": "application/pdf",
+                  "size": 7527940,
+                  "webViewLink": "https://drive.google.com/file/d/13nZr3YQ5KvPO1h6NAM1GDjGiXYvr8jO6/view?usp=drivesdk",
+                  "modifiedTime": "2026-04-27T16:01:36.181Z",
+                  "videoMediaMetadata": null
+                },
+                {
+                  "id": "1ZjDOZtCPZi05kUOrI3ZGggE2foBV6AFF",
+                  "name": "[Tài liệu bản ghi chép] BON2026-Nền tảng-Theme 3.pdf",
+                  "mimeType": "application/pdf",
+                  "size": 13279253,
+                  "webViewLink": "https://drive.google.com/file/d/1ZjDOZtCPZi05kUOrI3ZGggE2foBV6AFF/view?usp=drivesdk",
+                  "modifiedTime": "2026-04-27T16:01:33.137Z",
+                  "videoMediaMetadata": null
+                },
+                {
+                  "id": "19L0g392qZ_oNd1iy7431qdYsNZTqCe8S",
+                  "name": "Theme 3. Các khái niệm mở đầu về vectơ.mp4",
+                  "mimeType": "video/mp4",
+                  "size": 470610436,
+                  "webViewLink": "https://drive.google.com/file/d/19L0g392qZ_oNd1iy7431qdYsNZTqCe8S/view?usp=drivesdk",
+                  "modifiedTime": "2026-04-27T16:01:31.787Z",
+                  "videoMediaMetadata": {
+                    "width": 1280,
+                    "height": 720,
+                    "durationMillis": "3873866"
+                  }
+                }
+              ]
+            },
+            {
+              "id": "1hITxp7Cgnxt_u6_Xb18xjcAqMw2woNSh",
+              "name": "04. Theme 4. Tổng và hiệu của hai vectơ",
+              "webViewLink": "https://drive.google.com/drive/folders/1hITxp7Cgnxt_u6_Xb18xjcAqMw2woNSh",
+              "modifiedTime": "2026-04-27T16:00:45.514Z",
+              "children": [],
+              "files": [
+                {
+                  "id": "1u3xZvNNptn6VaKg0qrXHQl2DBwle1ZIw",
+                  "name": "[Handout chi tiết] BON2026-Nền tảng-Theme 4.pdf",
+                  "mimeType": "application/pdf",
+                  "size": 69370034,
+                  "webViewLink": "https://drive.google.com/file/d/1u3xZvNNptn6VaKg0qrXHQl2DBwle1ZIw/view?usp=drivesdk",
+                  "modifiedTime": "2026-04-27T16:00:50.184Z",
+                  "videoMediaMetadata": null
+                },
+                {
+                  "id": "11EIBHzECpVjhhklQD_W1lYXo3I30ZDsJ",
+                  "name": "[Tài liệu buổi học] BON2027-Nền tảng-Theme 4.pdf",
+                  "mimeType": "application/pdf",
+                  "size": 7817338,
+                  "webViewLink": "https://drive.google.com/file/d/11EIBHzECpVjhhklQD_W1lYXo3I30ZDsJ/view?usp=drivesdk",
+                  "modifiedTime": "2026-04-27T16:00:52.104Z",
+                  "videoMediaMetadata": null
+                },
+                {
+                  "id": "17avkR2NshN5ufNXtIh2RB25Xdd2UnXmH",
+                  "name": "[Tài liệu bản ghi chép] BON2026-Nền tảng-Theme 4.pdf",
+                  "mimeType": "application/pdf",
+                  "size": 12832318,
+                  "webViewLink": "https://drive.google.com/file/d/17avkR2NshN5ufNXtIh2RB25Xdd2UnXmH/view?usp=drivesdk",
+                  "modifiedTime": "2026-04-27T16:00:48.721Z",
+                  "videoMediaMetadata": null
+                },
+                {
+                  "id": "1KggedeH3GI2idZ1mmhDZrJu1f-T5H41c",
+                  "name": "Theme 4. Tổng và hiệu của hai vectơ.mp4",
+                  "mimeType": "video/mp4",
+                  "size": 598976460,
+                  "webViewLink": "https://drive.google.com/file/d/1KggedeH3GI2idZ1mmhDZrJu1f-T5H41c/view?usp=drivesdk",
+                  "modifiedTime": "2026-04-27T16:00:46.872Z",
+                  "videoMediaMetadata": {
+                    "width": 1280,
+                    "height": 720,
+                    "durationMillis": "4914466"
+                  }
+                }
+              ]
+            },
+            {
+              "id": "1fgMO8YcpZGo6cerCWl2cpA9AkYyaJH3h",
+              "name": "05. Theme 5. Tích của một vecto với một số",
+              "webViewLink": "https://drive.google.com/drive/folders/1fgMO8YcpZGo6cerCWl2cpA9AkYyaJH3h",
+              "modifiedTime": "2026-04-27T16:00:53.556Z",
+              "children": [],
+              "files": [
+                {
+                  "id": "1uK0oqbcpyVidmVzyhaqsmyFl_7gU0eHq",
+                  "name": "[Handout chi tiết] BON2026-Nền tảng-Theme 5.pdf",
+                  "mimeType": "application/pdf",
+                  "size": 62183208,
+                  "webViewLink": "https://drive.google.com/file/d/1uK0oqbcpyVidmVzyhaqsmyFl_7gU0eHq/view?usp=drivesdk",
+                  "modifiedTime": "2026-04-27T16:00:56.271Z",
+                  "videoMediaMetadata": null
+                },
+                {
+                  "id": "1vM88HdrpRUngke40bJNVGllN5HiACBJt",
+                  "name": "[Tài liệu buổi học] BON2027-Nền tảng-Theme 5.pdf",
+                  "mimeType": "application/pdf",
+                  "size": 6702090,
+                  "webViewLink": "https://drive.google.com/file/d/1vM88HdrpRUngke40bJNVGllN5HiACBJt/view?usp=drivesdk",
+                  "modifiedTime": "2026-04-27T16:00:57.708Z",
+                  "videoMediaMetadata": null
+                },
+                {
+                  "id": "1MM_DOrY-9U1vE-4lAdXb44RWwWLFEC1R",
+                  "name": "[Tài liệu bản ghi chép] BON2026-Nền tảng-Theme 5.pdf",
+                  "mimeType": "application/pdf",
+                  "size": 11706211,
+                  "webViewLink": "https://drive.google.com/file/d/1MM_DOrY-9U1vE-4lAdXb44RWwWLFEC1R/view?usp=drivesdk",
+                  "modifiedTime": "2026-04-27T16:00:59.619Z",
+                  "videoMediaMetadata": null
+                },
+                {
+                  "id": "1BVgJLpnUK6Tn6U7ka3jBVnuV5T27F-GE",
+                  "name": "Theme 5. Tích của một vecto với một số.mp4",
+                  "mimeType": "video/mp4",
+                  "size": 421387148,
+                  "webViewLink": "https://drive.google.com/file/d/1BVgJLpnUK6Tn6U7ka3jBVnuV5T27F-GE/view?usp=drivesdk",
+                  "modifiedTime": "2026-04-27T16:00:54.730Z",
+                  "videoMediaMetadata": null
+                }
+              ]
+            },
+            {
+              "id": "1HugUgf0fpvkC-Mopb8VuXJNlxCAcTsUU",
+              "name": "06. Theme 6. Quy tắc đếm",
+              "webViewLink": "https://drive.google.com/drive/folders/1HugUgf0fpvkC-Mopb8VuXJNlxCAcTsUU",
+              "modifiedTime": "2026-04-27T16:01:00.976Z",
+              "children": [],
+              "files": [
+                {
+                  "id": "1szyYuaMuT3C7jnsJuLahYWwgRD9Sox14",
+                  "name": "[Handout chi tiết] BON2026-Nền tảng-Theme 6.pdf",
+                  "mimeType": "application/pdf",
+                  "size": 72224231,
+                  "webViewLink": "https://drive.google.com/file/d/1szyYuaMuT3C7jnsJuLahYWwgRD9Sox14/view?usp=drivesdk",
+                  "modifiedTime": "2026-04-27T16:01:03.601Z",
+                  "videoMediaMetadata": null
+                },
+                {
+                  "id": "1LTBb38x1tHVHsW1xUURFLGUYC747GhXh",
+                  "name": "[Tài liệu buổi học] BON2027-Nền tảng-Theme 6.pdf",
+                  "mimeType": "application/pdf",
+                  "size": 7447313,
+                  "webViewLink": "https://drive.google.com/file/d/1LTBb38x1tHVHsW1xUURFLGUYC747GhXh/view?usp=drivesdk",
+                  "modifiedTime": "2026-04-27T16:01:05.018Z",
+                  "videoMediaMetadata": null
+                },
+                {
+                  "id": "1GuvQqaf3tQGY4-ZraUT0Fa5jRlbt2RWF",
+                  "name": "[Tài liệu bản ghi chép] BON2026-Nền tảng-Theme 6.pdf",
+                  "mimeType": "application/pdf",
+                  "size": 12539708,
+                  "webViewLink": "https://drive.google.com/file/d/1GuvQqaf3tQGY4-ZraUT0Fa5jRlbt2RWF/view?usp=drivesdk",
+                  "modifiedTime": "2026-04-27T16:01:06.903Z",
+                  "videoMediaMetadata": null
+                },
+                {
+                  "id": "1L07LbjNNY2ZR3iti2Lhoc5mqD1YAN6la",
+                  "name": "Theme 6. Quy tắc đếm.mp4",
+                  "mimeType": "video/mp4",
+                  "size": 732440104,
+                  "webViewLink": "https://drive.google.com/file/d/1L07LbjNNY2ZR3iti2Lhoc5mqD1YAN6la/view?usp=drivesdk",
+                  "modifiedTime": "2026-04-27T16:01:02.080Z",
+                  "videoMediaMetadata": {
+                    "width": 1920,
+                    "height": 1080,
+                    "durationMillis": "5109233"
+                  }
+                }
+              ]
+            },
+            {
+              "id": "1OTcudzCpd_oKzjOarVd73SAKee2LuOwd",
+              "name": "07. Theme 7. Hoán vị, chỉnh hợp, tổ hợp",
+              "webViewLink": "https://drive.google.com/drive/folders/1OTcudzCpd_oKzjOarVd73SAKee2LuOwd",
+              "modifiedTime": "2026-04-27T16:00:38.819Z",
+              "children": [],
+              "files": [
+                {
+                  "id": "17neI6NnSCwb9sc1PoaPXE8S_0KFDcp7Z",
+                  "name": "[Handout chi tiết] BON2026-Nền tảng-Theme 7.pdf",
+                  "mimeType": "application/pdf",
+                  "size": 52753988,
+                  "webViewLink": "https://drive.google.com/file/d/17neI6NnSCwb9sc1PoaPXE8S_0KFDcp7Z/view?usp=drivesdk",
+                  "modifiedTime": "2026-04-27T16:00:41.233Z",
+                  "videoMediaMetadata": null
+                },
+                {
+                  "id": "1GQTmsqlUlMbyLcGqUgaGjRLsTGK3Pwds",
+                  "name": "[Tài liệu buổi học] BON2027-Nền tảng-Theme 7.pdf",
+                  "mimeType": "application/pdf",
+                  "size": 7218290,
+                  "webViewLink": "https://drive.google.com/file/d/1GQTmsqlUlMbyLcGqUgaGjRLsTGK3Pwds/view?usp=drivesdk",
+                  "modifiedTime": "2026-04-27T16:00:42.494Z",
+                  "videoMediaMetadata": null
+                },
+                {
+                  "id": "11cHOUepqOEU3_bVk68mD3c_d7TFIiVBr",
+                  "name": "[Tài liệu bản ghi chép] BON2026-Nền tảng-Theme 7.pdf",
+                  "mimeType": "application/pdf",
+                  "size": 10807282,
+                  "webViewLink": "https://drive.google.com/file/d/11cHOUepqOEU3_bVk68mD3c_d7TFIiVBr/view?usp=drivesdk",
+                  "modifiedTime": "2026-04-27T16:00:44.025Z",
+                  "videoMediaMetadata": null
+                },
+                {
+                  "id": "1-0ASn0CjtmqMnl1J2j_TnuX46uNP9jWQ",
+                  "name": "Theme 7. Hoán vị, chỉnh hợp, tổ hợp.mp4",
+                  "mimeType": "video/mp4",
+                  "size": 696362528,
+                  "webViewLink": "https://drive.google.com/file/d/1-0ASn0CjtmqMnl1J2j_TnuX46uNP9jWQ/view?usp=drivesdk",
+                  "modifiedTime": "2026-04-27T16:00:39.593Z",
+                  "videoMediaMetadata": null
+                }
+              ]
+            },
+            {
+              "id": "1pDP67KGdoBhlfAGWoMqP5PWTtaoXzBUF",
+              "name": "08. Theme 8. Xác suất của biến cố",
+              "webViewLink": "https://drive.google.com/drive/folders/1pDP67KGdoBhlfAGWoMqP5PWTtaoXzBUF",
+              "modifiedTime": "2026-04-27T16:01:08.363Z",
+              "children": [],
+              "files": [
+                {
+                  "id": "1nMazHd9DcVjQQe1j829hI0sCMfSCCgwI",
+                  "name": "[Handout chi tiết] BON2026-Nền tảng-Theme 8.pdf",
+                  "mimeType": "application/pdf",
+                  "size": 57399682,
+                  "webViewLink": "https://drive.google.com/file/d/1nMazHd9DcVjQQe1j829hI0sCMfSCCgwI/view?usp=drivesdk",
+                  "modifiedTime": "2026-04-27T16:01:11.555Z",
+                  "videoMediaMetadata": null
+                },
+                {
+                  "id": "1fSI1LgNIYXDcNLeXD-KqL8RAcgPFe1pH",
+                  "name": "[Tài liệu buổi học] BON2027-Nền tảng-Theme 8.pdf",
+                  "mimeType": "application/pdf",
+                  "size": 5358089,
+                  "webViewLink": "https://drive.google.com/file/d/1fSI1LgNIYXDcNLeXD-KqL8RAcgPFe1pH/view?usp=drivesdk",
+                  "modifiedTime": "2026-04-27T16:01:12.843Z",
+                  "videoMediaMetadata": null
+                },
+                {
+                  "id": "19NdbAMFEAXN0Y-BFNuCMOCpdG5J5_Ihr",
+                  "name": "[Tài liệu bản ghi chép] BON2026-Nền tảng-Theme 8.pdf",
+                  "mimeType": "application/pdf",
+                  "size": 9691881,
+                  "webViewLink": "https://drive.google.com/file/d/19NdbAMFEAXN0Y-BFNuCMOCpdG5J5_Ihr/view?usp=drivesdk",
+                  "modifiedTime": "2026-04-27T16:01:14.265Z",
+                  "videoMediaMetadata": null
+                },
+                {
+                  "id": "1Cco0WYKQ9aqY7cS_e9bh1qggXYkREgcM",
+                  "name": "Theme 8. Xác suất của biến cố.mp4",
+                  "mimeType": "video/mp4",
+                  "size": 836316872,
+                  "webViewLink": "https://drive.google.com/file/d/1Cco0WYKQ9aqY7cS_e9bh1qggXYkREgcM/view?usp=drivesdk",
+                  "modifiedTime": "2026-04-27T16:01:09.567Z",
+                  "videoMediaMetadata": null
+                }
+              ]
+            }
+          ],
+          "files": []
+        }
+      ],
+      "files": [],
+      "webViewLink": "https://drive.google.com/drive/folders/1YpxFzj_sv4gYhSMjTOkE6jMUJ4nXEfv_",
+      "modifiedTime": "2026-04-17T16:25:31.366Z"
+    },
+    {
+      "id": "1uOx9oYgm4x5AAyAf_TNFQe_U8XLhLs6O",
+      "name": "2. STEP 2 2027 | Vận dụng Toán 12",
+      "children": [],
+      "files": [],
+      "webViewLink": "https://drive.google.com/drive/folders/1uOx9oYgm4x5AAyAf_TNFQe_U8XLhLs6O",
+      "modifiedTime": "2026-04-17T16:25:31.366Z"
+    },
+    {
+      "id": "11jgGE4xlfiLXM53nf3Alv90cXFKQzyyE",
+      "name": "3. STEP 3 2027 | Vận dụng cao Toán 12",
+      "children": [],
+      "files": [],
+      "webViewLink": "https://drive.google.com/drive/folders/11jgGE4xlfiLXM53nf3Alv90cXFKQzyyE",
+      "modifiedTime": "2026-04-17T16:25:31.366Z"
+    },
+    {
+      "id": "1sCgpYBQb5JtdUnhgZ5ZDbjO24gQEj3vM",
+      "name": "4. STEP 4 2027 | Tổng ôn & Luyện đề",
+      "children": [],
+      "files": [],
+      "webViewLink": "https://drive.google.com/drive/folders/1sCgpYBQb5JtdUnhgZ5ZDbjO24gQEj3vM",
+      "modifiedTime": "2026-04-17T16:25:31.366Z"
+    },
+    {
+      "id": "1rNUTHkUmyq-z3tAgw8qSJt1d7f15nLiK",
+      "name": "5. STEP 5 2027 | Killingcamp",
+      "children": [],
+      "files": [],
+      "webViewLink": "https://drive.google.com/drive/folders/1rNUTHkUmyq-z3tAgw8qSJt1d7f15nLiK",
+      "modifiedTime": "2026-04-17T16:25:31.366Z"
+    },
+    {
+      "id": "1kJoFFk6BJDz_oPnI1uUkkNPzwQ7q6uQN",
+      "name": "Nhập môn Hàm số - HHKG - Tổ hợp - Xác suất - Đạo hàm - Tiền đề Toán 12",
+      "children": [
+        {
+          "id": "1uUcKnVjr_lkH23rr1K2bLKNwVDSwut7j",
+          "name": "Part 2. 8 buổi học nhập môn Hàm số Toán 12 [Trích STEP 1 BON 2027]\t\t\t\t",
+          "webViewLink": "https://drive.google.com/drive/folders/1uUcKnVjr_lkH23rr1K2bLKNwVDSwut7j",
+          "modifiedTime": "2026-05-22T16:16:57.140Z",
+          "children": [],
+          "files": []
+        }
+      ],
+      "files": [],
+      "webViewLink": "https://drive.google.com/drive/folders/1kJoFFk6BJDz_oPnI1uUkkNPzwQ7q6uQN",
+      "modifiedTime": "2026-05-21T05:00:31.787Z"
+    },
+    {
+      "id": "1EGMYDrW5z5nVuL8qgEAa8MiQlDEJDzXn",
+      "name": "PHỤ ĐẠO THÊM | Ôn thi giữa kì, Cuối kì, Chữa đề trường sở 2026 - 2027",
+      "children": [],
+      "files": [],
+      "webViewLink": "https://drive.google.com/drive/folders/1EGMYDrW5z5nVuL8qgEAa8MiQlDEJDzXn",
+      "modifiedTime": "2026-04-17T16:25:31.366Z"
+    },
+    {
+      "id": "1q4WF4XA5bwJhM6ZuFOrn4dZJIfSNE8mh",
+      "name": "Z. EBOOK SÁCH KÈM KHOÁ HỌC",
+      "children": [],
+      "files": [],
+      "webViewLink": "https://drive.google.com/drive/folders/1q4WF4XA5bwJhM6ZuFOrn4dZJIfSNE8mh",
+      "modifiedTime": "2026-04-17T16:25:31.366Z"
+    },
+    {
+      "id": "1RHhIyUEK4CpAJSFq7Wddi7edMY00WKIz",
+      "name": "Đọc vị đề ĐGNL - ĐGTD",
+      "children": [],
+      "files": [],
+      "webViewLink": "https://drive.google.com/drive/folders/1RHhIyUEK4CpAJSFq7Wddi7edMY00WKIz",
+      "modifiedTime": "2026-04-17T16:25:31.366Z"
+    }
+  ]
+}

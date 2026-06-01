@@ -1,0 +1,18 @@
+{
+  "name": "drive-to-sheet",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "node --test \"test/**/*.test.js\""
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "@anthropic-ai/sdk": "^0.99.0",
+    "dotenv": "^17.4.2",
+    "googleapis": "^172.0.0"
+  }
+}
